@@ -1,0 +1,76 @@
+name: CD | Getting repositories data in CSV format
+
+on:
+  schedule:
+    - cron: '0 0/6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: "getting-repositories-data"
+
+jobs:
+  generate-data:
+    runs-on: ubuntu-latest
+
+    env:
+      LOCALES: "de en-us es fr ja ko pt-br ru zh-cn zh-tw"
+
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd #v6.0.2
+      - uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6.2.0
+        with:
+          python-version: '3.13.9'
+
+      - name: Clone MDN content repo
+        run: git clone https://github.com/mdn/content.git content
+
+      - name: Clone MDN translated-content repo
+        run: git clone https://github.com/mdn/translated-content.git translated-content
+
+      - name: Clone MDN translated-content-de repo
+        run: git clone https://github.com/mdn/translated-content-de.git translated-content-de
+
+      - name: Generate logs files
+        shell: bash
+        run: |
+          mkdir -p history
+          for locale in $LOCALES; do
+            if [ "$locale" = "en-us" ]; then
+              python .github/scripts/extract-mdn-logs.py content $locale
+            elif [ "$locale" = "de" ]; then
+              python .github/scripts/extract-mdn-logs.py translated-content-de $locale
+            else
+              python .github/scripts/extract-mdn-logs.py translated-content $locale
+            fi
+          done
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@c0f553fe549906ede9cf27b5156039d195d2ece0 #v8.1.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore(data): synchronize repositories data"
+          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
+          signoff: true
+          title: "chore(data): synchronize repositories data"
+          body: |
+            This PR updates the repositories data in CSV format.
+            - Updated en-us locale (default locale)
+            - Updated de locale
+            - Updated es locale
+            - Updated fr locale
+            - Updated ja locale
+            - Updated ko locale
+            - Updated pt-br locale
+            - Updated ru locale
+            - Updated zh-cn locale
+            - Updated zh-tw locale
+          base: main
+          branch: sync/update-repositories-data
+          labels: automated-pr
+          assignees: tristantheb
+          reviewers: tristantheb
