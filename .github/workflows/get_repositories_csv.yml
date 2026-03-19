@@ -40,11 +40,11 @@ jobs:
           mkdir -p history
           for locale in $LOCALES; do
             if [ "$locale" = "en-us" ]; then
-              python .github/scripts/extract-mdn-logs.py content $locale
+              python scripts/extract-mdn-logs.py content $locale
             elif [ "$locale" = "de" ]; then
-              python .github/scripts/extract-mdn-logs.py translated-content-de $locale
+              python scripts/extract-mdn-logs.py translated-content-de $locale
             else
-              python .github/scripts/extract-mdn-logs.py translated-content $locale
+              python scripts/extract-mdn-logs.py translated-content $locale
             fi
           done
 
