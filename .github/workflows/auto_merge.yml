@@ -3,6 +3,8 @@ name: CI | Auto merge pull requests
 on:
   pull_request:
     types:
+      - opened
+      - synchronize
       - labeled
     branches:
       - main
