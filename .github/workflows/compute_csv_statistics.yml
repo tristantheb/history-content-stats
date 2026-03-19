@@ -31,7 +31,7 @@ jobs:
         run: |
           mkdir -p statistics
           for locale in $LOCALES; do
-            python .github/scripts/generate-stats.py $locale
+            python scripts/generate-stats.py $locale
           done
 
       - name: Create pull request

@@ -47,7 +47,7 @@ def _write_csv_file(out_file: str, data: List[str], others: str = "") -> None:
 
 # Get commit source and categories for english repo.
 # @Experimental: this function use an git command marked as experimental.
-def get_last_commit(repo: str, lang: str) -> Optional[List[str]]:
+def get_last_commit(repo: str, lang: str) -> None:
   args = ["last-modified", "-r", "--format=%H,%f", "--", f"./files/{lang}/*.md"]
   completed_process = subprocess.run(["git", "-C", repo, *args], capture_output=True, text=True)
 
@@ -73,6 +73,8 @@ def get_last_commit(repo: str, lang: str) -> Optional[List[str]]:
       array_categories = ["Other"]
 
     rows.append(f"{path},{source_commit},{'|'.join(array_categories)}")
+
+  rows.sort(key=lambda r: r.split(",", 1)[0])
 
   # Write to CSV
   _write_csv_file(DEFAULT_OUT_FILE_TEMPLATE.format(lang), rows, ",Categories")
@@ -126,7 +128,7 @@ def main(argv: Optional[List[str]] = None) -> None:
   lang = argv[1] if len(argv) > 1 else DEFAULT_LANG
 
   if lang == "en-us":
-    content = get_last_commit(repo, lang)
+    get_last_commit(repo, lang)
     elapsed = time.time() - start
   elif lang:
     content = get_l10n_source_commit(repo, lang)
