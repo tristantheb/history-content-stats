@@ -5,8 +5,7 @@ on:
     types:
       - labeled
     branches:
-      - sync/update-repositories-data
-      - sync/update-statistics-data
+      - main
 
 permissions:
   contents: write
@@ -14,6 +13,7 @@ permissions:
 
 jobs:
   auto-merge:
+    if: ${{ github.event.label.name == 'automated-pr' }}
     runs-on: ubuntu-latest
 
     steps:
