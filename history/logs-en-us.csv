@@ -1892,7 +1892,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,09109b6f9444d22215ba330e
 mozilla/add-ons/webextensions/your_first_webextension,06e6e54baef7032c4e81ca93291fde0a0585de8b,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,06e6e54baef7032c4e81ca93291fde0a0585de8b,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,fa3c5c29a9d186b9970860bff1f513d3fb4ca354,Mozilla|Firefox
+mozilla/firefox/experimental_features,a4fdc4181944845704f935e735ec09db1894aba2,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1953,7 +1953,7 @@ mozilla/firefox/releases/145,30487c754854c3f21157827914eefb94d0e5bd4d,Mozilla|Fi
 mozilla/firefox/releases/146,fa422ef89f5da5c7bc10a03f8e84b01b8132061c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Firefox|Versions
 mozilla/firefox/releases/148,c49748a0ce4fdf77427e29cb6edbca8953a514e7,Mozilla|Firefox|Versions
-mozilla/firefox/releases/149,8ae151e4d6b1ee73aef9d8e10222241f053b9e38,Mozilla|Firefox|Versions
+mozilla/firefox/releases/149,a4fdc4181944845704f935e735ec09db1894aba2,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -5635,7 +5635,7 @@ web/api/imagetracklist/selectedindex,a7482281c4570bb7f932dce381f510d87ddf9924,We
 web/api/imagetracklist/selectedtrack,a7482281c4570bb7f932dce381f510d87ddf9924,Web APIs
 web/api/indexeddb_api,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/indexeddb_api/basic_terminology,941ade970fd7ebad52af692b6ac27cfd96f94100,Web APIs
-web/api/indexeddb_api/checking_when_a_deadline_is_due,fd56a549d24a8002df09735ee8319ce1a721c233,Web APIs
+web/api/indexeddb_api/checking_when_a_deadline_is_due,e6f2bf43b5c3adb492ca11261ea5cf71dd3fa935,Web APIs
 web/api/indexeddb_api/using_indexeddb,e254dd0d1fde812e8457406c00f1beacd1e4b8d4,Web APIs
 web/api/ink,bcc977bc3e79a87edd64cd9ef977b515f63daa2c,Web APIs
 web/api/ink/requestpresenter,bcc977bc3e79a87edd64cd9ef977b515f63daa2c,Web APIs
@@ -10434,7 +10434,7 @@ web/css/reference,93b85a5bc2b4589d93185263fd2c14381c36f821,CSS
 web/css/reference/at-rules,3ee2355c3c90cf92c3119b82f8ebfa5d16c91c53,CSS|At-rules
 web/css/reference/at-rules/@charset,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
 web/css/reference/at-rules/@color-profile,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
-web/css/reference/at-rules/@container,6f498c48ad30499640fd721896f13949aded9990,CSS|At-rules
+web/css/reference/at-rules/@container,6e46ba1a7ac7aa2268afd0ecd079f221ef6d9af4,CSS|At-rules
 web/css/reference/at-rules/@counter-style,33094d735e90b4dcae5733331b79c51fee997410,CSS|At-rules
 web/css/reference/at-rules/@counter-style/additive-symbols,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a,CSS|At-rules
 web/css/reference/at-rules/@counter-style/fallback,33094d735e90b4dcae5733331b79c51fee997410,CSS|At-rules
