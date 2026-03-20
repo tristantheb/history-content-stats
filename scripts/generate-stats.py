@@ -2,6 +2,7 @@
 """
 Usage: python .github/scripts/generate-stats.py [locale]
 """
+import time
 import sys
 from datetime import date
 
@@ -50,6 +51,9 @@ def _get_stats_from_locale(lang: str) -> str:
 
 
 def main(args: list[str]) -> None:
+  # Log time
+  start = time.time()
+
   if len(args) != 1:
     print("::error::Usage: generate-stats.py <locale>")
     exit(1)
@@ -66,8 +70,12 @@ def main(args: list[str]) -> None:
     with open(out_file, "a", encoding="utf-8") as f:
       f.write(f"{date_str},{stats}\n")
   except Exception as e:
-    print(f"::error::Failed to write stats to file: {e}")
+    elapsed = time.time() - start
+    print(f"::error::Failed after {elapsed:.2f} seconds, to write {e} !")
     exit(1)
+
+  elapsed = time.time() - start
+  print(f"::notice::Finished after {elapsed:.2f} seconds, logs-{locale}.csv is ready !")
   exit(0)
 
 
