@@ -3818,6 +3818,8 @@ web/api/page_visibility_api,21ed9a1338b207e8a39064583c19d9f720235235
 web/api/pagetransitionevent,no_hash_commit
 web/api/pagetransitionevent/pagetransitionevent,aa8fa82a902746b0bd97839180fc2b5397088140
 web/api/pagetransitionevent/persisted,no_hash_commit
+web/api/paintsize/height,e80499f4efc4eaf0c4e1657748a77b30224e7bb7
+web/api/paintsize/width,e80499f4efc4eaf0c4e1657748a77b30224e7bb7
 web/api/path2d/addpath,no_hash_commit
 web/api/path2d,no_hash_commit
 web/api/path2d/path2d,no_hash_commit

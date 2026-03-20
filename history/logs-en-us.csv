@@ -6370,7 +6370,7 @@ web/api/node/appendchild,79fdc26fea835d65c9361541bb8ab1896f307475,Web APIs
 web/api/node/baseuri,b7c9a25bc747b8a4a3dfd91a37ac1b2193414c3a,Web APIs
 web/api/node/childnodes,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/node/clonenode,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
-web/api/node/comparedocumentposition,cfb7587e3e3122630ad6cbd94d834ecadbe0a746,Web APIs
+web/api/node/comparedocumentposition,59f510e3cca77e928a0300b61a5112386a990046,Web APIs
 web/api/node/contains,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
 web/api/node/firstchild,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/node/getrootnode,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -9619,7 +9619,7 @@ web/api/webxr_device_api/rendering,9a4005caa5cc13f5174e3b8981eeec5631ed83d1,Web 
 web/api/webxr_device_api/spatial_tracking,cda88aaf82e8bc03b3826396d96aab18a669134c,Web APIs
 web/api/webxr_device_api/startup_and_shutdown,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/webxr_device_api/targeting,4f0f7386262363103a3e9cf482bb348d8570b331,Web APIs
-web/api/wgsllanguagefeatures,4d90fa2de9c90af02c581e294adaa67093fdfd4e,Web APIs
+web/api/wgsllanguagefeatures,a5acd8da14cc41b35cd479cda34f173e8702f992,Web APIs
 web/api/wheelevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltamode,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltax,d783c87acb536c6c142792d263f813c88808551b,Web APIs
