@@ -62,7 +62,7 @@ jobs:
           add-paths: history/*.csv
           commit-message: "sync(data): synchronize repositories data"
           committer: ${{ vars.GPG_COMMITTER }}
-          author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
+          author: ${{ vars.GPG_COMMITTER }}
           sign-commits: true
           title: "sync(data): synchronize repositories data"
           body: |

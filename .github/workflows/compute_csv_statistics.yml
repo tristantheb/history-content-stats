@@ -48,7 +48,7 @@ jobs:
           add-paths: statistics/*.csv
           commit-message: "sync(data): synchronize statistics data"
           committer: ${{ vars.GPG_COMMITTER }}
-          author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
+          author: ${{ vars.GPG_COMMITTER }}
           sign-commits: true
           signoff: true
           title: "sync(data): synchronize statistics data"
