@@ -1145,7 +1145,7 @@ mozilla/add-ons/webextensions/api/action,0bbc83440e89ae434a8d798453511e82de79a35
 mozilla/add-ons/webextensions/api/action/isenabled,3cc1a6783def002ef12a3d9420af77cb11cf4b3a
 mozilla/add-ons/webextensions/api/action/onclicked,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/action/onusersettingschanged,0bbc83440e89ae434a8d798453511e82de79a356
-mozilla/add-ons/webextensions/api/action/openpopup,9ccb27e3072098028db8651e8b4df980d5e01e71
+mozilla/add-ons/webextensions/api/action/openpopup,8ae151e4d6b1ee73aef9d8e10222241f053b9e38
 mozilla/add-ons/webextensions/api/action/setbadgebackgroundcolor,f69b6693212029ce4b9fa0c753729044577af548
 mozilla/add-ons/webextensions/api/action/setbadgetext,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/action/setbadgetextcolor,f69b6693212029ce4b9fa0c753729044577af548
@@ -1197,7 +1197,7 @@ mozilla/add-ons/webextensions/api/browseraction,0bbc83440e89ae434a8d798453511e82
 mozilla/add-ons/webextensions/api/browseraction/isenabled,3cc1a6783def002ef12a3d9420af77cb11cf4b3a
 mozilla/add-ons/webextensions/api/browseraction/onclicked,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/browseraction/onusersettingschanged,0bbc83440e89ae434a8d798453511e82de79a356
-mozilla/add-ons/webextensions/api/browseraction/openpopup,9ccb27e3072098028db8651e8b4df980d5e01e71
+mozilla/add-ons/webextensions/api/browseraction/openpopup,8ae151e4d6b1ee73aef9d8e10222241f053b9e38
 mozilla/add-ons/webextensions/api/browseraction/setbadgebackgroundcolor,f69b6693212029ce4b9fa0c753729044577af548
 mozilla/add-ons/webextensions/api/browseraction/setbadgetext,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/browseraction/setbadgetextcolor,f69b6693212029ce4b9fa0c753729044577af548
@@ -1951,7 +1951,7 @@ mozilla/firefox/releases/145,30487c754854c3f21157827914eefb94d0e5bd4d
 mozilla/firefox/releases/146,fa422ef89f5da5c7bc10a03f8e84b01b8132061c
 mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed
 mozilla/firefox/releases/148,c49748a0ce4fdf77427e29cb6edbca8953a514e7
-mozilla/firefox/releases/149,1ba0755482292cd52e89cf96fda34000c8e60c91
+mozilla/firefox/releases/149,8ae151e4d6b1ee73aef9d8e10222241f053b9e38
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/150,21638327a5baa7ecf918835c4a233a74f25b02ed
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127
@@ -6368,7 +6368,7 @@ web/api/node/appendchild,79fdc26fea835d65c9361541bb8ab1896f307475
 web/api/node/baseuri,b7c9a25bc747b8a4a3dfd91a37ac1b2193414c3a
 web/api/node/childnodes,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/node/clonenode,730741c750cc299b85798f1adbaf7adbd6e2016d
-web/api/node/comparedocumentposition,cfb7587e3e3122630ad6cbd94d834ecadbe0a746
+web/api/node/comparedocumentposition,59f510e3cca77e928a0300b61a5112386a990046
 web/api/node/contains,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
 web/api/node/firstchild,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/node/getrootnode,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
@@ -9618,7 +9618,7 @@ web/api/webxr_device_api/rendering,9a4005caa5cc13f5174e3b8981eeec5631ed83d1
 web/api/webxr_device_api/spatial_tracking,cda88aaf82e8bc03b3826396d96aab18a669134c
 web/api/webxr_device_api/startup_and_shutdown,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/api/webxr_device_api/targeting,4f0f7386262363103a3e9cf482bb348d8570b331
-web/api/wgsllanguagefeatures,4d90fa2de9c90af02c581e294adaa67093fdfd4e
+web/api/wgsllanguagefeatures,a5acd8da14cc41b35cd479cda34f173e8702f992
 web/api/wheelevent/deltamode,d783c87acb536c6c142792d263f813c88808551b
 web/api/wheelevent/deltax,d783c87acb536c6c142792d263f813c88808551b
 web/api/wheelevent/deltay,d783c87acb536c6c142792d263f813c88808551b
@@ -10256,7 +10256,7 @@ web/css/guides/conditional_rules/container_scroll-state_queries,c55c9e2191ad434c
 web/css/guides/conditional_rules,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/conditional_rules/using_feature_queries,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/containment/container_queries,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/guides/containment/container_size_and_style_queries,33094d735e90b4dcae5733331b79c51fee997410
+web/css/guides/containment/container_size_and_style_queries,6f498c48ad30499640fd721896f13949aded9990
 web/css/guides/containment,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/containment/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/counter_styles,33094d735e90b4dcae5733331b79c51fee997410
@@ -10431,7 +10431,7 @@ web/css/how_to/layout_cookbook/sticky_footers,85fccefc8066bd49af4ddafc12c77f3526
 web/css,423161782178b119c64cd0b41bff8df20dc84a56
 web/css/reference/at-rules/@charset,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@color-profile,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/at-rules/@container,c55c9e2191ad434c496c3a1edd323f8ba24486d6
+web/css/reference/at-rules/@container,6f498c48ad30499640fd721896f13949aded9990
 web/css/reference/at-rules/@counter-style/additive-symbols,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a
 web/css/reference/at-rules/@counter-style/fallback,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/at-rules/@counter-style,33094d735e90b4dcae5733331b79c51fee997410
