@@ -61,7 +61,7 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           add-paths: history/*.csv
           commit-message: "sync(data): synchronize repositories data"
-          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          committer: ${{ vars.GPG_COMMITTER }}
           author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
           sign-commits: true
           title: "sync(data): synchronize repositories data"
