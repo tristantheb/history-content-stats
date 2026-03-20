@@ -1148,7 +1148,7 @@ mozilla/add-ons/webextensions/api/action/imagedatatype,09109b6f9444d22215ba330ec
 mozilla/add-ons/webextensions/api/action/isenabled,3cc1a6783def002ef12a3d9420af77cb11cf4b3a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/onclicked,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/onusersettingschanged,0bbc83440e89ae434a8d798453511e82de79a356,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/action/openpopup,9ccb27e3072098028db8651e8b4df980d5e01e71,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/action/openpopup,8ae151e4d6b1ee73aef9d8e10222241f053b9e38,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/setbadgebackgroundcolor,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/setbadgetext,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/setbadgetextcolor,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox Add-ons
@@ -1200,7 +1200,7 @@ mozilla/add-ons/webextensions/api/browseraction/imagedatatype,09109b6f9444d22215
 mozilla/add-ons/webextensions/api/browseraction/isenabled,3cc1a6783def002ef12a3d9420af77cb11cf4b3a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/browseraction/onclicked,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/browseraction/onusersettingschanged,0bbc83440e89ae434a8d798453511e82de79a356,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/browseraction/openpopup,9ccb27e3072098028db8651e8b4df980d5e01e71,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/browseraction/openpopup,8ae151e4d6b1ee73aef9d8e10222241f053b9e38,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/browseraction/setbadgebackgroundcolor,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/browseraction/setbadgetext,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/browseraction/setbadgetextcolor,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox Add-ons
@@ -1953,7 +1953,7 @@ mozilla/firefox/releases/145,30487c754854c3f21157827914eefb94d0e5bd4d,Mozilla|Fi
 mozilla/firefox/releases/146,fa422ef89f5da5c7bc10a03f8e84b01b8132061c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Firefox|Versions
 mozilla/firefox/releases/148,c49748a0ce4fdf77427e29cb6edbca8953a514e7,Mozilla|Firefox|Versions
-mozilla/firefox/releases/149,1ba0755482292cd52e89cf96fda34000c8e60c91,Mozilla|Firefox|Versions
+mozilla/firefox/releases/149,8ae151e4d6b1ee73aef9d8e10222241f053b9e38,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -10260,7 +10260,7 @@ web/css/guides/conditional_rules/container_scroll-state_queries,c55c9e2191ad434c
 web/css/guides/conditional_rules/using_feature_queries,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/containment,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/containment/container_queries,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/containment/container_size_and_style_queries,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
+web/css/guides/containment/container_size_and_style_queries,6f498c48ad30499640fd721896f13949aded9990,CSS|Guides
 web/css/guides/containment/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/counter_styles,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/counter_styles/using_counters,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
@@ -10434,7 +10434,7 @@ web/css/reference,93b85a5bc2b4589d93185263fd2c14381c36f821,CSS
 web/css/reference/at-rules,3ee2355c3c90cf92c3119b82f8ebfa5d16c91c53,CSS|At-rules
 web/css/reference/at-rules/@charset,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
 web/css/reference/at-rules/@color-profile,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
-web/css/reference/at-rules/@container,c55c9e2191ad434c496c3a1edd323f8ba24486d6,CSS|At-rules
+web/css/reference/at-rules/@container,6f498c48ad30499640fd721896f13949aded9990,CSS|At-rules
 web/css/reference/at-rules/@counter-style,33094d735e90b4dcae5733331b79c51fee997410,CSS|At-rules
 web/css/reference/at-rules/@counter-style/additive-symbols,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a,CSS|At-rules
 web/css/reference/at-rules/@counter-style/fallback,33094d735e90b4dcae5733331b79c51fee997410,CSS|At-rules
