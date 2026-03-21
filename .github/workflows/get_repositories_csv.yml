@@ -81,5 +81,3 @@ jobs:
           branch: sync/update-repositories-data
           delete-branch: true
           labels: automated-pr
-          assignees: tristantheb
-          reviewers: tristantheb

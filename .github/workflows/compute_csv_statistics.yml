@@ -66,5 +66,3 @@ jobs:
           base: main
           branch: sync/update-statistics-data
           labels: automated-pr
-          assignees: tristantheb
-          reviewers: tristantheb
