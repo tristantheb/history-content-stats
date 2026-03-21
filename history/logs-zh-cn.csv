@@ -6881,6 +6881,7 @@ web/javascript/reference/global_objects/symbol/tostringtag,no_hash_commit
 web/javascript/reference/global_objects/symbol/unscopables,no_hash_commit
 web/javascript/reference/global_objects/symbol/valueof,27180875516cc311342e74b596bfb589b7211e0c
 web/javascript/reference/global_objects/syntaxerror,no_hash_commit
+web/javascript/reference/global_objects/temporal,7e14795a6ef2bf5e760c315ce64800dd1cd98c29
 web/javascript/reference/global_objects/typedarray/buffer,no_hash_commit
 web/javascript/reference/global_objects/typedarray/bytelength,no_hash_commit
 web/javascript/reference/global_objects/typedarray/byteoffset,e01fd6206ce2fad2fe09a485bb2d3ceda53a62de
