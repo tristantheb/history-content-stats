@@ -17,6 +17,11 @@ DEFAULT_LANG = "en-us"
 DEFAULT_OUT_FILE_TEMPLATE = "history/logs-{}.csv"
 categories = []
 
+# Get the last modified date of a file in ISO 8601 format.
+def _get_last_modified(repo: str, raw_path: str) -> str:
+  file_stat = (Path(repo) / raw_path.lstrip("./")).stat().st_mtime
+  return time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(file_stat))
+
 
 def _loading_categories() -> None:
   global categories
@@ -40,7 +45,7 @@ def _reduce_path(data: str) -> str:
 # Write the output to a csv file with the format "Path,SourceCommit".
 def _write_csv_file(out_file: str, data: List[str], others: str = "") -> None:
   with open(out_file, 'w', encoding='utf-8') as out_f:
-    out_f.write(f"Path,SourceCommit{others}\n")
+    out_f.write(f"Path,SourceCommit,LastModified{others}\n")
     for line in data:
       out_f.write(f"{line}\n")
 
@@ -48,7 +53,7 @@ def _write_csv_file(out_file: str, data: List[str], others: str = "") -> None:
 # Get commit source and categories for english repo.
 # @Experimental: this function use an git command marked as experimental.
 def get_last_commit(repo: str, lang: str) -> None:
-  args = ["last-modified", "-r", "--format=%H,%f", "--", f"./files/{lang}/*.md"]
+  args = ["last-modified", "-r", "--", f"./files/{lang}/*.md"]
   completed_process = subprocess.run(["git", "-C", repo, *args], capture_output=True, text=True)
 
   if completed_process.returncode != 0:
@@ -60,9 +65,9 @@ def get_last_commit(repo: str, lang: str) -> None:
   for line in completed_process.stdout.replace("\t", ",").splitlines():
     parts = line.split(",", 1)
     source_commit = parts[0]
-    raw_path = parts[1]
+    path = parts[1]
 
-    path = _reduce_path(raw_path)
+    date_modified = _get_last_modified(repo, path)
 
     array_categories: List[str] = []
     for category in categories:
@@ -72,7 +77,7 @@ def get_last_commit(repo: str, lang: str) -> None:
     if not array_categories:
       array_categories = ["Other"]
 
-    rows.append(f"{path},{source_commit},{'|'.join(array_categories)}")
+    rows.append(f"{_reduce_path(path)},{source_commit},{date_modified},{'|'.join(array_categories)}")
 
   rows.sort(key=lambda r: r.split(",", 1)[0])
 
@@ -102,12 +107,14 @@ def get_l10n_source_commit(repo: str, lang: str) -> Optional[List[str]]:
     path = file.strip()
     try:
       p = Path(repo) / path
+      date_modified = _get_last_modified(repo, path)
       head = p.read_bytes()[:768] # read first 768 bytes
     except Exception:
       return None
     sha = re.search(br"sourceCommit\s*:\s*['\"]?([0-9a-fA-F]{40})['\"]?", head)
     sha = sha.group(1).decode('ascii') if sha else 'no_hash_commit'
-    results.append(f"{_reduce_path(path)},{sha}")
+
+    results.append(f"{_reduce_path(path)},{sha},{date_modified}")
 
   return results or None
 
