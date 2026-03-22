@@ -900,8 +900,8 @@ learn_web_development/extensions/client-side_tools/package_management,94e900db86
 learn_web_development/extensions/forms,76936e1d9ff271ac59307a0f858d0d7b57f3866a,Learn|Extensions
 learn_web_development/extensions/forms/advanced_form_styling,2b4a2ad5d9ba084a9eaa2f9204102655e7b575c4,Learn|Extensions
 learn_web_development/extensions/forms/basic_native_form_controls,cc7f29133a331628d623e8cd705394b538d4368c,Learn|Extensions
-learn_web_development/extensions/forms/customizable_select,76936e1d9ff271ac59307a0f858d0d7b57f3866a,Learn|Extensions
-learn_web_development/extensions/forms/customizable_select_listboxes,76936e1d9ff271ac59307a0f858d0d7b57f3866a,Learn|Extensions
+learn_web_development/extensions/forms/customizable_select,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Learn|Extensions
+learn_web_development/extensions/forms/customizable_select_listboxes,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Learn|Extensions
 learn_web_development/extensions/forms/form_validation,2290fdbf9d5cf68482245d07d388b883156058ac,Learn|Extensions
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,c52ed787442db9d65b21f5c2874fa6bfd08a253a,Learn|Extensions
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,9cfc2285428932f448a1747e347b1e35a3e0172b,Learn|Extensions
@@ -1821,10 +1821,10 @@ mozilla/add-ons/webextensions/interact_with_the_clipboard,6aca3e5157dbc163fe8209
 mozilla/add-ons/webextensions/intercept_http_requests,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/internationalization,32fb8af49e13e90ffd14e16972f499d440962ac1,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json,673a473ab4b40c5f6787b2d3438370269fff31c7,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/action,1ba0755482292cd52e89cf96fda34000c8e60c91,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/action,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/author,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/background,7615562a3689a3e23a2b6b623597f4391740a53e,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/browser_action,1ba0755482292cd52e89cf96fda34000c8e60c91,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/browser_action,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,aa2535b8d83223b53fe57bb0c3daaf1c6851d781,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,8ba42490fa8be04d5751399274c40a00e1ac9a52,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1840,7 +1840,7 @@ mozilla/add-ons/webextensions/manifest.json/dictionaries,09109b6f9444d22215ba330
 mozilla/add-ons/webextensions/manifest.json/externally_connectable,0c81cbce5f95a0be935724bcd936f5592774eb3a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/homepage_url,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/host_permissions,286918035156c33cc4ed073304f4c51ab5cfacfe,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/icons,1ba0755482292cd52e89cf96fda34000c8e60c91,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/icons,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/incognito,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/manifest_version,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/name,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1850,7 +1850,7 @@ mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,a46ee9267e
 mozilla/add-ons/webextensions/manifest.json/optional_permissions,a46ee9267e4c49ce85c780b76c0f08fc389a2553,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/options_page,9928bcdc0db13da73e8ef065ab40a8e1ac8e6b0c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/options_ui,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/page_action,1ba0755482292cd52e89cf96fda34000c8e60c91,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/page_action,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/permissions,286918035156c33cc4ed073304f4c51ab5cfacfe,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/protocol_handlers,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/short_name,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1878,10 +1878,10 @@ mozilla/add-ons/webextensions/user_interface/extension_pages,09109b6f9444d22215b
 mozilla/add-ons/webextensions/user_interface/notifications,5d6f5187d1c657edec7e735d3cc5ad36907e2030,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/user_interface/omnibox,886f2641ae90a70858c5e7d0d20959c70ee44d9d,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/user_interface/options_pages,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/user_interface/page_actions,1ba0755482292cd52e89cf96fda34000c8e60c91,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/user_interface/page_actions,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/user_interface/popups,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/user_interface/sidebars,a85c2674f303680e9729f4965c3971b440565e98,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/user_interface/toolbar_button,1ba0755482292cd52e89cf96fda34000c8e60c91,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/user_interface/toolbar_button,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/what_are_webextensions,81715a83bdb5d71cdceaf32d1e40a3edfc986a12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/what_next,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/work_with_contextual_identities,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1953,7 +1953,7 @@ mozilla/firefox/releases/145,30487c754854c3f21157827914eefb94d0e5bd4d,Mozilla|Fi
 mozilla/firefox/releases/146,fa422ef89f5da5c7bc10a03f8e84b01b8132061c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Firefox|Versions
 mozilla/firefox/releases/148,c49748a0ce4fdf77427e29cb6edbca8953a514e7,Mozilla|Firefox|Versions
-mozilla/firefox/releases/149,15efe79bbd42baa8a455356dd8c3843d61b5fd4d,Mozilla|Firefox|Versions
+mozilla/firefox/releases/149,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -3325,7 +3325,7 @@ web/api/cssviewtransitionrule,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
 web/api/cssviewtransitionrule/navigation,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
 web/api/cssviewtransitionrule/types,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
 web/api/customelementregistry,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
-web/api/customelementregistry/customelementregistry,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
+web/api/customelementregistry/customelementregistry,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Web APIs
 web/api/customelementregistry/define,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/customelementregistry/get,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
 web/api/customelementregistry/getname,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
@@ -4716,7 +4716,7 @@ web/api/html_drag_and_drop_api/drag_data_store,a4fcf79b60471db6f148fa4ba36f2cdea
 web/api/html_drag_and_drop_api/drag_operations,8285d415db211ae9efe04752d9dab1b574450ee8,Web APIs
 web/api/html_drag_and_drop_api/file_drag_and_drop,8285d415db211ae9efe04752d9dab1b574450ee8,Web APIs
 web/api/html_drag_and_drop_api/kanban_board,8432c4ca716350c34d197c130e6fe93de5c8250c,Web APIs
-web/api/html_sanitizer_api,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
+web/api/html_sanitizer_api,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Web APIs
 web/api/html_sanitizer_api/default_sanitizer_configuration,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/html_sanitizer_api/using_the_html_sanitizer_api,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/htmlallcollection,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -7713,7 +7713,7 @@ web/api/serialport/open,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/serialport/readable,2de8605cc697ca93b02f0b7109082b694f8950ec,Web APIs
 web/api/serialport/setsignals,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/serialport/writable,2de8605cc697ca93b02f0b7109082b694f8950ec,Web APIs
-web/api/server-sent_events,65d664a83ca055135f38ff22ff4966ccc8a6061a,Web APIs
+web/api/server-sent_events,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Web APIs
 web/api/server-sent_events/using_server-sent_events,fd1048861f12cd6e4c806523655ac742b483f281,Web APIs
 web/api/service_worker_api,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
 web/api/service_worker_api/using_service_workers,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
@@ -10532,7 +10532,7 @@ web/css/reference/at-rules/@supports,46a4425d4b7160129fd4c8d0f684ccd0617326b7,CS
 web/css/reference/at-rules/@view-transition,b88f711ce4944f97162d7f1a7bcb8283af06f690,CSS|At-rules
 web/css/reference/at-rules/at-rule_functions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
 web/css/reference/mozilla_extensions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|CSS
-web/css/reference/properties,5e815d522e796fb2209fa8470616b37e31c572b4,CSS|Properties
+web/css/reference/properties,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,CSS|Properties
 web/css/reference/properties/--_star_,98bbdcd90e5487539cebe19b12fe3d731fb5a03e,CSS|Properties
 web/css/reference/properties/-moz-float-edge,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
 web/css/reference/properties/-moz-force-broken-image-icon,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
@@ -11336,7 +11336,7 @@ web/css/reference/values/fit-content_function,85fccefc8066bd49af4ddafc12c77f3526
 web/css/reference/values/flex_value,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
 web/css/reference/values/frequency,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
 web/css/reference/values/frequency-percentage,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
-web/css/reference/values/functions,1951d1dbe59ac6cd79ae0ec90697f764ab9c7ffd,CSS|Values
+web/css/reference/values/functions,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,CSS|Values
 web/css/reference/values/generic-family,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
 web/css/reference/values/gradient,33094d735e90b4dcae5733331b79c51fee997410,CSS|Values
 web/css/reference/values/gradient/conic-gradient,59dc266f4b684a8c1c1353f1ea4689c5f516c0fd,CSS|Values
@@ -11378,7 +11378,7 @@ web/css/reference/values/position-area_value,3e0ba995376cace7f08f0771635f86f0fb1
 web/css/reference/values/position_value,8fd626a7b7f1fcb19193325bbac5b87e719f83ea,CSS|Values
 web/css/reference/values/pow,f69b6693212029ce4b9fa0c753729044577af548,CSS|Values
 web/css/reference/values/progress,4b6027efb86db472ca6c37390fe9402b16b2716c,CSS|Values
-web/css/reference/values/random,c8522f47d8123fe529f39851b13b9fc01345ffbf,CSS|Values
+web/css/reference/values/random,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,CSS|Values
 web/css/reference/values/ratio,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
 web/css/reference/values/ray,33094d735e90b4dcae5733331b79c51fee997410,CSS|Values
 web/css/reference/values/relative-size,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
@@ -11976,7 +11976,7 @@ web/http/reference/headers/x-dns-prefetch-control,7f6778934020a9b5b82b4dd8ca79a9
 web/http/reference/headers/x-forwarded-for,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/x-forwarded-host,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/x-forwarded-proto,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
-web/http/reference/headers/x-frame-options,d1ce18e6f04a0015c00f8a4d6dcaa954447bc882,HTTP|Headers
+web/http/reference/headers/x-frame-options,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,HTTP|Headers
 web/http/reference/headers/x-permitted-cross-domain-policies,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,HTTP|Headers
 web/http/reference/headers/x-powered-by,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/x-robots-tag,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
@@ -13569,7 +13569,7 @@ web/security/attacks/phishing,849ca26a53af83dbb6b576b6f05ea618f9291d1f,Security|
 web/security/attacks/prototype_pollution,00c3b9fb6ead031e43863460add87321f262696c,Security|Attacks
 web/security/attacks/ssrf,2290fdbf9d5cf68482245d07d388b883156058ac,Security|Attacks
 web/security/attacks/subdomain_takeover,df8445288d6a7c39ef7d7c711af2189790b23831,Security|Attacks
-web/security/attacks/supply_chain_attacks,3251a58ecf1ded5df0e1aa5d23c8436247252b52,Security|Attacks
+web/security/attacks/supply_chain_attacks,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Security|Attacks
 web/security/attacks/xs-leaks,b07e3b87504a8984cf31d7a735ec373d33a11cd5,Security|Attacks
 web/security/attacks/xss,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,Security|Attacks
 web/security/authentication,64e7d62e466859d471791367050ab2cc40d36506,Security|Authentication
