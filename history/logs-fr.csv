@@ -4080,7 +4080,7 @@ web/css/guides/shapes/shape_generator,efebdd806165ea668d49fc67fd5b1d7f6229907b
 web/css/guides/shapes/using_shape-outside,no_hash_commit
 web/css/guides/syntax/at-rules,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/guides/syntax/comments,no_hash_commit
-web/css/guides/syntax,0cc9980e3b21c83d1800a428bc402ae1865326b2
+web/css/guides/syntax,81f8fcd666952c1782653a3675347c392cc997ca
 web/css/guides/syntax/introduction,71c4bc0b6329ec40ddbefd8d3124547e91cfa612
 web/css/guides/table,no_hash_commit
 web/css/guides/text,no_hash_commit
@@ -4113,7 +4113,7 @@ web/css/how_to/layout_cookbook/sticky_footers,2d78abb3e793352e24e976ce0e68c08d81
 web/css,423161782178b119c64cd0b41bff8df20dc84a56
 web/css/reference/at-rules/@charset,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@color-profile,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/at-rules/@container,33094d735e90b4dcae5733331b79c51fee997410
+web/css/reference/at-rules/@container,6e46ba1a7ac7aa2268afd0ecd079f221ef6d9af4
 web/css/reference/at-rules/@counter-style/additive-symbols,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a
 web/css/reference/at-rules/@counter-style/fallback,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/at-rules/@counter-style,33094d735e90b4dcae5733331b79c51fee997410
@@ -4208,7 +4208,7 @@ web/css/reference/at-rules/@property/syntax,98bbdcd90e5487539cebe19b12fe3d731fb5
 web/css/reference/at-rules/@scope,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/at-rules/@starting-style,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@supports,46a4425d4b7160129fd4c8d0f684ccd0617326b7
-web/css/reference/at-rules/@view-transition,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca
+web/css/reference/at-rules/@view-transition,b88f711ce4944f97162d7f1a7bcb8283af06f690
 web/css/reference/at-rules/at-rule_functions,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules,3ee2355c3c90cf92c3119b82f8ebfa5d16c91c53
 web/css/reference,93b85a5bc2b4589d93185263fd2c14381c36f821
@@ -4489,7 +4489,7 @@ web/css/reference/properties/hyphens,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/image-orientation,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/image-rendering,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/image-resolution,33094d735e90b4dcae5733331b79c51fee997410
-web/css/reference/properties,5e815d522e796fb2209fa8470616b37e31c572b4
+web/css/reference/properties,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12
 web/css/reference/properties/initial-letter,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/inline-size,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/inset-block-end,2fe84cf3af6fab1d4009fe99b4a69332e1629838
@@ -4509,7 +4509,7 @@ web/css/reference/properties/justify-content,1dbba9f7a2c2e35c6e01e8a63159e2aac64
 web/css/reference/properties/justify-items,05e0ea073802694cc49d76d566778bd607a9511f
 web/css/reference/properties/justify-self,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/left,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/letter-spacing,2d78abb3e793352e24e976ce0e68c08d817bd7f3
+web/css/reference/properties/letter-spacing,21b975609b233dbc6fde334ff97ee9cde75e7c0f
 web/css/reference/properties/lighting-color,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/line-break,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/line-clamp,2d78abb3e793352e24e976ce0e68c08d817bd7f3
@@ -4748,7 +4748,7 @@ web/css/reference/selectors/_colon_default,c52ed787442db9d65b21f5c2874fa6bfd08a2
 web/css/reference/selectors/_colon_defined,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/selectors/_colon_dir,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_colon_disabled,c52ed787442db9d65b21f5c2874fa6bfd08a253a
-web/css/reference/selectors/_colon_empty,c52ed787442db9d65b21f5c2874fa6bfd08a253a
+web/css/reference/selectors/_colon_empty,5e815d522e796fb2209fa8470616b37e31c572b4
 web/css/reference/selectors/_colon_enabled,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_colon_first-child,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/selectors/_colon_first-of-type,c52ed787442db9d65b21f5c2874fa6bfd08a253a
