@@ -1132,7 +1132,7 @@ mozilla/add-ons,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/contact_us,0c81cbce5f95a0be935724bcd936f5592774eb3a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,5310a5bff0e1f3e2dfafa44bc2aadbb39e1c4673,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/anatomy_of_a_webextension,e9a795876d60f95a8a47c9fe8bb90f599ee0057e,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/anatomy_of_a_webextension,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action,0bbc83440e89ae434a8d798453511e82de79a356,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/colorarray,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1814,7 +1814,7 @@ mozilla/add-ons/webextensions/content_scripts/exportfunction,6036cd414b2214f8590
 mozilla/add-ons/webextensions/content_security_policy,64969748897516212b7585b8dbc8f9f1a9bbb242,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/developing_webextensions_for_thunderbird,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/differences_between_api_implementations,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/examples,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/examples,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/extending_the_developer_tools,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/implement_a_settings_page,673a473ab4b40c5f6787b2d3438370269fff31c7,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/interact_with_the_clipboard,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d,Mozilla|Firefox Add-ons
@@ -1882,15 +1882,15 @@ mozilla/add-ons/webextensions/user_interface/page_actions,8a74d8feac267c1ddc37a4
 mozilla/add-ons/webextensions/user_interface/popups,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/user_interface/sidebars,a85c2674f303680e9729f4965c3971b440565e98,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/user_interface/toolbar_button,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/what_are_webextensions,81715a83bdb5d71cdceaf32d1e40a3edfc986a12,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/what_next,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/what_are_webextensions,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/what_next,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/work_with_contextual_identities,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/work_with_the_bookmarks_api,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/work_with_the_cookies_api,7348ad4bf0fa7351041e9a3661c8a2bd2659d6e5,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/working_with_files,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/working_with_the_tabs_api,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/your_first_webextension,06e6e54baef7032c4e81ca93291fde0a0585de8b,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/your_second_webextension,06e6e54baef7032c4e81ca93291fde0a0585de8b,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/your_first_webextension,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/your_second_webextension,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
 mozilla/firefox/experimental_features,f80120af6f346a8628ab220ce20f0eeb55535d48,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
