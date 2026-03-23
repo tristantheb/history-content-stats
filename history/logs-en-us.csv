@@ -9310,7 +9310,7 @@ web/api/webgl_api/by_example/simple_color_animation,0ea88f719ad95045993f8a54d5bb
 web/api/webgl_api/by_example/textures_from_code,116577234db1d6275c74a8bb879fce54d944f4ed,Web APIs
 web/api/webgl_api/by_example/video_textures,1eae3d383ad47b5e21bf25764d1d35487ea52bb8,Web APIs
 web/api/webgl_api/compressed_texture_formats,e488eba036b2fee56444fd579c3759ef45ff2ca8,Web APIs
-web/api/webgl_api/constants,93b34fcdb9cf91ff44f5dfe7f4dcd13e961962da,Web APIs
+web/api/webgl_api/constants,de12ce0f1fd85781d0d1045aeae85750ae6dc78a,Web APIs
 web/api/webgl_api/data,3cbd2b2b2eb0be9425949c20ca5d398645f7c0e9,Web APIs
 web/api/webgl_api/matrix_math_for_the_web,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/webgl_api/tutorial,621c7978886787ca66bc5e90e457cf1466e58d35,Web APIs
@@ -10863,7 +10863,7 @@ web/css/reference/properties/min-height,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/min-inline-size,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
 web/css/reference/properties/min-width,33094d735e90b4dcae5733331b79c51fee997410,CSS|Properties
 web/css/reference/properties/mix-blend-mode,fa647850ec257db6f807993c556f21a6c269cc4f,CSS|Properties
-web/css/reference/properties/object-fit,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
+web/css/reference/properties/object-fit,113e0681c10e794aaf242faf50a152a1c7cd5d12,CSS|Properties
 web/css/reference/properties/object-position,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
 web/css/reference/properties/object-view-box,4b6027efb86db472ca6c37390fe9402b16b2716c,CSS|Properties
 web/css/reference/properties/offset,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
