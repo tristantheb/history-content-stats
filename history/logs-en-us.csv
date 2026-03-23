@@ -3325,12 +3325,12 @@ web/api/cssviewtransitionrule/navigation,baf0cb6bfe8bf2418122300d3f93e3aa94f72dc
 web/api/cssviewtransitionrule/types,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
 web/api/customelementregistry,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/customelementregistry/customelementregistry,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Web APIs
-web/api/customelementregistry/define,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/customelementregistry/define,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
 web/api/customelementregistry/get,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
 web/api/customelementregistry/getname,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
 web/api/customelementregistry/initialize,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/customelementregistry/upgrade,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
-web/api/customelementregistry/whendefined,0edb4dbed5c7bfbc1dc8f2efd43bb4a5fe52f2d1,Web APIs
+web/api/customelementregistry/whendefined,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
 web/api/customevent,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a,Web APIs
 web/api/customevent/customevent,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a,Web APIs
 web/api/customevent/detail,14aec55e57117d0dc4a916112e23d310908e9937,Web APIs
@@ -3454,13 +3454,13 @@ web/api/document/close,41a8b9c9832359d445d136b6d7a8a28737badc6b,Web APIs
 web/api/document/compatmode,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/document/contenttype,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/document/cookie,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
-web/api/document/createattribute,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
-web/api/document/createattributens,cac79d099b0a4e48456cb53eb2435f6acf03e188,Web APIs
+web/api/document/createattribute,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
+web/api/document/createattributens,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
 web/api/document/createcdatasection,f216422c99b6c7014e398803b70600501bce8a48,Web APIs
 web/api/document/createcomment,f216422c99b6c7014e398803b70600501bce8a48,Web APIs
 web/api/document/createdocumentfragment,0a881eea07f0cec6ca4ed85a24af43b367a9f80d,Web APIs
-web/api/document/createelement,116577234db1d6275c74a8bb879fce54d944f4ed,Web APIs
-web/api/document/createelementns,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/document/createelement,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
+web/api/document/createelementns,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
 web/api/document/createevent,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
 web/api/document/createexpression,3966c40a3917825e6e467f1592bc7f8d59458e74,Web APIs
 web/api/document/createnodeiterator,30ae43a0c98ab92f750fd571d7a3a8ee8b15b4c0,Web APIs
@@ -3621,7 +3621,7 @@ web/api/domexception/message,3652cfa9c036cf3ceebb1384bdc7edfd549251f3,Web APIs
 web/api/domexception/name,3652cfa9c036cf3ceebb1384bdc7edfd549251f3,Web APIs
 web/api/domhighrestimestamp,0496bb2fcef13172325e1cc25a5fc71410506557,Web APIs
 web/api/domimplementation,f45409ba2169ff05e433d21aa4ee0424079916b8,Web APIs
-web/api/domimplementation/createdocument,9f4a82ea0e441b13c86acd0a75076b9f9c2d3701,Web APIs
+web/api/domimplementation/createdocument,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
 web/api/domimplementation/createdocumenttype,42f24862980f224148fc233823ebf30342898419,Web APIs
 web/api/domimplementation/createhtmldocument,950f04d94b48f259c471175bdafb52933b2b038d,Web APIs
 web/api/domimplementation/hasfeature,6753e2b76ca411e526b1950eaa43272cfca682dc,Web APIs
@@ -3962,10 +3962,10 @@ web/api/element/scrolltop,0916e1754652f3a7c663ef031faa26c98f492023,Web APIs
 web/api/element/scrolltopmax,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf,Web APIs
 web/api/element/scrollwidth,0916e1754652f3a7c663ef031faa26c98f492023,Web APIs
 web/api/element/securitypolicyviolation_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
-web/api/element/setattribute,c03afc07890f66c6016f4f4f99aa5777fe50e877,Web APIs
+web/api/element/setattribute,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
 web/api/element/setattributenode,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Web APIs
 web/api/element/setattributenodens,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
-web/api/element/setattributens,e6ef56a019e3af403da972e36e5a6084cb53feab,Web APIs
+web/api/element/setattributens,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
 web/api/element/setcapture,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
 web/api/element/sethtml,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/element/sethtmlunsafe,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
@@ -3973,7 +3973,7 @@ web/api/element/setpointercapture,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web A
 web/api/element/shadowroot,1099567e480ad28fa86729e02a9fa8fa4cea9331,Web APIs
 web/api/element/slot,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/element/tagname,bc7e82aa6db60568d7146ee285918550bbe4b8ce,Web APIs
-web/api/element/toggleattribute,990ab6637bb4d44f059597262cbf3c51abae79eb,Web APIs
+web/api/element/toggleattribute,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
 web/api/element/touchcancel_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/element/touchend_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/element/touchmove_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
@@ -4347,7 +4347,7 @@ web/api/formdataevent/formdata,be1922d62a0d31e4e3441db0e943aed8df736481,Web APIs
 web/api/formdataevent/formdataevent,339595951b78774e951b1a9d215a6db6b856f6b2,Web APIs
 web/api/fragmentdirective,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd,Web APIs
 web/api/fullscreen_api,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/fullscreen_api/guide,27d5cb7e9d523a629d8469e81508d3cc81250b5c,Web APIs
+web/api/fullscreen_api/guide,d4d05693841eba16c40260d48cd29b353d50dd03,Web APIs
 web/api/gainnode,fa1301aead2cee37516b7ad5a5ec2fb21e004227,Web APIs
 web/api/gainnode/gain,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c,Web APIs
 web/api/gainnode/gainnode,af6e47973201416260911ee6444cf315b2ba6d89,Web APIs
@@ -4840,7 +4840,7 @@ web/api/htmlelement/attributestylemap,7cd51a73ad94df604db79ccacbbe0513d0967650,W
 web/api/htmlelement/autocapitalize,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlelement/autocorrect,aff319cd81d10cfda31b13adb3263deafb284b20,Web APIs
 web/api/htmlelement/autofocus,01d5901fdbad83033fe1f86486f652d07db7ce2a,Web APIs
-web/api/htmlelement/beforetoggle_event,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69,Web APIs
+web/api/htmlelement/beforetoggle_event,887acda9b43338ce492d4c0ad1a2145e383187b9,Web APIs
 web/api/htmlelement/blur,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
 web/api/htmlelement/change_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/htmlelement/click,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -13360,7 +13360,7 @@ web/javascript/reference/statements/using,075e089ec955f14ed65dfaa0bf3311051c58f6
 web/javascript/reference/statements/var,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/while,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/with,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,JavaScript|Statements
-web/javascript/reference/strict_mode,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript
+web/javascript/reference/strict_mode,63fee14f8c716fb79d2b9a1bb95b7ebc95c21c58,JavaScript
 web/javascript/reference/template_literals,30d6cea0c01129b063f9dac2b269581e44bdb6f6,JavaScript
 web/javascript/reference/trailing_commas,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript
 web/mathml,9036ccca6d55b90913ca424e6706b0c9ed1fa93b,MathML
