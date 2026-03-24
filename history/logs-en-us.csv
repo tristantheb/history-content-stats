@@ -1953,7 +1953,7 @@ mozilla/firefox/releases/145,30487c754854c3f21157827914eefb94d0e5bd4d,Mozilla|Fi
 mozilla/firefox/releases/146,fa422ef89f5da5c7bc10a03f8e84b01b8132061c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Firefox|Versions
 mozilla/firefox/releases/148,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
-mozilla/firefox/releases/149,03d0f9c7f12ab197ec28ca085bd3723b15b02296,Mozilla|Firefox|Versions
+mozilla/firefox/releases/149,f06cc15f245827dbd559bbec481750e1b1772105,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
@@ -2899,7 +2899,7 @@ web/api/closewatcher/close,de5b557883e8eff2514f0fe6eeb180db782575b1,Web APIs
 web/api/closewatcher/close_event,de5b557883e8eff2514f0fe6eeb180db782575b1,Web APIs
 web/api/closewatcher/closewatcher,de5b557883e8eff2514f0fe6eeb180db782575b1,Web APIs
 web/api/closewatcher/destroy,de5b557883e8eff2514f0fe6eeb180db782575b1,Web APIs
-web/api/closewatcher/requestclose,de5b557883e8eff2514f0fe6eeb180db782575b1,Web APIs
+web/api/closewatcher/requestclose,883b9460f2f47fecc7f50c09625465326c35bb82,Web APIs
 web/api/coepviolationreport,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
 web/api/commandevent,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/commandevent/command,ffa6f5871f50856c60983a125cef7de267be7aeb,Web APIs
