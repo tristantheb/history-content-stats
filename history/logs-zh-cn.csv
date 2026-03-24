@@ -1408,6 +1408,7 @@ mozilla/add-ons/webextensions/api/tabs/sendrequest,43e3ff826b7b755b05986c99ada75
 mozilla/add-ons/webextensions/api/tabs/setzoom,43e3ff826b7b755b05986c99ada75635c01c187c
 mozilla/add-ons/webextensions/api/tabs/setzoomsettings,43e3ff826b7b755b05986c99ada75635c01c187c
 mozilla/add-ons/webextensions/api/tabs/show,43e3ff826b7b755b05986c99ada75635c01c187c
+mozilla/add-ons/webextensions/api/tabs/split_view_id_none,a0cae6a26d6b7263ddea94c4e3b3484fe218b354
 mozilla/add-ons/webextensions/api/tabs/tab,a6313e45a6ae4c356325f06d0e7e8919bab251a8
 mozilla/add-ons/webextensions/api/tabs/tab_id_none,43e3ff826b7b755b05986c99ada75635c01c187c
 mozilla/add-ons/webextensions/api/tabs/tabstatus,43e3ff826b7b755b05986c99ada75635c01c187c
@@ -3472,6 +3473,7 @@ web/api/lock/name,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79
 web/api/lockmanager,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79
 web/api/lockmanager/query,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79
 web/api/lockmanager/request,cfb7587e3e3122630ad6cbd94d834ecadbe0a746
+web/api/mathmlelement/autofocus,c486da8298cdfdba0556a190d8e3f92e9aa117bb
 web/api/mathmlelement,no_hash_commit
 web/api/media_capture_and_streams_api,7b3ccaec4a93584da12939587ea746acaabe30bc
 web/api/media_capture_and_streams_api/taking_still_photos,no_hash_commit
@@ -4956,6 +4958,7 @@ web/css/guides/display/flow_layout_and_overflow,no_hash_commit
 web/css/guides/display/flow_layout_and_writing_modes,no_hash_commit
 web/css/guides/display/formatting_contexts,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/guides/display/in_flow_and_out_of_flow,no_hash_commit
+web/css/guides/display,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/display/visual_formatting_model,6d55eec58e38583da60aa635d41393ad051d1c6d
 web/css/guides/flexible_box_layout/aligning_items,no_hash_commit
 web/css/guides/flexible_box_layout/basic_concepts,no_hash_commit
