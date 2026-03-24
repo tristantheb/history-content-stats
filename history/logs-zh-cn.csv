@@ -3440,6 +3440,7 @@ web/api/keyboardevent/iscomposing,no_hash_commit
 web/api/keyboardevent/key,no_hash_commit
 web/api/keyboardevent/keyboardevent,no_hash_commit
 web/api/keyboardevent/keycode,no_hash_commit
+web/api/keyboardevent/keyidentifier,eab4066e72d5478de920e4020e5db71214dcffa6
 web/api/keyboardevent/metakey,no_hash_commit
 web/api/keyboardevent/repeat,no_hash_commit
 web/api/keyboardevent/shiftkey,no_hash_commit
@@ -3529,6 +3530,7 @@ web/api/mediastreamaudiosourcenode/mediastreamaudiosourcenode,no_hash_commit
 web/api/mediastreamevent,no_hash_commit
 web/api/mediastreamtrack/getcapabilities,no_hash_commit
 web/api/mediastreamtrack/getconstraints,no_hash_commit
+web/api/mediastreamtrack/id,d0e6d8d712a33b9d3c7a9fb9a8ba85d4dd1b7002
 web/api/mediastreamtrack,no_hash_commit
 web/api/mediastreamtrack/readystate,no_hash_commit
 web/api/mediastreamtrack/stop,no_hash_commit
@@ -3570,6 +3572,7 @@ web/api/mouseevent/relatedtarget,no_hash_commit
 web/api/mouseevent/screenx,no_hash_commit
 web/api/mouseevent/screeny,no_hash_commit
 web/api/mouseevent/shiftkey,ef75c1741b450c2331204be5563ee964ad5f4c48
+web/api/mouseevent/webkitforce,063c37bfe63ed0d8d47556a5ab6962991c31df7f
 web/api/mouseevent/x,ef75c1741b450c2331204be5563ee964ad5f4c48
 web/api/mouseevent/y,7b3ccaec4a93584da12939587ea746acaabe30bc
 web/api/mousescrollevent,no_hash_commit
@@ -4014,6 +4017,7 @@ web/api/rsahashedimportparams,8e49db2182a5ad4ddfcaecdefd3d2d67db20f213
 web/api/rsahashedkeygenparams,8e49db2182a5ad4ddfcaecdefd3d2d67db20f213
 web/api/rsaoaepparams,2937558d5ed1e03d7f60b2de71dd9c17f490166e
 web/api/rsapssparams,3b22c657f659c249cbe6e4fc6794370a5cb67a72
+web/api/rtcaudiosourcestats/type,d32ba6a7c5a4c43029b92fab2e78e3bedc00b63c
 web/api/rtcdatachannel,no_hash_commit
 web/api/rtcdtmfsender/tonechange_event,no_hash_commit
 web/api/rtcicecandidate/address,592f6ec42e54981b6573b58ec0343c9aa8cbbda8
