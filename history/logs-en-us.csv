@@ -10578,7 +10578,7 @@ web/css/reference/properties/background-position-x,46a4425d4b7160129fd4c8d0f684c
 web/css/reference/properties/background-position-y,46a4425d4b7160129fd4c8d0f684ccd0617326b7,CSS|Properties
 web/css/reference/properties/background-repeat,1b3165b1717bbd0bfc1c90ad68c80a84e0b4fc8c,CSS|Properties
 web/css/reference/properties/background-repeat-x,aea2d29336c910940abb1f8e71e02158ac51e7c4,CSS|Properties
-web/css/reference/properties/background-repeat-y,aea2d29336c910940abb1f8e71e02158ac51e7c4,CSS|Properties
+web/css/reference/properties/background-repeat-y,76e6e5407fd7cb49fb54dc51c7790a8b71ecec7f,CSS|Properties
 web/css/reference/properties/background-size,33094d735e90b4dcae5733331b79c51fee997410,CSS|Properties
 web/css/reference/properties/baseline-shift,483ce811e1ea52cb2d9d2a5af0c4d1c4d591ea4a,CSS|Properties
 web/css/reference/properties/baseline-source,5ebca2edd6095fb3f61d442ed3146fa37fffbf7d,CSS|Properties
@@ -11362,7 +11362,7 @@ web/css/reference/values/position-area_value,3e0ba995376cace7f08f0771635f86f0fb1
 web/css/reference/values/position_value,8fd626a7b7f1fcb19193325bbac5b87e719f83ea,CSS|Values
 web/css/reference/values/pow,f69b6693212029ce4b9fa0c753729044577af548,CSS|Values
 web/css/reference/values/progress,4b6027efb86db472ca6c37390fe9402b16b2716c,CSS|Values
-web/css/reference/values/random,aea2d29336c910940abb1f8e71e02158ac51e7c4,CSS|Values
+web/css/reference/values/random,84384e0029a4ba7b4646d2d1c989e0865ac8d9e1,CSS|Values
 web/css/reference/values/ratio,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
 web/css/reference/values/ray,33094d735e90b4dcae5733331b79c51fee997410,CSS|Values
 web/css/reference/values/relative-size,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
