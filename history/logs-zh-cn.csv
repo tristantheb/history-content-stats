@@ -3482,6 +3482,7 @@ web/api/media_source_extensions_api/dash_adaptive_streaming,no_hash_commit
 web/api/media_source_extensions_api,no_hash_commit
 web/api/mediacapabilities/encodinginfo,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf
 web/api/mediacapabilities,49f6e40b12be0d6d897d3dab09caafbc093f7677
+web/api/mediadeviceinfo/deviceid,4232f4067388fc9b2c55c5f9200dddf05bd99b74
 web/api/mediadevices/devicechange_event,no_hash_commit
 web/api/mediadevices/enumeratedevices,no_hash_commit
 web/api/mediadevices/getdisplaymedia,no_hash_commit
@@ -3490,6 +3491,7 @@ web/api/mediadevices/getusermedia,no_hash_commit
 web/api/mediadevices,no_hash_commit
 web/api/mediadevices/selectaudiooutput,cfb7587e3e3122630ad6cbd94d834ecadbe0a746
 web/api/mediaelementaudiosourcenode,no_hash_commit
+web/api/mediaencryptedevent/initdata,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/api/mediakeysession/load,no_hash_commit
 web/api/medialist,no_hash_commit
 web/api/mediaquerylist/addlistener,no_hash_commit
@@ -3830,6 +3832,7 @@ web/api/path2d,no_hash_commit
 web/api/path2d/path2d,no_hash_commit
 web/api/payment_request_api/concepts,no_hash_commit
 web/api/payment_request_api,no_hash_commit
+web/api/paymentaddress/sortingcode,a5d90e4c36c0155024621fe00e15ae61f3697d88
 web/api/pbkdf2params,8e49db2182a5ad4ddfcaecdefd3d2d67db20f213
 web/api/performance/clearmarks,no_hash_commit
 web/api/performance/clearmeasures,no_hash_commit
