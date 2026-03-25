@@ -3259,7 +3259,7 @@ web/api/cssstyledeclaration/length,bc9f7bec1ab48f29d241e38a9f1598f783f6b60a,Web 
 web/api/cssstyledeclaration/parentrule,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/cssstyledeclaration/removeproperty,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/cssstyledeclaration/setproperty,56bbf59f4ea2566d64ad2e5c669a7a597626b7f3,Web APIs
-web/api/cssstyleproperties,f3bf315cc3f26a6c96cfa6fa4898e7def28ca78a,Web APIs
+web/api/cssstyleproperties,703f1c68d3f3428ad2e5e442bfbae0eb88bcc201,Web APIs
 web/api/cssstyleproperties/cssfloat,d3bbe8558e181a2b6e04abdedc429fb2a0e4f015,Web APIs
 web/api/cssstylerule,231152e9a749aaeba8de45f4cc712845a470dda9,Web APIs
 web/api/cssstylerule/selectortext,53b1989260054e651bcf001bacee9b843b8ca9c8,Web APIs
