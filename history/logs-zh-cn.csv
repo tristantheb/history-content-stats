@@ -3493,6 +3493,7 @@ web/api/mediadevices/selectaudiooutput,cfb7587e3e3122630ad6cbd94d834ecadbe0a746
 web/api/mediaelementaudiosourcenode,no_hash_commit
 web/api/mediaencryptedevent/initdata,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/api/mediakeysession/load,no_hash_commit
+web/api/mediakeysystemaccess,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/medialist,no_hash_commit
 web/api/mediaquerylist/addlistener,no_hash_commit
 web/api/mediaquerylist/change_event,no_hash_commit
@@ -3827,6 +3828,7 @@ web/api/pagetransitionevent/pagetransitionevent,aa8fa82a902746b0bd97839180fc2b53
 web/api/pagetransitionevent/persisted,no_hash_commit
 web/api/paintsize/height,e80499f4efc4eaf0c4e1657748a77b30224e7bb7
 web/api/paintsize/width,e80499f4efc4eaf0c4e1657748a77b30224e7bb7
+web/api/passwordcredential/password,89c435da452257b944b403cc9e45036fcb22590e
 web/api/path2d/addpath,no_hash_commit
 web/api/path2d,no_hash_commit
 web/api/path2d/path2d,no_hash_commit
@@ -3929,6 +3931,7 @@ web/api/pushmanager,no_hash_commit
 web/api/pushmanager/subscribe,no_hash_commit
 web/api/pushmanager/supportedcontentencodings_static,no_hash_commit
 web/api/pushmessagedata/json,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976
+web/api/pushsubscription/expirationtime,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976
 web/api/range/clonecontents,no_hash_commit
 web/api/range/clonerange,f9a4c8569397cb1c4f74026b385f07ff365bf64d
 web/api/range/collapse,no_hash_commit
