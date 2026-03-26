@@ -3927,7 +3927,7 @@ web/api/workerglobalscope/online_event,no_hash_commit
 web/api/workerglobalscope/self,no_hash_commit
 web/api/workerlocation,no_hash_commit
 web/api/xmldocument,no_hash_commit
-web/api/xmlhttprequest,no_hash_commit
+web/api/xmlhttprequest,f6e66d18205c93fcaeb2ea9ad51541b5b4d7d2b1
 web/api/xmlhttprequest/open,no_hash_commit
 web/api/xmlhttprequest/readystate,no_hash_commit
 web/api/xmlhttprequest/readystatechange_event,no_hash_commit
