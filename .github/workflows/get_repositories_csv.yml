@@ -30,13 +30,13 @@ jobs:
           python-version: '3.13.9'
 
       - name: Clone MDN content repo
-        run: git clone https://github.com/mdn/content.git content
+        run: git clone --quiet https://github.com/mdn/content.git content
 
       - name: Clone MDN translated-content repo
-        run: git clone https://github.com/mdn/translated-content.git translated-content
+        run: git clone --quiet https://github.com/mdn/translated-content.git translated-content
 
       - name: Clone MDN translated-content-de repo
-        run: git clone https://github.com/mdn/translated-content-de.git translated-content-de
+        run: git clone --quiet https://github.com/mdn/translated-content-de.git translated-content-de
 
       - name: Generate logs files
         shell: bash
