@@ -1828,7 +1828,7 @@ mozilla/add-ons/webextensions/manifest.json/browser_action,8a74d8feac267c1ddc37a
 mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,aa2535b8d83223b53fe57bb0c3daaf1c6851d781,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,8ba42490fa8be04d5751399274c40a00e1ac9a52,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/commands,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/commands,ceaac5d55bef85edef9a4a716e6bd6ca3d3ec9c1,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/content_scripts,01768f6dcc74acdbd32d2e91512939003b86ac6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/content_security_policy,64969748897516212b7585b8dbc8f9f1a9bbb242,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/declarative_net_request,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -4347,7 +4347,7 @@ web/api/formdataevent,58ad1df59f2ffb9ecab4e27fe1bdf1eb5a55f89b,Web APIs
 web/api/formdataevent/formdata,be1922d62a0d31e4e3441db0e943aed8df736481,Web APIs
 web/api/formdataevent/formdataevent,339595951b78774e951b1a9d215a6db6b856f6b2,Web APIs
 web/api/fragmentdirective,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd,Web APIs
-web/api/fullscreen_api,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/fullscreen_api,2c6874c58a262083450afcc76789d4399adb6583,Web APIs
 web/api/fullscreen_api/guide,d4d05693841eba16c40260d48cd29b353d50dd03,Web APIs
 web/api/gainnode,fa1301aead2cee37516b7ad5a5ec2fb21e004227,Web APIs
 web/api/gainnode/gain,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c,Web APIs
@@ -4701,7 +4701,7 @@ web/api/hmdvrdevice,ccbc5d4100e0a5de844e060b025883ef1611d7b8,Web APIs
 web/api/hmdvrdevice/geteyeparameters,ccbc5d4100e0a5de844e060b025883ef1611d7b8,Web APIs
 web/api/hmdvrdevice/setfieldofview,e9e2ec643ac69c132f31427a0b586ab2cf83ed58,Web APIs
 web/api/houdini_apis,635820782735cd00f71ce3929ff9377b091f8995,Web APIs
-web/api/html_dom_api,87440643d71bf81a5bf4b8fa21db9e3d56ead395,Web APIs
+web/api/html_dom_api,b2f9c1e9e0f56bb2fd10262b0836603e10bcb4dc,Web APIs
 web/api/html_dom_api/microtask_guide,6b9019694341254ad8e3e0572f03988337f6f7ae,Web APIs
 web/api/html_dom_api/microtask_guide/in_depth,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/html_drag_and_drop_api,58525c603c8c4696a85342ffc6e8e6661b28a1c3,Web APIs
@@ -9533,7 +9533,7 @@ web/api/websocket/readystate,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
 web/api/websocket/send,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/websocket/url,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
 web/api/websocket/websocket,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
-web/api/websockets_api,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,Web APIs
+web/api/websockets_api,b2f9c1e9e0f56bb2fd10262b0836603e10bcb4dc,Web APIs
 web/api/websockets_api/using_websocketstream,7a418e5d057adb45a0c7c4ec3b03baa8c3be18f4,Web APIs
 web/api/websockets_api/writing_a_websocket_server_in_java,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac,Web APIs
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,456178386f8464618bd6a8f08a2e199a1022f590,Web APIs
