@@ -3492,6 +3492,7 @@ web/api/mediadevices,no_hash_commit
 web/api/mediadevices/selectaudiooutput,cfb7587e3e3122630ad6cbd94d834ecadbe0a746
 web/api/mediaelementaudiosourcenode,no_hash_commit
 web/api/mediaencryptedevent/initdata,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
+web/api/mediakeysession/expiration,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysession/load,no_hash_commit
 web/api/mediakeysystemaccess,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/medialist,no_hash_commit
