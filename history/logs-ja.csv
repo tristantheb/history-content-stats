@@ -64,6 +64,7 @@ glossary/asynchronous,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 glossary/atag,no_hash_commit
 glossary/attribute,no_hash_commit
 glossary/authentication,66afe9b59c609043c91e51487cfcecaecbbadb3d
+glossary/authenticator,51872f3d8311c3c071cbfea613da40036911e4d7
 glossary/bandwidth,no_hash_commit
 glossary/base64,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/baseline/compatibility,d14b5a927958ec1ab9737f2f9fce0761a4c95c75
@@ -6829,9 +6830,9 @@ web/css/reference/at-rules/@media/vertical-viewport-segments,ad9776a6cf53eaf570a
 web/css/reference/at-rules/@media/video-dynamic-range,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@media/width,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@namespace,c2fd97474834e061404b992c8397d4ccc4439a71
-web/css/reference/at-rules/@page,2b3eb646cec5c9bc74e263b7880a52ad52e37913
-web/css/reference/at-rules/@page/page-orientation,2b3eb646cec5c9bc74e263b7880a52ad52e37913
-web/css/reference/at-rules/@page/size,702cd9e4d2834e13aea345943efc8d0c03d92ec9
+web/css/reference/at-rules/@page,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
+web/css/reference/at-rules/@page/page-orientation,ad9776a6cf53eaf570ac0515402247e82ecefcfe
+web/css/reference/at-rules/@page/size,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@position-try,3e0ba995376cace7f08f0771635f86f0fb1753b3
 web/css/reference/at-rules/@property,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a
 web/css/reference/at-rules/@property/inherits,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7381,7 +7382,7 @@ web/css/reference/selectors/_colon_-moz-user-disabled,c52ed787442db9d65b21f5c287
 web/css/reference/selectors/_colon_active,33a12980eb49cc795a41f15ec7a0181270ad3048
 web/css/reference/selectors/_colon_any-link,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/css/reference/selectors/_colon_autofill,33a12980eb49cc795a41f15ec7a0181270ad3048
-web/css/reference/selectors/_colon_blank,702cd9e4d2834e13aea345943efc8d0c03d92ec9
+web/css/reference/selectors/_colon_blank,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors/_colon_buffering,4d51a212bfda5ce9978d162caf5532d155f7eb0a
 web/css/reference/selectors/_colon_checked,e82803beedb7f1d8a8e918c1071752f18e1e3f28
 web/css/reference/selectors/_colon_current,4d51a212bfda5ce9978d162caf5532d155f7eb0a
@@ -7393,7 +7394,7 @@ web/css/reference/selectors/_colon_empty,0cc9980e3b21c83d1800a428bc402ae1865326b
 web/css/reference/selectors/_colon_enabled,no_hash_commit
 web/css/reference/selectors/_colon_first-child,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/selectors/_colon_first-of-type,c52ed787442db9d65b21f5c2874fa6bfd08a253a
-web/css/reference/selectors/_colon_first,2b3eb646cec5c9bc74e263b7880a52ad52e37913
+web/css/reference/selectors/_colon_first,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors/_colon_focus-visible,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/selectors/_colon_focus-within,ac2874857a3de0be38430e58068597edf0afa2b2
 web/css/reference/selectors/_colon_focus,5fea7c9593f5e4b4ef13ec65064acf1eabf01e4e
@@ -7412,7 +7413,7 @@ web/css/reference/selectors/_colon_is,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/selectors/_colon_lang,acfe8c9f1f4145f77653a2bc64a9744b001358dc
 web/css/reference/selectors/_colon_last-child,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_colon_last-of-type,c52ed787442db9d65b21f5c2874fa6bfd08a253a
-web/css/reference/selectors/_colon_left,a850ca867a8b380a53320bab6870fb7335f22d52
+web/css/reference/selectors/_colon_left,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors/_colon_link,5fea7c9593f5e4b4ef13ec65064acf1eabf01e4e
 web/css/reference/selectors/_colon_local-link,bc761c19c07b875eb889d4aad87b18d8443da339
 web/css/reference/selectors/_colon_modal,632289fcc10e926d166e1b49e5ba3505de182856
@@ -7435,7 +7436,7 @@ web/css/reference/selectors/_colon_popover-open,0cc9980e3b21c83d1800a428bc402ae1
 web/css/reference/selectors/_colon_read-only,no_hash_commit
 web/css/reference/selectors/_colon_read-write,no_hash_commit
 web/css/reference/selectors/_colon_required,no_hash_commit
-web/css/reference/selectors/_colon_right,a850ca867a8b380a53320bab6870fb7335f22d52
+web/css/reference/selectors/_colon_right,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors/_colon_root,no_hash_commit
 web/css/reference/selectors/_colon_scope,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/selectors/_colon_state,b60bc79c7ad36c56dddf6760d2fd4dbb642d2023

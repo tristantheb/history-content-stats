@@ -8868,7 +8868,7 @@ web/api/url/createobjecturl_static,44373c3805ba65db7542af75b664dc6fdce2aec0,Web 
 web/api/url/hash,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
 web/api/url/host,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
 web/api/url/hostname,734ede6d63422fb22232b555b6c521bd8939ca5f,Web APIs
-web/api/url/href,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
+web/api/url/href,55ed83b5960e15ae039e4ffefd35c006585c6f13,Web APIs
 web/api/url/origin,ad6c8d26d4d447c83e1003696b82bfcc10606c71,Web APIs
 web/api/url/parse_static,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/url/password,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
