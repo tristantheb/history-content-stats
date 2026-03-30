@@ -860,7 +860,7 @@ learn_web_development/core/styling_basics/test_your_skills/images,a623d4459e2aa0
 learn_web_development/core/styling_basics/test_your_skills/overflow,a623d4459e2aa00d17dc0fd6b6bc44f56c589950,Learn|Core Modules
 learn_web_development/core/styling_basics/test_your_skills/selectors,a623d4459e2aa00d17dc0fd6b6bc44f56c589950,Learn|Core Modules
 learn_web_development/core/styling_basics/test_your_skills/sizing,a623d4459e2aa00d17dc0fd6b6bc44f56c589950,Learn|Core Modules
-learn_web_development/core/styling_basics/test_your_skills/values,a623d4459e2aa00d17dc0fd6b6bc44f56c589950,Learn|Core Modules
+learn_web_development/core/styling_basics/test_your_skills/values,8c253b4a3c79adb13bc6a70427cc38f438b6a809,Learn|Core Modules
 learn_web_development/core/styling_basics/values_and_units,2b4a2ad5d9ba084a9eaa2f9204102655e7b575c4,Learn|Core Modules
 learn_web_development/core/styling_basics/what_is_css,79b46675e64c9b3e7c4333c17b21b692f78b39ec,Learn|Core Modules
 learn_web_development/core/text_styling,57bc2729e3963907c0b54158ae1a31318a2ebbd1,Learn|Core Modules
@@ -1955,7 +1955,7 @@ mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Fi
 mozilla/firefox/releases/148,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/149,05b5b1f7d349d5e48e197394c1c4ced51d5fc8ce,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
-mozilla/firefox/releases/150,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
+mozilla/firefox/releases/150,1c7b8308c11efc3468214b997eb1ac4150f76c18,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -3446,7 +3446,7 @@ web/api/document/bgcolor,cac79d099b0a4e48456cb53eb2435f6acf03e188,Web APIs
 web/api/document/body,79fdc26fea835d65c9361541bb8ab1896f307475,Web APIs
 web/api/document/browsingtopics,e936e7271df947f25184a5ba8a21445bbd4d056c,Web APIs
 web/api/document/caretpositionfrompoint,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
-web/api/document/caretrangefrompoint,3966c40a3917825e6e467f1592bc7f8d59458e74,Web APIs
+web/api/document/caretrangefrompoint,1c7b8308c11efc3468214b997eb1ac4150f76c18,Web APIs
 web/api/document/characterset,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
 web/api/document/childelementcount,41a8b9c9832359d445d136b6d7a8a28737badc6b,Web APIs
 web/api/document/children,41a8b9c9832359d445d136b6d7a8a28737badc6b,Web APIs
@@ -11399,7 +11399,7 @@ web/css/reference/values/tan,33094d735e90b4dcae5733331b79c51fee997410,CSS|Values
 web/css/reference/values/text-edge,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
 web/css/reference/values/time,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
 web/css/reference/values/time-percentage,33094d735e90b4dcae5733331b79c51fee997410,CSS|Values
-web/css/reference/values/timeline-range-name,f94b7a0b06a0e32df81ec8197720d306fe50a4a0,CSS|Values
+web/css/reference/values/timeline-range-name,96de3e876c96f644f3d9675024f992d5868b3ef1,CSS|Values
 web/css/reference/values/transform-function,8fd626a7b7f1fcb19193325bbac5b87e719f83ea,CSS|Values
 web/css/reference/values/transform-function/matrix,f69b6693212029ce4b9fa0c753729044577af548,CSS|Values
 web/css/reference/values/transform-function/matrix3d,f69b6693212029ce4b9fa0c753729044577af548,CSS|Values

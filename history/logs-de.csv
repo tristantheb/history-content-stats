@@ -2742,7 +2742,7 @@ web/api/canvasrenderingcontext2d/arc,a7265fc3effa7c25b9997135104370c057a65293
 web/api/canvasrenderingcontext2d/arcto,f336c5b6795a562c64fe859aa9ee2becf223ad8a
 web/api/canvasrenderingcontext2d/beginpath,a7265fc3effa7c25b9997135104370c057a65293
 web/api/canvasrenderingcontext2d/beziercurveto,a7265fc3effa7c25b9997135104370c057a65293
-web/api/canvasrenderingcontext2d/canvas,a7265fc3effa7c25b9997135104370c057a65293
+web/api/canvasrenderingcontext2d/canvas,8ccdf412fafde9ee333233cc4549ab4980291ee7
 web/api/canvasrenderingcontext2d/clearrect,a7265fc3effa7c25b9997135104370c057a65293
 web/api/canvasrenderingcontext2d/clip,7dd8030389cfb754034e2203a0c782555f17a89f
 web/api/canvasrenderingcontext2d/closepath,a7265fc3effa7c25b9997135104370c057a65293
@@ -10362,8 +10362,9 @@ web/css/guides/pseudo-elements,21d2342d16ed78d6c72c66a71599125eb2405a31
 web/css/guides/round_display,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/ruby_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/scoping,33094d735e90b4dcae5733331b79c51fee997410
-web/css/guides/scroll-driven_animations,a397ab763a6686a4056af755e4da32ac735b9fa5
-web/css/guides/scroll-driven_animations/timelines,a397ab763a6686a4056af755e4da32ac735b9fa5
+web/css/guides/scroll-driven_animations,f94b7a0b06a0e32df81ec8197720d306fe50a4a0
+web/css/guides/scroll-driven_animations/timeline_range_names,f94b7a0b06a0e32df81ec8197720d306fe50a4a0
+web/css/guides/scroll-driven_animations/timelines,f94b7a0b06a0e32df81ec8197720d306fe50a4a0
 web/css/guides/scroll_anchoring,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/scroll_anchoring/overview,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/scroll_snap/basic_concepts,a14f56b06eabf3b182ae4bc0e02634a8ccc01f20
@@ -10463,7 +10464,7 @@ web/css/reference/at-rules/@font-palette-values/override-colors,0b926fc3e7978240
 web/css/reference/at-rules/@function,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a
 web/css/reference/at-rules/@import,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/at-rules/@import/layer_function,33094d735e90b4dcae5733331b79c51fee997410
-web/css/reference/at-rules/@keyframes,a397ab763a6686a4056af755e4da32ac735b9fa5
+web/css/reference/at-rules/@keyframes,f94b7a0b06a0e32df81ec8197720d306fe50a4a0
 web/css/reference/at-rules/@layer,5005d73d35175d72a470c2285f1c3953a54e3688
 web/css/reference/at-rules/@media/-moz-device-pixel-ratio,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@media/-webkit-animation,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -10562,9 +10563,9 @@ web/css/reference/properties/animation-fill-mode,1dbba9f7a2c2e35c6e01e8a63159e2a
 web/css/reference/properties/animation-iteration-count,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/animation-name,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/animation-play-state,46a4425d4b7160129fd4c8d0f684ccd0617326b7
-web/css/reference/properties/animation-range-end,33094d735e90b4dcae5733331b79c51fee997410
-web/css/reference/properties/animation-range-start,33094d735e90b4dcae5733331b79c51fee997410
-web/css/reference/properties/animation-range,a397ab763a6686a4056af755e4da32ac735b9fa5
+web/css/reference/properties/animation-range-end,f94b7a0b06a0e32df81ec8197720d306fe50a4a0
+web/css/reference/properties/animation-range-start,f94b7a0b06a0e32df81ec8197720d306fe50a4a0
+web/css/reference/properties/animation-range,f94b7a0b06a0e32df81ec8197720d306fe50a4a0
 web/css/reference/properties/animation-timeline,21f3703f37be2ab064fb8cff005438f47f92a1de
 web/css/reference/properties/animation-timeline/scroll,b7534af9f369a80fe12556cba781890e87a171d9
 web/css/reference/properties/animation-timeline/view,8f7fa9e7aef0399c7a7f8e5a20476a0c2f287640
@@ -11231,7 +11232,7 @@ web/css/reference/selectors/combinators,93b85a5bc2b4589d93185263fd2c14381c36f821
 web/css/reference/selectors/descendant_combinator,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/id_selectors,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors,f8ef875113a7d3e9952f41de68be1e3a3a1e6988
-web/css/reference/selectors/keyframe_selectors,f8ef875113a7d3e9952f41de68be1e3a3a1e6988
+web/css/reference/selectors/keyframe_selectors,f94b7a0b06a0e32df81ec8197720d306fe50a4a0
 web/css/reference/selectors/namespace_separator,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/selectors/nesting_selector,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/selectors/next-sibling_combinator,33094d735e90b4dcae5733331b79c51fee997410
@@ -11397,7 +11398,7 @@ web/css/reference/values/tan,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/text-edge,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/values/time-percentage,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/time,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/values/timeline-range-name,0cc0da86bf55acce9f83eca7bbed9508fda98375
+web/css/reference/values/timeline-range-name,f94b7a0b06a0e32df81ec8197720d306fe50a4a0
 web/css/reference/values/transform-function,8fd626a7b7f1fcb19193325bbac5b87e719f83ea
 web/css/reference/values/transform-function/matrix,f69b6693212029ce4b9fa0c753729044577af548
 web/css/reference/values/transform-function/matrix3d,f69b6693212029ce4b9fa0c753729044577af548
