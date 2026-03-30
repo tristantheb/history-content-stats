@@ -4028,6 +4028,7 @@ web/api/rsahashedkeygenparams,8e49db2182a5ad4ddfcaecdefd3d2d67db20f213
 web/api/rsaoaepparams,2937558d5ed1e03d7f60b2de71dd9c17f490166e
 web/api/rsapssparams,3b22c657f659c249cbe6e4fc6794370a5cb67a72
 web/api/rtcaudiosourcestats/type,d32ba6a7c5a4c43029b92fab2e78e3bedc00b63c
+web/api/rtccertificatestats/timestamp,cc247a1dfe34f8c8a04071e9652c9c6a413870c8
 web/api/rtcdatachannel,no_hash_commit
 web/api/rtcdtmfsender/tonechange_event,no_hash_commit
 web/api/rtcicecandidate/address,592f6ec42e54981b6573b58ec0343c9aa8cbbda8
