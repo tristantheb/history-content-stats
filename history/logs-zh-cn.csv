@@ -3538,6 +3538,7 @@ web/api/mediastreamtrack/id,d0e6d8d712a33b9d3c7a9fb9a8ba85d4dd1b7002
 web/api/mediastreamtrack,no_hash_commit
 web/api/mediastreamtrack/readystate,no_hash_commit
 web/api/mediastreamtrack/stop,no_hash_commit
+web/api/mediastreamtrackprocessor/readable,a61be259435257328a25c462cb0f42bc91981a6f
 web/api/mediatrackconstraints,no_hash_commit
 web/api/messagechannel,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79
 web/api/messagechannel/messagechannel,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79
@@ -3585,6 +3586,7 @@ web/api/mutationobserver,no_hash_commit
 web/api/mutationobserver/mutationobserver,no_hash_commit
 web/api/mutationobserver/observe,no_hash_commit
 web/api/mutationobserver/takerecords,no_hash_commit
+web/api/mutationrecord/attributenamespace,ef75c1741b450c2331204be5563ee964ad5f4c48
 web/api/mutationrecord,no_hash_commit
 web/api/namednodemap/getnameditem,no_hash_commit
 web/api/namednodemap,no_hash_commit
@@ -3729,6 +3731,7 @@ web/api/ndefreader/ndefreader,ef75c1741b450c2331204be5563ee964ad5f4c48
 web/api/ndefreader/scan,acfe8c9f1f4145f77653a2bc64a9744b001358dc
 web/api/ndefreader/write,f75b2c86ae4168e59416aed4c7121f222afc201d
 web/api/ndefrecord/data,1a91b0b63f0cbaca9125bd48d4e5bc8afed2a7a3
+web/api/ndefrecord/encoding,5e3c69527de87e8ff9407de62e919db9254f0627
 web/api/network_information_api,895129fb017e0bb86c61f688d99ac4c5c75f4934
 web/api/networkinformation/change_event,895129fb017e0bb86c61f688d99ac4c5c75f4934
 web/api/networkinformation/downlink,895129fb017e0bb86c61f688d99ac4c5c75f4934
