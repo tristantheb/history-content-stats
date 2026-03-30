@@ -1955,7 +1955,7 @@ mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Fi
 mozilla/firefox/releases/148,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/149,05b5b1f7d349d5e48e197394c1c4ced51d5fc8ce,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
-mozilla/firefox/releases/150,1c7b8308c11efc3468214b997eb1ac4150f76c18,Mozilla|Firefox|Versions
+mozilla/firefox/releases/150,fdaba0255e02b46e8af2495d18999da32174125a,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -3440,7 +3440,7 @@ web/api/document/all,e8e22a6e6d6455222c8c1a1e1346a149d300ab35,Web APIs
 web/api/document/anchors,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
 web/api/document/append,bd15d43260b7e72b1066c04d9d9f3b79129c619c,Web APIs
 web/api/document/applets,be8f7f155a48e11b30c240f8731afb1845f85378,Web APIs
-web/api/document/arianotify,9af64ef430ad722b9cc3f75ccabeb8989c23b988,Web APIs
+web/api/document/arianotify,95f7d67d50d6398e9dbb5ac97670b2aef4809d5b,Web APIs
 web/api/document/beforescriptexecute_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/document/bgcolor,cac79d099b0a4e48456cb53eb2435f6acf03e188,Web APIs
 web/api/document/body,79fdc26fea835d65c9361541bb8ab1896f307475,Web APIs
@@ -3813,7 +3813,7 @@ web/api/element/arialive,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/ariamodal,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/ariamultiline,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/ariamultiselectable,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
-web/api/element/arianotify,9af64ef430ad722b9cc3f75ccabeb8989c23b988,Web APIs
+web/api/element/arianotify,95f7d67d50d6398e9dbb5ac97670b2aef4809d5b,Web APIs
 web/api/element/ariaorientation,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/ariaownselements,fbee1ad6d6add1319ce3e8e977033385a915c635,Web APIs
 web/api/element/ariaplaceholder,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs

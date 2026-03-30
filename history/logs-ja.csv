@@ -5476,6 +5476,11 @@ web/api/svglengthlist/length,4cf65c9c822d91583db20f6f160571c7ac303dec
 web/api/svglengthlist/numberofitems,49bbddc34034e59a63c0b2cda79e45c94ea9daa9
 web/api/svglengthlist/removeitem,39b9de4883b6d7606fd4549c894bbed6aafc7fc2
 web/api/svglengthlist/replaceitem,39b9de4883b6d7606fd4549c894bbed6aafc7fc2
+web/api/svglineargradientelement,226ac33eb70ed5411dd2d68bd602c80cafd780b6
+web/api/svglineargradientelement/x1,c2fd97474834e061404b992c8397d4ccc4439a71
+web/api/svglineargradientelement/x2,c2fd97474834e061404b992c8397d4ccc4439a71
+web/api/svglineargradientelement/y1,c2fd97474834e061404b992c8397d4ccc4439a71
+web/api/svglineargradientelement/y2,c2fd97474834e061404b992c8397d4ccc4439a71
 web/api/svgmaskelement/height,22080a7cc403f7f45c8e85065b182c9f0d4d383c
 web/api/svgmaskelement,226ac33eb70ed5411dd2d68bd602c80cafd780b6
 web/api/svgmaskelement/maskcontentunits,22080a7cc403f7f45c8e85065b182c9f0d4d383c
@@ -6838,7 +6843,7 @@ web/css/reference/at-rules/@property,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a
 web/css/reference/at-rules/@property/inherits,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@property/initial-value,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@property/syntax,33094d735e90b4dcae5733331b79c51fee997410
-web/css/reference/at-rules/@scope,0fe8f4d7e9cd5b1b6a39e9fa047468206d3c3ca2
+web/css/reference/at-rules/@scope,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/at-rules/@starting-style,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@supports,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/at-rules/@view-transition,b60bc79c7ad36c56dddf6760d2fd4dbb642d2023
@@ -7294,7 +7299,7 @@ web/css/reference/properties/shape-outside,33094d735e90b4dcae5733331b79c51fee997
 web/css/reference/properties/stroke-dasharray,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/properties/stroke-dashoffset,06639598f7805417a0331fe403304af9c7ecc2de
 web/css/reference/properties/stroke-linecap,06639598f7805417a0331fe403304af9c7ecc2de
-web/css/reference/properties/stroke-linejoin,0cc9980e3b21c83d1800a428bc402ae1865326b2
+web/css/reference/properties/stroke-linejoin,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/stroke-miterlimit,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/properties/stroke-opacity,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/properties/stroke-width,0cc9980e3b21c83d1800a428bc402ae1865326b2
@@ -7363,7 +7368,7 @@ web/css/reference/properties/white-space-collapse,85fccefc8066bd49af4ddafc12c77f
 web/css/reference/properties/white-space,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/reference/properties/widows,c77cfcd17e85db6c1b93160c70668f2ff6c2809c
 web/css/reference/properties/width,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/will-change,no_hash_commit
+web/css/reference/properties/will-change,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/word-break,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/word-spacing,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/writing-mode,dd7de10dc91e9f2df29b80fec20da303439b6215
@@ -7379,7 +7384,7 @@ web/css/reference/selectors/_colon_-moz-locale-dir_rtl,no_hash_commit
 web/css/reference/selectors/_colon_-moz-only-whitespace,e1608631832f2608632569d0bd4061372adc5199
 web/css/reference/selectors/_colon_-moz-submit-invalid,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_colon_-moz-user-disabled,c52ed787442db9d65b21f5c2874fa6bfd08a253a
-web/css/reference/selectors/_colon_active,33a12980eb49cc795a41f15ec7a0181270ad3048
+web/css/reference/selectors/_colon_active,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_colon_any-link,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/css/reference/selectors/_colon_autofill,33a12980eb49cc795a41f15ec7a0181270ad3048
 web/css/reference/selectors/_colon_blank,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7395,9 +7400,9 @@ web/css/reference/selectors/_colon_enabled,no_hash_commit
 web/css/reference/selectors/_colon_first-child,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/selectors/_colon_first-of-type,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_colon_first,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/selectors/_colon_focus-visible,0cc9980e3b21c83d1800a428bc402ae1865326b2
-web/css/reference/selectors/_colon_focus-within,ac2874857a3de0be38430e58068597edf0afa2b2
-web/css/reference/selectors/_colon_focus,5fea7c9593f5e4b4ef13ec65064acf1eabf01e4e
+web/css/reference/selectors/_colon_focus-visible,33094d735e90b4dcae5733331b79c51fee997410
+web/css/reference/selectors/_colon_focus-within,c52ed787442db9d65b21f5c2874fa6bfd08a253a
+web/css/reference/selectors/_colon_focus,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_colon_fullscreen,no_hash_commit
 web/css/reference/selectors/_colon_future,4d51a212bfda5ce9978d162caf5532d155f7eb0a
 web/css/reference/selectors/_colon_has-slotted,e13b6ffe7c9cb05c6a89fcb3c8fcbc987eb05211
@@ -7409,7 +7414,7 @@ web/css/reference/selectors/_colon_hover,c52ed787442db9d65b21f5c2874fa6bfd08a253
 web/css/reference/selectors/_colon_in-range,no_hash_commit
 web/css/reference/selectors/_colon_indeterminate,no_hash_commit
 web/css/reference/selectors/_colon_invalid,no_hash_commit
-web/css/reference/selectors/_colon_is,0cc9980e3b21c83d1800a428bc402ae1865326b2
+web/css/reference/selectors/_colon_is,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/selectors/_colon_lang,acfe8c9f1f4145f77653a2bc64a9744b001358dc
 web/css/reference/selectors/_colon_last-child,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_colon_last-of-type,c52ed787442db9d65b21f5c2874fa6bfd08a253a
@@ -7488,9 +7493,9 @@ web/css/reference/selectors/_doublecolon_view-transition,1a27ade8c981c8a98c8fac9
 web/css/reference/selectors/attribute_selectors,ff4dc3d43e814614df60ecdb7376b59698660ac2
 web/css/reference/selectors/child_combinator,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/class_selectors,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/selectors/column_combinator,no_hash_commit
+web/css/reference/selectors/column_combinator,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors/combinators,c52ed787442db9d65b21f5c2874fa6bfd08a253a
-web/css/reference/selectors/descendant_combinator,no_hash_commit
+web/css/reference/selectors/descendant_combinator,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors/id_selectors,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/keyframe_selectors,f8ef875113a7d3e9952f41de68be1e3a3a1e6988
@@ -7500,7 +7505,7 @@ web/css/reference/selectors/next-sibling_combinator,33094d735e90b4dcae5733331b79
 web/css/reference/selectors/pseudo-classes,f8ef875113a7d3e9952f41de68be1e3a3a1e6988
 web/css/reference/selectors/pseudo-elements,21d2342d16ed78d6c72c66a71599125eb2405a31
 web/css/reference/selectors/selector_list,4aacbcc92d55473a07225b7102c9e1d705e89ead
-web/css/reference/selectors/subsequent-sibling_combinator,bb652aaf3e38f3c7fef970a62f813047dffac879
+web/css/reference/selectors/subsequent-sibling_combinator,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors/type_selectors,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors/universal_selectors,ca0d81a57fd36cf5da9621c44171d0f333f3f3e1
 web/css/reference/values/-moz-image-rect,no_hash_commit
@@ -9403,6 +9408,8 @@ web/svg/reference/attribute/filter,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/filterunits,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/font-size,da8c3171b7a7ea6694af71fac7a3194d8e9ba869
 web/svg/reference/attribute/font-style,da8c3171b7a7ea6694af71fac7a3194d8e9ba869
+web/svg/reference/attribute/gradienttransform,bb3478393fbb30212a6aeb33235dadf2d627fd4a
+web/svg/reference/attribute/gradientunits,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/svg/reference/attribute/height,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/href,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/attribute/id,c2fd97474834e061404b992c8397d4ccc4439a71
@@ -9429,6 +9436,7 @@ web/svg/reference/attribute/rotate,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/scale,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/side,7615562a3689a3e23a2b6b623597f4391740a53e
 web/svg/reference/attribute/spacing,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/spreadmethod,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/startoffset,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/stop-color,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/stroke-dasharray,c2fd97474834e061404b992c8397d4ccc4439a71
@@ -9451,8 +9459,11 @@ web/svg/reference/attribute/width,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/writing-mode,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/x,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/x1,c2fd97474834e061404b992c8397d4ccc4439a71
-web/svg/reference/attribute/xlink_colon_href,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/x2,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/xlink_colon_href,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/y,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/y1,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/y2,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/a,3ee333bf5e414ac81c452ec10fed7af645c96740
 web/svg/reference/element/animate,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/animatemotion,34c204f8f6c3f7ac60ebb23fca9798680aee9956
@@ -9473,7 +9484,7 @@ web/svg/reference/element/g,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/image,bec7ef59277e752985de0ee963c86f6e8e4b3400
 web/svg/reference/element,c1564acf160ef4b320fb7b89ab65211b9c50cf1b
 web/svg/reference/element/line,34c204f8f6c3f7ac60ebb23fca9798680aee9956
-web/svg/reference/element/lineargradient,34c204f8f6c3f7ac60ebb23fca9798680aee9956
+web/svg/reference/element/lineargradient,6aeb1ae589087f90e99bdeffd57c258ebfc81b29
 web/svg/reference/element/marker,da8c3171b7a7ea6694af71fac7a3194d8e9ba869
 web/svg/reference/element/mask,34c204f8f6c3f7ac60ebb23fca9798680aee9956
 web/svg/reference/element/metadata,c2fd97474834e061404b992c8397d4ccc4439a71
