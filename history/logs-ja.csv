@@ -7782,6 +7782,7 @@ web/html/reference/elements/dl,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/dt,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/em,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/embed,942a529383ee7ee3996fb234187641c08935f3ff
+web/html/reference/elements/fencedframe,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
 web/html/reference/elements/fieldset,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/html/reference/elements/figcaption,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/figure,e04d8d2766c468f149445c0bf438d09f9b2d188c
@@ -9562,6 +9563,7 @@ web/xml/guides/parsing_and_serializing_xml,26e46f8c13ebea65dc65a6e99e51e8fa4d5d6
 web/xml/guides/xml_introduction,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
 web/xml,no_hash_commit
 web/xml/xpath/guides/comparison_with_css_selectors,bb652aaf3e38f3c7fef970a62f813047dffac879
+web/xml/xpath/guides,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
 web/xml/xpath/guides/introduction_to_using_xpath_in_javascript,b6f343538eac4a803943b4e99b0c0545b372645a
 web/xml/xpath/guides/snippets,b6f343538eac4a803943b4e99b0c0545b372645a
 web/xml/xpath,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
