@@ -1628,7 +1628,7 @@ mozilla/add-ons/webextensions/api/storage/storagearea/set,09109b6f9444d22215ba33
 mozilla/add-ons/webextensions/api/storage/storagearea/setaccesslevel,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/storage/storagechange,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/storage/sync,89d941878af42738cbd429acaa06789db7fa55f6,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabgroups,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabgroups,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabgroups/color,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabgroups/get,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabgroups/move,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1640,7 +1640,7 @@ mozilla/add-ons/webextensions/api/tabgroups/query,0ddea08f7bbefccc38ae86977a2d13
 mozilla/add-ons/webextensions/api/tabgroups/tab_group_id_none,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabgroups/tabgroup,4c2c5febdf57cb0b5bdd5d55fc44b965ff41b10f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabgroups/update,0ddea08f7bbefccc38ae86977a2d138420cc8a67,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabs,a0cae6a26d6b7263ddea94c4e3b3484fe218b354,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabs,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/capturetab,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/capturevisibletab,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/connect,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1661,7 +1661,7 @@ mozilla/add-ons/webextensions/api/tabs/group,09109b6f9444d22215ba330ec1e64e73980
 mozilla/add-ons/webextensions/api/tabs/hide,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/highlight,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/insertcss,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabs/move,a0cae6a26d6b7263ddea94c4e3b3484fe218b354,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabs/move,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/moveinsuccession,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/mutedinfo,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/mutedinforeason,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1676,14 +1676,14 @@ mozilla/add-ons/webextensions/api/tabs/onmoved,09109b6f9444d22215ba330ec1e64e739
 mozilla/add-ons/webextensions/api/tabs/onremoved,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/onreplaced,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/onselectionchanged,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabs/onupdated,a0cae6a26d6b7263ddea94c4e3b3484fe218b354,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabs/onupdated,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/onzoomchange,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/pagesettings,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/print,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/printpreview,6036cd414b2214f85901158bdf3e3a96123d4553,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabs/query,a0cae6a26d6b7263ddea94c4e3b3484fe218b354,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabs/query,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/reload,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabs/remove,a0cae6a26d6b7263ddea94c4e3b3484fe218b354,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabs/remove,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/removecss,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/saveaspdf,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/sendmessage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1691,8 +1691,8 @@ mozilla/add-ons/webextensions/api/tabs/sendrequest,09109b6f9444d22215ba330ec1e64
 mozilla/add-ons/webextensions/api/tabs/setzoom,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/setzoomsettings,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/show,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabs/split_view_id_none,a0cae6a26d6b7263ddea94c4e3b3484fe218b354,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabs/tab,a0cae6a26d6b7263ddea94c4e3b3484fe218b354,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabs/split_view_id_none,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabs/tab,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/tab_id_none,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/tabstatus,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/togglereadermode,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1888,11 +1888,11 @@ mozilla/add-ons/webextensions/work_with_contextual_identities,09109b6f9444d22215
 mozilla/add-ons/webextensions/work_with_the_bookmarks_api,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/work_with_the_cookies_api,7348ad4bf0fa7351041e9a3661c8a2bd2659d6e5,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/working_with_files,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/working_with_the_tabs_api,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_first_webextension,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,2316f965c94daf0dd90b65d79b5cefb6a191ed5c,Mozilla|Firefox
+mozilla/firefox/experimental_features,dff5cf41707dcdcb40785a9bfdc5bfaa38eeda70,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1955,7 +1955,7 @@ mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Fi
 mozilla/firefox/releases/148,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/149,05b5b1f7d349d5e48e197394c1c4ced51d5fc8ce,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
-mozilla/firefox/releases/150,fdaba0255e02b46e8af2495d18999da32174125a,Mozilla|Firefox|Versions
+mozilla/firefox/releases/150,dff5cf41707dcdcb40785a9bfdc5bfaa38eeda70,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -10778,7 +10778,7 @@ web/css/reference/properties/font-variant-numeric,1dbba9f7a2c2e35c6e01e8a63159e2
 web/css/reference/properties/font-variant-position,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b,CSS|Properties
 web/css/reference/properties/font-variation-settings,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
 web/css/reference/properties/font-weight,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
-web/css/reference/properties/font-width,de5b557883e8eff2514f0fe6eeb180db782575b1,CSS|Properties
+web/css/reference/properties/font-width,3e97bf7d99f829a3cab9676837e8d9beabf9a1de,CSS|Properties
 web/css/reference/properties/forced-color-adjust,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
 web/css/reference/properties/gap,18257cdbf1d31e61780c52ef36e6fd582eba8d3c,CSS|Properties
 web/css/reference/properties/grid,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b,CSS|Properties
@@ -13606,7 +13606,7 @@ web/svg/guides/svg_as_an_image,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,SVG|Guid
 web/svg/guides/svg_filters,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Guides
 web/svg/guides/svg_in_html,a1765c2cad20118be0dad322d3548908787b5791,SVG|Guides
 web/svg/reference,c2fd97474834e061404b992c8397d4ccc4439a71,SVG
-web/svg/reference/attribute,55326f330a6ae829494c7606b1bd47b2c0f9d888,SVG|Attribute
+web/svg/reference/attribute,3e97bf7d99f829a3cab9676837e8d9beabf9a1de,SVG|Attribute
 web/svg/reference/attribute/accumulate,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/additive,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/alignment-baseline,85fccefc8066bd49af4ddafc12c77f35265c7e2d,SVG|Attribute
@@ -13660,10 +13660,11 @@ web/svg/reference/attribute/flood-opacity,a9063bb88f28dc2a9b32e39f060ab6930663da
 web/svg/reference/attribute/font-family,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
 web/svg/reference/attribute/font-size,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
 web/svg/reference/attribute/font-size-adjust,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
-web/svg/reference/attribute/font-stretch,3d7c7d4e151ff1b578bef4eff10c201b761a9d7d,SVG|Attribute
+web/svg/reference/attribute/font-stretch,3e97bf7d99f829a3cab9676837e8d9beabf9a1de,SVG|Attribute
 web/svg/reference/attribute/font-style,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
 web/svg/reference/attribute/font-variant,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
 web/svg/reference/attribute/font-weight,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
+web/svg/reference/attribute/font-width,3e97bf7d99f829a3cab9676837e8d9beabf9a1de,SVG|Attribute
 web/svg/reference/attribute/fr,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/from,ab279632b84d201ae9ddd3db3981bf0b01573371,SVG|Attribute
 web/svg/reference/attribute/fx,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
@@ -14095,7 +14096,7 @@ webassembly/guides/rust_to_wasm,e134d50d779647ba26ee41d7bbefc8d3b4e8fba6,WebAsse
 webassembly/guides/text_format_to_wasm,95a7913cbb3523812bbff003e4d4015e928e35c9,WebAssembly|Guides
 webassembly/guides/understanding_the_text_format,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Guides
 webassembly/guides/using_the_javascript_api,e134d50d779647ba26ee41d7bbefc8d3b4e8fba6,WebAssembly|Guides
-webassembly/reference,e134d50d779647ba26ee41d7bbefc8d3b4e8fba6,WebAssembly
+webassembly/reference,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
 webassembly/reference/control_flow,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Control Flow
 webassembly/reference/control_flow/block,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Control Flow
 webassembly/reference/control_flow/br,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Control Flow
@@ -14199,7 +14200,7 @@ webassembly/reference/numeric/trunc_float,ebf92d37f836b490640a7881c4e5db5c1dea8f
 webassembly/reference/numeric/trunc_int,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Numeric
 webassembly/reference/numeric/wrap,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Numeric
 webassembly/reference/numeric/xor,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Numeric
-webassembly/reference/simd,54f08abfc534ac02e9f56a65080cd839fd126b2d,WebAssembly
+webassembly/reference/simd,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
 webassembly/reference/simd/bitwise,54f08abfc534ac02e9f56a65080cd839fd126b2d,WebAssembly
 webassembly/reference/simd/bitwise/shl,54f08abfc534ac02e9f56a65080cd839fd126b2d,WebAssembly
 webassembly/reference/simd/bitwise/shr_s,54f08abfc534ac02e9f56a65080cd839fd126b2d,WebAssembly
@@ -14226,6 +14227,24 @@ webassembly/reference/simd/extract,54f08abfc534ac02e9f56a65080cd839fd126b2d,WebA
 webassembly/reference/simd/extract/extract_lane,54f08abfc534ac02e9f56a65080cd839fd126b2d,WebAssembly
 webassembly/reference/simd/extract/extract_lane_s,54f08abfc534ac02e9f56a65080cd839fd126b2d,WebAssembly
 webassembly/reference/simd/extract/extract_lane_u,54f08abfc534ac02e9f56a65080cd839fd126b2d,WebAssembly
+webassembly/reference/simd/load,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load16_lane,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load16_splat,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load16x4_s,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load16x4_u,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load32_lane,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load32_splat,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load32_zero,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load32x2_s,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load32x2_u,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load64_lane,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load64_splat,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load64_zero,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load8_lane,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load8_splat,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load8x8_s,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
+webassembly/reference/simd/load/load8x8_u,d3b22d8099235ad3a0ef2a494106fc2ea178863d,WebAssembly
 webassembly/reference/table,e134d50d779647ba26ee41d7bbefc8d3b4e8fba6,WebAssembly|Table
 webassembly/reference/table/fill,54f08abfc534ac02e9f56a65080cd839fd126b2d,WebAssembly|Table
 webassembly/reference/table/get,54f08abfc534ac02e9f56a65080cd839fd126b2d,WebAssembly|Table
