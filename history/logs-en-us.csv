@@ -9748,9 +9748,9 @@ web/api/window/scrolly,896a41d7d9832367a1e24af567fb419e9d4182f8,Web APIs
 web/api/window/self,cc070123f72376faec06e36622c4fc723a75325f,Web APIs
 web/api/window/sessionstorage,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/window/setimmediate,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/window/setinterval,21ed9a1338b207e8a39064583c19d9f720235235,Web APIs
+web/api/window/setinterval,6ee50f37f78b647f2d61741e94d0792098d8af88,Web APIs
 web/api/window/setresizable,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
-web/api/window/settimeout,30471395dc9e28edda6c228e23d0c465b4fbaf65,Web APIs
+web/api/window/settimeout,6ee50f37f78b647f2d61741e94d0792098d8af88,Web APIs
 web/api/window/sharedstorage,e936e7271df947f25184a5ba8a21445bbd4d056c,Web APIs
 web/api/window/showdirectorypicker,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/window/showopenfilepicker,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
