@@ -250,7 +250,7 @@ glossary/falsy,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/favicon,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/federated_identity,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/fetch_directive,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
-glossary/fetch_metadata_request_header,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
+glossary/fetch_metadata_request_header,81bf621759d3a52fdf737c2d75f186a0073d1406,Glossary
 glossary/fingerprinting,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/firefox_os,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/firewall,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
@@ -319,7 +319,7 @@ glossary/http,9584088475846ff014dadddf8f6eff25c0796bbb,Glossary
 glossary/http_2,30d3d33b476209c803c07316eaa580474addfff2,Glossary
 glossary/http_3,30d3d33b476209c803c07316eaa580474addfff2,Glossary
 glossary/http_content,13839b2979cc244034ffb1fe243240778b0cd23f,Glossary
-glossary/http_header,bd348e521463e3d0d0bdc4c91d35c1de82a0f5c3,Glossary
+glossary/http_header,81bf621759d3a52fdf737c2d75f186a0073d1406,Glossary
 glossary/https,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Glossary
 glossary/https_rr,0c81cbce5f95a0be935724bcd936f5592774eb3a,Glossary
 glossary/hyperlink,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
@@ -11715,6 +11715,7 @@ web/http/guides/csp,6720d579bd658f02c56363805e97e69f93dc79f1,HTTP|Guides
 web/http/guides/csp/errors,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,HTTP|Guides
 web/http/guides/csp/errors/cspviolation,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/evolution_of_http,f9a9e52d36680ee55fb9f3f1dfc41ca3cdce046f,HTTP|Guides
+web/http/guides/fetch_metadata,81bf621759d3a52fdf737c2d75f186a0073d1406,HTTP|Guides
 web/http/guides/iframe_credentialless,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,HTTP|Guides
 web/http/guides/messages,7a32241450ff246ab9035aca6e54483349ce855b,HTTP|Guides
 web/http/guides/mime_types,055bf71b1941f23bfcef39ab5b3393f9601b82b6,HTTP|Guides
@@ -11920,11 +11921,11 @@ web/http/reference/headers/sec-ch-ua-wow64,ad5b5e31f81795d692e66dadb7818ba8b220a
 web/http/reference/headers/sec-ch-viewport-height,423161782178b119c64cd0b41bff8df20dc84a56,HTTP|Headers
 web/http/reference/headers/sec-ch-viewport-width,423161782178b119c64cd0b41bff8df20dc84a56,HTTP|Headers
 web/http/reference/headers/sec-ch-width,f8ef875113a7d3e9952f41de68be1e3a3a1e6988,HTTP|Headers
-web/http/reference/headers/sec-fetch-dest,35cd6674593c03f5c9130a9d7d7dc5534dc47e36,HTTP|Headers
-web/http/reference/headers/sec-fetch-mode,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
-web/http/reference/headers/sec-fetch-site,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
+web/http/reference/headers/sec-fetch-dest,81bf621759d3a52fdf737c2d75f186a0073d1406,HTTP|Headers
+web/http/reference/headers/sec-fetch-mode,81bf621759d3a52fdf737c2d75f186a0073d1406,HTTP|Headers
+web/http/reference/headers/sec-fetch-site,81bf621759d3a52fdf737c2d75f186a0073d1406,HTTP|Headers
 web/http/reference/headers/sec-fetch-storage-access,e936e7271df947f25184a5ba8a21445bbd4d056c,HTTP|Headers
-web/http/reference/headers/sec-fetch-user,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
+web/http/reference/headers/sec-fetch-user,81bf621759d3a52fdf737c2d75f186a0073d1406,HTTP|Headers
 web/http/reference/headers/sec-gpc,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/sec-private-state-token,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678,HTTP|Headers
 web/http/reference/headers/sec-private-state-token-crypto-version,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678,HTTP|Headers
@@ -13557,7 +13558,7 @@ web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,3
 web/security,dd868507df863ab4f37d53c960c76e20e9ee365f,Security
 web/security/attacks,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Security|Attacks
 web/security/attacks/clickjacking,d67650e38cd150ce190e5116355fcb362eb759bd,Security|Attacks
-web/security/attacks/csrf,b07e3b87504a8984cf31d7a735ec373d33a11cd5,Security|Attacks
+web/security/attacks/csrf,81bf621759d3a52fdf737c2d75f186a0073d1406,Security|Attacks
 web/security/attacks/idor,aa6c136a56b7861893376386fc572e9a505d39db,Security|Attacks
 web/security/attacks/mitm,8e6760da4c8c8e3fbbabe9686ba16850c99092ba,Security|Attacks
 web/security/attacks/phishing,849ca26a53af83dbb6b576b6f05ea618f9291d1f,Security|Attacks
@@ -13565,7 +13566,7 @@ web/security/attacks/prototype_pollution,00c3b9fb6ead031e43863460add87321f262696
 web/security/attacks/ssrf,2290fdbf9d5cf68482245d07d388b883156058ac,Security|Attacks
 web/security/attacks/subdomain_takeover,df8445288d6a7c39ef7d7c711af2189790b23831,Security|Attacks
 web/security/attacks/supply_chain_attacks,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Security|Attacks
-web/security/attacks/xs-leaks,b07e3b87504a8984cf31d7a735ec373d33a11cd5,Security|Attacks
+web/security/attacks/xs-leaks,81bf621759d3a52fdf737c2d75f186a0073d1406,Security|Attacks
 web/security/attacks/xss,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,Security|Attacks
 web/security/authentication,64e7d62e466859d471791367050ab2cc40d36506,Security|Authentication
 web/security/authentication/federated_identity,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Security|Authentication
