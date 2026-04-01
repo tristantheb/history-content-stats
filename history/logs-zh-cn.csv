@@ -3492,9 +3492,12 @@ web/api/mediadevices,no_hash_commit
 web/api/mediadevices/selectaudiooutput,cfb7587e3e3122630ad6cbd94d834ecadbe0a746
 web/api/mediaelementaudiosourcenode,no_hash_commit
 web/api/mediaencryptedevent/initdata,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
+web/api/mediakeymessageevent/message,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysession/expiration,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysession/load,no_hash_commit
+web/api/mediakeystatusmap/size,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysystemaccess,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
+web/api/mediakeysystemaccess/keysystem,b01f35e069ca9d1c343f24b5d755d210c6107164
 web/api/medialist,no_hash_commit
 web/api/mediaquerylist/addlistener,no_hash_commit
 web/api/mediaquerylist/change_event,no_hash_commit
@@ -3507,6 +3510,7 @@ web/api/mediarecorder/dataavailable_event,no_hash_commit
 web/api/mediarecorder,no_hash_commit
 web/api/mediarecorder/istypesupported_static,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf
 web/api/mediarecorder/mediarecorder,no_hash_commit
+web/api/mediarecorder/videobitspersecond,2fcb562ec9bf1bf36d195d9bebb8a27515fa49f4
 web/api/mediasession,no_hash_commit
 web/api/mediasession/setactionhandler,no_hash_commit
 web/api/mediasource/activesourcebuffers,no_hash_commit
