@@ -3493,8 +3493,11 @@ web/api/mediadevices/selectaudiooutput,cfb7587e3e3122630ad6cbd94d834ecadbe0a746
 web/api/mediaelementaudiosourcenode,no_hash_commit
 web/api/mediaencryptedevent/initdata,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/api/mediakeymessageevent/message,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
+web/api/mediakeysession/closed,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysession/expiration,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
+web/api/mediakeysession/keystatuses,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysession/load,no_hash_commit
+web/api/mediakeysession/sessionid,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeystatusmap/size,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysystemaccess,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysystemaccess/keysystem,b01f35e069ca9d1c343f24b5d755d210c6107164
@@ -3505,6 +3508,7 @@ web/api/mediaquerylist,no_hash_commit
 web/api/mediaquerylist/matches,no_hash_commit
 web/api/mediaquerylistevent,no_hash_commit
 web/api/mediaquerylistevent/mediaquerylistevent,no_hash_commit
+web/api/mediarecorder/audiobitratemode,0267fa593fc01609738d486f8755bda8e95ecdf2
 web/api/mediarecorder/audiobitspersecond,no_hash_commit
 web/api/mediarecorder/dataavailable_event,no_hash_commit
 web/api/mediarecorder,no_hash_commit
@@ -4034,6 +4038,7 @@ web/api/rsapssparams,3b22c657f659c249cbe6e4fc6794370a5cb67a72
 web/api/rtcaudiosourcestats/type,d32ba6a7c5a4c43029b92fab2e78e3bedc00b63c
 web/api/rtccertificatestats/timestamp,cc247a1dfe34f8c8a04071e9652c9c6a413870c8
 web/api/rtcdatachannel,no_hash_commit
+web/api/rtcdatachannelstats/id,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
 web/api/rtcdtmfsender/tonechange_event,no_hash_commit
 web/api/rtcicecandidate/address,592f6ec42e54981b6573b58ec0343c9aa8cbbda8
 web/api/rtcicecandidate/candidate,1a91b0b63f0cbaca9125bd48d4e5bc8afed2a7a3
@@ -6642,7 +6647,7 @@ web/javascript/reference/global_objects/math/floor,no_hash_commit
 web/javascript/reference/global_objects/math/fround,no_hash_commit
 web/javascript/reference/global_objects/math/hypot,no_hash_commit
 web/javascript/reference/global_objects/math/imul,no_hash_commit
-web/javascript/reference/global_objects/math,no_hash_commit
+web/javascript/reference/global_objects/math,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/math/ln10,no_hash_commit
 web/javascript/reference/global_objects/math/ln2,no_hash_commit
 web/javascript/reference/global_objects/math/log,no_hash_commit
@@ -7042,7 +7047,8 @@ web/javascript/reference/operators/unsigned_right_shift_assignment,no_hash_commi
 web/javascript/reference/operators/void,no_hash_commit
 web/javascript/reference/operators/yield,no_hash_commit
 web/javascript/reference/operators/yield_star_,no_hash_commit
-web/javascript/reference/regular_expressions/character_escape,fad67be4431d8e6c2a89ac880735233aa76c41d4
+web/javascript/reference/regular_expressions/backreference,fad67be4431d8e6c2a89ac880735233aa76c41d4
+web/javascript/reference/regular_expressions/character_escape,a7acf4c7a38f1df8f5d0dee1f17672968ac979d5
 web/javascript/reference/regular_expressions,4f86aad2b0b66c0d2041354ec81400c574ab56ca
 web/javascript/reference/regular_expressions/literal_character,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/regular_expressions/quantifier,4f86aad2b0b66c0d2041354ec81400c574ab56ca
