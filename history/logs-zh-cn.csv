@@ -3483,6 +3483,7 @@ web/api/media_source_extensions_api,no_hash_commit
 web/api/mediacapabilities/encodinginfo,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf
 web/api/mediacapabilities,49f6e40b12be0d6d897d3dab09caafbc093f7677
 web/api/mediadeviceinfo/deviceid,4232f4067388fc9b2c55c5f9200dddf05bd99b74
+web/api/mediadeviceinfo/kind,4232f4067388fc9b2c55c5f9200dddf05bd99b74
 web/api/mediadevices/devicechange_event,no_hash_commit
 web/api/mediadevices/enumeratedevices,no_hash_commit
 web/api/mediadevices/getdisplaymedia,no_hash_commit
@@ -3492,6 +3493,7 @@ web/api/mediadevices,no_hash_commit
 web/api/mediadevices/selectaudiooutput,cfb7587e3e3122630ad6cbd94d834ecadbe0a746
 web/api/mediaelementaudiosourcenode,no_hash_commit
 web/api/mediaencryptedevent/initdata,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
+web/api/mediaencryptedevent/initdatatype,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeymessageevent/message,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysession/closed,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysession/expiration,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
@@ -3544,6 +3546,7 @@ web/api/mediastreamtrack/getcapabilities,no_hash_commit
 web/api/mediastreamtrack/getconstraints,no_hash_commit
 web/api/mediastreamtrack/id,d0e6d8d712a33b9d3c7a9fb9a8ba85d4dd1b7002
 web/api/mediastreamtrack,no_hash_commit
+web/api/mediastreamtrack/label,d0e6d8d712a33b9d3c7a9fb9a8ba85d4dd1b7002
 web/api/mediastreamtrack/readystate,no_hash_commit
 web/api/mediastreamtrack/stop,no_hash_commit
 web/api/mediastreamtrackprocessor/readable,a61be259435257328a25c462cb0f42bc91981a6f
@@ -3563,6 +3566,7 @@ web/api/messageport/start,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79
 web/api/midiaccess,no_hash_commit
 web/api/midiconnectionevent,no_hash_commit
 web/api/midiinputmap,89c435da452257b944b403cc9e45036fcb22590e
+web/api/midioutputmap,89c435da452257b944b403cc9e45036fcb22590e
 web/api/mimetype,no_hash_commit
 web/api/mouseevent/altkey,no_hash_commit
 web/api/mouseevent/button,no_hash_commit
@@ -3926,6 +3930,7 @@ web/api/plugin,802b6063046dffb7634d2138aadcd92cb22ed40c
 web/api/pointer_events,no_hash_commit
 web/api/pointer_lock_api,802b6063046dffb7634d2138aadcd92cb22ed40c
 web/api/pointerevent,no_hash_commit
+web/api/presentationconnection/id,b25d8774aa7bcc6a053e26cf804ad454f51e134b
 web/api/processinginstruction,b5c766f4eecb4fcf9d8ba175caddb94f7c3e9d20
 web/api/processinginstruction/sheet,acfe8c9f1f4145f77653a2bc64a9744b001358dc
 web/api/processinginstruction/target,acfe8c9f1f4145f77653a2bc64a9744b001358dc
@@ -4037,6 +4042,8 @@ web/api/rsaoaepparams,2937558d5ed1e03d7f60b2de71dd9c17f490166e
 web/api/rsapssparams,3b22c657f659c249cbe6e4fc6794370a5cb67a72
 web/api/rtcaudiosourcestats/type,d32ba6a7c5a4c43029b92fab2e78e3bedc00b63c
 web/api/rtccertificatestats/timestamp,cc247a1dfe34f8c8a04071e9652c9c6a413870c8
+web/api/rtccodecstats/id,667d3fc3409c0524a1fb97a7f3d784606d12f48d
+web/api/rtccodecstats/type,667d3fc3409c0524a1fb97a7f3d784606d12f48d
 web/api/rtcdatachannel,no_hash_commit
 web/api/rtcdatachannelstats/id,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
 web/api/rtcdtmfsender/tonechange_event,no_hash_commit
@@ -5854,7 +5861,7 @@ web/html/reference/elements/heading_elements,no_hash_commit
 web/html/reference/elements/hgroup,no_hash_commit
 web/html/reference/elements/hr,no_hash_commit
 web/html/reference/elements/html,bf671984cfef2f7c6419571d834a146c5424ac10
-web/html/reference/elements/i,no_hash_commit
+web/html/reference/elements/i,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/elements/iframe,f98675af9d0a80f33d7875c48cfdb41f71ed1de9
 web/html/reference/elements/img,70285e396b5c97675e90b85d573be42078e0168e
 web/html/reference/elements,c9b674213a99a5ad5ed35ecd9b1b88c9c6631545
@@ -7054,6 +7061,7 @@ web/javascript/reference/regular_expressions/literal_character,fad67be4431d8e6c2
 web/javascript/reference/regular_expressions/quantifier,4f86aad2b0b66c0d2041354ec81400c574ab56ca
 web/javascript/reference/regular_expressions/unicode_character_class_escape,no_hash_commit
 web/javascript/reference/regular_expressions/wildcard,fad67be4431d8e6c2a89ac880735233aa76c41d4
+web/javascript/reference/regular_expressions/word_boundary_assertion,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/statements/async_function,b15c892914bbaa51a8c8f288426ebc6d5c1d57f8
 web/javascript/reference/statements/async_function_star_,4f86aad2b0b66c0d2041354ec81400c574ab56ca
 web/javascript/reference/statements/block,8d538e9521d52d96f590b72101b4b50b0b259c4b
