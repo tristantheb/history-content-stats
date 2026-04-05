@@ -11492,7 +11492,7 @@ web/html/reference/elements/address,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTM
 web/html/reference/elements/area,995f8bcede5aa8ca40921b030deef7524ce9e1a3,HTML|Elements
 web/html/reference/elements/article,a1765c2cad20118be0dad322d3548908787b5791,HTML|Elements
 web/html/reference/elements/aside,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Elements
-web/html/reference/elements/audio,3d7c7d4e151ff1b578bef4eff10c201b761a9d7d,HTML|Elements
+web/html/reference/elements/audio,743ba8b257cd06449b192818df120e609f6e16d2,HTML|Elements
 web/html/reference/elements/b,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Elements
 web/html/reference/elements/base,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Elements
 web/html/reference/elements/bdi,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Elements
@@ -11539,8 +11539,8 @@ web/html/reference/elements/hgroup,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML
 web/html/reference/elements/hr,479f72f9279246685bcf6eec93527ac3f470f93e,HTML|Elements
 web/html/reference/elements/html,e7bc0ed5466f5834641d75d416fa81886cf6b37e,HTML|Elements
 web/html/reference/elements/i,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Elements
-web/html/reference/elements/iframe,929f6a4afa23a47036da5e8f6a09898a2cce9929,HTML|Elements
-web/html/reference/elements/img,8db892b3e7ca294621898441e7db2481e0e6d939,HTML|Elements
+web/html/reference/elements/iframe,743ba8b257cd06449b192818df120e609f6e16d2,HTML|Elements
+web/html/reference/elements/img,743ba8b257cd06449b192818df120e609f6e16d2,HTML|Elements
 web/html/reference/elements/input,3712f845b54b2754b2b550c7d7dca18f0277c0ad,HTML|Elements
 web/html/reference/elements/input/button,a1765c2cad20118be0dad322d3548908787b5791,HTML|Elements
 web/html/reference/elements/input/checkbox,539dea64b179cea3f12270fe2b5203a9d2d08795,HTML|Elements
@@ -11642,7 +11642,7 @@ web/html/reference/elements/tt,9cfc2285428932f448a1747e347b1e35a3e0172b,HTML|Ele
 web/html/reference/elements/u,f2d281d86396bcd2dcecfdabd5837b1590132aa6,HTML|Elements
 web/html/reference/elements/ul,85fccefc8066bd49af4ddafc12c77f35265c7e2d,HTML|Elements
 web/html/reference/elements/var,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Elements
-web/html/reference/elements/video,40fa68f80d38ba7142d47f52cdd0960325d63a44,HTML|Elements
+web/html/reference/elements/video,743ba8b257cd06449b192818df120e609f6e16d2,HTML|Elements
 web/html/reference/elements/wbr,a1765c2cad20118be0dad322d3548908787b5791,HTML|Elements
 web/html/reference/elements/xmp,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Elements
 web/html/reference/global_attributes,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,HTML|Global Attributes
