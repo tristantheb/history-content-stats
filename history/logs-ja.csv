@@ -619,6 +619,7 @@ glossary/xmlhttprequest,no_hash_commit
 glossary/xpath,no_hash_commit
 glossary/xquery,no_hash_commit
 glossary/xslt,ada5fa5ef15eadd44b549ecf906423b4a2092f34
+learn_web_development/about,be1922d62a0d31e4e3441db0e943aed8df736481
 learn_web_development/changelog,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 learn_web_development/core/accessibility/accessibility_troubleshooting,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0
 learn_web_development/core/accessibility/css_and_javascript,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0
@@ -9409,7 +9410,7 @@ web/svg/guides/svg_as_an_image,be9ba40fbef7f96beae73e5dd6d48a3ca875826f
 web/svg/guides/svg_filters,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/guides/svg_in_html,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg,c2fd97474834e061404b992c8397d4ccc4439a71
-web/svg/reference/attribute/alignment-baseline,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/alignment-baseline,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/attribute/baseline-shift,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/begin,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/attribute/clip-path,1c24dd81053cd34f393ce2c4b2ac071886007625
@@ -9418,7 +9419,7 @@ web/svg/reference/attribute/clip,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/clippathunits,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
 web/svg/reference/attribute/color-interpolation-filters,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/color-interpolation,c2fd97474834e061404b992c8397d4ccc4439a71
-web/svg/reference/attribute/color,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/color,f69b6693212029ce4b9fa0c753729044577af548
 web/svg/reference/attribute/cursor,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/cx,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/cy,c2fd97474834e061404b992c8397d4ccc4439a71
@@ -9442,6 +9443,7 @@ web/svg/reference/attribute/height,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
 web/svg/reference/attribute/href,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/attribute/id,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/image-rendering,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/svg/reference/attribute/in,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
 web/svg/reference/attribute,55326f330a6ae829494c7606b1bd47b2c0f9d888
 web/svg/reference/attribute/lengthadjust,7c03abf6c6abaf0013f6606cae9cb97717415cce
 web/svg/reference/attribute/letter-spacing,da8c3171b7a7ea6694af71fac7a3194d8e9ba869
@@ -9461,6 +9463,8 @@ web/svg/reference/attribute/points,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/preserveaspectratio,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/svg/reference/attribute/r,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/rotate,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/rx,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/ry,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/scale,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/side,7615562a3689a3e23a2b6b623597f4391740a53e
 web/svg/reference/attribute/spacing,c2fd97474834e061404b992c8397d4ccc4439a71
@@ -9470,7 +9474,7 @@ web/svg/reference/attribute/stop-color,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/stroke-dasharray,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/stroke-dashoffset,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/stroke-linecap,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
-web/svg/reference/attribute/stroke-linejoin,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/stroke-linejoin,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/stroke-miterlimit,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/stroke-width,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/stroke,c2fd97474834e061404b992c8397d4ccc4439a71
@@ -9495,18 +9499,18 @@ web/svg/reference/attribute/y2,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/a,3ee333bf5e414ac81c452ec10fed7af645c96740
 web/svg/reference/element/animate,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/animatemotion,34c204f8f6c3f7ac60ebb23fca9798680aee9956
-web/svg/reference/element/animatetransform,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/element/animatetransform,12222b32eec33a7411c6de8afc8408d9aa617dd2
 web/svg/reference/element/circle,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/clippath,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/element/defs,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/desc,c2fd97474834e061404b992c8397d4ccc4439a71
-web/svg/reference/element/ellipse,34c204f8f6c3f7ac60ebb23fca9798680aee9956
-web/svg/reference/element/fecolormatrix,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/element/ellipse,ac806e34aba086be141689c64dc4dd73636fbd62
+web/svg/reference/element/fecolormatrix,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/fedropshadow,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/fegaussianblur,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/femorphology,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/feoffset,c2fd97474834e061404b992c8397d4ccc4439a71
-web/svg/reference/element/filter,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/element/filter,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/foreignobject,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/g,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/image,bec7ef59277e752985de0ee963c86f6e8e4b3400
@@ -9514,7 +9518,7 @@ web/svg/reference/element,c1564acf160ef4b320fb7b89ab65211b9c50cf1b
 web/svg/reference/element/line,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/lineargradient,6aeb1ae589087f90e99bdeffd57c258ebfc81b29
 web/svg/reference/element/marker,da8c3171b7a7ea6694af71fac7a3194d8e9ba869
-web/svg/reference/element/mask,34c204f8f6c3f7ac60ebb23fca9798680aee9956
+web/svg/reference/element/mask,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/metadata,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/mpath,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/path,ac806e34aba086be141689c64dc4dd73636fbd62
