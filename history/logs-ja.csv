@@ -9462,6 +9462,7 @@ web/svg/reference/attribute/pointer-events,3c83d88f02f33f4066224e9f624a17dd2a0b0
 web/svg/reference/attribute/points,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/preserveaspectratio,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/svg/reference/attribute/r,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/result,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
 web/svg/reference/attribute/rotate,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/rx,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/ry,c2fd97474834e061404b992c8397d4ccc4439a71
@@ -9483,7 +9484,9 @@ web/svg/reference/attribute/text-anchor,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/textlength,364ac5bc62331153a6a7daaba93ee3cd0396d18f
 web/svg/reference/attribute/transform-origin,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/svg/reference/attribute/transform,9c7b277a013b50804cdafdfab79e38018264e434
+web/svg/reference/attribute/type,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
 web/svg/reference/attribute/unicode-bidi,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
+web/svg/reference/attribute/values,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
 web/svg/reference/attribute/vector-effect,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/viewbox,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/visibility,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
