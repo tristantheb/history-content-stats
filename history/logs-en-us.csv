@@ -3835,7 +3835,7 @@ web/api/element/ariavaluemin,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/ariavaluenow,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/ariavaluetext,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/assignedslot,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
-web/api/element/attachshadow,6991c03349b4916c90ab113cc464788fb72a1f84,Web APIs
+web/api/element/attachshadow,26c6aca187b3718498886f9fba6c1cc4f4833b5d,Web APIs
 web/api/element/attributes,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
 web/api/element/auxclick_event,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Web APIs
 web/api/element/before,8374946642c18a9cc4bf510de767011124e832a2,Web APIs
@@ -9645,7 +9645,7 @@ web/api/window/createimagebitmap,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web AP
 web/api/window/credentialless,dd868507df863ab4f37d53c960c76e20e9ee365f,Web APIs
 web/api/window/crossoriginisolated,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/window/crypto,950f04d94b48f259c471175bdafb52933b2b038d,Web APIs
-web/api/window/customelements,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
+web/api/window/customelements,26c6aca187b3718498886f9fba6c1cc4f4833b5d,Web APIs
 web/api/window/devicemotion_event,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
 web/api/window/deviceorientation_event,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
 web/api/window/deviceorientationabsolute_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -11715,7 +11715,7 @@ web/http/guides/csp,6720d579bd658f02c56363805e97e69f93dc79f1,HTTP|Guides
 web/http/guides/csp/errors,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,HTTP|Guides
 web/http/guides/csp/errors/cspviolation,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/evolution_of_http,f9a9e52d36680ee55fb9f3f1dfc41ca3cdce046f,HTTP|Guides
-web/http/guides/fetch_metadata,81bf621759d3a52fdf737c2d75f186a0073d1406,HTTP|Guides
+web/http/guides/fetch_metadata,f648561b1db8502f28a9d3664175c2000cbe9ea7,HTTP|Guides
 web/http/guides/iframe_credentialless,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,HTTP|Guides
 web/http/guides/messages,7a32241450ff246ab9035aca6e54483349ce855b,HTTP|Guides
 web/http/guides/mime_types,055bf71b1941f23bfcef39ab5b3393f9601b82b6,HTTP|Guides
