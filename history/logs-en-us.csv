@@ -10305,7 +10305,7 @@ web/css/guides/grid_layout/line-based_placement,85fccefc8066bd49af4ddafc12c77f35
 web/css/guides/grid_layout/logical_values_and_writing_modes,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/grid_layout/masonry_layout,457178413ad5be46d6ad346845908dd919eb37fc,CSS|Guides
 web/css/guides/grid_layout/named_grid_lines,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/grid_layout/relationship_with_other_layout_methods,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
+web/css/guides/grid_layout/relationship_with_other_layout_methods,98066c71788a31f0f8726f5bf3d4a2acf4a6ff88,CSS|Guides
 web/css/guides/grid_layout/subgrid,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/images,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/images/implementing_image_sprites,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10995,7 +10995,7 @@ web/css/reference/properties/shape-rendering,2d78abb3e793352e24e976ce0e68c08d817
 web/css/reference/properties/speak-as,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
 web/css/reference/properties/stop-color,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
 web/css/reference/properties/stop-opacity,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
-web/css/reference/properties/stroke,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,CSS|Properties
+web/css/reference/properties/stroke,adc6b8f112db424e18f94d308cfffd11d5dfba52,CSS|Properties
 web/css/reference/properties/stroke-dasharray,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
 web/css/reference/properties/stroke-dashoffset,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
 web/css/reference/properties/stroke-linecap,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
@@ -11720,7 +11720,7 @@ web/http/guides/iframe_credentialless,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,H
 web/http/guides/messages,7a32241450ff246ab9035aca6e54483349ce855b,HTTP|Guides
 web/http/guides/mime_types,055bf71b1941f23bfcef39ab5b3393f9601b82b6,HTTP|Guides
 web/http/guides/mime_types/common_types,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
-web/http/guides/network_error_logging,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
+web/http/guides/network_error_logging,4877aae5dd61ffb22ba63bd0461d200087aa3543,HTTP|Guides
 web/http/guides/overview,58b10ef2aeaee2f8faae2626f13e18e40d199061,HTTP|Guides
 web/http/guides/permissions_policy,aff319cd81d10cfda31b13adb3263deafb284b20,HTTP|Guides
 web/http/guides/protocol_upgrade_mechanism,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides

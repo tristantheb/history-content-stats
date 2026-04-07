@@ -1559,8 +1559,8 @@ mozilla/add-ons/webextensions/user_interface/toolbar_button,no_hash_commit
 mozilla/add-ons/webextensions/what_are_webextensions,01c27dc307a32e92e489349cf0ff67961083c8c7
 mozilla/add-ons/webextensions/what_next,no_hash_commit
 mozilla/add-ons/webextensions/working_with_the_tabs_api,1079b152415f26432481498d2d2b4e8b2f81e3e0
-mozilla/add-ons/webextensions/your_first_webextension,no_hash_commit
-mozilla/add-ons/webextensions/your_second_webextension,no_hash_commit
+mozilla/add-ons/webextensions/your_first_webextension,ee33efab7300d7bf7319921a22f2eb2b60df91da
+mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9
 mozilla/firefox/experimental_features,no_hash_commit
 mozilla/firefox,514d1d2690c6374cd65921193ff6b166677395fd
 mozilla/firefox/releases/1.5/using_firefox_1.5_caching,no_hash_commit
@@ -3686,7 +3686,7 @@ web/api/navigator/globalprivacycontrol,c1fd7dc9410c14ec9e00b3ec35b7b94d43296389
 web/api/navigator/gpu,89c435da452257b944b403cc9e45036fcb22590e
 web/api/navigator/hardwareconcurrency,ef75c1741b450c2331204be5563ee964ad5f4c48
 web/api/navigator/hid,534e2c61fee576355e8a9b7036d9fa36056edb03
-web/api/navigator,a3d19af7e3eeb1c40748c80cd6b5143cfa201c54
+web/api/navigator,ac0fef0566bfd672c44644a95240b8e1407277bd
 web/api/navigator/ink,ef75c1741b450c2331204be5563ee964ad5f4c48
 web/api/navigator/javaenabled,ef75c1741b450c2331204be5563ee964ad5f4c48
 web/api/navigator/keyboard,89c435da452257b944b403cc9e45036fcb22590e
@@ -3844,12 +3844,15 @@ web/api/pagetransitionevent/pagetransitionevent,aa8fa82a902746b0bd97839180fc2b53
 web/api/pagetransitionevent/persisted,no_hash_commit
 web/api/paintsize/height,e80499f4efc4eaf0c4e1657748a77b30224e7bb7
 web/api/paintsize/width,e80499f4efc4eaf0c4e1657748a77b30224e7bb7
+web/api/passwordcredential/name,89c435da452257b944b403cc9e45036fcb22590e
 web/api/passwordcredential/password,89c435da452257b944b403cc9e45036fcb22590e
 web/api/path2d/addpath,no_hash_commit
 web/api/path2d,no_hash_commit
 web/api/path2d/path2d,no_hash_commit
 web/api/payment_request_api/concepts,no_hash_commit
 web/api/payment_request_api,no_hash_commit
+web/api/paymentaddress/city,a5d90e4c36c0155024621fe00e15ae61f3697d88
+web/api/paymentaddress/organization,a5d90e4c36c0155024621fe00e15ae61f3697d88
 web/api/paymentaddress/sortingcode,a5d90e4c36c0155024621fe00e15ae61f3697d88
 web/api/pbkdf2params,8e49db2182a5ad4ddfcaecdefd3d2d67db20f213
 web/api/performance/clearmarks,no_hash_commit
@@ -3930,7 +3933,9 @@ web/api/plugin,802b6063046dffb7634d2138aadcd92cb22ed40c
 web/api/pointer_events,no_hash_commit
 web/api/pointer_lock_api,802b6063046dffb7634d2138aadcd92cb22ed40c
 web/api/pointerevent,no_hash_commit
+web/api/presentationconnection/binarytype,b25d8774aa7bcc6a053e26cf804ad454f51e134b
 web/api/presentationconnection/id,b25d8774aa7bcc6a053e26cf804ad454f51e134b
+web/api/presentationconnection/state,b25d8774aa7bcc6a053e26cf804ad454f51e134b
 web/api/processinginstruction,b5c766f4eecb4fcf9d8ba175caddb94f7c3e9d20
 web/api/processinginstruction/sheet,acfe8c9f1f4145f77653a2bc64a9744b001358dc
 web/api/processinginstruction/target,acfe8c9f1f4145f77653a2bc64a9744b001358dc
