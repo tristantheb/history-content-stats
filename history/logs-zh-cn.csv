@@ -2373,7 +2373,7 @@ web/api/document/createattribute,no_hash_commit
 web/api/document/createcdatasection,no_hash_commit
 web/api/document/createcomment,no_hash_commit
 web/api/document/createdocumentfragment,no_hash_commit
-web/api/document/createelement,no_hash_commit
+web/api/document/createelement,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9
 web/api/document/createelementns,no_hash_commit
 web/api/document/createevent,c024a4b59fb38fe8df1c9d117d5209c0c8c47b54
 web/api/document/createexpression,no_hash_commit
@@ -2990,7 +2990,7 @@ web/api/history/pushstate,no_hash_commit
 web/api/history/replacestate,b471583f1a7ae6d99c0863ed037eb0cd8c7f1830
 web/api/history/scrollrestoration,f2dc3d5367203c860cf1a71ce0e972f018523849
 web/api/history/state,b8eb6acf2fa8e54254b1165e58adbe2378591da1
-web/api/history_api,acfe8c9f1f4145f77653a2bc64a9744b001358dc
+web/api/history_api,e9e2ec643ac69c132f31427a0b586ab2cf83ed58
 web/api/history_api/working_with_the_history_api,56bbf2804abdfdbf9ad93386ba4c956196d06a37
 web/api/hkdfparams,387d0d4d8690c0d2c9db1b85eae28ffea0f3ac1f
 web/api/hmacimportparams,e9e2ec643ac69c132f31427a0b586ab2cf83ed58
@@ -3824,6 +3824,7 @@ web/api/notificationevent/notificationevent,28848ba41c082db2a8c55e85c804bd06363a
 web/api/notifications_api,aa8fa82a902746b0bd97839180fc2b5397088140
 web/api/notifications_api/using_the_notifications_api,1b4e6d1156e8471d38deeea1567c35ef412c5f42
 web/api/oes_vertex_array_object,no_hash_commit
+web/api/offlineaudiocompletionevent/renderedbuffer,312081aabba3885b35a81107b3c2fc53428896c5
 web/api/offlineaudiocontext/complete_event,no_hash_commit
 web/api/offlineaudiocontext,022399901bdc60df947ee15e11a49be029e290d0
 web/api/offlineaudiocontext/length,no_hash_commit
@@ -3844,6 +3845,7 @@ web/api/pagetransitionevent/pagetransitionevent,aa8fa82a902746b0bd97839180fc2b53
 web/api/pagetransitionevent/persisted,no_hash_commit
 web/api/paintsize/height,e80499f4efc4eaf0c4e1657748a77b30224e7bb7
 web/api/paintsize/width,e80499f4efc4eaf0c4e1657748a77b30224e7bb7
+web/api/passwordcredential/iconurl,89c435da452257b944b403cc9e45036fcb22590e
 web/api/passwordcredential/name,89c435da452257b944b403cc9e45036fcb22590e
 web/api/passwordcredential/password,89c435da452257b944b403cc9e45036fcb22590e
 web/api/path2d/addpath,no_hash_commit
@@ -3853,7 +3855,9 @@ web/api/payment_request_api/concepts,no_hash_commit
 web/api/payment_request_api,no_hash_commit
 web/api/paymentaddress/city,a5d90e4c36c0155024621fe00e15ae61f3697d88
 web/api/paymentaddress/organization,a5d90e4c36c0155024621fe00e15ae61f3697d88
+web/api/paymentaddress/phone,a5d90e4c36c0155024621fe00e15ae61f3697d88
 web/api/paymentaddress/sortingcode,a5d90e4c36c0155024621fe00e15ae61f3697d88
+web/api/paymentresponse/payername,e452bf7276167b8b9dae27df697ca4af0f2c5177
 web/api/pbkdf2params,8e49db2182a5ad4ddfcaecdefd3d2d67db20f213
 web/api/performance/clearmarks,no_hash_commit
 web/api/performance/clearmeasures,no_hash_commit
@@ -3933,9 +3937,11 @@ web/api/plugin,802b6063046dffb7634d2138aadcd92cb22ed40c
 web/api/pointer_events,no_hash_commit
 web/api/pointer_lock_api,802b6063046dffb7634d2138aadcd92cb22ed40c
 web/api/pointerevent,no_hash_commit
+web/api/presentationavailability/value,b25d8774aa7bcc6a053e26cf804ad454f51e134b
 web/api/presentationconnection/binarytype,b25d8774aa7bcc6a053e26cf804ad454f51e134b
 web/api/presentationconnection/id,b25d8774aa7bcc6a053e26cf804ad454f51e134b
 web/api/presentationconnection/state,b25d8774aa7bcc6a053e26cf804ad454f51e134b
+web/api/presentationreceiver,95dff5ec1195f072b8e48a2273294933670b1e99
 web/api/processinginstruction,b5c766f4eecb4fcf9d8ba175caddb94f7c3e9d20
 web/api/processinginstruction/sheet,acfe8c9f1f4145f77653a2bc64a9744b001358dc
 web/api/processinginstruction/target,acfe8c9f1f4145f77653a2bc64a9744b001358dc
@@ -4045,7 +4051,10 @@ web/api/rsahashedimportparams,8e49db2182a5ad4ddfcaecdefd3d2d67db20f213
 web/api/rsahashedkeygenparams,8e49db2182a5ad4ddfcaecdefd3d2d67db20f213
 web/api/rsaoaepparams,2937558d5ed1e03d7f60b2de71dd9c17f490166e
 web/api/rsapssparams,3b22c657f659c249cbe6e4fc6794370a5cb67a72
+web/api/rtcaudiosourcestats/id,fbbef300a9a819cdda1171355da5787ad7cdbb6d
+web/api/rtcaudiosourcestats/kind,d32ba6a7c5a4c43029b92fab2e78e3bedc00b63c
 web/api/rtcaudiosourcestats/type,d32ba6a7c5a4c43029b92fab2e78e3bedc00b63c
+web/api/rtccertificatestats/base64certificate,cc247a1dfe34f8c8a04071e9652c9c6a413870c8
 web/api/rtccertificatestats/timestamp,cc247a1dfe34f8c8a04071e9652c9c6a413870c8
 web/api/rtccodecstats/id,667d3fc3409c0524a1fb97a7f3d784606d12f48d
 web/api/rtccodecstats/type,667d3fc3409c0524a1fb97a7f3d784606d12f48d
