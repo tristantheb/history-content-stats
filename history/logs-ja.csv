@@ -3619,7 +3619,7 @@ web/api/htmlimageelement/hspace,a3d9f61a8990ba7b53bda9748d1f26a9e9810b18
 web/api/htmlimageelement/image,ce85e3fb7865330e4ac2a6dad25db5cf5d27ea74
 web/api/htmlimageelement,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb
 web/api/htmlimageelement/ismap,a3d9f61a8990ba7b53bda9748d1f26a9e9810b18
-web/api/htmlimageelement/loading,1fc327ab47c4fc89eff6e1d05780babd720e4b13
+web/api/htmlimageelement/loading,8db892b3e7ca294621898441e7db2481e0e6d939
 web/api/htmlimageelement/longdesc,816cc4d4a5a318a23222946b6981bb92b499aebb
 web/api/htmlimageelement/name,a3d9f61a8990ba7b53bda9748d1f26a9e9810b18
 web/api/htmlimageelement/naturalheight,ce85e3fb7865330e4ac2a6dad25db5cf5d27ea74
@@ -6645,7 +6645,7 @@ web/css/guides/fonts,93b85a5bc2b4589d93185263fd2c14381c36f821
 web/css/guides/fonts/opentype_fonts,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/fonts/variable_fonts,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/guides/fragmentation,421deed53984505909884b3b290002b228d29e7b
+web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/grid_layout/auto-placement,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -6895,7 +6895,7 @@ web/css/reference/properties/-webkit-tap-highlight-color,no_hash_commit
 web/css/reference/properties/-webkit-text-fill-color,no_hash_commit
 web/css/reference/properties/-webkit-text-stroke-color,no_hash_commit
 web/css/reference/properties/-webkit-text-stroke-width,no_hash_commit
-web/css/reference/properties/-webkit-text-stroke,c23237c82089ca6c56946ce1be95f11646823b53
+web/css/reference/properties/-webkit-text-stroke,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/reference/properties/-webkit-touch-callout,no_hash_commit
 web/css/reference/properties/accent-color,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/align-content,46a4425d4b7160129fd4c8d0f684ccd0617326b7
@@ -7004,7 +7004,7 @@ web/css/reference/properties/border-width,1dbba9f7a2c2e35c6e01e8a63159e2aac64b60
 web/css/reference/properties/border,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/bottom,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/box-align,88866ee128116bd07235f5d3531152d5686a1e6d
-web/css/reference/properties/box-decoration-break,429d45679a29f386af0ddfcf2a64498843c3e1e5
+web/css/reference/properties/box-decoration-break,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/box-direction,no_hash_commit
 web/css/reference/properties/box-flex-group,no_hash_commit
 web/css/reference/properties/box-flex,no_hash_commit
@@ -7014,9 +7014,9 @@ web/css/reference/properties/box-orient,no_hash_commit
 web/css/reference/properties/box-pack,no_hash_commit
 web/css/reference/properties/box-shadow,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/box-sizing,46a4425d4b7160129fd4c8d0f684ccd0617326b7
-web/css/reference/properties/break-after,429d45679a29f386af0ddfcf2a64498843c3e1e5
-web/css/reference/properties/break-before,429d45679a29f386af0ddfcf2a64498843c3e1e5
-web/css/reference/properties/break-inside,429d45679a29f386af0ddfcf2a64498843c3e1e5
+web/css/reference/properties/break-after,2d78abb3e793352e24e976ce0e68c08d817bd7f3
+web/css/reference/properties/break-before,fb718e7db3758da4e74f74c72ac425c848ad7023
+web/css/reference/properties/break-inside,18161d1b77cdfdc739a4f05be695961924b4c173
 web/css/reference/properties/caption-side,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/caret-animation,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/caret-color,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7224,7 +7224,7 @@ web/css/reference/properties/offset-rotate,429d45679a29f386af0ddfcf2a64498843c3e
 web/css/reference/properties/offset,429d45679a29f386af0ddfcf2a64498843c3e1e5
 web/css/reference/properties/opacity,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/order,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/orphans,c77cfcd17e85db6c1b93160c70668f2ff6c2809c
+web/css/reference/properties/orphans,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/outline-color,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/reference/properties/outline-offset,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/outline-style,2d78abb3e793352e24e976ce0e68c08d817bd7f3
@@ -7392,7 +7392,7 @@ web/css/reference/properties/view-transition-name,1a27ade8c981c8a98c8fac9881b362
 web/css/reference/properties/visibility,0b5859108411e47d228a4bb9f30a5556ab17f63c
 web/css/reference/properties/white-space-collapse,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/white-space,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
-web/css/reference/properties/widows,c77cfcd17e85db6c1b93160c70668f2ff6c2809c
+web/css/reference/properties/widows,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/width,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/will-change,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/word-break,85fccefc8066bd49af4ddafc12c77f35265c7e2d

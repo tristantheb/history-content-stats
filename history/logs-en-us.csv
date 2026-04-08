@@ -3141,10 +3141,10 @@ web/api/cssmathinvert,cb25e0acbd9f0af27c4a99965cb962230d49a35d,Web APIs
 web/api/cssmathinvert/cssmathinvert,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
 web/api/cssmathinvert/value,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
 web/api/cssmathmax,ecc46f2c8d6e09f0aa6e1b3f5194abfcf462e603,Web APIs
-web/api/cssmathmax/cssmathmax,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
+web/api/cssmathmax/cssmathmax,0fb43702182eb0c36a49defaa58151f2cc69d59d,Web APIs
 web/api/cssmathmax/values,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
 web/api/cssmathmin,ecc46f2c8d6e09f0aa6e1b3f5194abfcf462e603,Web APIs
-web/api/cssmathmin/cssmathmin,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
+web/api/cssmathmin/cssmathmin,0fb43702182eb0c36a49defaa58151f2cc69d59d,Web APIs
 web/api/cssmathmin/values,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
 web/api/cssmathnegate,ecc46f2c8d6e09f0aa6e1b3f5194abfcf462e603,Web APIs
 web/api/cssmathnegate/cssmathnegate,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
@@ -6486,7 +6486,7 @@ web/api/offscreencanvas/converttoblob,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,W
 web/api/offscreencanvas/getcontext,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/offscreencanvas/height,d666d5ed812b56cbc9c6cba853494976da1f1dd2,Web APIs
 web/api/offscreencanvas/offscreencanvas,daeff1a2efaae366bcc8b6d911d86985646e665e,Web APIs
-web/api/offscreencanvas/transfertoimagebitmap,46dd9c0c1635e8abd73040c1a71cc0ed3c27cd50,Web APIs
+web/api/offscreencanvas/transfertoimagebitmap,02b5541746bce5a337ac592b4e93551bebd8a96d,Web APIs
 web/api/offscreencanvas/width,d666d5ed812b56cbc9c6cba853494976da1f1dd2,Web APIs
 web/api/offscreencanvasrenderingcontext2d,bc9f7bec1ab48f29d241e38a9f1598f783f6b60a,Web APIs
 web/api/offscreencanvasrenderingcontext2d/commit,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
@@ -11553,7 +11553,7 @@ web/html/reference/elements/input/file,a1765c2cad20118be0dad322d3548908787b5791,
 web/html/reference/elements/input/hidden,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Elements
 web/html/reference/elements/input/image,2eab0bc09a2972fda0f760abd5cfe06201b23498,HTML|Elements
 web/html/reference/elements/input/month,13856107d2cab5bb9e40de608ee38a5770ef7c4d,HTML|Elements
-web/html/reference/elements/input/number,c601bb5553d19f854792c78ab89624466ce2181d,HTML|Elements
+web/html/reference/elements/input/number,1bc1971a1265d1792c94b99b736c5accec1fec6d,HTML|Elements
 web/html/reference/elements/input/password,cc7f29133a331628d623e8cd705394b538d4368c,HTML|Elements
 web/html/reference/elements/input/radio,6036cd414b2214f85901158bdf3e3a96123d4553,HTML|Elements
 web/html/reference/elements/input/range,06e6e54baef7032c4e81ca93291fde0a0585de8b,HTML|Elements
@@ -11663,7 +11663,7 @@ web/html/reference/global_attributes/hidden,032373c0ec106ec2d57f6bd14e74e2cc9191
 web/html/reference/global_attributes/id,f69b6693212029ce4b9fa0c753729044577af548,HTML|Global Attributes
 web/html/reference/global_attributes/inert,7c28cd21b705e7b7664d53b4d7822469ea8e6e15,HTML|Global Attributes
 web/html/reference/global_attributes/inputmode,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Global Attributes
-web/html/reference/global_attributes/is,56f5609d323467cd08eeaddc57e4490a02be1889,HTML|Global Attributes
+web/html/reference/global_attributes/is,1bc1971a1265d1792c94b99b736c5accec1fec6d,HTML|Global Attributes
 web/html/reference/global_attributes/itemid,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Global Attributes
 web/html/reference/global_attributes/itemprop,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Global Attributes
 web/html/reference/global_attributes/itemref,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Global Attributes
