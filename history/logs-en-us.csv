@@ -3041,7 +3041,7 @@ web/api/css/registerproperty_static,15573306c0527f203ba3ddbfcad2ae7be0e9d73a,Web
 web/api/css/supports_static,4ab235391977478a8a5e56405138392c531e1ad7,Web APIs
 web/api/css_custom_highlight_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/css_font_loading_api,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
-web/api/css_object_model,1d5c902cab960d469baba95eb12cd421769b9111,Web APIs
+web/api/css_object_model,8446f51f9a446af6a9ed878ff8f9515d60d28ed5,Web APIs
 web/api/css_object_model/css_declaration,b07efa13f8459a44a2cbc7b6cdb3279967565e63,Web APIs
 web/api/css_object_model/css_declaration_block,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/css_object_model/css_value_serialization,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
@@ -3052,7 +3052,7 @@ web/api/css_painting_api,635820782735cd00f71ce3929ff9377b091f8995,Web APIs
 web/api/css_painting_api/guide,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/css_properties_and_values_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/css_properties_and_values_api/guide,98bbdcd90e5487539cebe19b12fe3d731fb5a03e,Web APIs
-web/api/css_typed_om_api,3484971cfbbb1d63a7faa765457180136d8ece34,Web APIs
+web/api/css_typed_om_api,8446f51f9a446af6a9ed878ff8f9515d60d28ed5,Web APIs
 web/api/css_typed_om_api/guide,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/cssanimation,4f5e90f47c518afd1e3c11a9fb32b933cc8434e9,Web APIs
 web/api/cssanimation/animationname,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
@@ -3136,7 +3136,12 @@ web/api/csskeywordvalue/value,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
 web/api/csslayerblockrule,d7e665f6202179fcccbe753a1bfd358c224c3928,Web APIs
 web/api/csslayerblockrule/name,d7e665f6202179fcccbe753a1bfd358c224c3928,Web APIs
 web/api/csslayerstatementrule,d7e665f6202179fcccbe753a1bfd358c224c3928,Web APIs
-web/api/csslayerstatementrule/namelist,d7e665f6202179fcccbe753a1bfd358c224c3928,Web APIs
+web/api/csslayerstatementrule/namelist,729c5842f64e8049ddab60bf7653bbad5e1f4f7f,Web APIs
+web/api/cssmathclamp,8446f51f9a446af6a9ed878ff8f9515d60d28ed5,Web APIs
+web/api/cssmathclamp/cssmathclamp,8446f51f9a446af6a9ed878ff8f9515d60d28ed5,Web APIs
+web/api/cssmathclamp/lower,8446f51f9a446af6a9ed878ff8f9515d60d28ed5,Web APIs
+web/api/cssmathclamp/upper,8446f51f9a446af6a9ed878ff8f9515d60d28ed5,Web APIs
+web/api/cssmathclamp/value,8446f51f9a446af6a9ed878ff8f9515d60d28ed5,Web APIs
 web/api/cssmathinvert,cb25e0acbd9f0af27c4a99965cb962230d49a35d,Web APIs
 web/api/cssmathinvert/cssmathinvert,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
 web/api/cssmathinvert/value,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
@@ -3155,7 +3160,7 @@ web/api/cssmathproduct/values,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
 web/api/cssmathsum,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/cssmathsum/cssmathsum,e1f6592bf96c5614a81ccb5dbd65e301b734b0e7,Web APIs
 web/api/cssmathsum/values,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
-web/api/cssmathvalue,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
+web/api/cssmathvalue,8446f51f9a446af6a9ed878ff8f9515d60d28ed5,Web APIs
 web/api/cssmathvalue/operator,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/cssmatrixcomponent,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/cssmatrixcomponent/cssmatrixcomponent,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
@@ -5340,7 +5345,7 @@ web/api/htmltablecellelement/headers,0b5859108411e47d228a4bb9f30a5556ab17f63c,We
 web/api/htmltablecellelement/nowrap,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Web APIs
 web/api/htmltablecellelement/rowspan,2406bfdc031740afbd500a1fc953a76a4b7f8484,Web APIs
 web/api/htmltablecellelement/scope,0b5859108411e47d228a4bb9f30a5556ab17f63c,Web APIs
-web/api/htmltablecellelement/valign,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Web APIs
+web/api/htmltablecellelement/valign,9a6462fba2d1527b1d9e550cda954eafdccb5d58,Web APIs
 web/api/htmltablecolelement,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmltablecolelement/align,4cb9d89a204a9532370693b982e8a3b274a874b1,Web APIs
 web/api/htmltablecolelement/ch,d16706e4e930c57161d473287374a9286c663147,Web APIs
@@ -6300,7 +6305,7 @@ web/api/navigator/registerprotocolhandler,3e543cdfe8dddfb4774a64bf3decdcbab42a41
 web/api/navigator/requestmediakeysystemaccess,06e6e54baef7032c4e81ca93291fde0a0585de8b,Web APIs
 web/api/navigator/requestmidiaccess,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/navigator/scheduling,a966a8b4eade72a13de8a688c13f2d5056321f02,Web APIs
-web/api/navigator/sendbeacon,eac932202078c13aae0590da7a23eed493936221,Web APIs
+web/api/navigator/sendbeacon,e3b1390089160b88a74b2bed5445d9cf7cb7e436,Web APIs
 web/api/navigator/serial,73b2b6ee411ac094b9fc57dafac6f9c232fc20d9,Web APIs
 web/api/navigator/serviceworker,5d29bef0815f8cc4b5b152b9ee1ab53f002ee617,Web APIs
 web/api/navigator/setappbadge,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
@@ -11615,7 +11620,7 @@ web/html/reference/elements/script/type/importmap,ca26363fcc6fc861103d40ac0205e5
 web/html/reference/elements/script/type/speculationrules,85fccefc8066bd49af4ddafc12c77f35265c7e2d,HTML|Elements
 web/html/reference/elements/search,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Elements
 web/html/reference/elements/section,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Elements
-web/html/reference/elements/select,2362f25e1ccee7ad584584ab3521f3ff34a3e6ed,HTML|Elements
+web/html/reference/elements/select,dea6ca35b4cba685b7353a92b77f55e3fd6937c1,HTML|Elements
 web/html/reference/elements/selectedcontent,6eae35bc64a49865a469ca29bc40e6993b9cb8cc,HTML|Elements
 web/html/reference/elements/slot,85fccefc8066bd49af4ddafc12c77f35265c7e2d,HTML|Elements
 web/html/reference/elements/small,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|Elements
@@ -14156,12 +14161,12 @@ webassembly/reference/javascript_interface/tag/tag,3e543cdfe8dddfb4774a64bf3decd
 webassembly/reference/javascript_interface/tag/type,df9d06402163f77fc3e2d327ab63f9dd4af15b38,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/validate_static,006c05b688814b45a01ad965bbe4ebfc15513e74,WebAssembly|JavaScript Interface
 webassembly/reference/memory,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Memory
-webassembly/reference/memory/copy,e134d50d779647ba26ee41d7bbefc8d3b4e8fba6,WebAssembly|Memory
-webassembly/reference/memory/fill,e134d50d779647ba26ee41d7bbefc8d3b4e8fba6,WebAssembly|Memory
-webassembly/reference/memory/grow,3d49f18251e1f3493ef2e3a70519603345f8b7dc,WebAssembly|Memory
-webassembly/reference/memory/load,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Memory
+webassembly/reference/memory/copy,fb9290c58b1575b6869bd0a69ab7edb3e2184892,WebAssembly|Memory
+webassembly/reference/memory/fill,fb9290c58b1575b6869bd0a69ab7edb3e2184892,WebAssembly|Memory
+webassembly/reference/memory/grow,fb9290c58b1575b6869bd0a69ab7edb3e2184892,WebAssembly|Memory
+webassembly/reference/memory/load,fb9290c58b1575b6869bd0a69ab7edb3e2184892,WebAssembly|Memory
 webassembly/reference/memory/size,e134d50d779647ba26ee41d7bbefc8d3b4e8fba6,WebAssembly|Memory
-webassembly/reference/memory/store,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Memory
+webassembly/reference/memory/store,fb9290c58b1575b6869bd0a69ab7edb3e2184892,WebAssembly|Memory
 webassembly/reference/numeric,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Numeric
 webassembly/reference/numeric/abs,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Numeric
 webassembly/reference/numeric/add,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Numeric
