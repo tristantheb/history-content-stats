@@ -5222,9 +5222,9 @@ web/html/reference/elements/input/radio,6036cd414b2214f85901158bdf3e3a96123d4553
 web/html/reference/elements/input/range,06e6e54baef7032c4e81ca93291fde0a0585de8b
 web/html/reference/elements/input/reset,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/elements/input/search,30eaa394709dfb8e1bd6ccc85239b432152aaf9b
-web/html/reference/elements/input/submit,no_hash_commit
-web/html/reference/elements/input/tel,no_hash_commit
-web/html/reference/elements/input/text,no_hash_commit
+web/html/reference/elements/input/submit,0754cd805a8e010d2e3a2a065f634a3bcf358252
+web/html/reference/elements/input/tel,6e3b5b1a28e717aedd42b5e27b61bd80664ae3af
+web/html/reference/elements/input/text,6e3b5b1a28e717aedd42b5e27b61bd80664ae3af
 web/html/reference/elements/input/time,no_hash_commit
 web/html/reference/elements/input/url,no_hash_commit
 web/html/reference/elements/input/week,no_hash_commit

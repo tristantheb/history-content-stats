@@ -7210,12 +7210,12 @@ web/api/rtcencodedaudioframe/data,7cf04da4f63ea96edfddde0a74ac0d0b1bc4d12e,Web A
 web/api/rtcencodedaudioframe/getmetadata,23398d025295ad1eaf1663a26fbe738a8fe12883,Web APIs
 web/api/rtcencodedaudioframe/rtcencodedaudioframe,23398d025295ad1eaf1663a26fbe738a8fe12883,Web APIs
 web/api/rtcencodedaudioframe/timestamp,3dd7df0af3b0ada1a7c5784cc2bc5448adcda8af,Web APIs
-web/api/rtcencodedvideoframe,23398d025295ad1eaf1663a26fbe738a8fe12883,Web APIs
+web/api/rtcencodedvideoframe,bbb1d10fbbb06665b9587b6c953e5cafb62ab7dc,Web APIs
 web/api/rtcencodedvideoframe/data,7cf04da4f63ea96edfddde0a74ac0d0b1bc4d12e,Web APIs
 web/api/rtcencodedvideoframe/getmetadata,23398d025295ad1eaf1663a26fbe738a8fe12883,Web APIs
 web/api/rtcencodedvideoframe/rtcencodedvideoframe,23398d025295ad1eaf1663a26fbe738a8fe12883,Web APIs
 web/api/rtcencodedvideoframe/timestamp,3dd7df0af3b0ada1a7c5784cc2bc5448adcda8af,Web APIs
-web/api/rtcencodedvideoframe/type,2c0f972d873ea2db5163dbcb12987847124751ad,Web APIs
+web/api/rtcencodedvideoframe/type,97dd70e4dd995c49c25719371d84b6b5aaaac940,Web APIs
 web/api/rtcerror,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1,Web APIs
 web/api/rtcerror/errordetail,1a91b0b63f0cbaca9125bd48d4e5bc8afed2a7a3,Web APIs
 web/api/rtcerror/receivedalert,802b6063046dffb7634d2138aadcd92cb22ed40c,Web APIs
@@ -11031,7 +11031,7 @@ web/css/reference/properties/text-emphasis,1dbba9f7a2c2e35c6e01e8a63159e2aac64b6
 web/css/reference/properties/text-emphasis-color,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
 web/css/reference/properties/text-emphasis-position,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
 web/css/reference/properties/text-emphasis-style,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
-web/css/reference/properties/text-indent,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b,CSS|Properties
+web/css/reference/properties/text-indent,2341b4eeac1a1738892ec1130ccc8a4ce702e793,CSS|Properties
 web/css/reference/properties/text-justify,2d78abb3e793352e24e976ce0e68c08d817bd7f3,CSS|Properties
 web/css/reference/properties/text-orientation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
 web/css/reference/properties/text-overflow,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
