@@ -2413,7 +2413,7 @@ web/api/document/fullscreenchange_event,f216422c99b6c7014e398803b70600501bce8a48
 web/api/document/fullscreenelement,c17bd570e356cdf3e1abb4c2dfe1e57a2cfb5bc7
 web/api/document/fullscreenenabled,41a8b9c9832359d445d136b6d7a8a28737badc6b
 web/api/document/fullscreenerror_event,8a12b2889c9dbcb7d9ed026cac3a8538ec5cb277
-web/api/document/getelementbyid,acfe8c9f1f4145f77653a2bc64a9744b001358dc
+web/api/document/getelementbyid,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b
 web/api/document/getelementsbyclassname,no_hash_commit
 web/api/document/getelementsbyname,acfe8c9f1f4145f77653a2bc64a9744b001358dc
 web/api/document/getelementsbytagname,no_hash_commit
@@ -3092,7 +3092,7 @@ web/api/htmlelement/offsetheight,no_hash_commit
 web/api/htmlelement/offsetleft,no_hash_commit
 web/api/htmlelement/offsetparent,no_hash_commit
 web/api/htmlelement/offsettop,no_hash_commit
-web/api/htmlelement/offsetwidth,no_hash_commit
+web/api/htmlelement/offsetwidth,0916e1754652f3a7c663ef031faa26c98f492023
 web/api/htmlelement/outertext,no_hash_commit
 web/api/htmlelement/style,no_hash_commit
 web/api/htmlelement/title,a3d9f61a8990ba7b53bda9748d1f26a9e9810b18
