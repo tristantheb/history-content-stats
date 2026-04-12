@@ -5948,6 +5948,7 @@ web/api/videotracklist/removetrack_event,19dbdc2139ab1c68651da2b9338061d64567665
 web/api/videotracklist/selectedindex,f7dae62645a2c735ed6f6ed63f664bf279fdfc4b
 web/api/view_transition_api,0f7f19a62e8dadb2da69f8801db76c2eab2ff8f8
 web/api/view_transition_api/using,daa0f08c15e7626dd089a011b310a94db99dbfc1
+web/api/view_transition_api/using_types,8f7fa9e7aef0399c7a7f8e5a20476a0c2f287640
 web/api/viewport,9be502ee0f8b030908e59d30884190281acb8054
 web/api/viewport/segments,9be502ee0f8b030908e59d30884190281acb8054
 web/api/viewport_segments_api,9be502ee0f8b030908e59d30884190281acb8054
@@ -6872,7 +6873,7 @@ web/css/reference/at-rules/@property/syntax,33094d735e90b4dcae5733331b79c51fee99
 web/css/reference/at-rules/@scope,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/at-rules/@starting-style,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@supports,46a4425d4b7160129fd4c8d0f684ccd0617326b7
-web/css/reference/at-rules/@view-transition,b60bc79c7ad36c56dddf6760d2fd4dbb642d2023
+web/css/reference/at-rules/@view-transition,b88f711ce4944f97162d7f1a7bcb8283af06f690
 web/css/reference/at-rules/at-rule_functions,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/at-rules,3ee2355c3c90cf92c3119b82f8ebfa5d16c91c53
 web/css/reference,93b85a5bc2b4589d93185263fd2c14381c36f821
@@ -7388,7 +7389,8 @@ web/css/reference/properties/view-timeline-axis,aefcc1599f9a67bfb4e0e5f48b2175ea
 web/css/reference/properties/view-timeline-inset,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/view-timeline-name,5310a5bff0e1f3e2dfafa44bc2aadbb39e1c4673
 web/css/reference/properties/view-timeline,7eaac8008ebe00417314379fab2285df23322e73
-web/css/reference/properties/view-transition-name,1a27ade8c981c8a98c8fac9881b362e881a4d236
+web/css/reference/properties/view-transition-class,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/view-transition-name,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/visibility,0b5859108411e47d228a4bb9f30a5556ab17f63c
 web/css/reference/properties/white-space-collapse,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/white-space,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
@@ -7412,6 +7414,8 @@ web/css/reference/selectors/_colon_-moz-locale-dir_rtl,no_hash_commit
 web/css/reference/selectors/_colon_-moz-only-whitespace,e1608631832f2608632569d0bd4061372adc5199
 web/css/reference/selectors/_colon_-moz-submit-invalid,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_colon_-moz-user-disabled,c52ed787442db9d65b21f5c2874fa6bfd08a253a
+web/css/reference/selectors/_colon_active-view-transition-type,8f7fa9e7aef0399c7a7f8e5a20476a0c2f287640
+web/css/reference/selectors/_colon_active-view-transition,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/selectors/_colon_active,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_colon_any-link,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/css/reference/selectors/_colon_autofill,33a12980eb49cc795a41f15ec7a0181270ad3048
@@ -7513,11 +7517,11 @@ web/css/reference/selectors/_doublecolon_selection,c52ed787442db9d65b21f5c2874fa
 web/css/reference/selectors/_doublecolon_slotted,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/selectors/_doublecolon_spelling-error,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_doublecolon_target-text,c52ed787442db9d65b21f5c2874fa6bfd08a253a
-web/css/reference/selectors/_doublecolon_view-transition-group,c9cc38c3c3c342e2e952c1acd57f55e104c5bb06
-web/css/reference/selectors/_doublecolon_view-transition-image-pair,1a27ade8c981c8a98c8fac9881b362e881a4d236
-web/css/reference/selectors/_doublecolon_view-transition-new,c9cc38c3c3c342e2e952c1acd57f55e104c5bb06
-web/css/reference/selectors/_doublecolon_view-transition-old,c9cc38c3c3c342e2e952c1acd57f55e104c5bb06
-web/css/reference/selectors/_doublecolon_view-transition,1a27ade8c981c8a98c8fac9881b362e881a4d236
+web/css/reference/selectors/_doublecolon_view-transition-group,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/selectors/_doublecolon_view-transition-image-pair,c52ed787442db9d65b21f5c2874fa6bfd08a253a
+web/css/reference/selectors/_doublecolon_view-transition-new,c52ed787442db9d65b21f5c2874fa6bfd08a253a
+web/css/reference/selectors/_doublecolon_view-transition-old,c52ed787442db9d65b21f5c2874fa6bfd08a253a
+web/css/reference/selectors/_doublecolon_view-transition,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/attribute_selectors,ff4dc3d43e814614df60ecdb7376b59698660ac2
 web/css/reference/selectors/child_combinator,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/class_selectors,85fccefc8066bd49af4ddafc12c77f35265c7e2d
