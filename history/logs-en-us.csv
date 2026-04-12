@@ -4663,19 +4663,19 @@ web/api/hidinputreportevent,534e2c61fee576355e8a9b7036d9fa36056edb03,Web APIs
 web/api/hidinputreportevent/data,534e2c61fee576355e8a9b7036d9fa36056edb03,Web APIs
 web/api/hidinputreportevent/device,534e2c61fee576355e8a9b7036d9fa36056edb03,Web APIs
 web/api/hidinputreportevent/reportid,534e2c61fee576355e8a9b7036d9fa36056edb03,Web APIs
-web/api/highlight,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/highlight/add,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb,Web APIs
-web/api/highlight/clear,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
-web/api/highlight/delete,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb,Web APIs
-web/api/highlight/entries,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
-web/api/highlight/foreach,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/highlight/has,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb,Web APIs
-web/api/highlight/highlight,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/highlight/keys,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
-web/api/highlight/priority,b61ec8fa49b41470e65b303e7c09c7ba8bdf2d07,Web APIs
-web/api/highlight/size,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb,Web APIs
+web/api/highlight,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
+web/api/highlight/add,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
+web/api/highlight/clear,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
+web/api/highlight/delete,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
+web/api/highlight/entries,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
+web/api/highlight/foreach,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
+web/api/highlight/has,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
+web/api/highlight/highlight,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
+web/api/highlight/keys,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
+web/api/highlight/priority,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
+web/api/highlight/size,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
 web/api/highlight/type,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/highlight/values,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
+web/api/highlight/values,a2d0346638937e9c92c500dcb568803778e8354e,Web APIs
 web/api/highlightregistry,3d7c7d4e151ff1b578bef4eff10c201b761a9d7d,Web APIs
 web/api/highlightregistry/clear,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
 web/api/highlightregistry/delete,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb,Web APIs
@@ -10268,7 +10268,7 @@ web/css/guides/cssom_view,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/cssom_view/viewport_concepts,a7da8b5f8846bb412400c41e27525760df35f54e,CSS|Guides
 web/css/guides/custom_functions_and_mixins,569b07ef525429e0929c70e7dd067cbc0ce707bd,CSS|Guides
 web/css/guides/custom_functions_and_mixins/using_custom_functions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/custom_highlight_api,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
+web/css/guides/custom_highlight_api,a2d0346638937e9c92c500dcb568803778e8354e,CSS|Guides
 web/css/guides/display,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/display/block_and_inline_layout,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
 web/css/guides/display/block_formatting_context,81f8fcd666952c1782653a3675347c392cc997ca,CSS|Guides
@@ -11213,7 +11213,7 @@ web/css/reference/selectors/_doublecolon_file-selector-button,c52ed787442db9d65b
 web/css/reference/selectors/_doublecolon_first-letter,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
 web/css/reference/selectors/_doublecolon_first-line,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
 web/css/reference/selectors/_doublecolon_grammar-error,c52ed787442db9d65b21f5c2874fa6bfd08a253a,CSS|Selectors
-web/css/reference/selectors/_doublecolon_highlight,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
+web/css/reference/selectors/_doublecolon_highlight,a2d0346638937e9c92c500dcb568803778e8354e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_marker,618d480ec934c834d8a37796dc691061c401ed5d,CSS|Selectors
 web/css/reference/selectors/_doublecolon_part,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
 web/css/reference/selectors/_doublecolon_picker,9af64ef430ad722b9cc3f75ccabeb8989c23b988,CSS|Selectors
@@ -12879,8 +12879,8 @@ web/javascript/reference/global_objects/string/padend,544b843570cb08d1474cfc5ec0
 web/javascript/reference/global_objects/string/padstart,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/string/raw,30d6cea0c01129b063f9dac2b269581e44bdb6f6,JavaScript|Global Objects
 web/javascript/reference/global_objects/string/repeat,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/string/replace,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/string/replaceall,1d4acd0cc450af2e293b9856d5763b92a0812e30,JavaScript|Global Objects
+web/javascript/reference/global_objects/string/replace,f3358a1485c53669466009ab561129bb7d65d8d2,JavaScript|Global Objects
+web/javascript/reference/global_objects/string/replaceall,f3358a1485c53669466009ab561129bb7d65d8d2,JavaScript|Global Objects
 web/javascript/reference/global_objects/string/search,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/string/slice,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/string/small,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
