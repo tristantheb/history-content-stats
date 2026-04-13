@@ -1955,7 +1955,7 @@ mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Fi
 mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Firefox|Versions
 mozilla/firefox/releases/149,1ad93c0731806b155441afe9e44e971d8b2b0e2a,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
-mozilla/firefox/releases/150,349453ff6528d70f57df473ffae5f37520f46d7d,Mozilla|Firefox|Versions
+mozilla/firefox/releases/150,e80a76afae6b0bdb81f02fdf5e4d97d61f0eee25,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -2860,7 +2860,7 @@ web/api/characterdata/substringdata,d0e6d8d712a33b9d3c7a9fb9a8ba85d4dd1b7002,Web
 web/api/client,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
 web/api/client/frametype,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
 web/api/client/id,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
-web/api/client/postmessage,079b166268e5a1353e4244133f5883a3f530228f,Web APIs
+web/api/client/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e,Web APIs
 web/api/client/type,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
 web/api/client/url,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
 web/api/clients,f2dc3d5367203c860cf1a71ce0e972f018523849,Web APIs
@@ -3389,7 +3389,7 @@ web/api/dedicatedworkerglobalscope/close,be8f7f155a48e11b30c240f8731afb1845f8537
 web/api/dedicatedworkerglobalscope/message_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/dedicatedworkerglobalscope/messageerror_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/dedicatedworkerglobalscope/name,e6457c34ac16790d4e62bc9ba21e899ac560089c,Web APIs
-web/api/dedicatedworkerglobalscope/postmessage,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
+web/api/dedicatedworkerglobalscope/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e,Web APIs
 web/api/dedicatedworkerglobalscope/requestanimationframe,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/dedicatedworkerglobalscope/rtctransform_event,ffa6f5871f50856c60983a125cef7de267be7aeb,Web APIs
 web/api/deferredrequestinit,8c1bc8d99fc8301fbbe874f6dcf8d41a9f4fe5fb,Web APIs
@@ -6083,7 +6083,7 @@ web/api/messageport,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/messageport/close,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
 web/api/messageport/message_event,079b166268e5a1353e4244133f5883a3f530228f,Web APIs
 web/api/messageport/messageerror_event,079b166268e5a1353e4244133f5883a3f530228f,Web APIs
-web/api/messageport/postmessage,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
+web/api/messageport/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e,Web APIs
 web/api/messageport/start,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
 web/api/metadata,cbe4c570701052c120808ea54c24c46ec9734084,Web APIs
 web/api/metadata/modificationtime,cbe4c570701052c120808ea54c24c46ec9734084,Web APIs
@@ -7584,7 +7584,7 @@ web/api/sanitizer/get,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/sanitizer/removeattribute,06e6e54baef7032c4e81ca93291fde0a0585de8b,Web APIs
 web/api/sanitizer/removeelement,ba886c384e385689ce8feffacf4f7ce1d8c5e736,Web APIs
 web/api/sanitizer/removeunsafe,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
-web/api/sanitizer/replaceelementwithchildren,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
+web/api/sanitizer/replaceelementwithchildren,e80a76afae6b0bdb81f02fdf5e4d97d61f0eee25,Web APIs
 web/api/sanitizer/sanitizer,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/sanitizer/setcomments,ba886c384e385689ce8feffacf4f7ce1d8c5e736,Web APIs
 web/api/sanitizer/setdataattributes,ba886c384e385689ce8feffacf4f7ce1d8c5e736,Web APIs
@@ -7718,7 +7718,7 @@ web/api/service_worker_api,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
 web/api/service_worker_api/using_service_workers,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Web APIs
 web/api/serviceworker,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/serviceworker/error_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
-web/api/serviceworker/postmessage,079b166268e5a1353e4244133f5883a3f530228f,Web APIs
+web/api/serviceworker/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e,Web APIs
 web/api/serviceworker/scripturl,bc0237f139ee3a9db67a669ae1b6bf45ebba7f94,Web APIs
 web/api/serviceworker/state,c29cee3dcb0d0e66093dd0c18aa82e0eab9d6d14,Web APIs
 web/api/serviceworker/statechange_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -9719,7 +9719,7 @@ web/api/window/parent,cc070123f72376faec06e36622c4fc723a75325f,Web APIs
 web/api/window/performance,54962bbd1d367115cfd01b4e1ba6b552e8b68eb7,Web APIs
 web/api/window/personalbar,cc070123f72376faec06e36622c4fc723a75325f,Web APIs
 web/api/window/popstate_event,cf3515a7aa9db738bfbd02c16f94fbab180fd1fb,Web APIs
-web/api/window/postmessage,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
+web/api/window/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e,Web APIs
 web/api/window/print,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/window/prompt,79fdc26fea835d65c9361541bb8ab1896f307475,Web APIs
 web/api/window/querylocalfonts,6855bf0bdd644345f66b88b477fd219a5e7f866e,Web APIs
@@ -9809,7 +9809,7 @@ web/api/worker,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/worker/error_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/worker/message_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/worker/messageerror_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
-web/api/worker/postmessage,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
+web/api/worker/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e,Web APIs
 web/api/worker/terminate,e561fa67af347b9770b359ba93e8579d2a540682,Web APIs
 web/api/worker/worker,3d49f18251e1f3493ef2e3a70519603345f8b7dc,Web APIs
 web/api/workerglobalscope,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
@@ -10416,7 +10416,7 @@ web/css/guides/view_transitions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Gui
 web/css/guides/viewport,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/writing_modes,b292c71457401efd7184a0b98d519fde1317120c,CSS|Guides
 web/css/guides/writing_modes/vertical_controls,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
-web/css/guides/writing_modes/writing_mode_systems,5bbfe12789861f4352cf0e63643bd329c56d7821,CSS|Guides
+web/css/guides/writing_modes/writing_mode_systems,c01d60b02d1cac975acb34e19317a4f75d9fc376,CSS|Guides
 web/css/how_to,f3bf4e2bd456159093d3820253be9f266ace070a,CSS|How To
 web/css/how_to/layout_cookbook,754b68246f4e69e404309fee4a1699e047e43994,CSS|How To
 web/css/how_to/layout_cookbook/breadcrumb_navigation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|How To
@@ -11964,7 +11964,7 @@ web/http/reference/headers/upgrade,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP
 web/http/reference/headers/upgrade-insecure-requests,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/use-as-dictionary,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/user-agent,0b852c3f5c46b69a57d23e860a833f6830951793,HTTP|Headers
-web/http/reference/headers/user-agent/firefox,74e7902b0875b6378d77df6d2d925a2d09d19f5d,HTTP|Headers
+web/http/reference/headers/user-agent/firefox,0bd99260a605fec40b453f2e6178f15b0b2a6c03,HTTP|Headers
 web/http/reference/headers/vary,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/via,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/viewport-width,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
