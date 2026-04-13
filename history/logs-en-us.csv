@@ -1955,7 +1955,7 @@ mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Fi
 mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Firefox|Versions
 mozilla/firefox/releases/149,1ad93c0731806b155441afe9e44e971d8b2b0e2a,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
-mozilla/firefox/releases/150,e80a76afae6b0bdb81f02fdf5e4d97d61f0eee25,Mozilla|Firefox|Versions
+mozilla/firefox/releases/150,77310c7693ce7d92cfaee81a9c33537771d3feb0,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -8751,7 +8751,10 @@ web/api/textupdateevent/text,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/textupdateevent/textupdateevent,d03a0af8b255b1afb8a29ca38e3f136a0155eb00,Web APIs
 web/api/textupdateevent/updaterangeend,c9fe79713a9323e8f1492c3c5b802fc8776a5f6a,Web APIs
 web/api/textupdateevent/updaterangestart,c9fe79713a9323e8f1492c3c5b802fc8776a5f6a,Web APIs
-web/api/timeevent,46b0ecd3b5280fbff659d138e3a7eaaf0fd12a24,Web APIs
+web/api/timeevent,b57f79da1b90404fd0af82730cde8a0cdae51713,Web APIs
+web/api/timeevent/detail,b57f79da1b90404fd0af82730cde8a0cdae51713,Web APIs
+web/api/timeevent/inittimeevent,b57f79da1b90404fd0af82730cde8a0cdae51713,Web APIs
+web/api/timeevent/view,b57f79da1b90404fd0af82730cde8a0cdae51713,Web APIs
 web/api/timeranges,87440643d71bf81a5bf4b8fa21db9e3d56ead395,Web APIs
 web/api/timeranges/end,87440643d71bf81a5bf4b8fa21db9e3d56ead395,Web APIs
 web/api/timeranges/length,87440643d71bf81a5bf4b8fa21db9e3d56ead395,Web APIs
@@ -9595,8 +9598,9 @@ web/api/webtransporterror/streamerrorcode,759102220c07fb140b3e06971cd5981d8f0f13
 web/api/webtransporterror/webtransporterror,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransportreceivestream,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
 web/api/webtransportreceivestream/getstats,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
-web/api/webtransportsendstream,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
+web/api/webtransportsendstream,8f5f505dfb5c7907fb21f18efd03e07a2cd7b3c6,Web APIs
 web/api/webtransportsendstream/getstats,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
+web/api/webtransportsendstream/getwriter,8f5f505dfb5c7907fb21f18efd03e07a2cd7b3c6,Web APIs
 web/api/webtransportsendstream/sendorder,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
 web/api/webusb_api,db01d0c8b4cbf8a4467b1db65e17f6724d0ce710,Web APIs
 web/api/webvr_api,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
@@ -10566,7 +10570,7 @@ web/css/reference/properties/alignment-baseline,85fccefc8066bd49af4ddafc12c77f35
 web/css/reference/properties/all,1bfe630bd8538b64c97c7f684f5ee647a76c1a28,CSS|Properties
 web/css/reference/properties/anchor-name,8300697ca75ca1e77175912110d4fe9ef48cb0bb,CSS|Properties
 web/css/reference/properties/anchor-scope,f8ef875113a7d3e9952f41de68be1e3a3a1e6988,CSS|Properties
-web/css/reference/properties/animation,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b,CSS|Properties
+web/css/reference/properties/animation,7972cd926c2feb93bfc155d05aadd54786a7f66b,CSS|Properties
 web/css/reference/properties/animation-composition,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
 web/css/reference/properties/animation-delay,46a4425d4b7160129fd4c8d0f684ccd0617326b7,CSS|Properties
 web/css/reference/properties/animation-direction,46a4425d4b7160129fd4c8d0f684ccd0617326b7,CSS|Properties
@@ -11287,7 +11291,7 @@ web/css/reference/values/clamp,33094d735e90b4dcae5733331b79c51fee997410,CSS|Valu
 web/css/reference/values/color-interpolation-method,33094d735e90b4dcae5733331b79c51fee997410,CSS|Values
 web/css/reference/values/color_value,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,CSS|Values
 web/css/reference/values/color_value/color,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
-web/css/reference/values/color_value/color-mix,33094d735e90b4dcae5733331b79c51fee997410,CSS|Values
+web/css/reference/values/color_value/color-mix,b272f3e0aef3030a1370f1466fa59ee97243de7a,CSS|Values
 web/css/reference/values/color_value/contrast-color,7c78b2ffa0f08ac11e486884fa689ff08645dda7,CSS|Values
 web/css/reference/values/color_value/device-cmyk,7d0031545bb606d2ff7fb033180f9cec451a6f8d,CSS|Values
 web/css/reference/values/color_value/hsl,33094d735e90b4dcae5733331b79c51fee997410,CSS|Values
@@ -13603,6 +13607,9 @@ web/security/practical_implementation_guides/robots_txt,a3693d282028046f4e0dadf0
 web/security/practical_implementation_guides/sri,423161782178b119c64cd0b41bff8df20dc84a56,Security|Practical Implementation Guides
 web/security/practical_implementation_guides/tls,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Security|Practical Implementation Guides
 web/security/practical_implementation_guides/turning_off_form_autocompletion,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Security|Practical Implementation Guides
+web/security/threat_modeling,254daa6717e1d162f9fff51a0c49162c798f9bb0,Security
+web/security/threat_modeling/example_threat_model,254daa6717e1d162f9fff51a0c49162c798f9bb0,Security
+web/security/threat_modeling/frameworks,254daa6717e1d162f9fff51a0c49162c798f9bb0,Security
 web/svg,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,SVG
 web/svg/guides,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,SVG|Guides
 web/svg/guides/applying_svg_effects_to_html_content,3ee333bf5e414ac81c452ec10fed7af645c96740,SVG|Guides
