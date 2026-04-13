@@ -3412,7 +3412,7 @@ web/api/inputevent/inputevent,eab4066e72d5478de920e4020e5db71214dcffa6
 web/api/inputevent/inputtype,72ca3d725e3e56b613de3ac9727bd0d6d619c38a
 web/api/inputevent/iscomposing,no_hash_commit
 web/api/installevent,no_hash_commit
-web/api/intersection_observer_api,ab3d575903f42cef83e062b8f3499240cd2a6bc8
+web/api/intersection_observer_api,26cfe9e86b714bdce65c58089f0496206b3436f3
 web/api/intersectionobserver/disconnect,no_hash_commit
 web/api/intersectionobserver,no_hash_commit
 web/api/intersectionobserver/intersectionobserver,no_hash_commit
@@ -4068,6 +4068,9 @@ web/api/rtccodecstats/timestamp,667d3fc3409c0524a1fb97a7f3d784606d12f48d
 web/api/rtccodecstats/transportid,667d3fc3409c0524a1fb97a7f3d784606d12f48d
 web/api/rtccodecstats/type,667d3fc3409c0524a1fb97a7f3d784606d12f48d
 web/api/rtcdatachannel,no_hash_commit
+web/api/rtcdatachannelstats/bytesreceived,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
+web/api/rtcdatachannelstats/bytessent,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
+web/api/rtcdatachannelstats/datachannelidentifier,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
 web/api/rtcdatachannelstats/id,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
 web/api/rtcdtmfsender/tonechange_event,no_hash_commit
 web/api/rtcicecandidate/address,592f6ec42e54981b6573b58ec0343c9aa8cbbda8
