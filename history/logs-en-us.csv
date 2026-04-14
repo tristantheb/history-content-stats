@@ -1892,7 +1892,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Firefox
+mozilla/firefox/experimental_features,92b695d9525f7f53360881b28c0c014d6c5559dd,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1955,7 +1955,7 @@ mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Fi
 mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Firefox|Versions
 mozilla/firefox/releases/149,1ad93c0731806b155441afe9e44e971d8b2b0e2a,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
-mozilla/firefox/releases/150,68595fd79aa2354bb5cbfbb67796249bb4b720ce,Mozilla|Firefox|Versions
+mozilla/firefox/releases/150,25c128c6ad9f20dd1646056a4c548d5c88f4e659,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -11298,7 +11298,7 @@ web/css/reference/values/color_value/hsl,33094d735e90b4dcae5733331b79c51fee99741
 web/css/reference/values/color_value/hwb,db52e840c36da02f761984001bd25b603c84ee92,CSS|Values
 web/css/reference/values/color_value/lab,33094d735e90b4dcae5733331b79c51fee997410,CSS|Values
 web/css/reference/values/color_value/lch,33094d735e90b4dcae5733331b79c51fee997410,CSS|Values
-web/css/reference/values/color_value/light-dark,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
+web/css/reference/values/color_value/light-dark,f07826b83e8d2af50d69e3ff28c527d4ef572c19,CSS|Values
 web/css/reference/values/color_value/oklab,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Values
 web/css/reference/values/color_value/oklch,33094d735e90b4dcae5733331b79c51fee997410,CSS|Values
 web/css/reference/values/color_value/rgb,8fd626a7b7f1fcb19193325bbac5b87e719f83ea,CSS|Values
