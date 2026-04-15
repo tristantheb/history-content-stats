@@ -8321,6 +8321,7 @@ web/javascript/reference/errors/delete_in_strict_mode,no_hash_commit
 web/javascript/reference/errors/deprecated_caller_or_arguments_usage,no_hash_commit
 web/javascript/reference/errors/deprecated_octal_literal,no_hash_commit
 web/javascript/reference/errors/deprecated_source_map_pragma,no_hash_commit
+web/javascript/reference/errors/form_must_be_one_of,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/errors/getter_only,no_hash_commit
 web/javascript/reference/errors/identifier_after_number,no_hash_commit
 web/javascript/reference/errors/illegal_character,no_hash_commit
@@ -8356,6 +8357,7 @@ web/javascript/reference/errors/not_a_function,no_hash_commit
 web/javascript/reference/errors/not_a_valid_code_point,no_hash_commit
 web/javascript/reference/errors/not_defined,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/errors/precision_range,no_hash_commit
+web/javascript/reference/errors/promise_any_all_rejected,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/errors/property_access_denied,no_hash_commit
 web/javascript/reference/errors/read-only,no_hash_commit
 web/javascript/reference/errors/redeclared_parameter,no_hash_commit
@@ -8365,6 +8367,7 @@ web/javascript/reference/errors/resulting_string_too_large,no_hash_commit
 web/javascript/reference/errors/stmt_after_return,no_hash_commit
 web/javascript/reference/errors/strict_non_simple_params,no_hash_commit
 web/javascript/reference/errors/string_literal_eol,no_hash_commit
+web/javascript/reference/errors/super_not_called,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/errors/too_much_recursion,no_hash_commit
 web/javascript/reference/errors/undeclared_var,no_hash_commit
 web/javascript/reference/errors/unexpected_token,fad67be4431d8e6c2a89ac880735233aa76c41d4
