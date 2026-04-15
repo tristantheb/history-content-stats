@@ -2469,7 +2469,7 @@ web/api/document/writeln,1238ffad886924b20549d0cf3adca735cb0d074f
 web/api/document/xmlencoding,b25d8774aa7bcc6a053e26cf804ad454f51e134b
 web/api/document/xmlversion,b25d8774aa7bcc6a053e26cf804ad454f51e134b
 web/api/document_object_model/building_and_updating_the_dom_tree,no_hash_commit
-web/api/document_object_model/events,no_hash_commit
+web/api/document_object_model/events,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/document_object_model,df2a728b3b3911a396a4b47d363e4a335a5c8065
 web/api/document_object_model/selection_and_traversal_on_the_dom_tree,no_hash_commit
 web/api/document_picture-in-picture_api,26aaa0b6f92933d915563b1d1210cc46f4ec0e09
@@ -2724,7 +2724,7 @@ web/api/event/composed,no_hash_commit
 web/api/event/composedpath,no_hash_commit
 web/api/event/currenttarget,e2db3e53b257e07b5c469f8af5a68bd0d9db08d7
 web/api/event/defaultprevented,no_hash_commit
-web/api/event/event,no_hash_commit
+web/api/event/event,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a
 web/api/event/eventphase,no_hash_commit
 web/api/event/explicitoriginaltarget,c20c12fab32381b983b4148d712fda227d34e2bd
 web/api/event,15f0b5552bc9c2ea1f32b0cd5ee840a7d43c887e
