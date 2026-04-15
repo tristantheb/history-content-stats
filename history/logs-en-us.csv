@@ -10386,7 +10386,7 @@ web/css/guides/scroll_snap,a14f56b06eabf3b182ae4bc0e02634a8ccc01f20,CSS|Guides
 web/css/guides/scroll_snap/basic_concepts,a14f56b06eabf3b182ae4bc0e02634a8ccc01f20,CSS|Guides
 web/css/guides/scroll_snap/using_scroll_snap_events,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/scrollbars_styling,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/selectors,a397ab763a6686a4056af755e4da32ac735b9fa5,CSS|Guides
+web/css/guides/selectors,a75edf682e5e346b4f97582db6cbccaae800ef73,CSS|Guides
 web/css/guides/selectors/privacy_and__colon_visited,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/selectors/selector_structure,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/selectors/selectors_and_combinators,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -11186,6 +11186,7 @@ web/css/reference/selectors/_colon_valid,f8ef875113a7d3e9952f41de68be1e3a3a1e698
 web/css/reference/selectors/_colon_visited,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
 web/css/reference/selectors/_colon_volume-locked,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
 web/css/reference/selectors/_colon_where,235f91c4deeb3a62492fdc82565afc56c11ec153,CSS|Selectors
+web/css/reference/selectors/_colon_xr-overlay,a75edf682e5e346b4f97582db6cbccaae800ef73,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-moz-color-swatch,c52ed787442db9d65b21f5c2874fa6bfd08a253a,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-moz-focus-inner,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-moz-list-bullet,c52ed787442db9d65b21f5c2874fa6bfd08a253a,CSS|Selectors
@@ -11250,7 +11251,7 @@ web/css/reference/selectors/keyframe_selectors,f94b7a0b06a0e32df81ec8197720d306f
 web/css/reference/selectors/namespace_separator,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
 web/css/reference/selectors/nesting_selector,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
 web/css/reference/selectors/next-sibling_combinator,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
-web/css/reference/selectors/pseudo-classes,f8ef875113a7d3e9952f41de68be1e3a3a1e6988,CSS|Selectors
+web/css/reference/selectors/pseudo-classes,a75edf682e5e346b4f97582db6cbccaae800ef73,CSS|Selectors
 web/css/reference/selectors/pseudo-elements,21d2342d16ed78d6c72c66a71599125eb2405a31,CSS|Selectors
 web/css/reference/selectors/selector_list,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
 web/css/reference/selectors/subsequent-sibling_combinator,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
