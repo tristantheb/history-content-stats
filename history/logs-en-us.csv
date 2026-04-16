@@ -1889,7 +1889,7 @@ mozilla/add-ons/webextensions/work_with_the_bookmarks_api,09109b6f9444d22215ba33
 mozilla/add-ons/webextensions/work_with_the_cookies_api,7348ad4bf0fa7351041e9a3661c8a2bd2659d6e5,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/working_with_files,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/your_first_webextension,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
 mozilla/firefox/experimental_features,30b188bef30df12b7afb90069a373abad6f4f6cf,Mozilla|Firefox
@@ -10579,9 +10579,9 @@ web/css/reference/properties/animation-fill-mode,1dbba9f7a2c2e35c6e01e8a63159e2a
 web/css/reference/properties/animation-iteration-count,46a4425d4b7160129fd4c8d0f684ccd0617326b7,CSS|Properties
 web/css/reference/properties/animation-name,46a4425d4b7160129fd4c8d0f684ccd0617326b7,CSS|Properties
 web/css/reference/properties/animation-play-state,46a4425d4b7160129fd4c8d0f684ccd0617326b7,CSS|Properties
-web/css/reference/properties/animation-range,f94b7a0b06a0e32df81ec8197720d306fe50a4a0,CSS|Properties
-web/css/reference/properties/animation-range-end,f94b7a0b06a0e32df81ec8197720d306fe50a4a0,CSS|Properties
-web/css/reference/properties/animation-range-start,f94b7a0b06a0e32df81ec8197720d306fe50a4a0,CSS|Properties
+web/css/reference/properties/animation-range,2b6ef419bcd9bcc4316ae59c41b3a956c8fa5749,CSS|Properties
+web/css/reference/properties/animation-range-end,2b6ef419bcd9bcc4316ae59c41b3a956c8fa5749,CSS|Properties
+web/css/reference/properties/animation-range-start,2b6ef419bcd9bcc4316ae59c41b3a956c8fa5749,CSS|Properties
 web/css/reference/properties/animation-timeline,21f3703f37be2ab064fb8cff005438f47f92a1de,CSS|Properties
 web/css/reference/properties/animation-timeline/scroll,b7534af9f369a80fe12556cba781890e87a171d9,CSS|Properties
 web/css/reference/properties/animation-timeline/view,8f7fa9e7aef0399c7a7f8e5a20476a0c2f287640,CSS|Properties
