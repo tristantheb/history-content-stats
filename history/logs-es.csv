@@ -1034,8 +1034,8 @@ web/api/selection/selectallchildren,no_hash_commit
 web/api/selection/tostring,no_hash_commit
 web/api/server-sent_events,c2274293475b0a5b4febf85a49c1f91bf43ebac7
 web/api/server-sent_events/using_server-sent_events,no_hash_commit
-web/api/service_worker_api,no_hash_commit
-web/api/service_worker_api/using_service_workers,no_hash_commit
+web/api/service_worker_api,73ca80b86a348f88f51fdb8f9441c114b76e94f1
+web/api/service_worker_api/using_service_workers,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9
 web/api/serviceworker/error_event,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/serviceworker,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/serviceworker/postmessage,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
@@ -1222,6 +1222,7 @@ web/css/guides/grid_layout,no_hash_commit
 web/css/guides/grid_layout/relationship_with_other_layout_methods,no_hash_commit
 web/css/guides/images/replaced_element_properties,no_hash_commit
 web/css/guides/images/using_gradients,no_hash_commit
+web/css/guides,3e0ba995376cace7f08f0771635f86f0fb1753b3
 web/css/guides/logical_properties_and_values/basic_concepts,no_hash_commit
 web/css/guides/logical_properties_and_values/floating_and_positioning,no_hash_commit
 web/css/guides/logical_properties_and_values,no_hash_commit
@@ -1253,6 +1254,7 @@ web/css/guides/transforms,e1b6d7d2d02a07f7e86268c81678713fad4d9a5d
 web/css/guides/transforms/using,no_hash_commit
 web/css/guides/transitions,no_hash_commit
 web/css/guides/transitions/using,no_hash_commit
+web/css/guides/values_and_units,c8522f47d8123fe529f39851b13b9fc01345ffbf
 web/css/guides/values_and_units/value_definition_syntax,no_hash_commit
 web/css/guides/writing_modes,no_hash_commit
 web/css/how_to/layout_cookbook,no_hash_commit
