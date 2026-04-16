@@ -4074,6 +4074,9 @@ web/api/rtcdatachannelstats/datachannelidentifier,7e6058c754c6d38bc15a16cf8e65f1
 web/api/rtcdatachannelstats/id,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
 web/api/rtcdatachannelstats/label,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
 web/api/rtcdatachannelstats/messagesreceived,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
+web/api/rtcdatachannelstats/state,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
+web/api/rtcdatachannelstats/type,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
+web/api/rtcdtlstransport/icetransport,9f18116c362265a3dfb65185728548ec43cd12f4
 web/api/rtcdtmfsender/tonechange_event,no_hash_commit
 web/api/rtcicecandidate/address,592f6ec42e54981b6573b58ec0343c9aa8cbbda8
 web/api/rtcicecandidate/candidate,1a91b0b63f0cbaca9125bd48d4e5bc8afed2a7a3
@@ -5539,7 +5542,7 @@ web/css/reference/properties/word-break,no_hash_commit
 web/css/reference/properties/word-spacing,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/properties/writing-mode,no_hash_commit
 web/css/reference/properties/z-index,no_hash_commit
-web/css/reference/selectors/_colon_-moz-broken,no_hash_commit
+web/css/reference/selectors/_colon_-moz-broken,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_colon_-moz-drag-over,no_hash_commit
 web/css/reference/selectors/_colon_-moz-first-node,no_hash_commit
 web/css/reference/selectors/_colon_-moz-handler-blocked,0cc9980e3b21c83d1800a428bc402ae1865326b2
@@ -6592,7 +6595,7 @@ web/javascript/reference/global_objects/function/bind,no_hash_commit
 web/javascript/reference/global_objects/function/call,no_hash_commit
 web/javascript/reference/global_objects/function/caller,no_hash_commit
 web/javascript/reference/global_objects/function/displayname,no_hash_commit
-web/javascript/reference/global_objects/function/function,no_hash_commit
+web/javascript/reference/global_objects/function/function,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/global_objects/function,no_hash_commit
 web/javascript/reference/global_objects/function/length,no_hash_commit
 web/javascript/reference/global_objects/function/name,no_hash_commit
