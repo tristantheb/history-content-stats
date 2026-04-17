@@ -10442,7 +10442,7 @@ web/css/reference,93b85a5bc2b4589d93185263fd2c14381c36f821,CSS
 web/css/reference/at-rules,3ee2355c3c90cf92c3119b82f8ebfa5d16c91c53,CSS|At-rules
 web/css/reference/at-rules/@charset,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
 web/css/reference/at-rules/@color-profile,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
-web/css/reference/at-rules/@container,51872f3d8311c3c071cbfea613da40036911e4d7,CSS|At-rules
+web/css/reference/at-rules/@container,6043116de95e6452eefaf05ddf77aa57678d2ec3,CSS|At-rules
 web/css/reference/at-rules/@counter-style,33094d735e90b4dcae5733331b79c51fee997410,CSS|At-rules
 web/css/reference/at-rules/@counter-style/additive-symbols,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a,CSS|At-rules
 web/css/reference/at-rules/@counter-style/fallback,33094d735e90b4dcae5733331b79c51fee997410,CSS|At-rules
@@ -10588,7 +10588,7 @@ web/css/reference/properties/animation-timeline/view,8f7fa9e7aef0399c7a7f8e5a204
 web/css/reference/properties/animation-timing-function,33094d735e90b4dcae5733331b79c51fee997410,CSS|Properties
 web/css/reference/properties/appearance,76936e1d9ff271ac59307a0f858d0d7b57f3866a,CSS|Properties
 web/css/reference/properties/aspect-ratio,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
-web/css/reference/properties/backdrop-filter,33094d735e90b4dcae5733331b79c51fee997410,CSS|Properties
+web/css/reference/properties/backdrop-filter,20bd509c6ecd41c30f27cef9cd466adf4de5efa3,CSS|Properties
 web/css/reference/properties/backface-visibility,46a4425d4b7160129fd4c8d0f684ccd0617326b7,CSS|Properties
 web/css/reference/properties/background,8e7f97c52ea28a2f02b035ca2f3a8a42d41d9e9f,CSS|Properties
 web/css/reference/properties/background-attachment,3d49f18251e1f3493ef2e3a70519603345f8b7dc,CSS|Properties
