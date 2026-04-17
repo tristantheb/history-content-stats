@@ -1955,7 +1955,7 @@ mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Fi
 mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Firefox|Versions
 mozilla/firefox/releases/149,1ad93c0731806b155441afe9e44e971d8b2b0e2a,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
-mozilla/firefox/releases/150,16c2dc9c347065f648a0d6204b814657480ed25b,Mozilla|Firefox|Versions
+mozilla/firefox/releases/150,12e3ce1c71f6f04ecf6689a62a02382ad47fd52e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,4e100cee733013cb48babc0c734fe96dda9ece6c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -3074,8 +3074,8 @@ web/api/csscounterstylerule/suffix,9840d330e75b5fa4eec7034859a7d96e5d6ae07b,Web 
 web/api/csscounterstylerule/symbols,9840d330e75b5fa4eec7034859a7d96e5d6ae07b,Web APIs
 web/api/csscounterstylerule/system,9840d330e75b5fa4eec7034859a7d96e5d6ae07b,Web APIs
 web/api/cssfontfacedescriptors,3d7c7d4e151ff1b578bef4eff10c201b761a9d7d,Web APIs
-web/api/cssfontfacerule,1d5c902cab960d469baba95eb12cd421769b9111,Web APIs
-web/api/cssfontfacerule/style,1d5c902cab960d469baba95eb12cd421769b9111,Web APIs
+web/api/cssfontfacerule,4fb9722796c7e24041ec7f4060d5da19d4e8c404,Web APIs
+web/api/cssfontfacerule/style,4fb9722796c7e24041ec7f4060d5da19d4e8c404,Web APIs
 web/api/cssfontfeaturevaluesmap,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
 web/api/cssfontfeaturevaluesmap/clear,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
 web/api/cssfontfeaturevaluesmap/delete,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
@@ -10917,7 +10917,7 @@ web/css/reference/properties/overflow-wrap,85fccefc8066bd49af4ddafc12c77f35265c7
 web/css/reference/properties/overflow-x,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b,CSS|Properties
 web/css/reference/properties/overflow-y,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b,CSS|Properties
 web/css/reference/properties/overlay,33094d735e90b4dcae5733331b79c51fee997410,CSS|Properties
-web/css/reference/properties/overscroll-behavior,f28f4c26a3d95e41d01a505af3388881abd6e49c,CSS|Properties
+web/css/reference/properties/overscroll-behavior,12e3ce1c71f6f04ecf6689a62a02382ad47fd52e,CSS|Properties
 web/css/reference/properties/overscroll-behavior-block,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
 web/css/reference/properties/overscroll-behavior-inline,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
 web/css/reference/properties/overscroll-behavior-x,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Properties
