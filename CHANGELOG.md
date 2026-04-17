@@ -1,5 +1,35 @@
 # Changelog
 
+## [1.0.1](https://github.com/tristantheb/history-content-stats/compare/v1.0.0...v1.0.1) (2026-04-17)
+
+
+### Enhancements
+
+* **scripts:** implement lastModified date for csv ([#24](https://github.com/tristantheb/history-content-stats/issues/24)) ([acb7e89](https://github.com/tristantheb/history-content-stats/commit/acb7e8997eeff5ee6b5a28041a4d89bccdf7633b))
+
+
+### Bug Fixes
+
+* ssh method ([64267c2](https://github.com/tristantheb/history-content-stats/commit/64267c23fd965284519c1beed72edb9adc831781))
+* **workflow:** error of commiter as same as reviewer ([f7e3f11](https://github.com/tristantheb/history-content-stats/commit/f7e3f113279fb6fe1dcadde720a8c1ac831dbb18))
+
+
+### Miscellaneous
+
+* **deps:** bump github/codeql-action from 4.33.0 to 4.34.0 ([#15](https://github.com/tristantheb/history-content-stats/issues/15)) ([7652d0d](https://github.com/tristantheb/history-content-stats/commit/7652d0dcb4467ccc2f531e222dafd2d8519d1eb3))
+* **deps:** bump github/codeql-action from 4.34.0 to 4.34.1 ([#38](https://github.com/tristantheb/history-content-stats/issues/38)) ([d3fbae1](https://github.com/tristantheb/history-content-stats/commit/d3fbae100db4e96a7288d95b6d45da4bbfeaf76b))
+* **deps:** bump github/codeql-action from 4.34.1 to 4.35.2 ([#148](https://github.com/tristantheb/history-content-stats/issues/148)) ([84b0e38](https://github.com/tristantheb/history-content-stats/commit/84b0e38715156f01ed211bd0a5a86c3f02ccee20))
+* **deps:** bump googleapis/release-please-action from 4.4.0 to 4.4.1 ([#142](https://github.com/tristantheb/history-content-stats/issues/142)) ([2f38fbf](https://github.com/tristantheb/history-content-stats/commit/2f38fbf068c150d24a6e718fed34eea929151f82))
+* **deps:** bump peter-evans/create-pull-request from 8.1.0 to 8.1.1 ([#137](https://github.com/tristantheb/history-content-stats/issues/137)) ([107b05c](https://github.com/tristantheb/history-content-stats/commit/107b05c8edd1ec3400707442ac9360b5dcebd3a6))
+
+
+### CI/CD changes
+
+* add ssh key for checkout ([bdf12ee](https://github.com/tristantheb/history-content-stats/commit/bdf12eee655f4532e3860f38c57a8430d1aac67d))
+* fix cron time ([c7f0ddd](https://github.com/tristantheb/history-content-stats/commit/c7f0ddd947c9fb3220713e41c15df107a7d4f013))
+* remove credential persistance ([fa3efe1](https://github.com/tristantheb/history-content-stats/commit/fa3efe11538be5a2f066afeeeed1375e07f158b6))
+* **workflow:** silence git clone logs ([053ba09](https://github.com/tristantheb/history-content-stats/commit/053ba09eabf98ae787fbb004ecc470272db0e5cf))
+
 ## 1.0.0 (2026-03-20)
 
 
