@@ -1064,7 +1064,7 @@ web/api/stylesheet/parentstylesheet,no_hash_commit
 web/api/stylesheet/title,no_hash_commit
 web/api/stylesheet/type,no_hash_commit
 web/api/subtlecrypto/digest,no_hash_commit
-web/api/subtlecrypto,no_hash_commit
+web/api/subtlecrypto,44b15fff6c156ec81c2290e252e20c4519089688
 web/api/svgpoint,no_hash_commit
 web/api/texttrack/cuechange_event,no_hash_commit
 web/api/texttrack,fe0ae190fa37469b28ebe39cb33013d89c3a69e6

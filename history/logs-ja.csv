@@ -359,6 +359,7 @@ glossary/mobile_first,no_hash_commit
 glossary/modem,no_hash_commit
 glossary/modularity,no_hash_commit
 glossary/mozilla_firefox,no_hash_commit
+glossary/multi-factor_authentication,79f65d8322a4e55e9f3f4c91441c9188dbe670e0
 glossary/mutable,no_hash_commit
 glossary/mvc,no_hash_commit
 glossary/namespace,no_hash_commit
@@ -449,6 +450,7 @@ glossary/relying_party,a2d0346638937e9c92c500dcb568803778e8354e
 glossary/render_blocking,245307fe1bbb5a62c7e895fae62e0152f200b37b
 glossary/repaint,245307fe1bbb5a62c7e895fae62e0152f200b37b
 glossary/replaced_elements,2547f622337d6cbf8c3794776b17ed377d6aad57
+glossary/replay_attack,a2d0346638937e9c92c500dcb568803778e8354e
 glossary/repo,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/reporting_directive,no_hash_commit
 glossary/representation_header,no_hash_commit
@@ -997,7 +999,7 @@ mdn/writing_guidelines/page_structures/page_types/glossary_page_template,77eea2b
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,cb1c745168764c4646631e7c4289319d782cc83b
 mdn/writing_guidelines/page_structures/page_types,6a489877196f27cadd5b51545b68b9e31884a86f
-mdn/writing_guidelines/page_structures/page_types/page_type_key,a1ac64fa4da965d2a152f08221b1a9aed638fd16
+mdn/writing_guidelines/page_structures/page_types/page_type_key,676631fd27c8096c3ae3ceb2a6b4ffd6f687055f
 mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,cb1c745168764c4646631e7c4289319d782cc83b
 mdn/writing_guidelines/page_structures/sidebars,0ff7ba5177bf2e66214bd90b58590c6bf3acb758
 mdn/writing_guidelines/page_structures/specification_tables,719645a32546d9e514ac530a5eb66aa4c26d4f51
@@ -1306,9 +1308,9 @@ mozilla/firefox/releases/43,no_hash_commit
 mozilla/firefox/releases/44,e488eba036b2fee56444fd579c3759ef45ff2ca8
 mozilla/firefox/releases/45,no_hash_commit
 mozilla/firefox/releases/46,no_hash_commit
-mozilla/firefox/releases/47,no_hash_commit
-mozilla/firefox/releases/48,78ef1310a76394c4e0bdce456982abc3856790c0
-mozilla/firefox/releases/49,dd08ec8cf78926a7854d8f5f7793bf7ae199484e
+mozilla/firefox/releases/47,83f4e64da466670c3700110da364546253eae127
+mozilla/firefox/releases/48,83f4e64da466670c3700110da364546253eae127
+mozilla/firefox/releases/49,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/5,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 mozilla/firefox/releases/50,0cc63ce1d7f43eb98746a908a9aba68ef6a36f7b
 mozilla/firefox/releases/51,e0de864abf4c85888c0a790058e0d6f46462ca3a
@@ -5548,6 +5550,9 @@ web/api/svgpointlist/replaceitem,00f46adb5616d826821d63b11eac285faf1cf4a5
 web/api/svgpolygonelement/animatedpoints,9f9f880fa78383de963ae215204531c96715c0ea
 web/api/svgpolygonelement,0bb352f93d19c62cd07807479975f610f7b02cf4
 web/api/svgpolygonelement/points,9f9f880fa78383de963ae215204531c96715c0ea
+web/api/svgpolylineelement/animatedpoints,9f9f880fa78383de963ae215204531c96715c0ea
+web/api/svgpolylineelement,0bb352f93d19c62cd07807479975f610f7b02cf4
+web/api/svgpolylineelement/points,0bb352f93d19c62cd07807479975f610f7b02cf4
 web/api/svgpreserveaspectratio/align,59fec48b4572624a0b23bc98385dd05029125a76
 web/api/svgpreserveaspectratio,59fec48b4572624a0b23bc98385dd05029125a76
 web/api/svgpreserveaspectratio/meetorslice,59fec48b4572624a0b23bc98385dd05029125a76
@@ -7763,7 +7768,7 @@ web/html/reference/attributes,b2c8dcdae36907a87d1d1b9393ca4a35ebc765d6
 web/html/reference/attributes/max,f4372ac9926fc2a1cbe408dae02b381b7f1909da
 web/html/reference/attributes/maxlength,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/attributes/min,f4372ac9926fc2a1cbe408dae02b381b7f1909da
-web/html/reference/attributes/minlength,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
+web/html/reference/attributes/minlength,635820782735cd00f71ce3929ff9377b091f8995
 web/html/reference/attributes/multiple,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/attributes/pattern,1b7dbf06b84237832fc9108e1531542fd6a21a5b
 web/html/reference/attributes/placeholder,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
@@ -7779,7 +7784,7 @@ web/html/reference/attributes/rel/noopener,0389dd29e0827791ad9d2f6b8cda217c121f9
 web/html/reference/attributes/rel/noreferrer,0389dd29e0827791ad9d2f6b8cda217c121f9c19
 web/html/reference/attributes/rel/preconnect,0389dd29e0827791ad9d2f6b8cda217c121f9c19
 web/html/reference/attributes/rel/prefetch,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
-web/html/reference/attributes/rel/preload,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
+web/html/reference/attributes/rel/preload,8799c26ef12a653ea2ab7d22a958fb46a649ca60
 web/html/reference/attributes/rel/prerender,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/attributes/required,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/attributes/size,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
@@ -7789,7 +7794,7 @@ web/html/reference/elements/abbr,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/acronym,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/address,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/area,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
-web/html/reference/elements/article,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
+web/html/reference/elements/article,a1765c2cad20118be0dad322d3548908787b5791
 web/html/reference/elements/aside,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/audio,b0c2ce683687410406fa7ccdef391ff1d41503bb
 web/html/reference/elements/b,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
@@ -7809,7 +7814,7 @@ web/html/reference/elements/code,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/col,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/colgroup,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/data,942a529383ee7ee3996fb234187641c08935f3ff
-web/html/reference/elements/datalist,942a529383ee7ee3996fb234187641c08935f3ff
+web/html/reference/elements/datalist,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/elements/dd,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/del,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/details,7615562a3689a3e23a2b6b623597f4391740a53e
@@ -7817,7 +7822,7 @@ web/html/reference/elements/dfn,e04d8d2766c468f149445c0bf438d09f9b2d188c
 web/html/reference/elements/dialog,f2d281d86396bcd2dcecfdabd5837b1590132aa6
 web/html/reference/elements/dir,1f1418448e3b7f1d987b16db886008e5c5cc7fa1
 web/html/reference/elements/div,a1765c2cad20118be0dad322d3548908787b5791
-web/html/reference/elements/dl,942a529383ee7ee3996fb234187641c08935f3ff
+web/html/reference/elements/dl,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/elements/dt,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/em,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/embed,942a529383ee7ee3996fb234187641c08935f3ff
@@ -7873,7 +7878,7 @@ web/html/reference/elements/link,1f00512e3c9a20b5bb927db529bb5d639e346d96
 web/html/reference/elements/main,ca65963b93e69591b9362bb2bfde56f93128e2cb
 web/html/reference/elements/map,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/mark,17813cceb76950fea2acc1a39eb64ae3c57f038c
-web/html/reference/elements/marquee,1ebd589beda22afac79cde3cb8601061d1ce3798
+web/html/reference/elements/marquee,7c28cd21b705e7b7664d53b4d7822469ea8e6e15
 web/html/reference/elements/menu,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/meta/http-equiv,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/elements/meta,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7919,7 +7924,7 @@ web/html/reference/elements/selectedcontent,6eae35bc64a49865a469ca29bc40e6993b9c
 web/html/reference/elements/slot,e04d8d2766c468f149445c0bf438d09f9b2d188c
 web/html/reference/elements/small,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/source,0af6781c93ffe3d011a060b4e517187cf780e93a
-web/html/reference/elements/span,a46d4d15ea85b4bbb83df145228bc40f658868be
+web/html/reference/elements/span,f2d281d86396bcd2dcecfdabd5837b1590132aa6
 web/html/reference/elements/strike,270351317fdaa57ba9123a19aa281e9e40bb0baa
 web/html/reference/elements/strong,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/style,acfe8c9f1f4145f77653a2bc64a9744b001358dc
@@ -8313,6 +8318,7 @@ web/javascript/reference/errors/bad_radix,no_hash_commit
 web/javascript/reference/errors/bad_regexp_flag,no_hash_commit
 web/javascript/reference/errors/bad_return,no_hash_commit
 web/javascript/reference/errors/bigint_division_by_zero,fad67be4431d8e6c2a89ac880735233aa76c41d4
+web/javascript/reference/errors/bigint_negative_exponent,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/errors/called_on_incompatible_type,no_hash_commit
 web/javascript/reference/errors/cant_access_lexical_declaration_before_init,no_hash_commit
 web/javascript/reference/errors/cant_assign_to_property,no_hash_commit
@@ -8356,7 +8362,7 @@ web/javascript/reference/errors/no_properties,no_hash_commit
 web/javascript/reference/errors/no_variable_name,no_hash_commit
 web/javascript/reference/errors/non_configurable_array_element,no_hash_commit
 web/javascript/reference/errors/not_a_constructor,no_hash_commit
-web/javascript/reference/errors/not_a_function,no_hash_commit
+web/javascript/reference/errors/not_a_function,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/errors/not_a_valid_code_point,no_hash_commit
 web/javascript/reference/errors/not_defined,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/errors/precision_range,no_hash_commit
@@ -9060,6 +9066,7 @@ web/javascript/reference/global_objects/symbol/unscopables,a4fcf79b60471db6f148f
 web/javascript/reference/global_objects/symbol/valueof,cd22b9f18cf2450c0cc488379b8b780f0f343397
 web/javascript/reference/global_objects/syntaxerror,no_hash_commit
 web/javascript/reference/global_objects/syntaxerror/syntaxerror,no_hash_commit
+web/javascript/reference/global_objects/temporal/duration,7e14795a6ef2bf5e760c315ce64800dd1cd98c29
 web/javascript/reference/global_objects/temporal,791d6b6a04b1b8c09bc291ebadbc0f99a57dd5f7
 web/javascript/reference/global_objects/typedarray/at,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/typedarray/buffer,544b843570cb08d1474cfc5ec03ffb9f4edc0166
@@ -9501,8 +9508,8 @@ web/svg/reference/attribute/stroke-dashoffset,c2fd97474834e061404b992c8397d4ccc4
 web/svg/reference/attribute/stroke-linecap,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/stroke-linejoin,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/stroke-miterlimit,c2fd97474834e061404b992c8397d4ccc4439a71
-web/svg/reference/attribute/stroke-width,c2fd97474834e061404b992c8397d4ccc4439a71
-web/svg/reference/attribute/stroke,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/stroke-width,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
+web/svg/reference/attribute/stroke,9944f7b12ef1a6aecd54d4b2f0c188a82fdeaaf0
 web/svg/reference/attribute/tabindex,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/svg/reference/attribute/text-anchor,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/textlength,364ac5bc62331153a6a7daaba93ee3cd0396d18f
@@ -9551,7 +9558,7 @@ web/svg/reference/element/mpath,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/path,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/pattern,34c204f8f6c3f7ac60ebb23fca9798680aee9956
 web/svg/reference/element/polygon,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
-web/svg/reference/element/polyline,34c204f8f6c3f7ac60ebb23fca9798680aee9956
+web/svg/reference/element/polyline,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/radialgradient,34c204f8f6c3f7ac60ebb23fca9798680aee9956
 web/svg/reference/element/rect,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/script,34c204f8f6c3f7ac60ebb23fca9798680aee9956
