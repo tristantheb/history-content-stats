@@ -1953,7 +1953,7 @@ mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed
 mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4
 mozilla/firefox/releases/149,1ad93c0731806b155441afe9e44e971d8b2b0e2a
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127
-mozilla/firefox/releases/150,4fb9722796c7e24041ec7f4060d5da19d4e8c404
+mozilla/firefox/releases/150,12e3ce1c71f6f04ecf6689a62a02382ad47fd52e
 mozilla/firefox/releases/151,4e100cee733013cb48babc0c734fe96dda9ece6c
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
@@ -10439,7 +10439,7 @@ web/css/how_to/layout_cookbook/sticky_footers,85fccefc8066bd49af4ddafc12c77f3526
 web/css,423161782178b119c64cd0b41bff8df20dc84a56
 web/css/reference/at-rules/@charset,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@color-profile,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/at-rules/@container,51872f3d8311c3c071cbfea613da40036911e4d7
+web/css/reference/at-rules/@container,6043116de95e6452eefaf05ddf77aa57678d2ec3
 web/css/reference/at-rules/@counter-style/additive-symbols,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a
 web/css/reference/at-rules/@counter-style/fallback,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/at-rules/@counter-style,33094d735e90b4dcae5733331b79c51fee997410
@@ -10586,7 +10586,7 @@ web/css/reference/properties/animation-timing-function,33094d735e90b4dcae5733331
 web/css/reference/properties/animation,7972cd926c2feb93bfc155d05aadd54786a7f66b
 web/css/reference/properties/appearance,76936e1d9ff271ac59307a0f858d0d7b57f3866a
 web/css/reference/properties/aspect-ratio,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/backdrop-filter,33094d735e90b4dcae5733331b79c51fee997410
+web/css/reference/properties/backdrop-filter,20bd509c6ecd41c30f27cef9cd466adf4de5efa3
 web/css/reference/properties/backface-visibility,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/background-attachment,3d49f18251e1f3493ef2e3a70519603345f8b7dc
 web/css/reference/properties/background-blend-mode,46a4425d4b7160129fd4c8d0f684ccd0617326b7
@@ -10920,7 +10920,7 @@ web/css/reference/properties/overscroll-behavior-block,85fccefc8066bd49af4ddafc1
 web/css/reference/properties/overscroll-behavior-inline,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/overscroll-behavior-x,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/overscroll-behavior-y,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/overscroll-behavior,f28f4c26a3d95e41d01a505af3388881abd6e49c
+web/css/reference/properties/overscroll-behavior,12e3ce1c71f6f04ecf6689a62a02382ad47fd52e
 web/css/reference/properties/padding-block-end,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/padding-block-start,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/padding-block,c3c0f615b9b35e1ce3c799927eb21732b2f05926
