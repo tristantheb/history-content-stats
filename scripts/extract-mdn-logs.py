@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Usage: python .github/scripts/extract-mdn-logs.py [repo_path] [lang]
+Usage: python scripts/extract-mdn-logs.py [repo_path] [locale]
 Default: ./content en-us
 """
 import os
@@ -13,7 +13,7 @@ from typing import List, Optional
 
 DEFAULT_CATEGORIES_FILE = "/data/categories.csv"
 DEFAULT_FOLDER = "./content"
-DEFAULT_LANG = "en-us"
+DEFAULT_LOCALE = "en-us"
 DEFAULT_OUT_FILE_TEMPLATE = "history/logs-{}.csv"
 categories = []
 
@@ -33,7 +33,7 @@ def _loading_categories() -> None:
 
 
 def _reduce_path(data: str) -> str:
-  # Remove the files/<lang> from the path and the /index.md
+  # Remove the files/<locale> from the path and the /index.md
   return re.sub(r"^files/[^/]+/(.+)/index\.md$", r"\1", data)
 
 
@@ -47,14 +47,14 @@ def _write_csv_file(out_file: str, data: List[str], others: str = "") -> None:
 
 # Get commit source and categories for english repo.
 # @Experimental: this function use an git command marked as experimental.
-def get_last_commit(repo: str, lang: str) -> None:
-  args = ["last-modified", "-r", "--", f"./files/{lang}/*.md"]
+def get_last_commit(repo: str, locale: str) -> None:
+  args = ["last-modified", "-r", "--", f"./files/{locale}/*.md"]
   completed_process = subprocess.run(["git", "-C", repo, *args], capture_output=True, text=True)
 
   if completed_process.returncode != 0:
     return None
 
-  print(f"Found {len(completed_process.stdout.splitlines())} files in {lang} locale, retrieving last commits...")
+  print(f"Found {len(completed_process.stdout.splitlines())} files in {locale} locale, retrieving last commits...")
 
   rows: List[str] = []
   for line in completed_process.stdout.replace("\t", ",").splitlines():
@@ -75,16 +75,16 @@ def get_last_commit(repo: str, lang: str) -> None:
   rows.sort(key=lambda r: r.split(",", 1)[0])
 
   # Write to CSV
-  _write_csv_file(DEFAULT_OUT_FILE_TEMPLATE.format(lang), rows, ",Categories")
+  _write_csv_file(DEFAULT_OUT_FILE_TEMPLATE.format(locale), rows, ",Categories")
 
 
 # Retrieve the source commit in the frontmatter of the locale.
-def get_l10n_source_commit(repo: str, lang: str) -> Optional[List[str]]:
+def get_l10n_source_commit(repo: str, locale: str) -> Optional[List[str]]:
   args = [
     "ls-files",
-    f"files/{lang}/**/index.md",
-    f":(exclude,glob)files/{lang}/conflicting/**",
-    f":(exclude,glob)files/{lang}/orphaned/**"
+    f"files/{locale}/**/index.md",
+    f":(exclude,glob)files/{locale}/conflicting/**",
+    f":(exclude,glob)files/{locale}/orphaned/**"
   ]
   completed = subprocess.run(["git", "-C", repo, *args], capture_output=True)
 
@@ -94,7 +94,7 @@ def get_l10n_source_commit(repo: str, lang: str) -> Optional[List[str]]:
   files = (completed.stdout or b"").decode("utf-8", errors="replace").strip().splitlines()
   results: List[str] = []
 
-  print(f"Found {len(files)} files in {lang} locale, retrieving last commits...")
+  print(f"Found {len(files)} files in {locale} locale, retrieving last commits...")
 
   for file in files:
     path = file.strip()
@@ -124,24 +124,24 @@ def main(argv: Optional[List[str]] = None) -> None:
 
   # Getting arguments from the command.
   repo = argv[0] if len(argv) > 0 else DEFAULT_FOLDER
-  lang = argv[1] if len(argv) > 1 else DEFAULT_LANG
+  locale = argv[1] if len(argv) > 1 else DEFAULT_LOCALE
 
-  if lang == "en-us":
-    get_last_commit(repo, lang)
+  if locale == "en-us":
+    get_last_commit(repo, locale)
     elapsed = time.time() - start
-  elif lang:
-    content = get_l10n_source_commit(repo, lang)
+  elif locale:
+    content = get_l10n_source_commit(repo, locale)
     elapsed = time.time() - start
     if content is None:
-      print(f"::error::Failed after {elapsed:.2f} seconds, {lang} file is empty !")
+      print(f"::error::Failed after {elapsed:.2f} seconds, {locale} file is empty !")
       exit(1)
-    _write_csv_file(DEFAULT_OUT_FILE_TEMPLATE.format(lang), content)
+    _write_csv_file(DEFAULT_OUT_FILE_TEMPLATE.format(locale), content)
   else:
     elapsed = time.time() - start
-    print(f"::error::Failed after {elapsed:.2f} seconds, {lang} does not exist !")
+    print(f"::error::Failed after {elapsed:.2f} seconds, {locale} does not exist !")
     exit(1)
 
-  print(f"::notice::Finished after {elapsed:.2f} seconds, logs-{lang}.csv is ready !")
+  print(f"::notice::Finished after {elapsed:.2f} seconds, logs-{locale}.csv is ready !")
   exit(0)
 
 

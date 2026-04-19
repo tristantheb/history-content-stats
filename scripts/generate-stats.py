@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Usage: python .github/scripts/generate-stats.py [locale]
+Usage: python scripts/generate-stats.py [locale]
 """
 import time
 import sys
@@ -11,12 +11,12 @@ DEFAULT_LOCALE_CSV = "history/logs-{}.csv"
 DEFAULT_OUT_FILE_TEMPLATE = "statistics/stats-{}.csv"
 
 
-def _get_stats_from_locale(lang: str) -> str:
+def _get_stats_from_locale(locale: str) -> str:
   # Getting the CSV content from locale and en-us from this repo
   try:
     with open(DEFAULT_ENGLISH_CSV, "r", encoding="utf-8") as en_f:
       en_data = en_f.read()
-    with open(DEFAULT_LOCALE_CSV.format(lang), "r", encoding="utf-8") as loc_f:
+    with open(DEFAULT_LOCALE_CSV.format(locale), "r", encoding="utf-8") as loc_f:
       loc_data = loc_f.read()
   except Exception as e:
     print(f"::error::Failed to load CSV files: {e}")
@@ -75,7 +75,7 @@ def main(args: list[str]) -> None:
     exit(1)
 
   elapsed = time.time() - start
-  print(f"::notice::Finished after {elapsed:.2f} seconds, logs-{locale}.csv is ready !")
+  print(f"::notice::Finished after {elapsed:.2f} seconds, stats-{locale}.csv is ready !")
   exit(0)
 
 
