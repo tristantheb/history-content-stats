@@ -1524,7 +1524,7 @@ mozilla/add-ons/webextensions/api/proxy/onrequest,09109b6f9444d22215ba330ec1e64e
 mozilla/add-ons/webextensions/api/proxy/proxyinfo,938a5a7cf48ef6bd89d8635ae61d161401eedf17,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/proxy/requestdetails,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/proxy/settings,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/runtime,9a1a8665d37c3b75f9d9a545c4c2407296615a41,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/runtime,d093679f1b6c69e417e761d90eca65681e5f95f4,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/connect,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/connectnative,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/getbackgroundpage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1559,8 +1559,8 @@ mozilla/add-ons/webextensions/api/runtime/onuserscriptconnect,09109b6f9444d22215
 mozilla/add-ons/webextensions/api/runtime/onuserscriptmessage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/openoptionspage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/platformarch,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/runtime/platforminfo,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/runtime/platformnaclarch,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/runtime/platforminfo,d093679f1b6c69e417e761d90eca65681e5f95f4,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/runtime/platformnaclarch,d093679f1b6c69e417e761d90eca65681e5f95f4,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/platformos,df570fdf78db5cb13265b2dcfa1cdc73a0b66318,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/port,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/reload,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
