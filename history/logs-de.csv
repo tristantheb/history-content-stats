@@ -1534,7 +1534,7 @@ mozilla/add-ons/webextensions/api/runtime/getplatforminfo,09109b6f9444d22215ba33
 mozilla/add-ons/webextensions/api/runtime/geturl,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/runtime/getversion,9a1a8665d37c3b75f9d9a545c4c2407296615a41
 mozilla/add-ons/webextensions/api/runtime/id,09109b6f9444d22215ba330ec1e64e73980b2a6c
-mozilla/add-ons/webextensions/api/runtime,9a1a8665d37c3b75f9d9a545c4c2407296615a41
+mozilla/add-ons/webextensions/api/runtime,d093679f1b6c69e417e761d90eca65681e5f95f4
 mozilla/add-ons/webextensions/api/runtime/lasterror,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/runtime/messagesender,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/runtime/onbrowserupdateavailable,09109b6f9444d22215ba330ec1e64e73980b2a6c
@@ -1557,8 +1557,8 @@ mozilla/add-ons/webextensions/api/runtime/onuserscriptconnect,09109b6f9444d22215
 mozilla/add-ons/webextensions/api/runtime/onuserscriptmessage,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/runtime/openoptionspage,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/runtime/platformarch,09109b6f9444d22215ba330ec1e64e73980b2a6c
-mozilla/add-ons/webextensions/api/runtime/platforminfo,09109b6f9444d22215ba330ec1e64e73980b2a6c
-mozilla/add-ons/webextensions/api/runtime/platformnaclarch,09109b6f9444d22215ba330ec1e64e73980b2a6c
+mozilla/add-ons/webextensions/api/runtime/platforminfo,d093679f1b6c69e417e761d90eca65681e5f95f4
+mozilla/add-ons/webextensions/api/runtime/platformnaclarch,d093679f1b6c69e417e761d90eca65681e5f95f4
 mozilla/add-ons/webextensions/api/runtime/platformos,df570fdf78db5cb13265b2dcfa1cdc73a0b66318
 mozilla/add-ons/webextensions/api/runtime/port,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/runtime/reload,09109b6f9444d22215ba330ec1e64e73980b2a6c
