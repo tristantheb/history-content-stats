@@ -3,6 +3,7 @@ name: CD | Getting repositories data in CSV format
 on:
   schedule:
     - cron: '0 0,6,12,18 * * *'
+      timezone: "Europe/Paris"
   workflow_dispatch:
 
 permissions:

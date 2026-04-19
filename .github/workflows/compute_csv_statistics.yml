@@ -3,6 +3,7 @@ name: CD | Compute statistics from CSV files
 on:
   schedule:
     - cron: '30 0 * * *'
+      timezone: "Europe/Paris"
   workflow_dispatch:
 
 permissions:
