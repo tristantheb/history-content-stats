@@ -10457,7 +10457,7 @@ web/css/reference/at-rules/@counter-style/symbols,null
 web/css/reference/at-rules/@counter-style/system,null
 web/css/reference/at-rules/@custom-media,null
 web/css/reference/at-rules/@document,null
-web/css/reference/at-rules/@font-face,3
+web/css/reference/at-rules/@font-face,4
 web/css/reference/at-rules/@font-face/ascent-override,null
 web/css/reference/at-rules/@font-face/descent-override,null
 web/css/reference/at-rules/@font-face/font-display,null
@@ -10504,7 +10504,7 @@ web/css/reference/at-rules/@media/display-mode,null
 web/css/reference/at-rules/@media/dynamic-range,null
 web/css/reference/at-rules/@media/forced-colors,null
 web/css/reference/at-rules/@media/grid,null
-web/css/reference/at-rules/@media/height,2
+web/css/reference/at-rules/@media/height,3
 web/css/reference/at-rules/@media/horizontal-viewport-segments,null
 web/css/reference/at-rules/@media/hover,null
 web/css/reference/at-rules/@media/inverted-colors,null
@@ -10526,7 +10526,7 @@ web/css/reference/at-rules/@media/update,null
 web/css/reference/at-rules/@media/vertical-viewport-segments,null
 web/css/reference/at-rules/@media/video-dynamic-range,null
 web/css/reference/at-rules/@media/width,null
-web/css/reference/at-rules/@namespace,4
+web/css/reference/at-rules/@namespace,5
 web/css/reference/at-rules/@page,null
 web/css/reference/at-rules/@page/page-orientation,null
 web/css/reference/at-rules/@page/size,null
@@ -11397,6 +11397,7 @@ web/css/reference/values/repeat,null
 web/css/reference/values/resolution,null
 web/css/reference/values/revert,null
 web/css/reference/values/revert-layer,null
+web/css/reference/values/revert-rule,null
 web/css/reference/values/round,null
 web/css/reference/values/rule-list,null
 web/css/reference/values/self-position,null
@@ -11593,7 +11594,7 @@ web/html/reference/elements/marquee,null
 web/html/reference/elements/menu,null
 web/html/reference/elements/meta,null
 web/html/reference/elements/meta/http-equiv,null
-web/html/reference/elements/meta/name,3
+web/html/reference/elements/meta/name,4
 web/html/reference/elements/meta/name/color-scheme,null
 web/html/reference/elements/meta/name/referrer,null
 web/html/reference/elements/meta/name/robots,null

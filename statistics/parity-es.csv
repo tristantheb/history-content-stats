@@ -10444,7 +10444,7 @@ web/css/reference/at-rules,null
 web/css/reference/at-rules/@charset,null
 web/css/reference/at-rules/@color-profile,null
 web/css/reference/at-rules/@container,null
-web/css/reference/at-rules/@counter-style,4
+web/css/reference/at-rules/@counter-style,5
 web/css/reference/at-rules/@counter-style/additive-symbols,null
 web/css/reference/at-rules/@counter-style/fallback,null
 web/css/reference/at-rules/@counter-style/negative,null
@@ -11397,6 +11397,7 @@ web/css/reference/values/repeat,null
 web/css/reference/values/resolution,null
 web/css/reference/values/revert,null
 web/css/reference/values/revert-layer,null
+web/css/reference/values/revert-rule,null
 web/css/reference/values/round,null
 web/css/reference/values/rule-list,null
 web/css/reference/values/self-position,null
@@ -13360,7 +13361,7 @@ web/javascript/reference/regular_expressions/unicode_character_class_escape,null
 web/javascript/reference/regular_expressions/wildcard,null
 web/javascript/reference/regular_expressions/word_boundary_assertion,null
 web/javascript/reference/statements,null
-web/javascript/reference/statements/async_function,null
+web/javascript/reference/statements/async_function,0
 web/javascript/reference/statements/async_function_star_,null
 web/javascript/reference/statements/await_using,null
 web/javascript/reference/statements/block,null
