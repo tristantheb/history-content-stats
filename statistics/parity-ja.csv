@@ -6806,6 +6806,7 @@ web/api/permissions/query,12
 web/api/permissions/revoke,10
 web/api/permissions_api,7
 web/api/permissions_api/using_the_permissions_api,1
+web/api/permissionspolicyviolationreport,null
 web/api/permissionstatus,0
 web/api/permissionstatus/change_event,1
 web/api/permissionstatus/name,0
@@ -14305,4 +14306,3 @@ webassembly/reference/variables/local,null
 webassembly/reference/variables/local.get,null
 webassembly/reference/variables/local.set,null
 webassembly/reference/variables/local.tee,null
-

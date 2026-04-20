@@ -9,25 +9,43 @@ SECONDARY_LOCALES = ["de", "es", "fr", "ja", "pt-br", "ko", "ru", "zh-cn", "zh-t
 
 
 def main() -> None:
-  with open(DEFAULT_HISTORY_PATH, "r", encoding="utf-8") as f:
-    history_data = f.read()
-    history_lines = history_data.splitlines()[1:]
-  for locale in SECONDARY_LOCALES:
-    with open(DEFAULT_PARITY_PATH.format(locale), "r+", encoding="utf-8") as f:
-      parity_lines = f.read().splitlines()
-      parity_dict = {line.split(",")[0]: line.split(",")[1] for line in parity_lines[1:]}
-      for line in history_lines:
-        path_line = line.split(",")[0]
-        if path_line not in parity_dict:
-          parity_dict[path_line] = "null"
+  with open(DEFAULT_HISTORY_PATH, "r", encoding="utf-8") as file:
+    history_data = file.read()
 
-      f.seek(0)
-      f.write(parity_lines[0] + "\n")
-      for path, parity in parity_dict.items():
-        f.write(f"{path},{parity}\n")
+  history_lines = history_data.splitlines()[1:]
+  history_paths: list[str] = []
+  for history_line in history_lines:
+    parts = history_line.split(",", 1)
+    history_paths.append(parts[0])
+
+  for locale in SECONDARY_LOCALES:
+    parity_path = DEFAULT_PARITY_PATH.format(locale)
+    with open(parity_path, "r+", encoding="utf-8") as file:
+      file.readline()
+      body_offset = file.tell()
+      parity_body = file.read()
+      parity_lines = parity_body.splitlines()
+
+      parity_map: dict[str, str] = {}
+      for parity_line in parity_lines:
+        parts = parity_line.split(",", 1)
+        path = parts[0]
+        parity = ""
+        if len(parts) > 1:
+          parity = parts[1]
+        if path not in parity_map:
+          parity_map[path] = parity
+
+      file.seek(body_offset)
+      for path in history_paths:
+        parity = "null"
+        if path in parity_map:
+          parity = parity_map[path]
+        file.write(path + "," + parity + "\n")
+      file.truncate()
 
     print(f"::notice::Parity file for locale {locale} has been updated.")
-    exit(0)
+  exit(0)
 
 
 if __name__ == "__main__":
