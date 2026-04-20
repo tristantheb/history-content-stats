@@ -10588,14 +10588,14 @@ web/css/reference/properties/animation-timeline/view,null
 web/css/reference/properties/animation-timing-function,null
 web/css/reference/properties/appearance,null
 web/css/reference/properties/aspect-ratio,null
-web/css/reference/properties/backdrop-filter,3
+web/css/reference/properties/backdrop-filter,5
 web/css/reference/properties/backface-visibility,null
 web/css/reference/properties/background,null
 web/css/reference/properties/background-attachment,null
 web/css/reference/properties/background-blend-mode,null
 web/css/reference/properties/background-clip,null
 web/css/reference/properties/background-color,null
-web/css/reference/properties/background-image,6
+web/css/reference/properties/background-image,7
 web/css/reference/properties/background-origin,null
 web/css/reference/properties/background-position,null
 web/css/reference/properties/background-position-x,null
@@ -10652,7 +10652,7 @@ web/css/reference/properties/border-left,null
 web/css/reference/properties/border-left-color,null
 web/css/reference/properties/border-left-style,null
 web/css/reference/properties/border-left-width,null
-web/css/reference/properties/border-radius,5
+web/css/reference/properties/border-radius,6
 web/css/reference/properties/border-right,null
 web/css/reference/properties/border-right-color,null
 web/css/reference/properties/border-right-style,null
@@ -10668,7 +10668,7 @@ web/css/reference/properties/border-top-right-radius,null
 web/css/reference/properties/border-top-style,null
 web/css/reference/properties/border-top-width,null
 web/css/reference/properties/border-width,null
-web/css/reference/properties/bottom,4
+web/css/reference/properties/bottom,5
 web/css/reference/properties/box-align,null
 web/css/reference/properties/box-decoration-break,null
 web/css/reference/properties/box-direction,null
@@ -10752,7 +10752,7 @@ web/css/reference/properties/field-sizing,null
 web/css/reference/properties/fill,null
 web/css/reference/properties/fill-opacity,null
 web/css/reference/properties/fill-rule,null
-web/css/reference/properties/filter,2
+web/css/reference/properties/filter,3
 web/css/reference/properties/flex,null
 web/css/reference/properties/flex-basis,null
 web/css/reference/properties/flex-direction,null
@@ -10767,7 +10767,7 @@ web/css/reference/properties/font,null
 web/css/reference/properties/font-family,null
 web/css/reference/properties/font-feature-settings,null
 web/css/reference/properties/font-kerning,null
-web/css/reference/properties/font-language-override,1
+web/css/reference/properties/font-language-override,2
 web/css/reference/properties/font-optical-sizing,null
 web/css/reference/properties/font-palette,null
 web/css/reference/properties/font-palette/palette-mix,null
@@ -10810,7 +10810,7 @@ web/css/reference/properties/grid-template-areas,null
 web/css/reference/properties/grid-template-columns,null
 web/css/reference/properties/grid-template-rows,null
 web/css/reference/properties/hanging-punctuation,null
-web/css/reference/properties/height,4
+web/css/reference/properties/height,5
 web/css/reference/properties/hyphenate-character,null
 web/css/reference/properties/hyphenate-limit-chars,null
 web/css/reference/properties/hyphens,null
@@ -10851,7 +10851,7 @@ web/css/reference/properties/margin-block,null
 web/css/reference/properties/margin-block-end,null
 web/css/reference/properties/margin-block-start,null
 web/css/reference/properties/margin-bottom,null
-web/css/reference/properties/margin-inline,4
+web/css/reference/properties/margin-inline,5
 web/css/reference/properties/margin-inline-end,null
 web/css/reference/properties/margin-inline-start,null
 web/css/reference/properties/margin-left,null
@@ -10922,7 +10922,7 @@ web/css/reference/properties/overscroll-behavior-block,null
 web/css/reference/properties/overscroll-behavior-inline,null
 web/css/reference/properties/overscroll-behavior-x,null
 web/css/reference/properties/overscroll-behavior-y,null
-web/css/reference/properties/padding,2
+web/css/reference/properties/padding,3
 web/css/reference/properties/padding-block,null
 web/css/reference/properties/padding-block-end,null
 web/css/reference/properties/padding-block-start,null
@@ -11018,7 +11018,7 @@ web/css/reference/properties/stroke-opacity,null
 web/css/reference/properties/stroke-width,null
 web/css/reference/properties/tab-size,null
 web/css/reference/properties/table-layout,null
-web/css/reference/properties/text-align,1
+web/css/reference/properties/text-align,2
 web/css/reference/properties/text-align-last,null
 web/css/reference/properties/text-anchor,null
 web/css/reference/properties/text-autospace,null
@@ -11029,7 +11029,7 @@ web/css/reference/properties/text-combine-upright,null
 web/css/reference/properties/text-decoration,null
 web/css/reference/properties/text-decoration-color,null
 web/css/reference/properties/text-decoration-inset,null
-web/css/reference/properties/text-decoration-line,1
+web/css/reference/properties/text-decoration-line,2
 web/css/reference/properties/text-decoration-skip,null
 web/css/reference/properties/text-decoration-skip-ink,null
 web/css/reference/properties/text-decoration-style,null
@@ -11049,7 +11049,7 @@ web/css/reference/properties/text-spacing-trim,null
 web/css/reference/properties/text-transform,null
 web/css/reference/properties/text-underline-offset,null
 web/css/reference/properties/text-underline-position,null
-web/css/reference/properties/text-wrap,6
+web/css/reference/properties/text-wrap,7
 web/css/reference/properties/text-wrap-mode,null
 web/css/reference/properties/text-wrap-style,null
 web/css/reference/properties/timeline-scope,null

@@ -10,7 +10,7 @@ from typing import List, Optional
 DEFAULT_LOCALE_HISTORY_PATH = "history/logs-{}.csv"
 DEFAULT_PARITY_PATH = "statistics/parity-{}.csv"
 DEFAULT_GIT_PATH = "./files/en-us/"
-DEFAULT_GIT_REPO = "../content"
+DEFAULT_GIT_REPO = "./content"
 PRIMARY_LOCALE = "en-us"
 SECONDARY_LOCALES = ["de", "es", "fr", "ja", "pt-br", "ko", "ru", "zh-cn", "zh-tw"]
 
@@ -23,7 +23,6 @@ def _check_page_parity(path_line: str, locale: str|None = None) -> int|None:
       loc_data = loc_f.read()
       loc_line = next((line for line in loc_data.splitlines()[1:] if line.startswith(path_line.split(",")[0] + ",")), None)
     if loc_line is None:
-      print(f"::warning::No corresponding line found in locale {locale} for {path_line.split(',')[0]}.")
       return None
 
   splited_line = path_line.split(",")
