@@ -4,7 +4,8 @@ Usage: python scripts/generate-stats.py [locale]
 """
 import time
 import sys
-from datetime import date
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 DEFAULT_ENGLISH_CSV = "history/logs-en-us.csv"
 DEFAULT_LOCALE_CSV = "history/logs-{}.csv"
@@ -62,7 +63,7 @@ def main(args: list[str]) -> None:
   stats = _get_stats_from_locale(locale)
 
   # Get date as YYYY-MM-DD
-  date_str = date.today().strftime("%Y-%m-%d")
+  date_str = datetime.now(ZoneInfo("Europe/Paris")).strftime("%Y-%m-%d")
 
   # Add the stats to an existing CSV file
   out_file = DEFAULT_OUT_FILE_TEMPLATE.format(locale)
