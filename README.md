@@ -10,3 +10,8 @@ The data provided is organized into various folders.
   - This folder contains CSV files from the MDN repositories for the versions and updates of the original and translated pages.
 - `statistics`
   - This folder contains daily statistics for each language, which are used for graphical displays.
+
+  1. `stats-`
+     - This files contain statistics of pages status for each locales.
+  2. `parity-`
+     - This files contain the sha parity between each locales and the english content.
