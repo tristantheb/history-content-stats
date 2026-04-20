@@ -10562,7 +10562,7 @@ web/css/reference/properties/-webkit-text-stroke,null
 web/css/reference/properties/-webkit-text-stroke-color,null
 web/css/reference/properties/-webkit-text-stroke-width,null
 web/css/reference/properties/-webkit-touch-callout,null
-web/css/reference/properties/accent-color,3
+web/css/reference/properties/accent-color,4
 web/css/reference/properties/align-content,null
 web/css/reference/properties/align-items,null
 web/css/reference/properties/align-self,null
@@ -10755,7 +10755,7 @@ web/css/reference/properties/fill-rule,null
 web/css/reference/properties/filter,null
 web/css/reference/properties/flex,null
 web/css/reference/properties/flex-basis,null
-web/css/reference/properties/flex-direction,2
+web/css/reference/properties/flex-direction,3
 web/css/reference/properties/flex-flow,null
 web/css/reference/properties/flex-grow,null
 web/css/reference/properties/flex-shrink,null
@@ -10903,11 +10903,11 @@ web/css/reference/properties/offset-rotate,null
 web/css/reference/properties/opacity,null
 web/css/reference/properties/order,null
 web/css/reference/properties/orphans,null
-web/css/reference/properties/outline,2
-web/css/reference/properties/outline-color,6
-web/css/reference/properties/outline-offset,1
-web/css/reference/properties/outline-style,1
-web/css/reference/properties/outline-width,1
+web/css/reference/properties/outline,3
+web/css/reference/properties/outline-color,7
+web/css/reference/properties/outline-offset,2
+web/css/reference/properties/outline-style,2
+web/css/reference/properties/outline-width,2
 web/css/reference/properties/overflow,null
 web/css/reference/properties/overflow-anchor,null
 web/css/reference/properties/overflow-block,null
