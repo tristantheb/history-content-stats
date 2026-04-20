@@ -6,6 +6,8 @@ on:
       - opened
     branches:
       - main
+    paths:
+      - 'history/logs-*.csv'
 
 permissions:
   contents: write
