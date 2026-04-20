@@ -85,4 +85,3 @@ jobs:
           base: main
           branch: sync/update-repositories-data
           delete-branch: true
-          labels: automated-pr
