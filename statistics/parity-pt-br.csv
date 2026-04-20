@@ -6806,6 +6806,7 @@ web/api/permissions/query,null
 web/api/permissions/revoke,null
 web/api/permissions_api,null
 web/api/permissions_api/using_the_permissions_api,null
+web/api/permissionspolicyviolationreport,null
 web/api/permissionstatus,null
 web/api/permissionstatus/change_event,null
 web/api/permissionstatus/name,null
