@@ -1,0 +1,61 @@
+name: CD | Auto check parity of changed lines
+
+on:
+  pull_request:
+    types:
+      - opened
+    branches:
+      - main
+    paths:
+      - 'history/logs-*.csv'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check-parity:
+    runs-on: ubuntu-slim
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd #v6.0.2
+        with:
+          persist-credentials: false
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6.2.0
+        with:
+          python-version: '3.13.9'
+
+      - name: Clone MDN content repo
+        run: git clone --quiet https://github.com/mdn/content.git content
+
+      - name: Update parity file lines for created/renamed/removed files
+        shell: bash
+        run: |
+          python scripts/update-parity-file.py
+      
+      - name: Get changed lines and run parity check
+        shell: bash
+        run: |
+          git diff --no-color --unified=0 origin/main...HEAD -- 'history/logs-*.csv' \
+            | awk 'BEGIN{f=""} /^\+\+\+ b\//{f=substr($0,7); next} /^\+/{ if (substr($0,1,3)=="+++") next; print f "\t" substr($0,2)}' \
+            | while IFS=$'\t' read -r file line; do
+                locale=$(echo "$file" | sed -E 's/history\/logs-([a-z-]+)\.csv/\1/')
+                python scripts/check-parity.py "$line" "$locale"
+              done
+
+      - name: Update current PR with parity file updated
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: update parity file for changed lines"
+          git push origin HEAD:${{ github.head_ref }}
+
+      - name: Add label to trigger auto merge
+        run: |
+          curl -s -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/labels \
+            -d '{"labels":["automated-pr"]}'
