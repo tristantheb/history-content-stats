@@ -10,7 +10,7 @@ from typing import List, Optional
 DEFAULT_LOCALE_HISTORY_PATH = "history/logs-{}.csv"
 DEFAULT_PARITY_PATH = "statistics/parity-{}.csv"
 DEFAULT_GIT_PATH = "./files/en-us/"
-DEFAULT_GIT_REPO = "../content"
+DEFAULT_GIT_REPO = "./content"
 PRIMARY_LOCALE = "en-us"
 SECONDARY_LOCALES = ["de", "es", "fr", "ja", "pt-br", "ko", "ru", "zh-cn", "zh-tw"]
 
