@@ -2,8 +2,6 @@ name: CD | Auto check parity of changed lines
 
 on:
   pull_request:
-    types:
-      - opened
     branches:
       - main
     paths:
