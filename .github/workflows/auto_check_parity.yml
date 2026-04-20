@@ -48,6 +48,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git rm --cached content
           git add .
           git commit -m "chore: update parity file for changed lines"
           git push origin HEAD:${{ github.head_ref }}
