@@ -2395,7 +2395,7 @@ web/javascript/reference/operators/void,no_hash_commit
 web/javascript/reference/operators/yield,no_hash_commit
 web/javascript/reference/operators/yield_star_,no_hash_commit
 web/javascript/reference/regular_expressions/unicode_character_class_escape,no_hash_commit
-web/javascript/reference/statements/async_function,no_hash_commit
+web/javascript/reference/statements/async_function,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/statements/block,no_hash_commit
 web/javascript/reference/statements/break,no_hash_commit
 web/javascript/reference/statements/class,no_hash_commit
