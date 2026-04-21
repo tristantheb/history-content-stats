@@ -2996,6 +2996,11 @@ web/api/countqueuingstrategy,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
 web/api/countqueuingstrategy/countqueuingstrategy,340dc739b3f9c3c492303881b742d1aeca2c34c9,Web APIs
 web/api/countqueuingstrategy/highwatermark,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
 web/api/countqueuingstrategy/size,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
+web/api/crashreport,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
+web/api/crashreportcontext,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
+web/api/crashreportcontext/delete,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
+web/api/crashreportcontext/initialize,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
+web/api/crashreportcontext/set,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
 web/api/createmonitor,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web APIs
 web/api/createmonitor/downloadprogress_event,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web APIs
 web/api/credential,0266df57cb5eb52a057e305ba12d49c93f0edb7e,Web APIs
@@ -7053,11 +7058,11 @@ web/api/remoteplayback/disconnect_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec
 web/api/remoteplayback/prompt,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/remoteplayback/state,b71d118ffc6d72b77efad9661110fcc9ede464eb,Web APIs
 web/api/remoteplayback/watchavailability,70fa06c3cd8fa73c4d4fe85f382518dc5bf4dc4f,Web APIs
-web/api/reporting_api,a019b326a3ad0c16d78d236582927a38ccaea8b4,Web APIs
+web/api/reporting_api,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
 web/api/reportingobserver,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Web APIs
 web/api/reportingobserver/disconnect,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
 web/api/reportingobserver/observe,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
-web/api/reportingobserver/reportingobserver,a019b326a3ad0c16d78d236582927a38ccaea8b4,Web APIs
+web/api/reportingobserver/reportingobserver,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
 web/api/reportingobserver/takerecords,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
 web/api/request,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/request/arraybuffer,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
@@ -9634,7 +9639,7 @@ web/api/wheelevent/deltax,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltay,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltaz,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/wheelevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
-web/api/window,e936e7271df947f25184a5ba8a21445bbd4d056c,Web APIs
+web/api/window,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
 web/api/window/afterprint_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/window/alert,e3faa375b0179de77a5eff00074e3d168a0a904c,Web APIs
 web/api/window/appinstalled_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -9656,6 +9661,7 @@ web/api/window/close,2d37dd97bab97f39457bef2d89e7f525362d8602,Web APIs
 web/api/window/closed,94ef07a7b073c2663cbace0667bdb717a40bfa28,Web APIs
 web/api/window/confirm,b7310d059a28842d0a43ebabf814e8f2469c3419,Web APIs
 web/api/window/cookiestore,01e8b5077df6d79e52f2521dfbe734e0923d1fc4,Web APIs
+web/api/window/crashreport,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
 web/api/window/createimagebitmap,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/window/credentialless,dd868507df863ab4f37d53c960c76e20e9ee365f,Web APIs
 web/api/window/crossoriginisolated,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
@@ -11398,7 +11404,7 @@ web/css/reference/values/repeat,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Val
 web/css/reference/values/resolution,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/revert,0aa8517faf9d7d15c745ac94db7014d3a2d2085f,CSS|Values
 web/css/reference/values/revert-layer,0aa8517faf9d7d15c745ac94db7014d3a2d2085f,CSS|Values
-web/css/reference/values/revert-rule,0aa8517faf9d7d15c745ac94db7014d3a2d2085f,CSS|Values
+web/css/reference/values/revert-rule,c8990ddd46c4605793660e16edf6dda79300ca90,CSS|Values
 web/css/reference/values/round,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/rule-list,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/self-position,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
