@@ -5180,6 +5180,7 @@ web/css/reference/properties/-moz-user-focus,0cc9980e3b21c83d1800a428bc402ae1865
 web/css/reference/properties/-moz-user-input,no_hash_commit
 web/css/reference/properties/-webkit-border-before,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/properties/-webkit-box-reflect,0cc9980e3b21c83d1800a428bc402ae1865326b2
+web/css/reference/properties/-webkit-mask-box-image,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/-webkit-tap-highlight-color,no_hash_commit
 web/css/reference/properties/-webkit-text-fill-color,no_hash_commit
 web/css/reference/properties/-webkit-text-stroke-color,no_hash_commit
