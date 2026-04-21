@@ -1718,7 +1718,7 @@ mozilla/add-ons/webextensions/api/types/browsersetting/clear,51aed03147472b38832
 mozilla/add-ons/webextensions/api/types/browsersetting/get,51aed03147472b3883200e4538ff0beec8ff948f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/types/browsersetting/onchange,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/types/browsersetting/set,51aed03147472b3883200e4538ff0beec8ff948f,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/userscripts,ae1fa16dd3328625e464903699f8680f48470a85,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/userscripts,a3b7f4beaca4b6a29ef22e7d27f07ea13f48ca73,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/configureworld,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/execute,6afda999d054c2ba12d13d129b13eb35952b4fbe,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/executionworld,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1839,7 +1839,7 @@ mozilla/add-ons/webextensions/manifest.json/devtools_page,09109b6f9444d22215ba33
 mozilla/add-ons/webextensions/manifest.json/dictionaries,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/externally_connectable,0c81cbce5f95a0be935724bcd936f5592774eb3a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/homepage_url,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/host_permissions,286918035156c33cc4ed073304f4c51ab5cfacfe,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/host_permissions,674d6c8868cde1654eaba3c285afde9d3b60ce9f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/icons,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/incognito,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/manifest_version,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1851,7 +1851,7 @@ mozilla/add-ons/webextensions/manifest.json/optional_permissions,a46ee9267e4c49c
 mozilla/add-ons/webextensions/manifest.json/options_page,9928bcdc0db13da73e8ef065ab40a8e1ac8e6b0c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/options_ui,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/page_action,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/permissions,286918035156c33cc4ed073304f4c51ab5cfacfe,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/permissions,674d6c8868cde1654eaba3c285afde9d3b60ce9f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/protocol_handlers,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/short_name,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Mozilla|Firefox Add-ons
@@ -1869,6 +1869,7 @@ mozilla/add-ons/webextensions/native_manifests,09109b6f9444d22215ba330ec1e64e739
 mozilla/add-ons/webextensions/native_messaging,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/safely_inserting_external_content_into_a_page,f55d17210c316e1f7ef8f2324d8d0c03f440c1f1,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/sharing_objects_with_page_scripts,d1d2fb19fa649240ce6e25c4d79e21d9a5f6de37,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/use_the_web_authn_api,674d6c8868cde1654eaba3c285afde9d3b60ce9f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/user_actions,9ccb27e3072098028db8651e8b4df980d5e01e71,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/user_interface,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/user_interface/browser_styles,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Mozilla|Firefox Add-ons
@@ -1955,7 +1956,7 @@ mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Fi
 mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Firefox|Versions
 mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
-mozilla/firefox/releases/150,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
+mozilla/firefox/releases/150,674d6c8868cde1654eaba3c285afde9d3b60ce9f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,ead2ee795d41d4edf64c3183df253fe58e4a53fc,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
