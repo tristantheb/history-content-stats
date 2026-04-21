@@ -1869,6 +1869,7 @@ mozilla/add-ons/webextensions/native_manifests,null
 mozilla/add-ons/webextensions/native_messaging,null
 mozilla/add-ons/webextensions/safely_inserting_external_content_into_a_page,null
 mozilla/add-ons/webextensions/sharing_objects_with_page_scripts,null
+mozilla/add-ons/webextensions/use_the_web_authn_api,null
 mozilla/add-ons/webextensions/user_actions,null
 mozilla/add-ons/webextensions/user_interface,2
 mozilla/add-ons/webextensions/user_interface/browser_styles,null
