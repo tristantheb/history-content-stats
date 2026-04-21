@@ -2996,6 +2996,11 @@ web/api/countqueuingstrategy,1
 web/api/countqueuingstrategy/countqueuingstrategy,2
 web/api/countqueuingstrategy/highwatermark,1
 web/api/countqueuingstrategy/size,1
+web/api/crashreport,null
+web/api/crashreportcontext,null
+web/api/crashreportcontext/delete,null
+web/api/crashreportcontext/initialize,null
+web/api/crashreportcontext/set,null
 web/api/createmonitor,null
 web/api/createmonitor/downloadprogress_event,null
 web/api/credential,5
@@ -9634,7 +9639,7 @@ web/api/wheelevent/deltax,2
 web/api/wheelevent/deltay,2
 web/api/wheelevent/deltaz,2
 web/api/wheelevent/wheelevent,4
-web/api/window,8
+web/api/window,9
 web/api/window/afterprint_event,null
 web/api/window/alert,null
 web/api/window/appinstalled_event,6
@@ -9656,6 +9661,7 @@ web/api/window/close,null
 web/api/window/closed,0
 web/api/window/confirm,5
 web/api/window/cookiestore,1
+web/api/window/crashreport,null
 web/api/window/createimagebitmap,1
 web/api/window/credentialless,1
 web/api/window/crossoriginisolated,0
