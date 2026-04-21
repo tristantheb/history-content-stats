@@ -1718,7 +1718,7 @@ mozilla/add-ons/webextensions/api/types/browsersetting/clear,null
 mozilla/add-ons/webextensions/api/types/browsersetting/get,null
 mozilla/add-ons/webextensions/api/types/browsersetting/onchange,null
 mozilla/add-ons/webextensions/api/types/browsersetting/set,null
-mozilla/add-ons/webextensions/api/userscripts,3
+mozilla/add-ons/webextensions/api/userscripts,4
 mozilla/add-ons/webextensions/api/userscripts/configureworld,2
 mozilla/add-ons/webextensions/api/userscripts/execute,null
 mozilla/add-ons/webextensions/api/userscripts/executionworld,1
@@ -1869,6 +1869,7 @@ mozilla/add-ons/webextensions/native_manifests,null
 mozilla/add-ons/webextensions/native_messaging,null
 mozilla/add-ons/webextensions/safely_inserting_external_content_into_a_page,6
 mozilla/add-ons/webextensions/sharing_objects_with_page_scripts,null
+mozilla/add-ons/webextensions/use_the_web_authn_api,null
 mozilla/add-ons/webextensions/user_actions,null
 mozilla/add-ons/webextensions/user_interface,null
 mozilla/add-ons/webextensions/user_interface/browser_styles,null

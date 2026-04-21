@@ -1718,7 +1718,7 @@ mozilla/add-ons/webextensions/api/types/browsersetting/clear,0
 mozilla/add-ons/webextensions/api/types/browsersetting/get,0
 mozilla/add-ons/webextensions/api/types/browsersetting/onchange,0
 mozilla/add-ons/webextensions/api/types/browsersetting/set,0
-mozilla/add-ons/webextensions/api/userscripts,0
+mozilla/add-ons/webextensions/api/userscripts,1
 mozilla/add-ons/webextensions/api/userscripts/configureworld,0
 mozilla/add-ons/webextensions/api/userscripts/execute,0
 mozilla/add-ons/webextensions/api/userscripts/executionworld,0
@@ -1839,7 +1839,7 @@ mozilla/add-ons/webextensions/manifest.json/devtools_page,0
 mozilla/add-ons/webextensions/manifest.json/dictionaries,0
 mozilla/add-ons/webextensions/manifest.json/externally_connectable,0
 mozilla/add-ons/webextensions/manifest.json/homepage_url,0
-mozilla/add-ons/webextensions/manifest.json/host_permissions,0
+mozilla/add-ons/webextensions/manifest.json/host_permissions,1
 mozilla/add-ons/webextensions/manifest.json/icons,0
 mozilla/add-ons/webextensions/manifest.json/incognito,0
 mozilla/add-ons/webextensions/manifest.json/manifest_version,0
@@ -1851,7 +1851,7 @@ mozilla/add-ons/webextensions/manifest.json/optional_permissions,0
 mozilla/add-ons/webextensions/manifest.json/options_page,0
 mozilla/add-ons/webextensions/manifest.json/options_ui,0
 mozilla/add-ons/webextensions/manifest.json/page_action,0
-mozilla/add-ons/webextensions/manifest.json/permissions,0
+mozilla/add-ons/webextensions/manifest.json/permissions,1
 mozilla/add-ons/webextensions/manifest.json/protocol_handlers,0
 mozilla/add-ons/webextensions/manifest.json/short_name,0
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,0
@@ -1869,6 +1869,7 @@ mozilla/add-ons/webextensions/native_manifests,0
 mozilla/add-ons/webextensions/native_messaging,0
 mozilla/add-ons/webextensions/safely_inserting_external_content_into_a_page,0
 mozilla/add-ons/webextensions/sharing_objects_with_page_scripts,0
+mozilla/add-ons/webextensions/use_the_web_authn_api,null
 mozilla/add-ons/webextensions/user_actions,0
 mozilla/add-ons/webextensions/user_interface,0
 mozilla/add-ons/webextensions/user_interface/browser_styles,0
@@ -1955,7 +1956,7 @@ mozilla/firefox/releases/147,0
 mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
-mozilla/firefox/releases/150,0
+mozilla/firefox/releases/150,1
 mozilla/firefox/releases/151,1
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/16,0
