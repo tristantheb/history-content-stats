@@ -12345,7 +12345,7 @@ web/javascript/reference/global_objects/asyncgeneratorfunction,0
 web/javascript/reference/global_objects/asyncgeneratorfunction/asyncgeneratorfunction,1
 web/javascript/reference/global_objects/asyncgeneratorfunction/prototype,0
 web/javascript/reference/global_objects/asynciterator,9
-web/javascript/reference/global_objects/asynciterator/symbol.asyncdispose,null
+web/javascript/reference/global_objects/asynciterator/symbol.asyncdispose,0
 web/javascript/reference/global_objects/asynciterator/symbol.asynciterator,3
 web/javascript/reference/global_objects/atomics,1
 web/javascript/reference/global_objects/atomics/add,1
@@ -14009,8 +14009,8 @@ web/xml/exslt/reference/exsl/object-type,null
 web/xml/exslt/reference/math,null
 web/xml/exslt/reference/math/highest,null
 web/xml/exslt/reference/math/lowest,null
-web/xml/exslt/reference/math/max,null
-web/xml/exslt/reference/math/min,null
+web/xml/exslt/reference/math/max,0
+web/xml/exslt/reference/math/min,0
 web/xml/exslt/reference/regexp,null
 web/xml/exslt/reference/regexp/match,null
 web/xml/exslt/reference/regexp/replace,null
