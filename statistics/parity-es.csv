@@ -2996,6 +2996,11 @@ web/api/countqueuingstrategy,null
 web/api/countqueuingstrategy/countqueuingstrategy,null
 web/api/countqueuingstrategy/highwatermark,null
 web/api/countqueuingstrategy/size,null
+web/api/crashreport,null
+web/api/crashreportcontext,null
+web/api/crashreportcontext/delete,null
+web/api/crashreportcontext/initialize,null
+web/api/crashreportcontext/set,null
 web/api/createmonitor,null
 web/api/createmonitor/downloadprogress_event,null
 web/api/credential,null
@@ -9656,6 +9661,7 @@ web/api/window/close,null
 web/api/window/closed,null
 web/api/window/confirm,2
 web/api/window/cookiestore,null
+web/api/window/crashreport,null
 web/api/window/createimagebitmap,null
 web/api/window/credentialless,null
 web/api/window/crossoriginisolated,null
