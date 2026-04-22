@@ -2991,7 +2991,7 @@ web/api/cookiestore/getall,0
 web/api/cookiestore/set,0
 web/api/cookiestoremanager,0
 web/api/cookiestoremanager/getsubscriptions,0
-web/api/cookiestoremanager/subscribe,0
+web/api/cookiestoremanager/subscribe,1
 web/api/cookiestoremanager/unsubscribe,0
 web/api/countqueuingstrategy,0
 web/api/countqueuingstrategy/countqueuingstrategy,0
@@ -13943,7 +13943,7 @@ web/webdriver/how_to,0
 web/webdriver/how_to/create_bidi_connection,0
 web/webdriver/reference,0
 web/webdriver/reference/bidi,0
-web/webdriver/reference/bidi/modules,0
+web/webdriver/reference/bidi/modules,1
 web/webdriver/reference/bidi/modules/bluetooth,0
 web/webdriver/reference/bidi/modules/browser,0
 web/webdriver/reference/bidi/modules/browser/close,0
@@ -13954,7 +13954,8 @@ web/webdriver/reference/bidi/modules/browser/removeusercontext,0
 web/webdriver/reference/bidi/modules/browsingcontext,0
 web/webdriver/reference/bidi/modules/emulation,0
 web/webdriver/reference/bidi/modules/input,0
-web/webdriver/reference/bidi/modules/log,0
+web/webdriver/reference/bidi/modules/log,1
+web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,0
 web/webdriver/reference/bidi/modules/permissions,0
 web/webdriver/reference/bidi/modules/script,0

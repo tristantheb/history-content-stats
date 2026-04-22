@@ -2991,7 +2991,7 @@ web/api/cookiestore/getall,13
 web/api/cookiestore/set,14
 web/api/cookiestoremanager,4
 web/api/cookiestoremanager/getsubscriptions,4
-web/api/cookiestoremanager/subscribe,6
+web/api/cookiestoremanager/subscribe,7
 web/api/cookiestoremanager/unsubscribe,6
 web/api/countqueuingstrategy,1
 web/api/countqueuingstrategy/countqueuingstrategy,2
@@ -13955,6 +13955,7 @@ web/webdriver/reference/bidi/modules/browsingcontext,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
 web/webdriver/reference/bidi/modules/log,null
+web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null

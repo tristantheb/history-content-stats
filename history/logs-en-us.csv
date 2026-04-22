@@ -2991,7 +2991,7 @@ web/api/cookiestore/getall,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/cookiestore/set,f26af77e5448a44bb2e53f86db99a33e7379f9d5,Web APIs
 web/api/cookiestoremanager,60c3843f55839380e0c0cdc293ea694fe9943158,Web APIs
 web/api/cookiestoremanager/getsubscriptions,60c3843f55839380e0c0cdc293ea694fe9943158,Web APIs
-web/api/cookiestoremanager/subscribe,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/cookiestoremanager/subscribe,e727f51eb866144a5ee11480167188ef81e6667e,Web APIs
 web/api/cookiestoremanager/unsubscribe,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/countqueuingstrategy,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
 web/api/countqueuingstrategy/countqueuingstrategy,340dc739b3f9c3c492303881b742d1aeca2c34c9,Web APIs
@@ -13943,7 +13943,7 @@ web/webdriver/how_to,f83c12ab41865e0e195dd36ad9cdcad511a36957,WebDriver
 web/webdriver/how_to/create_bidi_connection,f83c12ab41865e0e195dd36ad9cdcad511a36957,WebDriver
 web/webdriver/reference,57b855a52a2d2e8914a30e3a47567bff0806ae23,WebDriver
 web/webdriver/reference/bidi,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
-web/webdriver/reference/bidi/modules,f83c12ab41865e0e195dd36ad9cdcad511a36957,WebDriver
+web/webdriver/reference/bidi/modules,253bed3def8e1680475ea75987d24ca62ee9f989,WebDriver
 web/webdriver/reference/bidi/modules/bluetooth,aea2d29336c910940abb1f8e71e02158ac51e7c4,WebDriver
 web/webdriver/reference/bidi/modules/browser,c09036bf0ea2f0b6e322dfdeee64b26ab53e2797,WebDriver
 web/webdriver/reference/bidi/modules/browser/close,c09036bf0ea2f0b6e322dfdeee64b26ab53e2797,WebDriver
@@ -13954,7 +13954,8 @@ web/webdriver/reference/bidi/modules/browser/removeusercontext,c09036bf0ea2f0b6e
 web/webdriver/reference/bidi/modules/browsingcontext,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/emulation,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/input,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
-web/webdriver/reference/bidi/modules/log,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
+web/webdriver/reference/bidi/modules/log,253bed3def8e1680475ea75987d24ca62ee9f989,WebDriver
+web/webdriver/reference/bidi/modules/log/entryadded,253bed3def8e1680475ea75987d24ca62ee9f989,WebDriver
 web/webdriver/reference/bidi/modules/network,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/permissions,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/script,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
