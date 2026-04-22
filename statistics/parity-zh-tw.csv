@@ -13955,6 +13955,7 @@ web/webdriver/reference/bidi/modules/browsingcontext,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
 web/webdriver/reference/bidi/modules/log,null
+web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null
