@@ -60,17 +60,17 @@ def get_last_commit(repo: str, locale: str) -> None:
   for line in completed_process.stdout.replace("\t", ",").splitlines():
     parts = line.split(",", 1)
     source_commit = parts[0]
-    path = parts[1]
+    path = _reduce_path(parts[1])
 
     array_categories: List[str] = []
     for category in categories:
       pattern, label = category.split(",", 1)
-      if re.search(pattern, path):
+      if re.search(f"^{pattern}", path):
         array_categories.append(label)
     if not array_categories:
       array_categories = ["Other"]
 
-    rows.append(f"{_reduce_path(path)},{source_commit},{'|'.join(array_categories)}")
+    rows.append(f"{path},{source_commit},{'|'.join(array_categories)}")
 
   rows.sort(key=lambda r: r.split(",", 1)[0])
 
