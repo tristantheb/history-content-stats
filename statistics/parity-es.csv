@@ -1071,7 +1071,7 @@ mdn/kitchensink,null
 mdn/tutorials,5
 mdn/writing_guidelines,5
 mdn/writing_guidelines/attrib_copyright_license,4
-mdn/writing_guidelines/changelog,null
+mdn/writing_guidelines/changelog,0
 mdn/writing_guidelines/code_style_guide,8
 mdn/writing_guidelines/code_style_guide/css,9
 mdn/writing_guidelines/code_style_guide/html,3
@@ -10819,7 +10819,7 @@ web/css/reference/properties/grid-template-areas,null
 web/css/reference/properties/grid-template-columns,null
 web/css/reference/properties/grid-template-rows,null
 web/css/reference/properties/hanging-punctuation,null
-web/css/reference/properties/height,5
+web/css/reference/properties/height,6
 web/css/reference/properties/hyphenate-character,null
 web/css/reference/properties/hyphenate-limit-chars,null
 web/css/reference/properties/hyphens,null
@@ -11573,7 +11573,7 @@ web/html/reference/elements/input/color,null
 web/html/reference/elements/input/date,null
 web/html/reference/elements/input/datetime-local,null
 web/html/reference/elements/input/email,null
-web/html/reference/elements/input/file,9
+web/html/reference/elements/input/file,10
 web/html/reference/elements/input/hidden,null
 web/html/reference/elements/input/image,null
 web/html/reference/elements/input/month,null
