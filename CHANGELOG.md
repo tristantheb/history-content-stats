@@ -1,5 +1,34 @@
 # Changelog
 
+## [1.1.0](https://github.com/tristantheb/history-content-stats/compare/v1.0.1...v1.1.0) (2026-04-22)
+
+
+### Features
+
+* **scripts:** adding parity stats ([#175](https://github.com/tristantheb/history-content-stats/issues/175)) ([3d9c9e3](https://github.com/tristantheb/history-content-stats/commit/3d9c9e343372e8cf43febae1f8f0ccaeb634406c))
+
+
+### Bug Fixes
+
+* categories check non-strict path ([#167](https://github.com/tristantheb/history-content-stats/issues/167)) ([06bb89b](https://github.com/tristantheb/history-content-stats/commit/06bb89b57366d88088ef1e19dd16481238066e99))
+* **ci:** avoid bot loop ([27c9984](https://github.com/tristantheb/history-content-stats/commit/27c99840a76a7d76f5b5ee2218347b6ff72b6504))
+* crlf on stats files to lf ([4701aba](https://github.com/tristantheb/history-content-stats/commit/4701abace73778bdeb33586b23f2dcb15bbcea05))
+* eol (force windows to be less stupid) ([9a557ac](https://github.com/tristantheb/history-content-stats/commit/9a557ac1e64f6b4109e6ed26bfd989e61d72a123))
+* parity script update non truncated file and ignore lines. ([#179](https://github.com/tristantheb/history-content-stats/issues/179)) ([bfbab67](https://github.com/tristantheb/history-content-stats/commit/bfbab6788d9cc505f3e2b4f980979baddca77922))
+* **scripts:** categories not detected properly with pathing ([#193](https://github.com/tristantheb/history-content-stats/issues/193)) ([909524d](https://github.com/tristantheb/history-content-stats/commit/909524db4a7f3ca8eaf725b88d78a59db93c9b60))
+* **script:** workflow timezone isn't the same on script ([d2e93f8](https://github.com/tristantheb/history-content-stats/commit/d2e93f88140511ee7b9352061b01db71bcc02aa8))
+* using same pattern for lang,locale vars ; as locale only ([#168](https://github.com/tristantheb/history-content-stats/issues/168)) ([3d824c1](https://github.com/tristantheb/history-content-stats/commit/3d824c19b4d005e558d4ab0acfffac7a048e9917))
+
+
+### Miscellaneous
+
+* update README with new file in structure ([c5539ea](https://github.com/tristantheb/history-content-stats/commit/c5539ea2237026e975e824e31999b995930e553c))
+
+
+### CI/CD changes
+
+* adding timezone on scheduled crontab ([#172](https://github.com/tristantheb/history-content-stats/issues/172)) ([3c3447c](https://github.com/tristantheb/history-content-stats/commit/3c3447c5ff101a4167c25fc57376c9bc28737340))
+
 ## [1.0.1](https://github.com/tristantheb/history-content-stats/compare/v1.0.0...v1.0.1) (2026-04-17)
 
 
