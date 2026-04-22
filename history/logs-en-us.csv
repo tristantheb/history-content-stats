@@ -5297,7 +5297,7 @@ web/api/htmlselectelement/autocomplete,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,
 web/api/htmlselectelement/checkvalidity,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlselectelement/disabled,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
 web/api/htmlselectelement/form,1ff044ac87e406eb23ae7181dd171bad87421b79,Web APIs
-web/api/htmlselectelement/item,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
+web/api/htmlselectelement/item,b245601cd95df53dcbaf736eb3c50138e6c9d946,Web APIs
 web/api/htmlselectelement/labels,116577234db1d6275c74a8bb879fce54d944f4ed,Web APIs
 web/api/htmlselectelement/length,92d955aff6f18961777d0b5a9ba01b8431a64131,Web APIs
 web/api/htmlselectelement/multiple,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
