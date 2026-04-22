@@ -3083,6 +3083,7 @@ web/api/htmlelement/dragover_event,no_hash_commit
 web/api/htmlelement/dragstart_event,no_hash_commit
 web/api/htmlelement/drop_event,no_hash_commit
 web/api/htmlelement/error_event,no_hash_commit
+web/api/htmlelement/focus,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/htmlelement/hidden,no_hash_commit
 web/api/htmlelement,no_hash_commit
 web/api/htmlelement/innertext,no_hash_commit
@@ -4098,8 +4099,11 @@ web/api/rtcicecandidate/type,954612667bafd71241a93e8554e8f11afc474ff3
 web/api/rtcicecandidate/usernamefragment,4e8db9b4072e90e349f3c18b2c6edfe898cfe6a2
 web/api/rtcicecandidatepairstats/bytesdiscardedonsend,0c81cbce5f95a0be935724bcd936f5592774eb3a
 web/api/rtcicecandidatepairstats/currentroundtriptime,2c2b213b9a7d391732c94dd35928edf9ff34d8ed
+web/api/rtcicecandidatepairstats/id,fbbef300a9a819cdda1171355da5787ad7cdbb6d
 web/api/rtcicecandidatepairstats/lastpacketreceivedtimestamp,2c2b213b9a7d391732c94dd35928edf9ff34d8ed
 web/api/rtcicecandidatepairstats/lastpacketsenttimestamp,2c2b213b9a7d391732c94dd35928edf9ff34d8ed
+web/api/rtcicecandidatepairstats/packetsreceived,0c81cbce5f95a0be935724bcd936f5592774eb3a
+web/api/rtcicecandidatepairstats/packetssent,0c81cbce5f95a0be935724bcd936f5592774eb3a
 web/api/rtcpeerconnection/addicecandidate,9f18116c362265a3dfb65185728548ec43cd12f4
 web/api/rtcpeerconnection/addstream_event,no_hash_commit
 web/api/rtcpeerconnection/addtrack,9f18116c362265a3dfb65185728548ec43cd12f4
@@ -6413,7 +6417,7 @@ web/javascript/reference/global_objects/array/fill,no_hash_commit
 web/javascript/reference/global_objects/array/filter,no_hash_commit
 web/javascript/reference/global_objects/array/find,no_hash_commit
 web/javascript/reference/global_objects/array/findindex,no_hash_commit
-web/javascript/reference/global_objects/array/findlast,no_hash_commit
+web/javascript/reference/global_objects/array/findlast,f9fe909466736b335491bdd866701e4b023057d0
 web/javascript/reference/global_objects/array/findlastindex,no_hash_commit
 web/javascript/reference/global_objects/array/flat,no_hash_commit
 web/javascript/reference/global_objects/array/flatmap,no_hash_commit
@@ -6763,7 +6767,7 @@ web/javascript/reference/global_objects/object/groupby,no_hash_commit
 web/javascript/reference/global_objects/object/hasown,no_hash_commit
 web/javascript/reference/global_objects/object/hasownproperty,no_hash_commit
 web/javascript/reference/global_objects/object,no_hash_commit
-web/javascript/reference/global_objects/object/is,no_hash_commit
+web/javascript/reference/global_objects/object/is,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/object/isextensible,no_hash_commit
 web/javascript/reference/global_objects/object/isfrozen,no_hash_commit
 web/javascript/reference/global_objects/object/isprototypeof,no_hash_commit
