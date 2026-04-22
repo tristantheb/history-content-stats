@@ -1694,7 +1694,7 @@ mozilla/add-ons/webextensions/api/tabs/tab,8bc98818dfbc851ee6749b123e98f5eeb7e43
 mozilla/add-ons/webextensions/api/tabs/tab_id_none,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/tabs/tabstatus,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/tabs/togglereadermode,09109b6f9444d22215ba330ec1e64e73980b2a6c
-mozilla/add-ons/webextensions/api/tabs/ungroup,09109b6f9444d22215ba330ec1e64e73980b2a6c
+mozilla/add-ons/webextensions/api/tabs/ungroup,ead2ee795d41d4edf64c3183df253fe58e4a53fc
 mozilla/add-ons/webextensions/api/tabs/update,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/tabs/warmup,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/tabs/windowtype,09109b6f9444d22215ba330ec1e64e73980b2a6c
@@ -1954,7 +1954,7 @@ mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4
 mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/150,ce29b1c36065db92c2a59ba507a4941fbf0a5159
-mozilla/firefox/releases/151,ce29b1c36065db92c2a59ba507a4941fbf0a5159
+mozilla/firefox/releases/151,ead2ee795d41d4edf64c3183df253fe58e4a53fc
 mozilla/firefox/releases/152,ce29b1c36065db92c2a59ba507a4941fbf0a5159
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
