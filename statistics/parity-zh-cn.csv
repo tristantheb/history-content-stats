@@ -4873,7 +4873,7 @@ web/api/htmlelement/drop_event,null
 web/api/htmlelement/editcontext,null
 web/api/htmlelement/enterkeyhint,null
 web/api/htmlelement/error_event,null
-web/api/htmlelement/focus,null
+web/api/htmlelement/focus,0
 web/api/htmlelement/hidden,null
 web/api/htmlelement/hidepopover,null
 web/api/htmlelement/inert,null
@@ -7260,14 +7260,14 @@ web/api/rtcicecandidatepairstats/bytesreceived,null
 web/api/rtcicecandidatepairstats/bytessent,null
 web/api/rtcicecandidatepairstats/consentrequestssent,null
 web/api/rtcicecandidatepairstats/currentroundtriptime,0
-web/api/rtcicecandidatepairstats/id,null
+web/api/rtcicecandidatepairstats/id,0
 web/api/rtcicecandidatepairstats/lastpacketreceivedtimestamp,0
 web/api/rtcicecandidatepairstats/lastpacketsenttimestamp,0
 web/api/rtcicecandidatepairstats/localcandidateid,null
 web/api/rtcicecandidatepairstats/nominated,null
 web/api/rtcicecandidatepairstats/packetsdiscardedonsend,null
-web/api/rtcicecandidatepairstats/packetsreceived,null
-web/api/rtcicecandidatepairstats/packetssent,null
+web/api/rtcicecandidatepairstats/packetsreceived,0
+web/api/rtcicecandidatepairstats/packetssent,0
 web/api/rtcicecandidatepairstats/priority,null
 web/api/rtcicecandidatepairstats/readable,null
 web/api/rtcicecandidatepairstats/remotecandidateid,null
@@ -12278,7 +12278,7 @@ web/javascript/reference/global_objects/array/fill,null
 web/javascript/reference/global_objects/array/filter,null
 web/javascript/reference/global_objects/array/find,null
 web/javascript/reference/global_objects/array/findindex,null
-web/javascript/reference/global_objects/array/findlast,null
+web/javascript/reference/global_objects/array/findlast,0
 web/javascript/reference/global_objects/array/findlastindex,null
 web/javascript/reference/global_objects/array/flat,null
 web/javascript/reference/global_objects/array/flatmap,null
@@ -12744,7 +12744,7 @@ web/javascript/reference/global_objects/object/getprototypeof,0
 web/javascript/reference/global_objects/object/groupby,null
 web/javascript/reference/global_objects/object/hasown,null
 web/javascript/reference/global_objects/object/hasownproperty,null
-web/javascript/reference/global_objects/object/is,null
+web/javascript/reference/global_objects/object/is,0
 web/javascript/reference/global_objects/object/isextensible,null
 web/javascript/reference/global_objects/object/isfrozen,null
 web/javascript/reference/global_objects/object/isprototypeof,null
