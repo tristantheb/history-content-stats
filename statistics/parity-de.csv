@@ -1696,7 +1696,7 @@ mozilla/add-ons/webextensions/api/tabs/tab,0
 mozilla/add-ons/webextensions/api/tabs/tab_id_none,0
 mozilla/add-ons/webextensions/api/tabs/tabstatus,0
 mozilla/add-ons/webextensions/api/tabs/togglereadermode,0
-mozilla/add-ons/webextensions/api/tabs/ungroup,1
+mozilla/add-ons/webextensions/api/tabs/ungroup,0
 mozilla/add-ons/webextensions/api/tabs/update,0
 mozilla/add-ons/webextensions/api/tabs/warmup,0
 mozilla/add-ons/webextensions/api/tabs/windowtype,0
@@ -1957,7 +1957,7 @@ mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,1
-mozilla/firefox/releases/151,1
+mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
