@@ -11568,7 +11568,7 @@ web/html/reference/elements/iframe,null
 web/html/reference/elements/img,null
 web/html/reference/elements/input,null
 web/html/reference/elements/input/button,null
-web/html/reference/elements/input/checkbox,8
+web/html/reference/elements/input/checkbox,9
 web/html/reference/elements/input/color,null
 web/html/reference/elements/input/date,null
 web/html/reference/elements/input/datetime-local,null
@@ -11581,7 +11581,7 @@ web/html/reference/elements/input/number,null
 web/html/reference/elements/input/password,null
 web/html/reference/elements/input/radio,null
 web/html/reference/elements/input/range,null
-web/html/reference/elements/input/reset,2
+web/html/reference/elements/input/reset,3
 web/html/reference/elements/input/search,null
 web/html/reference/elements/input/submit,null
 web/html/reference/elements/input/tel,null
@@ -11607,7 +11607,7 @@ web/html/reference/elements/meta/name/color-scheme,null
 web/html/reference/elements/meta/name/referrer,null
 web/html/reference/elements/meta/name/robots,null
 web/html/reference/elements/meta/name/theme-color,null
-web/html/reference/elements/meta/name/viewport,7
+web/html/reference/elements/meta/name/viewport,8
 web/html/reference/elements/meter,null
 web/html/reference/elements/nav,null
 web/html/reference/elements/nobr,null
