@@ -5297,7 +5297,7 @@ web/api/htmlselectelement/autocomplete,0
 web/api/htmlselectelement/checkvalidity,0
 web/api/htmlselectelement/disabled,0
 web/api/htmlselectelement/form,0
-web/api/htmlselectelement/item,0
+web/api/htmlselectelement/item,1
 web/api/htmlselectelement/labels,0
 web/api/htmlselectelement/length,0
 web/api/htmlselectelement/multiple,0
