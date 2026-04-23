@@ -11973,7 +11973,7 @@ web/http/reference/headers/set-cookie,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,H
 web/http/reference/headers/set-login,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/sourcemap,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/speculation-rules,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
-web/http/reference/headers/strict-transport-security,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,HTTP|Headers
+web/http/reference/headers/strict-transport-security,b3fde0a56d53ae5f48ed287338771a93826709c4,HTTP|Headers
 web/http/reference/headers/supports-loading-mode,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/te,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/timing-allow-origin,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
