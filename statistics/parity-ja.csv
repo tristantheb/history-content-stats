@@ -11973,7 +11973,7 @@ web/http/reference/headers/set-cookie,2
 web/http/reference/headers/set-login,null
 web/http/reference/headers/sourcemap,null
 web/http/reference/headers/speculation-rules,null
-web/http/reference/headers/strict-transport-security,2
+web/http/reference/headers/strict-transport-security,3
 web/http/reference/headers/supports-loading-mode,null
 web/http/reference/headers/te,3
 web/http/reference/headers/timing-allow-origin,null
