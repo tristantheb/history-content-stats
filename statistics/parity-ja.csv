@@ -14101,7 +14101,7 @@ web/xml/xslt/reference/element/if,0
 web/xml/xslt/reference/element/import,0
 web/xml/xslt/reference/element/include,0
 web/xml/xslt/reference/element/key,0
-web/xml/xslt/reference/element/message,0
+web/xml/xslt/reference/element/message,1
 web/xml/xslt/reference/element/namespace-alias,0
 web/xml/xslt/reference/element/number,2
 web/xml/xslt/reference/element/otherwise,0
