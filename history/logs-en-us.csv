@@ -10489,7 +10489,7 @@ web/css/reference/at-rules/@font-palette-values/override-colors,f0094356d3acb194
 web/css/reference/at-rules/@function,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@import,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@import/layer_function,b760560abe30bd69ca968dac38528102f423b5ea,CSS|At-rules
-web/css/reference/at-rules/@keyframes,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
+web/css/reference/at-rules/@keyframes,f2a9542e6c266ac7028eae954b5c7913e499d1f1,CSS|At-rules
 web/css/reference/at-rules/@layer,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@media,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@media/-moz-device-pixel-ratio,67d40334c8b90e4623f3b0d3aea466b9882d8236,CSS|At-rules
@@ -10998,7 +10998,7 @@ web/css/reference/properties/scroll-padding-inline,bcbb4bd6a80292c0663b723d54667
 web/css/reference/properties/scroll-padding-inline-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-padding-inline-start,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-padding-left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/scroll-padding-right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/scroll-padding-right,ab63f9fa055a0d5b1b4eeac21e9a1e98c4f62c82,CSS|Properties
 web/css/reference/properties/scroll-padding-top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-snap-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-snap-stop,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11293,7 +11293,7 @@ web/css/reference/values/basic-shape/shape,a8b7faffbd3fdeae5c0be97793d963d8a31cd
 web/css/reference/values/basic-shape/xywh,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/blend-mode,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/box-edge,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/calc,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/calc,dc4a0e708bed278ea7794eaef5ea83ed368b409f,CSS|Values
 web/css/reference/values/calc-keyword,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/calc-size,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/calc-sum,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
@@ -11381,9 +11381,9 @@ web/css/reference/values/length,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Val
 web/css/reference/values/length-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/line-style,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/log,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/max,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/max,6857a53b4ef756a062310b555e61f2ec722a2441,CSS|Values
 web/css/reference/values/max-content,aaedffba9f47d6dce7967a4191963378026d9406,CSS|Values
-web/css/reference/values/min,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/min,1131815f48d54465a99c1c5fd0e63e0d1f549caf,CSS|Values
 web/css/reference/values/min-content,aaedffba9f47d6dce7967a4191963378026d9406,CSS|Values
 web/css/reference/values/minmax,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/mod,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values

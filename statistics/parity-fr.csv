@@ -10489,7 +10489,7 @@ web/css/reference/at-rules/@font-palette-values/override-colors,0
 web/css/reference/at-rules/@function,0
 web/css/reference/at-rules/@import,0
 web/css/reference/at-rules/@import/layer_function,0
-web/css/reference/at-rules/@keyframes,0
+web/css/reference/at-rules/@keyframes,1
 web/css/reference/at-rules/@layer,0
 web/css/reference/at-rules/@media,0
 web/css/reference/at-rules/@media/-moz-device-pixel-ratio,0
@@ -10998,7 +10998,7 @@ web/css/reference/properties/scroll-padding-inline,0
 web/css/reference/properties/scroll-padding-inline-end,0
 web/css/reference/properties/scroll-padding-inline-start,0
 web/css/reference/properties/scroll-padding-left,0
-web/css/reference/properties/scroll-padding-right,0
+web/css/reference/properties/scroll-padding-right,1
 web/css/reference/properties/scroll-padding-top,0
 web/css/reference/properties/scroll-snap-align,0
 web/css/reference/properties/scroll-snap-stop,0
