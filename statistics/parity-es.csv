@@ -11514,8 +11514,8 @@ web/html/reference/elements/a,null
 web/html/reference/elements/abbr,null
 web/html/reference/elements/acronym,null
 web/html/reference/elements/address,null
-web/html/reference/elements/area,8
-web/html/reference/elements/article,3
+web/html/reference/elements/area,9
+web/html/reference/elements/article,4
 web/html/reference/elements/aside,null
 web/html/reference/elements/audio,null
 web/html/reference/elements/b,null
@@ -11542,7 +11542,7 @@ web/html/reference/elements/details,null
 web/html/reference/elements/dfn,null
 web/html/reference/elements/dialog,null
 web/html/reference/elements/dir,null
-web/html/reference/elements/div,6
+web/html/reference/elements/div,7
 web/html/reference/elements/dl,null
 web/html/reference/elements/dt,null
 web/html/reference/elements/em,null
@@ -11599,7 +11599,7 @@ web/html/reference/elements/main,null
 web/html/reference/elements/map,null
 web/html/reference/elements/mark,null
 web/html/reference/elements/marquee,null
-web/html/reference/elements/menu,4
+web/html/reference/elements/menu,5
 web/html/reference/elements/meta,null
 web/html/reference/elements/meta/http-equiv,null
 web/html/reference/elements/meta/name,null
@@ -11620,7 +11620,7 @@ web/html/reference/elements/optgroup,null
 web/html/reference/elements/option,null
 web/html/reference/elements/output,null
 web/html/reference/elements/p,null
-web/html/reference/elements/param,4
+web/html/reference/elements/param,5
 web/html/reference/elements/picture,null
 web/html/reference/elements/plaintext,null
 web/html/reference/elements/pre,null
@@ -11633,12 +11633,12 @@ web/html/reference/elements/rtc,null
 web/html/reference/elements/ruby,null
 web/html/reference/elements/s,null
 web/html/reference/elements/samp,null
-web/html/reference/elements/script,13
+web/html/reference/elements/script,14
 web/html/reference/elements/script/type,null
 web/html/reference/elements/script/type/importmap,null
 web/html/reference/elements/script/type/speculationrules,null
 web/html/reference/elements/search,null
-web/html/reference/elements/section,2
+web/html/reference/elements/section,3
 web/html/reference/elements/select,null
 web/html/reference/elements/selectedcontent,null
 web/html/reference/elements/slot,null
