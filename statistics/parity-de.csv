@@ -10489,7 +10489,7 @@ web/css/reference/at-rules/@font-palette-values/override-colors,0
 web/css/reference/at-rules/@function,0
 web/css/reference/at-rules/@import,0
 web/css/reference/at-rules/@import/layer_function,0
-web/css/reference/at-rules/@keyframes,0
+web/css/reference/at-rules/@keyframes,1
 web/css/reference/at-rules/@layer,0
 web/css/reference/at-rules/@media,0
 web/css/reference/at-rules/@media/-moz-device-pixel-ratio,0
@@ -10998,7 +10998,7 @@ web/css/reference/properties/scroll-padding-inline,0
 web/css/reference/properties/scroll-padding-inline-end,0
 web/css/reference/properties/scroll-padding-inline-start,0
 web/css/reference/properties/scroll-padding-left,0
-web/css/reference/properties/scroll-padding-right,0
+web/css/reference/properties/scroll-padding-right,1
 web/css/reference/properties/scroll-padding-top,0
 web/css/reference/properties/scroll-snap-align,0
 web/css/reference/properties/scroll-snap-stop,0
@@ -11293,7 +11293,7 @@ web/css/reference/values/basic-shape/shape,1
 web/css/reference/values/basic-shape/xywh,0
 web/css/reference/values/blend-mode,0
 web/css/reference/values/box-edge,0
-web/css/reference/values/calc,0
+web/css/reference/values/calc,1
 web/css/reference/values/calc-keyword,0
 web/css/reference/values/calc-size,0
 web/css/reference/values/calc-sum,0
@@ -11381,9 +11381,9 @@ web/css/reference/values/length,0
 web/css/reference/values/length-percentage,0
 web/css/reference/values/line-style,0
 web/css/reference/values/log,0
-web/css/reference/values/max,0
+web/css/reference/values/max,1
 web/css/reference/values/max-content,0
-web/css/reference/values/min,0
+web/css/reference/values/min,1
 web/css/reference/values/min-content,0
 web/css/reference/values/minmax,0
 web/css/reference/values/mod,0
