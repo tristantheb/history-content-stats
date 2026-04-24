@@ -1072,10 +1072,10 @@ mdn/tutorials,5
 mdn/writing_guidelines,5
 mdn/writing_guidelines/attrib_copyright_license,4
 mdn/writing_guidelines/changelog,0
-mdn/writing_guidelines/code_style_guide,8
-mdn/writing_guidelines/code_style_guide/css,9
-mdn/writing_guidelines/code_style_guide/html,3
-mdn/writing_guidelines/code_style_guide/javascript,null
+mdn/writing_guidelines/code_style_guide,0
+mdn/writing_guidelines/code_style_guide/css,0
+mdn/writing_guidelines/code_style_guide/html,0
+mdn/writing_guidelines/code_style_guide/javascript,0
 mdn/writing_guidelines/code_style_guide/shell,1
 mdn/writing_guidelines/criteria_for_inclusion,1
 mdn/writing_guidelines/experimental_deprecated_obsolete,6
@@ -1126,7 +1126,7 @@ mdn/writing_guidelines/page_structures/sidebars,16
 mdn/writing_guidelines/page_structures/specification_tables,3
 mdn/writing_guidelines/page_structures/syntax_sections,null
 mdn/writing_guidelines/what_we_write,8
-mdn/writing_guidelines/writing_style_guide,null
+mdn/writing_guidelines/writing_style_guide,0
 mozilla,null
 mozilla/add-ons,null
 mozilla/add-ons/contact_us,null
