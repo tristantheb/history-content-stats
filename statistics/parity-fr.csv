@@ -9640,7 +9640,7 @@ web/api/wheelevent/deltax,null
 web/api/wheelevent/deltay,null
 web/api/wheelevent/deltaz,null
 web/api/wheelevent/wheelevent,null
-web/api/window,1
+web/api/window,2
 web/api/window/afterprint_event,0
 web/api/window/alert,0
 web/api/window/appinstalled_event,0
@@ -9673,7 +9673,7 @@ web/api/window/deviceorientation_event,0
 web/api/window/deviceorientationabsolute_event,0
 web/api/window/devicepixelratio,0
 web/api/window/document,0
-web/api/window/documentpictureinpicture,0
+web/api/window/documentpictureinpicture,1
 web/api/window/dump,0
 web/api/window/error_event,0
 web/api/window/event,0
@@ -12118,7 +12118,7 @@ web/javascript/reference/classes/private_elements,2
 web/javascript/reference/classes/public_class_fields,null
 web/javascript/reference/classes/static,null
 web/javascript/reference/classes/static_initialization_blocks,null
-web/javascript/reference/deprecated_and_obsolete_features,null
+web/javascript/reference/deprecated_and_obsolete_features,0
 web/javascript/reference/errors,null
 web/javascript/reference/errors/already_executing_generator,null
 web/javascript/reference/errors/already_has_pragma,null
@@ -12562,12 +12562,12 @@ web/javascript/reference/global_objects/intl/listformat/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/locale,0
 web/javascript/reference/global_objects/intl/locale/basename,0
 web/javascript/reference/global_objects/intl/locale/calendar,0
-web/javascript/reference/global_objects/intl/locale/casefirst,null
-web/javascript/reference/global_objects/intl/locale/collation,null
-web/javascript/reference/global_objects/intl/locale/getcalendars,null
-web/javascript/reference/global_objects/intl/locale/getcollations,null
-web/javascript/reference/global_objects/intl/locale/gethourcycles,null
-web/javascript/reference/global_objects/intl/locale/getnumberingsystems,null
+web/javascript/reference/global_objects/intl/locale/casefirst,0
+web/javascript/reference/global_objects/intl/locale/collation,0
+web/javascript/reference/global_objects/intl/locale/getcalendars,0
+web/javascript/reference/global_objects/intl/locale/getcollations,0
+web/javascript/reference/global_objects/intl/locale/gethourcycles,0
+web/javascript/reference/global_objects/intl/locale/getnumberingsystems,0
 web/javascript/reference/global_objects/intl/locale/gettextinfo,null
 web/javascript/reference/global_objects/intl/locale/gettimezones,null
 web/javascript/reference/global_objects/intl/locale/getweekinfo,null
