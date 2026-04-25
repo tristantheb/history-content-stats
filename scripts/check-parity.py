@@ -41,7 +41,7 @@ def _check_page_parity(path_line: str, locale: str|None = None) -> int|None:
   completed_process = subprocess.run(["git", "-C", DEFAULT_GIT_REPO, *args], capture_output=True, text=True)
 
   if completed_process.returncode != 0:
-    print(f"::error::Failed to execute git command: {completed_process.stderr.strip()}")
+    print(f"::error::Failed to execute git command for {path_line} ({locale}): {completed_process.stderr.strip()}")
     exit(1)
 
   return int(completed_process.stdout.strip())
