@@ -2742,7 +2742,7 @@ web/api/canvasgradient,0
 web/api/canvasgradient/addcolorstop,0
 web/api/canvaspattern,0
 web/api/canvaspattern/settransform,2
-web/api/canvasrenderingcontext2d,5
+web/api/canvasrenderingcontext2d,6
 web/api/canvasrenderingcontext2d/arc,2
 web/api/canvasrenderingcontext2d/arcto,12
 web/api/canvasrenderingcontext2d/beginpath,1
@@ -3594,7 +3594,7 @@ web/api/document_object_model/building_and_updating_the_dom_tree,null
 web/api/document_object_model/events,0
 web/api/document_object_model/reflected_attributes,null
 web/api/document_object_model/selection_and_traversal_on_the_dom_tree,null
-web/api/document_picture-in-picture_api,2
+web/api/document_picture-in-picture_api,3
 web/api/document_picture-in-picture_api/using,6
 web/api/documentfragment,null
 web/api/documentfragment/append,null
@@ -3609,13 +3609,13 @@ web/api/documentfragment/prepend,null
 web/api/documentfragment/queryselector,null
 web/api/documentfragment/queryselectorall,0
 web/api/documentfragment/replacechildren,null
-web/api/documentpictureinpicture,1
-web/api/documentpictureinpicture/enter_event,1
-web/api/documentpictureinpicture/requestwindow,3
-web/api/documentpictureinpicture/window,1
-web/api/documentpictureinpictureevent,0
-web/api/documentpictureinpictureevent/documentpictureinpictureevent,0
-web/api/documentpictureinpictureevent/window,0
+web/api/documentpictureinpicture,2
+web/api/documentpictureinpicture/enter_event,2
+web/api/documentpictureinpicture/requestwindow,4
+web/api/documentpictureinpicture/window,2
+web/api/documentpictureinpictureevent,1
+web/api/documentpictureinpictureevent/documentpictureinpictureevent,1
+web/api/documentpictureinpictureevent/window,1
 web/api/documenttimeline,0
 web/api/documenttimeline/documenttimeline,null
 web/api/documenttype,null
@@ -6256,7 +6256,7 @@ web/api/navigationtransition/finished,2
 web/api/navigationtransition/from,2
 web/api/navigationtransition/navigationtype,2
 web/api/navigationtransition/to,null
-web/api/navigator,null
+web/api/navigator,1
 web/api/navigator/activevrdisplays,3
 web/api/navigator/appcodename,3
 web/api/navigator/appname,3
@@ -6313,7 +6313,7 @@ web/api/navigator/requestmediakeysystemaccess,null
 web/api/navigator/requestmidiaccess,null
 web/api/navigator/scheduling,2
 web/api/navigator/sendbeacon,null
-web/api/navigator/serial,1
+web/api/navigator/serial,2
 web/api/navigator/serviceworker,0
 web/api/navigator/setappbadge,1
 web/api/navigator/share,1
@@ -9673,7 +9673,7 @@ web/api/window/deviceorientation_event,null
 web/api/window/deviceorientationabsolute_event,null
 web/api/window/devicepixelratio,null
 web/api/window/document,0
-web/api/window/documentpictureinpicture,1
+web/api/window/documentpictureinpicture,2
 web/api/window/dump,1
 web/api/window/error_event,null
 web/api/window/event,null

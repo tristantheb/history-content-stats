@@ -5713,7 +5713,7 @@ web/javascript/reference/classes,no_hash_commit
 web/javascript/reference/classes/private_elements,2024a508694208f0316c484fb41e2c5823deae88
 web/javascript/reference/classes/public_class_fields,no_hash_commit
 web/javascript/reference/classes/static,no_hash_commit
-web/javascript/reference/deprecated_and_obsolete_features,no_hash_commit
+web/javascript/reference/deprecated_and_obsolete_features,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/javascript/reference/errors/already_has_pragma,no_hash_commit
 web/javascript/reference/errors/array_sort_argument,no_hash_commit
 web/javascript/reference/errors/bad_radix,no_hash_commit
@@ -6098,11 +6098,12 @@ web/javascript/reference/global_objects/intl/listformat/resolvedoptions,e7bc0ed5
 web/javascript/reference/global_objects/intl/listformat/supportedlocalesof,e7bc0ed5466f5834641d75d416fa81886cf6b37e
 web/javascript/reference/global_objects/intl/locale/basename,e509776556a47f12843b91ab5c6e9be6585698c6
 web/javascript/reference/global_objects/intl/locale/calendar,e509776556a47f12843b91ab5c6e9be6585698c6
-web/javascript/reference/global_objects/intl/locale/casefirst,no_hash_commit
-web/javascript/reference/global_objects/intl/locale/collation,no_hash_commit
-web/javascript/reference/global_objects/intl/locale/getcalendars,no_hash_commit
-web/javascript/reference/global_objects/intl/locale/gethourcycles,no_hash_commit
-web/javascript/reference/global_objects/intl/locale/getnumberingsystems,no_hash_commit
+web/javascript/reference/global_objects/intl/locale/casefirst,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
+web/javascript/reference/global_objects/intl/locale/collation,e509776556a47f12843b91ab5c6e9be6585698c6
+web/javascript/reference/global_objects/intl/locale/getcalendars,544b843570cb08d1474cfc5ec03ffb9f4edc0166
+web/javascript/reference/global_objects/intl/locale/getcollations,544b843570cb08d1474cfc5ec03ffb9f4edc0166
+web/javascript/reference/global_objects/intl/locale/gethourcycles,544b843570cb08d1474cfc5ec03ffb9f4edc0166
+web/javascript/reference/global_objects/intl/locale/getnumberingsystems,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/intl/locale/gettextinfo,no_hash_commit
 web/javascript/reference/global_objects/intl/locale/gettimezones,no_hash_commit
 web/javascript/reference/global_objects/intl/locale/getweekinfo,no_hash_commit

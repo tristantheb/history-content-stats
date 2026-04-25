@@ -64,7 +64,7 @@ glossary/asynchronous,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 glossary/atag,no_hash_commit
 glossary/attribute,no_hash_commit
 glossary/authentication,66afe9b59c609043c91e51487cfcecaecbbadb3d
-glossary/authenticator,51872f3d8311c3c071cbfea613da40036911e4d7
+glossary/authenticator,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/bandwidth,no_hash_commit
 glossary/base64,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/baseline/compatibility,d14b5a927958ec1ab9737f2f9fce0761a4c95c75
@@ -271,7 +271,7 @@ glossary/hpkp,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/hsts,no_hash_commit
 glossary/html,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 glossary/html5,no_hash_commit
-glossary/html_color_codes,51872f3d8311c3c071cbfea613da40036911e4d7
+glossary/html_color_codes,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 glossary/http,no_hash_commit
 glossary/http_2,no_hash_commit
 glossary/http_3,no_hash_commit
@@ -447,11 +447,11 @@ glossary/real_user_monitoring,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/recursion,no_hash_commit
 glossary/reflow,245307fe1bbb5a62c7e895fae62e0152f200b37b
 glossary/regular_expression,ada5fa5ef15eadd44b549ecf906423b4a2092f34
-glossary/relying_party,a2d0346638937e9c92c500dcb568803778e8354e
+glossary/relying_party,8cd7f0fdcb2ea8d53ec7dae071eb2eb76bf5bfaf
 glossary/render_blocking,245307fe1bbb5a62c7e895fae62e0152f200b37b
 glossary/repaint,245307fe1bbb5a62c7e895fae62e0152f200b37b
 glossary/replaced_elements,2547f622337d6cbf8c3794776b17ed377d6aad57
-glossary/replay_attack,a2d0346638937e9c92c500dcb568803778e8354e
+glossary/replay_attack,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0
 glossary/repo,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/reporting_directive,no_hash_commit
 glossary/representation_header,no_hash_commit
@@ -570,7 +570,7 @@ glossary/type,no_hash_commit
 glossary/type_coercion,no_hash_commit
 glossary/type_conversion,no_hash_commit
 glossary/typescript,8005d92738cb5678d9b1e434f02ddebaa15c1eaa
-glossary/uaag,51872f3d8311c3c071cbfea613da40036911e4d7
+glossary/uaag,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/udp,06e6e54baef7032c4e81ca93291fde0a0585de8b
 glossary/ui,no_hash_commit
 glossary/undefined,no_hash_commit
@@ -6708,7 +6708,7 @@ web/css/guides/multicol_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/multicol_layout/spanning_balancing_columns,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/multicol_layout/styling_columns,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/multicol_layout/using,32bdfdb82cf91ce9942b694286dec62be2cc20aa
-web/css/guides/namespaces,3dce7daa89de9290c5ca04b6289756cd3c39d247
+web/css/guides/namespaces,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/nesting/at-rules,81f8fcd666952c1782653a3675347c392cc997ca
 web/css/guides/nesting,81f8fcd666952c1782653a3675347c392cc997ca
 web/css/guides/nesting/nesting_and_specificity,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -6875,7 +6875,7 @@ web/css/reference/at-rules/@media/update,85fccefc8066bd49af4ddafc12c77f35265c7e2
 web/css/reference/at-rules/@media/vertical-viewport-segments,ad9776a6cf53eaf570ac0515402247e82ecefcfe
 web/css/reference/at-rules/@media/video-dynamic-range,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@media/width,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/at-rules/@namespace,c2fd97474834e061404b992c8397d4ccc4439a71
+web/css/reference/at-rules/@namespace,1dcf976e9b654679c762568812562b1a2361c755
 web/css/reference/at-rules/@page,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/reference/at-rules/@page/page-orientation,ad9776a6cf53eaf570ac0515402247e82ecefcfe
 web/css/reference/at-rules/@page/size,85fccefc8066bd49af4ddafc12c77f35265c7e2d

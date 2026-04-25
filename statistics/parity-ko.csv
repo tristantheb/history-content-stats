@@ -6256,7 +6256,7 @@ web/api/navigationtransition/finished,null
 web/api/navigationtransition/from,null
 web/api/navigationtransition/navigationtype,null
 web/api/navigationtransition/to,null
-web/api/navigator,null
+web/api/navigator,-1
 web/api/navigator/activevrdisplays,null
 web/api/navigator/appcodename,null
 web/api/navigator/appname,null
@@ -9640,7 +9640,7 @@ web/api/wheelevent/deltax,null
 web/api/wheelevent/deltay,null
 web/api/wheelevent/deltaz,null
 web/api/wheelevent/wheelevent,null
-web/api/window,70
+web/api/window,71
 web/api/window/afterprint_event,null
 web/api/window/alert,null
 web/api/window/appinstalled_event,null
