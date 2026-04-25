@@ -41,7 +41,11 @@ def _check_page_parity(path_line: str, locale: str|None = None) -> int|None:
   completed_process = subprocess.run(["git", "-C", DEFAULT_GIT_REPO, *args], capture_output=True, text=True)
 
   if completed_process.returncode != 0:
-    print(f"::error::Failed to execute git command for {path_line} ({locale}): {completed_process.stderr.strip()}")
+    stderr = (completed_process.stderr or "").strip()
+    if "fatal: Invalid revision range" in stderr:
+      print(f"::warning::Invalid revision range for {file_path}: {stderr}")
+      return -1 # Used for poisoned sha commits.
+    print(f"::error::Failed to execute git command for {path_line} ({locale}): {stderr}")
     exit(1)
 
   return int(completed_process.stdout.strip())
