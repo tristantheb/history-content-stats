@@ -1893,7 +1893,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,1
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1957,7 +1957,7 @@ mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,2
+mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -7036,7 +7036,7 @@ web/api/readablestreambyobreader/releaselock,0
 web/api/readablestreambyobrequest,0
 web/api/readablestreambyobrequest/respond,0
 web/api/readablestreambyobrequest/respondwithnewview,0
-web/api/readablestreambyobrequest/view,1
+web/api/readablestreambyobrequest/view,0
 web/api/readablestreamdefaultcontroller,0
 web/api/readablestreamdefaultcontroller/close,0
 web/api/readablestreamdefaultcontroller/desiredsize,0
@@ -7595,7 +7595,7 @@ web/api/sanitizer/get,0
 web/api/sanitizer/removeattribute,0
 web/api/sanitizer/removeelement,0
 web/api/sanitizer/removeunsafe,0
-web/api/sanitizer/replaceelementwithchildren,1
+web/api/sanitizer/replaceelementwithchildren,0
 web/api/sanitizer/sanitizer,0
 web/api/sanitizer/setcomments,0
 web/api/sanitizer/setdataattributes,0
@@ -9213,7 +9213,7 @@ web/api/web_animations_api/keyframe_formats,0
 web/api/web_animations_api/tips,0
 web/api/web_animations_api/using_the_web_animations_api,0
 web/api/web_animations_api/web_animations_api_concepts,0
-web/api/web_audio_api,1
+web/api/web_audio_api,0
 web/api/web_audio_api/advanced_techniques,0
 web/api/web_audio_api/basic_concepts_behind_web_audio_api,0
 web/api/web_audio_api/best_practices,0
@@ -9633,7 +9633,7 @@ web/api/webxr_device_api/rendering,0
 web/api/webxr_device_api/spatial_tracking,0
 web/api/webxr_device_api/startup_and_shutdown,0
 web/api/webxr_device_api/targeting,0
-web/api/wgsllanguagefeatures,1
+web/api/wgsllanguagefeatures,0
 web/api/wheelevent,0
 web/api/wheelevent/deltamode,0
 web/api/wheelevent/deltax,0
@@ -10593,7 +10593,7 @@ web/css/reference/properties/animation-range-end,0
 web/css/reference/properties/animation-range-start,0
 web/css/reference/properties/animation-timeline,0
 web/css/reference/properties/animation-timeline/scroll,0
-web/css/reference/properties/animation-timeline/view,1
+web/css/reference/properties/animation-timeline/view,0
 web/css/reference/properties/animation-timing-function,0
 web/css/reference/properties/appearance,0
 web/css/reference/properties/aspect-ratio,0
@@ -10757,7 +10757,7 @@ web/css/reference/properties/display,0
 web/css/reference/properties/dominant-baseline,0
 web/css/reference/properties/dynamic-range-limit,0
 web/css/reference/properties/empty-cells,0
-web/css/reference/properties/field-sizing,1
+web/css/reference/properties/field-sizing,0
 web/css/reference/properties/fill,0
 web/css/reference/properties/fill-opacity,0
 web/css/reference/properties/fill-rule,0
@@ -13716,7 +13716,7 @@ web/svg/reference/attribute/k3,0
 web/svg/reference/attribute/k4,0
 web/svg/reference/attribute/kernelmatrix,0
 web/svg/reference/attribute/kernelunitlength,0
-web/svg/reference/attribute/keypoints,1
+web/svg/reference/attribute/keypoints,0
 web/svg/reference/attribute/keysplines,0
 web/svg/reference/attribute/keytimes,0
 web/svg/reference/attribute/lang,0
