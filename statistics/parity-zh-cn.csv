@@ -5645,7 +5645,7 @@ web/api/imagetracklist/selectedtrack,null
 web/api/indexeddb_api,0
 web/api/indexeddb_api/basic_terminology,null
 web/api/indexeddb_api/checking_when_a_deadline_is_due,null
-web/api/indexeddb_api/using_indexeddb,null
+web/api/indexeddb_api/using_indexeddb,0
 web/api/ink,null
 web/api/ink/requestpresenter,null
 web/api/ink_api,null
@@ -7371,7 +7371,7 @@ web/api/rtcinboundrtpstreamstats/transportid,null
 web/api/rtcinboundrtpstreamstats/type,null
 web/api/rtcoutboundrtpstreamstats,null
 web/api/rtcoutboundrtpstreamstats/active,null
-web/api/rtcoutboundrtpstreamstats/bytessent,null
+web/api/rtcoutboundrtpstreamstats/bytessent,0
 web/api/rtcoutboundrtpstreamstats/codecid,null
 web/api/rtcoutboundrtpstreamstats/frameheight,null
 web/api/rtcoutboundrtpstreamstats/framesencoded,null

@@ -1893,7 +1893,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,null
-mozilla/firefox/experimental_features,21
+mozilla/firefox/experimental_features,23
 mozilla/firefox/releases,null
 mozilla/firefox/releases/1.5,null
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -7036,7 +7036,7 @@ web/api/readablestreambyobreader/releaselock,1
 web/api/readablestreambyobrequest,2
 web/api/readablestreambyobrequest/respond,1
 web/api/readablestreambyobrequest/respondwithnewview,2
-web/api/readablestreambyobrequest/view,1
+web/api/readablestreambyobrequest/view,2
 web/api/readablestreamdefaultcontroller,4
 web/api/readablestreamdefaultcontroller/close,5
 web/api/readablestreamdefaultcontroller/desiredsize,2
@@ -9213,7 +9213,7 @@ web/api/web_animations_api/keyframe_formats,12
 web/api/web_animations_api/tips,null
 web/api/web_animations_api/using_the_web_animations_api,15
 web/api/web_animations_api/web_animations_api_concepts,2
-web/api/web_audio_api,13
+web/api/web_audio_api,14
 web/api/web_audio_api/advanced_techniques,7
 web/api/web_audio_api/basic_concepts_behind_web_audio_api,null
 web/api/web_audio_api/best_practices,null
@@ -10593,7 +10593,7 @@ web/css/reference/properties/animation-range-end,3
 web/css/reference/properties/animation-range-start,3
 web/css/reference/properties/animation-timeline,4
 web/css/reference/properties/animation-timeline/scroll,2
-web/css/reference/properties/animation-timeline/view,2
+web/css/reference/properties/animation-timeline/view,3
 web/css/reference/properties/animation-timing-function,1
 web/css/reference/properties/appearance,2
 web/css/reference/properties/aspect-ratio,1
@@ -10757,7 +10757,7 @@ web/css/reference/properties/display,5
 web/css/reference/properties/dominant-baseline,1
 web/css/reference/properties/dynamic-range-limit,null
 web/css/reference/properties/empty-cells,1
-web/css/reference/properties/field-sizing,4
+web/css/reference/properties/field-sizing,5
 web/css/reference/properties/fill,2
 web/css/reference/properties/fill-opacity,null
 web/css/reference/properties/fill-rule,2
