@@ -1159,7 +1159,7 @@ mozilla/add-ons/webextensions/api/alarms,1
 mozilla/add-ons/webextensions/api/alarms/alarm,4
 mozilla/add-ons/webextensions/api/alarms/clear,3
 mozilla/add-ons/webextensions/api/alarms/clearall,3
-mozilla/add-ons/webextensions/api/alarms/create,6
+mozilla/add-ons/webextensions/api/alarms/create,7
 mozilla/add-ons/webextensions/api/alarms/get,4
 mozilla/add-ons/webextensions/api/alarms/getall,3
 mozilla/add-ons/webextensions/api/alarms/onalarm,4
@@ -14119,7 +14119,7 @@ web/xml/xslt/reference/element/value-of,null
 web/xml/xslt/reference/element/variable,null
 web/xml/xslt/reference/element/when,null
 web/xml/xslt/reference/element/with-param,null
-webassembly,3
+webassembly,4
 webassembly/guides,1
 webassembly/guides/c_to_wasm,null
 webassembly/guides/concepts,null
@@ -14148,6 +14148,7 @@ webassembly/reference/control_flow/return,1
 webassembly/reference/control_flow/select,0
 webassembly/reference/control_flow/unreachable,1
 webassembly/reference/definitions,null
+webassembly/reference/definitions/global,null
 webassembly/reference/definitions/table,null
 webassembly/reference/javascript_interface,0
 webassembly/reference/javascript_interface/compile_static,0
@@ -14159,8 +14160,10 @@ webassembly/reference/javascript_interface/exception/exception,1
 webassembly/reference/javascript_interface/exception/getarg,0
 webassembly/reference/javascript_interface/exception/is,1
 webassembly/reference/javascript_interface/exception/stack,0
-webassembly/reference/javascript_interface/global,0
-webassembly/reference/javascript_interface/global/global,1
+webassembly/reference/javascript_interface/global,1
+webassembly/reference/javascript_interface/global/global,2
+webassembly/reference/javascript_interface/global/value,null
+webassembly/reference/javascript_interface/global/valueof,null
 webassembly/reference/javascript_interface/instance,0
 webassembly/reference/javascript_interface/instance/exports,0
 webassembly/reference/javascript_interface/instance/instance,0
@@ -14356,7 +14359,6 @@ webassembly/reference/types/externref,null
 webassembly/reference/types/funcref,null
 webassembly/reference/types/v128,null
 webassembly/reference/variables,null
-webassembly/reference/variables/global,null
 webassembly/reference/variables/global.get,null
 webassembly/reference/variables/global.set,null
 webassembly/reference/variables/local,null
