@@ -9633,7 +9633,7 @@ web/api/webxr_device_api/rendering,0
 web/api/webxr_device_api/spatial_tracking,0
 web/api/webxr_device_api/startup_and_shutdown,0
 web/api/webxr_device_api/targeting,0
-web/api/wgsllanguagefeatures,0
+web/api/wgsllanguagefeatures,1
 web/api/wheelevent,0
 web/api/wheelevent/deltamode,0
 web/api/wheelevent/deltax,0
