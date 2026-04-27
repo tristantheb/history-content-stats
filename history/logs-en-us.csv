@@ -9633,7 +9633,7 @@ web/api/webxr_device_api/rendering,9a4005caa5cc13f5174e3b8981eeec5631ed83d1,Web 
 web/api/webxr_device_api/spatial_tracking,cda88aaf82e8bc03b3826396d96aab18a669134c,Web APIs
 web/api/webxr_device_api/startup_and_shutdown,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/webxr_device_api/targeting,4f0f7386262363103a3e9cf482bb348d8570b331,Web APIs
-web/api/wgsllanguagefeatures,a5acd8da14cc41b35cd479cda34f173e8702f992,Web APIs
+web/api/wgsllanguagefeatures,7b753f510ca41b5b067b200b6eb3698027503e2e,Web APIs
 web/api/wheelevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltamode,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltax,d783c87acb536c6c142792d263f813c88808551b,Web APIs
