@@ -14119,7 +14119,7 @@ web/xml/xslt/reference/element/value-of,0
 web/xml/xslt/reference/element/variable,0
 web/xml/xslt/reference/element/when,0
 web/xml/xslt/reference/element/with-param,0
-webassembly,1
+webassembly,2
 webassembly/guides,1
 webassembly/guides/c_to_wasm,2
 webassembly/guides/concepts,2
@@ -14148,6 +14148,7 @@ webassembly/reference/control_flow/return,null
 webassembly/reference/control_flow/select,null
 webassembly/reference/control_flow/unreachable,null
 webassembly/reference/definitions,null
+webassembly/reference/definitions/global,null
 webassembly/reference/definitions/table,null
 webassembly/reference/javascript_interface,null
 webassembly/reference/javascript_interface/compile_static,null
@@ -14159,8 +14160,10 @@ webassembly/reference/javascript_interface/exception/exception,null
 webassembly/reference/javascript_interface/exception/getarg,null
 webassembly/reference/javascript_interface/exception/is,null
 webassembly/reference/javascript_interface/exception/stack,null
-webassembly/reference/javascript_interface/global,2
-webassembly/reference/javascript_interface/global/global,3
+webassembly/reference/javascript_interface/global,3
+webassembly/reference/javascript_interface/global/global,4
+webassembly/reference/javascript_interface/global/value,null
+webassembly/reference/javascript_interface/global/valueof,null
 webassembly/reference/javascript_interface/instance,null
 webassembly/reference/javascript_interface/instance/exports,null
 webassembly/reference/javascript_interface/instance/instance,null
@@ -14356,7 +14359,6 @@ webassembly/reference/types/externref,null
 webassembly/reference/types/funcref,null
 webassembly/reference/types/v128,null
 webassembly/reference/variables,null
-webassembly/reference/variables/global,null
 webassembly/reference/variables/global.get,null
 webassembly/reference/variables/global.set,null
 webassembly/reference/variables/local,null

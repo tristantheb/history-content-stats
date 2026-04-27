@@ -1159,7 +1159,7 @@ mozilla/add-ons/webextensions/api/alarms,0
 mozilla/add-ons/webextensions/api/alarms/alarm,0
 mozilla/add-ons/webextensions/api/alarms/clear,0
 mozilla/add-ons/webextensions/api/alarms/clearall,0
-mozilla/add-ons/webextensions/api/alarms/create,0
+mozilla/add-ons/webextensions/api/alarms/create,1
 mozilla/add-ons/webextensions/api/alarms/get,0
 mozilla/add-ons/webextensions/api/alarms/getall,0
 mozilla/add-ons/webextensions/api/alarms/onalarm,0
@@ -1879,7 +1879,7 @@ mozilla/add-ons/webextensions/user_interface/extension_pages,0
 mozilla/add-ons/webextensions/user_interface/notifications,0
 mozilla/add-ons/webextensions/user_interface/omnibox,0
 mozilla/add-ons/webextensions/user_interface/options_pages,0
-mozilla/add-ons/webextensions/user_interface/page_actions,0
+mozilla/add-ons/webextensions/user_interface/page_actions,1
 mozilla/add-ons/webextensions/user_interface/popups,0
 mozilla/add-ons/webextensions/user_interface/sidebars,0
 mozilla/add-ons/webextensions/user_interface/toolbar_button,0
@@ -14119,7 +14119,7 @@ web/xml/xslt/reference/element/value-of,0
 web/xml/xslt/reference/element/variable,0
 web/xml/xslt/reference/element/when,0
 web/xml/xslt/reference/element/with-param,0
-webassembly,0
+webassembly,1
 webassembly/guides,0
 webassembly/guides/c_to_wasm,0
 webassembly/guides/concepts,0
@@ -14147,7 +14147,8 @@ webassembly/reference/control_flow/nop,0
 webassembly/reference/control_flow/return,0
 webassembly/reference/control_flow/select,0
 webassembly/reference/control_flow/unreachable,0
-webassembly/reference/definitions,0
+webassembly/reference/definitions,1
+webassembly/reference/definitions/global,null
 webassembly/reference/definitions/table,0
 webassembly/reference/javascript_interface,0
 webassembly/reference/javascript_interface/compile_static,0
@@ -14159,8 +14160,10 @@ webassembly/reference/javascript_interface/exception/exception,0
 webassembly/reference/javascript_interface/exception/getarg,0
 webassembly/reference/javascript_interface/exception/is,0
 webassembly/reference/javascript_interface/exception/stack,0
-webassembly/reference/javascript_interface/global,0
-webassembly/reference/javascript_interface/global/global,0
+webassembly/reference/javascript_interface/global,1
+webassembly/reference/javascript_interface/global/global,1
+webassembly/reference/javascript_interface/global/value,null
+webassembly/reference/javascript_interface/global/valueof,null
 webassembly/reference/javascript_interface/instance,0
 webassembly/reference/javascript_interface/instance/exports,0
 webassembly/reference/javascript_interface/instance/instance,0
@@ -14355,10 +14358,9 @@ webassembly/reference/types,0
 webassembly/reference/types/externref,0
 webassembly/reference/types/funcref,0
 webassembly/reference/types/v128,0
-webassembly/reference/variables,0
-webassembly/reference/variables/global,0
-webassembly/reference/variables/global.get,0
-webassembly/reference/variables/global.set,0
+webassembly/reference/variables,1
+webassembly/reference/variables/global.get,1
+webassembly/reference/variables/global.set,1
 webassembly/reference/variables/local,0
 webassembly/reference/variables/local.get,0
 webassembly/reference/variables/local.set,0
