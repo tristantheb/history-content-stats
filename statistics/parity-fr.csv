@@ -11195,7 +11195,7 @@ web/css/reference/selectors/_colon_valid,0
 web/css/reference/selectors/_colon_visited,0
 web/css/reference/selectors/_colon_volume-locked,0
 web/css/reference/selectors/_colon_where,0
-web/css/reference/selectors/_colon_xr-overlay,null
+web/css/reference/selectors/_colon_xr-overlay,0
 web/css/reference/selectors/_doublecolon_-moz-color-swatch,0
 web/css/reference/selectors/_doublecolon_-moz-focus-inner,0
 web/css/reference/selectors/_doublecolon_-moz-list-bullet,0
@@ -11302,7 +11302,7 @@ web/css/reference/values/color-interpolation-method,0
 web/css/reference/values/color_value,0
 web/css/reference/values/color_value/color,0
 web/css/reference/values/color_value/color-mix,0
-web/css/reference/values/color_value/contrast-color,2
+web/css/reference/values/color_value/contrast-color,0
 web/css/reference/values/color_value/device-cmyk,0
 web/css/reference/values/color_value/hsl,0
 web/css/reference/values/color_value/hwb,0
@@ -11438,9 +11438,9 @@ web/css/reference/values/transform-function/scale3d,0
 web/css/reference/values/transform-function/scalex,0
 web/css/reference/values/transform-function/scaley,0
 web/css/reference/values/transform-function/scalez,0
-web/css/reference/values/transform-function/skew,1
-web/css/reference/values/transform-function/skewx,1
-web/css/reference/values/transform-function/skewy,1
+web/css/reference/values/transform-function/skew,0
+web/css/reference/values/transform-function/skewx,0
+web/css/reference/values/transform-function/skewy,0
 web/css/reference/values/transform-function/translate,0
 web/css/reference/values/transform-function/translate3d,0
 web/css/reference/values/transform-function/translatex,0
@@ -11484,7 +11484,7 @@ web/html/reference/attributes/elementtiming,0
 web/html/reference/attributes/fetchpriority,0
 web/html/reference/attributes/for,0
 web/html/reference/attributes/form,0
-web/html/reference/attributes/integrity,null
+web/html/reference/attributes/integrity,0
 web/html/reference/attributes/max,0
 web/html/reference/attributes/maxlength,0
 web/html/reference/attributes/min,0
