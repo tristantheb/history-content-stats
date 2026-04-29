@@ -8538,6 +8538,7 @@ web/api/svgrectelement/x,0
 web/api/svgrectelement/y,0
 web/api/svgrenderingintent,null
 web/api/svgscriptelement,null
+web/api/svgscriptelement/async,null
 web/api/svgscriptelement/href,null
 web/api/svgscriptelement/type,null
 web/api/svgsetelement,null
@@ -10439,8 +10440,8 @@ web/css/how_to/layout_cookbook/breadcrumb_navigation,0
 web/css/how_to/layout_cookbook/card,0
 web/css/how_to/layout_cookbook/center_an_element,0
 web/css/how_to/layout_cookbook/column_layouts,0
-web/css/how_to/layout_cookbook/contribute_a_recipe,null
-web/css/how_to/layout_cookbook/contribute_a_recipe/cookbook_template,null
+web/css/how_to/layout_cookbook/contribute_a_recipe,0
+web/css/how_to/layout_cookbook/contribute_a_recipe/cookbook_template,0
 web/css/how_to/layout_cookbook/grid_wrapper,0
 web/css/how_to/layout_cookbook/list_group_with_badges,0
 web/css/how_to/layout_cookbook/media_objects,0
@@ -13623,6 +13624,7 @@ web/security/practical_implementation_guides/turning_off_form_autocompletion,1
 web/security/threat_modeling,null
 web/security/threat_modeling/example_threat_model,null
 web/security/threat_modeling/frameworks,null
+web/security/threat_modeling/pwa_threat_model,null
 web/svg,2
 web/svg/guides,0
 web/svg/guides/applying_svg_effects_to_html_content,8
