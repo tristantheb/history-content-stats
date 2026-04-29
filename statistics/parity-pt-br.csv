@@ -8538,6 +8538,7 @@ web/api/svgrectelement/x,null
 web/api/svgrectelement/y,null
 web/api/svgrenderingintent,null
 web/api/svgscriptelement,null
+web/api/svgscriptelement/async,null
 web/api/svgscriptelement/href,null
 web/api/svgscriptelement/type,null
 web/api/svgsetelement,null
@@ -13623,6 +13624,7 @@ web/security/practical_implementation_guides/turning_off_form_autocompletion,nul
 web/security/threat_modeling,null
 web/security/threat_modeling/example_threat_model,null
 web/security/threat_modeling/frameworks,null
+web/security/threat_modeling/pwa_threat_model,null
 web/svg,null
 web/svg/guides,null
 web/svg/guides/applying_svg_effects_to_html_content,null
