@@ -10288,12 +10288,12 @@ web/css/guides/custom_functions_and_mixins/using_custom_functions,0
 web/css/guides/custom_highlight_api,0
 web/css/guides/display,0
 web/css/guides/display/block_and_inline_layout,0
-web/css/guides/display/block_formatting_context,0
-web/css/guides/display/containing_block,0
+web/css/guides/display/block_formatting_context,1
+web/css/guides/display/containing_block,1
 web/css/guides/display/flow_layout,0
 web/css/guides/display/flow_layout_and_overflow,0
 web/css/guides/display/flow_layout_and_writing_modes,0
-web/css/guides/display/formatting_contexts,0
+web/css/guides/display/formatting_contexts,1
 web/css/guides/display/in_flow_and_out_of_flow,0
 web/css/guides/display/multi-keyword_syntax,0
 web/css/guides/display/visual_formatting_model,0
