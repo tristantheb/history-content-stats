@@ -7119,6 +7119,8 @@ web/css/reference/properties/flex-shrink,85fccefc8066bd49af4ddafc12c77f35265c7e2
 web/css/reference/properties/flex-wrap,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/flex,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/float,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/flood-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/flood-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/font-family,5a8de324f0aa3873d757f68e4fcaf6bbc0104711
 web/css/reference/properties/font-feature-settings,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/font-kerning,2d78abb3e793352e24e976ce0e68c08d817bd7f3
@@ -7769,7 +7771,7 @@ web/html/how_to/cors_enabled_image,cd701f10306c8b0b9690532ff808df826818a04f
 web/html/how_to/define_terms_with_html,cd701f10306c8b0b9690532ff808df826818a04f
 web/html/how_to,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/how_to/use_data_attributes,cd701f10306c8b0b9690532ff808df826818a04f
-web/html,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
+web/html,d1f3f179175c80c18b1b78ba0df0ea7d15ca32cc
 web/html/reference/attributes/accept,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/attributes/autocomplete,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/attributes/capture,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
@@ -8003,7 +8005,7 @@ web/html/reference/global_attributes/title,0754cd805a8e010d2e3a2a065f634a3bcf358
 web/html/reference/global_attributes/translate,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/global_attributes/virtualkeyboardpolicy,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/global_attributes/writingsuggestions,0754cd805a8e010d2e3a2a065f634a3bcf358252
-web/html/reference,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
+web/html/reference,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/http/guides/authentication,3a50bf634f24f832d97e3e2add4a4633ab255217
 web/http/guides/browser_detection_using_the_user_agent,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/guides/caching,ad5b5e31f81795d692e66dadb7818ba8b220ad15
@@ -9499,6 +9501,8 @@ web/svg/reference/attribute/fill-rule,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/fill,9944f7b12ef1a6aecd54d4b2f0c188a82fdeaaf0
 web/svg/reference/attribute/filter,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/filterunits,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/flood-color,a9063bb88f28dc2a9b32e39f060ab6930663da52
+web/svg/reference/attribute/flood-opacity,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/attribute/font-size,da8c3171b7a7ea6694af71fac7a3194d8e9ba869
 web/svg/reference/attribute/font-style,da8c3171b7a7ea6694af71fac7a3194d8e9ba869
 web/svg/reference/attribute/from,ab279632b84d201ae9ddd3db3981bf0b01573371
@@ -9509,6 +9513,7 @@ web/svg/reference/attribute/href,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/attribute/id,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/image-rendering,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/attribute/in,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
+web/svg/reference/attribute/in2,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
 web/svg/reference/attribute,55326f330a6ae829494c7606b1bd47b2c0f9d888
 web/svg/reference/attribute/keypoints,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/svg/reference/attribute/keysplines,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
@@ -9548,6 +9553,7 @@ web/svg/reference/attribute/side,7615562a3689a3e23a2b6b623597f4391740a53e
 web/svg/reference/attribute/spacing,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/spreadmethod,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/startoffset,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/stddeviation,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/attribute/stitchtiles,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/attribute/stop-color,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/stroke-dasharray,c2fd97474834e061404b992c8397d4ccc4439a71
@@ -9574,10 +9580,12 @@ web/svg/reference/attribute/writing-mode,3c83d88f02f33f4066224e9f624a17dd2a0b0d1
 web/svg/reference/attribute/x,d559e66723de93ce6c59eb5d22a29afca7265c2a
 web/svg/reference/attribute/x1,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/x2,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/xchannelselector,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/xlink_colon_href,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/y,d559e66723de93ce6c59eb5d22a29afca7265c2a
 web/svg/reference/attribute/y1,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/y2,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/ychannelselector,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/a,3ee333bf5e414ac81c452ec10fed7af645c96740
 web/svg/reference/element/animate,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/animatemotion,603d83f1e1cdfd634e2f0b7b939466c7660822d3
@@ -9588,7 +9596,8 @@ web/svg/reference/element/defs,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/desc,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/ellipse,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/fecolormatrix,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
-web/svg/reference/element/fedropshadow,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/element/fedisplacementmap,ac806e34aba086be141689c64dc4dd73636fbd62
+web/svg/reference/element/fedropshadow,f8939dd06d7b120f77c4b4c70cac591d0eb20beb
 web/svg/reference/element/fegaussianblur,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/femorphology,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/feoffset,c2fd97474834e061404b992c8397d4ccc4439a71
