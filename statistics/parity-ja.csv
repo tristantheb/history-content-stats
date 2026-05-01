@@ -10771,8 +10771,8 @@ web/css/reference/properties/flex-grow,1
 web/css/reference/properties/flex-shrink,2
 web/css/reference/properties/flex-wrap,1
 web/css/reference/properties/float,1
-web/css/reference/properties/flood-color,null
-web/css/reference/properties/flood-opacity,null
+web/css/reference/properties/flood-color,0
+web/css/reference/properties/flood-opacity,0
 web/css/reference/properties/font,1
 web/css/reference/properties/font-family,2
 web/css/reference/properties/font-feature-settings,3
@@ -11454,7 +11454,7 @@ web/css/reference/values/url_value,3
 web/css/reference/values/var,3
 web/css/reference/webkit_extensions,null
 web/css/tutorials,7
-web/html,5
+web/html,0
 web/html/guides,0
 web/html/guides/cheatsheet,5
 web/html/guides/comments,2
@@ -11472,7 +11472,7 @@ web/html/how_to/author_fast-loading_html_pages,6
 web/html/how_to/cors_enabled_image,4
 web/html/how_to/define_terms_with_html,1
 web/html/how_to/use_data_attributes,6
-web/html/reference,1
+web/html/reference,0
 web/html/reference/attributes,11
 web/html/reference/attributes/accept,3
 web/html/reference/attributes/autocomplete,9
@@ -13687,8 +13687,8 @@ web/svg/reference/attribute/fill-opacity,1
 web/svg/reference/attribute/fill-rule,0
 web/svg/reference/attribute/filter,2
 web/svg/reference/attribute/filterunits,0
-web/svg/reference/attribute/flood-color,null
-web/svg/reference/attribute/flood-opacity,null
+web/svg/reference/attribute/flood-color,0
+web/svg/reference/attribute/flood-opacity,0
 web/svg/reference/attribute/font-family,null
 web/svg/reference/attribute/font-size,1
 web/svg/reference/attribute/font-size-adjust,null
@@ -13710,7 +13710,7 @@ web/svg/reference/attribute/href,0
 web/svg/reference/attribute/id,2
 web/svg/reference/attribute/image-rendering,0
 web/svg/reference/attribute/in,0
-web/svg/reference/attribute/in2,null
+web/svg/reference/attribute/in2,0
 web/svg/reference/attribute/intercept,null
 web/svg/reference/attribute/k1,null
 web/svg/reference/attribute/k2,null
@@ -13785,7 +13785,7 @@ web/svg/reference/attribute/specularconstant,null
 web/svg/reference/attribute/specularexponent,null
 web/svg/reference/attribute/spreadmethod,0
 web/svg/reference/attribute/startoffset,2
-web/svg/reference/attribute/stddeviation,null
+web/svg/reference/attribute/stddeviation,0
 web/svg/reference/attribute/stitchtiles,0
 web/svg/reference/attribute/stop-color,0
 web/svg/reference/attribute/stop-opacity,null
@@ -13827,7 +13827,7 @@ web/svg/reference/attribute/writing-mode,0
 web/svg/reference/attribute/x,0
 web/svg/reference/attribute/x1,0
 web/svg/reference/attribute/x2,0
-web/svg/reference/attribute/xchannelselector,null
+web/svg/reference/attribute/xchannelselector,0
 web/svg/reference/attribute/xlink_colon_arcrole,null
 web/svg/reference/attribute/xlink_colon_href,0
 web/svg/reference/attribute/xlink_colon_show,null
@@ -13838,7 +13838,7 @@ web/svg/reference/attribute/xml_colon_space,null
 web/svg/reference/attribute/y,0
 web/svg/reference/attribute/y1,0
 web/svg/reference/attribute/y2,0
-web/svg/reference/attribute/ychannelselector,null
+web/svg/reference/attribute/ychannelselector,0
 web/svg/reference/attribute/z,null
 web/svg/reference/attribute/zoomandpan,null
 web/svg/reference/element,0
@@ -13857,9 +13857,9 @@ web/svg/reference/element/fecomponenttransfer,null
 web/svg/reference/element/fecomposite,null
 web/svg/reference/element/feconvolvematrix,null
 web/svg/reference/element/fediffuselighting,null
-web/svg/reference/element/fedisplacementmap,null
+web/svg/reference/element/fedisplacementmap,3
 web/svg/reference/element/fedistantlight,null
-web/svg/reference/element/fedropshadow,4
+web/svg/reference/element/fedropshadow,0
 web/svg/reference/element/feflood,null
 web/svg/reference/element/fefunca,null
 web/svg/reference/element/fefuncb,null
