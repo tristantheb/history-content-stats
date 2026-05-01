@@ -10540,7 +10540,7 @@ web/css/reference/at-rules/@page,1
 web/css/reference/at-rules/@page/page-orientation,1
 web/css/reference/at-rules/@page/size,1
 web/css/reference/at-rules/@position-try,1
-web/css/reference/at-rules/@property,4
+web/css/reference/at-rules/@property,5
 web/css/reference/at-rules/@property/inherits,2
 web/css/reference/at-rules/@property/initial-value,2
 web/css/reference/at-rules/@property/syntax,2
@@ -11358,7 +11358,7 @@ web/css/reference/values/frequency-percentage,1
 web/css/reference/values/functions,3
 web/css/reference/values/generic-family,1
 web/css/reference/values/gradient,0
-web/css/reference/values/gradient/conic-gradient,0
+web/css/reference/values/gradient/conic-gradient,1
 web/css/reference/values/gradient/linear-gradient,0
 web/css/reference/values/gradient/radial-gradient,0
 web/css/reference/values/gradient/repeating-conic-gradient,0
