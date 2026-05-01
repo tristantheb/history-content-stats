@@ -10540,7 +10540,7 @@ web/css/reference/at-rules/@page,e328268bb418551ab451881845881b5837c9da83,CSS|At
 web/css/reference/at-rules/@page/page-orientation,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@page/size,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@position-try,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
-web/css/reference/at-rules/@property,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
+web/css/reference/at-rules/@property,4560e287e8c75c40aa5ecf40a0c9e8ecd0217c56,CSS|At-rules
 web/css/reference/at-rules/@property/inherits,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@property/initial-value,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@property/syntax,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
@@ -11358,7 +11358,7 @@ web/css/reference/values/frequency-percentage,c88e03530319b73272fd4f9a9f6ebe878f
 web/css/reference/values/functions,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,CSS|Values
 web/css/reference/values/generic-family,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/gradient,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/gradient/conic-gradient,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/gradient/conic-gradient,a1da408d85bfa1fc180d15fdc29746ad5f9e9cff,CSS|Values
 web/css/reference/values/gradient/linear-gradient,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/gradient/radial-gradient,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/gradient/repeating-conic-gradient,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
