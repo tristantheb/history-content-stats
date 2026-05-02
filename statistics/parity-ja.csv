@@ -8268,13 +8268,13 @@ web/api/svgfedropshadowelement/dx,0
 web/api/svgfedropshadowelement/dy,0
 web/api/svgfedropshadowelement/height,0
 web/api/svgfedropshadowelement/in1,0
-web/api/svgfedropshadowelement/result,null
-web/api/svgfedropshadowelement/setstddeviation,null
-web/api/svgfedropshadowelement/stddeviationx,null
-web/api/svgfedropshadowelement/stddeviationy,null
-web/api/svgfedropshadowelement/width,null
-web/api/svgfedropshadowelement/x,null
-web/api/svgfedropshadowelement/y,null
+web/api/svgfedropshadowelement/result,0
+web/api/svgfedropshadowelement/setstddeviation,0
+web/api/svgfedropshadowelement/stddeviationx,0
+web/api/svgfedropshadowelement/stddeviationy,1
+web/api/svgfedropshadowelement/width,0
+web/api/svgfedropshadowelement/x,0
+web/api/svgfedropshadowelement/y,0
 web/api/svgfefloodelement,null
 web/api/svgfefloodelement/height,null
 web/api/svgfefloodelement/result,null
@@ -11273,7 +11273,7 @@ web/css/reference/values/abs,0
 web/css/reference/values/absolute-size,2
 web/css/reference/values/acos,0
 web/css/reference/values/alpha-value,1
-web/css/reference/values/anchor,6
+web/css/reference/values/anchor,0
 web/css/reference/values/anchor-size,0
 web/css/reference/values/angle,1
 web/css/reference/values/angle-percentage,1
@@ -13857,7 +13857,7 @@ web/svg/reference/element/fecomponenttransfer,null
 web/svg/reference/element/fecomposite,null
 web/svg/reference/element/feconvolvematrix,null
 web/svg/reference/element/fediffuselighting,null
-web/svg/reference/element/fedisplacementmap,3
+web/svg/reference/element/fedisplacementmap,0
 web/svg/reference/element/fedistantlight,null
 web/svg/reference/element/fedropshadow,0
 web/svg/reference/element/feflood,null
@@ -13882,7 +13882,7 @@ web/svg/reference/element/g,0
 web/svg/reference/element/image,1
 web/svg/reference/element/line,0
 web/svg/reference/element/lineargradient,0
-web/svg/reference/element/marker,1
+web/svg/reference/element/marker,0
 web/svg/reference/element/mask,1
 web/svg/reference/element/metadata,1
 web/svg/reference/element/mpath,0
