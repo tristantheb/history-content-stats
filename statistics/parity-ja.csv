@@ -8264,10 +8264,10 @@ web/api/svgfedistantlightelement,null
 web/api/svgfedistantlightelement/azimuth,null
 web/api/svgfedistantlightelement/elevation,null
 web/api/svgfedropshadowelement,null
-web/api/svgfedropshadowelement/dx,null
-web/api/svgfedropshadowelement/dy,null
-web/api/svgfedropshadowelement/height,null
-web/api/svgfedropshadowelement/in1,null
+web/api/svgfedropshadowelement/dx,0
+web/api/svgfedropshadowelement/dy,0
+web/api/svgfedropshadowelement/height,0
+web/api/svgfedropshadowelement/in1,0
 web/api/svgfedropshadowelement/result,null
 web/api/svgfedropshadowelement/setstddeviation,null
 web/api/svgfedropshadowelement/stddeviationx,null
