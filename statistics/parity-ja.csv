@@ -12292,7 +12292,7 @@ web/javascript/reference/global_objects/array/isarray,0
 web/javascript/reference/global_objects/array/join,0
 web/javascript/reference/global_objects/array/keys,1
 web/javascript/reference/global_objects/array/lastindexof,0
-web/javascript/reference/global_objects/array/length,0
+web/javascript/reference/global_objects/array/length,1
 web/javascript/reference/global_objects/array/map,1
 web/javascript/reference/global_objects/array/of,0
 web/javascript/reference/global_objects/array/pop,0
@@ -12735,7 +12735,7 @@ web/javascript/reference/global_objects/object/create,0
 web/javascript/reference/global_objects/object/defineproperties,0
 web/javascript/reference/global_objects/object/defineproperty,0
 web/javascript/reference/global_objects/object/entries,0
-web/javascript/reference/global_objects/object/freeze,1
+web/javascript/reference/global_objects/object/freeze,2
 web/javascript/reference/global_objects/object/fromentries,1
 web/javascript/reference/global_objects/object/getownpropertydescriptor,0
 web/javascript/reference/global_objects/object/getownpropertydescriptors,0

@@ -12292,7 +12292,7 @@ web/javascript/reference/global_objects/array/isarray,0
 web/javascript/reference/global_objects/array/join,0
 web/javascript/reference/global_objects/array/keys,0
 web/javascript/reference/global_objects/array/lastindexof,0
-web/javascript/reference/global_objects/array/length,0
+web/javascript/reference/global_objects/array/length,1
 web/javascript/reference/global_objects/array/map,0
 web/javascript/reference/global_objects/array/of,0
 web/javascript/reference/global_objects/array/pop,0
