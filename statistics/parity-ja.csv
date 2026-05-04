@@ -13650,7 +13650,7 @@ web/svg/reference/attribute/autofocus,null
 web/svg/reference/attribute/azimuth,null
 web/svg/reference/attribute/basefrequency,0
 web/svg/reference/attribute/baseline-shift,5
-web/svg/reference/attribute/baseprofile,null
+web/svg/reference/attribute/baseprofile,0
 web/svg/reference/attribute/begin,0
 web/svg/reference/attribute/bias,null
 web/svg/reference/attribute/by,0
@@ -13818,7 +13818,7 @@ web/svg/reference/attribute/type,1
 web/svg/reference/attribute/unicode-bidi,0
 web/svg/reference/attribute/values,0
 web/svg/reference/attribute/vector-effect,1
-web/svg/reference/attribute/version,null
+web/svg/reference/attribute/version,0
 web/svg/reference/attribute/viewbox,1
 web/svg/reference/attribute/visibility,0
 web/svg/reference/attribute/white-space,null
