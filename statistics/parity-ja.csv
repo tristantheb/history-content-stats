@@ -2204,7 +2204,7 @@ web/accessibility/aria/reference/roles/navigation_role,null
 web/accessibility/aria/reference/roles/none_role,2
 web/accessibility/aria/reference/roles/note_role,null
 web/accessibility/aria/reference/roles/option_role,0
-web/accessibility/aria/reference/roles/presentation_role,null
+web/accessibility/aria/reference/roles/presentation_role,0
 web/accessibility/aria/reference/roles/progressbar_role,null
 web/accessibility/aria/reference/roles/radio_role,6
 web/accessibility/aria/reference/roles/radiogroup_role,2
@@ -11552,7 +11552,7 @@ web/html/reference/elements/embed,5
 web/html/reference/elements/fencedframe,2
 web/html/reference/elements/fieldset,1
 web/html/reference/elements/figcaption,7
-web/html/reference/elements/figure,9
+web/html/reference/elements/figure,0
 web/html/reference/elements/font,4
 web/html/reference/elements/footer,1
 web/html/reference/elements/form,2
@@ -11597,7 +11597,7 @@ web/html/reference/elements/label,1
 web/html/reference/elements/legend,5
 web/html/reference/elements/li,2
 web/html/reference/elements/link,0
-web/html/reference/elements/main,4
+web/html/reference/elements/main,0
 web/html/reference/elements/map,4
 web/html/reference/elements/mark,1
 web/html/reference/elements/marquee,1
@@ -11662,7 +11662,7 @@ web/html/reference/elements/tfoot,8
 web/html/reference/elements/th,13
 web/html/reference/elements/thead,9
 web/html/reference/elements/time,4
-web/html/reference/elements/title,6
+web/html/reference/elements/title,0
 web/html/reference/elements/tr,10
 web/html/reference/elements/track,8
 web/html/reference/elements/tt,4
