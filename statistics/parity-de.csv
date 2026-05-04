@@ -597,7 +597,7 @@ glossary/string,0
 glossary/stringifier,0
 glossary/stun,0
 glossary/style_origin,0
-glossary/stylesheet,0
+glossary/style_sheet,null
 glossary/submit_button,0
 glossary/svg,0
 glossary/svn,0
@@ -3280,7 +3280,7 @@ web/api/cssstylerule/stylemap,0
 web/api/cssstylesheet,0
 web/api/cssstylesheet/addrule,0
 web/api/cssstylesheet/cssrules,0
-web/api/cssstylesheet/cssstylesheet,0
+web/api/cssstylesheet/cssstylesheet,1
 web/api/cssstylesheet/deleterule,0
 web/api/cssstylesheet/insertrule,0
 web/api/cssstylesheet/ownerrule,0
