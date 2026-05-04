@@ -2478,7 +2478,7 @@ web/api/audioscheduledsourcenode,ec1006afdf68a5808a48ab6301f9ccff3cd7ecc2,Web AP
 web/api/audioscheduledsourcenode/ended_event,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/audioscheduledsourcenode/start,0a881eea07f0cec6ca4ed85a24af43b367a9f80d,Web APIs
 web/api/audioscheduledsourcenode/stop,ec1006afdf68a5808a48ab6301f9ccff3cd7ecc2,Web APIs
-web/api/audiosession,7afb60028792bba6b9c809867bc6c5304f9868a6,Web APIs
+web/api/audiosession,9b653061ee49f61a30188659ca26793f0017449c,Web APIs
 web/api/audiosession/type,7afb60028792bba6b9c809867bc6c5304f9868a6,Web APIs
 web/api/audiosinkinfo,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/audiosinkinfo/type,29d7119ff6b46801a0e5a2ce69b734b668812035,Web APIs
@@ -9037,7 +9037,7 @@ web/api/videoencoder/isconfigsupported_static,e5ccdde5b77f66395e754e019c67468e43
 web/api/videoencoder/reset,216794e76611c18e53222bb8efa570e898e990de,Web APIs
 web/api/videoencoder/state,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
 web/api/videoencoder/videoencoder,941ade970fd7ebad52af692b6ac27cfd96f94100,Web APIs
-web/api/videoframe,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
+web/api/videoframe,e62132e5900aad53470eb84df3b61eacd35f727d,Web APIs
 web/api/videoframe/allocationsize,05d649713c24ee889b90f00097c5c09a1c81ecaa,Web APIs
 web/api/videoframe/clone,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
 web/api/videoframe/close,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
@@ -9051,9 +9051,10 @@ web/api/videoframe/displaywidth,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web API
 web/api/videoframe/duration,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
 web/api/videoframe/flip,3b1efe57f3b22a97acb9db335f2848c90cdfe40e,Web APIs
 web/api/videoframe/format,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
+web/api/videoframe/metadata,e62132e5900aad53470eb84df3b61eacd35f727d,Web APIs
 web/api/videoframe/rotation,3b1efe57f3b22a97acb9db335f2848c90cdfe40e,Web APIs
 web/api/videoframe/timestamp,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
-web/api/videoframe/videoframe,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
+web/api/videoframe/videoframe,e62132e5900aad53470eb84df3b61eacd35f727d,Web APIs
 web/api/videoframe/visiblerect,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
 web/api/videoplaybackquality,bc46402e6a78656881da7060812387fb6a5bb0e3,Web APIs
 web/api/videoplaybackquality/corruptedvideoframes,532ecbca7b68e7defa4612bc7b00885a13163641,Web APIs
