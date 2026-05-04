@@ -811,7 +811,7 @@ learn_web_development/core/structuring_content/forms_challenge,1
 learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,1
-learn_web_development/core/structuring_content/html_images,0
+learn_web_development/core/structuring_content/html_images,1
 learn_web_development/core/structuring_content/html_table_basics,0
 learn_web_development/core/structuring_content/html_video_and_audio,0
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
@@ -989,8 +989,8 @@ learn_web_development/extensions/testing/automated_testing,9
 learn_web_development/extensions/testing/feature_detection,12
 learn_web_development/extensions/testing/html_and_css,0
 learn_web_development/extensions/testing/introduction,7
-learn_web_development/extensions/testing/testing_strategies,9
-learn_web_development/extensions/testing/your_own_automation_environment,11
+learn_web_development/extensions/testing/testing_strategies,10
+learn_web_development/extensions/testing/your_own_automation_environment,12
 learn_web_development/getting_started,6
 learn_web_development/getting_started/environment_setup,4
 learn_web_development/getting_started/environment_setup/browsing_the_web,1
@@ -1002,7 +1002,7 @@ learn_web_development/getting_started/soft_skills,4
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,8
 learn_web_development/getting_started/soft_skills/finding_a_job,5
 learn_web_development/getting_started/soft_skills/research_and_learning,12
-learn_web_development/getting_started/soft_skills/workflows_and_processes,5
+learn_web_development/getting_started/soft_skills/workflows_and_processes,6
 learn_web_development/getting_started/web_standards,2
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,7
 learn_web_development/getting_started/web_standards/how_the_web_works,16
@@ -1036,7 +1036,7 @@ learn_web_development/howto/solve_css_problems/transition_button,2
 learn_web_development/howto/solve_html_problems,7
 learn_web_development/howto/solve_javascript_problems,8
 learn_web_development/howto/tools_and_setup,1
-learn_web_development/howto/tools_and_setup/available_text_editors,6
+learn_web_development/howto/tools_and_setup/available_text_editors,7
 learn_web_development/howto/tools_and_setup/checking_that_your_web_site_is_working_properly,1
 learn_web_development/howto/tools_and_setup/how_much_does_it_cost,4
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,2
@@ -1057,7 +1057,7 @@ mdn/community/communication_channels,5
 mdn/community/community_participation_guidelines,3
 mdn/community/discussions,1
 mdn/community/discussions/managing_and_resolving_discussions,1
-mdn/community/getting_started,4
+mdn/community/getting_started,5
 mdn/community/issues,10
 mdn/community/issues/content_suggestions_feature_proposals,0
 mdn/community/learn_forum,0
@@ -1126,7 +1126,7 @@ mdn/writing_guidelines/page_structures/sidebars,0
 mdn/writing_guidelines/page_structures/specification_tables,1
 mdn/writing_guidelines/page_structures/syntax_sections,0
 mdn/writing_guidelines/what_we_write,2
-mdn/writing_guidelines/writing_style_guide,1
+mdn/writing_guidelines/writing_style_guide,2
 mozilla,null
 mozilla/add-ons,null
 mozilla/add-ons/contact_us,null
@@ -5014,7 +5014,7 @@ web/api/htmlimageelement/name,4
 web/api/htmlimageelement/naturalheight,3
 web/api/htmlimageelement/naturalwidth,2
 web/api/htmlimageelement/referrerpolicy,3
-web/api/htmlimageelement/sizes,13
+web/api/htmlimageelement/sizes,14
 web/api/htmlimageelement/src,2
 web/api/htmlimageelement/srcset,8
 web/api/htmlimageelement/usemap,8
@@ -10242,7 +10242,7 @@ web/css/guides/backgrounds_and_borders/border-radius_generator,2
 web/css/guides/backgrounds_and_borders/box-shadow_generator,2
 web/css/guides/backgrounds_and_borders/resizing_background_images,0
 web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,0
-web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,2
+web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,3
 web/css/guides/basic_user_interface,0
 web/css/guides/borders_and_box_decorations,5
 web/css/guides/box_alignment,0
@@ -10434,7 +10434,7 @@ web/css/guides/view_transitions,1
 web/css/guides/viewport,0
 web/css/guides/writing_modes,1
 web/css/guides/writing_modes/vertical_controls,0
-web/css/guides/writing_modes/writing_mode_systems,1
+web/css/guides/writing_modes/writing_mode_systems,2
 web/css/how_to,0
 web/css/how_to/layout_cookbook,0
 web/css/how_to/layout_cookbook/breadcrumb_navigation,0
@@ -11281,7 +11281,7 @@ web/css/reference/values/angle-percentage,1
 web/css/reference/values/asin,0
 web/css/reference/values/atan,0
 web/css/reference/values/atan2,0
-web/css/reference/values/attr,2
+web/css/reference/values/attr,4
 web/css/reference/values/axis,1
 web/css/reference/values/baseline-position,1
 web/css/reference/values/basic-shape,1
@@ -11607,7 +11607,7 @@ web/html/reference/elements/meta/http-equiv,1
 web/html/reference/elements/meta/name,2
 web/html/reference/elements/meta/name/color-scheme,3
 web/html/reference/elements/meta/name/referrer,1
-web/html/reference/elements/meta/name/robots,1
+web/html/reference/elements/meta/name/robots,2
 web/html/reference/elements/meta/name/theme-color,3
 web/html/reference/elements/meta/name/viewport,0
 web/html/reference/elements/meter,7
@@ -11711,7 +11711,7 @@ web/http,15
 web/http/guides,0
 web/http/guides/authentication,0
 web/http/guides/browser_detection_using_the_user_agent,5
-web/http/guides/caching,1
+web/http/guides/caching,2
 web/http/guides/client_hints,4
 web/http/guides/compression,0
 web/http/guides/compression_dictionary_transport,3
@@ -11777,14 +11777,14 @@ web/http/reference/headers/access-control-request-method,null
 web/http/reference/headers/activate-storage-access,null
 web/http/reference/headers/age,null
 web/http/reference/headers/allow,null
-web/http/reference/headers/alt-svc,4
+web/http/reference/headers/alt-svc,5
 web/http/reference/headers/alt-used,null
 web/http/reference/headers/attribution-reporting-eligible,null
 web/http/reference/headers/attribution-reporting-register-source,null
 web/http/reference/headers/attribution-reporting-register-trigger,null
 web/http/reference/headers/authorization,1
 web/http/reference/headers/available-dictionary,null
-web/http/reference/headers/cache-control,1
+web/http/reference/headers/cache-control,2
 web/http/reference/headers/clear-site-data,9
 web/http/reference/headers/connection,null
 web/http/reference/headers/content-digest,null
@@ -13391,7 +13391,7 @@ web/javascript/reference/statements/for...in,0
 web/javascript/reference/statements/for...of,1
 web/javascript/reference/statements/function,0
 web/javascript/reference/statements/function_star_,1
-web/javascript/reference/statements/if...else,0
+web/javascript/reference/statements/if...else,1
 web/javascript/reference/statements/import,0
 web/javascript/reference/statements/import/with,10
 web/javascript/reference/statements/label,9
@@ -13487,7 +13487,7 @@ web/media/guides/formats/configuring_servers_for_ogg_media,null
 web/media/guides/formats/containers,8
 web/media/guides/formats/image_types,null
 web/media/guides/formats/support_issues,null
-web/media/guides/formats/video_codecs,10
+web/media/guides/formats/video_codecs,11
 web/media/guides/formats/video_concepts,null
 web/media/guides/formats/webrtc_codecs,null
 web/media/guides/images,null
@@ -14124,7 +14124,7 @@ web/xml/xslt/reference/element/when,0
 web/xml/xslt/reference/element/with-param,0
 webassembly,2
 webassembly/guides,1
-webassembly/guides/c_to_wasm,2
+webassembly/guides/c_to_wasm,3
 webassembly/guides/concepts,2
 webassembly/guides/existing_c_to_wasm,2
 webassembly/guides/exported_functions,0

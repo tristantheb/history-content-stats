@@ -7,7 +7,7 @@ games/publishing_games/game_distribution,0
 games/publishing_games/game_monetization,0
 games/publishing_games/game_promotion,0
 games/techniques,0
-games/techniques/2d_collision_detection,0
+games/techniques/2d_collision_detection,1
 games/techniques/3d_collision_detection,0
 games/techniques/3d_collision_detection/bounding_volume_collision_detection_with_three.js,0
 games/techniques/3d_on_the_web,0
@@ -811,7 +811,7 @@ learn_web_development/core/structuring_content/forms_challenge,0
 learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
-learn_web_development/core/structuring_content/html_images,0
+learn_web_development/core/structuring_content/html_images,1
 learn_web_development/core/structuring_content/html_table_basics,0
 learn_web_development/core/structuring_content/html_video_and_audio,0
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
@@ -989,8 +989,8 @@ learn_web_development/extensions/testing/automated_testing,0
 learn_web_development/extensions/testing/feature_detection,0
 learn_web_development/extensions/testing/html_and_css,0
 learn_web_development/extensions/testing/introduction,0
-learn_web_development/extensions/testing/testing_strategies,0
-learn_web_development/extensions/testing/your_own_automation_environment,0
+learn_web_development/extensions/testing/testing_strategies,1
+learn_web_development/extensions/testing/your_own_automation_environment,1
 learn_web_development/getting_started,0
 learn_web_development/getting_started/environment_setup,0
 learn_web_development/getting_started/environment_setup/browsing_the_web,0
@@ -1002,7 +1002,7 @@ learn_web_development/getting_started/soft_skills,0
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,0
 learn_web_development/getting_started/soft_skills/finding_a_job,0
 learn_web_development/getting_started/soft_skills/research_and_learning,0
-learn_web_development/getting_started/soft_skills/workflows_and_processes,0
+learn_web_development/getting_started/soft_skills/workflows_and_processes,1
 learn_web_development/getting_started/web_standards,0
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
 learn_web_development/getting_started/web_standards/how_the_web_works,0
@@ -1036,7 +1036,7 @@ learn_web_development/howto/solve_css_problems/transition_button,0
 learn_web_development/howto/solve_html_problems,0
 learn_web_development/howto/solve_javascript_problems,0
 learn_web_development/howto/tools_and_setup,0
-learn_web_development/howto/tools_and_setup/available_text_editors,0
+learn_web_development/howto/tools_and_setup/available_text_editors,1
 learn_web_development/howto/tools_and_setup/checking_that_your_web_site_is_working_properly,0
 learn_web_development/howto/tools_and_setup/how_much_does_it_cost,0
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,0
@@ -1057,7 +1057,7 @@ mdn/community/communication_channels,0
 mdn/community/community_participation_guidelines,0
 mdn/community/discussions,0
 mdn/community/discussions/managing_and_resolving_discussions,0
-mdn/community/getting_started,0
+mdn/community/getting_started,1
 mdn/community/issues,0
 mdn/community/issues/content_suggestions_feature_proposals,0
 mdn/community/learn_forum,0
@@ -1126,7 +1126,7 @@ mdn/writing_guidelines/page_structures/sidebars,0
 mdn/writing_guidelines/page_structures/specification_tables,0
 mdn/writing_guidelines/page_structures/syntax_sections,0
 mdn/writing_guidelines/what_we_write,0
-mdn/writing_guidelines/writing_style_guide,0
+mdn/writing_guidelines/writing_style_guide,1
 mozilla,0
 mozilla/add-ons,0
 mozilla/add-ons/contact_us,0
@@ -1614,7 +1614,7 @@ mozilla/add-ons/webextensions/api/sidebaraction/toggle,0
 mozilla/add-ons/webextensions/api/storage,0
 mozilla/add-ons/webextensions/api/storage/local,0
 mozilla/add-ons/webextensions/api/storage/managed,0
-mozilla/add-ons/webextensions/api/storage/onchanged,0
+mozilla/add-ons/webextensions/api/storage/onchanged,1
 mozilla/add-ons/webextensions/api/storage/session,0
 mozilla/add-ons/webextensions/api/storage/session/quota_bytes,0
 mozilla/add-ons/webextensions/api/storage/storagearea,0
@@ -1869,7 +1869,7 @@ mozilla/add-ons/webextensions/native_manifests,0
 mozilla/add-ons/webextensions/native_messaging,0
 mozilla/add-ons/webextensions/safely_inserting_external_content_into_a_page,0
 mozilla/add-ons/webextensions/sharing_objects_with_page_scripts,0
-mozilla/add-ons/webextensions/use_the_web_authn_api,0
+mozilla/add-ons/webextensions/use_the_web_authn_api,1
 mozilla/add-ons/webextensions/user_actions,0
 mozilla/add-ons/webextensions/user_interface,0
 mozilla/add-ons/webextensions/user_interface/browser_styles,0
@@ -2998,10 +2998,10 @@ web/api/countqueuingstrategy/countqueuingstrategy,0
 web/api/countqueuingstrategy/highwatermark,0
 web/api/countqueuingstrategy/size,0
 web/api/crashreport,0
-web/api/crashreportcontext,0
-web/api/crashreportcontext/delete,0
+web/api/crashreportcontext,1
+web/api/crashreportcontext/delete,1
 web/api/crashreportcontext/initialize,0
-web/api/crashreportcontext/set,0
+web/api/crashreportcontext/set,1
 web/api/createmonitor,0
 web/api/createmonitor/downloadprogress_event,0
 web/api/credential,0
@@ -3148,7 +3148,7 @@ web/api/cssmathclamp,0
 web/api/cssmathclamp/cssmathclamp,0
 web/api/cssmathclamp/lower,0
 web/api/cssmathclamp/upper,0
-web/api/cssmathclamp/value,0
+web/api/cssmathclamp/value,1
 web/api/cssmathinvert,0
 web/api/cssmathinvert/cssmathinvert,0
 web/api/cssmathinvert/value,0
@@ -5014,7 +5014,7 @@ web/api/htmlimageelement/name,0
 web/api/htmlimageelement/naturalheight,0
 web/api/htmlimageelement/naturalwidth,0
 web/api/htmlimageelement/referrerpolicy,0
-web/api/htmlimageelement/sizes,0
+web/api/htmlimageelement/sizes,1
 web/api/htmlimageelement/src,0
 web/api/htmlimageelement/srcset,0
 web/api/htmlimageelement/usemap,0
@@ -8760,7 +8760,7 @@ web/api/textupdateevent/text,0
 web/api/textupdateevent/textupdateevent,0
 web/api/textupdateevent/updaterangeend,0
 web/api/textupdateevent/updaterangestart,0
-web/api/timeevent,0
+web/api/timeevent,1
 web/api/timeevent/detail,0
 web/api/timeevent/inittimeevent,0
 web/api/timeevent/view,0
@@ -10242,7 +10242,7 @@ web/css/guides/backgrounds_and_borders/border-radius_generator,0
 web/css/guides/backgrounds_and_borders/box-shadow_generator,0
 web/css/guides/backgrounds_and_borders/resizing_background_images,0
 web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,0
-web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,0
+web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,1
 web/css/guides/basic_user_interface,0
 web/css/guides/borders_and_box_decorations,0
 web/css/guides/box_alignment,0
@@ -10434,7 +10434,7 @@ web/css/guides/view_transitions,0
 web/css/guides/viewport,0
 web/css/guides/writing_modes,0
 web/css/guides/writing_modes/vertical_controls,0
-web/css/guides/writing_modes/writing_mode_systems,0
+web/css/guides/writing_modes/writing_mode_systems,1
 web/css/how_to,0
 web/css/how_to/layout_cookbook,0
 web/css/how_to/layout_cookbook/breadcrumb_navigation,0
@@ -11197,7 +11197,7 @@ web/css/reference/selectors/_colon_valid,0
 web/css/reference/selectors/_colon_visited,0
 web/css/reference/selectors/_colon_volume-locked,0
 web/css/reference/selectors/_colon_where,0
-web/css/reference/selectors/_colon_xr-overlay,0
+web/css/reference/selectors/_colon_xr-overlay,1
 web/css/reference/selectors/_doublecolon_-moz-color-swatch,0
 web/css/reference/selectors/_doublecolon_-moz-focus-inner,0
 web/css/reference/selectors/_doublecolon_-moz-list-bullet,0
@@ -11281,7 +11281,7 @@ web/css/reference/values/angle-percentage,0
 web/css/reference/values/asin,0
 web/css/reference/values/atan,0
 web/css/reference/values/atan2,0
-web/css/reference/values/attr,0
+web/css/reference/values/attr,1
 web/css/reference/values/axis,0
 web/css/reference/values/baseline-position,0
 web/css/reference/values/basic-shape,0
@@ -11607,7 +11607,7 @@ web/html/reference/elements/meta/http-equiv,0
 web/html/reference/elements/meta/name,0
 web/html/reference/elements/meta/name/color-scheme,0
 web/html/reference/elements/meta/name/referrer,0
-web/html/reference/elements/meta/name/robots,0
+web/html/reference/elements/meta/name/robots,1
 web/html/reference/elements/meta/name/theme-color,0
 web/html/reference/elements/meta/name/viewport,0
 web/html/reference/elements/meter,0
@@ -11711,7 +11711,7 @@ web/http,0
 web/http/guides,0
 web/http/guides/authentication,0
 web/http/guides/browser_detection_using_the_user_agent,0
-web/http/guides/caching,0
+web/http/guides/caching,1
 web/http/guides/client_hints,0
 web/http/guides/compression,0
 web/http/guides/compression_dictionary_transport,0
@@ -11777,14 +11777,14 @@ web/http/reference/headers/access-control-request-method,0
 web/http/reference/headers/activate-storage-access,0
 web/http/reference/headers/age,0
 web/http/reference/headers/allow,0
-web/http/reference/headers/alt-svc,0
+web/http/reference/headers/alt-svc,1
 web/http/reference/headers/alt-used,0
 web/http/reference/headers/attribution-reporting-eligible,0
 web/http/reference/headers/attribution-reporting-register-source,0
 web/http/reference/headers/attribution-reporting-register-trigger,0
 web/http/reference/headers/authorization,0
 web/http/reference/headers/available-dictionary,0
-web/http/reference/headers/cache-control,0
+web/http/reference/headers/cache-control,1
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
 web/http/reference/headers/content-digest,0
@@ -13391,7 +13391,7 @@ web/javascript/reference/statements/for...in,0
 web/javascript/reference/statements/for...of,0
 web/javascript/reference/statements/function,0
 web/javascript/reference/statements/function_star_,0
-web/javascript/reference/statements/if...else,0
+web/javascript/reference/statements/if...else,1
 web/javascript/reference/statements/import,0
 web/javascript/reference/statements/import/with,0
 web/javascript/reference/statements/label,0
@@ -13480,14 +13480,14 @@ web/media/guides/audio_and_video_delivery/webaudio_playbackrate_explained,0
 web/media/guides/audio_and_video_manipulation,0
 web/media/guides/autoplay,0
 web/media/guides/formats,0
-web/media/guides/formats/audio_codecs,0
+web/media/guides/formats/audio_codecs,1
 web/media/guides/formats/audio_concepts,0
 web/media/guides/formats/codecs_parameter,0
 web/media/guides/formats/configuring_servers_for_ogg_media,0
 web/media/guides/formats/containers,0
 web/media/guides/formats/image_types,0
 web/media/guides/formats/support_issues,0
-web/media/guides/formats/video_codecs,0
+web/media/guides/formats/video_codecs,1
 web/media/guides/formats/video_concepts,0
 web/media/guides/formats/webrtc_codecs,0
 web/media/guides/images,0
@@ -13624,7 +13624,7 @@ web/security/practical_implementation_guides/tls,0
 web/security/practical_implementation_guides/turning_off_form_autocompletion,0
 web/security/threat_modeling,0
 web/security/threat_modeling/example_threat_model,0
-web/security/threat_modeling/frameworks,0
+web/security/threat_modeling/frameworks,1
 web/security/threat_modeling/pwa_threat_model,0
 web/svg,0
 web/svg/guides,0
@@ -13958,7 +13958,7 @@ web/webdriver/reference/bidi/modules/browsingcontext,0
 web/webdriver/reference/bidi/modules/emulation,0
 web/webdriver/reference/bidi/modules/input,0
 web/webdriver/reference/bidi/modules/log,0
-web/webdriver/reference/bidi/modules/log/entryadded,0
+web/webdriver/reference/bidi/modules/log/entryadded,1
 web/webdriver/reference/bidi/modules/network,0
 web/webdriver/reference/bidi/modules/permissions,0
 web/webdriver/reference/bidi/modules/script,0
@@ -14124,7 +14124,7 @@ web/xml/xslt/reference/element/when,0
 web/xml/xslt/reference/element/with-param,0
 webassembly,0
 webassembly/guides,0
-webassembly/guides/c_to_wasm,0
+webassembly/guides/c_to_wasm,1
 webassembly/guides/concepts,0
 webassembly/guides/existing_c_to_wasm,0
 webassembly/guides/exported_functions,0
@@ -14363,7 +14363,7 @@ webassembly/reference/types/funcref,0
 webassembly/reference/types/v128,0
 webassembly/reference/variables,0
 webassembly/reference/variables/global.get,0
-webassembly/reference/variables/global.set,0
+webassembly/reference/variables/global.set,1
 webassembly/reference/variables/local,0
 webassembly/reference/variables/local.get,0
 webassembly/reference/variables/local.set,0

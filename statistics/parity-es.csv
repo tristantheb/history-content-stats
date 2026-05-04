@@ -1002,7 +1002,7 @@ learn_web_development/getting_started/soft_skills,1
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,null
 learn_web_development/getting_started/soft_skills/finding_a_job,null
 learn_web_development/getting_started/soft_skills/research_and_learning,null
-learn_web_development/getting_started/soft_skills/workflows_and_processes,1
+learn_web_development/getting_started/soft_skills/workflows_and_processes,2
 learn_web_development/getting_started/web_standards,1
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,4
 learn_web_development/getting_started/web_standards/how_the_web_works,null
@@ -1126,7 +1126,7 @@ mdn/writing_guidelines/page_structures/sidebars,16
 mdn/writing_guidelines/page_structures/specification_tables,3
 mdn/writing_guidelines/page_structures/syntax_sections,null
 mdn/writing_guidelines/what_we_write,8
-mdn/writing_guidelines/writing_style_guide,0
+mdn/writing_guidelines/writing_style_guide,1
 mozilla,null
 mozilla/add-ons,null
 mozilla/add-ons/contact_us,null
@@ -13391,7 +13391,7 @@ web/javascript/reference/statements/for...in,null
 web/javascript/reference/statements/for...of,9
 web/javascript/reference/statements/function,null
 web/javascript/reference/statements/function_star_,null
-web/javascript/reference/statements/if...else,3
+web/javascript/reference/statements/if...else,4
 web/javascript/reference/statements/import,null
 web/javascript/reference/statements/import/with,null
 web/javascript/reference/statements/label,null

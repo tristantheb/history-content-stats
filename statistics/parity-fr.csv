@@ -1002,7 +1002,7 @@ learn_web_development/getting_started/soft_skills,0
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,1
 learn_web_development/getting_started/soft_skills/finding_a_job,3
 learn_web_development/getting_started/soft_skills/research_and_learning,0
-learn_web_development/getting_started/soft_skills/workflows_and_processes,0
+learn_web_development/getting_started/soft_skills/workflows_and_processes,1
 learn_web_development/getting_started/web_standards,0
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
 learn_web_development/getting_started/web_standards/how_the_web_works,3
@@ -1057,7 +1057,7 @@ mdn/community/communication_channels,0
 mdn/community/community_participation_guidelines,1
 mdn/community/discussions,0
 mdn/community/discussions/managing_and_resolving_discussions,0
-mdn/community/getting_started,2
+mdn/community/getting_started,3
 mdn/community/issues,2
 mdn/community/issues/content_suggestions_feature_proposals,null
 mdn/community/learn_forum,null
@@ -1126,7 +1126,7 @@ mdn/writing_guidelines/page_structures/sidebars,1
 mdn/writing_guidelines/page_structures/specification_tables,0
 mdn/writing_guidelines/page_structures/syntax_sections,0
 mdn/writing_guidelines/what_we_write,15
-mdn/writing_guidelines/writing_style_guide,9
+mdn/writing_guidelines/writing_style_guide,10
 mozilla,1
 mozilla/add-ons,null
 mozilla/add-ons/contact_us,null
@@ -5014,7 +5014,7 @@ web/api/htmlimageelement/name,0
 web/api/htmlimageelement/naturalheight,0
 web/api/htmlimageelement/naturalwidth,0
 web/api/htmlimageelement/referrerpolicy,0
-web/api/htmlimageelement/sizes,2
+web/api/htmlimageelement/sizes,3
 web/api/htmlimageelement/src,0
 web/api/htmlimageelement/srcset,0
 web/api/htmlimageelement/usemap,0
@@ -10242,7 +10242,7 @@ web/css/guides/backgrounds_and_borders/border-radius_generator,0
 web/css/guides/backgrounds_and_borders/box-shadow_generator,0
 web/css/guides/backgrounds_and_borders/resizing_background_images,0
 web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,0
-web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,0
+web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,1
 web/css/guides/basic_user_interface,null
 web/css/guides/borders_and_box_decorations,null
 web/css/guides/box_alignment,0
@@ -11197,7 +11197,7 @@ web/css/reference/selectors/_colon_valid,0
 web/css/reference/selectors/_colon_visited,0
 web/css/reference/selectors/_colon_volume-locked,0
 web/css/reference/selectors/_colon_where,0
-web/css/reference/selectors/_colon_xr-overlay,0
+web/css/reference/selectors/_colon_xr-overlay,1
 web/css/reference/selectors/_doublecolon_-moz-color-swatch,0
 web/css/reference/selectors/_doublecolon_-moz-focus-inner,0
 web/css/reference/selectors/_doublecolon_-moz-list-bullet,0
@@ -11281,7 +11281,7 @@ web/css/reference/values/angle-percentage,0
 web/css/reference/values/asin,0
 web/css/reference/values/atan,0
 web/css/reference/values/atan2,0
-web/css/reference/values/attr,0
+web/css/reference/values/attr,1
 web/css/reference/values/axis,0
 web/css/reference/values/baseline-position,0
 web/css/reference/values/basic-shape,0
@@ -11607,7 +11607,7 @@ web/html/reference/elements/meta/http-equiv,0
 web/html/reference/elements/meta/name,0
 web/html/reference/elements/meta/name/color-scheme,0
 web/html/reference/elements/meta/name/referrer,0
-web/html/reference/elements/meta/name/robots,0
+web/html/reference/elements/meta/name/robots,1
 web/html/reference/elements/meta/name/theme-color,0
 web/html/reference/elements/meta/name/viewport,0
 web/html/reference/elements/meter,0
@@ -11777,14 +11777,14 @@ web/http/reference/headers/access-control-request-method,0
 web/http/reference/headers/activate-storage-access,0
 web/http/reference/headers/age,0
 web/http/reference/headers/allow,0
-web/http/reference/headers/alt-svc,0
+web/http/reference/headers/alt-svc,1
 web/http/reference/headers/alt-used,0
 web/http/reference/headers/attribution-reporting-eligible,0
 web/http/reference/headers/attribution-reporting-register-source,0
 web/http/reference/headers/attribution-reporting-register-trigger,0
 web/http/reference/headers/authorization,0
 web/http/reference/headers/available-dictionary,0
-web/http/reference/headers/cache-control,0
+web/http/reference/headers/cache-control,1
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
 web/http/reference/headers/content-digest,0
@@ -13391,7 +13391,7 @@ web/javascript/reference/statements/for...in,null
 web/javascript/reference/statements/for...of,null
 web/javascript/reference/statements/function,null
 web/javascript/reference/statements/function_star_,null
-web/javascript/reference/statements/if...else,6
+web/javascript/reference/statements/if...else,7
 web/javascript/reference/statements/import,null
 web/javascript/reference/statements/import/with,null
 web/javascript/reference/statements/label,null

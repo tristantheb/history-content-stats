@@ -7,7 +7,7 @@ games/publishing_games/game_distribution,null
 games/publishing_games/game_monetization,null
 games/publishing_games/game_promotion,null
 games/techniques,3
-games/techniques/2d_collision_detection,9
+games/techniques/2d_collision_detection,10
 games/techniques/3d_collision_detection,8
 games/techniques/3d_collision_detection/bounding_volume_collision_detection_with_three.js,null
 games/techniques/3d_on_the_web,4
@@ -811,7 +811,7 @@ learn_web_development/core/structuring_content/forms_challenge,null
 learn_web_development/core/structuring_content/general_embedding_technologies,13
 learn_web_development/core/structuring_content/headings_and_paragraphs,4
 learn_web_development/core/structuring_content/html_forms,5
-learn_web_development/core/structuring_content/html_images,16
+learn_web_development/core/structuring_content/html_images,17
 learn_web_development/core/structuring_content/html_table_basics,null
 learn_web_development/core/structuring_content/html_video_and_audio,13
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,11
@@ -989,8 +989,8 @@ learn_web_development/extensions/testing/automated_testing,10
 learn_web_development/extensions/testing/feature_detection,13
 learn_web_development/extensions/testing/html_and_css,18
 learn_web_development/extensions/testing/introduction,8
-learn_web_development/extensions/testing/testing_strategies,10
-learn_web_development/extensions/testing/your_own_automation_environment,12
+learn_web_development/extensions/testing/testing_strategies,11
+learn_web_development/extensions/testing/your_own_automation_environment,13
 learn_web_development/getting_started,5
 learn_web_development/getting_started/environment_setup,3
 learn_web_development/getting_started/environment_setup/browsing_the_web,9
@@ -11281,7 +11281,7 @@ web/css/reference/values/angle-percentage,6
 web/css/reference/values/asin,null
 web/css/reference/values/atan,null
 web/css/reference/values/atan2,null
-web/css/reference/values/attr,4
+web/css/reference/values/attr,6
 web/css/reference/values/axis,null
 web/css/reference/values/baseline-position,1
 web/css/reference/values/basic-shape,7
@@ -13391,7 +13391,7 @@ web/javascript/reference/statements/for...in,9
 web/javascript/reference/statements/for...of,14
 web/javascript/reference/statements/function,4
 web/javascript/reference/statements/function_star_,13
-web/javascript/reference/statements/if...else,3
+web/javascript/reference/statements/if...else,4
 web/javascript/reference/statements/import,12
 web/javascript/reference/statements/import/with,null
 web/javascript/reference/statements/label,5

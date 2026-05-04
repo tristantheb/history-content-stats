@@ -811,7 +811,7 @@ learn_web_development/core/structuring_content/forms_challenge,null
 learn_web_development/core/structuring_content/general_embedding_technologies,13
 learn_web_development/core/structuring_content/headings_and_paragraphs,null
 learn_web_development/core/structuring_content/html_forms,null
-learn_web_development/core/structuring_content/html_images,16
+learn_web_development/core/structuring_content/html_images,17
 learn_web_development/core/structuring_content/html_table_basics,13
 learn_web_development/core/structuring_content/html_video_and_audio,null
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,11
@@ -1057,7 +1057,7 @@ mdn/community/communication_channels,3
 mdn/community/community_participation_guidelines,null
 mdn/community/discussions,null
 mdn/community/discussions/managing_and_resolving_discussions,null
-mdn/community/getting_started,6
+mdn/community/getting_started,7
 mdn/community/issues,null
 mdn/community/issues/content_suggestions_feature_proposals,null
 mdn/community/learn_forum,null
@@ -11777,7 +11777,7 @@ web/http/reference/headers/access-control-request-method,null
 web/http/reference/headers/activate-storage-access,null
 web/http/reference/headers/age,4
 web/http/reference/headers/allow,null
-web/http/reference/headers/alt-svc,4
+web/http/reference/headers/alt-svc,5
 web/http/reference/headers/alt-used,3
 web/http/reference/headers/attribution-reporting-eligible,null
 web/http/reference/headers/attribution-reporting-register-source,null
@@ -14124,7 +14124,7 @@ web/xml/xslt/reference/element/when,null
 web/xml/xslt/reference/element/with-param,null
 webassembly,11
 webassembly/guides,null
-webassembly/guides/c_to_wasm,6
+webassembly/guides/c_to_wasm,7
 webassembly/guides/concepts,null
 webassembly/guides/existing_c_to_wasm,null
 webassembly/guides/exported_functions,null
