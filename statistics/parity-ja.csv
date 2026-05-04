@@ -9037,7 +9037,7 @@ web/api/videoencoder/isconfigsupported_static,null
 web/api/videoencoder/reset,null
 web/api/videoencoder/state,null
 web/api/videoencoder/videoencoder,null
-web/api/videoframe,6
+web/api/videoframe,7
 web/api/videoframe/allocationsize,2
 web/api/videoframe/clone,1
 web/api/videoframe/close,1
@@ -9051,9 +9051,10 @@ web/api/videoframe/displaywidth,1
 web/api/videoframe/duration,1
 web/api/videoframe/flip,null
 web/api/videoframe/format,3
+web/api/videoframe/metadata,null
 web/api/videoframe/rotation,null
 web/api/videoframe/timestamp,1
-web/api/videoframe/videoframe,5
+web/api/videoframe/videoframe,6
 web/api/videoframe/visiblerect,1
 web/api/videoplaybackquality,null
 web/api/videoplaybackquality/corruptedvideoframes,null

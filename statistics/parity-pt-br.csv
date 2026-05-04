@@ -9051,6 +9051,7 @@ web/api/videoframe/displaywidth,null
 web/api/videoframe/duration,null
 web/api/videoframe/flip,null
 web/api/videoframe/format,null
+web/api/videoframe/metadata,null
 web/api/videoframe/rotation,null
 web/api/videoframe/timestamp,null
 web/api/videoframe/videoframe,null
