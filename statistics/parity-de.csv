@@ -2478,7 +2478,7 @@ web/api/audioscheduledsourcenode,0
 web/api/audioscheduledsourcenode/ended_event,0
 web/api/audioscheduledsourcenode/start,0
 web/api/audioscheduledsourcenode/stop,0
-web/api/audiosession,0
+web/api/audiosession,1
 web/api/audiosession/type,0
 web/api/audiosinkinfo,0
 web/api/audiosinkinfo/type,0
@@ -9037,7 +9037,7 @@ web/api/videoencoder/isconfigsupported_static,0
 web/api/videoencoder/reset,0
 web/api/videoencoder/state,0
 web/api/videoencoder/videoencoder,0
-web/api/videoframe,0
+web/api/videoframe,1
 web/api/videoframe/allocationsize,0
 web/api/videoframe/clone,0
 web/api/videoframe/close,0
@@ -9051,9 +9051,10 @@ web/api/videoframe/displaywidth,0
 web/api/videoframe/duration,0
 web/api/videoframe/flip,0
 web/api/videoframe/format,0
+web/api/videoframe/metadata,null
 web/api/videoframe/rotation,0
 web/api/videoframe/timestamp,0
-web/api/videoframe/videoframe,0
+web/api/videoframe/videoframe,1
 web/api/videoframe/visiblerect,0
 web/api/videoplaybackquality,0
 web/api/videoplaybackquality/corruptedvideoframes,0
