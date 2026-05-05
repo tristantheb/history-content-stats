@@ -6252,6 +6252,7 @@ web/api/navigationpreloadmanager/enable,null
 web/api/navigationpreloadmanager/getstate,null
 web/api/navigationpreloadmanager/setheadervalue,null
 web/api/navigationtransition,null
+web/api/navigationtransition/committed,null
 web/api/navigationtransition/finished,null
 web/api/navigationtransition/from,null
 web/api/navigationtransition/navigationtype,null

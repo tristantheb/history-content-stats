@@ -807,7 +807,7 @@ learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
 learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,0
-learn_web_development/core/structuring_content/forms_challenge,1
+learn_web_development/core/structuring_content/forms_challenge,2
 learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,1
@@ -1893,7 +1893,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,null
-mozilla/firefox/experimental_features,24
+mozilla/firefox/experimental_features,26
 mozilla/firefox/releases,null
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -4427,7 +4427,7 @@ web/api/geometry_interfaces,1
 web/api/gestureevent,null
 web/api/gpu,5
 web/api/gpu/getpreferredcanvasformat,4
-web/api/gpu/requestadapter,6
+web/api/gpu/requestadapter,7
 web/api/gpu/wgsllanguagefeatures,5
 web/api/gpuadapter,11
 web/api/gpuadapter/features,4
@@ -4601,7 +4601,7 @@ web/api/gpusampler/label,null
 web/api/gpushadermodule,null
 web/api/gpushadermodule/getcompilationinfo,null
 web/api/gpushadermodule/label,null
-web/api/gpusupportedfeatures,15
+web/api/gpusupportedfeatures,16
 web/api/gpusupportedlimits,5
 web/api/gputexture,null
 web/api/gputexture/createview,null
@@ -6252,6 +6252,7 @@ web/api/navigationpreloadmanager/enable,0
 web/api/navigationpreloadmanager/getstate,0
 web/api/navigationpreloadmanager/setheadervalue,0
 web/api/navigationtransition,null
+web/api/navigationtransition/committed,null
 web/api/navigationtransition/finished,null
 web/api/navigationtransition/from,null
 web/api/navigationtransition/navigationtype,null
@@ -9037,7 +9038,7 @@ web/api/videoencoder/isconfigsupported_static,null
 web/api/videoencoder/reset,null
 web/api/videoencoder/state,null
 web/api/videoencoder/videoencoder,null
-web/api/videoframe,7
+web/api/videoframe,8
 web/api/videoframe/allocationsize,2
 web/api/videoframe/clone,1
 web/api/videoframe/close,1
@@ -9525,7 +9526,7 @@ web/api/webgltexture,null
 web/api/webgltransformfeedback,null
 web/api/webgluniformlocation,null
 web/api/webglvertexarrayobject,null
-web/api/webgpu_api,15
+web/api/webgpu_api,16
 web/api/webhid_api,5
 web/api/webkitpoint,null
 web/api/webotp_api,18
@@ -9635,7 +9636,7 @@ web/api/webxr_device_api/rendering,3
 web/api/webxr_device_api/spatial_tracking,null
 web/api/webxr_device_api/startup_and_shutdown,null
 web/api/webxr_device_api/targeting,null
-web/api/wgsllanguagefeatures,15
+web/api/wgsllanguagefeatures,16
 web/api/wheelevent,6
 web/api/wheelevent/deltamode,2
 web/api/wheelevent/deltax,2

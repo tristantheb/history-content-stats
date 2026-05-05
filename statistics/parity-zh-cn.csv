@@ -6251,7 +6251,8 @@ web/api/navigationpreloadmanager/disable,null
 web/api/navigationpreloadmanager/enable,null
 web/api/navigationpreloadmanager/getstate,null
 web/api/navigationpreloadmanager/setheadervalue,null
-web/api/navigationtransition,3
+web/api/navigationtransition,4
+web/api/navigationtransition/committed,null
 web/api/navigationtransition/finished,2
 web/api/navigationtransition/from,2
 web/api/navigationtransition/navigationtype,2
@@ -9635,7 +9636,7 @@ web/api/webxr_device_api/rendering,null
 web/api/webxr_device_api/spatial_tracking,null
 web/api/webxr_device_api/startup_and_shutdown,null
 web/api/webxr_device_api/targeting,0
-web/api/wgsllanguagefeatures,14
+web/api/wgsllanguagefeatures,15
 web/api/wheelevent,null
 web/api/wheelevent/deltamode,2
 web/api/wheelevent/deltax,2
