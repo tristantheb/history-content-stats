@@ -9721,7 +9721,7 @@ web/api/window/navigation,0
 web/api/window/navigator,0
 web/api/window/offline_event,0
 web/api/window/online_event,0
-web/api/window/open,1
+web/api/window/open,2
 web/api/window/opener,0
 web/api/window/orientation,0
 web/api/window/orientationchange_event,0

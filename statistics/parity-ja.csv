@@ -597,7 +597,7 @@ glossary/string,null
 glossary/stringifier,null
 glossary/stun,1
 glossary/style_origin,1
-glossary/style_sheet,null
+glossary/style_sheet,1
 glossary/submit_button,5
 glossary/svg,3
 glossary/svn,1
@@ -8875,7 +8875,7 @@ web/api/trustedtypepolicyfactory/isscript,0
 web/api/trustedtypepolicyfactory/isscripturl,0
 web/api/ui_events,1
 web/api/ui_events/keyboard_event_code_values,1
-web/api/ui_events/keyboard_event_key_values,14
+web/api/ui_events/keyboard_event_key_values,15
 web/api/uievent,2
 web/api/uievent/detail,0
 web/api/uievent/inituievent,3
@@ -9721,7 +9721,7 @@ web/api/window/navigation,1
 web/api/window/navigator,0
 web/api/window/offline_event,4
 web/api/window/online_event,5
-web/api/window/open,5
+web/api/window/open,6
 web/api/window/opener,4
 web/api/window/orientation,0
 web/api/window/orientationchange_event,0
