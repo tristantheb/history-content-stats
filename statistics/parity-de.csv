@@ -1957,7 +1957,7 @@ mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,0
+mozilla/firefox/releases/151,1
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -8875,7 +8875,7 @@ web/api/trustedtypepolicyfactory/isscript,0
 web/api/trustedtypepolicyfactory/isscripturl,0
 web/api/ui_events,0
 web/api/ui_events/keyboard_event_code_values,0
-web/api/ui_events/keyboard_event_key_values,0
+web/api/ui_events/keyboard_event_key_values,1
 web/api/uievent,0
 web/api/uievent/detail,0
 web/api/uievent/inituievent,0
@@ -9721,7 +9721,7 @@ web/api/window/navigation,0
 web/api/window/navigator,0
 web/api/window/offline_event,0
 web/api/window/online_event,0
-web/api/window/open,0
+web/api/window/open,1
 web/api/window/opener,0
 web/api/window/orientation,0
 web/api/window/orientationchange_event,0
