@@ -807,7 +807,7 @@ learn_web_development/core/structuring_content/basic_html_syntax,d63fef1845615e1
 learn_web_development/core/structuring_content/creating_links,0d59135676db5a372b4dd692f0686e6bdfc13b51,Learn|Core Modules
 learn_web_development/core/structuring_content/debugging_html,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Learn|Core Modules
 learn_web_development/core/structuring_content/emphasis_and_importance,cc7ed25d67ec3df5df8cfa255e1066cb5845e293,Learn|Core Modules
-learn_web_development/core/structuring_content/forms_challenge,80560f4ccab5f420d808240552197bbe43fe68b7,Learn|Core Modules
+learn_web_development/core/structuring_content/forms_challenge,515ddf4a9264942d01b69398933c67b97e0e2b83,Learn|Core Modules
 learn_web_development/core/structuring_content/general_embedding_technologies,f08b3d623c43e0256072013372ba393b5bd1a5a0,Learn|Core Modules
 learn_web_development/core/structuring_content/headings_and_paragraphs,d865c290ae97074157ca8fd3994015b2f393d370,Learn|Core Modules
 learn_web_development/core/structuring_content/html_forms,e83a94ff7da81e42f1b192016d7ab3054bf38874,Learn|Core Modules
@@ -1893,7 +1893,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,a7944ceebf276439c0a6a1c134003c4a919f7279,Mozilla|Firefox
+mozilla/firefox/experimental_features,62b6832823a839d2c47003307d4a4fd9df91fb4f,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1957,7 +1957,7 @@ mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Fi
 mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,a7944ceebf276439c0a6a1c134003c4a919f7279,Mozilla|Firefox|Versions
-mozilla/firefox/releases/151,a1b58be094e527a8a210049d417225e7fc20ea95,Mozilla|Firefox|Versions
+mozilla/firefox/releases/151,63d3bd949674e905662a171317506f3ee8566b25,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -4427,7 +4427,7 @@ web/api/geometry_interfaces,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/gestureevent,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/gpu,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpu/getpreferredcanvasformat,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
-web/api/gpu/requestadapter,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/gpu/requestadapter,19b8981ede1bc5dad6e0eb7f5f7c2a0ee0c296f1,Web APIs
 web/api/gpu/wgsllanguagefeatures,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpuadapter,c03dee2dd8e7e28ba041b899de4db10f002d6645,Web APIs
 web/api/gpuadapter/features,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
@@ -4601,7 +4601,7 @@ web/api/gpusampler/label,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpushadermodule,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpushadermodule/getcompilationinfo,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpushadermodule/label,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
-web/api/gpusupportedfeatures,3ce43a7c759aec08033e7577fd629af17c9a1b45,Web APIs
+web/api/gpusupportedfeatures,19b8981ede1bc5dad6e0eb7f5f7c2a0ee0c296f1,Web APIs
 web/api/gpusupportedlimits,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gputexture,78c41c9b5211cc5bfba793c72a9adcac852e07f9,Web APIs
 web/api/gputexture/createview,8d8030c3bc728b1318b5147bc99bf5e6c24c75b9,Web APIs
@@ -6251,7 +6251,8 @@ web/api/navigationpreloadmanager/disable,bc0237f139ee3a9db67a669ae1b6bf45ebba7f9
 web/api/navigationpreloadmanager/enable,bc0237f139ee3a9db67a669ae1b6bf45ebba7f94,Web APIs
 web/api/navigationpreloadmanager/getstate,58ad1df59f2ffb9ecab4e27fe1bdf1eb5a55f89b,Web APIs
 web/api/navigationpreloadmanager/setheadervalue,cfb7587e3e3122630ad6cbd94d834ecadbe0a746,Web APIs
-web/api/navigationtransition,4a873b9316fad777692bc15abaacac2f7648b9e8,Web APIs
+web/api/navigationtransition,e37e6f1ca594cd444b243be19637171790bbb656,Web APIs
+web/api/navigationtransition/committed,e37e6f1ca594cd444b243be19637171790bbb656,Web APIs
 web/api/navigationtransition/finished,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
 web/api/navigationtransition/from,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
 web/api/navigationtransition/navigationtype,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
@@ -9037,7 +9038,7 @@ web/api/videoencoder/isconfigsupported_static,e5ccdde5b77f66395e754e019c67468e43
 web/api/videoencoder/reset,216794e76611c18e53222bb8efa570e898e990de,Web APIs
 web/api/videoencoder/state,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
 web/api/videoencoder/videoencoder,941ade970fd7ebad52af692b6ac27cfd96f94100,Web APIs
-web/api/videoframe,e62132e5900aad53470eb84df3b61eacd35f727d,Web APIs
+web/api/videoframe,ef6215cdb0472ba6bff093e2dcfb0e1434483db5,Web APIs
 web/api/videoframe/allocationsize,05d649713c24ee889b90f00097c5c09a1c81ecaa,Web APIs
 web/api/videoframe/clone,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
 web/api/videoframe/close,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
@@ -9051,7 +9052,7 @@ web/api/videoframe/displaywidth,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web API
 web/api/videoframe/duration,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
 web/api/videoframe/flip,3b1efe57f3b22a97acb9db335f2848c90cdfe40e,Web APIs
 web/api/videoframe/format,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
-web/api/videoframe/metadata,e62132e5900aad53470eb84df3b61eacd35f727d,Web APIs
+web/api/videoframe/metadata,ef6215cdb0472ba6bff093e2dcfb0e1434483db5,Web APIs
 web/api/videoframe/rotation,3b1efe57f3b22a97acb9db335f2848c90cdfe40e,Web APIs
 web/api/videoframe/timestamp,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
 web/api/videoframe/videoframe,e62132e5900aad53470eb84df3b61eacd35f727d,Web APIs
@@ -9525,7 +9526,7 @@ web/api/webgltexture,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
 web/api/webgltransformfeedback,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
 web/api/webgluniformlocation,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
 web/api/webglvertexarrayobject,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
-web/api/webgpu_api,d66e6bc8eab45062f3ce5caed05994440b836f62,Web APIs
+web/api/webgpu_api,19b8981ede1bc5dad6e0eb7f5f7c2a0ee0c296f1,Web APIs
 web/api/webhid_api,534e2c61fee576355e8a9b7036d9fa36056edb03,Web APIs
 web/api/webkitpoint,b065c09b79d18abf0f04778c9307e1c312b8c6f9,Web APIs
 web/api/webotp_api,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
@@ -9635,7 +9636,7 @@ web/api/webxr_device_api/rendering,9a4005caa5cc13f5174e3b8981eeec5631ed83d1,Web 
 web/api/webxr_device_api/spatial_tracking,cda88aaf82e8bc03b3826396d96aab18a669134c,Web APIs
 web/api/webxr_device_api/startup_and_shutdown,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/webxr_device_api/targeting,4f0f7386262363103a3e9cf482bb348d8570b331,Web APIs
-web/api/wgsllanguagefeatures,7b753f510ca41b5b067b200b6eb3698027503e2e,Web APIs
+web/api/wgsllanguagefeatures,f96831c18cfe5cc7d1e4c2fa321c83964c6bab89,Web APIs
 web/api/wheelevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltamode,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltax,d783c87acb536c6c142792d263f813c88808551b,Web APIs
