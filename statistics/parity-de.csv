@@ -807,7 +807,7 @@ learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
 learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,0
-learn_web_development/core/structuring_content/forms_challenge,1
+learn_web_development/core/structuring_content/forms_challenge,0
 learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
@@ -818,7 +818,7 @@ learn_web_development/core/structuring_content/including_vector_graphics_in_html
 learn_web_development/core/structuring_content/lists,0
 learn_web_development/core/structuring_content/marking_up_a_letter,0
 learn_web_development/core/structuring_content/planet_data_table,0
-learn_web_development/core/structuring_content/splash_page,0
+learn_web_development/core/structuring_content/splash_page,1
 learn_web_development/core/structuring_content/structuring_a_page_of_content,0
 learn_web_development/core/structuring_content/structuring_documents,0
 learn_web_development/core/structuring_content/table_accessibility,0
@@ -1893,7 +1893,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,2
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1957,7 +1957,7 @@ mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,4
+mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -4427,7 +4427,7 @@ web/api/geometry_interfaces,0
 web/api/gestureevent,0
 web/api/gpu,0
 web/api/gpu/getpreferredcanvasformat,0
-web/api/gpu/requestadapter,1
+web/api/gpu/requestadapter,0
 web/api/gpu/wgsllanguagefeatures,0
 web/api/gpuadapter,0
 web/api/gpuadapter/features,0
@@ -4601,7 +4601,7 @@ web/api/gpusampler/label,0
 web/api/gpushadermodule,0
 web/api/gpushadermodule/getcompilationinfo,0
 web/api/gpushadermodule/label,0
-web/api/gpusupportedfeatures,1
+web/api/gpusupportedfeatures,0
 web/api/gpusupportedlimits,0
 web/api/gputexture,0
 web/api/gputexture/createview,0
@@ -6251,8 +6251,8 @@ web/api/navigationpreloadmanager/disable,0
 web/api/navigationpreloadmanager/enable,0
 web/api/navigationpreloadmanager/getstate,0
 web/api/navigationpreloadmanager/setheadervalue,0
-web/api/navigationtransition,1
-web/api/navigationtransition/committed,null
+web/api/navigationtransition,0
+web/api/navigationtransition/committed,0
 web/api/navigationtransition/finished,0
 web/api/navigationtransition/from,0
 web/api/navigationtransition/navigationtype,0
@@ -8876,7 +8876,7 @@ web/api/trustedtypepolicyfactory/isscript,0
 web/api/trustedtypepolicyfactory/isscripturl,0
 web/api/ui_events,0
 web/api/ui_events/keyboard_event_code_values,0
-web/api/ui_events/keyboard_event_key_values,1
+web/api/ui_events/keyboard_event_key_values,0
 web/api/uievent,0
 web/api/uievent/detail,0
 web/api/uievent/inituievent,0
@@ -9038,7 +9038,7 @@ web/api/videoencoder/isconfigsupported_static,0
 web/api/videoencoder/reset,0
 web/api/videoencoder/state,0
 web/api/videoencoder/videoencoder,0
-web/api/videoframe,1
+web/api/videoframe,0
 web/api/videoframe/allocationsize,0
 web/api/videoframe/clone,0
 web/api/videoframe/close,0
@@ -9052,7 +9052,7 @@ web/api/videoframe/displaywidth,0
 web/api/videoframe/duration,0
 web/api/videoframe/flip,0
 web/api/videoframe/format,0
-web/api/videoframe/metadata,1
+web/api/videoframe/metadata,0
 web/api/videoframe/rotation,0
 web/api/videoframe/timestamp,0
 web/api/videoframe/videoframe,0
@@ -9526,7 +9526,7 @@ web/api/webgltexture,0
 web/api/webgltransformfeedback,0
 web/api/webgluniformlocation,0
 web/api/webglvertexarrayobject,0
-web/api/webgpu_api,1
+web/api/webgpu_api,0
 web/api/webhid_api,0
 web/api/webkitpoint,0
 web/api/webotp_api,0
@@ -9636,7 +9636,7 @@ web/api/webxr_device_api/rendering,0
 web/api/webxr_device_api/spatial_tracking,0
 web/api/webxr_device_api/startup_and_shutdown,0
 web/api/webxr_device_api/targeting,0
-web/api/wgsllanguagefeatures,1
+web/api/wgsllanguagefeatures,0
 web/api/wheelevent,0
 web/api/wheelevent/deltamode,0
 web/api/wheelevent/deltax,0
@@ -9722,7 +9722,7 @@ web/api/window/navigation,0
 web/api/window/navigator,0
 web/api/window/offline_event,0
 web/api/window/online_event,0
-web/api/window/open,1
+web/api/window/open,0
 web/api/window/opener,0
 web/api/window/orientation,0
 web/api/window/orientationchange_event,0
