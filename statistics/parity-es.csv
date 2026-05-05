@@ -4427,7 +4427,7 @@ web/api/geometry_interfaces,null
 web/api/gestureevent,null
 web/api/gpu,0
 web/api/gpu/getpreferredcanvasformat,0
-web/api/gpu/requestadapter,0
+web/api/gpu/requestadapter,1
 web/api/gpu/wgsllanguagefeatures,0
 web/api/gpuadapter,1
 web/api/gpuadapter/features,0
@@ -6252,6 +6252,7 @@ web/api/navigationpreloadmanager/enable,null
 web/api/navigationpreloadmanager/getstate,null
 web/api/navigationpreloadmanager/setheadervalue,null
 web/api/navigationtransition,null
+web/api/navigationtransition/committed,null
 web/api/navigationtransition/finished,null
 web/api/navigationtransition/from,null
 web/api/navigationtransition/navigationtype,null

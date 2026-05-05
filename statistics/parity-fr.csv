@@ -597,7 +597,7 @@ glossary/string,0
 glossary/stringifier,0
 glossary/stun,0
 glossary/style_origin,0
-glossary/style_sheet,null
+glossary/style_sheet,0
 glossary/submit_button,0
 glossary/svg,0
 glossary/svn,0
@@ -807,7 +807,7 @@ learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
 learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,0
-learn_web_development/core/structuring_content/forms_challenge,1
+learn_web_development/core/structuring_content/forms_challenge,2
 learn_web_development/core/structuring_content/general_embedding_technologies,1
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,null
@@ -1893,7 +1893,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,3
 mozilla/firefox,0
-mozilla/firefox/experimental_features,2
+mozilla/firefox/experimental_features,4
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -6252,6 +6252,7 @@ web/api/navigationpreloadmanager/enable,null
 web/api/navigationpreloadmanager/getstate,null
 web/api/navigationpreloadmanager/setheadervalue,null
 web/api/navigationtransition,null
+web/api/navigationtransition/committed,null
 web/api/navigationtransition/finished,null
 web/api/navigationtransition/from,null
 web/api/navigationtransition/navigationtype,null
