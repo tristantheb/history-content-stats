@@ -1957,7 +1957,7 @@ mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Fi
 mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,a7944ceebf276439c0a6a1c134003c4a919f7279,Mozilla|Firefox|Versions
-mozilla/firefox/releases/151,3da04ec7191b2d04750d76aad2a59d6579fe43ba,Mozilla|Firefox|Versions
+mozilla/firefox/releases/151,a1b58be094e527a8a210049d417225e7fc20ea95,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -8875,7 +8875,7 @@ web/api/trustedtypepolicyfactory/isscript,22080a7cc403f7f45c8e85065b182c9f0d4d38
 web/api/trustedtypepolicyfactory/isscripturl,bb48907e64eb4bf60f17efd7d39b46c771d220a0,Web APIs
 web/api/ui_events,be1922d62a0d31e4e3441db0e943aed8df736481,Web APIs
 web/api/ui_events/keyboard_event_code_values,bb48907e64eb4bf60f17efd7d39b46c771d220a0,Web APIs
-web/api/ui_events/keyboard_event_key_values,62de2a0ead0580947eac6e820e4ecac545f9b339,Web APIs
+web/api/ui_events/keyboard_event_key_values,b7c69f770fa6634129e8368570f60c37116d9069,Web APIs
 web/api/uievent,63d0c539650bee867018575bb45c14114f154997,Web APIs
 web/api/uievent/detail,0c8a320b035cf625c1df67713a94ead2e7f3aec6,Web APIs
 web/api/uievent/inituievent,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a,Web APIs
@@ -9721,7 +9721,7 @@ web/api/window/navigation,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
 web/api/window/navigator,f2dc3d5367203c860cf1a71ce0e972f018523849,Web APIs
 web/api/window/offline_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/window/online_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
-web/api/window/open,f4ac8828bd679520dc7d424bcdfe6cf431615ecc,Web APIs
+web/api/window/open,7e8e1764410fa1871549d9961c2375389b9d55eb,Web APIs
 web/api/window/opener,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/window/orientation,cc070123f72376faec06e36622c4fc723a75325f,Web APIs
 web/api/window/orientationchange_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs

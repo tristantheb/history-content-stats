@@ -535,7 +535,7 @@ glossary/string,no_hash_commit
 glossary/stringifier,no_hash_commit
 glossary/stun,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/style_origin,c9c86abc12c3bdd3fdb07c73a0d1cf88cdd0e1bc
-glossary/stylesheet,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
+glossary/style_sheet,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 glossary/submit_button,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/svg,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/svn,ada5fa5ef15eadd44b549ecf906423b4a2092f34
@@ -7149,7 +7149,7 @@ web/css/reference/properties/font-kerning,2d78abb3e793352e24e976ce0e68c08d817bd7
 web/css/reference/properties/font-language-override,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/font-optical-sizing,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/font-palette,33094d735e90b4dcae5733331b79c51fee997410
-web/css/reference/properties/font-palette/palette-mix,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/font-palette/palette-mix,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/properties/font-size-adjust,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/font-size,f69b6693212029ce4b9fa0c753729044577af548
 web/css/reference/properties/font-smooth,2d78abb3e793352e24e976ce0e68c08d817bd7f3
@@ -7596,14 +7596,14 @@ web/css/reference/selectors/universal_selectors,ca0d81a57fd36cf5da9621c44171d0f3
 web/css/reference/values/-moz-image-rect,no_hash_commit
 web/css/reference/values/abs,f69b6693212029ce4b9fa0c753729044577af548
 web/css/reference/values/absolute-size,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/values/acos,33094d735e90b4dcae5733331b79c51fee997410
+web/css/reference/values/acos,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/alpha-value,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/anchor-size,dc2ae626916c7275aa5f01f2d01e00b73d96b458
 web/css/reference/values/anchor,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/angle-percentage,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/angle,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/asin,33094d735e90b4dcae5733331b79c51fee997410
-web/css/reference/values/atan,33094d735e90b4dcae5733331b79c51fee997410
+web/css/reference/values/atan,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/atan2,1a4df4e8a562f50c4109e683e3c3637799425621
 web/css/reference/values/attr,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/axis,33094d735e90b4dcae5733331b79c51fee997410
