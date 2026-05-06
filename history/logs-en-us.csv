@@ -1720,14 +1720,14 @@ mozilla/add-ons/webextensions/api/types/browsersetting/onchange,09109b6f9444d222
 mozilla/add-ons/webextensions/api/types/browsersetting/set,51aed03147472b3883200e4538ff0beec8ff948f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts,a3b7f4beaca4b6a29ef22e7d27f07ea13f48ca73,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/configureworld,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/userscripts/execute,6afda999d054c2ba12d13d129b13eb35952b4fbe,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/userscripts/execute,14e9b0589ba62353a7cc08b2e2371b1c4ef0cac6,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/executionworld,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/getscripts,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/getworldconfigurations,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/register,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/registereduserscript,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/resetworldconfiguration,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/userscripts/scriptsource,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/userscripts/scriptsource,14e9b0589ba62353a7cc08b2e2371b1c4ef0cac6,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/unregister,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/update,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/userscriptfilter,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -13950,12 +13950,13 @@ web/webdriver/reference,57b855a52a2d2e8914a30e3a47567bff0806ae23,WebDriver
 web/webdriver/reference/bidi,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules,253bed3def8e1680475ea75987d24ca62ee9f989,WebDriver
 web/webdriver/reference/bidi/modules/bluetooth,aea2d29336c910940abb1f8e71e02158ac51e7c4,WebDriver
-web/webdriver/reference/bidi/modules/browser,c09036bf0ea2f0b6e322dfdeee64b26ab53e2797,WebDriver
-web/webdriver/reference/bidi/modules/browser/close,c09036bf0ea2f0b6e322dfdeee64b26ab53e2797,WebDriver
-web/webdriver/reference/bidi/modules/browser/createusercontext,c09036bf0ea2f0b6e322dfdeee64b26ab53e2797,WebDriver
-web/webdriver/reference/bidi/modules/browser/getclientwindows,c09036bf0ea2f0b6e322dfdeee64b26ab53e2797,WebDriver
-web/webdriver/reference/bidi/modules/browser/getusercontexts,c09036bf0ea2f0b6e322dfdeee64b26ab53e2797,WebDriver
-web/webdriver/reference/bidi/modules/browser/removeusercontext,c09036bf0ea2f0b6e322dfdeee64b26ab53e2797,WebDriver
+web/webdriver/reference/bidi/modules/browser,8626312a42264212095783a26ec0fb1f8d80487b,WebDriver
+web/webdriver/reference/bidi/modules/browser/close,8626312a42264212095783a26ec0fb1f8d80487b,WebDriver
+web/webdriver/reference/bidi/modules/browser/createusercontext,8626312a42264212095783a26ec0fb1f8d80487b,WebDriver
+web/webdriver/reference/bidi/modules/browser/getclientwindows,8626312a42264212095783a26ec0fb1f8d80487b,WebDriver
+web/webdriver/reference/bidi/modules/browser/getusercontexts,8626312a42264212095783a26ec0fb1f8d80487b,WebDriver
+web/webdriver/reference/bidi/modules/browser/removeusercontext,8626312a42264212095783a26ec0fb1f8d80487b,WebDriver
+web/webdriver/reference/bidi/modules/browser/setdownloadbehavior,8626312a42264212095783a26ec0fb1f8d80487b,WebDriver
 web/webdriver/reference/bidi/modules/browsingcontext,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/emulation,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/input,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver

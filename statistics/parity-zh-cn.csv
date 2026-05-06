@@ -1727,7 +1727,7 @@ mozilla/add-ons/webextensions/api/userscripts/getworldconfigurations,1
 mozilla/add-ons/webextensions/api/userscripts/register,2
 mozilla/add-ons/webextensions/api/userscripts/registereduserscript,1
 mozilla/add-ons/webextensions/api/userscripts/resetworldconfiguration,1
-mozilla/add-ons/webextensions/api/userscripts/scriptsource,1
+mozilla/add-ons/webextensions/api/userscripts/scriptsource,2
 mozilla/add-ons/webextensions/api/userscripts/unregister,1
 mozilla/add-ons/webextensions/api/userscripts/update,2
 mozilla/add-ons/webextensions/api/userscripts/userscriptfilter,1
@@ -13956,6 +13956,7 @@ web/webdriver/reference/bidi/modules/browser/createusercontext,null
 web/webdriver/reference/bidi/modules/browser/getclientwindows,null
 web/webdriver/reference/bidi/modules/browser/getusercontexts,null
 web/webdriver/reference/bidi/modules/browser/removeusercontext,null
+web/webdriver/reference/bidi/modules/browser/setdownloadbehavior,null
 web/webdriver/reference/bidi/modules/browsingcontext,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
