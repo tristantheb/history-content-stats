@@ -998,9 +998,10 @@ mdn/writing_guidelines/page_structures/page_types/css_module_page_template,bfdfe
 mdn/writing_guidelines/page_structures/page_types/css_property_page_template,90026d3d74fcc3b4dd81d9365b5c26752b76dd56
 mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,d2fb8cdc9422dd2b68ff23f616d70811729f1fbd
 mdn/writing_guidelines/page_structures/page_types/glossary_page_template,77eea2b80f7352068ed59a2c2fb03de4ed85e194
+mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,cb1c745168764c4646631e7c4289319d782cc83b
-mdn/writing_guidelines/page_structures/page_types,6a489877196f27cadd5b51545b68b9e31884a86f
+mdn/writing_guidelines/page_structures/page_types,e0a2b683c4ddaeecdc4ddebf16e4a72c2dda17ac
 mdn/writing_guidelines/page_structures/page_types/page_type_key,676631fd27c8096c3ae3ceb2a6b4ffd6f687055f
 mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,cb1c745168764c4646631e7c4289319d782cc83b
 mdn/writing_guidelines/page_structures/sidebars,0ff7ba5177bf2e66214bd90b58590c6bf3acb758
@@ -1200,7 +1201,7 @@ mozilla/add-ons/webextensions/working_with_files,no_hash_commit
 mozilla/add-ons/webextensions/working_with_the_tabs_api,no_hash_commit
 mozilla/add-ons/webextensions/your_first_webextension,no_hash_commit
 mozilla/add-ons/webextensions/your_second_webextension,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
-mozilla/firefox/experimental_features,f9531e19140a5e164fb05a036995f582c378b2d4
+mozilla/firefox/experimental_features,a7944ceebf276439c0a6a1c134003c4a919f7279
 mozilla/firefox,no_hash_commit
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 mozilla/firefox/releases/1.5/using_firefox_1.5_caching,no_hash_commit
@@ -1235,7 +1236,7 @@ mozilla/firefox/releases/124,08ef601955d7fc92a9a4c6d6c047854b5aef723d
 mozilla/firefox/releases/125,08ef601955d7fc92a9a4c6d6c047854b5aef723d
 mozilla/firefox/releases/126,e6fcda9d35359bbfec32ddb42086468701f57ee5
 mozilla/firefox/releases/127,81b27da7107783b4a4d9ff245a99d93f6d3efc3a
-mozilla/firefox/releases/128,95beef16ce880c41315c2e8b9d3e54c17c660124
+mozilla/firefox/releases/128,5ebca2edd6095fb3f61d442ed3146fa37fffbf7d
 mozilla/firefox/releases/129,10096e0e61277e85474989237545b705f1fa181b
 mozilla/firefox/releases/13,no_hash_commit
 mozilla/firefox/releases/130,2cca85442dcfa50e82bffb7e2c0dbae4c5158256
@@ -1316,13 +1317,13 @@ mozilla/firefox/releases/48,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/49,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/5,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 mozilla/firefox/releases/50,83f4e64da466670c3700110da364546253eae127
-mozilla/firefox/releases/51,e0de864abf4c85888c0a790058e0d6f46462ca3a
+mozilla/firefox/releases/51,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/52,cc7f29133a331628d623e8cd705394b538d4368c
 mozilla/firefox/releases/53,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/54,no_hash_commit
 mozilla/firefox/releases/55,no_hash_commit
 mozilla/firefox/releases/56,78ef1310a76394c4e0bdce456982abc3856790c0
-mozilla/firefox/releases/57,78ef1310a76394c4e0bdce456982abc3856790c0
+mozilla/firefox/releases/57,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/58,no_hash_commit
 mozilla/firefox/releases/59,78ef1310a76394c4e0bdce456982abc3856790c0
 mozilla/firefox/releases/6,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -6943,7 +6944,7 @@ web/css/reference/properties/-webkit-mask-position-y,no_hash_commit
 web/css/reference/properties/-webkit-mask-repeat-x,no_hash_commit
 web/css/reference/properties/-webkit-mask-repeat-y,no_hash_commit
 web/css/reference/properties/-webkit-tap-highlight-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/-webkit-text-fill-color,no_hash_commit
+web/css/reference/properties/-webkit-text-fill-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/-webkit-text-stroke-color,no_hash_commit
 web/css/reference/properties/-webkit-text-stroke-width,no_hash_commit
 web/css/reference/properties/-webkit-text-stroke,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
@@ -7054,7 +7055,7 @@ web/css/reference/properties/border-top,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/border-width,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/reference/properties/border,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/bottom,46a4425d4b7160129fd4c8d0f684ccd0617326b7
-web/css/reference/properties/box-align,88866ee128116bd07235f5d3531152d5686a1e6d
+web/css/reference/properties/box-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/box-decoration-break,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/box-direction,no_hash_commit
 web/css/reference/properties/box-flex-group,no_hash_commit
@@ -7170,6 +7171,7 @@ web/css/reference/properties/font-variant-position,1dbba9f7a2c2e35c6e01e8a63159e
 web/css/reference/properties/font-variant,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/reference/properties/font-variation-settings,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/font-weight,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/font-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/font,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/forced-color-adjust,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/gap,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7198,7 +7200,7 @@ web/css/reference/properties/image-rendering,85fccefc8066bd49af4ddafc12c77f35265
 web/css/reference/properties/image-resolution,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties,55326f330a6ae829494c7606b1bd47b2c0f9d888
 web/css/reference/properties/initial-letter,2d78abb3e793352e24e976ce0e68c08d817bd7f3
-web/css/reference/properties/inline-size,2d78abb3e793352e24e976ce0e68c08d817bd7f3
+web/css/reference/properties/inline-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/inset-block-end,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/inset-block-start,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/inset-block,2d78abb3e793352e24e976ce0e68c08d817bd7f3
@@ -7308,9 +7310,9 @@ web/css/reference/properties/padding-left,85fccefc8066bd49af4ddafc12c77f35265c7e
 web/css/reference/properties/padding-right,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/padding-top,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/padding,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/page-break-after,no_hash_commit
-web/css/reference/properties/page-break-before,no_hash_commit
-web/css/reference/properties/page-break-inside,no_hash_commit
+web/css/reference/properties/page-break-after,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/page-break-before,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/page-break-inside,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/page,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/paint-order,no_hash_commit
 web/css/reference/properties/perspective-origin,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7383,7 +7385,7 @@ web/css/reference/properties/stroke-linejoin,2d78abb3e793352e24e976ce0e68c08d817
 web/css/reference/properties/stroke-miterlimit,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/properties/stroke-opacity,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/properties/stroke-width,0cc9980e3b21c83d1800a428bc402ae1865326b2
-web/css/reference/properties/stroke,4ec412012be0b083ebcae4a56b425f49901143f2
+web/css/reference/properties/stroke,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/tab-size,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/table-layout,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/reference/properties/text-align-last,2d78abb3e793352e24e976ce0e68c08d817bd7f3
@@ -7434,7 +7436,7 @@ web/css/reference/properties/transition-property,1dbba9f7a2c2e35c6e01e8a63159e2a
 web/css/reference/properties/transition-timing-function,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/transition,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/translate,2d78abb3e793352e24e976ce0e68c08d817bd7f3
-web/css/reference/properties/unicode-bidi,2d78abb3e793352e24e976ce0e68c08d817bd7f3
+web/css/reference/properties/unicode-bidi,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/user-modify,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/user-select,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/vertical-align,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -8080,7 +8082,7 @@ web/http/guides/range_requests,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/guides/redirections,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/guides/session,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/guides/user-agent_reduction,2ab902d9eec2f5a93d1f666234371ca77e93c470
-web/http,7192daf1bbd91abd9e5d4c1f88da8a998ba934a1
+web/http,d1f3f179175c80c18b1b78ba0df0ea7d15ca32cc
 web/http/reference/headers/accept-ch,no_hash_commit
 web/http/reference/headers/accept-encoding,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/accept-language,ad5b5e31f81795d692e66dadb7818ba8b220ad15
@@ -9470,6 +9472,7 @@ web/security/attacks,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/security/attacks/subdomain_takeover,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/security/attacks/xss,b07e3b87504a8984cf31d7a735ec373d33a11cd5
 web/security/authentication,64e7d62e466859d471791367050ab2cc40d36506
+web/security/authentication/otp,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9
 web/security/authentication/passwords,83f30ecaaeb6227dc0d4551f71eb8be1cacb8e94
 web/security/defenses/certificate_transparency,4e989d1d75c8fd0abc43c420002618dbdda8bfbe
 web/security/defenses,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
