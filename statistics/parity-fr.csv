@@ -1831,6 +1831,7 @@ mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,null
 mozilla/add-ons/webextensions/manifest.json/commands,null
 mozilla/add-ons/webextensions/manifest.json/content_scripts,null
 mozilla/add-ons/webextensions/manifest.json/content_security_policy,null
+mozilla/add-ons/webextensions/manifest.json/dark_theme,null
 mozilla/add-ons/webextensions/manifest.json/declarative_net_request,null
 mozilla/add-ons/webextensions/manifest.json/default_locale,null
 mozilla/add-ons/webextensions/manifest.json/description,null
@@ -11453,7 +11454,7 @@ web/css/reference/values/type,null
 web/css/reference/values/unset,null
 web/css/reference/values/url_function,2
 web/css/reference/values/url_value,0
-web/css/reference/values/var,1
+web/css/reference/values/var,3
 web/css/reference/webkit_extensions,2
 web/css/tutorials,0
 web/html,0
@@ -13573,9 +13574,9 @@ web/progressive_web_apps/manifest/reference/theme_color,null
 web/progressive_web_apps/reference,null
 web/progressive_web_apps/tutorials,3
 web/progressive_web_apps/tutorials/cycletracker,9
-web/progressive_web_apps/tutorials/cycletracker/html_and_css,0
+web/progressive_web_apps/tutorials/cycletracker/html_and_css,1
 web/progressive_web_apps/tutorials/cycletracker/javascript_functionality,12
-web/progressive_web_apps/tutorials/cycletracker/manifest_file,24
+web/progressive_web_apps/tutorials/cycletracker/manifest_file,25
 web/progressive_web_apps/tutorials/cycletracker/secure_connection,14
 web/progressive_web_apps/tutorials/cycletracker/service_workers,null
 web/progressive_web_apps/tutorials/js13kgames,5

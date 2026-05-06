@@ -601,7 +601,7 @@ glossary/style_sheet,1
 glossary/submit_button,5
 glossary/svg,3
 glossary/svn,1
-glossary/symbol,null
+glossary/symbol,0
 glossary/symmetric-key_cryptography,null
 glossary/synchronous,null
 glossary/syntax,null
@@ -1831,6 +1831,7 @@ mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,null
 mozilla/add-ons/webextensions/manifest.json/commands,null
 mozilla/add-ons/webextensions/manifest.json/content_scripts,null
 mozilla/add-ons/webextensions/manifest.json/content_security_policy,null
+mozilla/add-ons/webextensions/manifest.json/dark_theme,null
 mozilla/add-ons/webextensions/manifest.json/declarative_net_request,null
 mozilla/add-ons/webextensions/manifest.json/default_locale,null
 mozilla/add-ons/webextensions/manifest.json/description,null
@@ -11453,7 +11454,7 @@ web/css/reference/values/type,0
 web/css/reference/values/unset,2
 web/css/reference/values/url_function,1
 web/css/reference/values/url_value,3
-web/css/reference/values/var,0
+web/css/reference/values/var,1
 web/css/reference/webkit_extensions,null
 web/css/tutorials,7
 web/html,0
@@ -11529,7 +11530,7 @@ web/html/reference/elements/big,3
 web/html/reference/elements/blockquote,0
 web/html/reference/elements/body,0
 web/html/reference/elements/br,2
-web/html/reference/elements/button,11
+web/html/reference/elements/button,0
 web/html/reference/elements/canvas,0
 web/html/reference/elements/caption,9
 web/html/reference/elements/center,4
@@ -11543,7 +11544,7 @@ web/html/reference/elements/dd,4
 web/html/reference/elements/del,5
 web/html/reference/elements/details,1
 web/html/reference/elements/dfn,3
-web/html/reference/elements/dialog,10
+web/html/reference/elements/dialog,0
 web/html/reference/elements/dir,5
 web/html/reference/elements/div,2
 web/html/reference/elements/dl,1
@@ -11576,7 +11577,7 @@ web/html/reference/elements/input/color,12
 web/html/reference/elements/input/date,8
 web/html/reference/elements/input/datetime-local,5
 web/html/reference/elements/input/email,6
-web/html/reference/elements/input/file,10
+web/html/reference/elements/input/file,0
 web/html/reference/elements/input/hidden,3
 web/html/reference/elements/input/image,5
 web/html/reference/elements/input/month,4
@@ -11688,7 +11689,7 @@ web/html/reference/global_attributes/enterkeyhint,1
 web/html/reference/global_attributes/exportparts,3
 web/html/reference/global_attributes/hidden,3
 web/html/reference/global_attributes/id,4
-web/html/reference/global_attributes/inert,6
+web/html/reference/global_attributes/inert,0
 web/html/reference/global_attributes/inputmode,1
 web/html/reference/global_attributes/is,2
 web/html/reference/global_attributes/itemid,1
@@ -13573,7 +13574,7 @@ web/progressive_web_apps/manifest/reference/theme_color,4
 web/progressive_web_apps/reference,1
 web/progressive_web_apps/tutorials,3
 web/progressive_web_apps/tutorials/cycletracker,2
-web/progressive_web_apps/tutorials/cycletracker/html_and_css,9
+web/progressive_web_apps/tutorials/cycletracker/html_and_css,10
 web/progressive_web_apps/tutorials/cycletracker/javascript_functionality,3
 web/progressive_web_apps/tutorials/cycletracker/manifest_file,null
 web/progressive_web_apps/tutorials/cycletracker/secure_connection,null

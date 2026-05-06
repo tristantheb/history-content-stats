@@ -1820,7 +1820,7 @@ mozilla/add-ons/webextensions/implement_a_settings_page,673a473ab4b40c5f6787b2d3
 mozilla/add-ons/webextensions/interact_with_the_clipboard,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/intercept_http_requests,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/internationalization,32fb8af49e13e90ffd14e16972f499d440962ac1,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json,673a473ab4b40c5f6787b2d3438370269fff31c7,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json,ee9431bdd896f41c2860ef340f01554c75fd7f29,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/action,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/author,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/background,7615562a3689a3e23a2b6b623597f4391740a53e,Mozilla|Firefox Add-ons
@@ -1831,6 +1831,7 @@ mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,09109b6f9444d22
 mozilla/add-ons/webextensions/manifest.json/commands,ceaac5d55bef85edef9a4a716e6bd6ca3d3ec9c1,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/content_scripts,01768f6dcc74acdbd32d2e91512939003b86ac6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/content_security_policy,64969748897516212b7585b8dbc8f9f1a9bbb242,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/dark_theme,ee9431bdd896f41c2860ef340f01554c75fd7f29,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/declarative_net_request,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/default_locale,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/description,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1856,7 +1857,7 @@ mozilla/add-ons/webextensions/manifest.json/protocol_handlers,09109b6f9444d22215
 mozilla/add-ons/webextensions/manifest.json/short_name,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/storage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/theme,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/theme,ee9431bdd896f41c2860ef340f01554c75fd7f29,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/theme_experiment,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/user_scripts,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/version,9a1a8665d37c3b75f9d9a545c4c2407296615a41,Mozilla|Firefox Add-ons
@@ -1957,7 +1958,7 @@ mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Fi
 mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,a7944ceebf276439c0a6a1c134003c4a919f7279,Mozilla|Firefox|Versions
-mozilla/firefox/releases/151,63d3bd949674e905662a171317506f3ee8566b25,Mozilla|Firefox|Versions
+mozilla/firefox/releases/151,8504c925055b30ac19e8bde1c1f5ad6656f74887,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -2043,7 +2044,7 @@ mozilla/firefox/releases/64,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Fir
 mozilla/firefox/releases/65,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox|Versions
 mozilla/firefox/releases/66,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/67,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Mozilla|Firefox|Versions
-mozilla/firefox/releases/68,9be502ee0f8b030908e59d30884190281acb8054,Mozilla|Firefox|Versions
+mozilla/firefox/releases/68,ee9431bdd896f41c2860ef340f01554c75fd7f29,Mozilla|Firefox|Versions
 mozilla/firefox/releases/69,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Mozilla|Firefox|Versions
 mozilla/firefox/releases/7,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
 mozilla/firefox/releases/7/updating_extensions,2591a9b59de88401a2ef0fb7d0b8d0281e3f5376,Mozilla|Firefox|Versions
@@ -11453,7 +11454,7 @@ web/css/reference/values/type,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Value
 web/css/reference/values/unset,0aa8517faf9d7d15c745ac94db7014d3a2d2085f,CSS|Values
 web/css/reference/values/url_function,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/url_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/var,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/var,f551881c1f8f168c5a6e7ac5c7dbc15474b9c642,CSS|Values
 web/css/reference/webkit_extensions,0d155984425e8964c889efb63ec39593e11bbc14,CSS
 web/css/tutorials,33094d735e90b4dcae5733331b79c51fee997410,CSS|Tutorials
 web/html,d1f3f179175c80c18b1b78ba0df0ea7d15ca32cc,HTML
@@ -13573,11 +13574,11 @@ web/progressive_web_apps/manifest/reference/theme_color,1351f23f494656e58195ab8e
 web/progressive_web_apps/reference,628b29f53d15f203c4a6b33c1d0303f864f6af63,PWAs
 web/progressive_web_apps/tutorials,81715a83bdb5d71cdceaf32d1e40a3edfc986a12,PWAs|Tutorials
 web/progressive_web_apps/tutorials/cycletracker,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,PWAs|Tutorials
-web/progressive_web_apps/tutorials/cycletracker/html_and_css,d64e1ee3cdbe602324fce3f7320d026f58186715,PWAs|Tutorials
+web/progressive_web_apps/tutorials/cycletracker/html_and_css,57d4a3ab62517528c9642489e9dbdbec3e9c319e,PWAs|Tutorials
 web/progressive_web_apps/tutorials/cycletracker/javascript_functionality,4a0413ef319179b7d0d833c42a156629544c8248,PWAs|Tutorials
-web/progressive_web_apps/tutorials/cycletracker/manifest_file,1351f23f494656e58195ab8e186cd8946e90adcf,PWAs|Tutorials
+web/progressive_web_apps/tutorials/cycletracker/manifest_file,57d4a3ab62517528c9642489e9dbdbec3e9c319e,PWAs|Tutorials
 web/progressive_web_apps/tutorials/cycletracker/secure_connection,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,PWAs|Tutorials
-web/progressive_web_apps/tutorials/cycletracker/service_workers,06628bbbc0f0ef402932cbc8064fb6258b4879fe,PWAs|Tutorials
+web/progressive_web_apps/tutorials/cycletracker/service_workers,57d4a3ab62517528c9642489e9dbdbec3e9c319e,PWAs|Tutorials
 web/progressive_web_apps/tutorials/js13kgames,81715a83bdb5d71cdceaf32d1e40a3edfc986a12,PWAs|Tutorials
 web/progressive_web_apps/tutorials/js13kgames/app_structure,0c81cbce5f95a0be935724bcd936f5592774eb3a,PWAs|Tutorials
 web/progressive_web_apps/tutorials/js13kgames/installable_pwas,628b29f53d15f203c4a6b33c1d0303f864f6af63,PWAs|Tutorials

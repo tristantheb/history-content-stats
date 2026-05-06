@@ -1831,6 +1831,7 @@ mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,null
 mozilla/add-ons/webextensions/manifest.json/commands,null
 mozilla/add-ons/webextensions/manifest.json/content_scripts,null
 mozilla/add-ons/webextensions/manifest.json/content_security_policy,null
+mozilla/add-ons/webextensions/manifest.json/dark_theme,null
 mozilla/add-ons/webextensions/manifest.json/declarative_net_request,null
 mozilla/add-ons/webextensions/manifest.json/default_locale,null
 mozilla/add-ons/webextensions/manifest.json/description,2
