@@ -1103,7 +1103,7 @@ mdn/writing_guidelines/page_structures/live_samples,2
 mdn/writing_guidelines/page_structures/macros,3
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,10
 mdn/writing_guidelines/page_structures/macros/other,4
-mdn/writing_guidelines/page_structures/page_types,23
+mdn/writing_guidelines/page_structures/page_types,0
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,17
 mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,18
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,17
@@ -1116,7 +1116,7 @@ mdn/writing_guidelines/page_structures/page_types/css_module_page_template,2
 mdn/writing_guidelines/page_structures/page_types/css_property_page_template,14
 mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,0
 mdn/writing_guidelines/page_structures/page_types/glossary_page_template,3
-mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,null
+mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,0
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,15
 mdn/writing_guidelines/page_structures/page_types/page_type_key,1
@@ -1893,7 +1893,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,null
-mozilla/firefox/experimental_features,26
+mozilla/firefox/experimental_features,2
 mozilla/firefox/releases,null
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -1931,7 +1931,7 @@ mozilla/firefox/releases/124,5
 mozilla/firefox/releases/125,17
 mozilla/firefox/releases/126,13
 mozilla/firefox/releases/127,17
-mozilla/firefox/releases/128,26
+mozilla/firefox/releases/128,0
 mozilla/firefox/releases/129,8
 mozilla/firefox/releases/13,null
 mozilla/firefox/releases/130,11
@@ -2024,13 +2024,13 @@ mozilla/firefox/releases/49,0
 mozilla/firefox/releases/5,0
 mozilla/firefox/releases/5/updating_add-ons,null
 mozilla/firefox/releases/50,0
-mozilla/firefox/releases/51,26
+mozilla/firefox/releases/51,0
 mozilla/firefox/releases/52,1
 mozilla/firefox/releases/53,0
 mozilla/firefox/releases/54,null
 mozilla/firefox/releases/55,null
 mozilla/firefox/releases/56,21
-mozilla/firefox/releases/57,26
+mozilla/firefox/releases/57,0
 mozilla/firefox/releases/58,null
 mozilla/firefox/releases/59,23
 mozilla/firefox/releases/6,0
@@ -10568,7 +10568,7 @@ web/css/reference/properties/-webkit-mask-position-y,null
 web/css/reference/properties/-webkit-mask-repeat-x,null
 web/css/reference/properties/-webkit-mask-repeat-y,null
 web/css/reference/properties/-webkit-tap-highlight-color,0
-web/css/reference/properties/-webkit-text-fill-color,null
+web/css/reference/properties/-webkit-text-fill-color,0
 web/css/reference/properties/-webkit-text-security,null
 web/css/reference/properties/-webkit-text-stroke,1
 web/css/reference/properties/-webkit-text-stroke-color,null
@@ -10681,7 +10681,7 @@ web/css/reference/properties/border-top-style,1
 web/css/reference/properties/border-top-width,2
 web/css/reference/properties/border-width,2
 web/css/reference/properties/bottom,1
-web/css/reference/properties/box-align,3
+web/css/reference/properties/box-align,0
 web/css/reference/properties/box-decoration-break,1
 web/css/reference/properties/box-direction,null
 web/css/reference/properties/box-flex,null
@@ -10803,7 +10803,7 @@ web/css/reference/properties/font-variant-numeric,1
 web/css/reference/properties/font-variant-position,1
 web/css/reference/properties/font-variation-settings,1
 web/css/reference/properties/font-weight,1
-web/css/reference/properties/font-width,null
+web/css/reference/properties/font-width,0
 web/css/reference/properties/forced-color-adjust,1
 web/css/reference/properties/gap,2
 web/css/reference/properties/grid,2
@@ -10830,7 +10830,7 @@ web/css/reference/properties/image-orientation,1
 web/css/reference/properties/image-rendering,1
 web/css/reference/properties/image-resolution,2
 web/css/reference/properties/initial-letter,1
-web/css/reference/properties/inline-size,1
+web/css/reference/properties/inline-size,0
 web/css/reference/properties/inset,2
 web/css/reference/properties/inset-block,2
 web/css/reference/properties/inset-block-end,2
@@ -10946,9 +10946,9 @@ web/css/reference/properties/padding-left,1
 web/css/reference/properties/padding-right,1
 web/css/reference/properties/padding-top,1
 web/css/reference/properties/page,1
-web/css/reference/properties/page-break-after,null
-web/css/reference/properties/page-break-before,null
-web/css/reference/properties/page-break-inside,null
+web/css/reference/properties/page-break-after,0
+web/css/reference/properties/page-break-before,0
+web/css/reference/properties/page-break-inside,0
 web/css/reference/properties/paint-order,null
 web/css/reference/properties/perspective,1
 web/css/reference/properties/perspective-origin,1
@@ -11020,7 +11020,7 @@ web/css/reference/properties/shape-rendering,null
 web/css/reference/properties/speak-as,null
 web/css/reference/properties/stop-color,null
 web/css/reference/properties/stop-opacity,null
-web/css/reference/properties/stroke,5
+web/css/reference/properties/stroke,0
 web/css/reference/properties/stroke-dasharray,2
 web/css/reference/properties/stroke-dashoffset,2
 web/css/reference/properties/stroke-linecap,2
@@ -11078,7 +11078,7 @@ web/css/reference/properties/transition-duration,1
 web/css/reference/properties/transition-property,1
 web/css/reference/properties/transition-timing-function,1
 web/css/reference/properties/translate,1
-web/css/reference/properties/unicode-bidi,1
+web/css/reference/properties/unicode-bidi,0
 web/css/reference/properties/user-modify,1
 web/css/reference/properties/user-select,1
 web/css/reference/properties/vector-effect,null
@@ -11708,7 +11708,7 @@ web/html/reference/global_attributes/title,3
 web/html/reference/global_attributes/translate,1
 web/html/reference/global_attributes/virtualkeyboardpolicy,1
 web/html/reference/global_attributes/writingsuggestions,1
-web/http,15
+web/http,0
 web/http/guides,0
 web/http/guides/authentication,0
 web/http/guides/browser_detection_using_the_user_agent,5
@@ -13599,7 +13599,7 @@ web/security/attacks/xs-leaks,null
 web/security/attacks/xss,3
 web/security/authentication,0
 web/security/authentication/federated_identity,null
-web/security/authentication/otp,null
+web/security/authentication/otp,0
 web/security/authentication/passkeys,null
 web/security/authentication/passwords,3
 web/security/authentication/session_management,null

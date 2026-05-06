@@ -597,7 +597,7 @@ glossary/string,2
 glossary/stringifier,1
 glossary/stun,1
 glossary/style_origin,2
-glossary/style_sheet,null
+glossary/style_sheet,0
 glossary/submit_button,4
 glossary/svg,3
 glossary/svn,1
@@ -6151,7 +6151,7 @@ web/api/mouseevent/screenx,null
 web/api/mouseevent/screeny,null
 web/api/mouseevent/shiftkey,1
 web/api/mouseevent/webkit_force_at_force_mouse_down_static,null
-web/api/mouseevent/webkit_force_at_mouse_down_static,null
+web/api/mouseevent/webkit_force_at_mouse_down_static,0
 web/api/mouseevent/webkitforce,0
 web/api/mouseevent/x,0
 web/api/mouseevent/y,1
@@ -6622,7 +6622,7 @@ web/api/paymentresponse/methodname,null
 web/api/paymentresponse/payerdetailchange_event,null
 web/api/paymentresponse/payeremail,null
 web/api/paymentresponse/payername,0
-web/api/paymentresponse/payerphone,null
+web/api/paymentresponse/payerphone,0
 web/api/paymentresponse/requestid,null
 web/api/paymentresponse/retry,null
 web/api/paymentresponse/shippingaddress,null
@@ -7257,7 +7257,7 @@ web/api/rtcicecandidatepairstats,null
 web/api/rtcicecandidatepairstats/availableincomingbitrate,null
 web/api/rtcicecandidatepairstats/availableoutgoingbitrate,null
 web/api/rtcicecandidatepairstats/bytesdiscardedonsend,0
-web/api/rtcicecandidatepairstats/bytesreceived,null
+web/api/rtcicecandidatepairstats/bytesreceived,0
 web/api/rtcicecandidatepairstats/bytessent,null
 web/api/rtcicecandidatepairstats/consentrequestssent,null
 web/api/rtcicecandidatepairstats/currentroundtriptime,0
