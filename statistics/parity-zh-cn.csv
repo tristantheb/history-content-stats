@@ -6623,7 +6623,7 @@ web/api/paymentresponse/payerdetailchange_event,null
 web/api/paymentresponse/payeremail,null
 web/api/paymentresponse/payername,0
 web/api/paymentresponse/payerphone,0
-web/api/paymentresponse/requestid,null
+web/api/paymentresponse/requestid,0
 web/api/paymentresponse/retry,null
 web/api/paymentresponse/shippingaddress,null
 web/api/paymentresponse/shippingoption,null
@@ -7341,7 +7341,7 @@ web/api/rtcinboundrtpstreamstats/jitterbufferdelay,null
 web/api/rtcinboundrtpstreamstats/jitterbufferemittedcount,null
 web/api/rtcinboundrtpstreamstats/jitterbufferminimumdelay,null
 web/api/rtcinboundrtpstreamstats/jitterbuffertargetdelay,null
-web/api/rtcinboundrtpstreamstats/keyframesdecoded,null
+web/api/rtcinboundrtpstreamstats/keyframesdecoded,0
 web/api/rtcinboundrtpstreamstats/kind,null
 web/api/rtcinboundrtpstreamstats/lastpacketreceivedtimestamp,null
 web/api/rtcinboundrtpstreamstats/mid,null
