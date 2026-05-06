@@ -539,6 +539,7 @@ glossary/style_sheet,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 glossary/submit_button,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/svg,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/svn,ada5fa5ef15eadd44b549ecf906423b4a2092f34
+glossary/symbol,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/symmetric-key_cryptography,no_hash_commit
 glossary/synchronous,no_hash_commit
 glossary/syntax,no_hash_commit
@@ -7853,7 +7854,7 @@ web/html/reference/elements/big,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/blockquote,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/body,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/br,0754cd805a8e010d2e3a2a065f634a3bcf358252
-web/html/reference/elements/button,f29e825161ee6776a395cd846f8570686f784341
+web/html/reference/elements/button,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/canvas,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/caption,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/center,6f886b9147b7f62bacfa1e740a3ea288168a58aa
@@ -7867,7 +7868,7 @@ web/html/reference/elements/dd,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/del,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/details,7615562a3689a3e23a2b6b623597f4391740a53e
 web/html/reference/elements/dfn,e04d8d2766c468f149445c0bf438d09f9b2d188c
-web/html/reference/elements/dialog,f2d281d86396bcd2dcecfdabd5837b1590132aa6
+web/html/reference/elements/dialog,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/dir,1f1418448e3b7f1d987b16db886008e5c5cc7fa1
 web/html/reference/elements/div,a1765c2cad20118be0dad322d3548908787b5791
 web/html/reference/elements/dl,0754cd805a8e010d2e3a2a065f634a3bcf358252
@@ -7900,7 +7901,7 @@ web/html/reference/elements/input/color,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/input/date,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/input/datetime-local,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/input/email,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
-web/html/reference/elements/input/file,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
+web/html/reference/elements/input/file,30221c85132f8cb77ca73fbb033100cc2f10bba7
 web/html/reference/elements/input/hidden,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/input/image,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/input,599ae8b7ad414e91df473d91983f4ffc5cafabb3
@@ -8013,7 +8014,7 @@ web/html/reference/global_attributes/exportparts,0754cd805a8e010d2e3a2a065f634a3
 web/html/reference/global_attributes/hidden,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/global_attributes/id,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/global_attributes,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0
-web/html/reference/global_attributes/inert,0754cd805a8e010d2e3a2a065f634a3bcf358252
+web/html/reference/global_attributes/inert,9c70c6ff09189cad43d40e241fbd2fe67349c3c2
 web/html/reference/global_attributes/inputmode,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/global_attributes/is,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/global_attributes/itemid,0754cd805a8e010d2e3a2a065f634a3bcf358252
