@@ -2734,7 +2734,7 @@ web/api/event/originaltarget,c20c12fab32381b983b4148d712fda227d34e2bd
 web/api/event/preventdefault,no_hash_commit
 web/api/event/returnvalue,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c
 web/api/event/srcelement,15f0b5552bc9c2ea1f32b0cd5ee840a7d43c887e
-web/api/event/stopimmediatepropagation,no_hash_commit
+web/api/event/stopimmediatepropagation,bc9f7bec1ab48f29d241e38a9f1598f783f6b60a
 web/api/event/stoppropagation,no_hash_commit
 web/api/event/target,43bd906206282421a50dcf1347dcfa58ef910c55
 web/api/event/timestamp,9dd97c02a28cc9027f9fd0a28e2e1b4b09405181
@@ -4678,7 +4678,7 @@ web/api/websocket/close,no_hash_commit
 web/api/websocket/close_event,no_hash_commit
 web/api/websocket/error_event,no_hash_commit
 web/api/websocket/extensions,no_hash_commit
-web/api/websocket,no_hash_commit
+web/api/websocket,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websocket/message_event,no_hash_commit
 web/api/websocket/open_event,no_hash_commit
 web/api/websocket/protocol,no_hash_commit
