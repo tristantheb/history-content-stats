@@ -1727,7 +1727,7 @@ mozilla/add-ons/webextensions/api/userscripts/getworldconfigurations,0
 mozilla/add-ons/webextensions/api/userscripts/register,0
 mozilla/add-ons/webextensions/api/userscripts/registereduserscript,0
 mozilla/add-ons/webextensions/api/userscripts/resetworldconfiguration,0
-mozilla/add-ons/webextensions/api/userscripts/scriptsource,1
+mozilla/add-ons/webextensions/api/userscripts/scriptsource,0
 mozilla/add-ons/webextensions/api/userscripts/unregister,0
 mozilla/add-ons/webextensions/api/userscripts/update,0
 mozilla/add-ons/webextensions/api/userscripts/userscriptfilter,0
