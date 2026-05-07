@@ -4106,7 +4106,7 @@ web/api/event/originaltarget,0
 web/api/event/preventdefault,null
 web/api/event/returnvalue,0
 web/api/event/srcelement,0
-web/api/event/stopimmediatepropagation,null
+web/api/event/stopimmediatepropagation,0
 web/api/event/stoppropagation,null
 web/api/event/target,2
 web/api/event/timestamp,2
@@ -9552,7 +9552,7 @@ web/api/webrtc_api/simple_rtcdatachannel_sample,null
 web/api/webrtc_api/using_data_channels,5
 web/api/webrtc_api/using_dtmf,5
 web/api/webrtc_api/using_encoded_transforms,7
-web/api/websocket,null
+web/api/websocket,0
 web/api/websocket/binarytype,0
 web/api/websocket/bufferedamount,0
 web/api/websocket/close,null
