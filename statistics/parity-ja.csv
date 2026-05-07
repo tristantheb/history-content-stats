@@ -100,7 +100,7 @@ glossary/base64,1
 glossary/baseline,3
 glossary/baseline/compatibility,6
 glossary/baseline/typography,2
-glossary/bcp_47_language_tag,null
+glossary/bcp_47_language_tag,0
 glossary/beacon,2
 glossary/bezier_curve,4
 glossary/bfcache,null
@@ -511,7 +511,7 @@ glossary/replay_attack,0
 glossary/repo,2
 glossary/reporting_directive,null
 glossary/representation_header,null
-glossary/request_header,null
+glossary/request_header,0
 glossary/resource_timing,2
 glossary/response_header,null
 glossary/responsive_web_design,null
@@ -1129,8 +1129,8 @@ mdn/writing_guidelines/what_we_write,2
 mdn/writing_guidelines/writing_style_guide,2
 mozilla,null
 mozilla/add-ons,null
-mozilla/add-ons/contact_us,null
-mozilla/add-ons/webextensions,null
+mozilla/add-ons/contact_us,0
+mozilla/add-ons/webextensions,0
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,null
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,9
 mozilla/add-ons/webextensions/api,null
@@ -2001,7 +2001,7 @@ mozilla/firefox/releases/3/wai_aria_live_regions_api_support,null
 mozilla/firefox/releases/3/xul_improvements_in_firefox_3,null
 mozilla/firefox/releases/30,null
 mozilla/firefox/releases/31,18
-mozilla/firefox/releases/32,22
+mozilla/firefox/releases/32,0
 mozilla/firefox/releases/33,18
 mozilla/firefox/releases/34,null
 mozilla/firefox/releases/35,0
@@ -2033,7 +2033,7 @@ mozilla/firefox/releases/55,null
 mozilla/firefox/releases/56,21
 mozilla/firefox/releases/57,0
 mozilla/firefox/releases/58,null
-mozilla/firefox/releases/59,23
+mozilla/firefox/releases/59,0
 mozilla/firefox/releases/6,0
 mozilla/firefox/releases/6/updating_add-ons,null
 mozilla/firefox/releases/60,19
@@ -7971,7 +7971,7 @@ web/api/storage/key,1
 web/api/storage/length,1
 web/api/storage/removeitem,1
 web/api/storage/setitem,3
-web/api/storage_access_api,null
+web/api/storage_access_api,0
 web/api/storage_access_api/related_website_sets,null
 web/api/storage_access_api/using,null
 web/api/storage_api,null
@@ -9217,7 +9217,7 @@ web/api/web_animations_api/keyframe_formats,12
 web/api/web_animations_api/tips,null
 web/api/web_animations_api/using_the_web_animations_api,15
 web/api/web_animations_api/web_animations_api_concepts,2
-web/api/web_audio_api,14
+web/api/web_audio_api,15
 web/api/web_audio_api/advanced_techniques,7
 web/api/web_audio_api/basic_concepts_behind_web_audio_api,null
 web/api/web_audio_api/best_practices,null
@@ -9237,7 +9237,7 @@ web/api/web_components,1
 web/api/web_components/using_custom_elements,5
 web/api/web_components/using_shadow_dom,3
 web/api/web_components/using_templates_and_slots,3
-web/api/web_crypto_api,null
+web/api/web_crypto_api,0
 web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,13
 web/api/web_locks_api,5
 web/api/web_midi_api,5
@@ -9646,12 +9646,12 @@ web/api/wheelevent/deltaz,2
 web/api/wheelevent/wheelevent,4
 web/api/window,10
 web/api/window/afterprint_event,null
-web/api/window/alert,null
+web/api/window/alert,0
 web/api/window/appinstalled_event,6
 web/api/window/atob,0
 web/api/window/beforeinstallprompt_event,null
 web/api/window/beforeprint_event,null
-web/api/window/beforeunload_event,null
+web/api/window/beforeunload_event,0
 web/api/window/blur,null
 web/api/window/blur_event,null
 web/api/window/btoa,0
@@ -9747,7 +9747,7 @@ web/api/window/queuemicrotask,0
 web/api/window/rejectionhandled_event,0
 web/api/window/releaseevents,null
 web/api/window/reporterror,1
-web/api/window/requestanimationframe,null
+web/api/window/requestanimationframe,0
 web/api/window/requestfilesystem,0
 web/api/window/requestidlecallback,0
 web/api/window/resize_event,null
@@ -11573,7 +11573,7 @@ web/html/reference/elements/img,0
 web/html/reference/elements/input,0
 web/html/reference/elements/input/button,4
 web/html/reference/elements/input/checkbox,8
-web/html/reference/elements/input/color,12
+web/html/reference/elements/input/color,0
 web/html/reference/elements/input/date,8
 web/html/reference/elements/input/datetime-local,5
 web/html/reference/elements/input/email,6
@@ -11661,7 +11661,7 @@ web/html/reference/elements/td,0
 web/html/reference/elements/template,2
 web/html/reference/elements/textarea,1
 web/html/reference/elements/tfoot,8
-web/html/reference/elements/th,13
+web/html/reference/elements/th,0
 web/html/reference/elements/thead,9
 web/html/reference/elements/time,4
 web/html/reference/elements/title,0
@@ -11867,7 +11867,7 @@ web/http/reference/headers/no-vary-search,null
 web/http/reference/headers/observe-browsing-topics,null
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,null
-web/http/reference/headers/permissions-policy,22
+web/http/reference/headers/permissions-policy,0
 web/http/reference/headers/permissions-policy-report-only,null
 web/http/reference/headers/permissions-policy/accelerometer,2
 web/http/reference/headers/permissions-policy/ambient-light-sensor,2
@@ -13487,7 +13487,7 @@ web/media/guides/formats/audio_concepts,null
 web/media/guides/formats/codecs_parameter,null
 web/media/guides/formats/configuring_servers_for_ogg_media,null
 web/media/guides/formats/containers,8
-web/media/guides/formats/image_types,null
+web/media/guides/formats/image_types,0
 web/media/guides/formats/support_issues,null
 web/media/guides/formats/video_codecs,11
 web/media/guides/formats/video_concepts,null
