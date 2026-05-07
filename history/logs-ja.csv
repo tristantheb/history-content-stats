@@ -70,6 +70,7 @@ glossary/base64,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/baseline/compatibility,d14b5a927958ec1ab9737f2f9fce0761a4c95c75
 glossary/baseline,ea3a289af7cd97f1b5952ddc7fe2704feab105c9
 glossary/baseline/typography,243e5eabfe95971f2850fcfdf2a7b2f210c85532
+glossary/bcp_47_language_tag,e7bc0ed5466f5834641d75d416fa81886cf6b37e
 glossary/beacon,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/bezier_curve,a1596fe065b9c726f9412999d2218b7b6e256e30
 glossary/bfcache,no_hash_commit
@@ -455,7 +456,7 @@ glossary/replay_attack,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0
 glossary/repo,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/reporting_directive,no_hash_commit
 glossary/representation_header,no_hash_commit
-glossary/request_header,no_hash_commit
+glossary/request_header,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/resource_timing,d267a8cb862c20277f81bbc223221b36b0c613e6
 glossary/response_header,no_hash_commit
 glossary/responsive_web_design,no_hash_commit
@@ -1010,7 +1011,7 @@ mdn/writing_guidelines/page_structures/specification_tables,719645a32546d9e514ac
 mdn/writing_guidelines/page_structures/syntax_sections,14acf1aa7885157debdf1b6111f4bd10c064ec60
 mdn/writing_guidelines/what_we_write,07d0f18e4b2ad43185bcc98ce99b7080c6411b2a
 mdn/writing_guidelines/writing_style_guide,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d
-mozilla/add-ons/contact_us,no_hash_commit
+mozilla/add-ons/contact_us,0c81cbce5f95a0be935724bcd936f5592774eb3a
 mozilla/add-ons,no_hash_commit
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,no_hash_commit
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,cd0ab2ab5c80fa7101d531e4e55a64a6d5a4889c
@@ -1148,7 +1149,7 @@ mozilla/add-ons/webextensions/developing_webextensions_for_thunderbird,no_hash_c
 mozilla/add-ons/webextensions/examples,no_hash_commit
 mozilla/add-ons/webextensions/extending_the_developer_tools,no_hash_commit
 mozilla/add-ons/webextensions/implement_a_settings_page,no_hash_commit
-mozilla/add-ons/webextensions,no_hash_commit
+mozilla/add-ons/webextensions,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/interact_with_the_clipboard,1ee49b729dc4cd02b862d910f279861f4b30e704
 mozilla/add-ons/webextensions/intercept_http_requests,dd08ec8cf78926a7854d8f5f7793bf7ae199484e
 mozilla/add-ons/webextensions/internationalization,e0de864abf4c85888c0a790058e0d6f46462ca3a
@@ -1296,7 +1297,7 @@ mozilla/firefox/releases/3/updating_web_applications,a35e5b74ecbe13a768edf765a46
 mozilla/firefox/releases/3/wai_aria_live_regions_api_support,no_hash_commit
 mozilla/firefox/releases/30,no_hash_commit
 mozilla/firefox/releases/31,1ee49b729dc4cd02b862d910f279861f4b30e704
-mozilla/firefox/releases/32,78ef1310a76394c4e0bdce456982abc3856790c0
+mozilla/firefox/releases/32,c13266140a9b05549d7c8616973cb17d9357467b
 mozilla/firefox/releases/33,78ef1310a76394c4e0bdce456982abc3856790c0
 mozilla/firefox/releases/34,no_hash_commit
 mozilla/firefox/releases/35,83f4e64da466670c3700110da364546253eae127
@@ -1326,7 +1327,7 @@ mozilla/firefox/releases/55,no_hash_commit
 mozilla/firefox/releases/56,78ef1310a76394c4e0bdce456982abc3856790c0
 mozilla/firefox/releases/57,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/58,no_hash_commit
-mozilla/firefox/releases/59,78ef1310a76394c4e0bdce456982abc3856790c0
+mozilla/firefox/releases/59,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 mozilla/firefox/releases/6,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 mozilla/firefox/releases/60,78ef1310a76394c4e0bdce456982abc3856790c0
 mozilla/firefox/releases/61,no_hash_commit
@@ -5334,7 +5335,7 @@ web/api/storage/key,101ffc9479db6aaa530f2aac3992734dd97d1b86
 web/api/storage/length,101ffc9479db6aaa530f2aac3992734dd97d1b86
 web/api/storage/removeitem,101ffc9479db6aaa530f2aac3992734dd97d1b86
 web/api/storage/setitem,4e414137707f4734a1ac972491519320c4edf82c
-web/api/storage_access_api,no_hash_commit
+web/api/storage_access_api,1296e665fd82a80bb17123725dcbf1f08b89ab4e
 web/api/storage_access_api/using,no_hash_commit
 web/api/storage_api,no_hash_commit
 web/api/storage_api/storage_quotas_and_eviction_criteria,886f2641ae90a70858c5e7d0d20959c70ee44d9d
@@ -6131,7 +6132,7 @@ web/api/web_components,56f5609d323467cd08eeaddc57e4490a02be1889
 web/api/web_components/using_custom_elements,35f4aaf2d213764f21e0b3efd7ff132a137afb80
 web/api/web_components/using_shadow_dom,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/api/web_components/using_templates_and_slots,886f2641ae90a70858c5e7d0d20959c70ee44d9d
-web/api/web_crypto_api,no_hash_commit
+web/api/web_crypto_api,f430d277573ba0b06b1ac33ae8017fd90f170bef
 web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,e259c14eb7c72abb6007478aadd52aa25c7976d8
 web/api/web_locks_api,acfe8c9f1f4145f77653a2bc64a9744b001358dc
 web/api/web_midi_api,acfe8c9f1f4145f77653a2bc64a9744b001358dc
@@ -6264,11 +6265,11 @@ web/api/wheelevent/deltaz,eda49877b9078b24cd18f794470e5e225add9b94
 web/api/wheelevent,4f0f7386262363103a3e9cf482bb348d8570b331
 web/api/wheelevent/wheelevent,eda49877b9078b24cd18f794470e5e225add9b94
 web/api/window/afterprint_event,no_hash_commit
-web/api/window/alert,no_hash_commit
+web/api/window/alert,e3faa375b0179de77a5eff00074e3d168a0a904c
 web/api/window/appinstalled_event,266a565a634d1218995379e54e74bf9cc9504d83
 web/api/window/atob,3e097148b4c6cb9c6d8824275599f855ca63827b
 web/api/window/beforeprint_event,no_hash_commit
-web/api/window/beforeunload_event,no_hash_commit
+web/api/window/beforeunload_event,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/window/blur,no_hash_commit
 web/api/window/blur_event,no_hash_commit
 web/api/window/btoa,3e097148b4c6cb9c6d8824275599f855ca63827b
@@ -6362,7 +6363,7 @@ web/api/window/queuemicrotask,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 web/api/window/rejectionhandled_event,2ccbd062264d0a2a34f185a3386cb272f42c50f5
 web/api/window/releaseevents,no_hash_commit
 web/api/window/reporterror,a44e9fc017ec15af0b8e0c0101ea895b9cb30522
-web/api/window/requestanimationframe,no_hash_commit
+web/api/window/requestanimationframe,90c1d8efd51c2f82d26e6b79e442f9dbcfafd048
 web/api/window/requestfilesystem,0916e1754652f3a7c663ef031faa26c98f492023
 web/api/window/requestidlecallback,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/window/resize_event,no_hash_commit
@@ -7897,7 +7898,7 @@ web/html/reference/elements/img,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements,fce59e0706ab0114d9968c23722dccfacaebf998
 web/html/reference/elements/input/button,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/input/checkbox,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
-web/html/reference/elements/input/color,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
+web/html/reference/elements/input/color,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/input/date,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/input/datetime-local,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/input/email,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
@@ -7986,7 +7987,7 @@ web/html/reference/elements/td,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/template,a9747e75d39c8a1f8fe756278563e0d909dad379
 web/html/reference/elements/textarea,f29e825161ee6776a395cd846f8570686f784341
 web/html/reference/elements/tfoot,942a529383ee7ee3996fb234187641c08935f3ff
-web/html/reference/elements/th,ade2af490b3f99f053a19a786584c64dcb4d67f9
+web/html/reference/elements/th,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/thead,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/time,c6894b701b2297a7523d07855b47605c06f29c91
 web/html/reference/elements/title,599ae8b7ad414e91df473d91983f4ffc5cafabb3
@@ -8190,7 +8191,7 @@ web/http/reference/headers/permissions-policy/gyroscope,4d929bb0a021c7130d5a71a4
 web/http/reference/headers/permissions-policy/hid,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/permissions-policy/identity-credentials-get,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/permissions-policy/idle-detection,4d929bb0a021c7130d5a71a4bf505bcb8070378d
-web/http/reference/headers/permissions-policy,31ba9f6da2dd1175250ece8d8d467d523e79b447
+web/http/reference/headers/permissions-policy,dd1e8282ab6621b62399d65cad46177d426d1d93
 web/http/reference/headers/permissions-policy/local-fonts,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/permissions-policy/magnetometer,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/permissions-policy/microphone,4d929bb0a021c7130d5a71a4bf505bcb8070378d
@@ -9387,7 +9388,7 @@ web/media/guides/audio_and_video_manipulation,no_hash_commit
 web/media/guides/autoplay,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/media/guides/formats/configuring_servers_for_ogg_media,no_hash_commit
 web/media/guides/formats/containers,a03b4b0e9aaac7409ff1ce974ab1bf2f40c81e03
-web/media/guides/formats/image_types,no_hash_commit
+web/media/guides/formats/image_types,d559e66723de93ce6c59eb5d22a29afca7265c2a
 web/media/guides/formats,no_hash_commit
 web/media/guides/formats/video_codecs,bea339d321513fc6d66d95c8f0305b9387fa57bb
 web/media/guides/images,no_hash_commit
