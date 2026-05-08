@@ -3957,7 +3957,7 @@ web/api/element/removeattributenode,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web
 web/api/element/removeattributens,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/element/replacechildren,bd15d43260b7e72b1066c04d9d9f3b79129c619c,Web APIs
 web/api/element/replacewith,8374946642c18a9cc4bf510de767011124e832a2,Web APIs
-web/api/element/requestfullscreen,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
+web/api/element/requestfullscreen,0383405cdb7e96b2f572206c0f35d2076edee953,Web APIs
 web/api/element/requestpointerlock,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/element/role,0b9c68dc63f9c6803cced8d9a76c31012d87b530,Web APIs
 web/api/element/scroll,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
