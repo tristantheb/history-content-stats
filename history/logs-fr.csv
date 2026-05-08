@@ -5144,10 +5144,11 @@ web/css/reference/values/integer,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/length-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/length,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/line-style,c88e03530319b73272fd4f9a9f6ebe878f026004
+web/css/reference/values/log,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/max-content,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/values/max,no_hash_commit
+web/css/reference/values/max,6857a53b4ef756a062310b555e61f2ec722a2441
 web/css/reference/values/min-content,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/values/min,no_hash_commit
+web/css/reference/values/min,1131815f48d54465a99c1c5fd0e63e0d1f549caf
 web/css/reference/values/minmax,no_hash_commit
 web/css/reference/values/named-color,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/number,c88e03530319b73272fd4f9a9f6ebe878f026004

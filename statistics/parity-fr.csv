@@ -11387,10 +11387,10 @@ web/css/reference/values/integer,0
 web/css/reference/values/length,0
 web/css/reference/values/length-percentage,0
 web/css/reference/values/line-style,0
-web/css/reference/values/log,null
-web/css/reference/values/max,null
+web/css/reference/values/log,0
+web/css/reference/values/max,0
 web/css/reference/values/max-content,1
-web/css/reference/values/min,null
+web/css/reference/values/min,0
 web/css/reference/values/min-content,1
 web/css/reference/values/minmax,null
 web/css/reference/values/mod,null
