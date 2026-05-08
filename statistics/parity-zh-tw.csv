@@ -9255,6 +9255,9 @@ web/api/web_workers_api/structured_clone_algorithm,null
 web/api/web_workers_api/transferable_objects,null
 web/api/web_workers_api/using_web_workers,null
 web/api/webcodecs_api,null
+web/api/webcodecs_api/codec_selection,null
+web/api/webcodecs_api/using_the_webcodecs_api,null
+web/api/webcodecs_api/video_processing_concepts,null
 web/api/webgl2renderingcontext,null
 web/api/webgl2renderingcontext/beginquery,null
 web/api/webgl2renderingcontext/begintransformfeedback,null
