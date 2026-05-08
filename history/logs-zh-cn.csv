@@ -130,7 +130,7 @@ glossary/character_reference,ff1364561aea4e4841a6d5e116560cb168274811
 glossary/character_set,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/chrome,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/cia,ada5fa5ef15eadd44b549ecf906423b4a2092f34
-glossary/cipher,5b1eab9d32f4b769d1d78b87a1fec8aed084cf86
+glossary/cipher,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/cipher_suite,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/ciphertext,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/class,ada5fa5ef15eadd44b549ecf906423b4a2092f34
@@ -4086,6 +4086,7 @@ web/api/rtcdatachannelstats/type,7e6058c754c6d38bc15a16cf8e65f1e31139f05b
 web/api/rtcdtlstransport/icetransport,9f18116c362265a3dfb65185728548ec43cd12f4
 web/api/rtcdtmfsender/tonechange_event,no_hash_commit
 web/api/rtcencodedvideoframe/timestamp,3dd7df0af3b0ada1a7c5784cc2bc5448adcda8af
+web/api/rtcerror/sdplinenumber,ca5cf1046e4619808440e4505d9fa579a1309ead
 web/api/rtcicecandidate/address,592f6ec42e54981b6573b58ec0343c9aa8cbbda8
 web/api/rtcicecandidate/candidate,1a91b0b63f0cbaca9125bd48d4e5bc8afed2a7a3
 web/api/rtcicecandidate/foundation,82344461ebcbee0e79d7af1400b43d203e9d5d2c
@@ -4111,6 +4112,7 @@ web/api/rtcicecandidatepairstats/packetsreceived,0c81cbce5f95a0be935724bcd936f55
 web/api/rtcicecandidatepairstats/packetssent,0c81cbce5f95a0be935724bcd936f5592774eb3a
 web/api/rtcinboundrtpstreamstats/keyframesdecoded,9dd28ca3964213e0564c80db0a7c39d8ad73ed72
 web/api/rtcoutboundrtpstreamstats/bytessent,ae2ce98063b729ec0a21687642c0a4d06b8e7f69
+web/api/rtcoutboundrtpstreamstats/framewidth,ae2ce98063b729ec0a21687642c0a4d06b8e7f69
 web/api/rtcpeerconnection/addicecandidate,9f18116c362265a3dfb65185728548ec43cd12f4
 web/api/rtcpeerconnection/addstream_event,no_hash_commit
 web/api/rtcpeerconnection/addtrack,9f18116c362265a3dfb65185728548ec43cd12f4
@@ -5556,7 +5558,7 @@ web/css/reference/properties/visibility,no_hash_commit
 web/css/reference/properties/white-space,82877d5cf5a35e0a4d02b7c54aea0ce7d771d5cb
 web/css/reference/properties/widows,no_hash_commit
 web/css/reference/properties/width,no_hash_commit
-web/css/reference/properties/will-change,no_hash_commit
+web/css/reference/properties/will-change,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/word-break,no_hash_commit
 web/css/reference/properties/word-spacing,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/properties/writing-mode,no_hash_commit
@@ -6678,7 +6680,7 @@ web/javascript/reference/global_objects/map/foreach,no_hash_commit
 web/javascript/reference/global_objects/map/get,no_hash_commit
 web/javascript/reference/global_objects/map/groupby,no_hash_commit
 web/javascript/reference/global_objects/map/has,no_hash_commit
-web/javascript/reference/global_objects/map,no_hash_commit
+web/javascript/reference/global_objects/map,c5a0ee66baf779b702ffae6d964d1f365381767c
 web/javascript/reference/global_objects/map/keys,no_hash_commit
 web/javascript/reference/global_objects/map/map,no_hash_commit
 web/javascript/reference/global_objects/map/set,no_hash_commit
