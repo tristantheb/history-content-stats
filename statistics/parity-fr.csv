@@ -265,7 +265,7 @@ glossary/flex_container,0
 glossary/flex_item,0
 glossary/flexbox,0
 glossary/flow_relative_values,0
-glossary/forbidden_request_header,0
+glossary/forbidden_request_header,1
 glossary/forbidden_response_header_name,0
 glossary/fork,0
 glossary/fps,0
@@ -7828,7 +7828,7 @@ web/api/sharedstorageworkletglobalscope/sharedstorage,null
 web/api/sharedworker,null
 web/api/sharedworker/error_event,null
 web/api/sharedworker/port,5
-web/api/sharedworker/sharedworker,21
+web/api/sharedworker/sharedworker,22
 web/api/sharedworkerglobalscope,null
 web/api/sharedworkerglobalscope/close,null
 web/api/sharedworkerglobalscope/connect_event,null
@@ -9255,6 +9255,9 @@ web/api/web_workers_api/structured_clone_algorithm,null
 web/api/web_workers_api/transferable_objects,null
 web/api/web_workers_api/using_web_workers,null
 web/api/webcodecs_api,null
+web/api/webcodecs_api/codec_selection,null
+web/api/webcodecs_api/using_the_webcodecs_api,null
+web/api/webcodecs_api/video_processing_concepts,null
 web/api/webgl2renderingcontext,null
 web/api/webgl2renderingcontext/beginquery,null
 web/api/webgl2renderingcontext/begintransformfeedback,null

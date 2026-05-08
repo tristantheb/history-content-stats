@@ -65,7 +65,7 @@ games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,null
 games/tutorials/2d_breakout_game_pure_javascript/paddle_and_keyboard_controls,null
 games/tutorials/2d_breakout_game_pure_javascript/track_the_score_and_win,null
 games/tutorials/html5_gamedev_phaser_device_orientation,null
-glossary,null
+glossary,0
 glossary/abstraction,null
 glossary/accent,2
 glossary/accessibility,5
@@ -265,7 +265,7 @@ glossary/flex_container,3
 glossary/flex_item,3
 glossary/flexbox,3
 glossary/flow_relative_values,2
-glossary/forbidden_request_header,3
+glossary/forbidden_request_header,4
 glossary/forbidden_response_header_name,7
 glossary/fork,null
 glossary/fps,null
@@ -1941,7 +1941,7 @@ mozilla/firefox/releases/132,13
 mozilla/firefox/releases/133,11
 mozilla/firefox/releases/134,6
 mozilla/firefox/releases/135,9
-mozilla/firefox/releases/136,7
+mozilla/firefox/releases/136,8
 mozilla/firefox/releases/137,3
 mozilla/firefox/releases/138,6
 mozilla/firefox/releases/139,6
@@ -7825,10 +7825,10 @@ web/api/sharedstorageworklet,null
 web/api/sharedstorageworkletglobalscope,null
 web/api/sharedstorageworkletglobalscope/register,null
 web/api/sharedstorageworkletglobalscope/sharedstorage,null
-web/api/sharedworker,8
+web/api/sharedworker,9
 web/api/sharedworker/error_event,4
 web/api/sharedworker/port,3
-web/api/sharedworker/sharedworker,10
+web/api/sharedworker/sharedworker,11
 web/api/sharedworkerglobalscope,10
 web/api/sharedworkerglobalscope/close,3
 web/api/sharedworkerglobalscope/connect_event,7
@@ -9253,8 +9253,11 @@ web/api/web_workers_api,0
 web/api/web_workers_api/functions_and_classes_available_to_workers,1
 web/api/web_workers_api/structured_clone_algorithm,14
 web/api/web_workers_api/transferable_objects,11
-web/api/web_workers_api/using_web_workers,7
+web/api/web_workers_api/using_web_workers,8
 web/api/webcodecs_api,null
+web/api/webcodecs_api/codec_selection,null
+web/api/webcodecs_api/using_the_webcodecs_api,null
+web/api/webcodecs_api/video_processing_concepts,null
 web/api/webgl2renderingcontext,null
 web/api/webgl2renderingcontext/beginquery,null
 web/api/webgl2renderingcontext/begintransformfeedback,null
@@ -11342,11 +11345,11 @@ web/css/reference/values/easing-function/steps,0
 web/css/reference/values/element,0
 web/css/reference/values/env,0
 web/css/reference/values/exp,0
-web/css/reference/values/filter-function,2
+web/css/reference/values/filter-function,0
 web/css/reference/values/filter-function/blur,0
 web/css/reference/values/filter-function/brightness,0
 web/css/reference/values/filter-function/contrast,0
-web/css/reference/values/filter-function/drop-shadow,1
+web/css/reference/values/filter-function/drop-shadow,0
 web/css/reference/values/filter-function/grayscale,0
 web/css/reference/values/filter-function/hue-rotate,0
 web/css/reference/values/filter-function/invert,0
