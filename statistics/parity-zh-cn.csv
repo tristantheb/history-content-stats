@@ -147,7 +147,7 @@ glossary/character_reference,5
 glossary/character_set,3
 glossary/chrome,2
 glossary/cia,3
-glossary/cipher,4
+glossary/cipher,0
 glossary/cipher_suite,3
 glossary/ciphertext,2
 glossary/class,4
@@ -7230,7 +7230,7 @@ web/api/rtcerror,null
 web/api/rtcerror/errordetail,null
 web/api/rtcerror/receivedalert,null
 web/api/rtcerror/sctpcausecode,null
-web/api/rtcerror/sdplinenumber,null
+web/api/rtcerror/sdplinenumber,0
 web/api/rtcerror/sentalert,null
 web/api/rtcerrorevent,null
 web/api/rtcerrorevent/error,null
@@ -7379,7 +7379,7 @@ web/api/rtcoutboundrtpstreamstats/frameheight,null
 web/api/rtcoutboundrtpstreamstats/framesencoded,null
 web/api/rtcoutboundrtpstreamstats/framespersecond,null
 web/api/rtcoutboundrtpstreamstats/framessent,null
-web/api/rtcoutboundrtpstreamstats/framewidth,null
+web/api/rtcoutboundrtpstreamstats/framewidth,0
 web/api/rtcoutboundrtpstreamstats/headerbytessent,null
 web/api/rtcoutboundrtpstreamstats/id,null
 web/api/rtcoutboundrtpstreamstats/keyframesencoded,null
@@ -11098,7 +11098,7 @@ web/css/reference/properties/white-space,7
 web/css/reference/properties/white-space-collapse,null
 web/css/reference/properties/widows,null
 web/css/reference/properties/width,null
-web/css/reference/properties/will-change,null
+web/css/reference/properties/will-change,0
 web/css/reference/properties/word-break,null
 web/css/reference/properties/word-spacing,4
 web/css/reference/properties/writing-mode,null
@@ -12644,7 +12644,7 @@ web/javascript/reference/global_objects/json/israwjson,null
 web/javascript/reference/global_objects/json/parse,2
 web/javascript/reference/global_objects/json/rawjson,null
 web/javascript/reference/global_objects/json/stringify,null
-web/javascript/reference/global_objects/map,null
+web/javascript/reference/global_objects/map,0
 web/javascript/reference/global_objects/map/clear,null
 web/javascript/reference/global_objects/map/delete,null
 web/javascript/reference/global_objects/map/entries,0
