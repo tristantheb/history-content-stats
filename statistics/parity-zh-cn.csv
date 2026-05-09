@@ -2360,7 +2360,7 @@ web/api/attr/ownerelement,null
 web/api/attr/prefix,null
 web/api/attr/specified,0
 web/api/attr/value,null
-web/api/attribution_reporting_api,8
+web/api/attribution_reporting_api,9
 web/api/attribution_reporting_api/generating_reports,11
 web/api/attribution_reporting_api/registering_sources,9
 web/api/attribution_reporting_api/registering_triggers,12
@@ -3264,7 +3264,7 @@ web/api/cssstartingstylerule,1
 web/api/cssstyledeclaration,null
 web/api/cssstyledeclaration/cssfloat,null
 web/api/cssstyledeclaration/csstext,0
-web/api/cssstyledeclaration/getpropertycssvalue,0
+web/api/cssstyledeclaration/getpropertycssvalue,1
 web/api/cssstyledeclaration/getpropertypriority,null
 web/api/cssstyledeclaration/getpropertyvalue,null
 web/api/cssstyledeclaration/item,null
@@ -3327,9 +3327,9 @@ web/api/cssunparsedvalue/values,null
 web/api/cssvalue,null
 web/api/cssvalue/csstext,null
 web/api/cssvalue/cssvaluetype,null
-web/api/cssvaluelist,0
+web/api/cssvaluelist,1
 web/api/cssvaluelist/item,null
-web/api/cssvaluelist/length,0
+web/api/cssvaluelist/length,1
 web/api/cssvariablereferencevalue,0
 web/api/cssvariablereferencevalue/cssvariablereferencevalue,2
 web/api/cssvariablereferencevalue/fallback,1
@@ -3442,7 +3442,7 @@ web/api/deviceposture/change_event,null
 web/api/deviceposture/type,null
 web/api/directoryentrysync,null
 web/api/directoryreadersync,null
-web/api/document,4
+web/api/document,5
 web/api/document/activeelement,5
 web/api/document/activeviewtransition,null
 web/api/document/adoptedstylesheets,5
@@ -3505,7 +3505,7 @@ web/api/document/execcommand,null
 web/api/document/exitfullscreen,1
 web/api/document/exitpictureinpicture,1
 web/api/document/exitpointerlock,0
-web/api/document/featurepolicy,1
+web/api/document/featurepolicy,2
 web/api/document/fgcolor,null
 web/api/document/firstelementchild,1
 web/api/document/fonts,null
@@ -4729,9 +4729,9 @@ web/api/htmlallcollection,1
 web/api/htmlallcollection/item,0
 web/api/htmlallcollection/length,0
 web/api/htmlallcollection/nameditem,0
-web/api/htmlanchorelement,5
+web/api/htmlanchorelement,6
 web/api/htmlanchorelement/attributionsourceid,null
-web/api/htmlanchorelement/attributionsrc,5
+web/api/htmlanchorelement/attributionsrc,6
 web/api/htmlanchorelement/download,0
 web/api/htmlanchorelement/hash,1
 web/api/htmlanchorelement/host,1
@@ -4983,7 +4983,7 @@ web/api/htmliframeelement/contentdocument,1
 web/api/htmliframeelement/contentwindow,1
 web/api/htmliframeelement/credentialless,1
 web/api/htmliframeelement/csp,1
-web/api/htmliframeelement/featurepolicy,1
+web/api/htmliframeelement/featurepolicy,2
 web/api/htmliframeelement/getsvgdocument,null
 web/api/htmliframeelement/height,0
 web/api/htmliframeelement/loading,4
@@ -9580,7 +9580,7 @@ web/api/websocketstream,null
 web/api/websocketstream/close,null
 web/api/websocketstream/closed,null
 web/api/websocketstream/opened,null
-web/api/websocketstream/url,0
+web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,null
 web/api/webtransport,2
 web/api/webtransport/close,null
@@ -11517,7 +11517,7 @@ web/html/reference/attributes/required,4
 web/html/reference/attributes/size,3
 web/html/reference/attributes/step,4
 web/html/reference/elements,1
-web/html/reference/elements/a,1
+web/html/reference/elements/a,2
 web/html/reference/elements/abbr,3
 web/html/reference/elements/acronym,3
 web/html/reference/elements/address,3
@@ -11548,7 +11548,7 @@ web/html/reference/elements/del,null
 web/html/reference/elements/details,null
 web/html/reference/elements/dfn,null
 web/html/reference/elements/dialog,null
-web/html/reference/elements/dir,5
+web/html/reference/elements/dir,6
 web/html/reference/elements/div,7
 web/html/reference/elements/dl,null
 web/html/reference/elements/dt,4
@@ -11569,10 +11569,10 @@ web/html/reference/elements/header,8
 web/html/reference/elements/heading_elements,null
 web/html/reference/elements/hgroup,null
 web/html/reference/elements/hr,null
-web/html/reference/elements/html,4
+web/html/reference/elements/html,5
 web/html/reference/elements/i,1
 web/html/reference/elements/iframe,16
-web/html/reference/elements/img,14
+web/html/reference/elements/img,15
 web/html/reference/elements/input,4
 web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,null
@@ -11605,7 +11605,7 @@ web/html/reference/elements/link,14
 web/html/reference/elements/main,null
 web/html/reference/elements/map,4
 web/html/reference/elements/mark,null
-web/html/reference/elements/marquee,7
+web/html/reference/elements/marquee,8
 web/html/reference/elements/menu,5
 web/html/reference/elements/meta,null
 web/html/reference/elements/meta/http-equiv,null
@@ -11627,7 +11627,7 @@ web/html/reference/elements/optgroup,null
 web/html/reference/elements/option,1
 web/html/reference/elements/output,null
 web/html/reference/elements/p,4
-web/html/reference/elements/param,5
+web/html/reference/elements/param,6
 web/html/reference/elements/picture,null
 web/html/reference/elements/plaintext,1
 web/html/reference/elements/pre,null
@@ -11875,7 +11875,7 @@ web/http/reference/headers/permissions-policy-report-only,null
 web/http/reference/headers/permissions-policy/accelerometer,3
 web/http/reference/headers/permissions-policy/ambient-light-sensor,3
 web/http/reference/headers/permissions-policy/aria-notify,null
-web/http/reference/headers/permissions-policy/attribution-reporting,4
+web/http/reference/headers/permissions-policy/attribution-reporting,5
 web/http/reference/headers/permissions-policy/autoplay,4
 web/http/reference/headers/permissions-policy/bluetooth,4
 web/http/reference/headers/permissions-policy/browsing-topics,null

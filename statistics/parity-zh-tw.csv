@@ -3501,7 +3501,7 @@ web/api/document/elementsfrompoint,null
 web/api/document/embeds,null
 web/api/document/enablestylesheetsforset,null
 web/api/document/evaluate,null
-web/api/document/execcommand,3
+web/api/document/execcommand,4
 web/api/document/exitfullscreen,null
 web/api/document/exitpictureinpicture,null
 web/api/document/exitpointerlock,null
@@ -9935,7 +9935,7 @@ web/api/writablestreamdefaultwriter/releaselock,null
 web/api/writablestreamdefaultwriter/writablestreamdefaultwriter,null
 web/api/writablestreamdefaultwriter/write,null
 web/api/xmldocument,null
-web/api/xmlhttprequest,3
+web/api/xmlhttprequest,4
 web/api/xmlhttprequest/abort,null
 web/api/xmlhttprequest/getallresponseheaders,null
 web/api/xmlhttprequest/getresponseheader,null
