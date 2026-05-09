@@ -6151,7 +6151,7 @@ web/api/mouseevent/relatedtarget,null
 web/api/mouseevent/screenx,null
 web/api/mouseevent/screeny,null
 web/api/mouseevent/shiftkey,1
-web/api/mouseevent/webkit_force_at_force_mouse_down_static,null
+web/api/mouseevent/webkit_force_at_force_mouse_down_static,0
 web/api/mouseevent/webkit_force_at_mouse_down_static,0
 web/api/mouseevent/webkitforce,0
 web/api/mouseevent/x,0
@@ -6577,7 +6577,7 @@ web/api/paymentaddress/dependentlocality,null
 web/api/paymentaddress/organization,0
 web/api/paymentaddress/phone,0
 web/api/paymentaddress/postalcode,null
-web/api/paymentaddress/recipient,null
+web/api/paymentaddress/recipient,0
 web/api/paymentaddress/region,null
 web/api/paymentaddress/sortingcode,0
 web/api/paymentaddress/tojson,null
@@ -6600,7 +6600,7 @@ web/api/paymentrequest/shippingaddress,null
 web/api/paymentrequest/shippingaddresschange_event,null
 web/api/paymentrequest/shippingoption,null
 web/api/paymentrequest/shippingoptionchange_event,null
-web/api/paymentrequest/shippingtype,null
+web/api/paymentrequest/shippingtype,0
 web/api/paymentrequest/show,null
 web/api/paymentrequestevent,null
 web/api/paymentrequestevent/changepaymentmethod,null
@@ -6621,7 +6621,7 @@ web/api/paymentresponse/complete,null
 web/api/paymentresponse/details,null
 web/api/paymentresponse/methodname,null
 web/api/paymentresponse/payerdetailchange_event,null
-web/api/paymentresponse/payeremail,null
+web/api/paymentresponse/payeremail,0
 web/api/paymentresponse/payername,0
 web/api/paymentresponse/payerphone,0
 web/api/paymentresponse/requestid,0
@@ -6889,7 +6889,7 @@ web/api/presentationconnection/id,0
 web/api/presentationconnection/send,null
 web/api/presentationconnection/state,0
 web/api/presentationconnection/terminate,null
-web/api/presentationconnection/url,null
+web/api/presentationconnection/url,0
 web/api/presentationconnectionavailableevent,null
 web/api/presentationconnectionavailableevent/connection,null
 web/api/presentationconnectionavailableevent/presentationconnectionavailableevent,null

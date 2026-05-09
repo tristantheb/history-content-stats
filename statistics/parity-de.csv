@@ -3957,7 +3957,7 @@ web/api/element/removeattributenode,0
 web/api/element/removeattributens,0
 web/api/element/replacechildren,0
 web/api/element/replacewith,0
-web/api/element/requestfullscreen,1
+web/api/element/requestfullscreen,0
 web/api/element/requestpointerlock,0
 web/api/element/role,0
 web/api/element/scroll,0
