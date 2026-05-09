@@ -11627,7 +11627,7 @@ web/html/reference/elements/optgroup,null
 web/html/reference/elements/option,null
 web/html/reference/elements/output,null
 web/html/reference/elements/p,null
-web/html/reference/elements/param,5
+web/html/reference/elements/param,6
 web/html/reference/elements/picture,null
 web/html/reference/elements/plaintext,null
 web/html/reference/elements/pre,null
@@ -11640,7 +11640,7 @@ web/html/reference/elements/rtc,null
 web/html/reference/elements/ruby,null
 web/html/reference/elements/s,null
 web/html/reference/elements/samp,null
-web/html/reference/elements/script,14
+web/html/reference/elements/script,15
 web/html/reference/elements/script/type,null
 web/html/reference/elements/script/type/importmap,null
 web/html/reference/elements/script/type/speculationrules,null

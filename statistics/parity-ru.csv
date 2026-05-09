@@ -4729,7 +4729,7 @@ web/api/htmlallcollection,null
 web/api/htmlallcollection/item,null
 web/api/htmlallcollection/length,null
 web/api/htmlallcollection/nameditem,null
-web/api/htmlanchorelement,6
+web/api/htmlanchorelement,7
 web/api/htmlanchorelement/attributionsourceid,null
 web/api/htmlanchorelement/attributionsrc,null
 web/api/htmlanchorelement/download,null
@@ -7607,7 +7607,7 @@ web/api/scheduler/posttask,null
 web/api/scheduler/yield,null
 web/api/scheduling,null
 web/api/scheduling/isinputpending,null
-web/api/screen,2
+web/api/screen,3
 web/api/screen/availheight,null
 web/api/screen/availwidth,null
 web/api/screen/change_event,null
@@ -11558,7 +11558,7 @@ web/html/reference/elements/fencedframe,null
 web/html/reference/elements/fieldset,null
 web/html/reference/elements/figcaption,null
 web/html/reference/elements/figure,null
-web/html/reference/elements/font,4
+web/html/reference/elements/font,5
 web/html/reference/elements/footer,null
 web/html/reference/elements/form,null
 web/html/reference/elements/frame,null
@@ -11569,7 +11569,7 @@ web/html/reference/elements/header,null
 web/html/reference/elements/heading_elements,5
 web/html/reference/elements/hgroup,null
 web/html/reference/elements/hr,null
-web/html/reference/elements/html,4
+web/html/reference/elements/html,5
 web/html/reference/elements/i,null
 web/html/reference/elements/iframe,null
 web/html/reference/elements/img,null
