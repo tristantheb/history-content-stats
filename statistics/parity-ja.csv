@@ -1893,7 +1893,7 @@ mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,7
-mozilla/firefox,null
+mozilla/firefox,0
 mozilla/firefox/experimental_features,2
 mozilla/firefox/releases,null
 mozilla/firefox/releases/1.5,0
@@ -1910,7 +1910,7 @@ mozilla/firefox/releases/104,null
 mozilla/firefox/releases/105,13
 mozilla/firefox/releases/106,15
 mozilla/firefox/releases/107,14
-mozilla/firefox/releases/108,20
+mozilla/firefox/releases/108,0
 mozilla/firefox/releases/109,19
 mozilla/firefox/releases/11,0
 mozilla/firefox/releases/110,17
@@ -1962,7 +1962,7 @@ mozilla/firefox/releases/151,null
 mozilla/firefox/releases/152,null
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
-mozilla/firefox/releases/18,21
+mozilla/firefox/releases/18,0
 mozilla/firefox/releases/19,0
 mozilla/firefox/releases/2,0
 mozilla/firefox/releases/2/adding_feed_readers_to_firefox,0
@@ -2030,7 +2030,7 @@ mozilla/firefox/releases/52,1
 mozilla/firefox/releases/53,0
 mozilla/firefox/releases/54,null
 mozilla/firefox/releases/55,null
-mozilla/firefox/releases/56,21
+mozilla/firefox/releases/56,0
 mozilla/firefox/releases/57,0
 mozilla/firefox/releases/58,null
 mozilla/firefox/releases/59,0
@@ -2038,14 +2038,14 @@ mozilla/firefox/releases/6,0
 mozilla/firefox/releases/6/updating_add-ons,null
 mozilla/firefox/releases/60,19
 mozilla/firefox/releases/61,null
-mozilla/firefox/releases/62,20
+mozilla/firefox/releases/62,0
 mozilla/firefox/releases/63,null
 mozilla/firefox/releases/64,null
 mozilla/firefox/releases/65,24
 mozilla/firefox/releases/66,18
 mozilla/firefox/releases/67,null
 mozilla/firefox/releases/68,null
-mozilla/firefox/releases/69,20
+mozilla/firefox/releases/69,0
 mozilla/firefox/releases/7,0
 mozilla/firefox/releases/7/updating_extensions,null
 mozilla/firefox/releases/70,null
@@ -5819,7 +5819,7 @@ web/api/media_capabilities_api,null
 web/api/media_capabilities_api/using_the_media_capabilities_api,null
 web/api/media_capture_and_streams_api,7
 web/api/media_capture_and_streams_api/constraints,9
-web/api/media_capture_and_streams_api/taking_still_photos,21
+web/api/media_capture_and_streams_api/taking_still_photos,0
 web/api/media_session_api,5
 web/api/media_source_extensions_api,4
 web/api/media_source_extensions_api/dash_adaptive_streaming,null
@@ -7743,7 +7743,7 @@ web/api/serviceworkercontainer/getregistrations,5
 web/api/serviceworkercontainer/message_event,3
 web/api/serviceworkercontainer/messageerror_event,null
 web/api/serviceworkercontainer/ready,6
-web/api/serviceworkercontainer/register,20
+web/api/serviceworkercontainer/register,0
 web/api/serviceworkercontainer/startmessages,8
 web/api/serviceworkerglobalscope,3
 web/api/serviceworkerglobalscope/activate_event,5
@@ -9595,7 +9595,7 @@ web/api/webtransport/incomingunidirectionalstreams,null
 web/api/webtransport/ready,null
 web/api/webtransport/reliability,null
 web/api/webtransport/webtransport,null
-web/api/webtransport_api,null
+web/api/webtransport_api,0
 web/api/webtransportbidirectionalstream,null
 web/api/webtransportbidirectionalstream/readable,null
 web/api/webtransportbidirectionalstream/writable,null
