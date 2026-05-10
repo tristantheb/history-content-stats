@@ -5812,6 +5812,7 @@ web/api/transitionevent/pseudoelement,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/transitionevent/transitionevent,0c13af55e869cbc54830fd1a601fd05f60717375
 web/api/treewalker,no_hash_commit
 web/api/treewalker/root,no_hash_commit
+web/api/trusted_types_api,483ce811e1ea52cb2d9d2a5af0c4d1c4d591ea4a
 web/api/trustedhtml,3ceedbd90089cfb6970c9bf63ff9e6f3801fcbc5
 web/api/trustedhtml/tojson,c7d5004cd6c5d5b1318f626425fcb06cb2c6a509
 web/api/trustedhtml/tostring,c7d5004cd6c5d5b1318f626425fcb06cb2c6a509
