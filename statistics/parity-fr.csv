@@ -11364,12 +11364,12 @@ web/css/reference/values/frequency-percentage,0
 web/css/reference/values/functions,10
 web/css/reference/values/generic-family,0
 web/css/reference/values/gradient,0
-web/css/reference/values/gradient/conic-gradient,6
-web/css/reference/values/gradient/linear-gradient,1
-web/css/reference/values/gradient/radial-gradient,1
+web/css/reference/values/gradient/conic-gradient,0
+web/css/reference/values/gradient/linear-gradient,0
+web/css/reference/values/gradient/radial-gradient,0
 web/css/reference/values/gradient/repeating-conic-gradient,0
-web/css/reference/values/gradient/repeating-linear-gradient,1
-web/css/reference/values/gradient/repeating-radial-gradient,1
+web/css/reference/values/gradient/repeating-linear-gradient,0
+web/css/reference/values/gradient/repeating-radial-gradient,0
 web/css/reference/values/hex-color,0
 web/css/reference/values/hue,0
 web/css/reference/values/hue-interpolation-method,0
