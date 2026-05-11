@@ -3067,6 +3067,7 @@ web/api/cssanimation/animationname,null
 web/api/cssconditionrule,null
 web/api/cssconditionrule/conditiontext,null
 web/api/csscontainerrule,null
+web/api/csscontainerrule/conditions,null
 web/api/csscontainerrule/containername,null
 web/api/csscontainerrule/containerquery,null
 web/api/csscounterstylerule,5
@@ -10586,7 +10587,7 @@ web/css/reference/properties/alignment-baseline,null
 web/css/reference/properties/all,null
 web/css/reference/properties/anchor-name,null
 web/css/reference/properties/anchor-scope,null
-web/css/reference/properties/animation,8
+web/css/reference/properties/animation,9
 web/css/reference/properties/animation-composition,null
 web/css/reference/properties/animation-delay,null
 web/css/reference/properties/animation-direction,null

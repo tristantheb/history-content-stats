@@ -3066,9 +3066,10 @@ web/api/cssanimation,0
 web/api/cssanimation/animationname,0
 web/api/cssconditionrule,0
 web/api/cssconditionrule/conditiontext,0
-web/api/csscontainerrule,0
-web/api/csscontainerrule/containername,0
-web/api/csscontainerrule/containerquery,0
+web/api/csscontainerrule,1
+web/api/csscontainerrule/conditions,null
+web/api/csscontainerrule/containername,1
+web/api/csscontainerrule/containerquery,1
 web/api/csscounterstylerule,0
 web/api/csscounterstylerule/additivesymbols,0
 web/api/csscounterstylerule/fallback,0
@@ -9696,7 +9697,7 @@ web/api/window/frames,0
 web/api/window/fullscreen,0
 web/api/window/gamepadconnected_event,0
 web/api/window/gamepaddisconnected_event,0
-web/api/window/getcomputedstyle,0
+web/api/window/getcomputedstyle,1
 web/api/window/getdefaultcomputedstyle,0
 web/api/window/getscreendetails,0
 web/api/window/getselection,0
@@ -10586,7 +10587,7 @@ web/css/reference/properties/alignment-baseline,0
 web/css/reference/properties/all,0
 web/css/reference/properties/anchor-name,0
 web/css/reference/properties/anchor-scope,0
-web/css/reference/properties/animation,0
+web/css/reference/properties/animation,1
 web/css/reference/properties/animation-composition,0
 web/css/reference/properties/animation-delay,0
 web/css/reference/properties/animation-direction,0
@@ -11171,7 +11172,7 @@ web/css/reference/selectors/_colon_not,0
 web/css/reference/selectors/_colon_nth-child,0
 web/css/reference/selectors/_colon_nth-last-child,0
 web/css/reference/selectors/_colon_nth-last-of-type,0
-web/css/reference/selectors/_colon_nth-of-type,0
+web/css/reference/selectors/_colon_nth-of-type,1
 web/css/reference/selectors/_colon_only-child,0
 web/css/reference/selectors/_colon_only-of-type,0
 web/css/reference/selectors/_colon_open,0
@@ -14132,7 +14133,7 @@ webassembly,0
 webassembly/guides,0
 webassembly/guides/c_to_wasm,0
 webassembly/guides/concepts,0
-webassembly/guides/existing_c_to_wasm,0
+webassembly/guides/existing_c_to_wasm,1
 webassembly/guides/exported_functions,0
 webassembly/guides/imported_string_constants,0
 webassembly/guides/javascript_builtins,0
