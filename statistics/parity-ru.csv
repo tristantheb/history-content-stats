@@ -1088,6 +1088,8 @@ mdn/writing_guidelines/howto/images_media,null
 mdn/writing_guidelines/howto/json_structured_data,null
 mdn/writing_guidelines/howto/markdown_in_mdn,null
 mdn/writing_guidelines/howto/research_technology,null
+mdn/writing_guidelines/howto/retiring_content,null
+mdn/writing_guidelines/howto/retiring_content/retired_content,null
 mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,null
 mdn/writing_guidelines/howto/write_an_api_reference,null
 mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,null
@@ -2394,6 +2396,7 @@ web/api/audiocontext/createmediastreamsource,null
 web/api/audiocontext/createmediastreamtracksource,null
 web/api/audiocontext/getoutputtimestamp,null
 web/api/audiocontext/outputlatency,null
+web/api/audiocontext/playbackstats,null
 web/api/audiocontext/resume,null
 web/api/audiocontext/setsinkid,null
 web/api/audiocontext/sinkchange_event,null
@@ -2470,6 +2473,15 @@ web/api/audioparam/setvaluecurveattime,null
 web/api/audioparam/value,null
 web/api/audioparamdescriptor,null
 web/api/audioparammap,null
+web/api/audioplaybackstats,null
+web/api/audioplaybackstats/averagelatency,null
+web/api/audioplaybackstats/maximumlatency,null
+web/api/audioplaybackstats/minimumlatency,null
+web/api/audioplaybackstats/resetlatency,null
+web/api/audioplaybackstats/tojson,null
+web/api/audioplaybackstats/totalduration,null
+web/api/audioplaybackstats/underrunduration,null
+web/api/audioplaybackstats/underrunevents,null
 web/api/audioprocessingevent,null
 web/api/audioprocessingevent/audioprocessingevent,null
 web/api/audioprocessingevent/inputbuffer,null
@@ -13304,7 +13316,7 @@ web/javascript/reference/operators/delete,null
 web/javascript/reference/operators/destructuring,null
 web/javascript/reference/operators/division,null
 web/javascript/reference/operators/division_assignment,null
-web/javascript/reference/operators/equality,5
+web/javascript/reference/operators/equality,6
 web/javascript/reference/operators/exponentiation,null
 web/javascript/reference/operators/exponentiation_assignment,null
 web/javascript/reference/operators/function,null
