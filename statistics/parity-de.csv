@@ -941,7 +941,7 @@ learn_web_development/extensions/server-side/django/authentication,0
 learn_web_development/extensions/server-side/django/deployment,0
 learn_web_development/extensions/server-side/django/development_environment,0
 learn_web_development/extensions/server-side/django/django_assessment_blog,0
-learn_web_development/extensions/server-side/django/forms,0
+learn_web_development/extensions/server-side/django/forms,1
 learn_web_development/extensions/server-side/django/generic_views,0
 learn_web_development/extensions/server-side/django/home_page,0
 learn_web_development/extensions/server-side/django/introduction,0
@@ -1002,7 +1002,7 @@ learn_web_development/getting_started/soft_skills,0
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,0
 learn_web_development/getting_started/soft_skills/finding_a_job,0
 learn_web_development/getting_started/soft_skills/research_and_learning,0
-learn_web_development/getting_started/soft_skills/workflows_and_processes,0
+learn_web_development/getting_started/soft_skills/workflows_and_processes,1
 learn_web_development/getting_started/web_standards,0
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
 learn_web_development/getting_started/web_standards/how_the_web_works,0
@@ -10968,7 +10968,7 @@ web/css/reference/properties/position-try-fallbacks,0
 web/css/reference/properties/position-try-order,0
 web/css/reference/properties/position-visibility,0
 web/css/reference/properties/print-color-adjust,0
-web/css/reference/properties/quotes,0
+web/css/reference/properties/quotes,1
 web/css/reference/properties/r,0
 web/css/reference/properties/reading-flow,0
 web/css/reference/properties/reading-order,0
