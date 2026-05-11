@@ -4715,7 +4715,7 @@ web/api/hmdvrdevice,null
 web/api/hmdvrdevice/geteyeparameters,null
 web/api/hmdvrdevice/setfieldofview,null
 web/api/houdini_apis,null
-web/api/html_dom_api,1
+web/api/html_dom_api,2
 web/api/html_dom_api/microtask_guide,0
 web/api/html_dom_api/microtask_guide/in_depth,0
 web/api/html_drag_and_drop_api,0

@@ -1941,7 +1941,7 @@ mozilla/firefox/releases/132,13
 mozilla/firefox/releases/133,11
 mozilla/firefox/releases/134,6
 mozilla/firefox/releases/135,9
-mozilla/firefox/releases/136,8
+mozilla/firefox/releases/136,9
 mozilla/firefox/releases/137,3
 mozilla/firefox/releases/138,6
 mozilla/firefox/releases/139,6
@@ -2781,7 +2781,7 @@ web/api/canvasrenderingcontext2d/imagesmoothingquality,3
 web/api/canvasrenderingcontext2d/iscontextlost,0
 web/api/canvasrenderingcontext2d/ispointinpath,0
 web/api/canvasrenderingcontext2d/ispointinstroke,0
-web/api/canvasrenderingcontext2d/lang,1
+web/api/canvasrenderingcontext2d/lang,2
 web/api/canvasrenderingcontext2d/letterspacing,3
 web/api/canvasrenderingcontext2d/linecap,3
 web/api/canvasrenderingcontext2d/linedashoffset,0
@@ -4715,7 +4715,7 @@ web/api/hmdvrdevice,null
 web/api/hmdvrdevice/geteyeparameters,null
 web/api/hmdvrdevice/setfieldofview,null
 web/api/houdini_apis,6
-web/api/html_dom_api,10
+web/api/html_dom_api,11
 web/api/html_dom_api/microtask_guide,13
 web/api/html_dom_api/microtask_guide/in_depth,null
 web/api/html_drag_and_drop_api,1
@@ -5645,7 +5645,7 @@ web/api/imagetracklist/ready,null
 web/api/imagetracklist/selectedindex,null
 web/api/imagetracklist/selectedtrack,null
 web/api/indexeddb_api,13
-web/api/indexeddb_api/basic_terminology,0
+web/api/indexeddb_api/basic_terminology,1
 web/api/indexeddb_api/checking_when_a_deadline_is_due,2
 web/api/indexeddb_api/using_indexeddb,2
 web/api/ink,0
@@ -7876,12 +7876,12 @@ web/api/speechrecognition,0
 web/api/speechrecognition/abort,0
 web/api/speechrecognition/audioend_event,2
 web/api/speechrecognition/audiostart_event,2
-web/api/speechrecognition/available_static,2
+web/api/speechrecognition/available_static,3
 web/api/speechrecognition/continuous,0
 web/api/speechrecognition/end_event,2
 web/api/speechrecognition/error_event,5
 web/api/speechrecognition/grammars,0
-web/api/speechrecognition/install_static,0
+web/api/speechrecognition/install_static,1
 web/api/speechrecognition/interimresults,0
 web/api/speechrecognition/lang,0
 web/api/speechrecognition/maxalternatives,0
