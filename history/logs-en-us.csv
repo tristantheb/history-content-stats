@@ -1455,7 +1455,7 @@ mozilla/add-ons/webextensions/api/management/setenabled,09109b6f9444d22215ba330e
 mozilla/add-ons/webextensions/api/management/uninstall,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/management/uninstallself,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/menus/action_menu_top_level_limit,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/menus/action_menu_top_level_limit,12b40a940857526acdc13fec68e668f67c61c4cc,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/contexttype,78e767e6d565551ef039a5e38a177a71edac24bf,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/create,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/gettargetelement,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1495,7 +1495,7 @@ mozilla/add-ons/webextensions/api/pageaction/gettitle,09109b6f9444d22215ba330ec1
 mozilla/add-ons/webextensions/api/pageaction/hide,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/pageaction/imagedatatype,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/pageaction/isshown,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/pageaction/onclicked,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/pageaction/onclicked,12b40a940857526acdc13fec68e668f67c61c4cc,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/pageaction/openpopup,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/pageaction/seticon,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/pageaction/setpopup,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1941,7 +1941,7 @@ mozilla/firefox/releases/132,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Mozilla|Fi
 mozilla/firefox/releases/133,c52ed787442db9d65b21f5c2874fa6bfd08a253a,Mozilla|Firefox|Versions
 mozilla/firefox/releases/134,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
 mozilla/firefox/releases/135,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Mozilla|Firefox|Versions
-mozilla/firefox/releases/136,82f428cec0f8d177b51c2ade0a8bd2a5bb6af7f1,Mozilla|Firefox|Versions
+mozilla/firefox/releases/136,12b40a940857526acdc13fec68e668f67c61c4cc,Mozilla|Firefox|Versions
 mozilla/firefox/releases/137,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
 mozilla/firefox/releases/138,c52ed787442db9d65b21f5c2874fa6bfd08a253a,Mozilla|Firefox|Versions
 mozilla/firefox/releases/139,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
@@ -2781,7 +2781,7 @@ web/api/canvasrenderingcontext2d/imagesmoothingquality,a7265fc3effa7c25b99971351
 web/api/canvasrenderingcontext2d/iscontextlost,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/canvasrenderingcontext2d/ispointinpath,754b68246f4e69e404309fee4a1699e047e43994,Web APIs
 web/api/canvasrenderingcontext2d/ispointinstroke,754b68246f4e69e404309fee4a1699e047e43994,Web APIs
-web/api/canvasrenderingcontext2d/lang,c9773fc1268b974b6c009208b259c53954c839ef,Web APIs
+web/api/canvasrenderingcontext2d/lang,f993d9f6d574bd8b519014c6ad46bc66f28fae7e,Web APIs
 web/api/canvasrenderingcontext2d/letterspacing,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/canvasrenderingcontext2d/linecap,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/canvasrenderingcontext2d/linedashoffset,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
@@ -4715,7 +4715,7 @@ web/api/hmdvrdevice,ccbc5d4100e0a5de844e060b025883ef1611d7b8,Web APIs
 web/api/hmdvrdevice/geteyeparameters,ccbc5d4100e0a5de844e060b025883ef1611d7b8,Web APIs
 web/api/hmdvrdevice/setfieldofview,e9e2ec643ac69c132f31427a0b586ab2cf83ed58,Web APIs
 web/api/houdini_apis,635820782735cd00f71ce3929ff9377b091f8995,Web APIs
-web/api/html_dom_api,b2f9c1e9e0f56bb2fd10262b0836603e10bcb4dc,Web APIs
+web/api/html_dom_api,6686b4c94c8cf3eb188d0e549634cd581f0b8237,Web APIs
 web/api/html_dom_api/microtask_guide,6b9019694341254ad8e3e0572f03988337f6f7ae,Web APIs
 web/api/html_dom_api/microtask_guide/in_depth,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/html_drag_and_drop_api,58525c603c8c4696a85342ffc6e8e6661b28a1c3,Web APIs
@@ -5645,7 +5645,7 @@ web/api/imagetracklist/ready,a7482281c4570bb7f932dce381f510d87ddf9924,Web APIs
 web/api/imagetracklist/selectedindex,a7482281c4570bb7f932dce381f510d87ddf9924,Web APIs
 web/api/imagetracklist/selectedtrack,a7482281c4570bb7f932dce381f510d87ddf9924,Web APIs
 web/api/indexeddb_api,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
-web/api/indexeddb_api/basic_terminology,941ade970fd7ebad52af692b6ac27cfd96f94100,Web APIs
+web/api/indexeddb_api/basic_terminology,98dd40c398afc0c8498a9fb1c57e0e27c6134bf3,Web APIs
 web/api/indexeddb_api/checking_when_a_deadline_is_due,0118259a43f804bf9f4a68895beb03cec955c909,Web APIs
 web/api/indexeddb_api/using_indexeddb,e254dd0d1fde812e8457406c00f1beacd1e4b8d4,Web APIs
 web/api/ink,bcc977bc3e79a87edd64cd9ef977b515f63daa2c,Web APIs
@@ -7876,12 +7876,12 @@ web/api/speechrecognition,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
 web/api/speechrecognition/abort,0a00e01a8c8097ea9786710c3fc703d18f0af951,Web APIs
 web/api/speechrecognition/audioend_event,ffa6f5871f50856c60983a125cef7de267be7aeb,Web APIs
 web/api/speechrecognition/audiostart_event,ffa6f5871f50856c60983a125cef7de267be7aeb,Web APIs
-web/api/speechrecognition/available_static,fe2f6d4bc116bb285b4d697c5da988bcf7a7dee8,Web APIs
+web/api/speechrecognition/available_static,d85bb94bd88736df60c9847ea5c815f6166f3bf5,Web APIs
 web/api/speechrecognition/continuous,0a00e01a8c8097ea9786710c3fc703d18f0af951,Web APIs
 web/api/speechrecognition/end_event,ffa6f5871f50856c60983a125cef7de267be7aeb,Web APIs
 web/api/speechrecognition/error_event,ffa6f5871f50856c60983a125cef7de267be7aeb,Web APIs
 web/api/speechrecognition/grammars,0a00e01a8c8097ea9786710c3fc703d18f0af951,Web APIs
-web/api/speechrecognition/install_static,fe2f6d4bc116bb285b4d697c5da988bcf7a7dee8,Web APIs
+web/api/speechrecognition/install_static,d85bb94bd88736df60c9847ea5c815f6166f3bf5,Web APIs
 web/api/speechrecognition/interimresults,0a00e01a8c8097ea9786710c3fc703d18f0af951,Web APIs
 web/api/speechrecognition/lang,0a00e01a8c8097ea9786710c3fc703d18f0af951,Web APIs
 web/api/speechrecognition/maxalternatives,0a00e01a8c8097ea9786710c3fc703d18f0af951,Web APIs
