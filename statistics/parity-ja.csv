@@ -1069,7 +1069,7 @@ mdn/community/translated_content,2
 mdn/guides,1
 mdn/kitchensink,null
 mdn/tutorials,3
-mdn/writing_guidelines,3
+mdn/writing_guidelines,4
 mdn/writing_guidelines/attrib_copyright_license,0
 mdn/writing_guidelines/changelog,1
 mdn/writing_guidelines/code_style_guide,3
@@ -1080,7 +1080,7 @@ mdn/writing_guidelines/code_style_guide/shell,0
 mdn/writing_guidelines/criteria_for_inclusion,0
 mdn/writing_guidelines/experimental_deprecated_obsolete,3
 mdn/writing_guidelines/howto,0
-mdn/writing_guidelines/howto/creating_moving_deleting,0
+mdn/writing_guidelines/howto/creating_moving_deleting,1
 mdn/writing_guidelines/howto/document_a_css_property,2
 mdn/writing_guidelines/howto/document_an_http_header,6
 mdn/writing_guidelines/howto/document_web_errors,3
@@ -1088,6 +1088,8 @@ mdn/writing_guidelines/howto/images_media,0
 mdn/writing_guidelines/howto/json_structured_data,8
 mdn/writing_guidelines/howto/markdown_in_mdn,9
 mdn/writing_guidelines/howto/research_technology,5
+mdn/writing_guidelines/howto/retiring_content,null
+mdn/writing_guidelines/howto/retiring_content/retired_content,null
 mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,3
 mdn/writing_guidelines/howto/write_an_api_reference,13
 mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,1
@@ -1125,7 +1127,7 @@ mdn/writing_guidelines/page_structures/polyfills,null
 mdn/writing_guidelines/page_structures/sidebars,0
 mdn/writing_guidelines/page_structures/specification_tables,1
 mdn/writing_guidelines/page_structures/syntax_sections,0
-mdn/writing_guidelines/what_we_write,2
+mdn/writing_guidelines/what_we_write,3
 mdn/writing_guidelines/writing_style_guide,2
 mozilla,null
 mozilla/add-ons,null
@@ -2384,7 +2386,7 @@ web/api/audiobuffersourcenode/loopend,2
 web/api/audiobuffersourcenode/loopstart,2
 web/api/audiobuffersourcenode/playbackrate,2
 web/api/audiobuffersourcenode/start,2
-web/api/audiocontext,3
+web/api/audiocontext,4
 web/api/audiocontext/audiocontext,0
 web/api/audiocontext/baselatency,2
 web/api/audiocontext/close,2
@@ -2394,6 +2396,7 @@ web/api/audiocontext/createmediastreamsource,6
 web/api/audiocontext/createmediastreamtracksource,1
 web/api/audiocontext/getoutputtimestamp,2
 web/api/audiocontext/outputlatency,0
+web/api/audiocontext/playbackstats,null
 web/api/audiocontext/resume,2
 web/api/audiocontext/setsinkid,7
 web/api/audiocontext/sinkchange_event,3
@@ -2470,6 +2473,15 @@ web/api/audioparam/setvaluecurveattime,2
 web/api/audioparam/value,2
 web/api/audioparamdescriptor,null
 web/api/audioparammap,3
+web/api/audioplaybackstats,null
+web/api/audioplaybackstats/averagelatency,null
+web/api/audioplaybackstats/maximumlatency,null
+web/api/audioplaybackstats/minimumlatency,null
+web/api/audioplaybackstats/resetlatency,null
+web/api/audioplaybackstats/tojson,null
+web/api/audioplaybackstats/totalduration,null
+web/api/audioplaybackstats/underrunduration,null
+web/api/audioplaybackstats/underrunevents,null
 web/api/audioprocessingevent,3
 web/api/audioprocessingevent/audioprocessingevent,2
 web/api/audioprocessingevent/inputbuffer,1
@@ -9218,7 +9230,7 @@ web/api/web_animations_api/keyframe_formats,12
 web/api/web_animations_api/tips,null
 web/api/web_animations_api/using_the_web_animations_api,15
 web/api/web_animations_api/web_animations_api_concepts,2
-web/api/web_audio_api,15
+web/api/web_audio_api,16
 web/api/web_audio_api/advanced_techniques,7
 web/api/web_audio_api/basic_concepts_behind_web_audio_api,null
 web/api/web_audio_api/best_practices,null
@@ -13283,7 +13295,7 @@ web/javascript/reference/iteration_protocols,12
 web/javascript/reference/javascript_technologies_overview,null
 web/javascript/reference/lexical_grammar,0
 web/javascript/reference/operators,0
-web/javascript/reference/operators/addition,1
+web/javascript/reference/operators/addition,2
 web/javascript/reference/operators/addition_assignment,0
 web/javascript/reference/operators/assignment,0
 web/javascript/reference/operators/async_function,0
@@ -13304,7 +13316,7 @@ web/javascript/reference/operators/delete,0
 web/javascript/reference/operators/destructuring,0
 web/javascript/reference/operators/division,0
 web/javascript/reference/operators/division_assignment,0
-web/javascript/reference/operators/equality,0
+web/javascript/reference/operators/equality,1
 web/javascript/reference/operators/exponentiation,0
 web/javascript/reference/operators/exponentiation_assignment,0
 web/javascript/reference/operators/function,0
