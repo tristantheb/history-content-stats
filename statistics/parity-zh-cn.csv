@@ -3067,6 +3067,7 @@ web/api/cssanimation/animationname,null
 web/api/cssconditionrule,null
 web/api/cssconditionrule/conditiontext,null
 web/api/csscontainerrule,null
+web/api/csscontainerrule/conditions,null
 web/api/csscontainerrule/containername,null
 web/api/csscontainerrule/containerquery,null
 web/api/csscounterstylerule,3
