@@ -941,7 +941,7 @@ learn_web_development/extensions/server-side/django/authentication,0
 learn_web_development/extensions/server-side/django/deployment,0
 learn_web_development/extensions/server-side/django/development_environment,0
 learn_web_development/extensions/server-side/django/django_assessment_blog,0
-learn_web_development/extensions/server-side/django/forms,1
+learn_web_development/extensions/server-side/django/forms,0
 learn_web_development/extensions/server-side/django/generic_views,0
 learn_web_development/extensions/server-side/django/home_page,0
 learn_web_development/extensions/server-side/django/introduction,0
@@ -1002,7 +1002,7 @@ learn_web_development/getting_started/soft_skills,0
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,0
 learn_web_development/getting_started/soft_skills/finding_a_job,0
 learn_web_development/getting_started/soft_skills/research_and_learning,0
-learn_web_development/getting_started/soft_skills/workflows_and_processes,1
+learn_web_development/getting_started/soft_skills/workflows_and_processes,0
 learn_web_development/getting_started/web_standards,0
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
 learn_web_development/getting_started/web_standards/how_the_web_works,0
@@ -1455,7 +1455,7 @@ mozilla/add-ons/webextensions/api/management/setenabled,0
 mozilla/add-ons/webextensions/api/management/uninstall,0
 mozilla/add-ons/webextensions/api/management/uninstallself,0
 mozilla/add-ons/webextensions/api/menus,0
-mozilla/add-ons/webextensions/api/menus/action_menu_top_level_limit,0
+mozilla/add-ons/webextensions/api/menus/action_menu_top_level_limit,1
 mozilla/add-ons/webextensions/api/menus/contexttype,0
 mozilla/add-ons/webextensions/api/menus/create,0
 mozilla/add-ons/webextensions/api/menus/gettargetelement,0
@@ -1495,7 +1495,7 @@ mozilla/add-ons/webextensions/api/pageaction/gettitle,0
 mozilla/add-ons/webextensions/api/pageaction/hide,0
 mozilla/add-ons/webextensions/api/pageaction/imagedatatype,0
 mozilla/add-ons/webextensions/api/pageaction/isshown,0
-mozilla/add-ons/webextensions/api/pageaction/onclicked,0
+mozilla/add-ons/webextensions/api/pageaction/onclicked,1
 mozilla/add-ons/webextensions/api/pageaction/openpopup,0
 mozilla/add-ons/webextensions/api/pageaction/seticon,0
 mozilla/add-ons/webextensions/api/pageaction/setpopup,0
@@ -1941,7 +1941,7 @@ mozilla/firefox/releases/132,0
 mozilla/firefox/releases/133,0
 mozilla/firefox/releases/134,0
 mozilla/firefox/releases/135,0
-mozilla/firefox/releases/136,0
+mozilla/firefox/releases/136,1
 mozilla/firefox/releases/137,0
 mozilla/firefox/releases/138,0
 mozilla/firefox/releases/139,0
@@ -2781,7 +2781,7 @@ web/api/canvasrenderingcontext2d/imagesmoothingquality,0
 web/api/canvasrenderingcontext2d/iscontextlost,0
 web/api/canvasrenderingcontext2d/ispointinpath,0
 web/api/canvasrenderingcontext2d/ispointinstroke,0
-web/api/canvasrenderingcontext2d/lang,0
+web/api/canvasrenderingcontext2d/lang,1
 web/api/canvasrenderingcontext2d/letterspacing,0
 web/api/canvasrenderingcontext2d/linecap,0
 web/api/canvasrenderingcontext2d/linedashoffset,0
@@ -3066,10 +3066,10 @@ web/api/cssanimation,0
 web/api/cssanimation/animationname,0
 web/api/cssconditionrule,0
 web/api/cssconditionrule/conditiontext,0
-web/api/csscontainerrule,1
-web/api/csscontainerrule/conditions,null
-web/api/csscontainerrule/containername,1
-web/api/csscontainerrule/containerquery,1
+web/api/csscontainerrule,0
+web/api/csscontainerrule/conditions,0
+web/api/csscontainerrule/containername,0
+web/api/csscontainerrule/containerquery,0
 web/api/csscounterstylerule,0
 web/api/csscounterstylerule/additivesymbols,0
 web/api/csscounterstylerule/fallback,0
@@ -4715,7 +4715,7 @@ web/api/hmdvrdevice,0
 web/api/hmdvrdevice/geteyeparameters,0
 web/api/hmdvrdevice/setfieldofview,0
 web/api/houdini_apis,0
-web/api/html_dom_api,0
+web/api/html_dom_api,1
 web/api/html_dom_api/microtask_guide,0
 web/api/html_dom_api/microtask_guide/in_depth,0
 web/api/html_drag_and_drop_api,0
@@ -5645,7 +5645,7 @@ web/api/imagetracklist/ready,0
 web/api/imagetracklist/selectedindex,0
 web/api/imagetracklist/selectedtrack,0
 web/api/indexeddb_api,0
-web/api/indexeddb_api/basic_terminology,0
+web/api/indexeddb_api/basic_terminology,1
 web/api/indexeddb_api/checking_when_a_deadline_is_due,0
 web/api/indexeddb_api/using_indexeddb,0
 web/api/ink,0
@@ -7876,12 +7876,12 @@ web/api/speechrecognition,0
 web/api/speechrecognition/abort,0
 web/api/speechrecognition/audioend_event,0
 web/api/speechrecognition/audiostart_event,0
-web/api/speechrecognition/available_static,0
+web/api/speechrecognition/available_static,1
 web/api/speechrecognition/continuous,0
 web/api/speechrecognition/end_event,0
 web/api/speechrecognition/error_event,0
 web/api/speechrecognition/grammars,0
-web/api/speechrecognition/install_static,0
+web/api/speechrecognition/install_static,1
 web/api/speechrecognition/interimresults,0
 web/api/speechrecognition/lang,0
 web/api/speechrecognition/maxalternatives,0
@@ -9697,7 +9697,7 @@ web/api/window/frames,0
 web/api/window/fullscreen,0
 web/api/window/gamepadconnected_event,0
 web/api/window/gamepaddisconnected_event,0
-web/api/window/getcomputedstyle,1
+web/api/window/getcomputedstyle,0
 web/api/window/getdefaultcomputedstyle,0
 web/api/window/getscreendetails,0
 web/api/window/getselection,0
@@ -10587,7 +10587,7 @@ web/css/reference/properties/alignment-baseline,0
 web/css/reference/properties/all,0
 web/css/reference/properties/anchor-name,0
 web/css/reference/properties/anchor-scope,0
-web/css/reference/properties/animation,1
+web/css/reference/properties/animation,0
 web/css/reference/properties/animation-composition,0
 web/css/reference/properties/animation-delay,0
 web/css/reference/properties/animation-direction,0
@@ -10969,7 +10969,7 @@ web/css/reference/properties/position-try-fallbacks,0
 web/css/reference/properties/position-try-order,0
 web/css/reference/properties/position-visibility,0
 web/css/reference/properties/print-color-adjust,0
-web/css/reference/properties/quotes,1
+web/css/reference/properties/quotes,0
 web/css/reference/properties/r,0
 web/css/reference/properties/reading-flow,0
 web/css/reference/properties/reading-order,0
@@ -11172,7 +11172,7 @@ web/css/reference/selectors/_colon_not,0
 web/css/reference/selectors/_colon_nth-child,0
 web/css/reference/selectors/_colon_nth-last-child,0
 web/css/reference/selectors/_colon_nth-last-of-type,0
-web/css/reference/selectors/_colon_nth-of-type,1
+web/css/reference/selectors/_colon_nth-of-type,0
 web/css/reference/selectors/_colon_only-child,0
 web/css/reference/selectors/_colon_only-of-type,0
 web/css/reference/selectors/_colon_open,0
@@ -14133,7 +14133,7 @@ webassembly,0
 webassembly/guides,0
 webassembly/guides/c_to_wasm,0
 webassembly/guides/concepts,0
-webassembly/guides/existing_c_to_wasm,1
+webassembly/guides/existing_c_to_wasm,0
 webassembly/guides/exported_functions,0
 webassembly/guides/imported_string_constants,0
 webassembly/guides/javascript_builtins,0

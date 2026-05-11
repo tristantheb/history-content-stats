@@ -1495,7 +1495,7 @@ mozilla/add-ons/webextensions/api/pageaction/gettitle,3
 mozilla/add-ons/webextensions/api/pageaction/hide,2
 mozilla/add-ons/webextensions/api/pageaction/imagedatatype,3
 mozilla/add-ons/webextensions/api/pageaction/isshown,3
-mozilla/add-ons/webextensions/api/pageaction/onclicked,3
+mozilla/add-ons/webextensions/api/pageaction/onclicked,4
 mozilla/add-ons/webextensions/api/pageaction/openpopup,2
 mozilla/add-ons/webextensions/api/pageaction/seticon,4
 mozilla/add-ons/webextensions/api/pageaction/setpopup,3
