@@ -374,7 +374,7 @@ glossary/latency,2
 glossary/layout_mode,null
 glossary/layout_viewport,0
 glossary/lazy_load,3
-glossary/leading,2
+glossary/leading,3
 glossary/lgpl,1
 glossary/ligature,1
 glossary/literal,0
@@ -527,7 +527,7 @@ glossary/rsync,1
 glossary/rtcp,1
 glossary/rtf,1
 glossary/rtl,4
-glossary/rtp,1
+glossary/rtp,2
 glossary/rtsp,2
 glossary/ruby,3
 glossary/safe,null
@@ -663,7 +663,7 @@ glossary/wcag,6
 glossary/web_performance,3
 glossary/web_server,2
 glossary/web_standards,1
-glossary/webassembly,1
+glossary/webassembly,2
 glossary/webdav,4
 glossary/webextensions,1
 glossary/webgl,2
@@ -2824,7 +2824,7 @@ web/api/canvasrenderingcontext2d/strokerect,2
 web/api/canvasrenderingcontext2d/strokestyle,2
 web/api/canvasrenderingcontext2d/stroketext,1
 web/api/canvasrenderingcontext2d/textalign,1
-web/api/canvasrenderingcontext2d/textbaseline,2
+web/api/canvasrenderingcontext2d/textbaseline,3
 web/api/canvasrenderingcontext2d/textrendering,5
 web/api/canvasrenderingcontext2d/transform,1
 web/api/canvasrenderingcontext2d/translate,1
@@ -6642,7 +6642,7 @@ web/api/paymentresponse/retry,null
 web/api/paymentresponse/shippingaddress,null
 web/api/paymentresponse/shippingoption,null
 web/api/paymentresponse/tojson,null
-web/api/pbkdf2params,2
+web/api/pbkdf2params,3
 web/api/performance,null
 web/api/performance/clearmarks,null
 web/api/performance/clearmeasures,null
@@ -6904,7 +6904,7 @@ web/api/presentationconnection/state,0
 web/api/presentationconnection/terminate,null
 web/api/presentationconnection/url,0
 web/api/presentationconnectionavailableevent,null
-web/api/presentationconnectionavailableevent/connection,null
+web/api/presentationconnectionavailableevent/connection,0
 web/api/presentationconnectionavailableevent/presentationconnectionavailableevent,null
 web/api/presentationconnectioncloseevent,null
 web/api/presentationconnectionlist,null
@@ -7163,7 +7163,7 @@ web/api/rtccertificate/expires,null
 web/api/rtccertificate/getfingerprints,null
 web/api/rtccertificatestats,null
 web/api/rtccertificatestats/base64certificate,0
-web/api/rtccertificatestats/fingerprint,null
+web/api/rtccertificatestats/fingerprint,0
 web/api/rtccertificatestats/fingerprintalgorithm,0
 web/api/rtccertificatestats/id,0
 web/api/rtccertificatestats/timestamp,0
@@ -7210,7 +7210,7 @@ web/api/rtcdatachannelstats/datachannelidentifier,0
 web/api/rtcdatachannelstats/id,0
 web/api/rtcdatachannelstats/label,0
 web/api/rtcdatachannelstats/messagesreceived,0
-web/api/rtcdatachannelstats/messagessent,null
+web/api/rtcdatachannelstats/messagessent,0
 web/api/rtcdatachannelstats/protocol,null
 web/api/rtcdatachannelstats/state,0
 web/api/rtcdatachannelstats/timestamp,0
@@ -10284,7 +10284,7 @@ web/css/guides/cascading_variables,null
 web/css/guides/cascading_variables/using_custom_properties,null
 web/css/guides/color_adjustment,1
 web/css/guides/colors,9
-web/css/guides/colors/applying_color,4
+web/css/guides/colors/applying_color,5
 web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,2
 web/css/guides/colors/color_values,0
@@ -10450,7 +10450,7 @@ web/css/guides/values_and_units/using_typed_arithmetic,null
 web/css/guides/values_and_units/value_definition_syntax,null
 web/css/guides/view_transitions,1
 web/css/guides/viewport,null
-web/css/guides/writing_modes,2
+web/css/guides/writing_modes,3
 web/css/guides/writing_modes/vertical_controls,null
 web/css/guides/writing_modes/writing_mode_systems,null
 web/css/how_to,null
@@ -11514,7 +11514,7 @@ web/html/reference/attributes/pattern,null
 web/html/reference/attributes/placeholder,5
 web/html/reference/attributes/readonly,4
 web/html/reference/attributes/rel,null
-web/html/reference/attributes/rel/alternate_stylesheet,2
+web/html/reference/attributes/rel/alternate_stylesheet,3
 web/html/reference/attributes/rel/compression-dictionary,2
 web/html/reference/attributes/rel/dns-prefetch,2
 web/html/reference/attributes/rel/manifest,1
@@ -13660,7 +13660,7 @@ web/svg/reference,0
 web/svg/reference/attribute,12
 web/svg/reference/attribute/accumulate,1
 web/svg/reference/attribute/additive,1
-web/svg/reference/attribute/alignment-baseline,4
+web/svg/reference/attribute/alignment-baseline,5
 web/svg/reference/attribute/amplitude,3
 web/svg/reference/attribute/attributename,1
 web/svg/reference/attribute/attributetype,null
