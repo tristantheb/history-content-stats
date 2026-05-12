@@ -374,7 +374,7 @@ glossary/latency,0
 glossary/layout_mode,0
 glossary/layout_viewport,0
 glossary/lazy_load,0
-glossary/leading,0
+glossary/leading,1
 glossary/lgpl,0
 glossary/ligature,0
 glossary/literal,0
@@ -527,7 +527,7 @@ glossary/rsync,0
 glossary/rtcp,0
 glossary/rtf,0
 glossary/rtl,0
-glossary/rtp,0
+glossary/rtp,1
 glossary/rtsp,0
 glossary/ruby,0
 glossary/safe,0
@@ -663,7 +663,7 @@ glossary/wcag,0
 glossary/web_performance,0
 glossary/web_server,0
 glossary/web_standards,0
-glossary/webassembly,0
+glossary/webassembly,1
 glossary/webdav,0
 glossary/webextensions,0
 glossary/webgl,0
@@ -1054,16 +1054,16 @@ learn_web_development/howto/web_mechanics/what_is_a_web_server,null
 mdn,0
 mdn/community,0
 mdn/community/communication_channels,0
-mdn/community/community_participation_guidelines,1
+mdn/community/community_participation_guidelines,0
 mdn/community/discussions,0
 mdn/community/discussions/managing_and_resolving_discussions,0
-mdn/community/getting_started,3
-mdn/community/issues,2
-mdn/community/issues/content_suggestions_feature_proposals,null
-mdn/community/learn_forum,null
-mdn/community/open_source_etiquette,null
+mdn/community/getting_started,0
+mdn/community/issues,0
+mdn/community/issues/content_suggestions_feature_proposals,0
+mdn/community/learn_forum,0
+mdn/community/open_source_etiquette,0
 mdn/community/our_repositories,0
-mdn/community/pull_requests,1
+mdn/community/pull_requests,0
 mdn/community/roles_teams,0
 mdn/community/translated_content,0
 mdn/guides,1
@@ -1959,7 +1959,7 @@ mozilla/firefox/releases/147,0
 mozilla/firefox/releases/148,1
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,null
-mozilla/firefox/releases/150,2
+mozilla/firefox/releases/150,3
 mozilla/firefox/releases/151,null
 mozilla/firefox/releases/152,null
 mozilla/firefox/releases/16,null
@@ -9374,7 +9374,7 @@ web/api/webgl_api/tutorial/creating_3d_objects_using_webgl,null
 web/api/webgl_api/tutorial/getting_started_with_webgl,null
 web/api/webgl_api/tutorial/lighting_in_webgl,null
 web/api/webgl_api/tutorial/using_shaders_to_apply_color_in_webgl,null
-web/api/webgl_api/tutorial/using_textures_in_webgl,null
+web/api/webgl_api/tutorial/using_textures_in_webgl,0
 web/api/webgl_api/types,null
 web/api/webgl_api/using_extensions,null
 web/api/webgl_api/webgl_best_practices,null
@@ -10284,7 +10284,7 @@ web/css/guides/cascading_variables,null
 web/css/guides/cascading_variables/using_custom_properties,null
 web/css/guides/color_adjustment,null
 web/css/guides/colors,9
-web/css/guides/colors/applying_color,4
+web/css/guides/colors/applying_color,5
 web/css/guides/colors/color_format_converter,1
 web/css/guides/colors/color_mixer,2
 web/css/guides/colors/color_values,null
@@ -10427,7 +10427,7 @@ web/css/guides/shapes/from_images,null
 web/css/guides/shapes/overview,null
 web/css/guides/shapes/shape_generator,2
 web/css/guides/shapes/using_shape-outside,null
-web/css/guides/syntax,0
+web/css/guides/syntax,1
 web/css/guides/syntax/at-rules,1
 web/css/guides/syntax/comments,null
 web/css/guides/syntax/error_handling,null
@@ -10629,7 +10629,7 @@ web/css/reference/properties/background-origin,0
 web/css/reference/properties/background-position,0
 web/css/reference/properties/background-position-x,0
 web/css/reference/properties/background-position-y,0
-web/css/reference/properties/background-repeat,0
+web/css/reference/properties/background-repeat,1
 web/css/reference/properties/background-repeat-x,0
 web/css/reference/properties/background-repeat-y,0
 web/css/reference/properties/background-size,0
@@ -10815,7 +10815,7 @@ web/css/reference/properties/font-variant-alternates,0
 web/css/reference/properties/font-variant-caps,0
 web/css/reference/properties/font-variant-east-asian,0
 web/css/reference/properties/font-variant-emoji,0
-web/css/reference/properties/font-variant-ligatures,0
+web/css/reference/properties/font-variant-ligatures,1
 web/css/reference/properties/font-variant-numeric,0
 web/css/reference/properties/font-variant-position,0
 web/css/reference/properties/font-variation-settings,0
@@ -10974,7 +10974,7 @@ web/css/reference/properties/place-items,0
 web/css/reference/properties/place-self,0
 web/css/reference/properties/pointer-events,0
 web/css/reference/properties/position,0
-web/css/reference/properties/position-anchor,0
+web/css/reference/properties/position-anchor,1
 web/css/reference/properties/position-area,0
 web/css/reference/properties/position-try,0
 web/css/reference/properties/position-try-fallbacks,0
@@ -11077,7 +11077,7 @@ web/css/reference/properties/text-size-adjust,0
 web/css/reference/properties/text-spacing-trim,0
 web/css/reference/properties/text-transform,0
 web/css/reference/properties/text-underline-offset,0
-web/css/reference/properties/text-underline-position,0
+web/css/reference/properties/text-underline-position,1
 web/css/reference/properties/text-wrap,0
 web/css/reference/properties/text-wrap-mode,0
 web/css/reference/properties/text-wrap-style,0
@@ -11514,7 +11514,7 @@ web/html/reference/attributes/pattern,0
 web/html/reference/attributes/placeholder,0
 web/html/reference/attributes/readonly,0
 web/html/reference/attributes/rel,0
-web/html/reference/attributes/rel/alternate_stylesheet,0
+web/html/reference/attributes/rel/alternate_stylesheet,1
 web/html/reference/attributes/rel/compression-dictionary,0
 web/html/reference/attributes/rel/dns-prefetch,0
 web/html/reference/attributes/rel/manifest,0
@@ -11933,7 +11933,7 @@ web/http/reference/headers/permissions-policy/window-management,0
 web/http/reference/headers/permissions-policy/xr-spatial-tracking,0
 web/http/reference/headers/pragma,0
 web/http/reference/headers/prefer,0
-web/http/reference/headers/preference-applied,0
+web/http/reference/headers/preference-applied,1
 web/http/reference/headers/priority,0
 web/http/reference/headers/proxy-authenticate,0
 web/http/reference/headers/proxy-authorization,0

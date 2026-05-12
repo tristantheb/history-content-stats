@@ -374,7 +374,7 @@ glossary/latency,0
 glossary/layout_mode,null
 glossary/layout_viewport,null
 glossary/lazy_load,3
-glossary/leading,2
+glossary/leading,3
 glossary/lgpl,1
 glossary/ligature,null
 glossary/literal,4
@@ -663,7 +663,7 @@ glossary/wcag,null
 glossary/web_performance,2
 glossary/web_server,2
 glossary/web_standards,null
-glossary/webassembly,1
+glossary/webassembly,2
 glossary/webdav,null
 glossary/webextensions,null
 glossary/webgl,null
@@ -1959,7 +1959,7 @@ mozilla/firefox/releases/147,3
 mozilla/firefox/releases/148,3
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
-mozilla/firefox/releases/150,2
+mozilla/firefox/releases/150,3
 mozilla/firefox/releases/151,null
 mozilla/firefox/releases/152,null
 mozilla/firefox/releases/16,0
@@ -2824,7 +2824,7 @@ web/api/canvasrenderingcontext2d/strokerect,0
 web/api/canvasrenderingcontext2d/strokestyle,3
 web/api/canvasrenderingcontext2d/stroketext,2
 web/api/canvasrenderingcontext2d/textalign,1
-web/api/canvasrenderingcontext2d/textbaseline,2
+web/api/canvasrenderingcontext2d/textbaseline,3
 web/api/canvasrenderingcontext2d/textrendering,5
 web/api/canvasrenderingcontext2d/transform,0
 web/api/canvasrenderingcontext2d/translate,0
@@ -8725,7 +8725,7 @@ web/api/textformat/underlinethickness,2
 web/api/textformatupdateevent,0
 web/api/textformatupdateevent/gettextformats,1
 web/api/textformatupdateevent/textformatupdateevent,0
-web/api/textmetrics,0
+web/api/textmetrics,1
 web/api/textmetrics/actualboundingboxascent,0
 web/api/textmetrics/actualboundingboxdescent,0
 web/api/textmetrics/actualboundingboxleft,0
@@ -10284,7 +10284,7 @@ web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,0
 web/css/guides/color_adjustment,0
 web/css/guides/colors,1
-web/css/guides/colors/applying_color,0
+web/css/guides/colors/applying_color,1
 web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,1
 web/css/guides/colors/color_values,2
@@ -10316,7 +10316,7 @@ web/css/guides/display/formatting_contexts,1
 web/css/guides/display/in_flow_and_out_of_flow,0
 web/css/guides/display/multi-keyword_syntax,0
 web/css/guides/display/visual_formatting_model,0
-web/css/guides/easing_functions,0
+web/css/guides/easing_functions,1
 web/css/guides/environment_variables,0
 web/css/guides/environment_variables/using,0
 web/css/guides/filter_effects,1
@@ -10427,7 +10427,7 @@ web/css/guides/shapes/from_images,0
 web/css/guides/shapes/overview,0
 web/css/guides/shapes/shape_generator,0
 web/css/guides/shapes/using_shape-outside,0
-web/css/guides/syntax,0
+web/css/guides/syntax,1
 web/css/guides/syntax/at-rules,0
 web/css/guides/syntax/comments,0
 web/css/guides/syntax/error_handling,0
@@ -10450,7 +10450,7 @@ web/css/guides/values_and_units/using_typed_arithmetic,0
 web/css/guides/values_and_units/value_definition_syntax,0
 web/css/guides/view_transitions,1
 web/css/guides/viewport,0
-web/css/guides/writing_modes,1
+web/css/guides/writing_modes,2
 web/css/guides/writing_modes/vertical_controls,0
 web/css/guides/writing_modes/writing_mode_systems,2
 web/css/how_to,0
@@ -10629,7 +10629,7 @@ web/css/reference/properties/background-origin,2
 web/css/reference/properties/background-position,1
 web/css/reference/properties/background-position-x,1
 web/css/reference/properties/background-position-y,1
-web/css/reference/properties/background-repeat,1
+web/css/reference/properties/background-repeat,2
 web/css/reference/properties/background-repeat-x,3
 web/css/reference/properties/background-repeat-y,4
 web/css/reference/properties/background-size,2
@@ -10815,7 +10815,7 @@ web/css/reference/properties/font-variant-alternates,1
 web/css/reference/properties/font-variant-caps,1
 web/css/reference/properties/font-variant-east-asian,1
 web/css/reference/properties/font-variant-emoji,1
-web/css/reference/properties/font-variant-ligatures,1
+web/css/reference/properties/font-variant-ligatures,2
 web/css/reference/properties/font-variant-numeric,1
 web/css/reference/properties/font-variant-position,1
 web/css/reference/properties/font-variation-settings,1
@@ -10974,7 +10974,7 @@ web/css/reference/properties/place-items,1
 web/css/reference/properties/place-self,1
 web/css/reference/properties/pointer-events,1
 web/css/reference/properties/position,1
-web/css/reference/properties/position-anchor,1
+web/css/reference/properties/position-anchor,2
 web/css/reference/properties/position-area,1
 web/css/reference/properties/position-try,1
 web/css/reference/properties/position-try-fallbacks,1
@@ -11077,7 +11077,7 @@ web/css/reference/properties/text-size-adjust,0
 web/css/reference/properties/text-spacing-trim,1
 web/css/reference/properties/text-transform,1
 web/css/reference/properties/text-underline-offset,1
-web/css/reference/properties/text-underline-position,1
+web/css/reference/properties/text-underline-position,2
 web/css/reference/properties/text-wrap,1
 web/css/reference/properties/text-wrap-mode,1
 web/css/reference/properties/text-wrap-style,1
@@ -11514,7 +11514,7 @@ web/html/reference/attributes/pattern,4
 web/html/reference/attributes/placeholder,4
 web/html/reference/attributes/readonly,3
 web/html/reference/attributes/rel,0
-web/html/reference/attributes/rel/alternate_stylesheet,3
+web/html/reference/attributes/rel/alternate_stylesheet,4
 web/html/reference/attributes/rel/compression-dictionary,3
 web/html/reference/attributes/rel/dns-prefetch,2
 web/html/reference/attributes/rel/manifest,2
@@ -13614,7 +13614,7 @@ web/security/attacks/subdomain_takeover,1
 web/security/attacks/supply_chain_attacks,null
 web/security/attacks/xs-leaks,null
 web/security/attacks/xss,3
-web/security/authentication,0
+web/security/authentication,1
 web/security/authentication/federated_identity,null
 web/security/authentication/otp,0
 web/security/authentication/passkeys,null
@@ -13660,7 +13660,7 @@ web/svg/reference,0
 web/svg/reference/attribute,1
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,0
-web/svg/reference/attribute/alignment-baseline,0
+web/svg/reference/attribute/alignment-baseline,1
 web/svg/reference/attribute/amplitude,null
 web/svg/reference/attribute/attributename,0
 web/svg/reference/attribute/attributetype,null
@@ -13725,7 +13725,7 @@ web/svg/reference/attribute/glyph-orientation-vertical,null
 web/svg/reference/attribute/gradienttransform,0
 web/svg/reference/attribute/gradientunits,0
 web/svg/reference/attribute/height,1
-web/svg/reference/attribute/href,0
+web/svg/reference/attribute/href,1
 web/svg/reference/attribute/id,2
 web/svg/reference/attribute/image-rendering,0
 web/svg/reference/attribute/in,0
