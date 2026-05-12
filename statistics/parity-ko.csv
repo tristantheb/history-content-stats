@@ -7469,6 +7469,11 @@ web/api/rtcpeerconnection/signalingstatechange_event,null
 web/api/rtcpeerconnection/track_event,null
 web/api/rtcpeerconnectioniceerrorevent,null
 web/api/rtcpeerconnectioniceerrorevent/address,null
+web/api/rtcpeerconnectioniceerrorevent/errorcode,null
+web/api/rtcpeerconnectioniceerrorevent/errortext,null
+web/api/rtcpeerconnectioniceerrorevent/port,null
+web/api/rtcpeerconnectioniceerrorevent/rtcpeerconnectioniceerrorevent,null
+web/api/rtcpeerconnectioniceerrorevent/url,null
 web/api/rtcpeerconnectioniceevent,null
 web/api/rtcpeerconnectioniceevent/candidate,null
 web/api/rtcpeerconnectioniceevent/rtcpeerconnectioniceevent,null
@@ -11265,7 +11270,7 @@ web/css/reference/selectors/_doublecolon_slotted,5
 web/css/reference/selectors/_doublecolon_spelling-error,2
 web/css/reference/selectors/_doublecolon_target-text,2
 web/css/reference/selectors/_doublecolon_view-transition,2
-web/css/reference/selectors/_doublecolon_view-transition-group,3
+web/css/reference/selectors/_doublecolon_view-transition-group,4
 web/css/reference/selectors/_doublecolon_view-transition-image-pair,2
 web/css/reference/selectors/_doublecolon_view-transition-new,2
 web/css/reference/selectors/_doublecolon_view-transition-old,2

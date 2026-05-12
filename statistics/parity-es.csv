@@ -810,7 +810,7 @@ learn_web_development/core/structuring_content/emphasis_and_importance,null
 learn_web_development/core/structuring_content/forms_challenge,null
 learn_web_development/core/structuring_content/general_embedding_technologies,null
 learn_web_development/core/structuring_content/headings_and_paragraphs,null
-learn_web_development/core/structuring_content/html_forms,13
+learn_web_development/core/structuring_content/html_forms,14
 learn_web_development/core/structuring_content/html_images,null
 learn_web_development/core/structuring_content/html_table_basics,null
 learn_web_development/core/structuring_content/html_video_and_audio,null
@@ -7469,6 +7469,11 @@ web/api/rtcpeerconnection/signalingstatechange_event,null
 web/api/rtcpeerconnection/track_event,null
 web/api/rtcpeerconnectioniceerrorevent,null
 web/api/rtcpeerconnectioniceerrorevent/address,null
+web/api/rtcpeerconnectioniceerrorevent/errorcode,null
+web/api/rtcpeerconnectioniceerrorevent/errortext,null
+web/api/rtcpeerconnectioniceerrorevent/port,null
+web/api/rtcpeerconnectioniceerrorevent/rtcpeerconnectioniceerrorevent,null
+web/api/rtcpeerconnectioniceerrorevent/url,null
 web/api/rtcpeerconnectioniceevent,null
 web/api/rtcpeerconnectioniceevent/candidate,null
 web/api/rtcpeerconnectioniceevent/rtcpeerconnectioniceevent,null
