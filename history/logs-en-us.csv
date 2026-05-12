@@ -9102,7 +9102,7 @@ web/api/videotracklist/length,8a9085b96d0135920be9b281d4500ff72a7a8369,Web APIs
 web/api/videotracklist/removetrack_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/videotracklist/selectedindex,532ecbca7b68e7defa4612bc7b00885a13163641,Web APIs
 web/api/view_transition_api,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
-web/api/view_transition_api/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
+web/api/view_transition_api/using,7313aa9ef71bdfcd7ddb2fa4247b0600ce0e6542,Web APIs
 web/api/view_transition_api/using_types,8f7fa9e7aef0399c7a7f8e5a20476a0c2f287640,Web APIs
 web/api/viewport,9be502ee0f8b030908e59d30884190281acb8054,Web APIs
 web/api/viewport/segments,9be502ee0f8b030908e59d30884190281acb8054,Web APIs
@@ -9113,12 +9113,13 @@ web/api/viewtimeline/endoffset,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/viewtimeline/startoffset,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/viewtimeline/subject,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/viewtimeline/viewtimeline,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/viewtransition,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
+web/api/viewtransition,7313aa9ef71bdfcd7ddb2fa4247b0600ce0e6542,Web APIs
 web/api/viewtransition/finished,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
 web/api/viewtransition/ready,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
 web/api/viewtransition/skiptransition,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
 web/api/viewtransition/types,8f7fa9e7aef0399c7a7f8e5a20476a0c2f287640,Web APIs
 web/api/viewtransition/updatecallbackdone,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
+web/api/viewtransition/waituntil,7313aa9ef71bdfcd7ddb2fa4247b0600ce0e6542,Web APIs
 web/api/viewtransitiontypeset,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
 web/api/virtualkeyboard,5cdb341c723de0edb273769555d9124266d9c851,Web APIs
 web/api/virtualkeyboard/boundingrect,5cdb341c723de0edb273769555d9124266d9c851,Web APIs
@@ -9612,7 +9613,7 @@ web/api/webtransport/incomingbidirectionalstreams,4de6f76bbfd76229db78ffb7d52cf6
 web/api/webtransport/incomingunidirectionalstreams,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/webtransport/ready,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/reliability,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
-web/api/webtransport/webtransport,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
+web/api/webtransport/webtransport,41b5ef37f56bdab1f90c2fd37122b1f06d59aba2,Web APIs
 web/api/webtransport_api,30c9f71e6a6cac4d894688cabf7e4b50af87cfe5,Web APIs
 web/api/webtransportbidirectionalstream,cc41ecd796870c2b6c77ad0b04fcb8d8c7d877d2,Web APIs
 web/api/webtransportbidirectionalstream/readable,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
