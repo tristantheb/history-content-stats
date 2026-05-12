@@ -9119,6 +9119,7 @@ web/api/viewtransition/ready,null
 web/api/viewtransition/skiptransition,null
 web/api/viewtransition/types,null
 web/api/viewtransition/updatecallbackdone,null
+web/api/viewtransition/waituntil,null
 web/api/viewtransitiontypeset,null
 web/api/virtualkeyboard,null
 web/api/virtualkeyboard/boundingrect,null
