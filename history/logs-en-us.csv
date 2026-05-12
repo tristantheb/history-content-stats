@@ -374,7 +374,7 @@ glossary/latency,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/layout_mode,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
 glossary/layout_viewport,9be502ee0f8b030908e59d30884190281acb8054,Glossary
 glossary/lazy_load,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
-glossary/leading,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
+glossary/leading,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Glossary
 glossary/lgpl,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/ligature,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/literal,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
@@ -527,7 +527,7 @@ glossary/rsync,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/rtcp,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/rtf,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/rtl,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
-glossary/rtp,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
+glossary/rtp,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Glossary
 glossary/rtsp,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/ruby,038bda33048810c222cc32b71f52f14d53495a1d,Glossary
 glossary/safe,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
@@ -663,7 +663,7 @@ glossary/wcag,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/web_performance,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/web_server,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/web_standards,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
-glossary/webassembly,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
+glossary/webassembly,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Glossary
 glossary/webdav,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/webextensions,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/webgl,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
@@ -1959,7 +1959,7 @@ mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Fi
 mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Firefox|Versions
 mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
-mozilla/firefox/releases/150,f186e0e0faf8089d0d126b97663667c0ff2cf093,Mozilla|Firefox|Versions
+mozilla/firefox/releases/150,a6f4c4fd720fc1ee83284b11382b63ee85501dc1,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,8504c925055b30ac19e8bde1c1f5ad6656f74887,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -2824,7 +2824,7 @@ web/api/canvasrenderingcontext2d/strokerect,a7265fc3effa7c25b9997135104370c057a6
 web/api/canvasrenderingcontext2d/strokestyle,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/canvasrenderingcontext2d/stroketext,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/canvasrenderingcontext2d/textalign,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
-web/api/canvasrenderingcontext2d/textbaseline,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
+web/api/canvasrenderingcontext2d/textbaseline,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Web APIs
 web/api/canvasrenderingcontext2d/textrendering,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/canvasrenderingcontext2d/transform,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/canvasrenderingcontext2d/translate,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
@@ -6642,7 +6642,7 @@ web/api/paymentresponse/retry,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/paymentresponse/shippingaddress,e452bf7276167b8b9dae27df697ca4af0f2c5177,Web APIs
 web/api/paymentresponse/shippingoption,e452bf7276167b8b9dae27df697ca4af0f2c5177,Web APIs
 web/api/paymentresponse/tojson,cc41ecd796870c2b6c77ad0b04fcb8d8c7d877d2,Web APIs
-web/api/pbkdf2params,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
+web/api/pbkdf2params,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Web APIs
 web/api/performance,9548e8228e0872c244e3a0622ed0448139995ad6,Web APIs
 web/api/performance/clearmarks,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web APIs
 web/api/performance/clearmeasures,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web APIs
@@ -8725,7 +8725,7 @@ web/api/textformat/underlinethickness,bc9f7bec1ab48f29d241e38a9f1598f783f6b60a,W
 web/api/textformatupdateevent,c29cee3dcb0d0e66093dd0c18aa82e0eab9d6d14,Web APIs
 web/api/textformatupdateevent/gettextformats,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
 web/api/textformatupdateevent/textformatupdateevent,a6f2a5b313727d983c369dec91c4c7418b1b4f74,Web APIs
-web/api/textmetrics,0a4d5b451cc54599ed2b99cef4fdd39c3fd96a3d,Web APIs
+web/api/textmetrics,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Web APIs
 web/api/textmetrics/actualboundingboxascent,daeff1a2efaae366bcc8b6d911d86985646e665e,Web APIs
 web/api/textmetrics/actualboundingboxdescent,daeff1a2efaae366bcc8b6d911d86985646e665e,Web APIs
 web/api/textmetrics/actualboundingboxleft,daeff1a2efaae366bcc8b6d911d86985646e665e,Web APIs
@@ -10284,7 +10284,7 @@ web/css/guides/cascading_variables,33094d735e90b4dcae5733331b79c51fee997410,CSS|
 web/css/guides/cascading_variables/using_custom_properties,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/color_adjustment,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/colors,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/colors/applying_color,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
+web/css/guides/colors/applying_color,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
 web/css/guides/colors/color_format_converter,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/colors/color_mixer,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/colors/color_values,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
@@ -10316,7 +10316,7 @@ web/css/guides/display/formatting_contexts,19497692665c3551b4097af5cd9f52f84564c
 web/css/guides/display/in_flow_and_out_of_flow,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/display/multi-keyword_syntax,3a69b74048ff2480c481ace3e689fbb4d510f3e5,CSS|Guides
 web/css/guides/display/visual_formatting_model,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/easing_functions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/easing_functions,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
 web/css/guides/environment_variables,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/environment_variables/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/filter_effects,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,CSS|Guides
@@ -10427,7 +10427,7 @@ web/css/guides/shapes/from_images,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|G
 web/css/guides/shapes/overview,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/shapes/shape_generator,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/shapes/using_shape-outside,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/syntax,81f8fcd666952c1782653a3675347c392cc997ca,CSS|Guides
+web/css/guides/syntax,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
 web/css/guides/syntax/at-rules,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/syntax/comments,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/syntax/error_handling,a397ab763a6686a4056af755e4da32ac735b9fa5,CSS|Guides
@@ -10450,7 +10450,7 @@ web/css/guides/values_and_units/using_typed_arithmetic,85fccefc8066bd49af4ddafc1
 web/css/guides/values_and_units/value_definition_syntax,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/view_transitions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/viewport,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/writing_modes,b292c71457401efd7184a0b98d519fde1317120c,CSS|Guides
+web/css/guides/writing_modes,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
 web/css/guides/writing_modes/vertical_controls,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
 web/css/guides/writing_modes/writing_mode_systems,c53bfa01f3bf436d486f4032c16f592855a2af2c,CSS|Guides
 web/css/how_to,f3bf4e2bd456159093d3820253be9f266ace070a,CSS|How To
@@ -10629,7 +10629,7 @@ web/css/reference/properties/background-origin,bcbb4bd6a80292c0663b723d5466759cf
 web/css/reference/properties/background-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/background-position-x,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/background-position-y,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/background-repeat,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/background-repeat,3d7f42187a7b92addbcf8b35a8e382b79da00dfe,CSS|Properties
 web/css/reference/properties/background-repeat-x,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/background-repeat-y,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/background-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10815,7 +10815,7 @@ web/css/reference/properties/font-variant-alternates,bcbb4bd6a80292c0663b723d546
 web/css/reference/properties/font-variant-caps,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-variant-east-asian,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-variant-emoji,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-variant-ligatures,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/font-variant-ligatures,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Properties
 web/css/reference/properties/font-variant-numeric,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-variant-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-variation-settings,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10974,7 +10974,7 @@ web/css/reference/properties/place-items,bcbb4bd6a80292c0663b723d5466759cfaaa831
 web/css/reference/properties/place-self,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/pointer-events,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/position-anchor,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/position-anchor,31086145b865d6c5c2fec3ba700fd424d57fdf42,CSS|Properties
 web/css/reference/properties/position-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/position-try,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/position-try-fallbacks,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11077,7 +11077,7 @@ web/css/reference/properties/text-size-adjust,bcbb4bd6a80292c0663b723d5466759cfa
 web/css/reference/properties/text-spacing-trim,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-transform,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-underline-offset,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/text-underline-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/text-underline-position,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Properties
 web/css/reference/properties/text-wrap,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-wrap-mode,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-wrap-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11514,7 +11514,7 @@ web/html/reference/attributes/pattern,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,H
 web/html/reference/attributes/placeholder,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/readonly,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/rel,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
-web/html/reference/attributes/rel/alternate_stylesheet,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Attributes
+web/html/reference/attributes/rel/alternate_stylesheet,a516a9818e8cef06c626d436ee1d73fc6d87ec51,HTML|Attributes
 web/html/reference/attributes/rel/compression-dictionary,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Attributes
 web/html/reference/attributes/rel/dns-prefetch,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Attributes
 web/html/reference/attributes/rel/manifest,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Attributes
@@ -11933,7 +11933,7 @@ web/http/reference/headers/permissions-policy/window-management,ad5b5e31f81795d6
 web/http/reference/headers/permissions-policy/xr-spatial-tracking,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/pragma,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/prefer,c8bc787246fbec6fed108e4fb9e25df1d70a29ce,HTTP|Headers
-web/http/reference/headers/preference-applied,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
+web/http/reference/headers/preference-applied,a516a9818e8cef06c626d436ee1d73fc6d87ec51,HTTP|Headers
 web/http/reference/headers/priority,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/proxy-authenticate,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/proxy-authorization,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -13614,8 +13614,8 @@ web/security/attacks/subdomain_takeover,df8445288d6a7c39ef7d7c711af2189790b23831
 web/security/attacks/supply_chain_attacks,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Security|Attacks
 web/security/attacks/xs-leaks,81bf621759d3a52fdf737c2d75f186a0073d1406,Security|Attacks
 web/security/attacks/xss,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,Security|Attacks
-web/security/authentication,64e7d62e466859d471791367050ab2cc40d36506,Security|Authentication
-web/security/authentication/federated_identity,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Security|Authentication
+web/security/authentication,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Security|Authentication
+web/security/authentication/federated_identity,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Security|Authentication
 web/security/authentication/otp,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Security|Authentication
 web/security/authentication/passkeys,3d49f18251e1f3493ef2e3a70519603345f8b7dc,Security|Authentication
 web/security/authentication/passwords,545c1267ae9642d850ef539956442c2bb4de280a,Security|Authentication
@@ -13660,7 +13660,7 @@ web/svg/reference,c2fd97474834e061404b992c8397d4ccc4439a71,SVG
 web/svg/reference/attribute,3e97bf7d99f829a3cab9676837e8d9beabf9a1de,SVG|Attribute
 web/svg/reference/attribute/accumulate,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/additive,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/alignment-baseline,85fccefc8066bd49af4ddafc12c77f35265c7e2d,SVG|Attribute
+web/svg/reference/attribute/alignment-baseline,a516a9818e8cef06c626d436ee1d73fc6d87ec51,SVG|Attribute
 web/svg/reference/attribute/amplitude,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/attributename,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/attributetype,db01d0c8b4cbf8a4467b1db65e17f6724d0ce710,SVG|Attribute
@@ -13721,11 +13721,11 @@ web/svg/reference/attribute/from,ab279632b84d201ae9ddd3db3981bf0b01573371,SVG|At
 web/svg/reference/attribute/fx,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/fy,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/glyph-orientation-horizontal,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
-web/svg/reference/attribute/glyph-orientation-vertical,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
+web/svg/reference/attribute/glyph-orientation-vertical,a516a9818e8cef06c626d436ee1d73fc6d87ec51,SVG|Attribute
 web/svg/reference/attribute/gradienttransform,bb3478393fbb30212a6aeb33235dadf2d627fd4a,SVG|Attribute
 web/svg/reference/attribute/gradientunits,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
 web/svg/reference/attribute/height,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
-web/svg/reference/attribute/href,85fccefc8066bd49af4ddafc12c77f35265c7e2d,SVG|Attribute
+web/svg/reference/attribute/href,a516a9818e8cef06c626d436ee1d73fc6d87ec51,SVG|Attribute
 web/svg/reference/attribute/id,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
 web/svg/reference/attribute/image-rendering,be1922d62a0d31e4e3441db0e943aed8df736481,SVG|Attribute
 web/svg/reference/attribute/in,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
