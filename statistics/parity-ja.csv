@@ -9102,7 +9102,7 @@ web/api/videotracklist/length,3
 web/api/videotracklist/removetrack_event,5
 web/api/videotracklist/selectedindex,2
 web/api/view_transition_api,9
-web/api/view_transition_api/using,10
+web/api/view_transition_api/using,11
 web/api/view_transition_api/using_types,0
 web/api/viewport,0
 web/api/viewport/segments,0
@@ -9113,12 +9113,13 @@ web/api/viewtimeline/endoffset,2
 web/api/viewtimeline/startoffset,2
 web/api/viewtimeline/subject,2
 web/api/viewtimeline/viewtimeline,3
-web/api/viewtransition,0
+web/api/viewtransition,1
 web/api/viewtransition/finished,0
 web/api/viewtransition/ready,0
 web/api/viewtransition/skiptransition,0
 web/api/viewtransition/types,0
 web/api/viewtransition/updatecallbackdone,0
+web/api/viewtransition/waituntil,null
 web/api/viewtransitiontypeset,0
 web/api/virtualkeyboard,null
 web/api/virtualkeyboard/boundingrect,null

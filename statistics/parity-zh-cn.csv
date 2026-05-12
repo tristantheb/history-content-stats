@@ -9102,7 +9102,7 @@ web/api/videotracklist/length,null
 web/api/videotracklist/removetrack_event,null
 web/api/videotracklist/selectedindex,null
 web/api/view_transition_api,8
-web/api/view_transition_api/using,10
+web/api/view_transition_api/using,11
 web/api/view_transition_api/using_types,null
 web/api/viewport,null
 web/api/viewport/segments,null
@@ -9119,6 +9119,7 @@ web/api/viewtransition/ready,null
 web/api/viewtransition/skiptransition,null
 web/api/viewtransition/types,null
 web/api/viewtransition/updatecallbackdone,null
+web/api/viewtransition/waituntil,null
 web/api/viewtransitiontypeset,null
 web/api/virtualkeyboard,0
 web/api/virtualkeyboard/boundingrect,0
