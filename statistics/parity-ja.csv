@@ -810,7 +810,7 @@ learn_web_development/core/structuring_content/emphasis_and_importance,0
 learn_web_development/core/structuring_content/forms_challenge,2
 learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
-learn_web_development/core/structuring_content/html_forms,1
+learn_web_development/core/structuring_content/html_forms,2
 learn_web_development/core/structuring_content/html_images,1
 learn_web_development/core/structuring_content/html_table_basics,0
 learn_web_development/core/structuring_content/html_video_and_audio,0
@@ -7469,6 +7469,11 @@ web/api/rtcpeerconnection/signalingstatechange_event,null
 web/api/rtcpeerconnection/track_event,null
 web/api/rtcpeerconnectioniceerrorevent,null
 web/api/rtcpeerconnectioniceerrorevent/address,null
+web/api/rtcpeerconnectioniceerrorevent/errorcode,null
+web/api/rtcpeerconnectioniceerrorevent/errortext,null
+web/api/rtcpeerconnectioniceerrorevent/port,null
+web/api/rtcpeerconnectioniceerrorevent/rtcpeerconnectioniceerrorevent,null
+web/api/rtcpeerconnectioniceerrorevent/url,null
 web/api/rtcpeerconnectioniceevent,7
 web/api/rtcpeerconnectioniceevent/candidate,4
 web/api/rtcpeerconnectioniceevent/rtcpeerconnectioniceevent,2
@@ -10279,7 +10284,7 @@ web/css/guides/cascade/inheritance,0
 web/css/guides/cascade/introduction,0
 web/css/guides/cascade/property_value_processing,0
 web/css/guides/cascade/shorthand_properties,4
-web/css/guides/cascade/specificity,0
+web/css/guides/cascade/specificity,1
 web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,0
 web/css/guides/color_adjustment,0
@@ -10291,7 +10296,7 @@ web/css/guides/colors/color_values,2
 web/css/guides/colors/using_color_wisely,0
 web/css/guides/colors/using_relative_colors,3
 web/css/guides/compositing_and_blending,1
-web/css/guides/conditional_rules,1
+web/css/guides/conditional_rules,2
 web/css/guides/conditional_rules/container_scroll-state_queries,1
 web/css/guides/conditional_rules/using_feature_queries,0
 web/css/guides/containment,0
@@ -10427,7 +10432,7 @@ web/css/guides/shapes/from_images,0
 web/css/guides/shapes/overview,0
 web/css/guides/shapes/shape_generator,0
 web/css/guides/shapes/using_shape-outside,0
-web/css/guides/syntax,1
+web/css/guides/syntax,2
 web/css/guides/syntax/at-rules,0
 web/css/guides/syntax/comments,0
 web/css/guides/syntax/error_handling,0
@@ -10531,7 +10536,7 @@ web/css/reference/at-rules/@media/device-width,1
 web/css/reference/at-rules/@media/display-mode,1
 web/css/reference/at-rules/@media/dynamic-range,1
 web/css/reference/at-rules/@media/forced-colors,1
-web/css/reference/at-rules/@media/grid,1
+web/css/reference/at-rules/@media/grid,2
 web/css/reference/at-rules/@media/height,1
 web/css/reference/at-rules/@media/horizontal-viewport-segments,1
 web/css/reference/at-rules/@media/hover,1
@@ -10746,7 +10751,7 @@ web/css/reference/properties/contain-intrinsic-width,1
 web/css/reference/properties/container,1
 web/css/reference/properties/container-name,1
 web/css/reference/properties/container-type,2
-web/css/reference/properties/content,2
+web/css/reference/properties/content,3
 web/css/reference/properties/content-visibility,1
 web/css/reference/properties/corner-block-end-shape,2
 web/css/reference/properties/corner-block-start-shape,2
@@ -10782,7 +10787,7 @@ web/css/reference/properties/fill,0
 web/css/reference/properties/fill-opacity,null
 web/css/reference/properties/fill-rule,2
 web/css/reference/properties/filter,1
-web/css/reference/properties/flex,1
+web/css/reference/properties/flex,2
 web/css/reference/properties/flex-basis,2
 web/css/reference/properties/flex-direction,1
 web/css/reference/properties/flex-flow,1
@@ -10792,7 +10797,7 @@ web/css/reference/properties/flex-wrap,1
 web/css/reference/properties/float,1
 web/css/reference/properties/flood-color,0
 web/css/reference/properties/flood-opacity,0
-web/css/reference/properties/font,1
+web/css/reference/properties/font,2
 web/css/reference/properties/font-family,2
 web/css/reference/properties/font-feature-settings,3
 web/css/reference/properties/font-kerning,2
@@ -11265,7 +11270,7 @@ web/css/reference/selectors/_doublecolon_slotted,1
 web/css/reference/selectors/_doublecolon_spelling-error,1
 web/css/reference/selectors/_doublecolon_target-text,1
 web/css/reference/selectors/_doublecolon_view-transition,1
-web/css/reference/selectors/_doublecolon_view-transition-group,1
+web/css/reference/selectors/_doublecolon_view-transition-group,2
 web/css/reference/selectors/_doublecolon_view-transition-image-pair,1
 web/css/reference/selectors/_doublecolon_view-transition-new,1
 web/css/reference/selectors/_doublecolon_view-transition-old,1
@@ -11306,14 +11311,14 @@ web/css/reference/values/basic-shape,1
 web/css/reference/values/basic-shape/circle,0
 web/css/reference/values/basic-shape/ellipse,0
 web/css/reference/values/basic-shape/inset,0
-web/css/reference/values/basic-shape/path,0
+web/css/reference/values/basic-shape/path,2
 web/css/reference/values/basic-shape/polygon,0
 web/css/reference/values/basic-shape/rect,0
 web/css/reference/values/basic-shape/shape,2
 web/css/reference/values/basic-shape/xywh,0
 web/css/reference/values/blend-mode,0
 web/css/reference/values/box-edge,1
-web/css/reference/values/calc,2
+web/css/reference/values/calc,3
 web/css/reference/values/calc-keyword,0
 web/css/reference/values/calc-size,0
 web/css/reference/values/calc-sum,1
@@ -11336,13 +11341,13 @@ web/css/reference/values/content-distribution,1
 web/css/reference/values/content-position,1
 web/css/reference/values/corner-shape-value,1
 web/css/reference/values/cos,0
-web/css/reference/values/counter,0
+web/css/reference/values/counter,2
 web/css/reference/values/counters,0
 web/css/reference/values/cross-fade,0
 web/css/reference/values/custom-ident,1
 web/css/reference/values/dashed-function,1
 web/css/reference/values/dashed-ident,2
-web/css/reference/values/data_types,2
+web/css/reference/values/data_types,3
 web/css/reference/values/dimension,1
 web/css/reference/values/display-box,1
 web/css/reference/values/display-inside,1

@@ -810,7 +810,7 @@ learn_web_development/core/structuring_content/emphasis_and_importance,3
 learn_web_development/core/structuring_content/forms_challenge,null
 learn_web_development/core/structuring_content/general_embedding_technologies,13
 learn_web_development/core/structuring_content/headings_and_paragraphs,4
-learn_web_development/core/structuring_content/html_forms,5
+learn_web_development/core/structuring_content/html_forms,6
 learn_web_development/core/structuring_content/html_images,17
 learn_web_development/core/structuring_content/html_table_basics,null
 learn_web_development/core/structuring_content/html_video_and_audio,13
@@ -7469,6 +7469,11 @@ web/api/rtcpeerconnection/signalingstatechange_event,null
 web/api/rtcpeerconnection/track_event,null
 web/api/rtcpeerconnectioniceerrorevent,null
 web/api/rtcpeerconnectioniceerrorevent/address,null
+web/api/rtcpeerconnectioniceerrorevent/errorcode,null
+web/api/rtcpeerconnectioniceerrorevent/errortext,null
+web/api/rtcpeerconnectioniceerrorevent/port,null
+web/api/rtcpeerconnectioniceerrorevent/rtcpeerconnectioniceerrorevent,null
+web/api/rtcpeerconnectioniceerrorevent/url,null
 web/api/rtcpeerconnectioniceevent,4
 web/api/rtcpeerconnectioniceevent/candidate,null
 web/api/rtcpeerconnectioniceevent/rtcpeerconnectioniceevent,null
@@ -10792,7 +10797,7 @@ web/css/reference/properties/flex-wrap,null
 web/css/reference/properties/float,null
 web/css/reference/properties/flood-color,null
 web/css/reference/properties/flood-opacity,null
-web/css/reference/properties/font,4
+web/css/reference/properties/font,5
 web/css/reference/properties/font-family,4
 web/css/reference/properties/font-feature-settings,null
 web/css/reference/properties/font-kerning,null
@@ -11306,7 +11311,7 @@ web/css/reference/values/basic-shape,7
 web/css/reference/values/basic-shape/circle,3
 web/css/reference/values/basic-shape/ellipse,3
 web/css/reference/values/basic-shape/inset,3
-web/css/reference/values/basic-shape/path,6
+web/css/reference/values/basic-shape/path,8
 web/css/reference/values/basic-shape/polygon,5
 web/css/reference/values/basic-shape/rect,6
 web/css/reference/values/basic-shape/shape,7
@@ -11883,7 +11888,7 @@ web/http/reference/headers/no-vary-search,null
 web/http/reference/headers/observe-browsing-topics,null
 web/http/reference/headers/origin,null
 web/http/reference/headers/origin-agent-cluster,null
-web/http/reference/headers/permissions-policy,null
+web/http/reference/headers/permissions-policy,0
 web/http/reference/headers/permissions-policy-report-only,null
 web/http/reference/headers/permissions-policy/accelerometer,3
 web/http/reference/headers/permissions-policy/ambient-light-sensor,3
