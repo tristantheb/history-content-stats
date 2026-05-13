@@ -10722,9 +10722,9 @@ web/css/reference/properties/break-before,0
 web/css/reference/properties/break-inside,0
 web/css/reference/properties/caption-side,0
 web/css/reference/properties/caret,0
-web/css/reference/properties/caret-animation,0
-web/css/reference/properties/caret-color,0
-web/css/reference/properties/caret-shape,0
+web/css/reference/properties/caret-animation,1
+web/css/reference/properties/caret-color,1
+web/css/reference/properties/caret-shape,1
 web/css/reference/properties/clear,0
 web/css/reference/properties/clip,0
 web/css/reference/properties/clip-path,0
