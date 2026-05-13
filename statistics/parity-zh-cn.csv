@@ -27,7 +27,7 @@ games/techniques/control_mechanisms/desktop_with_gamepad,null
 games/techniques/control_mechanisms/desktop_with_mouse_and_keyboard,null
 games/techniques/control_mechanisms/mobile_touch,5
 games/techniques/control_mechanisms/other,null
-games/techniques/controls_gamepad_api,null
+games/techniques/controls_gamepad_api,0
 games/techniques/crisp_pixel_art_look,null
 games/techniques/tilemaps,null
 games/techniques/tilemaps/square_tilemaps_implementation_colon__scrolling_maps,null
@@ -7242,11 +7242,13 @@ web/api/rtcencodedvideoframe/type,null
 web/api/rtcerror,null
 web/api/rtcerror/errordetail,null
 web/api/rtcerror/receivedalert,null
+web/api/rtcerror/rtcerror,null
 web/api/rtcerror/sctpcausecode,null
-web/api/rtcerror/sdplinenumber,0
+web/api/rtcerror/sdplinenumber,1
 web/api/rtcerror/sentalert,null
 web/api/rtcerrorevent,null
 web/api/rtcerrorevent/error,null
+web/api/rtcerrorevent/rtcerrorevent,null
 web/api/rtcicecandidate,4
 web/api/rtcicecandidate/address,2
 web/api/rtcicecandidate/candidate,1
@@ -10425,7 +10427,7 @@ web/css/guides/selectors,null
 web/css/guides/selectors/privacy_and__colon_visited,null
 web/css/guides/selectors/selector_structure,null
 web/css/guides/selectors/selectors_and_combinators,null
-web/css/guides/selectors/using__colon_target,null
+web/css/guides/selectors/using__colon_target,0
 web/css/guides/shadow_parts,4
 web/css/guides/shapes,2
 web/css/guides/shapes/from_box_values,1
