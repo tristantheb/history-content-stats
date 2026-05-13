@@ -7242,11 +7242,13 @@ web/api/rtcencodedvideoframe/type,null
 web/api/rtcerror,null
 web/api/rtcerror/errordetail,null
 web/api/rtcerror/receivedalert,null
+web/api/rtcerror/rtcerror,null
 web/api/rtcerror/sctpcausecode,null
 web/api/rtcerror/sdplinenumber,null
 web/api/rtcerror/sentalert,null
 web/api/rtcerrorevent,null
 web/api/rtcerrorevent/error,null
+web/api/rtcerrorevent/rtcerrorevent,null
 web/api/rtcicecandidate,null
 web/api/rtcicecandidate/address,null
 web/api/rtcicecandidate/candidate,null
