@@ -7266,7 +7266,7 @@ web/api/rtcicecandidate/tcptype,0
 web/api/rtcicecandidate/tojson,3
 web/api/rtcicecandidate/type,1
 web/api/rtcicecandidate/usernamefragment,3
-web/api/rtcicecandidatepair,null
+web/api/rtcicecandidatepair,0
 web/api/rtcicecandidatepair/local,null
 web/api/rtcicecandidatepair/remote,null
 web/api/rtcicecandidatepairstats,null
@@ -7274,13 +7274,13 @@ web/api/rtcicecandidatepairstats/availableincomingbitrate,null
 web/api/rtcicecandidatepairstats/availableoutgoingbitrate,null
 web/api/rtcicecandidatepairstats/bytesdiscardedonsend,0
 web/api/rtcicecandidatepairstats/bytesreceived,0
-web/api/rtcicecandidatepairstats/bytessent,null
-web/api/rtcicecandidatepairstats/consentrequestssent,null
+web/api/rtcicecandidatepairstats/bytessent,0
+web/api/rtcicecandidatepairstats/consentrequestssent,0
 web/api/rtcicecandidatepairstats/currentroundtriptime,0
 web/api/rtcicecandidatepairstats/id,0
 web/api/rtcicecandidatepairstats/lastpacketreceivedtimestamp,0
 web/api/rtcicecandidatepairstats/lastpacketsenttimestamp,0
-web/api/rtcicecandidatepairstats/localcandidateid,null
+web/api/rtcicecandidatepairstats/localcandidateid,0
 web/api/rtcicecandidatepairstats/nominated,null
 web/api/rtcicecandidatepairstats/packetsdiscardedonsend,null
 web/api/rtcicecandidatepairstats/packetsreceived,0
