@@ -1000,7 +1000,7 @@ learn_web_development/getting_started/environment_setup/dealing_with_files,2
 learn_web_development/getting_started/environment_setup/installing_software,3
 learn_web_development/getting_started/soft_skills,0
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,1
-learn_web_development/getting_started/soft_skills/finding_a_job,3
+learn_web_development/getting_started/soft_skills/finding_a_job,4
 learn_web_development/getting_started/soft_skills/research_and_learning,0
 learn_web_development/getting_started/soft_skills/workflows_and_processes,2
 learn_web_development/getting_started/web_standards,0
@@ -1821,7 +1821,7 @@ mozilla/add-ons/webextensions/extending_the_developer_tools,null
 mozilla/add-ons/webextensions/implement_a_settings_page,null
 mozilla/add-ons/webextensions/interact_with_the_clipboard,null
 mozilla/add-ons/webextensions/intercept_http_requests,null
-mozilla/add-ons/webextensions/internationalization,12
+mozilla/add-ons/webextensions/internationalization,13
 mozilla/add-ons/webextensions/manifest.json,null
 mozilla/add-ons/webextensions/manifest.json/action,null
 mozilla/add-ons/webextensions/manifest.json/author,null
