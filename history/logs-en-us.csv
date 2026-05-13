@@ -2473,15 +2473,15 @@ web/api/audioparam/setvaluecurveattime,ec1006afdf68a5808a48ab6301f9ccff3cd7ecc2,
 web/api/audioparam/value,6f586f9ddb933defaacac2784409fff0a56adf34,Web APIs
 web/api/audioparamdescriptor,46b0ecd3b5280fbff659d138e3a7eaaf0fd12a24,Web APIs
 web/api/audioparammap,c99afd3cafe73c93831bd73ad1dac285c3c713b1,Web APIs
-web/api/audioplaybackstats,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
+web/api/audioplaybackstats,a1c2691b9ef6120e81ef3e08f51bfcacb6d4dc00,Web APIs
 web/api/audioplaybackstats/averagelatency,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
 web/api/audioplaybackstats/maximumlatency,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
 web/api/audioplaybackstats/minimumlatency,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
 web/api/audioplaybackstats/resetlatency,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
 web/api/audioplaybackstats/tojson,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
 web/api/audioplaybackstats/totalduration,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
-web/api/audioplaybackstats/underrunduration,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
-web/api/audioplaybackstats/underrunevents,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
+web/api/audioplaybackstats/underrunduration,a1c2691b9ef6120e81ef3e08f51bfcacb6d4dc00,Web APIs
+web/api/audioplaybackstats/underrunevents,a1c2691b9ef6120e81ef3e08f51bfcacb6d4dc00,Web APIs
 web/api/audioprocessingevent,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/audioprocessingevent/audioprocessingevent,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/audioprocessingevent/inputbuffer,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
@@ -10287,7 +10287,7 @@ web/css/guides/cascade/inheritance,33094d735e90b4dcae5733331b79c51fee997410,CSS|
 web/css/guides/cascade/introduction,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/cascade/property_value_processing,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a,CSS|Guides
 web/css/guides/cascade/shorthand_properties,82f81b39d2a3fb0d944c79ff98343d98d02b7eab,CSS|Guides
-web/css/guides/cascade/specificity,2cae555c4c25b6aa8eeee5d0b0844c7edc64d5b1,CSS|Guides
+web/css/guides/cascade/specificity,da60cb61c2cbb7fb35807515095d9efb129eacbc,CSS|Guides
 web/css/guides/cascading_variables,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/cascading_variables/using_custom_properties,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/color_adjustment,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10722,9 +10722,9 @@ web/css/reference/properties/break-before,bcbb4bd6a80292c0663b723d5466759cfaaa83
 web/css/reference/properties/break-inside,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/caption-side,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/caret,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/caret-animation,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/caret-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/caret-shape,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/caret-animation,00da2fc19d0c8c7cd2e91c78cf55e204cd94cf2b,CSS|Properties
+web/css/reference/properties/caret-color,00da2fc19d0c8c7cd2e91c78cf55e204cd94cf2b,CSS|Properties
+web/css/reference/properties/caret-shape,00da2fc19d0c8c7cd2e91c78cf55e204cd94cf2b,CSS|Properties
 web/css/reference/properties/clear,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/clip,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/clip-path,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
