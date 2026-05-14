@@ -11364,7 +11364,7 @@ web/css/reference/values/easing-function/cubic-bezier,null
 web/css/reference/values/easing-function/linear,null
 web/css/reference/values/easing-function/steps,null
 web/css/reference/values/element,null
-web/css/reference/values/env,2
+web/css/reference/values/env,4
 web/css/reference/values/exp,null
 web/css/reference/values/filter-function,null
 web/css/reference/values/filter-function/blur,null
@@ -11634,6 +11634,7 @@ web/html/reference/elements/meta/name,null
 web/html/reference/elements/meta/name/color-scheme,null
 web/html/reference/elements/meta/name/referrer,null
 web/html/reference/elements/meta/name/robots,null
+web/html/reference/elements/meta/name/text-scale,null
 web/html/reference/elements/meta/name/theme-color,null
 web/html/reference/elements/meta/name/viewport,8
 web/html/reference/elements/meter,null
