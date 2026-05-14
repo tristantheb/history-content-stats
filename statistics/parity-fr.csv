@@ -11364,7 +11364,7 @@ web/css/reference/values/easing-function/cubic-bezier,0
 web/css/reference/values/easing-function/linear,0
 web/css/reference/values/easing-function/steps,0
 web/css/reference/values/element,0
-web/css/reference/values/env,0
+web/css/reference/values/env,1
 web/css/reference/values/exp,0
 web/css/reference/values/filter-function,0
 web/css/reference/values/filter-function/blur,0
@@ -11630,10 +11630,11 @@ web/html/reference/elements/marquee,0
 web/html/reference/elements/menu,0
 web/html/reference/elements/meta,0
 web/html/reference/elements/meta/http-equiv,0
-web/html/reference/elements/meta/name,0
+web/html/reference/elements/meta/name,1
 web/html/reference/elements/meta/name/color-scheme,0
 web/html/reference/elements/meta/name/referrer,0
 web/html/reference/elements/meta/name/robots,0
+web/html/reference/elements/meta/name/text-scale,null
 web/html/reference/elements/meta/name/theme-color,0
 web/html/reference/elements/meta/name/viewport,0
 web/html/reference/elements/meter,0

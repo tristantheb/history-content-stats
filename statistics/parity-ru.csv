@@ -9785,7 +9785,7 @@ web/api/window/screenx,null
 web/api/window/screeny,null
 web/api/window/scroll,null
 web/api/window/scrollbars,null
-web/api/window/scrollby,1
+web/api/window/scrollby,2
 web/api/window/scrollbylines,null
 web/api/window/scrollbypages,null
 web/api/window/scrollmaxx,null
@@ -11634,6 +11634,7 @@ web/html/reference/elements/meta/name,null
 web/html/reference/elements/meta/name/color-scheme,null
 web/html/reference/elements/meta/name/referrer,null
 web/html/reference/elements/meta/name/robots,null
+web/html/reference/elements/meta/name/text-scale,null
 web/html/reference/elements/meta/name/theme-color,8
 web/html/reference/elements/meta/name/viewport,null
 web/html/reference/elements/meter,null
