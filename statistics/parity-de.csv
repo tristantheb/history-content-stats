@@ -807,7 +807,7 @@ learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
 learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,0
-learn_web_development/core/structuring_content/forms_challenge,0
+learn_web_development/core/structuring_content/forms_challenge,1
 learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
@@ -4473,7 +4473,7 @@ web/api/gpubuffer/unmap,0
 web/api/gpubuffer/usage,0
 web/api/gpucanvascontext,0
 web/api/gpucanvascontext/canvas,0
-web/api/gpucanvascontext/configure,0
+web/api/gpucanvascontext/configure,1
 web/api/gpucanvascontext/getconfiguration,0
 web/api/gpucanvascontext/getcurrenttexture,0
 web/api/gpucanvascontext/unconfigure,0
@@ -4481,7 +4481,7 @@ web/api/gpucommandbuffer,0
 web/api/gpucommandbuffer/label,0
 web/api/gpucommandencoder,0
 web/api/gpucommandencoder/begincomputepass,0
-web/api/gpucommandencoder/beginrenderpass,0
+web/api/gpucommandencoder/beginrenderpass,1
 web/api/gpucommandencoder/clearbuffer,0
 web/api/gpucommandencoder/copybuffertobuffer,0
 web/api/gpucommandencoder/copybuffertotexture,0
@@ -4531,7 +4531,7 @@ web/api/gpudevice/createrenderpipeline,0
 web/api/gpudevice/createrenderpipelineasync,0
 web/api/gpudevice/createsampler,0
 web/api/gpudevice/createshadermodule,0
-web/api/gpudevice/createtexture,0
+web/api/gpudevice/createtexture,1
 web/api/gpudevice/destroy,0
 web/api/gpudevice/features,0
 web/api/gpudevice/importexternaltexture,0
@@ -4627,7 +4627,7 @@ web/api/gputexture/height,0
 web/api/gputexture/label,0
 web/api/gputexture/miplevelcount,0
 web/api/gputexture/samplecount,0
-web/api/gputexture/usage,0
+web/api/gputexture/usage,1
 web/api/gputexture/width,0
 web/api/gputextureview,0
 web/api/gputextureview/label,0
@@ -14201,10 +14201,10 @@ webassembly/reference/javascript_interface/instantiate_static,0
 webassembly/reference/javascript_interface/instantiatestreaming_static,0
 webassembly/reference/javascript_interface/linkerror,0
 webassembly/reference/javascript_interface/linkerror/linkerror,0
-webassembly/reference/javascript_interface/memory,0
+webassembly/reference/javascript_interface/memory,1
 webassembly/reference/javascript_interface/memory/buffer,0
-webassembly/reference/javascript_interface/memory/grow,0
-webassembly/reference/javascript_interface/memory/memory,0
+webassembly/reference/javascript_interface/memory/grow,1
+webassembly/reference/javascript_interface/memory/memory,1
 webassembly/reference/javascript_interface/module,0
 webassembly/reference/javascript_interface/module/customsections_static,0
 webassembly/reference/javascript_interface/module/exports_static,0

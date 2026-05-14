@@ -807,7 +807,7 @@ learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
 learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,0
-learn_web_development/core/structuring_content/forms_challenge,2
+learn_web_development/core/structuring_content/forms_challenge,3
 learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,2
@@ -4473,7 +4473,7 @@ web/api/gpubuffer/unmap,null
 web/api/gpubuffer/usage,null
 web/api/gpucanvascontext,4
 web/api/gpucanvascontext/canvas,2
-web/api/gpucanvascontext/configure,6
+web/api/gpucanvascontext/configure,7
 web/api/gpucanvascontext/getconfiguration,null
 web/api/gpucanvascontext/getcurrenttexture,5
 web/api/gpucanvascontext/unconfigure,3

@@ -807,7 +807,7 @@ learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
 learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,0
-learn_web_development/core/structuring_content/forms_challenge,2
+learn_web_development/core/structuring_content/forms_challenge,3
 learn_web_development/core/structuring_content/general_embedding_technologies,1
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,null
@@ -14201,7 +14201,7 @@ webassembly/reference/javascript_interface/instantiate_static,6
 webassembly/reference/javascript_interface/instantiatestreaming_static,4
 webassembly/reference/javascript_interface/linkerror,null
 webassembly/reference/javascript_interface/linkerror/linkerror,null
-webassembly/reference/javascript_interface/memory,0
+webassembly/reference/javascript_interface/memory,1
 webassembly/reference/javascript_interface/memory/buffer,0
 webassembly/reference/javascript_interface/memory/grow,null
 webassembly/reference/javascript_interface/memory/memory,null
