@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,fc302e3bf88a1ccee922f95ef85c50a3ead4d640,Mozilla|Firefox
+mozilla/firefox/experimental_features,6726ca44f6e211414f4279bebd47ca18a4cde51a,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1960,7 +1960,7 @@ mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Fi
 mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,a6f4c4fd720fc1ee83284b11382b63ee85501dc1,Mozilla|Firefox|Versions
-mozilla/firefox/releases/151,e7f93b8ebd8b26bd6fae71f7b0b6214a671a4ef9,Mozilla|Firefox|Versions
+mozilla/firefox/releases/151,6726ca44f6e211414f4279bebd47ca18a4cde51a,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -10785,7 +10785,7 @@ web/css/reference/properties/display,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CS
 web/css/reference/properties/dominant-baseline,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/dynamic-range-limit,314e1451345c061ad4ecc7a9d1845e3e8a9a23f4,CSS|Properties
 web/css/reference/properties/empty-cells,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/field-sizing,ee2ece4eb07c07cae8baf6ab7b2ee748f4644565,CSS|Properties
+web/css/reference/properties/field-sizing,cd0d465d5512de499b5da36abc5735c14897af7c,CSS|Properties
 web/css/reference/properties/fill,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/fill-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/fill-rule,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
