@@ -3975,7 +3975,7 @@ web/api/element/requestpointerlock,0
 web/api/element/role,0
 web/api/element/scroll,0
 web/api/element/scroll_event,0
-web/api/element/scrollby,1
+web/api/element/scrollby,0
 web/api/element/scrollend_event,0
 web/api/element/scrollheight,0
 web/api/element/scrollintoview,0
@@ -3984,7 +3984,7 @@ web/api/element/scrollleft,0
 web/api/element/scrollleftmax,0
 web/api/element/scrollsnapchange_event,0
 web/api/element/scrollsnapchanging_event,0
-web/api/element/scrollto,1
+web/api/element/scrollto,0
 web/api/element/scrolltop,0
 web/api/element/scrolltopmax,0
 web/api/element/scrollwidth,0
@@ -8870,7 +8870,7 @@ web/api/treewalker/previousnode,0
 web/api/treewalker/previoussibling,0
 web/api/treewalker/root,0
 web/api/treewalker/whattoshow,0
-web/api/trusted_types_api,0
+web/api/trusted_types_api,1
 web/api/trustedhtml,0
 web/api/trustedhtml/tojson,0
 web/api/trustedhtml/tostring,0
@@ -9785,14 +9785,14 @@ web/api/window/screenx,0
 web/api/window/screeny,0
 web/api/window/scroll,0
 web/api/window/scrollbars,0
-web/api/window/scrollby,1
+web/api/window/scrollby,0
 web/api/window/scrollbylines,0
 web/api/window/scrollbypages,0
 web/api/window/scrollmaxx,0
 web/api/window/scrollmaxy,0
 web/api/window/scrollsnapchange_event,0
 web/api/window/scrollsnapchanging_event,0
-web/api/window/scrollto,1
+web/api/window/scrollto,0
 web/api/window/scrollx,0
 web/api/window/scrolly,0
 web/api/window/self,0
@@ -11364,7 +11364,7 @@ web/css/reference/values/easing-function/cubic-bezier,0
 web/css/reference/values/easing-function/linear,0
 web/css/reference/values/easing-function/steps,0
 web/css/reference/values/element,0
-web/css/reference/values/env,1
+web/css/reference/values/env,0
 web/css/reference/values/exp,0
 web/css/reference/values/filter-function,0
 web/css/reference/values/filter-function/blur,0
@@ -11630,11 +11630,11 @@ web/html/reference/elements/marquee,0
 web/html/reference/elements/menu,0
 web/html/reference/elements/meta,0
 web/html/reference/elements/meta/http-equiv,0
-web/html/reference/elements/meta/name,1
+web/html/reference/elements/meta/name,0
 web/html/reference/elements/meta/name/color-scheme,0
 web/html/reference/elements/meta/name/referrer,0
 web/html/reference/elements/meta/name/robots,0
-web/html/reference/elements/meta/name/text-scale,null
+web/html/reference/elements/meta/name/text-scale,0
 web/html/reference/elements/meta/name/theme-color,0
 web/html/reference/elements/meta/name/viewport,0
 web/html/reference/elements/meter,0

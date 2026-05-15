@@ -8870,7 +8870,7 @@ web/api/treewalker/previousnode,null
 web/api/treewalker/previoussibling,null
 web/api/treewalker/root,null
 web/api/treewalker/whattoshow,null
-web/api/trusted_types_api,0
+web/api/trusted_types_api,1
 web/api/trustedhtml,0
 web/api/trustedhtml/tojson,0
 web/api/trustedhtml/tostring,0
