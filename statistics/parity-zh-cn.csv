@@ -1155,7 +1155,7 @@ mozilla/add-ons/webextensions/api/action/setbadgebackgroundcolor,8
 mozilla/add-ons/webextensions/api/action/setbadgetext,3
 mozilla/add-ons/webextensions/api/action/setbadgetextcolor,6
 mozilla/add-ons/webextensions/api/action/seticon,5
-mozilla/add-ons/webextensions/api/action/setpopup,4
+mozilla/add-ons/webextensions/api/action/setpopup,5
 mozilla/add-ons/webextensions/api/action/settitle,3
 mozilla/add-ons/webextensions/api/alarms,1
 mozilla/add-ons/webextensions/api/alarms/alarm,4
@@ -1207,7 +1207,7 @@ mozilla/add-ons/webextensions/api/browseraction/setbadgebackgroundcolor,9
 mozilla/add-ons/webextensions/api/browseraction/setbadgetext,5
 mozilla/add-ons/webextensions/api/browseraction/setbadgetextcolor,9
 mozilla/add-ons/webextensions/api/browseraction/seticon,4
-mozilla/add-ons/webextensions/api/browseraction/setpopup,6
+mozilla/add-ons/webextensions/api/browseraction/setpopup,7
 mozilla/add-ons/webextensions/api/browseraction/settitle,5
 mozilla/add-ons/webextensions/api/browsersettings,4
 mozilla/add-ons/webextensions/api/browsersettings/allowpopupsforuserevents,2
@@ -1481,7 +1481,7 @@ mozilla/add-ons/webextensions/api/notifications/onclicked,3
 mozilla/add-ons/webextensions/api/notifications/onclosed,3
 mozilla/add-ons/webextensions/api/notifications/onshown,3
 mozilla/add-ons/webextensions/api/notifications/templatetype,3
-mozilla/add-ons/webextensions/api/notifications/update,2
+mozilla/add-ons/webextensions/api/notifications/update,3
 mozilla/add-ons/webextensions/api/omnibox,1
 mozilla/add-ons/webextensions/api/omnibox/ondeletesuggestion,1
 mozilla/add-ons/webextensions/api/omnibox/oninputcancelled,2
@@ -1789,7 +1789,7 @@ mozilla/add-ons/webextensions/api/webrequest/streamfilter/suspend,2
 mozilla/add-ons/webextensions/api/webrequest/streamfilter/write,3
 mozilla/add-ons/webextensions/api/webrequest/uploaddata,2
 mozilla/add-ons/webextensions/api/windows,2
-mozilla/add-ons/webextensions/api/windows/create,3
+mozilla/add-ons/webextensions/api/windows/create,4
 mozilla/add-ons/webextensions/api/windows/createtype,2
 mozilla/add-ons/webextensions/api/windows/get,3
 mozilla/add-ons/webextensions/api/windows/getall,3
