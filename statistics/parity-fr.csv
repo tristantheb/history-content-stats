@@ -536,7 +536,7 @@ glossary/salt,0
 glossary/same-origin_policy,0
 glossary/scm,0
 glossary/scope,0
-glossary/screen_reader,0
+glossary/screen_reader,1
 glossary/script-supporting_element,0
 glossary/scroll_boundary,0
 glossary/scroll_chaining,0
@@ -993,7 +993,7 @@ learn_web_development/extensions/testing/testing_strategies,null
 learn_web_development/extensions/testing/your_own_automation_environment,null
 learn_web_development/getting_started,0
 learn_web_development/getting_started/environment_setup,0
-learn_web_development/getting_started/environment_setup/browsing_the_web,1
+learn_web_development/getting_started/environment_setup/browsing_the_web,2
 learn_web_development/getting_started/environment_setup/code_editors,0
 learn_web_development/getting_started/environment_setup/command_line,1
 learn_web_development/getting_started/environment_setup/dealing_with_files,2
@@ -1821,7 +1821,7 @@ mozilla/add-ons/webextensions/extending_the_developer_tools,null
 mozilla/add-ons/webextensions/implement_a_settings_page,null
 mozilla/add-ons/webextensions/interact_with_the_clipboard,null
 mozilla/add-ons/webextensions/intercept_http_requests,null
-mozilla/add-ons/webextensions/internationalization,13
+mozilla/add-ons/webextensions/internationalization,14
 mozilla/add-ons/webextensions/manifest.json,null
 mozilla/add-ons/webextensions/manifest.json/action,null
 mozilla/add-ons/webextensions/manifest.json/author,null
@@ -4650,15 +4650,15 @@ web/api/hashchangeevent/oldurl,null
 web/api/headers,0
 web/api/headers/append,0
 web/api/headers/delete,0
-web/api/headers/entries,0
-web/api/headers/foreach,0
+web/api/headers/entries,1
+web/api/headers/foreach,1
 web/api/headers/get,0
 web/api/headers/getsetcookie,0
 web/api/headers/has,0
 web/api/headers/headers,0
-web/api/headers/keys,0
+web/api/headers/keys,1
 web/api/headers/set,0
-web/api/headers/values,0
+web/api/headers/values,1
 web/api/hid,null
 web/api/hid/connect_event,null
 web/api/hid/disconnect_event,null
@@ -11825,7 +11825,7 @@ web/http/reference/headers/content-range,0
 web/http/reference/headers/content-security-policy,0
 web/http/reference/headers/content-security-policy-report-only,0
 web/http/reference/headers/content-security-policy/base-uri,0
-web/http/reference/headers/content-security-policy/block-all-mixed-content,0
+web/http/reference/headers/content-security-policy/block-all-mixed-content,1
 web/http/reference/headers/content-security-policy/child-src,0
 web/http/reference/headers/content-security-policy/connect-src,0
 web/http/reference/headers/content-security-policy/default-src,0
