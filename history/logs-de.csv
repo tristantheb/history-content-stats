@@ -3973,7 +3973,7 @@ web/api/element/requestpointerlock,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/api/element/role,0b9c68dc63f9c6803cced8d9a76c31012d87b530
 web/api/element/scroll,a7265fc3effa7c25b9997135104370c057a65293
 web/api/element/scroll_event,a7265fc3effa7c25b9997135104370c057a65293
-web/api/element/scrollby,a7265fc3effa7c25b9997135104370c057a65293
+web/api/element/scrollby,3f96229b10f32dcf39352345e84a1c32e831266d
 web/api/element/scrollend_event,a7265fc3effa7c25b9997135104370c057a65293
 web/api/element/scrollheight,0916e1754652f3a7c663ef031faa26c98f492023
 web/api/element/scrollintoview,e4ac7f209c4066e17b645535d9b6f726aae01b63
@@ -3982,7 +3982,7 @@ web/api/element/scrollleft,bc9f7bec1ab48f29d241e38a9f1598f783f6b60a
 web/api/element/scrollleftmax,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/scrollsnapchange_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/element/scrollsnapchanging_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/api/element/scrollto,45c08c0f5fe0fee0ca63e7a2b209ffdc0faa0b27
+web/api/element/scrollto,3f96229b10f32dcf39352345e84a1c32e831266d
 web/api/element/scrolltop,0916e1754652f3a7c663ef031faa26c98f492023
 web/api/element/scrolltopmax,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/scrollwidth,0916e1754652f3a7c663ef031faa26c98f492023
@@ -9784,14 +9784,14 @@ web/api/window/screenx,e561fa67af347b9770b359ba93e8579d2a540682
 web/api/window/screeny,e561fa67af347b9770b359ba93e8579d2a540682
 web/api/window/scroll,950f04d94b48f259c471175bdafb52933b2b038d
 web/api/window/scrollbars,62cedc63226017e9e7d0718b6fea3529ca8dbf37
-web/api/window/scrollby,20c51db7895b1b6f41d4fa90e71830f4b6678eea
+web/api/window/scrollby,3f96229b10f32dcf39352345e84a1c32e831266d
 web/api/window/scrollbylines,950f04d94b48f259c471175bdafb52933b2b038d
 web/api/window/scrollbypages,20c51db7895b1b6f41d4fa90e71830f4b6678eea
 web/api/window/scrollmaxx,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/scrollmaxy,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/scrollsnapchange_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/window/scrollsnapchanging_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/api/window/scrollto,20c51db7895b1b6f41d4fa90e71830f4b6678eea
+web/api/window/scrollto,3f96229b10f32dcf39352345e84a1c32e831266d
 web/api/window/scrollx,e561fa67af347b9770b359ba93e8579d2a540682
 web/api/window/scrolly,896a41d7d9832367a1e24af567fb419e9d4182f8
 web/api/window/self,cc070123f72376faec06e36622c4fc723a75325f
@@ -11362,7 +11362,7 @@ web/css/reference/values/easing-function,c88e03530319b73272fd4f9a9f6ebe878f02600
 web/css/reference/values/easing-function/linear,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/easing-function/steps,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/element,b760560abe30bd69ca968dac38528102f423b5ea
-web/css/reference/values/env,b760560abe30bd69ca968dac38528102f423b5ea
+web/css/reference/values/env,4607393c465f5a8bdbb36047f2ec03c2fb058af5
 web/css/reference/values/exp,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/filter-function/blur,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/filter-function/brightness,b760560abe30bd69ca968dac38528102f423b5ea
@@ -11629,9 +11629,10 @@ web/html/reference/elements/menu,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/meta/http-equiv,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2
 web/html/reference/elements/meta,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/meta/name/color-scheme,bf5017c389132af39b50106cf1763fa7106e87b4
-web/html/reference/elements/meta/name,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2
+web/html/reference/elements/meta/name,4607393c465f5a8bdbb36047f2ec03c2fb058af5
 web/html/reference/elements/meta/name/referrer,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/meta/name/robots,c53bfa01f3bf436d486f4032c16f592855a2af2c
+web/html/reference/elements/meta/name/text-scale,4607393c465f5a8bdbb36047f2ec03c2fb058af5
 web/html/reference/elements/meta/name/theme-color,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/meta/name/viewport,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/meter,599ae8b7ad414e91df473d91983f4ffc5cafabb3

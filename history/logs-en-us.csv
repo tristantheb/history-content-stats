@@ -8870,7 +8870,7 @@ web/api/treewalker/previousnode,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web API
 web/api/treewalker/previoussibling,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web APIs
 web/api/treewalker/root,169a9199209be8c6db80e1cd56238456f2641203,Web APIs
 web/api/treewalker/whattoshow,30ae43a0c98ab92f750fd571d7a3a8ee8b15b4c0,Web APIs
-web/api/trusted_types_api,483ce811e1ea52cb2d9d2a5af0c4d1c4d591ea4a,Web APIs
+web/api/trusted_types_api,feab83995051329081769a3a15a7a8d8e28cdd42,Web APIs
 web/api/trustedhtml,3ceedbd90089cfb6970c9bf63ff9e6f3801fcbc5,Web APIs
 web/api/trustedhtml/tojson,c7d5004cd6c5d5b1318f626425fcb06cb2c6a509,Web APIs
 web/api/trustedhtml/tostring,c7d5004cd6c5d5b1318f626425fcb06cb2c6a509,Web APIs
