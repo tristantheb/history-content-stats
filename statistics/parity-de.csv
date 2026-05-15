@@ -1155,7 +1155,7 @@ mozilla/add-ons/webextensions/api/action/setbadgebackgroundcolor,0
 mozilla/add-ons/webextensions/api/action/setbadgetext,0
 mozilla/add-ons/webextensions/api/action/setbadgetextcolor,0
 mozilla/add-ons/webextensions/api/action/seticon,0
-mozilla/add-ons/webextensions/api/action/setpopup,0
+mozilla/add-ons/webextensions/api/action/setpopup,1
 mozilla/add-ons/webextensions/api/action/settitle,0
 mozilla/add-ons/webextensions/api/alarms,0
 mozilla/add-ons/webextensions/api/alarms/alarm,0
@@ -1207,7 +1207,7 @@ mozilla/add-ons/webextensions/api/browseraction/setbadgebackgroundcolor,0
 mozilla/add-ons/webextensions/api/browseraction/setbadgetext,0
 mozilla/add-ons/webextensions/api/browseraction/setbadgetextcolor,0
 mozilla/add-ons/webextensions/api/browseraction/seticon,0
-mozilla/add-ons/webextensions/api/browseraction/setpopup,0
+mozilla/add-ons/webextensions/api/browseraction/setpopup,1
 mozilla/add-ons/webextensions/api/browseraction/settitle,0
 mozilla/add-ons/webextensions/api/browsersettings,0
 mozilla/add-ons/webextensions/api/browsersettings/allowpopupsforuserevents,0
@@ -1481,7 +1481,7 @@ mozilla/add-ons/webextensions/api/notifications/onclicked,0
 mozilla/add-ons/webextensions/api/notifications/onclosed,0
 mozilla/add-ons/webextensions/api/notifications/onshown,0
 mozilla/add-ons/webextensions/api/notifications/templatetype,0
-mozilla/add-ons/webextensions/api/notifications/update,0
+mozilla/add-ons/webextensions/api/notifications/update,1
 mozilla/add-ons/webextensions/api/omnibox,0
 mozilla/add-ons/webextensions/api/omnibox/ondeletesuggestion,0
 mozilla/add-ons/webextensions/api/omnibox/oninputcancelled,0
@@ -1539,14 +1539,14 @@ mozilla/add-ons/webextensions/api/runtime/getplatforminfo,0
 mozilla/add-ons/webextensions/api/runtime/geturl,0
 mozilla/add-ons/webextensions/api/runtime/getversion,0
 mozilla/add-ons/webextensions/api/runtime/id,0
-mozilla/add-ons/webextensions/api/runtime/lasterror,0
+mozilla/add-ons/webextensions/api/runtime/lasterror,1
 mozilla/add-ons/webextensions/api/runtime/messagesender,0
 mozilla/add-ons/webextensions/api/runtime/onbrowserupdateavailable,0
 mozilla/add-ons/webextensions/api/runtime/onconnect,0
 mozilla/add-ons/webextensions/api/runtime/onconnectexternal,0
 mozilla/add-ons/webextensions/api/runtime/oninstalled,0
 mozilla/add-ons/webextensions/api/runtime/oninstalledreason,0
-mozilla/add-ons/webextensions/api/runtime/onmessage,0
+mozilla/add-ons/webextensions/api/runtime/onmessage,1
 mozilla/add-ons/webextensions/api/runtime/onmessageexternal,0
 mozilla/add-ons/webextensions/api/runtime/onperformancewarning,0
 mozilla/add-ons/webextensions/api/runtime/onperformancewarningcategory,0
@@ -1789,7 +1789,7 @@ mozilla/add-ons/webextensions/api/webrequest/streamfilter/suspend,0
 mozilla/add-ons/webextensions/api/webrequest/streamfilter/write,0
 mozilla/add-ons/webextensions/api/webrequest/uploaddata,0
 mozilla/add-ons/webextensions/api/windows,0
-mozilla/add-ons/webextensions/api/windows/create,0
+mozilla/add-ons/webextensions/api/windows/create,1
 mozilla/add-ons/webextensions/api/windows/createtype,0
 mozilla/add-ons/webextensions/api/windows/get,0
 mozilla/add-ons/webextensions/api/windows/getall,0
@@ -1806,11 +1806,11 @@ mozilla/add-ons/webextensions/api/windows/window_id_current,0
 mozilla/add-ons/webextensions/api/windows/window_id_none,0
 mozilla/add-ons/webextensions/api/windows/windowstate,0
 mozilla/add-ons/webextensions/api/windows/windowtype,0
-mozilla/add-ons/webextensions/background_scripts,0
+mozilla/add-ons/webextensions/background_scripts,1
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,0
 mozilla/add-ons/webextensions/build_a_cross_browser_extension,0
 mozilla/add-ons/webextensions/chrome_incompatibilities,0
-mozilla/add-ons/webextensions/content_scripts,0
+mozilla/add-ons/webextensions/content_scripts,1
 mozilla/add-ons/webextensions/content_scripts/cloneinto,0
 mozilla/add-ons/webextensions/content_scripts/exportfunction,0
 mozilla/add-ons/webextensions/content_security_policy,0
@@ -1852,7 +1852,7 @@ mozilla/add-ons/webextensions/manifest.json/omnibox,0
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,0
 mozilla/add-ons/webextensions/manifest.json/optional_permissions,0
 mozilla/add-ons/webextensions/manifest.json/options_page,0
-mozilla/add-ons/webextensions/manifest.json/options_ui,0
+mozilla/add-ons/webextensions/manifest.json/options_ui,1
 mozilla/add-ons/webextensions/manifest.json/page_action,0
 mozilla/add-ons/webextensions/manifest.json/permissions,0
 mozilla/add-ons/webextensions/manifest.json/protocol_handlers,0
@@ -1878,8 +1878,8 @@ mozilla/add-ons/webextensions/user_interface,0
 mozilla/add-ons/webextensions/user_interface/browser_styles,0
 mozilla/add-ons/webextensions/user_interface/context_menu_items,0
 mozilla/add-ons/webextensions/user_interface/devtools_panels,0
-mozilla/add-ons/webextensions/user_interface/extension_pages,0
-mozilla/add-ons/webextensions/user_interface/notifications,0
+mozilla/add-ons/webextensions/user_interface/extension_pages,1
+mozilla/add-ons/webextensions/user_interface/notifications,1
 mozilla/add-ons/webextensions/user_interface/omnibox,0
 mozilla/add-ons/webextensions/user_interface/options_pages,0
 mozilla/add-ons/webextensions/user_interface/page_actions,0
@@ -1960,8 +1960,8 @@ mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,1
-mozilla/firefox/releases/152,0
+mozilla/firefox/releases/151,2
+mozilla/firefox/releases/152,1
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -8870,7 +8870,7 @@ web/api/treewalker/previousnode,0
 web/api/treewalker/previoussibling,0
 web/api/treewalker/root,0
 web/api/treewalker/whattoshow,0
-web/api/trusted_types_api,1
+web/api/trusted_types_api,0
 web/api/trustedhtml,0
 web/api/trustedhtml/tojson,0
 web/api/trustedhtml/tostring,0
@@ -10785,7 +10785,7 @@ web/css/reference/properties/display,0
 web/css/reference/properties/dominant-baseline,0
 web/css/reference/properties/dynamic-range-limit,0
 web/css/reference/properties/empty-cells,0
-web/css/reference/properties/field-sizing,1
+web/css/reference/properties/field-sizing,0
 web/css/reference/properties/fill,0
 web/css/reference/properties/fill-opacity,0
 web/css/reference/properties/fill-rule,0
