@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,3
+mozilla/firefox/experimental_features,4
 mozilla/firefox/releases,null
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -10785,7 +10785,7 @@ web/css/reference/properties/display,5
 web/css/reference/properties/dominant-baseline,1
 web/css/reference/properties/dynamic-range-limit,null
 web/css/reference/properties/empty-cells,1
-web/css/reference/properties/field-sizing,1
+web/css/reference/properties/field-sizing,2
 web/css/reference/properties/fill,0
 web/css/reference/properties/fill-opacity,null
 web/css/reference/properties/fill-rule,2
