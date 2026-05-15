@@ -536,7 +536,7 @@ glossary/salt,null
 glossary/same-origin_policy,5
 glossary/scm,1
 glossary/scope,2
-glossary/screen_reader,4
+glossary/screen_reader,5
 glossary/script-supporting_element,2
 glossary/scroll_boundary,null
 glossary/scroll_chaining,null
@@ -705,7 +705,7 @@ learn_web_development/core/accessibility/test_your_skills/html,null
 learn_web_development/core/accessibility/test_your_skills/wai-aria,null
 learn_web_development/core/accessibility/tooling,null
 learn_web_development/core/accessibility/wai-aria_basics,null
-learn_web_development/core/accessibility/what_is_accessibility,13
+learn_web_development/core/accessibility/what_is_accessibility,14
 learn_web_development/core/css_layout,9
 learn_web_development/core/css_layout/flexbox,null
 learn_web_development/core/css_layout/floats,null

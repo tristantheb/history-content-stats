@@ -10,7 +10,7 @@ games/techniques,3
 games/techniques/2d_collision_detection,10
 games/techniques/3d_collision_detection,8
 games/techniques/3d_collision_detection/bounding_volume_collision_detection_with_three.js,null
-games/techniques/3d_on_the_web,4
+games/techniques/3d_on_the_web,5
 games/techniques/3d_on_the_web/basic_theory,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_a-frame,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_babylon.js,null
@@ -536,7 +536,7 @@ glossary/salt,1
 glossary/same-origin_policy,5
 glossary/scm,1
 glossary/scope,2
-glossary/screen_reader,3
+glossary/screen_reader,4
 glossary/script-supporting_element,2
 glossary/scroll_boundary,3
 glossary/scroll_chaining,3
@@ -993,7 +993,7 @@ learn_web_development/extensions/testing/testing_strategies,11
 learn_web_development/extensions/testing/your_own_automation_environment,13
 learn_web_development/getting_started,5
 learn_web_development/getting_started/environment_setup,3
-learn_web_development/getting_started/environment_setup/browsing_the_web,9
+learn_web_development/getting_started/environment_setup/browsing_the_web,10
 learn_web_development/getting_started/environment_setup/code_editors,4
 learn_web_development/getting_started/environment_setup/command_line,null
 learn_web_development/getting_started/environment_setup/dealing_with_files,11
@@ -3970,7 +3970,7 @@ web/api/element/removeattributenode,1
 web/api/element/removeattributens,1
 web/api/element/replacechildren,null
 web/api/element/replacewith,null
-web/api/element/requestfullscreen,8
+web/api/element/requestfullscreen,9
 web/api/element/requestpointerlock,2
 web/api/element/role,null
 web/api/element/scroll,null
@@ -6432,7 +6432,7 @@ web/api/nodelist/foreach,null
 web/api/nodelist/item,null
 web/api/nodelist/keys,null
 web/api/nodelist/length,0
-web/api/nodelist/values,1
+web/api/nodelist/values,2
 web/api/notification,5
 web/api/notification/actions,0
 web/api/notification/badge,0
@@ -9661,7 +9661,7 @@ web/api/webxr_device_api/rendering,null
 web/api/webxr_device_api/spatial_tracking,null
 web/api/webxr_device_api/startup_and_shutdown,null
 web/api/webxr_device_api/targeting,0
-web/api/wgsllanguagefeatures,15
+web/api/wgsllanguagefeatures,16
 web/api/wheelevent,null
 web/api/wheelevent/deltamode,2
 web/api/wheelevent/deltax,2

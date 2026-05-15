@@ -705,7 +705,7 @@ learn_web_development/core/accessibility/test_your_skills/html,12
 learn_web_development/core/accessibility/test_your_skills/wai-aria,11
 learn_web_development/core/accessibility/tooling,6
 learn_web_development/core/accessibility/wai-aria_basics,11
-learn_web_development/core/accessibility/what_is_accessibility,7
+learn_web_development/core/accessibility/what_is_accessibility,8
 learn_web_development/core/css_layout,0
 learn_web_development/core/css_layout/flexbox,0
 learn_web_development/core/css_layout/floats,0
@@ -993,7 +993,7 @@ learn_web_development/extensions/testing/testing_strategies,10
 learn_web_development/extensions/testing/your_own_automation_environment,12
 learn_web_development/getting_started,6
 learn_web_development/getting_started/environment_setup,4
-learn_web_development/getting_started/environment_setup/browsing_the_web,1
+learn_web_development/getting_started/environment_setup/browsing_the_web,2
 learn_web_development/getting_started/environment_setup/code_editors,8
 learn_web_development/getting_started/environment_setup/command_line,11
 learn_web_development/getting_started/environment_setup/dealing_with_files,10
@@ -1821,7 +1821,7 @@ mozilla/add-ons/webextensions/extending_the_developer_tools,null
 mozilla/add-ons/webextensions/implement_a_settings_page,null
 mozilla/add-ons/webextensions/interact_with_the_clipboard,14
 mozilla/add-ons/webextensions/intercept_http_requests,6
-mozilla/add-ons/webextensions/internationalization,20
+mozilla/add-ons/webextensions/internationalization,21
 mozilla/add-ons/webextensions/manifest.json,1
 mozilla/add-ons/webextensions/manifest.json/action,null
 mozilla/add-ons/webextensions/manifest.json/author,null
@@ -3970,7 +3970,7 @@ web/api/element/removeattributenode,2
 web/api/element/removeattributens,2
 web/api/element/replacechildren,2
 web/api/element/replacewith,3
-web/api/element/requestfullscreen,10
+web/api/element/requestfullscreen,11
 web/api/element/requestpointerlock,6
 web/api/element/role,0
 web/api/element/scroll,2
@@ -4650,15 +4650,15 @@ web/api/hashchangeevent/oldurl,0
 web/api/headers,3
 web/api/headers/append,2
 web/api/headers/delete,2
-web/api/headers/entries,1
-web/api/headers/foreach,1
+web/api/headers/entries,2
+web/api/headers/foreach,2
 web/api/headers/get,3
 web/api/headers/getsetcookie,0
 web/api/headers/has,2
 web/api/headers/headers,1
-web/api/headers/keys,1
+web/api/headers/keys,2
 web/api/headers/set,2
-web/api/headers/values,1
+web/api/headers/values,2
 web/api/hid,3
 web/api/hid/connect_event,5
 web/api/hid/disconnect_event,6
@@ -6427,12 +6427,12 @@ web/api/nodeiterator/referencenode,null
 web/api/nodeiterator/root,null
 web/api/nodeiterator/whattoshow,null
 web/api/nodelist,4
-web/api/nodelist/entries,1
+web/api/nodelist/entries,2
 web/api/nodelist/foreach,1
 web/api/nodelist/item,1
-web/api/nodelist/keys,2
+web/api/nodelist/keys,3
 web/api/nodelist/length,0
-web/api/nodelist/values,1
+web/api/nodelist/values,2
 web/api/notification,6
 web/api/notification/actions,7
 web/api/notification/badge,7
@@ -9261,7 +9261,7 @@ web/api/web_components/using_templates_and_slots,3
 web/api/web_crypto_api,0
 web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,13
 web/api/web_locks_api,5
-web/api/web_midi_api,5
+web/api/web_midi_api,6
 web/api/web_nfc_api,null
 web/api/web_periodic_background_synchronization_api,8
 web/api/web_serial_api,10
@@ -9661,7 +9661,7 @@ web/api/webxr_device_api/rendering,3
 web/api/webxr_device_api/spatial_tracking,null
 web/api/webxr_device_api/startup_and_shutdown,null
 web/api/webxr_device_api/targeting,null
-web/api/wgsllanguagefeatures,16
+web/api/wgsllanguagefeatures,17
 web/api/wheelevent,6
 web/api/wheelevent/deltamode,2
 web/api/wheelevent/deltax,2
@@ -11825,7 +11825,7 @@ web/http/reference/headers/content-range,null
 web/http/reference/headers/content-security-policy,4
 web/http/reference/headers/content-security-policy-report-only,1
 web/http/reference/headers/content-security-policy/base-uri,3
-web/http/reference/headers/content-security-policy/block-all-mixed-content,3
+web/http/reference/headers/content-security-policy/block-all-mixed-content,4
 web/http/reference/headers/content-security-policy/child-src,4
 web/http/reference/headers/content-security-policy/connect-src,0
 web/http/reference/headers/content-security-policy/default-src,4
@@ -13557,7 +13557,7 @@ web/progressive_web_apps,4
 web/progressive_web_apps/guides,1
 web/progressive_web_apps/guides/best_practices,5
 web/progressive_web_apps/guides/caching,3
-web/progressive_web_apps/guides/installing,4
+web/progressive_web_apps/guides/installing,5
 web/progressive_web_apps/guides/making_pwas_installable,9
 web/progressive_web_apps/guides/offline_and_background_operation,6
 web/progressive_web_apps/guides/what_is_a_progressive_web_app,5
