@@ -2386,7 +2386,7 @@ web/api/audiobuffersourcenode/loopend,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,W
 web/api/audiobuffersourcenode/loopstart,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/audiobuffersourcenode/playbackrate,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/audiobuffersourcenode/start,cbb6b6ba73d24946ca8d0eaf700e3fb52054fe0f,Web APIs
-web/api/audiocontext,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
+web/api/audiocontext,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
 web/api/audiocontext/audiocontext,a4675b9077ae32f989c7ecac94f454db2653c4fc,Web APIs
 web/api/audiocontext/baselatency,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/audiocontext/close,f3c4fc42e8817d0b8f703cf83957c33cd5342019,Web APIs
@@ -2396,7 +2396,7 @@ web/api/audiocontext/createmediastreamsource,a4fcf79b60471db6f148fa4ba36f2cdeafb
 web/api/audiocontext/createmediastreamtracksource,0a881eea07f0cec6ca4ed85a24af43b367a9f80d,Web APIs
 web/api/audiocontext/getoutputtimestamp,f2dc3d5367203c860cf1a71ce0e972f018523849,Web APIs
 web/api/audiocontext/outputlatency,135b8311a5e3d12789e8421845be3ce026ef72b8,Web APIs
-web/api/audiocontext/playbackstats,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
+web/api/audiocontext/playbackstats,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
 web/api/audiocontext/resume,f3c4fc42e8817d0b8f703cf83957c33cd5342019,Web APIs
 web/api/audiocontext/setsinkid,29d7119ff6b46801a0e5a2ce69b734b668812035,Web APIs
 web/api/audiocontext/sinkchange_event,29d7119ff6b46801a0e5a2ce69b734b668812035,Web APIs
@@ -2473,15 +2473,15 @@ web/api/audioparam/setvaluecurveattime,ec1006afdf68a5808a48ab6301f9ccff3cd7ecc2,
 web/api/audioparam/value,6f586f9ddb933defaacac2784409fff0a56adf34,Web APIs
 web/api/audioparamdescriptor,46b0ecd3b5280fbff659d138e3a7eaaf0fd12a24,Web APIs
 web/api/audioparammap,c99afd3cafe73c93831bd73ad1dac285c3c713b1,Web APIs
-web/api/audioplaybackstats,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,Web APIs
-web/api/audioplaybackstats/averagelatency,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
-web/api/audioplaybackstats/maximumlatency,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
-web/api/audioplaybackstats/minimumlatency,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
-web/api/audioplaybackstats/resetlatency,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
-web/api/audioplaybackstats/tojson,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
-web/api/audioplaybackstats/totalduration,f93d96a97c1dfcf8fc77d660799f3680b67bec61,Web APIs
-web/api/audioplaybackstats/underrunduration,a1c2691b9ef6120e81ef3e08f51bfcacb6d4dc00,Web APIs
-web/api/audioplaybackstats/underrunevents,a1c2691b9ef6120e81ef3e08f51bfcacb6d4dc00,Web APIs
+web/api/audioplaybackstats,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
+web/api/audioplaybackstats/averagelatency,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
+web/api/audioplaybackstats/maximumlatency,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
+web/api/audioplaybackstats/minimumlatency,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
+web/api/audioplaybackstats/resetlatency,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
+web/api/audioplaybackstats/tojson,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
+web/api/audioplaybackstats/totalduration,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
+web/api/audioplaybackstats/underrunduration,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
+web/api/audioplaybackstats/underrunevents,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
 web/api/audioprocessingevent,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/audioprocessingevent/audioprocessingevent,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/audioprocessingevent/inputbuffer,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
@@ -3078,8 +3078,8 @@ web/api/cssanimation,4f5e90f47c518afd1e3c11a9fb32b933cc8434e9,Web APIs
 web/api/cssanimation/animationname,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
 web/api/cssconditionrule,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/cssconditionrule/conditiontext,63cbf204323f117a2a80c7aa6273e50253ab9d07,Web APIs
-web/api/csscontainerrule,d3272ba3d0db5ddb0958757b49169d4662e588f8,Web APIs
-web/api/csscontainerrule/conditions,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,Web APIs
+web/api/csscontainerrule,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
+web/api/csscontainerrule/conditions,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
 web/api/csscontainerrule/containername,d3272ba3d0db5ddb0958757b49169d4662e588f8,Web APIs
 web/api/csscontainerrule/containerquery,d3272ba3d0db5ddb0958757b49169d4662e588f8,Web APIs
 web/api/csscounterstylerule,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
@@ -9115,13 +9115,13 @@ web/api/viewtimeline/endoffset,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/viewtimeline/startoffset,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/viewtimeline/subject,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/viewtimeline/viewtimeline,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/viewtransition,7313aa9ef71bdfcd7ddb2fa4247b0600ce0e6542,Web APIs
+web/api/viewtransition,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
 web/api/viewtransition/finished,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
 web/api/viewtransition/ready,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
 web/api/viewtransition/skiptransition,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
 web/api/viewtransition/types,8f7fa9e7aef0399c7a7f8e5a20476a0c2f287640,Web APIs
 web/api/viewtransition/updatecallbackdone,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
-web/api/viewtransition/waituntil,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,Web APIs
+web/api/viewtransition/waituntil,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
 web/api/viewtransitiontypeset,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
 web/api/virtualkeyboard,5cdb341c723de0edb273769555d9124266d9c851,Web APIs
 web/api/virtualkeyboard/boundingrect,5cdb341c723de0edb273769555d9124266d9c851,Web APIs
@@ -11630,11 +11630,11 @@ web/html/reference/elements/marquee,44a5fa2aace490e0114349d9d683675b2f5cacce,HTM
 web/html/reference/elements/menu,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/meta,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/meta/http-equiv,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Elements
-web/html/reference/elements/meta/name,4607393c465f5a8bdbb36047f2ec03c2fb058af5,HTML|Elements
+web/html/reference/elements/meta/name,b884c869c8bdc8f6bd0ea8290934757d27d6845c,HTML|Elements
 web/html/reference/elements/meta/name/color-scheme,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Elements
 web/html/reference/elements/meta/name/referrer,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Elements
 web/html/reference/elements/meta/name/robots,c53bfa01f3bf436d486f4032c16f592855a2af2c,HTML|Elements
-web/html/reference/elements/meta/name/text-scale,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,HTML|Elements
+web/html/reference/elements/meta/name/text-scale,b884c869c8bdc8f6bd0ea8290934757d27d6845c,HTML|Elements
 web/html/reference/elements/meta/name/theme-color,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Elements
 web/html/reference/elements/meta/name/viewport,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Elements
 web/html/reference/elements/meter,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
