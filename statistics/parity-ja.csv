@@ -2386,7 +2386,7 @@ web/api/audiobuffersourcenode/loopend,2
 web/api/audiobuffersourcenode/loopstart,2
 web/api/audiobuffersourcenode/playbackrate,2
 web/api/audiobuffersourcenode/start,2
-web/api/audiocontext,4
+web/api/audiocontext,5
 web/api/audiocontext/audiocontext,0
 web/api/audiocontext/baselatency,2
 web/api/audiocontext/close,2
@@ -3078,7 +3078,7 @@ web/api/cssanimation,0
 web/api/cssanimation/animationname,0
 web/api/cssconditionrule,null
 web/api/cssconditionrule/conditiontext,null
-web/api/csscontainerrule,4
+web/api/csscontainerrule,5
 web/api/csscontainerrule/conditions,null
 web/api/csscontainerrule/containername,6
 web/api/csscontainerrule/containerquery,4
@@ -9115,7 +9115,7 @@ web/api/viewtimeline/endoffset,2
 web/api/viewtimeline/startoffset,2
 web/api/viewtimeline/subject,2
 web/api/viewtimeline/viewtimeline,3
-web/api/viewtransition,1
+web/api/viewtransition,2
 web/api/viewtransition/finished,0
 web/api/viewtransition/ready,0
 web/api/viewtransition/skiptransition,0
@@ -11630,7 +11630,7 @@ web/html/reference/elements/marquee,2
 web/html/reference/elements/menu,5
 web/html/reference/elements/meta,1
 web/html/reference/elements/meta/http-equiv,1
-web/html/reference/elements/meta/name,3
+web/html/reference/elements/meta/name,4
 web/html/reference/elements/meta/name/color-scheme,3
 web/html/reference/elements/meta/name/referrer,1
 web/html/reference/elements/meta/name/robots,2
