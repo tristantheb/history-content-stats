@@ -1082,8 +1082,8 @@ mdn/writing_guidelines/experimental_deprecated_obsolete,6
 mdn/writing_guidelines/howto,3
 mdn/writing_guidelines/howto/creating_moving_deleting,3
 mdn/writing_guidelines/howto/document_a_css_property,2
-mdn/writing_guidelines/howto/document_an_http_header,7
-mdn/writing_guidelines/howto/document_web_errors,3
+mdn/writing_guidelines/howto/document_an_http_header,0
+mdn/writing_guidelines/howto/document_web_errors,0
 mdn/writing_guidelines/howto/images_media,10
 mdn/writing_guidelines/howto/json_structured_data,9
 mdn/writing_guidelines/howto/markdown_in_mdn,14
@@ -1125,8 +1125,8 @@ mdn/writing_guidelines/page_structures/page_types/page_type_key,null
 mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,15
 mdn/writing_guidelines/page_structures/polyfills,0
 mdn/writing_guidelines/page_structures/sidebars,0
-mdn/writing_guidelines/page_structures/specification_tables,3
-mdn/writing_guidelines/page_structures/syntax_sections,null
+mdn/writing_guidelines/page_structures/specification_tables,0
+mdn/writing_guidelines/page_structures/syntax_sections,0
 mdn/writing_guidelines/what_we_write,9
 mdn/writing_guidelines/writing_style_guide,1
 mozilla,null
