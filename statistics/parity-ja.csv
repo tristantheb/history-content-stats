@@ -3775,10 +3775,10 @@ web/api/dynamicscompressornode/ratio,null
 web/api/dynamicscompressornode/reduction,null
 web/api/dynamicscompressornode/release,null
 web/api/dynamicscompressornode/threshold,null
-web/api/ecdhkeyderiveparams,null
-web/api/ecdsaparams,null
+web/api/ecdhkeyderiveparams,0
+web/api/ecdsaparams,0
 web/api/eckeygenparams,2
-web/api/eckeyimportparams,null
+web/api/eckeyimportparams,0
 web/api/editcontext,0
 web/api/editcontext/attachedelements,1
 web/api/editcontext/characterbounds,1
@@ -4720,8 +4720,8 @@ web/api/history/scrollrestoration,2
 web/api/history/state,0
 web/api/history_api,1
 web/api/history_api/working_with_the_history_api,8
-web/api/hkdfparams,null
-web/api/hmacimportparams,null
+web/api/hkdfparams,0
+web/api/hmacimportparams,0
 web/api/hmackeygenparams,4
 web/api/hmdvrdevice,null
 web/api/hmdvrdevice/geteyeparameters,null
@@ -6642,7 +6642,7 @@ web/api/paymentresponse/retry,null
 web/api/paymentresponse/shippingaddress,null
 web/api/paymentresponse/shippingoption,null
 web/api/paymentresponse/tojson,null
-web/api/pbkdf2params,null
+web/api/pbkdf2params,0
 web/api/performance,7
 web/api/performance/clearmarks,2
 web/api/performance/clearmeasures,2
@@ -11560,8 +11560,8 @@ web/html/reference/elements/caption,9
 web/html/reference/elements/center,4
 web/html/reference/elements/cite,4
 web/html/reference/elements/code,5
-web/html/reference/elements/col,9
-web/html/reference/elements/colgroup,10
+web/html/reference/elements/col,0
+web/html/reference/elements/colgroup,0
 web/html/reference/elements/data,3
 web/html/reference/elements/datalist,1
 web/html/reference/elements/dd,4
