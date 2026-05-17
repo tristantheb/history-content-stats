@@ -5081,7 +5081,7 @@ web/api/htmlinputelement/select_event,0
 web/api/htmlinputelement/selectionchange_event,0
 web/api/htmlinputelement/selectiondirection,0
 web/api/htmlinputelement/selectionend,0
-web/api/htmlinputelement/selectionstart,0
+web/api/htmlinputelement/selectionstart,1
 web/api/htmlinputelement/setcustomvalidity,0
 web/api/htmlinputelement/setrangetext,0
 web/api/htmlinputelement/setselectionrange,0

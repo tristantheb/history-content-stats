@@ -5081,7 +5081,7 @@ web/api/htmlinputelement/select_event,2
 web/api/htmlinputelement/selectionchange_event,4
 web/api/htmlinputelement/selectiondirection,2
 web/api/htmlinputelement/selectionend,3
-web/api/htmlinputelement/selectionstart,1
+web/api/htmlinputelement/selectionstart,2
 web/api/htmlinputelement/setcustomvalidity,4
 web/api/htmlinputelement/setrangetext,3
 web/api/htmlinputelement/setselectionrange,7
@@ -11681,7 +11681,7 @@ web/html/reference/elements/sub,4
 web/html/reference/elements/summary,9
 web/html/reference/elements/sup,3
 web/html/reference/elements/table,6
-web/html/reference/elements/tbody,10
+web/html/reference/elements/tbody,0
 web/html/reference/elements/td,0
 web/html/reference/elements/template,2
 web/html/reference/elements/textarea,1
