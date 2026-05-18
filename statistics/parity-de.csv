@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,1
+mozilla/firefox/experimental_features,2
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1959,9 +1959,10 @@ mozilla/firefox/releases/147,0
 mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
-mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,3
-mozilla/firefox/releases/152,0
+mozilla/firefox/releases/150,1
+mozilla/firefox/releases/151,5
+mozilla/firefox/releases/152,1
+mozilla/firefox/releases/153,null
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -6816,7 +6817,7 @@ web/api/performancetiming/secureconnectionstart,0
 web/api/performancetiming/tojson,0
 web/api/performancetiming/unloadeventend,0
 web/api/performancetiming/unloadeventstart,0
-web/api/performancetimingconfidence,0
+web/api/performancetimingconfidence,1
 web/api/performancetimingconfidence/randomizedtriggerrate,0
 web/api/performancetimingconfidence/tojson,0
 web/api/performancetimingconfidence/value,0
