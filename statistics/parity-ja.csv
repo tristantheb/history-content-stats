@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,5
+mozilla/firefox/experimental_features,6
 mozilla/firefox/releases,null
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -4616,7 +4616,7 @@ web/api/gpushadermodule,null
 web/api/gpushadermodule/getcompilationinfo,null
 web/api/gpushadermodule/label,null
 web/api/gpusupportedfeatures,16
-web/api/gpusupportedlimits,5
+web/api/gpusupportedlimits,6
 web/api/gputexture,null
 web/api/gputexture/createview,null
 web/api/gputexture/depthorarraylayers,null
@@ -7151,10 +7151,10 @@ web/api/response/type,4
 web/api/response/url,2
 web/api/restrictiontarget,null
 web/api/restrictiontarget/fromelement_static,null
-web/api/rsahashedimportparams,null
+web/api/rsahashedimportparams,0
 web/api/rsahashedkeygenparams,6
-web/api/rsaoaepparams,null
-web/api/rsapssparams,null
+web/api/rsaoaepparams,0
+web/api/rsapssparams,0
 web/api/rtcaudiosourcestats,null
 web/api/rtcaudiosourcestats/audiolevel,null
 web/api/rtcaudiosourcestats/id,null
@@ -11668,10 +11668,10 @@ web/html/reference/elements/rtc,6
 web/html/reference/elements/ruby,7
 web/html/reference/elements/s,4
 web/html/reference/elements/samp,4
-web/html/reference/elements/script,9
+web/html/reference/elements/script,0
 web/html/reference/elements/script/type,0
-web/html/reference/elements/script/type/importmap,4
-web/html/reference/elements/script/type/speculationrules,10
+web/html/reference/elements/script/type/importmap,0
+web/html/reference/elements/script/type/speculationrules,0
 web/html/reference/elements/search,3
 web/html/reference/elements/section,1
 web/html/reference/elements/select,5
@@ -11691,9 +11691,9 @@ web/html/reference/elements/tbody,0
 web/html/reference/elements/td,0
 web/html/reference/elements/template,3
 web/html/reference/elements/textarea,1
-web/html/reference/elements/tfoot,9
+web/html/reference/elements/tfoot,0
 web/html/reference/elements/th,0
-web/html/reference/elements/thead,10
+web/html/reference/elements/thead,0
 web/html/reference/elements/time,4
 web/html/reference/elements/title,0
 web/html/reference/elements/tr,10
