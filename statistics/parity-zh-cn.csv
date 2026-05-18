@@ -5423,6 +5423,7 @@ web/api/htmltemplateelement/shadowrootcustomelementregistry,null
 web/api/htmltemplateelement/shadowrootdelegatesfocus,null
 web/api/htmltemplateelement/shadowrootmode,null
 web/api/htmltemplateelement/shadowrootserializable,null
+web/api/htmltemplateelement/shadowrootslotassignment,null
 web/api/htmltextareaelement,null
 web/api/htmltextareaelement/autocomplete,null
 web/api/htmltextareaelement/checkvalidity,null
@@ -6721,6 +6722,7 @@ web/api/performancenavigation/tojson,null
 web/api/performancenavigation/type,null
 web/api/performancenavigationtiming,null
 web/api/performancenavigationtiming/activationstart,null
+web/api/performancenavigationtiming/confidence,null
 web/api/performancenavigationtiming/criticalchrestart,null
 web/api/performancenavigationtiming/domcomplete,null
 web/api/performancenavigationtiming/domcontentloadedeventend,null
@@ -6814,6 +6816,10 @@ web/api/performancetiming/secureconnectionstart,null
 web/api/performancetiming/tojson,null
 web/api/performancetiming/unloadeventend,null
 web/api/performancetiming/unloadeventstart,null
+web/api/performancetimingconfidence,null
+web/api/performancetimingconfidence/randomizedtriggerrate,null
+web/api/performancetimingconfidence/tojson,null
+web/api/performancetimingconfidence/value,null
 web/api/periodicsyncevent,null
 web/api/periodicsyncevent/periodicsyncevent,null
 web/api/periodicsyncevent/tag,null
@@ -9257,7 +9263,7 @@ web/api/web_bluetooth_api,3
 web/api/web_components,0
 web/api/web_components/using_custom_elements,null
 web/api/web_components/using_shadow_dom,9
-web/api/web_components/using_templates_and_slots,12
+web/api/web_components/using_templates_and_slots,13
 web/api/web_crypto_api,null
 web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,null
 web/api/web_locks_api,1
@@ -11302,7 +11308,7 @@ web/css/reference/values/acos,null
 web/css/reference/values/alpha-value,6
 web/css/reference/values/anchor,null
 web/css/reference/values/anchor-size,null
-web/css/reference/values/angle,6
+web/css/reference/values/angle,7
 web/css/reference/values/angle-percentage,6
 web/css/reference/values/asin,null
 web/css/reference/values/atan,null
@@ -11670,7 +11676,7 @@ web/html/reference/elements/search,3
 web/html/reference/elements/section,null
 web/html/reference/elements/select,null
 web/html/reference/elements/selectedcontent,null
-web/html/reference/elements/slot,6
+web/html/reference/elements/slot,7
 web/html/reference/elements/small,6
 web/html/reference/elements/source,7
 web/html/reference/elements/span,5

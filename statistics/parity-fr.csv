@@ -5416,13 +5416,14 @@ web/api/htmltablesectionelement/deleterow,0
 web/api/htmltablesectionelement/insertrow,0
 web/api/htmltablesectionelement/rows,0
 web/api/htmltablesectionelement/valign,0
-web/api/htmltemplateelement,0
+web/api/htmltemplateelement,1
 web/api/htmltemplateelement/content,0
 web/api/htmltemplateelement/shadowrootclonable,0
 web/api/htmltemplateelement/shadowrootcustomelementregistry,null
 web/api/htmltemplateelement/shadowrootdelegatesfocus,0
 web/api/htmltemplateelement/shadowrootmode,0
 web/api/htmltemplateelement/shadowrootserializable,0
+web/api/htmltemplateelement/shadowrootslotassignment,null
 web/api/htmltextareaelement,0
 web/api/htmltextareaelement/autocomplete,0
 web/api/htmltextareaelement/checkvalidity,0
@@ -6721,6 +6722,7 @@ web/api/performancenavigation/tojson,null
 web/api/performancenavigation/type,null
 web/api/performancenavigationtiming,null
 web/api/performancenavigationtiming/activationstart,0
+web/api/performancenavigationtiming/confidence,null
 web/api/performancenavigationtiming/criticalchrestart,null
 web/api/performancenavigationtiming/domcomplete,null
 web/api/performancenavigationtiming/domcontentloadedeventend,null
@@ -6814,6 +6816,10 @@ web/api/performancetiming/secureconnectionstart,null
 web/api/performancetiming/tojson,null
 web/api/performancetiming/unloadeventend,null
 web/api/performancetiming/unloadeventstart,null
+web/api/performancetimingconfidence,null
+web/api/performancetimingconfidence/randomizedtriggerrate,null
+web/api/performancetimingconfidence/tojson,null
+web/api/performancetimingconfidence/value,null
 web/api/periodicsyncevent,null
 web/api/periodicsyncevent/periodicsyncevent,null
 web/api/periodicsyncevent/tag,null
@@ -11302,7 +11308,7 @@ web/css/reference/values/acos,0
 web/css/reference/values/alpha-value,0
 web/css/reference/values/anchor,0
 web/css/reference/values/anchor-size,0
-web/css/reference/values/angle,0
+web/css/reference/values/angle,1
 web/css/reference/values/angle-percentage,0
 web/css/reference/values/asin,0
 web/css/reference/values/atan,0
@@ -11670,7 +11676,7 @@ web/html/reference/elements/search,0
 web/html/reference/elements/section,0
 web/html/reference/elements/select,0
 web/html/reference/elements/selectedcontent,0
-web/html/reference/elements/slot,0
+web/html/reference/elements/slot,1
 web/html/reference/elements/small,0
 web/html/reference/elements/source,0
 web/html/reference/elements/span,0
@@ -11683,7 +11689,7 @@ web/html/reference/elements/sup,0
 web/html/reference/elements/table,0
 web/html/reference/elements/tbody,0
 web/html/reference/elements/td,0
-web/html/reference/elements/template,0
+web/html/reference/elements/template,1
 web/html/reference/elements/textarea,0
 web/html/reference/elements/tfoot,0
 web/html/reference/elements/th,0
@@ -11917,7 +11923,7 @@ web/http/reference/headers/permissions-policy/gyroscope,0
 web/http/reference/headers/permissions-policy/hid,0
 web/http/reference/headers/permissions-policy/identity-credentials-get,0
 web/http/reference/headers/permissions-policy/idle-detection,0
-web/http/reference/headers/permissions-policy/language-detector,0
+web/http/reference/headers/permissions-policy/language-detector,1
 web/http/reference/headers/permissions-policy/local-fonts,0
 web/http/reference/headers/permissions-policy/magnetometer,0
 web/http/reference/headers/permissions-policy/microphone,0
@@ -11934,8 +11940,8 @@ web/http/reference/headers/permissions-policy/screen-wake-lock,0
 web/http/reference/headers/permissions-policy/serial,0
 web/http/reference/headers/permissions-policy/speaker-selection,0
 web/http/reference/headers/permissions-policy/storage-access,0
-web/http/reference/headers/permissions-policy/summarizer,0
-web/http/reference/headers/permissions-policy/translator,0
+web/http/reference/headers/permissions-policy/summarizer,1
+web/http/reference/headers/permissions-policy/translator,1
 web/http/reference/headers/permissions-policy/usb,0
 web/http/reference/headers/permissions-policy/web-share,0
 web/http/reference/headers/permissions-policy/window-management,0
