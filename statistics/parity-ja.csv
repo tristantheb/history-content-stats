@@ -2290,10 +2290,10 @@ web/api/accelerometer/accelerometer,3
 web/api/accelerometer/x,1
 web/api/accelerometer/y,2
 web/api/accelerometer/z,1
-web/api/aescbcparams,null
-web/api/aesctrparams,null
+web/api/aescbcparams,0
+web/api/aesctrparams,0
 web/api/aesderivedkeyparams,null
-web/api/aesgcmparams,null
+web/api/aesgcmparams,0
 web/api/aeskeygenparams,1
 web/api/ambientlightsensor,2
 web/api/ambientlightsensor/ambientlightsensor,3
@@ -3861,7 +3861,7 @@ web/api/element/ariavaluemin,2
 web/api/element/ariavaluenow,2
 web/api/element/ariavaluetext,2
 web/api/element/assignedslot,1
-web/api/element/attachshadow,14
+web/api/element/attachshadow,15
 web/api/element/attributes,2
 web/api/element/auxclick_event,4
 web/api/element/before,3
@@ -5416,13 +5416,14 @@ web/api/htmltablesectionelement/deleterow,null
 web/api/htmltablesectionelement/insertrow,null
 web/api/htmltablesectionelement/rows,null
 web/api/htmltablesectionelement/valign,null
-web/api/htmltemplateelement,2
+web/api/htmltemplateelement,3
 web/api/htmltemplateelement/content,1
 web/api/htmltemplateelement/shadowrootclonable,2
 web/api/htmltemplateelement/shadowrootcustomelementregistry,null
 web/api/htmltemplateelement/shadowrootdelegatesfocus,3
 web/api/htmltemplateelement/shadowrootmode,2
 web/api/htmltemplateelement/shadowrootserializable,2
+web/api/htmltemplateelement/shadowrootslotassignment,null
 web/api/htmltextareaelement,2
 web/api/htmltextareaelement/autocomplete,0
 web/api/htmltextareaelement/checkvalidity,2
@@ -6667,7 +6668,7 @@ web/api/performance_api,0
 web/api/performance_api/high_precision_timing,null
 web/api/performance_api/long_animation_frame_timing,null
 web/api/performance_api/monitoring_bfcache_blocking_reasons,null
-web/api/performance_api/navigation_timing,0
+web/api/performance_api/navigation_timing,1
 web/api/performance_api/performance_data,null
 web/api/performance_api/resource_timing,2
 web/api/performance_api/server_timing,null
@@ -6719,8 +6720,9 @@ web/api/performancenavigation,5
 web/api/performancenavigation/redirectcount,4
 web/api/performancenavigation/tojson,null
 web/api/performancenavigation/type,6
-web/api/performancenavigationtiming,0
+web/api/performancenavigationtiming,1
 web/api/performancenavigationtiming/activationstart,0
+web/api/performancenavigationtiming/confidence,null
 web/api/performancenavigationtiming/criticalchrestart,null
 web/api/performancenavigationtiming/domcomplete,null
 web/api/performancenavigationtiming/domcontentloadedeventend,null
@@ -6814,6 +6816,10 @@ web/api/performancetiming/secureconnectionstart,null
 web/api/performancetiming/tojson,null
 web/api/performancetiming/unloadeventend,null
 web/api/performancetiming/unloadeventstart,null
+web/api/performancetimingconfidence,null
+web/api/performancetimingconfidence/randomizedtriggerrate,null
+web/api/performancetimingconfidence/tojson,null
+web/api/performancetimingconfidence/value,null
 web/api/periodicsyncevent,1
 web/api/periodicsyncevent/periodicsyncevent,1
 web/api/periodicsyncevent/tag,1
@@ -7828,7 +7834,7 @@ web/api/shadowroot/pointerlockelement,0
 web/api/shadowroot/serializable,2
 web/api/shadowroot/sethtml,null
 web/api/shadowroot/sethtmlunsafe,11
-web/api/shadowroot/slotassignment,0
+web/api/shadowroot/slotassignment,1
 web/api/shadowroot/stylesheets,0
 web/api/shared_storage_api,null
 web/api/sharedstorage,null
@@ -9257,7 +9263,7 @@ web/api/web_bluetooth_api,4
 web/api/web_components,1
 web/api/web_components/using_custom_elements,5
 web/api/web_components/using_shadow_dom,3
-web/api/web_components/using_templates_and_slots,3
+web/api/web_components/using_templates_and_slots,4
 web/api/web_crypto_api,0
 web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,13
 web/api/web_locks_api,5
@@ -11302,7 +11308,7 @@ web/css/reference/values/acos,0
 web/css/reference/values/alpha-value,1
 web/css/reference/values/anchor,0
 web/css/reference/values/anchor-size,0
-web/css/reference/values/angle,0
+web/css/reference/values/angle,1
 web/css/reference/values/angle-percentage,1
 web/css/reference/values/asin,0
 web/css/reference/values/atan,0
@@ -11670,7 +11676,7 @@ web/html/reference/elements/search,3
 web/html/reference/elements/section,1
 web/html/reference/elements/select,5
 web/html/reference/elements/selectedcontent,1
-web/html/reference/elements/slot,6
+web/html/reference/elements/slot,7
 web/html/reference/elements/small,6
 web/html/reference/elements/source,7
 web/html/reference/elements/span,1
@@ -11683,7 +11689,7 @@ web/html/reference/elements/sup,3
 web/html/reference/elements/table,6
 web/html/reference/elements/tbody,0
 web/html/reference/elements/td,0
-web/html/reference/elements/template,2
+web/html/reference/elements/template,3
 web/html/reference/elements/textarea,1
 web/html/reference/elements/tfoot,9
 web/html/reference/elements/th,0

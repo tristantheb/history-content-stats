@@ -5423,6 +5423,7 @@ web/api/htmltemplateelement/shadowrootcustomelementregistry,null
 web/api/htmltemplateelement/shadowrootdelegatesfocus,null
 web/api/htmltemplateelement/shadowrootmode,null
 web/api/htmltemplateelement/shadowrootserializable,null
+web/api/htmltemplateelement/shadowrootslotassignment,null
 web/api/htmltextareaelement,null
 web/api/htmltextareaelement/autocomplete,null
 web/api/htmltextareaelement/checkvalidity,null
@@ -6721,6 +6722,7 @@ web/api/performancenavigation/tojson,null
 web/api/performancenavigation/type,null
 web/api/performancenavigationtiming,null
 web/api/performancenavigationtiming/activationstart,null
+web/api/performancenavigationtiming/confidence,null
 web/api/performancenavigationtiming/criticalchrestart,null
 web/api/performancenavigationtiming/domcomplete,null
 web/api/performancenavigationtiming/domcontentloadedeventend,null
@@ -6814,6 +6816,10 @@ web/api/performancetiming/secureconnectionstart,null
 web/api/performancetiming/tojson,null
 web/api/performancetiming/unloadeventend,null
 web/api/performancetiming/unloadeventstart,null
+web/api/performancetimingconfidence,null
+web/api/performancetimingconfidence/randomizedtriggerrate,null
+web/api/performancetimingconfidence/tojson,null
+web/api/performancetimingconfidence/value,null
 web/api/periodicsyncevent,null
 web/api/periodicsyncevent/periodicsyncevent,null
 web/api/periodicsyncevent/tag,null
