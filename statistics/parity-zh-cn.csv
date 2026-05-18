@@ -8842,11 +8842,11 @@ web/api/transformstream,null
 web/api/transformstream/readable,null
 web/api/transformstream/transformstream,null
 web/api/transformstream/writable,null
-web/api/transformstreamdefaultcontroller,null
-web/api/transformstreamdefaultcontroller/desiredsize,null
-web/api/transformstreamdefaultcontroller/enqueue,null
-web/api/transformstreamdefaultcontroller/error,null
-web/api/transformstreamdefaultcontroller/terminate,null
+web/api/transformstreamdefaultcontroller,0
+web/api/transformstreamdefaultcontroller/desiredsize,0
+web/api/transformstreamdefaultcontroller/enqueue,0
+web/api/transformstreamdefaultcontroller/error,0
+web/api/transformstreamdefaultcontroller/terminate,0
 web/api/transitionevent,null
 web/api/transitionevent/elapsedtime,null
 web/api/transitionevent/propertyname,null

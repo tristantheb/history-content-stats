@@ -1042,7 +1042,7 @@ learn_web_development/howto/tools_and_setup/how_much_does_it_cost,0
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,0
 learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,0
 learn_web_development/howto/tools_and_setup/using_github_pages,0
-learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,1
+learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,0
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,0
 learn_web_development/howto/web_mechanics,0
 learn_web_development/howto/web_mechanics/file_browser_bugs,0
@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1960,7 +1960,7 @@ mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,2
+mozilla/firefox/releases/151,3
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -2407,7 +2407,7 @@ web/api/audiodata/allocationsize,0
 web/api/audiodata/audiodata,0
 web/api/audiodata/clone,0
 web/api/audiodata/close,0
-web/api/audiodata/copyto,1
+web/api/audiodata/copyto,0
 web/api/audiodata/duration,0
 web/api/audiodata/format,0
 web/api/audiodata/numberofchannels,0
@@ -3767,9 +3767,9 @@ web/api/domtokenlist/values,0
 web/api/dragevent,0
 web/api/dragevent/datatransfer,0
 web/api/dragevent/dragevent,0
-web/api/dynamicscompressornode,1
+web/api/dynamicscompressornode,0
 web/api/dynamicscompressornode/attack,0
-web/api/dynamicscompressornode/dynamicscompressornode,1
+web/api/dynamicscompressornode/dynamicscompressornode,0
 web/api/dynamicscompressornode/knee,0
 web/api/dynamicscompressornode/ratio,0
 web/api/dynamicscompressornode/reduction,0
@@ -3861,7 +3861,7 @@ web/api/element/ariavaluemin,0
 web/api/element/ariavaluenow,0
 web/api/element/ariavaluetext,0
 web/api/element/assignedslot,0
-web/api/element/attachshadow,1
+web/api/element/attachshadow,0
 web/api/element/attributes,0
 web/api/element/auxclick_event,0
 web/api/element/before,0
@@ -4616,7 +4616,7 @@ web/api/gpushadermodule,0
 web/api/gpushadermodule/getcompilationinfo,0
 web/api/gpushadermodule/label,0
 web/api/gpusupportedfeatures,0
-web/api/gpusupportedlimits,0
+web/api/gpusupportedlimits,1
 web/api/gputexture,0
 web/api/gputexture/createview,0
 web/api/gputexture/depthorarraylayers,0
@@ -5416,14 +5416,14 @@ web/api/htmltablesectionelement/deleterow,0
 web/api/htmltablesectionelement/insertrow,0
 web/api/htmltablesectionelement/rows,0
 web/api/htmltablesectionelement/valign,0
-web/api/htmltemplateelement,1
+web/api/htmltemplateelement,0
 web/api/htmltemplateelement/content,0
 web/api/htmltemplateelement/shadowrootclonable,0
 web/api/htmltemplateelement/shadowrootcustomelementregistry,0
 web/api/htmltemplateelement/shadowrootdelegatesfocus,0
 web/api/htmltemplateelement/shadowrootmode,0
 web/api/htmltemplateelement/shadowrootserializable,0
-web/api/htmltemplateelement/shadowrootslotassignment,null
+web/api/htmltemplateelement/shadowrootslotassignment,0
 web/api/htmltextareaelement,0
 web/api/htmltextareaelement/autocomplete,0
 web/api/htmltextareaelement/checkvalidity,0
@@ -5751,7 +5751,7 @@ web/api/keyframeeffect/setkeyframes,0
 web/api/keyframeeffect/target,0
 web/api/khr_parallel_shader_compile,0
 web/api/languagedetector,0
-web/api/languagedetector/availability_static,1
+web/api/languagedetector/availability_static,0
 web/api/languagedetector/create_static,0
 web/api/languagedetector/destroy,0
 web/api/languagedetector/detect,0
@@ -6668,7 +6668,7 @@ web/api/performance_api,0
 web/api/performance_api/high_precision_timing,0
 web/api/performance_api/long_animation_frame_timing,0
 web/api/performance_api/monitoring_bfcache_blocking_reasons,0
-web/api/performance_api/navigation_timing,1
+web/api/performance_api/navigation_timing,0
 web/api/performance_api/performance_data,0
 web/api/performance_api/resource_timing,0
 web/api/performance_api/server_timing,0
@@ -6720,9 +6720,9 @@ web/api/performancenavigation,0
 web/api/performancenavigation/redirectcount,0
 web/api/performancenavigation/tojson,0
 web/api/performancenavigation/type,0
-web/api/performancenavigationtiming,1
+web/api/performancenavigationtiming,0
 web/api/performancenavigationtiming/activationstart,0
-web/api/performancenavigationtiming/confidence,null
+web/api/performancenavigationtiming/confidence,0
 web/api/performancenavigationtiming/criticalchrestart,0
 web/api/performancenavigationtiming/domcomplete,0
 web/api/performancenavigationtiming/domcontentloadedeventend,0
@@ -6732,7 +6732,7 @@ web/api/performancenavigationtiming/loadeventend,0
 web/api/performancenavigationtiming/loadeventstart,0
 web/api/performancenavigationtiming/notrestoredreasons,0
 web/api/performancenavigationtiming/redirectcount,0
-web/api/performancenavigationtiming/tojson,1
+web/api/performancenavigationtiming/tojson,0
 web/api/performancenavigationtiming/type,0
 web/api/performancenavigationtiming/unloadeventend,0
 web/api/performancenavigationtiming/unloadeventstart,0
@@ -6816,10 +6816,10 @@ web/api/performancetiming/secureconnectionstart,0
 web/api/performancetiming/tojson,0
 web/api/performancetiming/unloadeventend,0
 web/api/performancetiming/unloadeventstart,0
-web/api/performancetimingconfidence,null
-web/api/performancetimingconfidence/randomizedtriggerrate,null
-web/api/performancetimingconfidence/tojson,null
-web/api/performancetimingconfidence/value,null
+web/api/performancetimingconfidence,0
+web/api/performancetimingconfidence/randomizedtriggerrate,0
+web/api/performancetimingconfidence/tojson,0
+web/api/performancetimingconfidence/value,0
 web/api/periodicsyncevent,0
 web/api/periodicsyncevent/periodicsyncevent,0
 web/api/periodicsyncevent/tag,0
@@ -7295,7 +7295,7 @@ web/api/rtcicecandidatepairstats/priority,0
 web/api/rtcicecandidatepairstats/readable,0
 web/api/rtcicecandidatepairstats/remotecandidateid,0
 web/api/rtcicecandidatepairstats/requestsreceived,0
-web/api/rtcicecandidatepairstats/requestssent,1
+web/api/rtcicecandidatepairstats/requestssent,0
 web/api/rtcicecandidatepairstats/responsesreceived,0
 web/api/rtcicecandidatepairstats/responsessent,0
 web/api/rtcicecandidatepairstats/selected,0
@@ -7834,7 +7834,7 @@ web/api/shadowroot/pointerlockelement,0
 web/api/shadowroot/serializable,0
 web/api/shadowroot/sethtml,0
 web/api/shadowroot/sethtmlunsafe,0
-web/api/shadowroot/slotassignment,1
+web/api/shadowroot/slotassignment,0
 web/api/shadowroot/stylesheets,0
 web/api/shared_storage_api,0
 web/api/sharedstorage,0
@@ -8074,7 +8074,7 @@ web/api/subtlecrypto/unwrapkey,0
 web/api/subtlecrypto/verify,0
 web/api/subtlecrypto/wrapkey,0
 web/api/summarizer,0
-web/api/summarizer/availability_static,1
+web/api/summarizer/availability_static,0
 web/api/summarizer/create_static,0
 web/api/summarizer/destroy,0
 web/api/summarizer/expectedcontextlanguages,0
@@ -8853,7 +8853,7 @@ web/api/transitionevent/propertyname,0
 web/api/transitionevent/pseudoelement,0
 web/api/transitionevent/transitionevent,0
 web/api/translator,0
-web/api/translator/availability_static,1
+web/api/translator/availability_static,0
 web/api/translator/create_static,0
 web/api/translator/destroy,0
 web/api/translator/inputquota,0
@@ -8862,7 +8862,7 @@ web/api/translator/sourcelanguage,0
 web/api/translator/targetlanguage,0
 web/api/translator/translate,0
 web/api/translator/translatestreaming,0
-web/api/translator_and_language_detector_apis,1
+web/api/translator_and_language_detector_apis,0
 web/api/translator_and_language_detector_apis/using,0
 web/api/treewalker,0
 web/api/treewalker/currentnode,0
@@ -9263,7 +9263,7 @@ web/api/web_bluetooth_api,0
 web/api/web_components,0
 web/api/web_components/using_custom_elements,0
 web/api/web_components/using_shadow_dom,0
-web/api/web_components/using_templates_and_slots,1
+web/api/web_components/using_templates_and_slots,0
 web/api/web_crypto_api,0
 web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,0
 web/api/web_locks_api,0
@@ -11308,7 +11308,7 @@ web/css/reference/values/acos,0
 web/css/reference/values/alpha-value,0
 web/css/reference/values/anchor,0
 web/css/reference/values/anchor-size,0
-web/css/reference/values/angle,1
+web/css/reference/values/angle,0
 web/css/reference/values/angle-percentage,0
 web/css/reference/values/asin,0
 web/css/reference/values/atan,0
@@ -11676,7 +11676,7 @@ web/html/reference/elements/search,0
 web/html/reference/elements/section,0
 web/html/reference/elements/select,0
 web/html/reference/elements/selectedcontent,0
-web/html/reference/elements/slot,1
+web/html/reference/elements/slot,0
 web/html/reference/elements/small,0
 web/html/reference/elements/source,0
 web/html/reference/elements/span,0
@@ -11689,7 +11689,7 @@ web/html/reference/elements/sup,0
 web/html/reference/elements/table,0
 web/html/reference/elements/tbody,0
 web/html/reference/elements/td,0
-web/html/reference/elements/template,1
+web/html/reference/elements/template,0
 web/html/reference/elements/textarea,0
 web/html/reference/elements/tfoot,0
 web/html/reference/elements/th,0
@@ -11923,7 +11923,7 @@ web/http/reference/headers/permissions-policy/gyroscope,0
 web/http/reference/headers/permissions-policy/hid,0
 web/http/reference/headers/permissions-policy/identity-credentials-get,0
 web/http/reference/headers/permissions-policy/idle-detection,0
-web/http/reference/headers/permissions-policy/language-detector,1
+web/http/reference/headers/permissions-policy/language-detector,0
 web/http/reference/headers/permissions-policy/local-fonts,0
 web/http/reference/headers/permissions-policy/magnetometer,0
 web/http/reference/headers/permissions-policy/microphone,0
@@ -11940,8 +11940,8 @@ web/http/reference/headers/permissions-policy/screen-wake-lock,0
 web/http/reference/headers/permissions-policy/serial,0
 web/http/reference/headers/permissions-policy/speaker-selection,0
 web/http/reference/headers/permissions-policy/storage-access,0
-web/http/reference/headers/permissions-policy/summarizer,1
-web/http/reference/headers/permissions-policy/translator,1
+web/http/reference/headers/permissions-policy/summarizer,0
+web/http/reference/headers/permissions-policy/translator,0
 web/http/reference/headers/permissions-policy/usb,0
 web/http/reference/headers/permissions-policy/web-share,0
 web/http/reference/headers/permissions-policy/window-management,0
@@ -13904,7 +13904,7 @@ web/svg/reference/element/feimage,0
 web/svg/reference/element/femerge,0
 web/svg/reference/element/femergenode,0
 web/svg/reference/element/femorphology,0
-web/svg/reference/element/feoffset,1
+web/svg/reference/element/feoffset,0
 web/svg/reference/element/fepointlight,0
 web/svg/reference/element/fespecularlighting,0
 web/svg/reference/element/fespotlight,0
