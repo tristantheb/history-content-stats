@@ -1042,7 +1042,7 @@ learn_web_development/howto/tools_and_setup/how_much_does_it_cost,0
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,0
 learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,0
 learn_web_development/howto/tools_and_setup/using_github_pages,0
-learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,0
+learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,1
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,0
 learn_web_development/howto/web_mechanics,0
 learn_web_development/howto/web_mechanics/file_browser_bugs,0
@@ -1960,7 +1960,7 @@ mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,0
+mozilla/firefox/releases/151,2
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -13904,7 +13904,7 @@ web/svg/reference/element/feimage,0
 web/svg/reference/element/femerge,0
 web/svg/reference/element/femergenode,0
 web/svg/reference/element/femorphology,0
-web/svg/reference/element/feoffset,0
+web/svg/reference/element/feoffset,1
 web/svg/reference/element/fepointlight,0
 web/svg/reference/element/fespecularlighting,0
 web/svg/reference/element/fespotlight,0
