@@ -1042,7 +1042,7 @@ learn_web_development/howto/tools_and_setup/how_much_does_it_cost,4
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,2
 learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,0
 learn_web_development/howto/tools_and_setup/using_github_pages,1
-learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,1
+learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,2
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,5
 learn_web_development/howto/web_mechanics,0
 learn_web_development/howto/web_mechanics/file_browser_bugs,3
@@ -13904,7 +13904,7 @@ web/svg/reference/element/feimage,null
 web/svg/reference/element/femerge,null
 web/svg/reference/element/femergenode,null
 web/svg/reference/element/femorphology,3
-web/svg/reference/element/feoffset,1
+web/svg/reference/element/feoffset,2
 web/svg/reference/element/fepointlight,null
 web/svg/reference/element/fespecularlighting,null
 web/svg/reference/element/fespotlight,null
