@@ -146,7 +146,7 @@ glossary/cookie,no_hash_commit
 glossary/copyleft,no_hash_commit
 glossary/cors-safelisted_request_header,5e9631df85d021e84133e14f4bd3c712e4f8fe08
 glossary/cors-safelisted_response_header,no_hash_commit
-glossary/cors,no_hash_commit
+glossary/cors,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 glossary/crawler,no_hash_commit
 glossary/credential,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/crlf,no_hash_commit
@@ -291,7 +291,7 @@ glossary/idempotent,99d723c4f77d7f537292a07dd7b5e5c13cb610da
 glossary/identifier,no_hash_commit
 glossary/idl,a4d73f3e2a41b98e26f8f39af143338ad4900bd5
 glossary/ietf,no_hash_commit
-glossary/iife,no_hash_commit
+glossary/iife,99d723c4f77d7f537292a07dd7b5e5c13cb610da
 glossary/imap,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/immutable,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary,2547f622337d6cbf8c3794776b17ed377d6aad57
@@ -355,7 +355,7 @@ glossary/microsoft_edge,no_hash_commit
 glossary/microsoft_internet_explorer,no_hash_commit
 glossary/middleware,no_hash_commit
 glossary/mime,no_hash_commit
-glossary/mime_type,no_hash_commit
+glossary/mime_type,5af7eee008b191ba354db23bd9d0ad299eb77678
 glossary/minification,no_hash_commit
 glossary/mitm,no_hash_commit
 glossary/mixin,ed947b2c608428b62a60f07d09dc543f732dc09b
@@ -480,7 +480,7 @@ glossary/safe,no_hash_commit
 glossary/salt,e63979cfb7866a20a546623e6cf736ccf9055f03
 glossary/same-origin_policy,4bd65a01204446af2254bb8864bd22ad87bc86b0
 glossary/scm,no_hash_commit
-glossary/scope,no_hash_commit
+glossary/scope,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/screen_reader,no_hash_commit
 glossary/script-supporting_element,no_hash_commit
 glossary/scroll_boundary,fd4a5c3107826fe3689a0432ba56b3eba00a5f90
@@ -581,7 +581,7 @@ glossary/undefined,no_hash_commit
 glossary/unicode,no_hash_commit
 glossary/unix_time,af32ed24e243178cd060769b7c707afcc271f9f6
 glossary/uri,no_hash_commit
-glossary/url,no_hash_commit
+glossary/url,d63fef1845615e13132bbbebb8723785eace208d
 glossary/urn,no_hash_commit
 glossary/usenet,no_hash_commit
 glossary/user_agent,2547f622337d6cbf8c3794776b17ed377d6aad57
@@ -1304,7 +1304,7 @@ mozilla/firefox/releases/32,c13266140a9b05549d7c8616973cb17d9357467b
 mozilla/firefox/releases/33,78ef1310a76394c4e0bdce456982abc3856790c0
 mozilla/firefox/releases/34,no_hash_commit
 mozilla/firefox/releases/35,83f4e64da466670c3700110da364546253eae127
-mozilla/firefox/releases/36,78ef1310a76394c4e0bdce456982abc3856790c0
+mozilla/firefox/releases/36,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/37,no_hash_commit
 mozilla/firefox/releases/38,no_hash_commit
 mozilla/firefox/releases/39,no_hash_commit
@@ -1337,7 +1337,7 @@ mozilla/firefox/releases/61,no_hash_commit
 mozilla/firefox/releases/62,61912f53d01e935aea926a2226130fb4587414a9
 mozilla/firefox/releases/63,no_hash_commit
 mozilla/firefox/releases/64,no_hash_commit
-mozilla/firefox/releases/65,78ef1310a76394c4e0bdce456982abc3856790c0
+mozilla/firefox/releases/65,f69b6693212029ce4b9fa0c753729044577af548
 mozilla/firefox/releases/66,78ef1310a76394c4e0bdce456982abc3856790c0
 mozilla/firefox/releases/67,no_hash_commit
 mozilla/firefox/releases/68,no_hash_commit
@@ -1436,7 +1436,7 @@ web/accessibility/aria/reference/attributes,a12fb8f2612fbdc6635b68c1dcd3c2fce212
 web/accessibility/aria/reference,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/accessibility/aria/reference/roles/alert_role,019ca5c9ce641bfa02825e1ba0444f35dfb646cc
 web/accessibility/aria/reference/roles/alertdialog_role,no_hash_commit
-web/accessibility/aria/reference/roles/application_role,no_hash_commit
+web/accessibility/aria/reference/roles/application_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/article_role,no_hash_commit
 web/accessibility/aria/reference/roles/banner_role,no_hash_commit
 web/accessibility/aria/reference/roles/button_role,02e1bfcad5fd0de845fb033d331c3c027afa2d6e
@@ -7967,11 +7967,12 @@ web/html/reference/elements/marquee,7c28cd21b705e7b7664d53b4d7822469ea8e6e15
 web/html/reference/elements/menu,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/meta/http-equiv,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/elements/meta,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/html/reference/elements/meta/name/color-scheme,0754cd805a8e010d2e3a2a065f634a3bcf358252
-web/html/reference/elements/meta/name,0754cd805a8e010d2e3a2a065f634a3bcf358252
+web/html/reference/elements/meta/name/color-scheme,bf5017c389132af39b50106cf1763fa7106e87b4
+web/html/reference/elements/meta/name,4607393c465f5a8bdbb36047f2ec03c2fb058af5
 web/html/reference/elements/meta/name/referrer,0754cd805a8e010d2e3a2a065f634a3bcf358252
-web/html/reference/elements/meta/name/robots,0754cd805a8e010d2e3a2a065f634a3bcf358252
-web/html/reference/elements/meta/name/theme-color,0754cd805a8e010d2e3a2a065f634a3bcf358252
+web/html/reference/elements/meta/name/robots,c53bfa01f3bf436d486f4032c16f592855a2af2c
+web/html/reference/elements/meta/name/text-scale,4607393c465f5a8bdbb36047f2ec03c2fb058af5
+web/html/reference/elements/meta/name/theme-color,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/meta/name/viewport,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/meter,e04d8d2766c468f149445c0bf438d09f9b2d188c
 web/html/reference/elements/nav,f2d281d86396bcd2dcecfdabd5837b1590132aa6
