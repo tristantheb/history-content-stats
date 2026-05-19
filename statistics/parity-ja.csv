@@ -176,7 +176,7 @@ glossary/continuous_media,3
 glossary/control_flow,null
 glossary/cookie,null
 glossary/copyleft,null
-glossary/cors,null
+glossary/cors,0
 glossary/cors-safelisted_request_header,7
 glossary/cors-safelisted_response_header,null
 glossary/crawler,null
@@ -333,7 +333,7 @@ glossary/identifier,null
 glossary/identity_provider,null
 glossary/idl,8
 glossary/ietf,null
-glossary/iife,null
+glossary/iife,0
 glossary/imap,2
 glossary/immutable,3
 glossary/indexeddb,null
@@ -402,7 +402,7 @@ glossary/microsoft_edge,null
 glossary/microsoft_internet_explorer,null
 glossary/middleware,null
 glossary/mime,null
-glossary/mime_type,null
+glossary/mime_type,0
 glossary/minification,null
 glossary/mitm,null
 glossary/mixin,4
@@ -535,7 +535,7 @@ glossary/safe/http,null
 glossary/salt,2
 glossary/same-origin_policy,6
 glossary/scm,null
-glossary/scope,null
+glossary/scope,0
 glossary/screen_reader,null
 glossary/script-supporting_element,null
 glossary/scroll_boundary,3
@@ -641,7 +641,7 @@ glossary/undefined,null
 glossary/unicode,null
 glossary/unix_time,4
 glossary/uri,null
-glossary/url,null
+glossary/url,0
 glossary/urn,null
 glossary/usenet,null
 glossary/user_agent,0
@@ -2008,7 +2008,7 @@ mozilla/firefox/releases/32,0
 mozilla/firefox/releases/33,18
 mozilla/firefox/releases/34,null
 mozilla/firefox/releases/35,0
-mozilla/firefox/releases/36,25
+mozilla/firefox/releases/36,0
 mozilla/firefox/releases/37,null
 mozilla/firefox/releases/38,null
 mozilla/firefox/releases/39,null
@@ -2044,7 +2044,7 @@ mozilla/firefox/releases/61,null
 mozilla/firefox/releases/62,0
 mozilla/firefox/releases/63,null
 mozilla/firefox/releases/64,null
-mozilla/firefox/releases/65,24
+mozilla/firefox/releases/65,0
 mozilla/firefox/releases/66,18
 mozilla/firefox/releases/67,null
 mozilla/firefox/releases/68,null
@@ -2161,7 +2161,7 @@ web/accessibility/aria/reference/attributes/aria-valuetext,1
 web/accessibility/aria/reference/roles,3
 web/accessibility/aria/reference/roles/alert_role,6
 web/accessibility/aria/reference/roles/alertdialog_role,null
-web/accessibility/aria/reference/roles/application_role,null
+web/accessibility/aria/reference/roles/application_role,0
 web/accessibility/aria/reference/roles/article_role,null
 web/accessibility/aria/reference/roles/banner_role,null
 web/accessibility/aria/reference/roles/button_role,10
@@ -11637,12 +11637,12 @@ web/html/reference/elements/marquee,2
 web/html/reference/elements/menu,5
 web/html/reference/elements/meta,1
 web/html/reference/elements/meta/http-equiv,1
-web/html/reference/elements/meta/name,4
-web/html/reference/elements/meta/name/color-scheme,3
+web/html/reference/elements/meta/name,1
+web/html/reference/elements/meta/name/color-scheme,0
 web/html/reference/elements/meta/name/referrer,1
-web/html/reference/elements/meta/name/robots,2
-web/html/reference/elements/meta/name/text-scale,null
-web/html/reference/elements/meta/name/theme-color,3
+web/html/reference/elements/meta/name/robots,0
+web/html/reference/elements/meta/name/text-scale,2
+web/html/reference/elements/meta/name/theme-color,0
 web/html/reference/elements/meta/name/viewport,0
 web/html/reference/elements/meter,7
 web/html/reference/elements/nav,1
