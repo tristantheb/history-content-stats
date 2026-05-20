@@ -11754,7 +11754,7 @@ web/http/guides/connection_management_in_http_1.x,0
 web/http/guides/content_negotiation,0
 web/http/guides/content_negotiation/list_of_default_accept_values,0
 web/http/guides/cookies,0
-web/http/guides/cors,null
+web/http/guides/cors,0
 web/http/guides/cors/errors,null
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,null
 web/http/guides/cors/errors/corsdidnotsucceed,null
@@ -11772,14 +11772,14 @@ web/http/guides/cors/errors/corsoriginheadernotadded,null
 web/http/guides/cors/errors/corspreflightdidnotsucceed,null
 web/http/guides/cors/errors/corsrequestnothttp,null
 web/http/guides/cross-origin_resource_policy,null
-web/http/guides/csp,null
+web/http/guides/csp,0
 web/http/guides/csp/errors,null
 web/http/guides/csp/errors/cspviolation,null
-web/http/guides/evolution_of_http,3
+web/http/guides/evolution_of_http,0
 web/http/guides/fetch_metadata,null
 web/http/guides/iframe_credentialless,null
 web/http/guides/messages,0
-web/http/guides/mime_types,1
+web/http/guides/mime_types,0
 web/http/guides/mime_types/common_types,null
 web/http/guides/network_error_logging,null
 web/http/guides/overview,null
