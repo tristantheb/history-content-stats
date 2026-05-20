@@ -11629,7 +11629,7 @@ web/html/reference/elements/kbd,null
 web/html/reference/elements/label,null
 web/html/reference/elements/legend,null
 web/html/reference/elements/li,null
-web/html/reference/elements/link,14
+web/html/reference/elements/link,15
 web/html/reference/elements/main,null
 web/html/reference/elements/map,null
 web/html/reference/elements/mark,null
@@ -13992,6 +13992,10 @@ web/webdriver/reference/bidi/modules/browser/setdownloadbehavior,null
 web/webdriver/reference/bidi/modules/browsingcontext,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
+web/webdriver/reference/bidi/modules/input/filedialogopened,null
+web/webdriver/reference/bidi/modules/input/performactions,null
+web/webdriver/reference/bidi/modules/input/releaseactions,null
+web/webdriver/reference/bidi/modules/input/setfiles,null
 web/webdriver/reference/bidi/modules/log,null
 web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
