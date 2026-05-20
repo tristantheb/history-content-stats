@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,7
+mozilla/firefox/experimental_features,8
 mozilla/firefox/releases,null
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -2569,7 +2569,7 @@ web/api/backgroundfetchupdateuievent,4
 web/api/backgroundfetchupdateuievent/backgroundfetchupdateuievent,3
 web/api/backgroundfetchupdateuievent/updateui,5
 web/api/badging_api,1
-web/api/barcode_detection_api,null
+web/api/barcode_detection_api,0
 web/api/barcodedetector,null
 web/api/barcodedetector/barcodedetector,null
 web/api/barcodedetector/detect,null
@@ -3424,10 +3424,10 @@ web/api/delegatedinktrailpresenter/presentationarea,1
 web/api/delegatedinktrailpresenter/updateinktrailstartpoint,2
 web/api/deprecationreport,null
 web/api/device_memory_api,null
-web/api/device_orientation_events,3
-web/api/device_orientation_events/detecting_device_orientation,5
-web/api/device_orientation_events/orientation_and_motion_data_explained,4
-web/api/device_orientation_events/using_device_orientation_with_3d_transforms,9
+web/api/device_orientation_events,0
+web/api/device_orientation_events/detecting_device_orientation,0
+web/api/device_orientation_events/orientation_and_motion_data_explained,0
+web/api/device_orientation_events/using_device_orientation_with_3d_transforms,0
 web/api/device_posture_api,0
 web/api/devicemotionevent,6
 web/api/devicemotionevent/acceleration,4
@@ -7426,7 +7426,7 @@ web/api/rtcoutboundrtpstreamstats/totalencodetime,null
 web/api/rtcoutboundrtpstreamstats/totalpacketsenddelay,null
 web/api/rtcoutboundrtpstreamstats/transportid,null
 web/api/rtcoutboundrtpstreamstats/type,null
-web/api/rtcpeerconnection,null
+web/api/rtcpeerconnection,0
 web/api/rtcpeerconnection/addicecandidate,null
 web/api/rtcpeerconnection/addstream,null
 web/api/rtcpeerconnection/addstream_event,null
@@ -9596,7 +9596,7 @@ web/api/websocket/protocol,3
 web/api/websocket/readystate,3
 web/api/websocket/send,3
 web/api/websocket/url,2
-web/api/websocket/websocket,7
+web/api/websocket/websocket,8
 web/api/websockets_api,2
 web/api/websockets_api/using_websocketstream,0
 web/api/websockets_api/writing_a_websocket_server_in_java,0
@@ -11366,7 +11366,7 @@ web/css/reference/values/display-legacy,1
 web/css/reference/values/display-listitem,1
 web/css/reference/values/display-outside,1
 web/css/reference/values/dynamic-range-limit-mix,0
-web/css/reference/values/easing-function,1
+web/css/reference/values/easing-function,0
 web/css/reference/values/easing-function/cubic-bezier,0
 web/css/reference/values/easing-function/linear,0
 web/css/reference/values/easing-function/steps,0
@@ -11534,12 +11534,12 @@ web/html/reference/attributes/rel/compression-dictionary,3
 web/html/reference/attributes/rel/dns-prefetch,2
 web/html/reference/attributes/rel/manifest,2
 web/html/reference/attributes/rel/me,3
-web/html/reference/attributes/rel/modulepreload,4
+web/html/reference/attributes/rel/modulepreload,5
 web/html/reference/attributes/rel/noopener,2
 web/html/reference/attributes/rel/noreferrer,2
 web/html/reference/attributes/rel/preconnect,3
 web/html/reference/attributes/rel/prefetch,3
-web/html/reference/attributes/rel/preload,1
+web/html/reference/attributes/rel/preload,2
 web/html/reference/attributes/rel/prerender,3
 web/html/reference/attributes/required,2
 web/html/reference/attributes/size,2
@@ -11629,7 +11629,7 @@ web/html/reference/elements/kbd,7
 web/html/reference/elements/label,1
 web/html/reference/elements/legend,5
 web/html/reference/elements/li,2
-web/html/reference/elements/link,0
+web/html/reference/elements/link,1
 web/html/reference/elements/main,0
 web/html/reference/elements/map,4
 web/html/reference/elements/mark,1
@@ -13992,6 +13992,10 @@ web/webdriver/reference/bidi/modules/browser/setdownloadbehavior,null
 web/webdriver/reference/bidi/modules/browsingcontext,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
+web/webdriver/reference/bidi/modules/input/filedialogopened,null
+web/webdriver/reference/bidi/modules/input/performactions,null
+web/webdriver/reference/bidi/modules/input/releaseactions,null
+web/webdriver/reference/bidi/modules/input/setfiles,null
 web/webdriver/reference/bidi/modules/log,null
 web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
