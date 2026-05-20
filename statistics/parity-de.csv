@@ -1121,7 +1121,7 @@ mdn/writing_guidelines/page_structures/page_types/glossary_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,0
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,0
-mdn/writing_guidelines/page_structures/page_types/page_type_key,1
+mdn/writing_guidelines/page_structures/page_types/page_type_key,0
 mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,0
 mdn/writing_guidelines/page_structures/polyfills,0
 mdn/writing_guidelines/page_structures/sidebars,0
@@ -10790,7 +10790,7 @@ web/css/reference/properties/d,0
 web/css/reference/properties/direction,0
 web/css/reference/properties/display,0
 web/css/reference/properties/dominant-baseline,0
-web/css/reference/properties/dynamic-range-limit,1
+web/css/reference/properties/dynamic-range-limit,0
 web/css/reference/properties/empty-cells,0
 web/css/reference/properties/field-sizing,0
 web/css/reference/properties/fill,0
