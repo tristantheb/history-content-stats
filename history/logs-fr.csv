@@ -5488,13 +5488,13 @@ web/http/guides/cors/errors/corsdisabled,no_hash_commit
 web/http/guides/cors/errors/corsmissingalloworigin,no_hash_commit
 web/http/guides/cors/errors/corsrequestnothttp,no_hash_commit
 web/http/guides/cors/errors,no_hash_commit
-web/http/guides/cors,no_hash_commit
-web/http/guides/csp,no_hash_commit
-web/http/guides/evolution_of_http,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/guides/cors,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
+web/http/guides/csp,6720d579bd658f02c56363805e97e69f93dc79f1
+web/http/guides/evolution_of_http,f9a9e52d36680ee55fb9f3f1dfc41ca3cdce046f
 web/http/guides,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/guides/messages,7a32241450ff246ab9035aca6e54483349ce855b
 web/http/guides/mime_types/common_types,no_hash_commit
-web/http/guides/mime_types,79fdc26fea835d65c9361541bb8ab1896f307475
+web/http/guides/mime_types,055bf71b1941f23bfcef39ab5b3393f9601b82b6
 web/http/guides/overview,no_hash_commit
 web/http/guides/permissions_policy,no_hash_commit
 web/http/guides/protocol_upgrade_mechanism,53b19adf7936b1830f407813c3252b35c5eb925e
