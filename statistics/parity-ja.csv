@@ -727,13 +727,13 @@ learn_web_development/core/css_layout/test_your_skills/grid,3
 learn_web_development/core/css_layout/test_your_skills/position,1
 learn_web_development/core/css_layout/test_your_skills/responsive_design,0
 learn_web_development/core/design_for_developers,8
-learn_web_development/core/frameworks_libraries,5
-learn_web_development/core/frameworks_libraries/angular_building,3
-learn_web_development/core/frameworks_libraries/angular_filtering,3
-learn_web_development/core/frameworks_libraries/angular_getting_started,5
-learn_web_development/core/frameworks_libraries/angular_item_component,8
-learn_web_development/core/frameworks_libraries/angular_styling,4
-learn_web_development/core/frameworks_libraries/angular_todo_list_beginning,2
+learn_web_development/core/frameworks_libraries,6
+learn_web_development/core/frameworks_libraries/angular_building,4
+learn_web_development/core/frameworks_libraries/angular_filtering,4
+learn_web_development/core/frameworks_libraries/angular_getting_started,6
+learn_web_development/core/frameworks_libraries/angular_item_component,9
+learn_web_development/core/frameworks_libraries/angular_styling,5
+learn_web_development/core/frameworks_libraries/angular_todo_list_beginning,3
 learn_web_development/core/frameworks_libraries/ember_conditional_footer,null
 learn_web_development/core/frameworks_libraries/ember_getting_started,null
 learn_web_development/core/frameworks_libraries/ember_interactivity_events_state,null
@@ -751,7 +751,7 @@ learn_web_development/core/frameworks_libraries/react_resources,1
 learn_web_development/core/frameworks_libraries/react_todo_list_beginning,0
 learn_web_development/core/frameworks_libraries/svelte_components,null
 learn_web_development/core/frameworks_libraries/svelte_deployment_next,null
-learn_web_development/core/frameworks_libraries/svelte_getting_started,10
+learn_web_development/core/frameworks_libraries/svelte_getting_started,11
 learn_web_development/core/frameworks_libraries/svelte_reactivity_lifecycle_accessibility,null
 learn_web_development/core/frameworks_libraries/svelte_stores,null
 learn_web_development/core/frameworks_libraries/svelte_todo_list_beginning,null
@@ -764,7 +764,7 @@ learn_web_development/core/frameworks_libraries/vue_getting_started,null
 learn_web_development/core/frameworks_libraries/vue_methods_events_models,null
 learn_web_development/core/frameworks_libraries/vue_refs_focus_management,null
 learn_web_development/core/frameworks_libraries/vue_rendering_lists,null
-learn_web_development/core/frameworks_libraries/vue_resources,0
+learn_web_development/core/frameworks_libraries/vue_resources,1
 learn_web_development/core/frameworks_libraries/vue_styling,null
 learn_web_development/core/scripting,0
 learn_web_development/core/scripting/a_first_splash,0
@@ -11667,7 +11667,7 @@ web/html/reference/elements/rp,5
 web/html/reference/elements/rt,5
 web/html/reference/elements/rtc,6
 web/html/reference/elements/ruby,7
-web/html/reference/elements/s,4
+web/html/reference/elements/s,5
 web/html/reference/elements/samp,4
 web/html/reference/elements/script,0
 web/html/reference/elements/script/type,0
