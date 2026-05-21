@@ -1894,7 +1894,7 @@ mozilla/add-ons/webextensions/working_with_files,09109b6f9444d22215ba330ec1e64e7
 mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b123e98f5eeb7e43923
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9
-mozilla/firefox/experimental_features,0ddcc606768da1561015c158dd4d6dde5af69487
+mozilla/firefox/experimental_features,93ba287ac81f264592c72e13106a5dcc1a35a4e0
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -1959,7 +1959,7 @@ mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/150,0b214cbce88da71a9d4470364e378285c2a921a5
 mozilla/firefox/releases/151,3673b96dceb4e6ac3739103e3c7646e14868a2b2
-mozilla/firefox/releases/152,0b214cbce88da71a9d4470364e378285c2a921a5
+mozilla/firefox/releases/152,203837bcaa769d54b6f42338136d917a8474f21d
 mozilla/firefox/releases/153,0b214cbce88da71a9d4470364e378285c2a921a5
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
@@ -9595,7 +9595,7 @@ web/api/websocket/protocol,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websocket/readystate,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websocket/send,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/websocket/url,fb311d7305937497570966f015d8cc0eb1a0c29c
-web/api/websocket/websocket,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
+web/api/websocket/websocket,30cfb5ce0b07b93ef8fb32c73e0f421fd53d2ca3
 web/api/websockets_api,b2f9c1e9e0f56bb2fd10262b0836603e10bcb4dc
 web/api/websockets_api/using_websocketstream,7a418e5d057adb45a0c7c4ec3b03baa8c3be18f4
 web/api/websockets_api/writing_a_websocket_server_in_java,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac
@@ -11532,12 +11532,12 @@ web/html/reference/attributes/rel/dns-prefetch,bf5017c389132af39b50106cf1763fa71
 web/html/reference/attributes/rel,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2
 web/html/reference/attributes/rel/manifest,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/attributes/rel/me,bf5017c389132af39b50106cf1763fa7106e87b4
-web/html/reference/attributes/rel/modulepreload,bf5017c389132af39b50106cf1763fa7106e87b4
+web/html/reference/attributes/rel/modulepreload,fc7c0c6df803d5ce26e7b2a72725a7d021ed0694
 web/html/reference/attributes/rel/noopener,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/attributes/rel/noreferrer,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/attributes/rel/preconnect,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/attributes/rel/prefetch,bf5017c389132af39b50106cf1763fa7106e87b4
-web/html/reference/attributes/rel/preload,bf5017c389132af39b50106cf1763fa7106e87b4
+web/html/reference/attributes/rel/preload,fc7c0c6df803d5ce26e7b2a72725a7d021ed0694
 web/html/reference/attributes/rel/prerender,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/attributes/required,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2
 web/html/reference/attributes/size,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2
@@ -11627,7 +11627,7 @@ web/html/reference/elements/kbd,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/label,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/legend,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/li,599ae8b7ad414e91df473d91983f4ffc5cafabb3
-web/html/reference/elements/link,599ae8b7ad414e91df473d91983f4ffc5cafabb3
+web/html/reference/elements/link,fc7c0c6df803d5ce26e7b2a72725a7d021ed0694
 web/html/reference/elements/main,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/map,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/mark,599ae8b7ad414e91df473d91983f4ffc5cafabb3
@@ -11885,7 +11885,7 @@ web/http/reference/headers/if-none-match,ad5b5e31f81795d692e66dadb7818ba8b220ad1
 web/http/reference/headers/if-range,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/if-unmodified-since,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers,013f3148c4e85038bd961c984e357da703d315e3
-web/http/reference/headers/integrity-policy-report-only,6720d579bd658f02c56363805e97e69f93dc79f1
+web/http/reference/headers/integrity-policy-report-only,5ab391405a364e5a512b8182c376261ee8a0bf18
 web/http/reference/headers/integrity-policy,6720d579bd658f02c56363805e97e69f93dc79f1
 web/http/reference/headers/keep-alive,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/last-modified,ad5b5e31f81795d692e66dadb7818ba8b220ad15
@@ -13990,7 +13990,11 @@ web/webdriver/reference/bidi/modules/browser/setdownloadbehavior,8626312a4226421
 web/webdriver/reference/bidi/modules/browsingcontext,fbf733732bf531a1be40a0c646bcbc4b31618476
 web/webdriver/reference/bidi/modules/emulation,fbf733732bf531a1be40a0c646bcbc4b31618476
 web/webdriver/reference/bidi/modules,253bed3def8e1680475ea75987d24ca62ee9f989
-web/webdriver/reference/bidi/modules/input,fbf733732bf531a1be40a0c646bcbc4b31618476
+web/webdriver/reference/bidi/modules/input/filedialogopened,0e3eb297658e3fff3be9bbe2a09cb6721ed1979b
+web/webdriver/reference/bidi/modules/input,0e3eb297658e3fff3be9bbe2a09cb6721ed1979b
+web/webdriver/reference/bidi/modules/input/performactions,0e3eb297658e3fff3be9bbe2a09cb6721ed1979b
+web/webdriver/reference/bidi/modules/input/releaseactions,0e3eb297658e3fff3be9bbe2a09cb6721ed1979b
+web/webdriver/reference/bidi/modules/input/setfiles,0e3eb297658e3fff3be9bbe2a09cb6721ed1979b
 web/webdriver/reference/bidi/modules/log/entryadded,421a9c26127cf11e33e72184b14656c9d406294d
 web/webdriver/reference/bidi/modules/log,253bed3def8e1680475ea75987d24ca62ee9f989
 web/webdriver/reference/bidi/modules/network,fbf733732bf531a1be40a0c646bcbc4b31618476
@@ -14000,7 +14004,7 @@ web/webdriver/reference/bidi/modules/session/end,421a9c26127cf11e33e72184b14656c
 web/webdriver/reference/bidi/modules/session,fbf733732bf531a1be40a0c646bcbc4b31618476
 web/webdriver/reference/bidi/modules/session/new,421a9c26127cf11e33e72184b14656c9d406294d
 web/webdriver/reference/bidi/modules/session/status,421a9c26127cf11e33e72184b14656c9d406294d
-web/webdriver/reference/bidi/modules/session/subscribe,421a9c26127cf11e33e72184b14656c9d406294d
+web/webdriver/reference/bidi/modules/session/subscribe,0e3eb297658e3fff3be9bbe2a09cb6721ed1979b
 web/webdriver/reference/bidi/modules/session/unsubscribe,421a9c26127cf11e33e72184b14656c9d406294d
 web/webdriver/reference/bidi/modules/storage,fbf733732bf531a1be40a0c646bcbc4b31618476
 web/webdriver/reference/bidi/modules/useragentclienthints,aea2d29336c910940abb1f8e71e02158ac51e7c4
