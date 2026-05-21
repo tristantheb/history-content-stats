@@ -10163,7 +10163,7 @@ web/api/xrrigidtransform/matrix,761b9047d78876cbd153be811efb1aa77b419877,Web API
 web/api/xrrigidtransform/orientation,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrrigidtransform/position,e561fa67af347b9770b359ba93e8579d2a540682,Web APIs
 web/api/xrrigidtransform/xrrigidtransform,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
-web/api/xrsession,104ee33c990973514704bdf8227d15c05f59ebcb,Web APIs
+web/api/xrsession,8fa3309a76fe8dc4cf5e8eed97ef596a91513fbd,Web APIs
 web/api/xrsession/cancelanimationframe,8a9085b96d0135920be9b281d4500ff72a7a8369,Web APIs
 web/api/xrsession/depthdataformat,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrsession/depthusage,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
@@ -11171,7 +11171,7 @@ web/css/reference/selectors/_colon_first-of-type,bf90d24ddf56e3f60df25fcbc0d4e3e
 web/css/reference/selectors/_colon_focus,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_focus-visible,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_focus-within,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
-web/css/reference/selectors/_colon_fullscreen,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
+web/css/reference/selectors/_colon_fullscreen,8fa3309a76fe8dc4cf5e8eed97ef596a91513fbd,CSS|Selectors
 web/css/reference/selectors/_colon_future,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_has,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_has-slotted,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
@@ -11255,7 +11255,7 @@ web/css/reference/selectors/_doublecolon_-webkit-search-results-button,6cf697a89
 web/css/reference/selectors/_doublecolon_-webkit-slider-runnable-track,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-slider-thumb,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_after,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
-web/css/reference/selectors/_doublecolon_backdrop,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
+web/css/reference/selectors/_doublecolon_backdrop,8fa3309a76fe8dc4cf5e8eed97ef596a91513fbd,CSS|Selectors
 web/css/reference/selectors/_doublecolon_before,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_checkmark,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_column,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
