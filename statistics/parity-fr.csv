@@ -13900,7 +13900,7 @@ web/svg/reference/element/fefunca,null
 web/svg/reference/element/fefuncb,null
 web/svg/reference/element/fefuncg,null
 web/svg/reference/element/fefuncr,null
-web/svg/reference/element/fegaussianblur,null
+web/svg/reference/element/fegaussianblur,0
 web/svg/reference/element/feimage,null
 web/svg/reference/element/femerge,null
 web/svg/reference/element/femergenode,null
@@ -14174,7 +14174,7 @@ webassembly/guides/rust_to_wasm,null
 webassembly/guides/text_format_to_wasm,null
 webassembly/guides/understanding_the_text_format,null
 webassembly/guides/using_the_javascript_api,1
-webassembly/reference,2
+webassembly/reference,3
 webassembly/reference/control_flow,null
 webassembly/reference/control_flow/block,null
 webassembly/reference/control_flow/br,null
@@ -14192,6 +14192,8 @@ webassembly/reference/control_flow/unreachable,null
 webassembly/reference/definitions,null
 webassembly/reference/definitions/global,null
 webassembly/reference/definitions/table,null
+webassembly/reference/definitions/types,null
+webassembly/reference/definitions/types/func,null
 webassembly/reference/javascript_interface,0
 webassembly/reference/javascript_interface/compile_static,3
 webassembly/reference/javascript_interface/compileerror,null
@@ -14396,10 +14398,14 @@ webassembly/reference/table/get,null
 webassembly/reference/table/grow,null
 webassembly/reference/table/set,null
 webassembly/reference/table/size,null
-webassembly/reference/types,null
-webassembly/reference/types/externref,null
-webassembly/reference/types/funcref,null
-webassembly/reference/types/v128,null
+webassembly/reference/value_types,null
+webassembly/reference/value_types/externref,null
+webassembly/reference/value_types/f32,null
+webassembly/reference/value_types/f64,null
+webassembly/reference/value_types/funcref,null
+webassembly/reference/value_types/i32,null
+webassembly/reference/value_types/i64,null
+webassembly/reference/value_types/v128,null
 webassembly/reference/variables,null
 webassembly/reference/variables/global.get,null
 webassembly/reference/variables/global.set,null
