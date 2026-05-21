@@ -696,7 +696,7 @@ learn_web_development/core,0
 learn_web_development/core/accessibility,0
 learn_web_development/core/accessibility/accessibility_troubleshooting,0
 learn_web_development/core/accessibility/css_and_javascript,0
-learn_web_development/core/accessibility/html,0
+learn_web_development/core/accessibility/html,1
 learn_web_development/core/accessibility/mobile,0
 learn_web_development/core/accessibility/multimedia,0
 learn_web_development/core/accessibility/test_your_skills,0
@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,1
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1961,7 +1961,7 @@ mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
-mozilla/firefox/releases/152,2
+mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -9596,7 +9596,7 @@ web/api/websocket/protocol,0
 web/api/websocket/readystate,0
 web/api/websocket/send,0
 web/api/websocket/url,0
-web/api/websocket/websocket,1
+web/api/websocket/websocket,0
 web/api/websockets_api,0
 web/api/websockets_api/using_websocketstream,0
 web/api/websockets_api/writing_a_websocket_server_in_java,0
@@ -11534,12 +11534,12 @@ web/html/reference/attributes/rel/compression-dictionary,0
 web/html/reference/attributes/rel/dns-prefetch,0
 web/html/reference/attributes/rel/manifest,0
 web/html/reference/attributes/rel/me,0
-web/html/reference/attributes/rel/modulepreload,1
+web/html/reference/attributes/rel/modulepreload,0
 web/html/reference/attributes/rel/noopener,0
 web/html/reference/attributes/rel/noreferrer,0
 web/html/reference/attributes/rel/preconnect,0
 web/html/reference/attributes/rel/prefetch,0
-web/html/reference/attributes/rel/preload,1
+web/html/reference/attributes/rel/preload,0
 web/html/reference/attributes/rel/prerender,0
 web/html/reference/attributes/required,0
 web/html/reference/attributes/size,0
@@ -11629,7 +11629,7 @@ web/html/reference/elements/kbd,0
 web/html/reference/elements/label,0
 web/html/reference/elements/legend,0
 web/html/reference/elements/li,0
-web/html/reference/elements/link,1
+web/html/reference/elements/link,0
 web/html/reference/elements/main,0
 web/html/reference/elements/map,0
 web/html/reference/elements/mark,0
@@ -11888,7 +11888,7 @@ web/http/reference/headers/if-none-match,0
 web/http/reference/headers/if-range,0
 web/http/reference/headers/if-unmodified-since,0
 web/http/reference/headers/integrity-policy,0
-web/http/reference/headers/integrity-policy-report-only,1
+web/http/reference/headers/integrity-policy-report-only,0
 web/http/reference/headers/keep-alive,0
 web/http/reference/headers/last-modified,0
 web/http/reference/headers/link,0
@@ -13991,11 +13991,11 @@ web/webdriver/reference/bidi/modules/browser/removeusercontext,0
 web/webdriver/reference/bidi/modules/browser/setdownloadbehavior,0
 web/webdriver/reference/bidi/modules/browsingcontext,0
 web/webdriver/reference/bidi/modules/emulation,0
-web/webdriver/reference/bidi/modules/input,1
-web/webdriver/reference/bidi/modules/input/filedialogopened,null
-web/webdriver/reference/bidi/modules/input/performactions,null
-web/webdriver/reference/bidi/modules/input/releaseactions,null
-web/webdriver/reference/bidi/modules/input/setfiles,null
+web/webdriver/reference/bidi/modules/input,0
+web/webdriver/reference/bidi/modules/input/filedialogopened,0
+web/webdriver/reference/bidi/modules/input/performactions,0
+web/webdriver/reference/bidi/modules/input/releaseactions,0
+web/webdriver/reference/bidi/modules/input/setfiles,0
 web/webdriver/reference/bidi/modules/log,0
 web/webdriver/reference/bidi/modules/log/entryadded,0
 web/webdriver/reference/bidi/modules/network,0
@@ -14005,7 +14005,7 @@ web/webdriver/reference/bidi/modules/session,0
 web/webdriver/reference/bidi/modules/session/end,0
 web/webdriver/reference/bidi/modules/session/new,0
 web/webdriver/reference/bidi/modules/session/status,0
-web/webdriver/reference/bidi/modules/session/subscribe,1
+web/webdriver/reference/bidi/modules/session/subscribe,0
 web/webdriver/reference/bidi/modules/session/unsubscribe,0
 web/webdriver/reference/bidi/modules/storage,0
 web/webdriver/reference/bidi/modules/useragentclienthints,0

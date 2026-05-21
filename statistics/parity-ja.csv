@@ -696,7 +696,7 @@ learn_web_development/core,8
 learn_web_development/core/accessibility,3
 learn_web_development/core/accessibility/accessibility_troubleshooting,1
 learn_web_development/core/accessibility/css_and_javascript,6
-learn_web_development/core/accessibility/html,7
+learn_web_development/core/accessibility/html,8
 learn_web_development/core/accessibility/mobile,3
 learn_web_development/core/accessibility/multimedia,3
 learn_web_development/core/accessibility/test_your_skills,1
@@ -2884,12 +2884,12 @@ web/api/clients/claim,0
 web/api/clients/get,0
 web/api/clients/matchall,1
 web/api/clients/openwindow,1
-web/api/clipboard,null
-web/api/clipboard/clipboardchange_event,null
-web/api/clipboard/read,null
-web/api/clipboard/readtext,null
-web/api/clipboard/write,null
-web/api/clipboard/writetext,null
+web/api/clipboard,0
+web/api/clipboard/clipboardchange_event,0
+web/api/clipboard/read,0
+web/api/clipboard/readtext,0
+web/api/clipboard/write,0
+web/api/clipboard/writetext,0
 web/api/clipboard_api,12
 web/api/clipboardchangeevent,null
 web/api/clipboardchangeevent/changeid,null
@@ -6235,7 +6235,7 @@ web/api/navigation/reload,null
 web/api/navigation/transition,null
 web/api/navigation/traverseto,null
 web/api/navigation/updatecurrententry,null
-web/api/navigation_api,null
+web/api/navigation_api,0
 web/api/navigationactivation,null
 web/api/navigationactivation/entry,null
 web/api/navigationactivation/from,null
@@ -13294,7 +13294,7 @@ web/javascript/reference/global_objects/urierror/urierror,null
 web/javascript/reference/global_objects/weakmap,1
 web/javascript/reference/global_objects/weakmap/delete,0
 web/javascript/reference/global_objects/weakmap/get,0
-web/javascript/reference/global_objects/weakmap/getorinsert,1
+web/javascript/reference/global_objects/weakmap/getorinsert,0
 web/javascript/reference/global_objects/weakmap/getorinsertcomputed,1
 web/javascript/reference/global_objects/weakmap/has,0
 web/javascript/reference/global_objects/weakmap/set,0

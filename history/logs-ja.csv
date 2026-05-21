@@ -2040,11 +2040,12 @@ web/api/clients/get,2ef36a6d6f380e79c88bc3a80033e1d3c4629994
 web/api/clients,f2dc3d5367203c860cf1a71ce0e972f018523849
 web/api/clients/matchall,2ef36a6d6f380e79c88bc3a80033e1d3c4629994
 web/api/clients/openwindow,364a4d02b10854ab7cef4ff4b0ec3616d4e1c8ab
-web/api/clipboard,no_hash_commit
-web/api/clipboard/read,no_hash_commit
-web/api/clipboard/readtext,no_hash_commit
-web/api/clipboard/write,no_hash_commit
-web/api/clipboard/writetext,no_hash_commit
+web/api/clipboard/clipboardchange_event,6f8aa84681bf6f94fd93f5d3f999a4d4c0764344
+web/api/clipboard,3712f845b54b2754b2b550c7d7dca18f0277c0ad
+web/api/clipboard/read,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
+web/api/clipboard/readtext,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
+web/api/clipboard/write,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
+web/api/clipboard/writetext,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 web/api/clipboard_api,aa02c85428e4ebdf2df8a84f97f0a6cabefdf813
 web/api/clipboardevent/clipboarddata,d76defab4ca13261e9de81ae1df125345f847b0a
 web/api/clipboardevent/clipboardevent,d76defab4ca13261e9de81ae1df125345f847b0a
@@ -4490,6 +4491,7 @@ web/api/namednodemap/removenameditem,6f983d8b9fa0081ba57ccab31a345a41ffccbbb1
 web/api/namednodemap/removenameditemns,6f983d8b9fa0081ba57ccab31a345a41ffccbbb1
 web/api/namednodemap/setnameditem,6f983d8b9fa0081ba57ccab31a345a41ffccbbb1
 web/api/namednodemap/setnameditemns,8c93f95b9e71b6d43f56e94c49d1b12e81f6ec73
+web/api/navigation_api,9c27111e8c096a18881d96d15d6fd41558acf6e5
 web/api/navigationpreloadmanager/disable,bc0237f139ee3a9db67a669ae1b6bf45ebba7f94
 web/api/navigationpreloadmanager/enable,bc0237f139ee3a9db67a669ae1b6bf45ebba7f94
 web/api/navigationpreloadmanager/getstate,58ad1df59f2ffb9ecab4e27fe1bdf1eb5a55f89b
@@ -7734,7 +7736,7 @@ web/css/reference/values/hue,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/hypot,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/values/ident,f69b6693212029ce4b9fa0c753729044577af548
 web/css/reference/values/if,b760560abe30bd69ca968dac38528102f423b5ea
-web/css/reference/values/image/image-set,33094d735e90b4dcae5733331b79c51fee997410
+web/css/reference/values/image/image-set,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/image/image,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/values/image,f69b6693212029ce4b9fa0c753729044577af548
 web/css/reference/values/image/paint,f69b6693212029ce4b9fa0c753729044577af548
@@ -9226,7 +9228,7 @@ web/javascript/reference/global_objects/urierror,no_hash_commit
 web/javascript/reference/global_objects/urierror/urierror,no_hash_commit
 web/javascript/reference/global_objects/weakmap/delete,7b63b90d24ad8945977bb9dc2735d75f72829bc1
 web/javascript/reference/global_objects/weakmap/get,7b63b90d24ad8945977bb9dc2735d75f72829bc1
-web/javascript/reference/global_objects/weakmap/getorinsert,7e14795a6ef2bf5e760c315ce64800dd1cd98c29
+web/javascript/reference/global_objects/weakmap/getorinsert,d1860e2fa9f48a5e6393282f9bb08e6895220db2
 web/javascript/reference/global_objects/weakmap/getorinsertcomputed,7e14795a6ef2bf5e760c315ce64800dd1cd98c29
 web/javascript/reference/global_objects/weakmap/has,7b63b90d24ad8945977bb9dc2735d75f72829bc1
 web/javascript/reference/global_objects/weakmap,7e14795a6ef2bf5e760c315ce64800dd1cd98c29
