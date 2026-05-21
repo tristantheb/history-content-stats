@@ -12882,7 +12882,7 @@ web/javascript/reference/global_objects/set/clear,4
 web/javascript/reference/global_objects/set/delete,5
 web/javascript/reference/global_objects/set/difference,6
 web/javascript/reference/global_objects/set/entries,4
-web/javascript/reference/global_objects/set/foreach,3
+web/javascript/reference/global_objects/set/foreach,4
 web/javascript/reference/global_objects/set/has,5
 web/javascript/reference/global_objects/set/intersection,6
 web/javascript/reference/global_objects/set/isdisjointfrom,5
@@ -13639,6 +13639,7 @@ web/security/authentication/session_management,null
 web/security/defenses,null
 web/security/defenses/certificate_transparency,2
 web/security/defenses/mixed_content,2
+web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,1
 web/security/defenses/secure_contexts,2
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,3
@@ -14161,7 +14162,7 @@ web/xml/xslt/reference/element/value-of,null
 web/xml/xslt/reference/element/variable,null
 web/xml/xslt/reference/element/when,null
 web/xml/xslt/reference/element/with-param,null
-webassembly,11
+webassembly,12
 webassembly/guides,null
 webassembly/guides/c_to_wasm,7
 webassembly/guides/concepts,null
