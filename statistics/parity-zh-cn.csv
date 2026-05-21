@@ -52,7 +52,7 @@ games/tutorials/2d_breakout_game_phaser/player_paddle_and_controls,null
 games/tutorials/2d_breakout_game_phaser/randomizing_gameplay,null
 games/tutorials/2d_breakout_game_phaser/scaling,null
 games/tutorials/2d_breakout_game_phaser/the_score,null
-games/tutorials/2d_breakout_game_phaser/win_the_game,null
+games/tutorials/2d_breakout_game_phaser/win_the_game,0
 games/tutorials/2d_breakout_game_pure_javascript,0
 games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,null
 games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,null
@@ -14174,7 +14174,7 @@ webassembly/guides/rust_to_wasm,null
 webassembly/guides/text_format_to_wasm,null
 webassembly/guides/understanding_the_text_format,null
 webassembly/guides/using_the_javascript_api,5
-webassembly/reference,2
+webassembly/reference,3
 webassembly/reference/control_flow,3
 webassembly/reference/control_flow/block,1
 webassembly/reference/control_flow/br,4
@@ -14192,6 +14192,8 @@ webassembly/reference/control_flow/unreachable,1
 webassembly/reference/definitions,null
 webassembly/reference/definitions/global,null
 webassembly/reference/definitions/table,null
+webassembly/reference/definitions/types,null
+webassembly/reference/definitions/types/func,null
 webassembly/reference/javascript_interface,0
 webassembly/reference/javascript_interface/compile_static,0
 webassembly/reference/javascript_interface/compileerror,0
@@ -14203,7 +14205,7 @@ webassembly/reference/javascript_interface/exception/getarg,0
 webassembly/reference/javascript_interface/exception/is,1
 webassembly/reference/javascript_interface/exception/stack,0
 webassembly/reference/javascript_interface/global,1
-webassembly/reference/javascript_interface/global/global,2
+webassembly/reference/javascript_interface/global/global,3
 webassembly/reference/javascript_interface/global/value,null
 webassembly/reference/javascript_interface/global/valueof,null
 webassembly/reference/javascript_interface/instance,0
@@ -14396,10 +14398,14 @@ webassembly/reference/table/get,null
 webassembly/reference/table/grow,null
 webassembly/reference/table/set,null
 webassembly/reference/table/size,null
-webassembly/reference/types,null
-webassembly/reference/types/externref,null
-webassembly/reference/types/funcref,null
-webassembly/reference/types/v128,null
+webassembly/reference/value_types,null
+webassembly/reference/value_types/externref,null
+webassembly/reference/value_types/f32,null
+webassembly/reference/value_types/f64,null
+webassembly/reference/value_types/funcref,null
+webassembly/reference/value_types/i32,null
+webassembly/reference/value_types/i64,null
+webassembly/reference/value_types/v128,null
 webassembly/reference/variables,null
 webassembly/reference/variables/global.get,null
 webassembly/reference/variables/global.set,null
