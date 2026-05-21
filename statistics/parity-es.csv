@@ -779,7 +779,7 @@ learn_web_development/core/scripting/functions,null
 learn_web_development/core/scripting/house_data_ui,null
 learn_web_development/core/scripting/image_gallery,null
 learn_web_development/core/scripting/json,null
-learn_web_development/core/scripting/loops,14
+learn_web_development/core/scripting/loops,15
 learn_web_development/core/scripting/math,null
 learn_web_development/core/scripting/network_requests,null
 learn_web_development/core/scripting/object_basics,null
@@ -7652,7 +7652,7 @@ web/api/screen/width,null
 web/api/screen_capture_api,8
 web/api/screen_capture_api/captured_surface_control,null
 web/api/screen_capture_api/element_region_capture,null
-web/api/screen_capture_api/using_screen_capture,12
+web/api/screen_capture_api/using_screen_capture,13
 web/api/screen_orientation_api,null
 web/api/screen_wake_lock_api,null
 web/api/screendetailed,null
@@ -13639,6 +13639,7 @@ web/security/authentication/session_management,null
 web/security/defenses,null
 web/security/defenses/certificate_transparency,null
 web/security/defenses/mixed_content,null
+web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,null
 web/security/defenses/secure_contexts,null
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,null

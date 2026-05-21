@@ -12451,7 +12451,7 @@ web/javascript/reference/global_objects/date/getmilliseconds,0
 web/javascript/reference/global_objects/date/getminutes,0
 web/javascript/reference/global_objects/date/getmonth,null
 web/javascript/reference/global_objects/date/getseconds,0
-web/javascript/reference/global_objects/date/gettime,0
+web/javascript/reference/global_objects/date/gettime,1
 web/javascript/reference/global_objects/date/gettimezoneoffset,null
 web/javascript/reference/global_objects/date/getutcdate,null
 web/javascript/reference/global_objects/date/getutcday,null
@@ -13639,6 +13639,7 @@ web/security/authentication/session_management,null
 web/security/defenses,null
 web/security/defenses/certificate_transparency,null
 web/security/defenses/mixed_content,null
+web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,null
 web/security/defenses/secure_contexts,null
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,null

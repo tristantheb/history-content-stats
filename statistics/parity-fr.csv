@@ -12146,7 +12146,7 @@ web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,4
 web/javascript/guide/using_promises,null
 web/javascript/guide/working_with_objects,null
-web/javascript/reference,0
+web/javascript/reference,1
 web/javascript/reference/classes,null
 web/javascript/reference/classes/constructor,null
 web/javascript/reference/classes/extends,null
@@ -12451,7 +12451,7 @@ web/javascript/reference/global_objects/date/getmilliseconds,0
 web/javascript/reference/global_objects/date/getminutes,0
 web/javascript/reference/global_objects/date/getmonth,0
 web/javascript/reference/global_objects/date/getseconds,0
-web/javascript/reference/global_objects/date/gettime,0
+web/javascript/reference/global_objects/date/gettime,1
 web/javascript/reference/global_objects/date/gettimezoneoffset,0
 web/javascript/reference/global_objects/date/getutcdate,0
 web/javascript/reference/global_objects/date/getutcday,0
@@ -12573,8 +12573,8 @@ web/javascript/reference/global_objects/intl/datetimeformat,0
 web/javascript/reference/global_objects/intl/datetimeformat/datetimeformat,0
 web/javascript/reference/global_objects/intl/datetimeformat/format,0
 web/javascript/reference/global_objects/intl/datetimeformat/formatrange,0
-web/javascript/reference/global_objects/intl/datetimeformat/formatrangetoparts,0
-web/javascript/reference/global_objects/intl/datetimeformat/formattoparts,0
+web/javascript/reference/global_objects/intl/datetimeformat/formatrangetoparts,1
+web/javascript/reference/global_objects/intl/datetimeformat/formattoparts,1
 web/javascript/reference/global_objects/intl/datetimeformat/resolvedoptions,0
 web/javascript/reference/global_objects/intl/datetimeformat/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/displaynames,0
@@ -13636,9 +13636,10 @@ web/security/authentication/otp,null
 web/security/authentication/passkeys,null
 web/security/authentication/passwords,null
 web/security/authentication/session_management,null
-web/security/defenses,1
+web/security/defenses,2
 web/security/defenses/certificate_transparency,1
 web/security/defenses/mixed_content,0
+web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,0
 web/security/defenses/secure_contexts,0
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,null
@@ -14161,7 +14162,7 @@ web/xml/xslt/reference/element/value-of,null
 web/xml/xslt/reference/element/variable,null
 web/xml/xslt/reference/element/when,null
 web/xml/xslt/reference/element/with-param,null
-webassembly,2
+webassembly,3
 webassembly/guides,1
 webassembly/guides/c_to_wasm,null
 webassembly/guides/concepts,1
