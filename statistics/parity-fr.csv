@@ -11171,7 +11171,7 @@ web/css/reference/selectors/_colon_first-of-type,0
 web/css/reference/selectors/_colon_focus,0
 web/css/reference/selectors/_colon_focus-visible,0
 web/css/reference/selectors/_colon_focus-within,0
-web/css/reference/selectors/_colon_fullscreen,0
+web/css/reference/selectors/_colon_fullscreen,1
 web/css/reference/selectors/_colon_future,0
 web/css/reference/selectors/_colon_has,0
 web/css/reference/selectors/_colon_has-slotted,0
@@ -11255,7 +11255,7 @@ web/css/reference/selectors/_doublecolon_-webkit-search-results-button,0
 web/css/reference/selectors/_doublecolon_-webkit-slider-runnable-track,0
 web/css/reference/selectors/_doublecolon_-webkit-slider-thumb,0
 web/css/reference/selectors/_doublecolon_after,0
-web/css/reference/selectors/_doublecolon_backdrop,0
+web/css/reference/selectors/_doublecolon_backdrop,1
 web/css/reference/selectors/_doublecolon_before,0
 web/css/reference/selectors/_doublecolon_checkmark,0
 web/css/reference/selectors/_doublecolon_column,0
