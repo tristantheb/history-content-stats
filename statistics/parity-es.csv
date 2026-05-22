@@ -12112,7 +12112,7 @@ web/http/reference/status/507,null
 web/http/reference/status/508,null
 web/http/reference/status/510,null
 web/http/reference/status/511,null
-web/javascript,0
+web/javascript,1
 web/javascript/guide,null
 web/javascript/guide/closures,10
 web/javascript/guide/control_flow_and_error_handling,null
@@ -12535,7 +12535,7 @@ web/javascript/reference/global_objects/float64array,null
 web/javascript/reference/global_objects/float64array/float64array,null
 web/javascript/reference/global_objects/function,null
 web/javascript/reference/global_objects/function/apply,null
-web/javascript/reference/global_objects/function/arguments,4
+web/javascript/reference/global_objects/function/arguments,5
 web/javascript/reference/global_objects/function/bind,null
 web/javascript/reference/global_objects/function/call,null
 web/javascript/reference/global_objects/function/caller,null
@@ -12813,7 +12813,7 @@ web/javascript/reference/global_objects/promise/then,null
 web/javascript/reference/global_objects/promise/try,null
 web/javascript/reference/global_objects/promise/withresolvers,null
 web/javascript/reference/global_objects/proxy,null
-web/javascript/reference/global_objects/proxy/proxy,5
+web/javascript/reference/global_objects/proxy/proxy,6
 web/javascript/reference/global_objects/proxy/proxy/apply,null
 web/javascript/reference/global_objects/proxy/proxy/construct,null
 web/javascript/reference/global_objects/proxy/proxy/defineproperty,null
@@ -12963,13 +12963,13 @@ web/javascript/reference/global_objects/suppressederror,null
 web/javascript/reference/global_objects/suppressederror/error,null
 web/javascript/reference/global_objects/suppressederror/suppressed,null
 web/javascript/reference/global_objects/suppressederror/suppressederror,null
-web/javascript/reference/global_objects/symbol,26
+web/javascript/reference/global_objects/symbol,27
 web/javascript/reference/global_objects/symbol/asyncdispose,null
 web/javascript/reference/global_objects/symbol/asynciterator,17
 web/javascript/reference/global_objects/symbol/description,12
 web/javascript/reference/global_objects/symbol/dispose,null
 web/javascript/reference/global_objects/symbol/for,9
-web/javascript/reference/global_objects/symbol/hasinstance,13
+web/javascript/reference/global_objects/symbol/hasinstance,14
 web/javascript/reference/global_objects/symbol/isconcatspreadable,13
 web/javascript/reference/global_objects/symbol/iterator,17
 web/javascript/reference/global_objects/symbol/keyfor,9
@@ -12979,7 +12979,7 @@ web/javascript/reference/global_objects/symbol/replace,15
 web/javascript/reference/global_objects/symbol/search,14
 web/javascript/reference/global_objects/symbol/species,18
 web/javascript/reference/global_objects/symbol/split,15
-web/javascript/reference/global_objects/symbol/symbol,15
+web/javascript/reference/global_objects/symbol/symbol,16
 web/javascript/reference/global_objects/symbol/symbol.toprimitive,3
 web/javascript/reference/global_objects/symbol/toprimitive,17
 web/javascript/reference/global_objects/symbol/tostring,13
