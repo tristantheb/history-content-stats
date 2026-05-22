@@ -9861,7 +9861,7 @@ web/api/worker/message_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec
 web/api/worker/messageerror_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec
 web/api/worker/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e
 web/api/worker/terminate,e561fa67af347b9770b359ba93e8579d2a540682
-web/api/worker/worker,3d49f18251e1f3493ef2e3a70519603345f8b7dc
+web/api/worker/worker,63ab30ba03e9f0c638e3cb42bb2e878aaaeffa53
 web/api/workerglobalscope/atob,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd
 web/api/workerglobalscope/btoa,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd
 web/api/workerglobalscope/caches,e8fe043f7d2ad7cd9804d1bf96e0310949f1dac7
@@ -10331,7 +10331,7 @@ web/css/guides/display/visual_formatting_model,85fccefc8066bd49af4ddafc12c77f352
 web/css/guides/easing_functions,a516a9818e8cef06c626d436ee1d73fc6d87ec51
 web/css/guides/environment_variables,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/environment_variables/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/guides/filter_effects,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
+web/css/guides/filter_effects,35958cdccf9d974ee47bb2ba282466725cae3416
 web/css/guides/filter_effects/using,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/flexible_box_layout/aligning_items,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/flexible_box_layout/basic_concepts,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
@@ -10483,7 +10483,7 @@ web/css/how_to/layout_cookbook/sticky_footers,85fccefc8066bd49af4ddafc12c77f3526
 web/css,423161782178b119c64cd0b41bff8df20dc84a56
 web/css/reference/at-rules/@charset,e328268bb418551ab451881845881b5837c9da83
 web/css/reference/at-rules/@color-profile,e328268bb418551ab451881845881b5837c9da83
-web/css/reference/at-rules/@container,e328268bb418551ab451881845881b5837c9da83
+web/css/reference/at-rules/@container,48afb4da7957efe672d7fd837413ee1a69a842fd
 web/css/reference/at-rules/@counter-style/additive-symbols,f0094356d3acb19475dde45508dfeac6abf596db
 web/css/reference/at-rules/@counter-style/fallback,f0094356d3acb19475dde45508dfeac6abf596db
 web/css/reference/at-rules/@counter-style,e328268bb418551ab451881845881b5837c9da83

@@ -106,7 +106,7 @@ glossary/bezier_curve,0
 glossary/bfcache,0
 glossary/bidi,0
 glossary/bigint,0
-glossary/binding,0
+glossary/binding,1
 glossary/bitwise_flags,0
 glossary/blink,0
 glossary/blink_element,0
@@ -782,7 +782,7 @@ learn_web_development/core/scripting/json,null
 learn_web_development/core/scripting/loops,null
 learn_web_development/core/scripting/math,null
 learn_web_development/core/scripting/network_requests,8
-learn_web_development/core/scripting/object_basics,1
+learn_web_development/core/scripting/object_basics,2
 learn_web_development/core/scripting/return_values,8
 learn_web_development/core/scripting/silly_story_generator,null
 learn_web_development/core/scripting/strings,0
@@ -4136,7 +4136,7 @@ web/api/eventsource/readystate,null
 web/api/eventsource/url,null
 web/api/eventsource/withcredentials,null
 web/api/eventtarget,0
-web/api/eventtarget/addeventlistener,0
+web/api/eventtarget/addeventlistener,1
 web/api/eventtarget/dispatchevent,0
 web/api/eventtarget/eventtarget,0
 web/api/eventtarget/removeeventlistener,0
@@ -12112,7 +12112,7 @@ web/http/reference/status/507,0
 web/http/reference/status/508,0
 web/http/reference/status/510,0
 web/http/reference/status/511,0
-web/javascript,0
+web/javascript,1
 web/javascript/guide,null
 web/javascript/guide/closures,null
 web/javascript/guide/control_flow_and_error_handling,null
@@ -12146,7 +12146,7 @@ web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,4
 web/javascript/guide/using_promises,null
 web/javascript/guide/working_with_objects,null
-web/javascript/reference,1
+web/javascript/reference,2
 web/javascript/reference/classes,null
 web/javascript/reference/classes/constructor,null
 web/javascript/reference/classes/extends,null
@@ -12299,7 +12299,7 @@ web/javascript/reference/functions/get,null
 web/javascript/reference/functions/method_definitions,null
 web/javascript/reference/functions/rest_parameters,null
 web/javascript/reference/functions/set,null
-web/javascript/reference/global_objects,0
+web/javascript/reference/global_objects,1
 web/javascript/reference/global_objects/aggregateerror,0
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,0
 web/javascript/reference/global_objects/aggregateerror/errors,0
@@ -12318,7 +12318,7 @@ web/javascript/reference/global_objects/array/findlast,0
 web/javascript/reference/global_objects/array/findlastindex,0
 web/javascript/reference/global_objects/array/flat,0
 web/javascript/reference/global_objects/array/flatmap,0
-web/javascript/reference/global_objects/array/foreach,0
+web/javascript/reference/global_objects/array/foreach,1
 web/javascript/reference/global_objects/array/from,0
 web/javascript/reference/global_objects/array/fromasync,0
 web/javascript/reference/global_objects/array/includes,0
@@ -12402,7 +12402,7 @@ web/javascript/reference/global_objects/atomics/xor,0
 web/javascript/reference/global_objects/bigint,0
 web/javascript/reference/global_objects/bigint/asintn,0
 web/javascript/reference/global_objects/bigint/asuintn,0
-web/javascript/reference/global_objects/bigint/bigint,0
+web/javascript/reference/global_objects/bigint/bigint,1
 web/javascript/reference/global_objects/bigint/tolocalestring,0
 web/javascript/reference/global_objects/bigint/tostring,0
 web/javascript/reference/global_objects/bigint/valueof,0
@@ -12506,11 +12506,11 @@ web/javascript/reference/global_objects/disposablestack/symbol.dispose,0
 web/javascript/reference/global_objects/disposablestack/use,0
 web/javascript/reference/global_objects/encodeuri,0
 web/javascript/reference/global_objects/encodeuricomponent,0
-web/javascript/reference/global_objects/error,0
+web/javascript/reference/global_objects/error,1
 web/javascript/reference/global_objects/error/capturestacktrace,0
 web/javascript/reference/global_objects/error/cause,0
 web/javascript/reference/global_objects/error/columnnumber,0
-web/javascript/reference/global_objects/error/error,0
+web/javascript/reference/global_objects/error/error,1
 web/javascript/reference/global_objects/error/filename,0
 web/javascript/reference/global_objects/error/iserror,0
 web/javascript/reference/global_objects/error/linenumber,0
@@ -12535,10 +12535,10 @@ web/javascript/reference/global_objects/float64array,0
 web/javascript/reference/global_objects/float64array/float64array,0
 web/javascript/reference/global_objects/function,0
 web/javascript/reference/global_objects/function/apply,0
-web/javascript/reference/global_objects/function/arguments,0
-web/javascript/reference/global_objects/function/bind,0
+web/javascript/reference/global_objects/function/arguments,1
+web/javascript/reference/global_objects/function/bind,1
 web/javascript/reference/global_objects/function/call,0
-web/javascript/reference/global_objects/function/caller,0
+web/javascript/reference/global_objects/function/caller,1
 web/javascript/reference/global_objects/function/displayname,0
 web/javascript/reference/global_objects/function/function,0
 web/javascript/reference/global_objects/function/length,0
@@ -12553,7 +12553,7 @@ web/javascript/reference/global_objects/generator/throw,0
 web/javascript/reference/global_objects/generatorfunction,0
 web/javascript/reference/global_objects/generatorfunction/generatorfunction,0
 web/javascript/reference/global_objects/generatorfunction/prototype,0
-web/javascript/reference/global_objects/globalthis,0
+web/javascript/reference/global_objects/globalthis,1
 web/javascript/reference/global_objects/infinity,0
 web/javascript/reference/global_objects/int16array,0
 web/javascript/reference/global_objects/int16array/int16array,0
@@ -12657,7 +12657,7 @@ web/javascript/reference/global_objects/iterator/filter,0
 web/javascript/reference/global_objects/iterator/find,0
 web/javascript/reference/global_objects/iterator/flatmap,0
 web/javascript/reference/global_objects/iterator/foreach,0
-web/javascript/reference/global_objects/iterator/from,0
+web/javascript/reference/global_objects/iterator/from,1
 web/javascript/reference/global_objects/iterator/iterator,0
 web/javascript/reference/global_objects/iterator/map,0
 web/javascript/reference/global_objects/iterator/reduce,0
@@ -12759,7 +12759,7 @@ web/javascript/reference/global_objects/number/tolocalestring,null
 web/javascript/reference/global_objects/number/toprecision,null
 web/javascript/reference/global_objects/number/tostring,null
 web/javascript/reference/global_objects/number/valueof,null
-web/javascript/reference/global_objects/object,0
+web/javascript/reference/global_objects/object,1
 web/javascript/reference/global_objects/object/__definegetter__,null
 web/javascript/reference/global_objects/object/__definesetter__,null
 web/javascript/reference/global_objects/object/__lookupgetter__,null
@@ -12834,7 +12834,7 @@ web/javascript/reference/global_objects/referenceerror,null
 web/javascript/reference/global_objects/referenceerror/referenceerror,null
 web/javascript/reference/global_objects/reflect,null
 web/javascript/reference/global_objects/reflect/apply,null
-web/javascript/reference/global_objects/reflect/construct,3
+web/javascript/reference/global_objects/reflect/construct,4
 web/javascript/reference/global_objects/reflect/defineproperty,null
 web/javascript/reference/global_objects/reflect/deleteproperty,null
 web/javascript/reference/global_objects/reflect/get,null
@@ -13378,7 +13378,7 @@ web/javascript/reference/operators/subtraction,null
 web/javascript/reference/operators/subtraction_assignment,null
 web/javascript/reference/operators/super,null
 web/javascript/reference/operators/this,null
-web/javascript/reference/operators/typeof,0
+web/javascript/reference/operators/typeof,1
 web/javascript/reference/operators/unary_negation,null
 web/javascript/reference/operators/unary_plus,null
 web/javascript/reference/operators/unsigned_right_shift,null

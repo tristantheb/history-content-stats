@@ -12146,7 +12146,7 @@ web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,null
 web/javascript/guide/using_promises,null
 web/javascript/guide/working_with_objects,null
-web/javascript/reference,17
+web/javascript/reference,18
 web/javascript/reference/classes,null
 web/javascript/reference/classes/constructor,null
 web/javascript/reference/classes/extends,null
@@ -12963,7 +12963,7 @@ web/javascript/reference/global_objects/suppressederror,null
 web/javascript/reference/global_objects/suppressederror/error,null
 web/javascript/reference/global_objects/suppressederror/suppressed,null
 web/javascript/reference/global_objects/suppressederror/suppressederror,null
-web/javascript/reference/global_objects/symbol,10
+web/javascript/reference/global_objects/symbol,11
 web/javascript/reference/global_objects/symbol/asyncdispose,null
 web/javascript/reference/global_objects/symbol/asynciterator,null
 web/javascript/reference/global_objects/symbol/description,null
