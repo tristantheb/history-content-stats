@@ -9862,7 +9862,7 @@ web/api/worker/message_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/worker/messageerror_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/worker/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e,Web APIs
 web/api/worker/terminate,e561fa67af347b9770b359ba93e8579d2a540682,Web APIs
-web/api/worker/worker,3d49f18251e1f3493ef2e3a70519603345f8b7dc,Web APIs
+web/api/worker/worker,63ab30ba03e9f0c638e3cb42bb2e878aaaeffa53,Web APIs
 web/api/workerglobalscope,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/workerglobalscope/atob,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd,Web APIs
 web/api/workerglobalscope/btoa,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd,Web APIs
@@ -10311,7 +10311,7 @@ web/css/guides/conditional_rules/container_scroll-state_queries,09d8ff096be97b28
 web/css/guides/conditional_rules/using_feature_queries,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/containment,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/containment/container_queries,879a1aece3a1d4eb28c0024f0baac6aa1b96638e,CSS|Guides
-web/css/guides/containment/container_size_and_style_queries,6f498c48ad30499640fd721896f13949aded9990,CSS|Guides
+web/css/guides/containment/container_size_and_style_queries,48afb4da7957efe672d7fd837413ee1a69a842fd,CSS|Guides
 web/css/guides/containment/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/counter_styles,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/counter_styles/using_counters,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
@@ -10334,7 +10334,7 @@ web/css/guides/display/visual_formatting_model,85fccefc8066bd49af4ddafc12c77f352
 web/css/guides/easing_functions,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
 web/css/guides/environment_variables,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/environment_variables/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/filter_effects,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,CSS|Guides
+web/css/guides/filter_effects,35958cdccf9d974ee47bb2ba282466725cae3416,CSS|Guides
 web/css/guides/filter_effects/using,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/flexible_box_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/flexible_box_layout/aligning_items,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10486,7 +10486,7 @@ web/css/reference,93b85a5bc2b4589d93185263fd2c14381c36f821,CSS
 web/css/reference/at-rules,3ee2355c3c90cf92c3119b82f8ebfa5d16c91c53,CSS|At-rules
 web/css/reference/at-rules/@charset,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@color-profile,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
-web/css/reference/at-rules/@container,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
+web/css/reference/at-rules/@container,48afb4da7957efe672d7fd837413ee1a69a842fd,CSS|At-rules
 web/css/reference/at-rules/@counter-style,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@counter-style/additive-symbols,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@counter-style/fallback,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
