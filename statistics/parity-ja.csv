@@ -14162,7 +14162,7 @@ web/xml/xslt/reference/element/value-of,0
 web/xml/xslt/reference/element/variable,0
 web/xml/xslt/reference/element/when,0
 web/xml/xslt/reference/element/with-param,0
-webassembly,3
+webassembly,4
 webassembly/guides,1
 webassembly/guides/c_to_wasm,3
 webassembly/guides/concepts,2
@@ -14193,8 +14193,17 @@ webassembly/reference/control_flow/unreachable,null
 webassembly/reference/definitions,null
 webassembly/reference/definitions/global,null
 webassembly/reference/definitions/table,null
+webassembly/reference/definitions/tag,null
 webassembly/reference/definitions/types,null
 webassembly/reference/definitions/types/func,null
+webassembly/reference/exception_handling,null
+webassembly/reference/exception_handling/throw,null
+webassembly/reference/exception_handling/throw_ref,null
+webassembly/reference/exception_handling/try_table,null
+webassembly/reference/exception_handling/try_table/catch,null
+webassembly/reference/exception_handling/try_table/catch_all,null
+webassembly/reference/exception_handling/try_table/catch_all_ref,null
+webassembly/reference/exception_handling/try_table/catch_ref,null
 webassembly/reference/javascript_interface,null
 webassembly/reference/javascript_interface/compile_static,null
 webassembly/reference/javascript_interface/compileerror,null
@@ -14214,6 +14223,7 @@ webassembly/reference/javascript_interface/instance/exports,null
 webassembly/reference/javascript_interface/instance/instance,null
 webassembly/reference/javascript_interface/instantiate_static,null
 webassembly/reference/javascript_interface/instantiatestreaming_static,null
+webassembly/reference/javascript_interface/jstag_static,null
 webassembly/reference/javascript_interface/linkerror,null
 webassembly/reference/javascript_interface/linkerror/linkerror,null
 webassembly/reference/javascript_interface/memory,null
@@ -14400,6 +14410,7 @@ webassembly/reference/table/grow,null
 webassembly/reference/table/set,null
 webassembly/reference/table/size,null
 webassembly/reference/value_types,null
+webassembly/reference/value_types/exnref,null
 webassembly/reference/value_types/externref,null
 webassembly/reference/value_types/f32,null
 webassembly/reference/value_types/f64,null
