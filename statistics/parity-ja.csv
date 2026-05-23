@@ -12155,7 +12155,7 @@ web/javascript/reference/classes/public_class_fields,0
 web/javascript/reference/classes/static,1
 web/javascript/reference/classes/static_initialization_blocks,0
 web/javascript/reference/deprecated_and_obsolete_features,5
-web/javascript/reference/errors,null
+web/javascript/reference/errors,0
 web/javascript/reference/errors/already_executing_generator,null
 web/javascript/reference/errors/already_has_pragma,null
 web/javascript/reference/errors/arguments_not_allowed,null
@@ -12632,7 +12632,7 @@ web/javascript/reference/global_objects/intl/pluralrules/resolvedoptions,null
 web/javascript/reference/global_objects/intl/pluralrules/select,null
 web/javascript/reference/global_objects/intl/pluralrules/selectrange,null
 web/javascript/reference/global_objects/intl/pluralrules/supportedlocalesof,null
-web/javascript/reference/global_objects/intl/relativetimeformat,null
+web/javascript/reference/global_objects/intl/relativetimeformat,0
 web/javascript/reference/global_objects/intl/relativetimeformat/format,null
 web/javascript/reference/global_objects/intl/relativetimeformat/formattoparts,null
 web/javascript/reference/global_objects/intl/relativetimeformat/relativetimeformat,null
@@ -13035,7 +13035,7 @@ web/javascript/reference/global_objects/temporal/instant/tostring,null
 web/javascript/reference/global_objects/temporal/instant/tozoneddatetimeiso,null
 web/javascript/reference/global_objects/temporal/instant/until,null
 web/javascript/reference/global_objects/temporal/instant/valueof,null
-web/javascript/reference/global_objects/temporal/now,null
+web/javascript/reference/global_objects/temporal/now,0
 web/javascript/reference/global_objects/temporal/now/instant,null
 web/javascript/reference/global_objects/temporal/now/plaindateiso,null
 web/javascript/reference/global_objects/temporal/now/plaindatetimeiso,null
