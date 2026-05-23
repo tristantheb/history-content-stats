@@ -6435,8 +6435,8 @@ web/api/nodelist/item,null
 web/api/nodelist/keys,null
 web/api/nodelist/length,0
 web/api/nodelist/values,2
-web/api/notification,5
-web/api/notification/actions,0
+web/api/notification,6
+web/api/notification/actions,1
 web/api/notification/badge,0
 web/api/notification/body,0
 web/api/notification/click_event,1
@@ -6448,7 +6448,7 @@ web/api/notification/error_event,1
 web/api/notification/icon,0
 web/api/notification/image,0
 web/api/notification/lang,1
-web/api/notification/maxactions_static,2
+web/api/notification/maxactions_static,3
 web/api/notification/navigate,null
 web/api/notification/notification,4
 web/api/notification/permission_static,0
@@ -13486,7 +13486,7 @@ web/mathml/reference/global_attributes,10
 web/mathml/reference/global_attributes/data-_star_,null
 web/mathml/reference/global_attributes/dir,5
 web/mathml/reference/global_attributes/displaystyle,2
-web/mathml/reference/global_attributes/href,1
+web/mathml/reference/global_attributes/href,2
 web/mathml/reference/global_attributes/mathbackground,2
 web/mathml/reference/global_attributes/mathcolor,4
 web/mathml/reference/global_attributes/mathsize,3
