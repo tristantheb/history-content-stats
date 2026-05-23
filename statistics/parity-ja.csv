@@ -10816,7 +10816,7 @@ web/css/reference/properties/font-optical-sizing,1
 web/css/reference/properties/font-palette,1
 web/css/reference/properties/font-palette/palette-mix,0
 web/css/reference/properties/font-size,1
-web/css/reference/properties/font-size-adjust,1
+web/css/reference/properties/font-size-adjust,2
 web/css/reference/properties/font-smooth,1
 web/css/reference/properties/font-stretch,4
 web/css/reference/properties/font-style,1
@@ -12301,7 +12301,7 @@ web/javascript/reference/functions/rest_parameters,0
 web/javascript/reference/functions/set,1
 web/javascript/reference/global_objects,1
 web/javascript/reference/global_objects/aggregateerror,0
-web/javascript/reference/global_objects/aggregateerror/aggregateerror,0
+web/javascript/reference/global_objects/aggregateerror/aggregateerror,1
 web/javascript/reference/global_objects/aggregateerror/errors,0
 web/javascript/reference/global_objects/array,2
 web/javascript/reference/global_objects/array/array,0
