@@ -10816,7 +10816,7 @@ web/css/reference/properties/font-optical-sizing,bcbb4bd6a80292c0663b723d5466759
 web/css/reference/properties/font-palette,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-palette/palette-mix,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Properties
 web/css/reference/properties/font-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-size-adjust,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/font-size-adjust,82eeb8918aee4fe017a6ef1cb286bfd0a8a0ff43,CSS|Properties
 web/css/reference/properties/font-smooth,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-stretch,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -12301,7 +12301,7 @@ web/javascript/reference/functions/rest_parameters,fad67be4431d8e6c2a89ac8807352
 web/javascript/reference/functions/set,1ddd95504b4507beeda0f08bd772eb167922b86a,JavaScript|Functions
 web/javascript/reference/global_objects,1ddd95504b4507beeda0f08bd772eb167922b86a,JavaScript|Global Objects
 web/javascript/reference/global_objects/aggregateerror,1d2e1875bdfdd2fb8d0806535220bbd56d3a091d,JavaScript|Global Objects
-web/javascript/reference/global_objects/aggregateerror/aggregateerror,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/aggregateerror/aggregateerror,f5ff65031db62ca1d855f2043525462b00455d1b,JavaScript|Global Objects
 web/javascript/reference/global_objects/aggregateerror/errors,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/array,dd88a6eb2176fa31f5b744d8964efecf3f1f425b,JavaScript|Global Objects
 web/javascript/reference/global_objects/array/array,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
