@@ -5417,14 +5417,14 @@ web/api/htmltablesectionelement/deleterow,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff
 web/api/htmltablesectionelement/insertrow,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Web APIs
 web/api/htmltablesectionelement/rows,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Web APIs
 web/api/htmltablesectionelement/valign,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Web APIs
-web/api/htmltemplateelement,f77236a72e479b61c6b1cb6059c9ae1e90f4c7cd,Web APIs
+web/api/htmltemplateelement,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
 web/api/htmltemplateelement/content,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
 web/api/htmltemplateelement/shadowrootclonable,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/htmltemplateelement/shadowrootcustomelementregistry,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/htmltemplateelement/shadowrootdelegatesfocus,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/htmltemplateelement/shadowrootmode,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/htmltemplateelement/shadowrootserializable,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
-web/api/htmltemplateelement/shadowrootslotassignment,f77236a72e479b61c6b1cb6059c9ae1e90f4c7cd,Web APIs
+web/api/htmltemplateelement/shadowrootslotassignment,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
 web/api/htmltextareaelement,5f2a755c4fa7d126f85b56fbca90b15c5f039eff,Web APIs
 web/api/htmltextareaelement/autocomplete,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmltextareaelement/checkvalidity,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -6435,8 +6435,8 @@ web/api/nodelist/item,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/nodelist/keys,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,Web APIs
 web/api/nodelist/length,312081aabba3885b35a81107b3c2fc53428896c5,Web APIs
 web/api/nodelist/values,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,Web APIs
-web/api/notification,8a6e8b53625bddb3af2cf2fb927cb3e430b12ba2,Web APIs
-web/api/notification/actions,aa8fa82a902746b0bd97839180fc2b5397088140,Web APIs
+web/api/notification,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
+web/api/notification/actions,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
 web/api/notification/badge,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/body,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/click_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -6448,7 +6448,7 @@ web/api/notification/error_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web AP
 web/api/notification/icon,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/image,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/lang,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
-web/api/notification/maxactions_static,caa4012f6c46e355ad9840a3603ab69cb436d36f,Web APIs
+web/api/notification/maxactions_static,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
 web/api/notification/navigate,8a6e8b53625bddb3af2cf2fb927cb3e430b12ba2,Web APIs
 web/api/notification/notification,8a6e8b53625bddb3af2cf2fb927cb3e430b12ba2,Web APIs
 web/api/notification/permission_static,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
@@ -6817,9 +6817,9 @@ web/api/performancetiming/secureconnectionstart,b25d8774aa7bcc6a053e26cf804ad454
 web/api/performancetiming/tojson,aa8fa82a902746b0bd97839180fc2b5397088140,Web APIs
 web/api/performancetiming/unloadeventend,b25d8774aa7bcc6a053e26cf804ad454f51e134b,Web APIs
 web/api/performancetiming/unloadeventstart,b25d8774aa7bcc6a053e26cf804ad454f51e134b,Web APIs
-web/api/performancetimingconfidence,5cb7efb91e0bafe87cc5c907877e765d1643d0bc,Web APIs
+web/api/performancetimingconfidence,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
 web/api/performancetimingconfidence/randomizedtriggerrate,464ec9b1e43bf8a87ffe83abf2832e10739e2fb3,Web APIs
-web/api/performancetimingconfidence/tojson,464ec9b1e43bf8a87ffe83abf2832e10739e2fb3,Web APIs
+web/api/performancetimingconfidence/tojson,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
 web/api/performancetimingconfidence/value,464ec9b1e43bf8a87ffe83abf2832e10739e2fb3,Web APIs
 web/api/periodicsyncevent,0ca040b6a9cfd931558bd1d3a402707abddc1924,Web APIs
 web/api/periodicsyncevent/periodicsyncevent,0ca040b6a9cfd931558bd1d3a402707abddc1924,Web APIs
@@ -10722,7 +10722,7 @@ web/css/reference/properties/box-lines,bcbb4bd6a80292c0663b723d5466759cfaaa8315,
 web/css/reference/properties/box-ordinal-group,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/box-orient,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/box-pack,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/box-shadow,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/box-shadow,2e4a849f599a666ea778b577d176529061e61efb,CSS|Properties
 web/css/reference/properties/box-sizing,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/break-after,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/break-before,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11690,7 +11690,7 @@ web/html/reference/elements/sup,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|El
 web/html/reference/elements/table,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/tbody,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/td,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/template,f77236a72e479b61c6b1cb6059c9ae1e90f4c7cd,HTML|Elements
+web/html/reference/elements/template,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,HTML|Elements
 web/html/reference/elements/textarea,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/tfoot,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/th,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -13486,7 +13486,7 @@ web/mathml/reference/global_attributes,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,
 web/mathml/reference/global_attributes/data-_star_,5f4ef6f614202ab1b748708d3e1d95e396f6ee63,MathML|Global Attributes
 web/mathml/reference/global_attributes/dir,4c302cd01003cf42f175d5ba149e536ab1923df6,MathML|Global Attributes
 web/mathml/reference/global_attributes/displaystyle,2d78abb3e793352e24e976ce0e68c08d817bd7f3,MathML|Global Attributes
-web/mathml/reference/global_attributes/href,c263f06fa14ed56153e345006bb459c9df014b98,MathML|Global Attributes
+web/mathml/reference/global_attributes/href,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,MathML|Global Attributes
 web/mathml/reference/global_attributes/mathbackground,2d78abb3e793352e24e976ce0e68c08d817bd7f3,MathML|Global Attributes
 web/mathml/reference/global_attributes/mathcolor,2d78abb3e793352e24e976ce0e68c08d817bd7f3,MathML|Global Attributes
 web/mathml/reference/global_attributes/mathsize,2d78abb3e793352e24e976ce0e68c08d817bd7f3,MathML|Global Attributes
