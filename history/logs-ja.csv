@@ -8423,7 +8423,7 @@ web/javascript/reference/errors/getter_only,no_hash_commit
 web/javascript/reference/errors/identifier_after_number,no_hash_commit
 web/javascript/reference/errors/illegal_character,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/errors/in_operator_no_object,no_hash_commit
-web/javascript/reference/errors,no_hash_commit
+web/javascript/reference/errors,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/errors/invalid_array_length,no_hash_commit
 web/javascript/reference/errors/invalid_assignment_left-hand_side,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/errors/invalid_const_assignment,no_hash_commit
@@ -8809,7 +8809,7 @@ web/javascript/reference/global_objects/intl/pluralrules/selectrange,no_hash_com
 web/javascript/reference/global_objects/intl/pluralrules/supportedlocalesof,no_hash_commit
 web/javascript/reference/global_objects/intl/relativetimeformat/format,no_hash_commit
 web/javascript/reference/global_objects/intl/relativetimeformat/formattoparts,no_hash_commit
-web/javascript/reference/global_objects/intl/relativetimeformat,no_hash_commit
+web/javascript/reference/global_objects/intl/relativetimeformat,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/intl/relativetimeformat/relativetimeformat,no_hash_commit
 web/javascript/reference/global_objects/intl/segmenter,cd22b9f18cf2450c0cc488379b8b780f0f343397
 web/javascript/reference/global_objects/intl/segmenter/resolvedoptions,e7bc0ed5466f5834641d75d416fa81886cf6b37e
@@ -9161,6 +9161,7 @@ web/javascript/reference/global_objects/syntaxerror/syntaxerror,no_hash_commit
 web/javascript/reference/global_objects/temporal/duration,7e14795a6ef2bf5e760c315ce64800dd1cd98c29
 web/javascript/reference/global_objects/temporal,791d6b6a04b1b8c09bc291ebadbc0f99a57dd5f7
 web/javascript/reference/global_objects/temporal/instant,7e14795a6ef2bf5e760c315ce64800dd1cd98c29
+web/javascript/reference/global_objects/temporal/now,7e14795a6ef2bf5e760c315ce64800dd1cd98c29
 web/javascript/reference/global_objects/temporal/plaindate,9b86874b5762b52ce0055f58d561004d1a204ad5
 web/javascript/reference/global_objects/temporal/plaindatetime,9b86874b5762b52ce0055f58d561004d1a204ad5
 web/javascript/reference/global_objects/temporal/plainmonthday,7e14795a6ef2bf5e760c315ce64800dd1cd98c29
