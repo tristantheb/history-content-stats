@@ -1109,7 +1109,7 @@ mozilla/add-ons/webextensions/api/runtime,no_hash_commit
 mozilla/add-ons/webextensions/api/runtime/lasterror,no_hash_commit
 mozilla/add-ons/webextensions/api/runtime/messagesender,no_hash_commit
 mozilla/add-ons/webextensions/api/runtime/oninstalled,no_hash_commit
-mozilla/add-ons/webextensions/api/runtime/onmessage,4b10cb28d5eee0e952b2d84bd1b23cc53daa93b7
+mozilla/add-ons/webextensions/api/runtime/onmessage,38199423810927262c9cb4dec7ea7de4cb0c5e0f
 mozilla/add-ons/webextensions/api/runtime/openoptionspage,no_hash_commit
 mozilla/add-ons/webextensions/api/runtime/sendmessage,no_hash_commit
 mozilla/add-ons/webextensions/api/sessions,no_hash_commit
@@ -1155,7 +1155,7 @@ mozilla/add-ons/webextensions/implement_a_settings_page,no_hash_commit
 mozilla/add-ons/webextensions,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/interact_with_the_clipboard,1ee49b729dc4cd02b862d910f279861f4b30e704
 mozilla/add-ons/webextensions/intercept_http_requests,dd08ec8cf78926a7854d8f5f7793bf7ae199484e
-mozilla/add-ons/webextensions/internationalization,e0de864abf4c85888c0a790058e0d6f46462ca3a
+mozilla/add-ons/webextensions/internationalization,e81cf36acffe197d01b1ad282c3582ebd7b0b54d
 mozilla/add-ons/webextensions/manifest.json/author,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/background,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/browser_action,no_hash_commit
@@ -1266,7 +1266,7 @@ mozilla/firefox/releases/147,ac9837e832790fa4aa676dfef322ffa228599378
 mozilla/firefox/releases/148,71bf9d9aafdab8fea55d3cde76982f94cc313013
 mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127
-mozilla/firefox/releases/150,674d6c8868cde1654eaba3c285afde9d3b60ce9f
+mozilla/firefox/releases/150,0b214cbce88da71a9d4470364e378285c2a921a5
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127
@@ -1514,7 +1514,7 @@ web/accessibility/aria/reference/roles/tabpanel_role,50f209459d9e1db35bf0d973d78
 web/accessibility/aria/reference/roles/term_role,f6d04a43eadf5ab26a3488942dfb318b58234eb5
 web/accessibility/aria/reference/roles/textbox_role,15495ec2cf79a6677a523629925ee269343d4bf0
 web/accessibility/aria/reference/roles/timer_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
-web/accessibility/aria/reference/roles/toolbar_role,no_hash_commit
+web/accessibility/aria/reference/roles/toolbar_role,c833741444aba4d524992813eda1cd8d64563aed
 web/accessibility/aria/reference/roles/tooltip_role,019ca5c9ce641bfa02825e1ba0444f35dfb646cc
 web/accessibility/aria/reference/roles/tree_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/treegrid_role,50f209459d9e1db35bf0d973d7878ea4600acb8c
