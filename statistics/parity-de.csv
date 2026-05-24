@@ -5417,14 +5417,14 @@ web/api/htmltablesectionelement/deleterow,0
 web/api/htmltablesectionelement/insertrow,0
 web/api/htmltablesectionelement/rows,0
 web/api/htmltablesectionelement/valign,0
-web/api/htmltemplateelement,1
+web/api/htmltemplateelement,0
 web/api/htmltemplateelement/content,0
 web/api/htmltemplateelement/shadowrootclonable,0
 web/api/htmltemplateelement/shadowrootcustomelementregistry,0
 web/api/htmltemplateelement/shadowrootdelegatesfocus,0
 web/api/htmltemplateelement/shadowrootmode,0
 web/api/htmltemplateelement/shadowrootserializable,0
-web/api/htmltemplateelement/shadowrootslotassignment,1
+web/api/htmltemplateelement/shadowrootslotassignment,0
 web/api/htmltextareaelement,0
 web/api/htmltextareaelement/autocomplete,0
 web/api/htmltextareaelement/checkvalidity,0
@@ -6435,8 +6435,8 @@ web/api/nodelist/item,0
 web/api/nodelist/keys,0
 web/api/nodelist/length,0
 web/api/nodelist/values,0
-web/api/notification,1
-web/api/notification/actions,1
+web/api/notification,0
+web/api/notification/actions,0
 web/api/notification/badge,0
 web/api/notification/body,0
 web/api/notification/click_event,0
@@ -6448,7 +6448,7 @@ web/api/notification/error_event,0
 web/api/notification/icon,0
 web/api/notification/image,0
 web/api/notification/lang,0
-web/api/notification/maxactions_static,1
+web/api/notification/maxactions_static,0
 web/api/notification/navigate,0
 web/api/notification/notification,0
 web/api/notification/permission_static,0
@@ -6817,9 +6817,9 @@ web/api/performancetiming/secureconnectionstart,0
 web/api/performancetiming/tojson,0
 web/api/performancetiming/unloadeventend,0
 web/api/performancetiming/unloadeventstart,0
-web/api/performancetimingconfidence,1
+web/api/performancetimingconfidence,0
 web/api/performancetimingconfidence/randomizedtriggerrate,0
-web/api/performancetimingconfidence/tojson,1
+web/api/performancetimingconfidence/tojson,0
 web/api/performancetimingconfidence/value,0
 web/api/periodicsyncevent,0
 web/api/periodicsyncevent/periodicsyncevent,0
@@ -10722,7 +10722,7 @@ web/css/reference/properties/box-lines,0
 web/css/reference/properties/box-ordinal-group,0
 web/css/reference/properties/box-orient,0
 web/css/reference/properties/box-pack,0
-web/css/reference/properties/box-shadow,1
+web/css/reference/properties/box-shadow,0
 web/css/reference/properties/box-sizing,0
 web/css/reference/properties/break-after,0
 web/css/reference/properties/break-before,0
@@ -10816,7 +10816,7 @@ web/css/reference/properties/font-optical-sizing,0
 web/css/reference/properties/font-palette,0
 web/css/reference/properties/font-palette/palette-mix,0
 web/css/reference/properties/font-size,0
-web/css/reference/properties/font-size-adjust,1
+web/css/reference/properties/font-size-adjust,0
 web/css/reference/properties/font-smooth,0
 web/css/reference/properties/font-stretch,0
 web/css/reference/properties/font-style,0
@@ -11690,7 +11690,7 @@ web/html/reference/elements/sup,0
 web/html/reference/elements/table,0
 web/html/reference/elements/tbody,0
 web/html/reference/elements/td,0
-web/html/reference/elements/template,1
+web/html/reference/elements/template,0
 web/html/reference/elements/textarea,0
 web/html/reference/elements/tfoot,0
 web/html/reference/elements/th,0
@@ -12301,7 +12301,7 @@ web/javascript/reference/functions/rest_parameters,0
 web/javascript/reference/functions/set,0
 web/javascript/reference/global_objects,0
 web/javascript/reference/global_objects/aggregateerror,0
-web/javascript/reference/global_objects/aggregateerror/aggregateerror,1
+web/javascript/reference/global_objects/aggregateerror/aggregateerror,0
 web/javascript/reference/global_objects/aggregateerror/errors,0
 web/javascript/reference/global_objects/array,0
 web/javascript/reference/global_objects/array/array,0
@@ -13486,7 +13486,7 @@ web/mathml/reference/global_attributes,0
 web/mathml/reference/global_attributes/data-_star_,0
 web/mathml/reference/global_attributes/dir,0
 web/mathml/reference/global_attributes/displaystyle,0
-web/mathml/reference/global_attributes/href,1
+web/mathml/reference/global_attributes/href,0
 web/mathml/reference/global_attributes/mathbackground,0
 web/mathml/reference/global_attributes/mathcolor,0
 web/mathml/reference/global_attributes/mathsize,0

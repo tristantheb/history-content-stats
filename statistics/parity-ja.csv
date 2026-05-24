@@ -1546,7 +1546,7 @@ mozilla/add-ons/webextensions/api/runtime/onconnect,null
 mozilla/add-ons/webextensions/api/runtime/onconnectexternal,null
 mozilla/add-ons/webextensions/api/runtime/oninstalled,null
 mozilla/add-ons/webextensions/api/runtime/oninstalledreason,null
-mozilla/add-ons/webextensions/api/runtime/onmessage,20
+mozilla/add-ons/webextensions/api/runtime/onmessage,0
 mozilla/add-ons/webextensions/api/runtime/onmessageexternal,null
 mozilla/add-ons/webextensions/api/runtime/onperformancewarning,null
 mozilla/add-ons/webextensions/api/runtime/onperformancewarningcategory,null
@@ -1821,7 +1821,7 @@ mozilla/add-ons/webextensions/extending_the_developer_tools,null
 mozilla/add-ons/webextensions/implement_a_settings_page,null
 mozilla/add-ons/webextensions/interact_with_the_clipboard,14
 mozilla/add-ons/webextensions/intercept_http_requests,6
-mozilla/add-ons/webextensions/internationalization,21
+mozilla/add-ons/webextensions/internationalization,0
 mozilla/add-ons/webextensions/manifest.json,1
 mozilla/add-ons/webextensions/manifest.json/action,null
 mozilla/add-ons/webextensions/manifest.json/author,null
@@ -1959,7 +1959,7 @@ mozilla/firefox/releases/147,3
 mozilla/firefox/releases/148,3
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
-mozilla/firefox/releases/150,4
+mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,null
 mozilla/firefox/releases/152,null
 mozilla/firefox/releases/153,null
@@ -2239,7 +2239,7 @@ web/accessibility/aria/reference/roles/tabpanel_role,1
 web/accessibility/aria/reference/roles/term_role,3
 web/accessibility/aria/reference/roles/textbox_role,9
 web/accessibility/aria/reference/roles/timer_role,4
-web/accessibility/aria/reference/roles/toolbar_role,null
+web/accessibility/aria/reference/roles/toolbar_role,0
 web/accessibility/aria/reference/roles/tooltip_role,6
 web/accessibility/aria/reference/roles/tree_role,0
 web/accessibility/aria/reference/roles/treegrid_role,1
