@@ -12190,11 +12190,11 @@ web/javascript/reference/errors/cant_set_prototype,null
 web/javascript/reference/errors/cant_use_nullish_coalescing_unparenthesized,null
 web/javascript/reference/errors/class_ctor_no_new,null
 web/javascript/reference/errors/constructor_cant_be_used_directly,null
-web/javascript/reference/errors/cyclic_object_value,null
+web/javascript/reference/errors/cyclic_object_value,0
 web/javascript/reference/errors/cyclic_prototype,null
 web/javascript/reference/errors/delete_in_strict_mode,null
 web/javascript/reference/errors/deprecated_caller_or_arguments_usage,null
-web/javascript/reference/errors/deprecated_octal_escape_sequence,null
+web/javascript/reference/errors/deprecated_octal_escape_sequence,0
 web/javascript/reference/errors/deprecated_octal_literal,null
 web/javascript/reference/errors/deprecated_source_map_pragma,null
 web/javascript/reference/errors/duplicate_parameter,null
@@ -12204,11 +12204,11 @@ web/javascript/reference/errors/form_must_be_one_of,0
 web/javascript/reference/errors/function_label,null
 web/javascript/reference/errors/get_set_missing_private,null
 web/javascript/reference/errors/getter_no_arguments,null
-web/javascript/reference/errors/getter_only,null
+web/javascript/reference/errors/getter_only,0
 web/javascript/reference/errors/hash_outside_class,null
 web/javascript/reference/errors/identifier_after_number,null
 web/javascript/reference/errors/illegal_character,0
-web/javascript/reference/errors/import_decl_module_top_level,null
+web/javascript/reference/errors/import_decl_module_top_level,0
 web/javascript/reference/errors/in_operator_no_object,null
 web/javascript/reference/errors/invalid_array_length,null
 web/javascript/reference/errors/invalid_assignment_left-hand_side,0
@@ -12257,7 +12257,7 @@ web/javascript/reference/errors/regex_character_class_escape_in_class_range,null
 web/javascript/reference/errors/regex_duplicate_capture_group_name,null
 web/javascript/reference/errors/regex_incomplete_quantifier,null
 web/javascript/reference/errors/regex_invalid_capture_group_name,null
-web/javascript/reference/errors/regex_invalid_char_in_class,null
+web/javascript/reference/errors/regex_invalid_char_in_class,0
 web/javascript/reference/errors/regex_invalid_class_set_operation,0
 web/javascript/reference/errors/regex_invalid_decimal_escape,null
 web/javascript/reference/errors/regex_invalid_group,null
@@ -12275,7 +12275,7 @@ web/javascript/reference/errors/reserved_identifier,null
 web/javascript/reference/errors/rest_with_default,null
 web/javascript/reference/errors/resulting_string_too_large,null
 web/javascript/reference/errors/setter_one_argument,null
-web/javascript/reference/errors/stmt_after_return,null
+web/javascript/reference/errors/stmt_after_return,0
 web/javascript/reference/errors/strict_non_simple_params,null
 web/javascript/reference/errors/string_literal_eol,null
 web/javascript/reference/errors/super_called_twice,null
