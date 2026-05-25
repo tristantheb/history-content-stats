@@ -412,7 +412,7 @@ glossary/modularity,1
 glossary/mozilla_firefox,8
 glossary/multi-factor_authentication,0
 glossary/mutable,3
-glossary/mvc,1
+glossary/mvc,2
 glossary/namespace,3
 glossary/nan,1
 glossary/nat,1
@@ -6436,7 +6436,7 @@ web/api/nodelist/keys,null
 web/api/nodelist/length,0
 web/api/nodelist/values,2
 web/api/notification,6
-web/api/notification/actions,1
+web/api/notification/actions,2
 web/api/notification/badge,0
 web/api/notification/body,0
 web/api/notification/click_event,1
@@ -6448,9 +6448,9 @@ web/api/notification/error_event,1
 web/api/notification/icon,0
 web/api/notification/image,0
 web/api/notification/lang,1
-web/api/notification/maxactions_static,3
+web/api/notification/maxactions_static,4
 web/api/notification/navigate,null
-web/api/notification/notification,4
+web/api/notification/notification,5
 web/api/notification/permission_static,0
 web/api/notification/renotify,0
 web/api/notification/requestpermission_static,1
@@ -6465,7 +6465,7 @@ web/api/notificationevent,0
 web/api/notificationevent/action,1
 web/api/notificationevent/notification,0
 web/api/notificationevent/notificationevent,0
-web/api/notifications_api,1
+web/api/notifications_api,2
 web/api/notifications_api/using_the_notifications_api,6
 web/api/notrestoredreasondetails,null
 web/api/notrestoredreasondetails/reason,null
@@ -7809,7 +7809,7 @@ web/api/serviceworkerregistration/paymentmanager,null
 web/api/serviceworkerregistration/periodicsync,null
 web/api/serviceworkerregistration/pushmanager,null
 web/api/serviceworkerregistration/scope,0
-web/api/serviceworkerregistration/shownotification,3
+web/api/serviceworkerregistration/shownotification,4
 web/api/serviceworkerregistration/sync,0
 web/api/serviceworkerregistration/unregister,null
 web/api/serviceworkerregistration/update,null

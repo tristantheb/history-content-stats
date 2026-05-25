@@ -6465,7 +6465,7 @@ web/api/notificationevent,null
 web/api/notificationevent/action,null
 web/api/notificationevent/notification,null
 web/api/notificationevent/notificationevent,null
-web/api/notifications_api,7
+web/api/notifications_api,8
 web/api/notifications_api/using_the_notifications_api,null
 web/api/notrestoredreasondetails,null
 web/api/notrestoredreasondetails/reason,null

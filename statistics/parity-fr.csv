@@ -412,7 +412,7 @@ glossary/modularity,0
 glossary/mozilla_firefox,0
 glossary/multi-factor_authentication,0
 glossary/mutable,0
-glossary/mvc,0
+glossary/mvc,1
 glossary/namespace,0
 glossary/nan,0
 glossary/nat,0
@@ -1960,7 +1960,7 @@ mozilla/firefox/releases/148,1
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,null
 mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,1
+mozilla/firefox/releases/151,2
 mozilla/firefox/releases/152,null
 mozilla/firefox/releases/153,null
 mozilla/firefox/releases/16,null
@@ -6465,7 +6465,7 @@ web/api/notificationevent,null
 web/api/notificationevent/action,null
 web/api/notificationevent/notification,null
 web/api/notificationevent/notificationevent,null
-web/api/notifications_api,3
+web/api/notifications_api,4
 web/api/notifications_api/using_the_notifications_api,10
 web/api/notrestoredreasondetails,null
 web/api/notrestoredreasondetails/reason,null
@@ -10293,7 +10293,7 @@ web/css/guides/cascade,0
 web/css/guides/cascade/inheritance,0
 web/css/guides/cascade/introduction,0
 web/css/guides/cascade/property_value_processing,0
-web/css/guides/cascade/shorthand_properties,0
+web/css/guides/cascade/shorthand_properties,1
 web/css/guides/cascade/specificity,0
 web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,0
@@ -11402,7 +11402,7 @@ web/css/reference/values/hex-color,0
 web/css/reference/values/hue,0
 web/css/reference/values/hue-interpolation-method,0
 web/css/reference/values/hypot,0
-web/css/reference/values/ident,0
+web/css/reference/values/ident,1
 web/css/reference/values/if,0
 web/css/reference/values/image,0
 web/css/reference/values/image/image,0

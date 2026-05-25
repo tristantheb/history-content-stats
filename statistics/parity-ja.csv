@@ -412,7 +412,7 @@ glossary/modularity,null
 glossary/mozilla_firefox,null
 glossary/multi-factor_authentication,0
 glossary/mutable,null
-glossary/mvc,0
+glossary/mvc,1
 glossary/namespace,null
 glossary/nan,null
 glossary/nat,null
@@ -3905,7 +3905,7 @@ web/api/element/fullscreenerror_event,2
 web/api/element/gesturechange_event,1
 web/api/element/gestureend_event,1
 web/api/element/gesturestart_event,1
-web/api/element/getanimations,5
+web/api/element/getanimations,6
 web/api/element/getattribute,3
 web/api/element/getattributenames,0
 web/api/element/getattributenode,2
@@ -6436,7 +6436,7 @@ web/api/nodelist/keys,3
 web/api/nodelist/length,0
 web/api/nodelist/values,2
 web/api/notification,7
-web/api/notification/actions,8
+web/api/notification/actions,9
 web/api/notification/badge,7
 web/api/notification/body,5
 web/api/notification/click_event,8
@@ -6448,9 +6448,9 @@ web/api/notification/error_event,7
 web/api/notification/icon,5
 web/api/notification/image,5
 web/api/notification/lang,6
-web/api/notification/maxactions_static,3
+web/api/notification/maxactions_static,4
 web/api/notification/navigate,null
-web/api/notification/notification,7
+web/api/notification/notification,8
 web/api/notification/permission_static,0
 web/api/notification/renotify,6
 web/api/notification/requestpermission_static,null
@@ -6465,7 +6465,7 @@ web/api/notificationevent,0
 web/api/notificationevent/action,1
 web/api/notificationevent/notification,0
 web/api/notificationevent/notificationevent,0
-web/api/notifications_api,1
+web/api/notifications_api,2
 web/api/notifications_api/using_the_notifications_api,8
 web/api/notrestoredreasondetails,null
 web/api/notrestoredreasondetails/reason,null
@@ -7809,7 +7809,7 @@ web/api/serviceworkerregistration/paymentmanager,10
 web/api/serviceworkerregistration/periodicsync,8
 web/api/serviceworkerregistration/pushmanager,6
 web/api/serviceworkerregistration/scope,6
-web/api/serviceworkerregistration/shownotification,11
+web/api/serviceworkerregistration/shownotification,12
 web/api/serviceworkerregistration/sync,7
 web/api/serviceworkerregistration/unregister,5
 web/api/serviceworkerregistration/update,5
@@ -10293,7 +10293,7 @@ web/css/guides/cascade,0
 web/css/guides/cascade/inheritance,0
 web/css/guides/cascade/introduction,0
 web/css/guides/cascade/property_value_processing,0
-web/css/guides/cascade/shorthand_properties,4
+web/css/guides/cascade/shorthand_properties,5
 web/css/guides/cascade/specificity,2
 web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,0
@@ -11402,7 +11402,7 @@ web/css/reference/values/hex-color,1
 web/css/reference/values/hue,1
 web/css/reference/values/hue-interpolation-method,0
 web/css/reference/values/hypot,0
-web/css/reference/values/ident,1
+web/css/reference/values/ident,2
 web/css/reference/values/if,0
 web/css/reference/values/image,3
 web/css/reference/values/image/image,1
