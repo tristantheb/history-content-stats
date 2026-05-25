@@ -13885,7 +13885,7 @@ web/svg/reference/element/animatetransform,null
 web/svg/reference/element/circle,null
 web/svg/reference/element/clippath,null
 web/svg/reference/element/defs,null
-web/svg/reference/element/desc,null
+web/svg/reference/element/desc,0
 web/svg/reference/element/ellipse,null
 web/svg/reference/element/feblend,null
 web/svg/reference/element/fecolormatrix,null
@@ -13906,7 +13906,7 @@ web/svg/reference/element/feimage,null
 web/svg/reference/element/femerge,null
 web/svg/reference/element/femergenode,null
 web/svg/reference/element/femorphology,null
-web/svg/reference/element/feoffset,null
+web/svg/reference/element/feoffset,0
 web/svg/reference/element/fepointlight,null
 web/svg/reference/element/fespecularlighting,null
 web/svg/reference/element/fespotlight,null

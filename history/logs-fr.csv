@@ -7094,7 +7094,7 @@ web/svg/reference/element/animatetransform,no_hash_commit
 web/svg/reference/element/circle,no_hash_commit
 web/svg/reference/element/clippath,no_hash_commit
 web/svg/reference/element/defs,no_hash_commit
-web/svg/reference/element/desc,no_hash_commit
+web/svg/reference/element/desc,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/ellipse,no_hash_commit
 web/svg/reference/element/feblend,no_hash_commit
 web/svg/reference/element/fecolormatrix,no_hash_commit
@@ -7115,7 +7115,7 @@ web/svg/reference/element/feimage,no_hash_commit
 web/svg/reference/element/femerge,no_hash_commit
 web/svg/reference/element/femergenode,no_hash_commit
 web/svg/reference/element/femorphology,no_hash_commit
-web/svg/reference/element/feoffset,no_hash_commit
+web/svg/reference/element/feoffset,48afb4da7957efe672d7fd837413ee1a69a842fd
 web/svg/reference/element/fepointlight,no_hash_commit
 web/svg/reference/element/fespecularlighting,no_hash_commit
 web/svg/reference/element/fespotlight,no_hash_commit
