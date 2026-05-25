@@ -412,7 +412,7 @@ glossary/modularity,0
 glossary/mozilla_firefox,0
 glossary/multi-factor_authentication,0
 glossary/mutable,0
-glossary/mvc,1
+glossary/mvc,0
 glossary/namespace,0
 glossary/nan,0
 glossary/nat,0
@@ -800,7 +800,7 @@ learn_web_development/core/scripting/test_your_skills/variables,0
 learn_web_development/core/scripting/useful_string_methods,0
 learn_web_development/core/scripting/variables,0
 learn_web_development/core/scripting/what_is_javascript,0
-learn_web_development/core/scripting/what_went_wrong,1
+learn_web_development/core/scripting/what_went_wrong,0
 learn_web_development/core/structuring_content,0
 learn_web_development/core/structuring_content/advanced_text_features,0
 learn_web_development/core/structuring_content/basic_html_syntax,0
@@ -1960,8 +1960,8 @@ mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,1
-mozilla/firefox/releases/152,1
+mozilla/firefox/releases/151,0
+mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -3905,7 +3905,7 @@ web/api/element/fullscreenerror_event,0
 web/api/element/gesturechange_event,0
 web/api/element/gestureend_event,0
 web/api/element/gesturestart_event,0
-web/api/element/getanimations,1
+web/api/element/getanimations,0
 web/api/element/getattribute,0
 web/api/element/getattributenames,0
 web/api/element/getattributenode,0
@@ -6436,7 +6436,7 @@ web/api/nodelist/keys,0
 web/api/nodelist/length,0
 web/api/nodelist/values,0
 web/api/notification,0
-web/api/notification/actions,1
+web/api/notification/actions,0
 web/api/notification/badge,0
 web/api/notification/body,0
 web/api/notification/click_event,0
@@ -6448,9 +6448,9 @@ web/api/notification/error_event,0
 web/api/notification/icon,0
 web/api/notification/image,0
 web/api/notification/lang,0
-web/api/notification/maxactions_static,1
+web/api/notification/maxactions_static,0
 web/api/notification/navigate,0
-web/api/notification/notification,1
+web/api/notification/notification,0
 web/api/notification/permission_static,0
 web/api/notification/renotify,0
 web/api/notification/requestpermission_static,0
@@ -6465,7 +6465,7 @@ web/api/notificationevent,0
 web/api/notificationevent/action,0
 web/api/notificationevent/notification,0
 web/api/notificationevent/notificationevent,0
-web/api/notifications_api,1
+web/api/notifications_api,0
 web/api/notifications_api/using_the_notifications_api,0
 web/api/notrestoredreasondetails,0
 web/api/notrestoredreasondetails/reason,0
@@ -7809,7 +7809,7 @@ web/api/serviceworkerregistration/paymentmanager,0
 web/api/serviceworkerregistration/periodicsync,0
 web/api/serviceworkerregistration/pushmanager,0
 web/api/serviceworkerregistration/scope,0
-web/api/serviceworkerregistration/shownotification,1
+web/api/serviceworkerregistration/shownotification,0
 web/api/serviceworkerregistration/sync,0
 web/api/serviceworkerregistration/unregister,0
 web/api/serviceworkerregistration/update,0
@@ -10293,7 +10293,7 @@ web/css/guides/cascade,0
 web/css/guides/cascade/inheritance,0
 web/css/guides/cascade/introduction,0
 web/css/guides/cascade/property_value_processing,0
-web/css/guides/cascade/shorthand_properties,1
+web/css/guides/cascade/shorthand_properties,0
 web/css/guides/cascade/specificity,0
 web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,0
@@ -11402,7 +11402,7 @@ web/css/reference/values/hex-color,0
 web/css/reference/values/hue,0
 web/css/reference/values/hue-interpolation-method,0
 web/css/reference/values/hypot,0
-web/css/reference/values/ident,1
+web/css/reference/values/ident,0
 web/css/reference/values/if,0
 web/css/reference/values/image,0
 web/css/reference/values/image/image,0

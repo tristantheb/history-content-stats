@@ -11563,7 +11563,7 @@ web/html/reference/elements/body,0
 web/html/reference/elements/br,2
 web/html/reference/elements/button,0
 web/html/reference/elements/canvas,0
-web/html/reference/elements/caption,9
+web/html/reference/elements/caption,0
 web/html/reference/elements/center,4
 web/html/reference/elements/cite,4
 web/html/reference/elements/code,5
@@ -11584,7 +11584,7 @@ web/html/reference/elements/em,3
 web/html/reference/elements/embed,5
 web/html/reference/elements/fencedframe,2
 web/html/reference/elements/fieldset,1
-web/html/reference/elements/figcaption,7
+web/html/reference/elements/figcaption,0
 web/html/reference/elements/figure,0
 web/html/reference/elements/font,5
 web/html/reference/elements/footer,1
@@ -11624,8 +11624,8 @@ web/html/reference/elements/input/text,6
 web/html/reference/elements/input/time,6
 web/html/reference/elements/input/url,0
 web/html/reference/elements/input/week,4
-web/html/reference/elements/ins,7
-web/html/reference/elements/kbd,7
+web/html/reference/elements/ins,0
+web/html/reference/elements/kbd,0
 web/html/reference/elements/label,1
 web/html/reference/elements/legend,5
 web/html/reference/elements/li,2
@@ -11644,7 +11644,7 @@ web/html/reference/elements/meta/name/robots,0
 web/html/reference/elements/meta/name/text-scale,2
 web/html/reference/elements/meta/name/theme-color,0
 web/html/reference/elements/meta/name/viewport,0
-web/html/reference/elements/meter,7
+web/html/reference/elements/meter,0
 web/html/reference/elements/nav,1
 web/html/reference/elements/nobr,4
 web/html/reference/elements/noembed,4
@@ -11666,7 +11666,7 @@ web/html/reference/elements/rb,4
 web/html/reference/elements/rp,5
 web/html/reference/elements/rt,5
 web/html/reference/elements/rtc,6
-web/html/reference/elements/ruby,7
+web/html/reference/elements/ruby,0
 web/html/reference/elements/s,5
 web/html/reference/elements/samp,4
 web/html/reference/elements/script,0
@@ -11697,7 +11697,7 @@ web/html/reference/elements/th,0
 web/html/reference/elements/thead,0
 web/html/reference/elements/time,4
 web/html/reference/elements/title,0
-web/html/reference/elements/tr,10
+web/html/reference/elements/tr,0
 web/html/reference/elements/track,0
 web/html/reference/elements/tt,4
 web/html/reference/elements/u,4
