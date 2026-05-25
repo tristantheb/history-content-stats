@@ -412,7 +412,7 @@ glossary/modularity,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/mozilla_firefox,ef78a9a3336c884fb3587e4ff833e64704296f01,Glossary
 glossary/multi-factor_authentication,79f65d8322a4e55e9f3f4c91441c9188dbe670e0,Glossary
 glossary/mutable,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
-glossary/mvc,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
+glossary/mvc,19578c2d5bf6f2742a189198d5b1f402a9ae573c,Glossary
 glossary/namespace,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
 glossary/nan,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/nat,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
@@ -1960,8 +1960,8 @@ mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Fi
 mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,0b214cbce88da71a9d4470364e378285c2a921a5,Mozilla|Firefox|Versions
-mozilla/firefox/releases/151,3673b96dceb4e6ac3739103e3c7646e14868a2b2,Mozilla|Firefox|Versions
-mozilla/firefox/releases/152,203837bcaa769d54b6f42338136d917a8474f21d,Mozilla|Firefox|Versions
+mozilla/firefox/releases/151,d9835ea7d100660d8d845f358277d5b25b825a20,Mozilla|Firefox|Versions
+mozilla/firefox/releases/152,9880e223db35a5f0603b5938a32b852c563b6c56,Mozilla|Firefox|Versions
 mozilla/firefox/releases/153,0b214cbce88da71a9d4470364e378285c2a921a5,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -3905,7 +3905,7 @@ web/api/element/fullscreenerror_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,W
 web/api/element/gesturechange_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/element/gestureend_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/element/gesturestart_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
-web/api/element/getanimations,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
+web/api/element/getanimations,24e13993867fc8fd95d6112117b170595b015aee,Web APIs
 web/api/element/getattribute,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/element/getattributenames,d93e5a0bca36d745734e46c0cd55f40cda28e221,Web APIs
 web/api/element/getattributenode,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
@@ -6436,7 +6436,7 @@ web/api/nodelist/keys,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,Web APIs
 web/api/nodelist/length,312081aabba3885b35a81107b3c2fc53428896c5,Web APIs
 web/api/nodelist/values,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,Web APIs
 web/api/notification,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
-web/api/notification/actions,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
+web/api/notification/actions,66be0a23be754791266009f1044e2238c27332b4,Web APIs
 web/api/notification/badge,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/body,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/click_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -6448,9 +6448,9 @@ web/api/notification/error_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web AP
 web/api/notification/icon,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/image,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/lang,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
-web/api/notification/maxactions_static,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
+web/api/notification/maxactions_static,66be0a23be754791266009f1044e2238c27332b4,Web APIs
 web/api/notification/navigate,8a6e8b53625bddb3af2cf2fb927cb3e430b12ba2,Web APIs
-web/api/notification/notification,8a6e8b53625bddb3af2cf2fb927cb3e430b12ba2,Web APIs
+web/api/notification/notification,66be0a23be754791266009f1044e2238c27332b4,Web APIs
 web/api/notification/permission_static,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/renotify,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/requestpermission_static,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
@@ -6465,7 +6465,7 @@ web/api/notificationevent,aa8fa82a902746b0bd97839180fc2b5397088140,Web APIs
 web/api/notificationevent/action,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
 web/api/notificationevent/notification,28848ba41c082db2a8c55e85c804bd06363afb57,Web APIs
 web/api/notificationevent/notificationevent,28848ba41c082db2a8c55e85c804bd06363afb57,Web APIs
-web/api/notifications_api,8a6e8b53625bddb3af2cf2fb927cb3e430b12ba2,Web APIs
+web/api/notifications_api,66be0a23be754791266009f1044e2238c27332b4,Web APIs
 web/api/notifications_api/using_the_notifications_api,8a6e8b53625bddb3af2cf2fb927cb3e430b12ba2,Web APIs
 web/api/notrestoredreasondetails,3148591fa7280daf3e88a5cece3b60dfc9470330,Web APIs
 web/api/notrestoredreasondetails/reason,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
@@ -7809,7 +7809,7 @@ web/api/serviceworkerregistration/paymentmanager,73ca80b86a348f88f51fdb8f9441c11
 web/api/serviceworkerregistration/periodicsync,0ca040b6a9cfd931558bd1d3a402707abddc1924,Web APIs
 web/api/serviceworkerregistration/pushmanager,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
 web/api/serviceworkerregistration/scope,e9b95b3735a9e928fbdf3fe0a9f69c420b44cd79,Web APIs
-web/api/serviceworkerregistration/shownotification,8a6e8b53625bddb3af2cf2fb927cb3e430b12ba2,Web APIs
+web/api/serviceworkerregistration/shownotification,66be0a23be754791266009f1044e2238c27332b4,Web APIs
 web/api/serviceworkerregistration/sync,56df677713fecf43ec0eb8862cb91c141aaa0005,Web APIs
 web/api/serviceworkerregistration/unregister,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/serviceworkerregistration/update,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
@@ -10293,7 +10293,7 @@ web/css/guides/cascade,81f8fcd666952c1782653a3675347c392cc997ca,CSS|Guides
 web/css/guides/cascade/inheritance,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/cascade/introduction,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/cascade/property_value_processing,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a,CSS|Guides
-web/css/guides/cascade/shorthand_properties,82f81b39d2a3fb0d944c79ff98343d98d02b7eab,CSS|Guides
+web/css/guides/cascade/shorthand_properties,9dad06197b9a4c09d7c1e03b5aac47458a30cb2e,CSS|Guides
 web/css/guides/cascade/specificity,da60cb61c2cbb7fb35807515095d9efb129eacbc,CSS|Guides
 web/css/guides/cascading_variables,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/cascading_variables/using_custom_properties,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
@@ -11402,7 +11402,7 @@ web/css/reference/values/hex-color,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|
 web/css/reference/values/hue,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/hue-interpolation-method,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/hypot,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/ident,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
+web/css/reference/values/ident,cad9096502d2a74b34a67377bbb0ac88fcfa58c2,CSS|Values
 web/css/reference/values/if,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/image,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/image/image,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
