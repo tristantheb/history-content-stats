@@ -1961,7 +1961,7 @@ mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Fi
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,0b214cbce88da71a9d4470364e378285c2a921a5,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,d9835ea7d100660d8d845f358277d5b25b825a20,Mozilla|Firefox|Versions
-mozilla/firefox/releases/152,0c41b69b7a8dba26e5abd374043150195df335a0,Mozilla|Firefox|Versions
+mozilla/firefox/releases/152,0df5de3b03a8dee24f96657f74b8a598d985d25a,Mozilla|Firefox|Versions
 mozilla/firefox/releases/153,0b214cbce88da71a9d4470364e378285c2a921a5,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -9271,7 +9271,7 @@ web/api/web_locks_api,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/web_midi_api,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,Web APIs
 web/api/web_nfc_api,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac,Web APIs
 web/api/web_periodic_background_synchronization_api,0ca040b6a9cfd931558bd1d3a402707abddc1924,Web APIs
-web/api/web_serial_api,6fe7a18b80e55d9d25dcc16dfb010eec09460bb8,Web APIs
+web/api/web_serial_api,4e4a3ff34969a282c700e7c2179eb04b41564d7a,Web APIs
 web/api/web_share_api,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/web_speech_api,0a00e01a8c8097ea9786710c3fc703d18f0af951,Web APIs
 web/api/web_speech_api/using_the_web_speech_api,3cbd2b2b2eb0be9425949c20ca5d398645f7c0e9,Web APIs
@@ -10401,10 +10401,10 @@ web/css/guides/nesting,81f8fcd666952c1782653a3675347c392cc997ca,CSS|Guides
 web/css/guides/nesting/at-rules,81f8fcd666952c1782653a3675347c392cc997ca,CSS|Guides
 web/css/guides/nesting/nesting_and_specificity,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/nesting/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/overflow,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
+web/css/guides/overflow,74d9a1227d110a152bf4d68f5d5f753e723ea01b,CSS|Guides
 web/css/guides/overflow/carousels,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d,CSS|Guides
 web/css/guides/overscroll_behavior,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/paged_media,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/paged_media,74d9a1227d110a152bf4d68f5d5f753e723ea01b,CSS|Guides
 web/css/guides/positioned_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/positioned_layout/stacking_context,c0c6a47d07815a734bd7bf6cdc6b287686e9b9e7,CSS|Guides
 web/css/guides/positioned_layout/stacking_context/example_1,c1bbbf977b4fd477104265cd87f74cdf42616b0d,CSS|Guides
@@ -10526,7 +10526,7 @@ web/css/reference/at-rules/@import,e328268bb418551ab451881845881b5837c9da83,CSS|
 web/css/reference/at-rules/@import/layer_function,b760560abe30bd69ca968dac38528102f423b5ea,CSS|At-rules
 web/css/reference/at-rules/@keyframes,f2a9542e6c266ac7028eae954b5c7913e499d1f1,CSS|At-rules
 web/css/reference/at-rules/@layer,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
-web/css/reference/at-rules/@media,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
+web/css/reference/at-rules/@media,3869bc5647462538141417d68fc14362c7929ce9,CSS|At-rules
 web/css/reference/at-rules/@media/-moz-device-pixel-ratio,67d40334c8b90e4623f3b0d3aea466b9882d8236,CSS|At-rules
 web/css/reference/at-rules/@media/-webkit-animation,67d40334c8b90e4623f3b0d3aea466b9882d8236,CSS|At-rules
 web/css/reference/at-rules/@media/-webkit-device-pixel-ratio,67d40334c8b90e4623f3b0d3aea466b9882d8236,CSS|At-rules
