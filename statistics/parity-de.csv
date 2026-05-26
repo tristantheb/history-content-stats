@@ -1961,7 +1961,7 @@ mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
-mozilla/firefox/releases/152,1
+mozilla/firefox/releases/152,2
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -9271,7 +9271,7 @@ web/api/web_locks_api,0
 web/api/web_midi_api,0
 web/api/web_nfc_api,0
 web/api/web_periodic_background_synchronization_api,0
-web/api/web_serial_api,0
+web/api/web_serial_api,1
 web/api/web_share_api,0
 web/api/web_speech_api,0
 web/api/web_speech_api/using_the_web_speech_api,0
@@ -10401,10 +10401,10 @@ web/css/guides/nesting,0
 web/css/guides/nesting/at-rules,0
 web/css/guides/nesting/nesting_and_specificity,0
 web/css/guides/nesting/using,0
-web/css/guides/overflow,0
+web/css/guides/overflow,1
 web/css/guides/overflow/carousels,0
 web/css/guides/overscroll_behavior,0
-web/css/guides/paged_media,0
+web/css/guides/paged_media,1
 web/css/guides/positioned_layout,0
 web/css/guides/positioned_layout/stacking_context,0
 web/css/guides/positioned_layout/stacking_context/example_1,0
@@ -10526,7 +10526,7 @@ web/css/reference/at-rules/@import,0
 web/css/reference/at-rules/@import/layer_function,0
 web/css/reference/at-rules/@keyframes,0
 web/css/reference/at-rules/@layer,0
-web/css/reference/at-rules/@media,0
+web/css/reference/at-rules/@media,1
 web/css/reference/at-rules/@media/-moz-device-pixel-ratio,0
 web/css/reference/at-rules/@media/-webkit-animation,0
 web/css/reference/at-rules/@media/-webkit-device-pixel-ratio,0
