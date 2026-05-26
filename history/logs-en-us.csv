@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,93ba287ac81f264592c72e13106a5dcc1a35a4e0,Mozilla|Firefox
+mozilla/firefox/experimental_features,0c41b69b7a8dba26e5abd374043150195df335a0,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1961,7 +1961,7 @@ mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Fi
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,0b214cbce88da71a9d4470364e378285c2a921a5,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,d9835ea7d100660d8d845f358277d5b25b825a20,Mozilla|Firefox|Versions
-mozilla/firefox/releases/152,9880e223db35a5f0603b5938a32b852c563b6c56,Mozilla|Firefox|Versions
+mozilla/firefox/releases/152,0c41b69b7a8dba26e5abd374043150195df335a0,Mozilla|Firefox|Versions
 mozilla/firefox/releases/153,0b214cbce88da71a9d4470364e378285c2a921a5,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -5841,7 +5841,7 @@ web/api/media_source_extensions_api/dash_adaptive_streaming,a753bfc10d401d87f722
 web/api/media_source_extensions_api/transcoding_assets_for_mse,dc9d517589ac7b74bc205f49492b0450dfdb78de,Web APIs
 web/api/mediacapabilities,49f6e40b12be0d6d897d3dab09caafbc093f7677,Web APIs
 web/api/mediacapabilities/decodinginfo,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
-web/api/mediacapabilities/encodinginfo,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/mediacapabilities/encodinginfo,0c41b69b7a8dba26e5abd374043150195df335a0,Web APIs
 web/api/mediadeviceinfo,cfb7587e3e3122630ad6cbd94d834ecadbe0a746,Web APIs
 web/api/mediadeviceinfo/deviceid,4232f4067388fc9b2c55c5f9200dddf05bd99b74,Web APIs
 web/api/mediadeviceinfo/groupid,6bef243050a1f49bf5b7f37e9c4552f7aa30e24d,Web APIs
@@ -7096,7 +7096,7 @@ web/api/request/bytes,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/cache,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/request/clone,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/request/credentials,4c442059c45e50cd19c024edd0ed76693df27191,Web APIs
-web/api/request/destination,11e09e7c584658fbfbecd2f00ae66e546cd54cc0,Web APIs
+web/api/request/destination,27a436c26d8c0ff74bc38bea990465be3cf80021,Web APIs
 web/api/request/duplex,3a9a6f9dd92859dca2f928c59b34d9177adb9ae5,Web APIs
 web/api/request/formdata,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/headers,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
@@ -9276,7 +9276,7 @@ web/api/web_share_api,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/web_speech_api,0a00e01a8c8097ea9786710c3fc703d18f0af951,Web APIs
 web/api/web_speech_api/using_the_web_speech_api,3cbd2b2b2eb0be9425949c20ca5d398645f7c0e9,Web APIs
 web/api/web_storage_api,bc2cef34be29df5439a5a6162bd9e5b07d173571,Web APIs
-web/api/web_storage_api/using_the_web_storage_api,940b352725f7e803b194af619702071630f3d6a6,Web APIs
+web/api/web_storage_api/using_the_web_storage_api,cfee421b61f247bf45a048b2c80b1c195345c519,Web APIs
 web/api/web_workers_api,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/web_workers_api/functions_and_classes_available_to_workers,d172ab534ac45c6acfda33782752b095ed98aea8,Web APIs
 web/api/web_workers_api/structured_clone_algorithm,48184c65d7e6d59e867806d9e349661c737bdc4b,Web APIs
@@ -13427,7 +13427,7 @@ web/javascript/reference/statements/function,fad67be4431d8e6c2a89ac880735233aa76
 web/javascript/reference/statements/function_star_,bdb19290fc91b32b03d5e117e7e12df71c2a85ad,JavaScript|Statements
 web/javascript/reference/statements/if...else,0dff7c501b844de960d5a180c1348a9ce01b82fe,JavaScript|Statements
 web/javascript/reference/statements/import,3d3046d13482ca979db8b98b6eb55927b9b3a51f,JavaScript|Statements
-web/javascript/reference/statements/import/with,3251a58ecf1ded5df0e1aa5d23c8436247252b52,JavaScript|Statements
+web/javascript/reference/statements/import/with,27a436c26d8c0ff74bc38bea990465be3cf80021,JavaScript|Statements
 web/javascript/reference/statements/label,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/let,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/return,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements

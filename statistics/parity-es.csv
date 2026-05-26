@@ -1076,7 +1076,7 @@ mdn/writing_guidelines/code_style_guide,0
 mdn/writing_guidelines/code_style_guide/css,0
 mdn/writing_guidelines/code_style_guide/html,0
 mdn/writing_guidelines/code_style_guide/javascript,0
-mdn/writing_guidelines/code_style_guide/shell,1
+mdn/writing_guidelines/code_style_guide/shell,0
 mdn/writing_guidelines/criteria_for_inclusion,0
 mdn/writing_guidelines/experimental_deprecated_obsolete,0
 mdn/writing_guidelines/howto,0
@@ -1085,12 +1085,12 @@ mdn/writing_guidelines/howto/document_a_css_property,0
 mdn/writing_guidelines/howto/document_an_http_header,0
 mdn/writing_guidelines/howto/document_web_errors,0
 mdn/writing_guidelines/howto/images_media,0
-mdn/writing_guidelines/howto/json_structured_data,9
+mdn/writing_guidelines/howto/json_structured_data,0
 mdn/writing_guidelines/howto/markdown_in_mdn,14
 mdn/writing_guidelines/howto/research_technology,6
 mdn/writing_guidelines/howto/retiring_content,null
 mdn/writing_guidelines/howto/retiring_content/retired_content,null
-mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,3
+mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,0
 mdn/writing_guidelines/howto/write_an_api_reference,null
 mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,null
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,null

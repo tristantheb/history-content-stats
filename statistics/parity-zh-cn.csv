@@ -5841,7 +5841,7 @@ web/api/media_source_extensions_api/dash_adaptive_streaming,null
 web/api/media_source_extensions_api/transcoding_assets_for_mse,null
 web/api/mediacapabilities,0
 web/api/mediacapabilities/decodinginfo,null
-web/api/mediacapabilities/encodinginfo,3
+web/api/mediacapabilities/encodinginfo,4
 web/api/mediadeviceinfo,null
 web/api/mediadeviceinfo/deviceid,0
 web/api/mediadeviceinfo/groupid,null
