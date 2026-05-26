@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,8
+mozilla/firefox/experimental_features,9
 mozilla/firefox/releases,null
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -5841,7 +5841,7 @@ web/api/media_source_extensions_api/dash_adaptive_streaming,null
 web/api/media_source_extensions_api/transcoding_assets_for_mse,4
 web/api/mediacapabilities,1
 web/api/mediacapabilities/decodinginfo,10
-web/api/mediacapabilities/encodinginfo,5
+web/api/mediacapabilities/encodinginfo,6
 web/api/mediadeviceinfo,2
 web/api/mediadeviceinfo/deviceid,1
 web/api/mediadeviceinfo/groupid,4
@@ -7096,7 +7096,7 @@ web/api/request/bytes,1
 web/api/request/cache,2
 web/api/request/clone,2
 web/api/request/credentials,2
-web/api/request/destination,7
+web/api/request/destination,8
 web/api/request/duplex,0
 web/api/request/formdata,1
 web/api/request/headers,1
@@ -9276,7 +9276,7 @@ web/api/web_share_api,9
 web/api/web_speech_api,4
 web/api/web_speech_api/using_the_web_speech_api,12
 web/api/web_storage_api,7
-web/api/web_storage_api/using_the_web_storage_api,5
+web/api/web_storage_api/using_the_web_storage_api,6
 web/api/web_workers_api,0
 web/api/web_workers_api/functions_and_classes_available_to_workers,1
 web/api/web_workers_api/structured_clone_algorithm,14
@@ -13427,7 +13427,7 @@ web/javascript/reference/statements/function,0
 web/javascript/reference/statements/function_star_,1
 web/javascript/reference/statements/if...else,1
 web/javascript/reference/statements/import,0
-web/javascript/reference/statements/import/with,10
+web/javascript/reference/statements/import/with,11
 web/javascript/reference/statements/label,9
 web/javascript/reference/statements/let,0
 web/javascript/reference/statements/return,0
