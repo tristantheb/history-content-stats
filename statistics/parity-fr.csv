@@ -10304,9 +10304,9 @@ web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,0
 web/css/guides/colors/color_values,0
 web/css/guides/colors/using_color_wisely,0
-web/css/guides/colors/using_relative_colors,null
-web/css/guides/compositing_and_blending,2
-web/css/guides/conditional_rules,null
+web/css/guides/colors/using_relative_colors,0
+web/css/guides/compositing_and_blending,0
+web/css/guides/conditional_rules,0
 web/css/guides/conditional_rules/container_scroll-state_queries,null
 web/css/guides/conditional_rules/using_feature_queries,null
 web/css/guides/containment,null
