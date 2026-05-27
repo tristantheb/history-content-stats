@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,0c41b69b7a8dba26e5abd374043150195df335a0,Mozilla|Firefox
+mozilla/firefox/experimental_features,e083e5eefc192284f01100b6f1436d456e569fc1,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1961,7 +1961,7 @@ mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Fi
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,0b214cbce88da71a9d4470364e378285c2a921a5,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,d9835ea7d100660d8d845f358277d5b25b825a20,Mozilla|Firefox|Versions
-mozilla/firefox/releases/152,0df5de3b03a8dee24f96657f74b8a598d985d25a,Mozilla|Firefox|Versions
+mozilla/firefox/releases/152,e5e360c3e0bd374692cb284eabbb9cfb837887f0,Mozilla|Firefox|Versions
 mozilla/firefox/releases/153,0b214cbce88da71a9d4470364e378285c2a921a5,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -10367,7 +10367,7 @@ web/css/guides/grid_layout/subgrid,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|
 web/css/guides/images,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/images/implementing_image_sprites,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/images/replaced_element_properties,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/images/using_gradients,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
+web/css/guides/images/using_gradients,4f1188d6d007e5f57aa62326f89a849aa4cae707,CSS|Guides
 web/css/guides/images/using_object-view-box,ef62db148244eb03c862aa7f1b3865a3f727deaf,CSS|Guides
 web/css/guides/inline_layout,caab35a9191642d8d0362bba385f260b40683ccf,CSS|Guides
 web/css/guides/inline_layout/inline_formatting_context,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
