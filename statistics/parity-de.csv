@@ -713,8 +713,8 @@ learn_web_development/core/css_layout/fundamental_layout_comprehension,0
 learn_web_development/core/css_layout/grids,0
 learn_web_development/core/css_layout/introduction,0
 learn_web_development/core/css_layout/legacy_layout_methods,0
-learn_web_development/core/css_layout/media_queries,1
-learn_web_development/core/css_layout/mobile-first_challenge,1
+learn_web_development/core/css_layout/media_queries,0
+learn_web_development/core/css_layout/mobile-first_challenge,0
 learn_web_development/core/css_layout/multiple-column_layout,0
 learn_web_development/core/css_layout/positioning,0
 learn_web_development/core/css_layout/practical_positioning_examples,0
@@ -747,7 +747,7 @@ learn_web_development/core/frameworks_libraries/react_components,0
 learn_web_development/core/frameworks_libraries/react_getting_started,0
 learn_web_development/core/frameworks_libraries/react_interactivity_events_state,0
 learn_web_development/core/frameworks_libraries/react_interactivity_filtering_conditional_rendering,0
-learn_web_development/core/frameworks_libraries/react_resources,1
+learn_web_development/core/frameworks_libraries/react_resources,0
 learn_web_development/core/frameworks_libraries/react_todo_list_beginning,0
 learn_web_development/core/frameworks_libraries/svelte_components,0
 learn_web_development/core/frameworks_libraries/svelte_deployment_next,0
@@ -771,7 +771,7 @@ learn_web_development/core/scripting/a_first_splash,0
 learn_web_development/core/scripting/arrays,0
 learn_web_development/core/scripting/build_your_own_function,0
 learn_web_development/core/scripting/conditionals,0
-learn_web_development/core/scripting/debugging_javascript,1
+learn_web_development/core/scripting/debugging_javascript,0
 learn_web_development/core/scripting/dom_scripting,0
 learn_web_development/core/scripting/event_bubbling,0
 learn_web_development/core/scripting/events,0
@@ -805,7 +805,7 @@ learn_web_development/core/structuring_content,0
 learn_web_development/core/structuring_content/advanced_text_features,0
 learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
-learn_web_development/core/structuring_content/debugging_html,1
+learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,0
 learn_web_development/core/structuring_content/forms_challenge,0
 learn_web_development/core/structuring_content/general_embedding_technologies,0
@@ -838,7 +838,7 @@ learn_web_development/core/styling_basics/basic_selectors,0
 learn_web_development/core/styling_basics/box_model,0
 learn_web_development/core/styling_basics/cascade_layers,0
 learn_web_development/core/styling_basics/combinators,0
-learn_web_development/core/styling_basics/debugging_css,1
+learn_web_development/core/styling_basics/debugging_css,0
 learn_web_development/core/styling_basics/fixing_blog_styles,0
 learn_web_development/core/styling_basics/getting_started,0
 learn_web_development/core/styling_basics/handling_conflicts,0
@@ -868,7 +868,7 @@ learn_web_development/core/text_styling/fundamentals,0
 learn_web_development/core/text_styling/styling_links,0
 learn_web_development/core/text_styling/styling_lists,0
 learn_web_development/core/text_styling/typesetting_a_homepage,0
-learn_web_development/core/text_styling/web_fonts,1
+learn_web_development/core/text_styling/web_fonts,0
 learn_web_development/core/version_control,0
 learn_web_development/educators,0
 learn_web_development/extensions,0
@@ -999,7 +999,7 @@ learn_web_development/getting_started/environment_setup/command_line,0
 learn_web_development/getting_started/environment_setup/dealing_with_files,0
 learn_web_development/getting_started/environment_setup/installing_software,0
 learn_web_development/getting_started/soft_skills,0
-learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,1
+learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,0
 learn_web_development/getting_started/soft_skills/finding_a_job,0
 learn_web_development/getting_started/soft_skills/research_and_learning,0
 learn_web_development/getting_started/soft_skills/workflows_and_processes,0
@@ -3881,7 +3881,7 @@ web/api/element/clientheight,0
 web/api/element/clientleft,0
 web/api/element/clienttop,0
 web/api/element/clientwidth,0
-web/api/element/closest,1
+web/api/element/closest,0
 web/api/element/compositionend_event,0
 web/api/element/compositionstart_event,0
 web/api/element/compositionupdate_event,0
@@ -11186,7 +11186,7 @@ web/css/reference/selectors/_colon_indeterminate,0
 web/css/reference/selectors/_colon_interest-source,0
 web/css/reference/selectors/_colon_interest-target,0
 web/css/reference/selectors/_colon_invalid,0
-web/css/reference/selectors/_colon_is,1
+web/css/reference/selectors/_colon_is,0
 web/css/reference/selectors/_colon_lang,0
 web/css/reference/selectors/_colon_last-child,0
 web/css/reference/selectors/_colon_last-of-type,0
@@ -12121,7 +12121,7 @@ web/javascript/guide/enumerability_and_ownership_of_properties,0
 web/javascript/guide/equality_comparisons_and_sameness,0
 web/javascript/guide/expressions_and_operators,0
 web/javascript/guide/functions,0
-web/javascript/guide/grammar_and_types,1
+web/javascript/guide/grammar_and_types,0
 web/javascript/guide/indexed_collections,0
 web/javascript/guide/inheritance_and_the_prototype_chain,0
 web/javascript/guide/internationalization,0
