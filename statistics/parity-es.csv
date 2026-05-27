@@ -713,7 +713,7 @@ learn_web_development/core/css_layout/fundamental_layout_comprehension,8
 learn_web_development/core/css_layout/grids,null
 learn_web_development/core/css_layout/introduction,null
 learn_web_development/core/css_layout/legacy_layout_methods,null
-learn_web_development/core/css_layout/media_queries,11
+learn_web_development/core/css_layout/media_queries,12
 learn_web_development/core/css_layout/mobile-first_challenge,null
 learn_web_development/core/css_layout/multiple-column_layout,null
 learn_web_development/core/css_layout/positioning,null
@@ -3881,7 +3881,7 @@ web/api/element/clientheight,null
 web/api/element/clientleft,null
 web/api/element/clienttop,null
 web/api/element/clientwidth,null
-web/api/element/closest,9
+web/api/element/closest,10
 web/api/element/compositionend_event,null
 web/api/element/compositionstart_event,null
 web/api/element/compositionupdate_event,null
@@ -11186,7 +11186,7 @@ web/css/reference/selectors/_colon_indeterminate,null
 web/css/reference/selectors/_colon_interest-source,null
 web/css/reference/selectors/_colon_interest-target,null
 web/css/reference/selectors/_colon_invalid,null
-web/css/reference/selectors/_colon_is,5
+web/css/reference/selectors/_colon_is,6
 web/css/reference/selectors/_colon_lang,null
 web/css/reference/selectors/_colon_last-child,null
 web/css/reference/selectors/_colon_last-of-type,null
