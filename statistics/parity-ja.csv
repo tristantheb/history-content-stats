@@ -1960,7 +1960,7 @@ mozilla/firefox/releases/148,3
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,null
+mozilla/firefox/releases/151,1
 mozilla/firefox/releases/152,null
 mozilla/firefox/releases/153,null
 mozilla/firefox/releases/16,0
@@ -13619,7 +13619,7 @@ web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,6
 web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,3
 web/security,0
 web/security/attacks,0
-web/security/attacks/clickjacking,null
+web/security/attacks/clickjacking,0
 web/security/attacks/csrf,0
 web/security/attacks/idor,null
 web/security/attacks/mitm,null
@@ -13630,11 +13630,11 @@ web/security/attacks/subdomain_takeover,1
 web/security/attacks/supply_chain_attacks,null
 web/security/attacks/xs-leaks,null
 web/security/attacks/xss,3
-web/security/authentication,1
+web/security/authentication,0
 web/security/authentication/federated_identity,null
 web/security/authentication/otp,0
 web/security/authentication/passkeys,null
-web/security/authentication/passwords,3
+web/security/authentication/passwords,0
 web/security/authentication/session_management,null
 web/security/defenses,1
 web/security/defenses/certificate_transparency,0
@@ -13647,10 +13647,10 @@ web/security/defenses/subresource_integrity,2
 web/security/defenses/transport_layer_security,2
 web/security/defenses/user_activation,1
 web/security/practical_implementation_guides,0
-web/security/practical_implementation_guides/cookies,null
+web/security/practical_implementation_guides/cookies,0
 web/security/practical_implementation_guides/corp,null
 web/security/practical_implementation_guides/cors,null
-web/security/practical_implementation_guides/csp,null
+web/security/practical_implementation_guides/csp,0
 web/security/practical_implementation_guides/mime_types,null
 web/security/practical_implementation_guides/referrer_policy,null
 web/security/practical_implementation_guides/robots_txt,null
