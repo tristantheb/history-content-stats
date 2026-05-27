@@ -713,7 +713,7 @@ learn_web_development/core/css_layout/fundamental_layout_comprehension,10
 learn_web_development/core/css_layout/grids,14
 learn_web_development/core/css_layout/introduction,8
 learn_web_development/core/css_layout/legacy_layout_methods,null
-learn_web_development/core/css_layout/media_queries,13
+learn_web_development/core/css_layout/media_queries,14
 learn_web_development/core/css_layout/mobile-first_challenge,null
 learn_web_development/core/css_layout/multiple-column_layout,null
 learn_web_development/core/css_layout/positioning,null
@@ -747,7 +747,7 @@ learn_web_development/core/frameworks_libraries/react_components,6
 learn_web_development/core/frameworks_libraries/react_getting_started,null
 learn_web_development/core/frameworks_libraries/react_interactivity_events_state,10
 learn_web_development/core/frameworks_libraries/react_interactivity_filtering_conditional_rendering,4
-learn_web_development/core/frameworks_libraries/react_resources,2
+learn_web_development/core/frameworks_libraries/react_resources,3
 learn_web_development/core/frameworks_libraries/react_todo_list_beginning,null
 learn_web_development/core/frameworks_libraries/svelte_components,5
 learn_web_development/core/frameworks_libraries/svelte_deployment_next,null
@@ -838,7 +838,7 @@ learn_web_development/core/styling_basics/basic_selectors,11
 learn_web_development/core/styling_basics/box_model,null
 learn_web_development/core/styling_basics/cascade_layers,17
 learn_web_development/core/styling_basics/combinators,11
-learn_web_development/core/styling_basics/debugging_css,8
+learn_web_development/core/styling_basics/debugging_css,9
 learn_web_development/core/styling_basics/fixing_blog_styles,null
 learn_web_development/core/styling_basics/getting_started,17
 learn_web_development/core/styling_basics/handling_conflicts,null
@@ -868,7 +868,7 @@ learn_web_development/core/text_styling/fundamentals,null
 learn_web_development/core/text_styling/styling_links,6
 learn_web_development/core/text_styling/styling_lists,null
 learn_web_development/core/text_styling/typesetting_a_homepage,9
-learn_web_development/core/text_styling/web_fonts,10
+learn_web_development/core/text_styling/web_fonts,11
 learn_web_development/core/version_control,null
 learn_web_development/educators,null
 learn_web_development/extensions,null

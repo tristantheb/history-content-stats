@@ -771,7 +771,7 @@ learn_web_development/core/scripting/a_first_splash,2
 learn_web_development/core/scripting/arrays,null
 learn_web_development/core/scripting/build_your_own_function,null
 learn_web_development/core/scripting/conditionals,null
-learn_web_development/core/scripting/debugging_javascript,17
+learn_web_development/core/scripting/debugging_javascript,18
 learn_web_development/core/scripting/dom_scripting,null
 learn_web_development/core/scripting/event_bubbling,10
 learn_web_development/core/scripting/events,null
@@ -805,7 +805,7 @@ learn_web_development/core/structuring_content,0
 learn_web_development/core/structuring_content/advanced_text_features,0
 learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
-learn_web_development/core/structuring_content/debugging_html,0
+learn_web_development/core/structuring_content/debugging_html,1
 learn_web_development/core/structuring_content/emphasis_and_importance,0
 learn_web_development/core/structuring_content/forms_challenge,3
 learn_web_development/core/structuring_content/general_embedding_technologies,1
@@ -838,7 +838,7 @@ learn_web_development/core/styling_basics/basic_selectors,5
 learn_web_development/core/styling_basics/box_model,null
 learn_web_development/core/styling_basics/cascade_layers,null
 learn_web_development/core/styling_basics/combinators,null
-learn_web_development/core/styling_basics/debugging_css,8
+learn_web_development/core/styling_basics/debugging_css,9
 learn_web_development/core/styling_basics/fixing_blog_styles,null
 learn_web_development/core/styling_basics/getting_started,null
 learn_web_development/core/styling_basics/handling_conflicts,22
@@ -999,7 +999,7 @@ learn_web_development/getting_started/environment_setup/command_line,1
 learn_web_development/getting_started/environment_setup/dealing_with_files,2
 learn_web_development/getting_started/environment_setup/installing_software,3
 learn_web_development/getting_started/soft_skills,0
-learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,1
+learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,2
 learn_web_development/getting_started/soft_skills/finding_a_job,4
 learn_web_development/getting_started/soft_skills/research_and_learning,0
 learn_web_development/getting_started/soft_skills/workflows_and_processes,2
@@ -11186,7 +11186,7 @@ web/css/reference/selectors/_colon_indeterminate,0
 web/css/reference/selectors/_colon_interest-source,0
 web/css/reference/selectors/_colon_interest-target,0
 web/css/reference/selectors/_colon_invalid,0
-web/css/reference/selectors/_colon_is,0
+web/css/reference/selectors/_colon_is,1
 web/css/reference/selectors/_colon_lang,0
 web/css/reference/selectors/_colon_last-child,0
 web/css/reference/selectors/_colon_last-of-type,0
