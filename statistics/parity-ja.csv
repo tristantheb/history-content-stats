@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,9
+mozilla/firefox/experimental_features,10
 mozilla/firefox/releases,null
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -10367,7 +10367,7 @@ web/css/guides/grid_layout/subgrid,0
 web/css/guides/images,1
 web/css/guides/images/implementing_image_sprites,0
 web/css/guides/images/replaced_element_properties,0
-web/css/guides/images/using_gradients,1
+web/css/guides/images/using_gradients,2
 web/css/guides/images/using_object-view-box,2
 web/css/guides/inline_layout,0
 web/css/guides/inline_layout/inline_formatting_context,0
