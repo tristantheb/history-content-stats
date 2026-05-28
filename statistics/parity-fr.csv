@@ -1058,7 +1058,7 @@ mdn/community/community_participation_guidelines,0
 mdn/community/discussions,0
 mdn/community/discussions/managing_and_resolving_discussions,0
 mdn/community/getting_started,0
-mdn/community/issues,0
+mdn/community/issues,1
 mdn/community/issues/content_suggestions_feature_proposals,0
 mdn/community/learn_forum,0
 mdn/community/open_source_etiquette,0
@@ -10422,6 +10422,7 @@ web/css/guides/round_display,null
 web/css/guides/ruby_layout,null
 web/css/guides/scoping,null
 web/css/guides/scroll-driven_animations,null
+web/css/guides/scroll-driven_animations/timeline_insets,null
 web/css/guides/scroll-driven_animations/timeline_range_names,null
 web/css/guides/scroll-driven_animations/timelines,null
 web/css/guides/scroll_anchoring,null
