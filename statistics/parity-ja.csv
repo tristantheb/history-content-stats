@@ -843,7 +843,7 @@ learn_web_development/core/styling_basics/fixing_blog_styles,0
 learn_web_development/core/styling_basics/getting_started,0
 learn_web_development/core/styling_basics/handling_conflicts,0
 learn_web_development/core/styling_basics/handling_different_text_directions,0
-learn_web_development/core/styling_basics/home_color_scheme_search,0
+learn_web_development/core/styling_basics/home_color_scheme_search,1
 learn_web_development/core/styling_basics/images_media_forms,1
 learn_web_development/core/styling_basics/organizing,0
 learn_web_development/core/styling_basics/overflow,0
@@ -1058,7 +1058,7 @@ mdn/community/community_participation_guidelines,3
 mdn/community/discussions,1
 mdn/community/discussions/managing_and_resolving_discussions,1
 mdn/community/getting_started,5
-mdn/community/issues,10
+mdn/community/issues,11
 mdn/community/issues/content_suggestions_feature_proposals,0
 mdn/community/learn_forum,0
 mdn/community/open_source_etiquette,0
@@ -10421,7 +10421,8 @@ web/css/guides/pseudo-elements,1
 web/css/guides/round_display,null
 web/css/guides/ruby_layout,0
 web/css/guides/scoping,0
-web/css/guides/scroll-driven_animations,4
+web/css/guides/scroll-driven_animations,5
+web/css/guides/scroll-driven_animations/timeline_insets,null
 web/css/guides/scroll-driven_animations/timeline_range_names,null
 web/css/guides/scroll-driven_animations/timelines,2
 web/css/guides/scroll_anchoring,0
