@@ -12659,6 +12659,7 @@ web/javascript/reference/global_objects/iterator/find,null
 web/javascript/reference/global_objects/iterator/flatmap,null
 web/javascript/reference/global_objects/iterator/foreach,null
 web/javascript/reference/global_objects/iterator/from,null
+web/javascript/reference/global_objects/iterator/includes,null
 web/javascript/reference/global_objects/iterator/iterator,null
 web/javascript/reference/global_objects/iterator/map,null
 web/javascript/reference/global_objects/iterator/reduce,null

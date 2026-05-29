@@ -12322,7 +12322,7 @@ web/javascript/reference/global_objects/array/flatmap,null
 web/javascript/reference/global_objects/array/foreach,null
 web/javascript/reference/global_objects/array/from,null
 web/javascript/reference/global_objects/array/fromasync,null
-web/javascript/reference/global_objects/array/includes,7
+web/javascript/reference/global_objects/array/includes,8
 web/javascript/reference/global_objects/array/indexof,null
 web/javascript/reference/global_objects/array/isarray,null
 web/javascript/reference/global_objects/array/join,null
@@ -12659,6 +12659,7 @@ web/javascript/reference/global_objects/iterator/find,null
 web/javascript/reference/global_objects/iterator/flatmap,null
 web/javascript/reference/global_objects/iterator/foreach,null
 web/javascript/reference/global_objects/iterator/from,null
+web/javascript/reference/global_objects/iterator/includes,null
 web/javascript/reference/global_objects/iterator/iterator,null
 web/javascript/reference/global_objects/iterator/map,null
 web/javascript/reference/global_objects/iterator/reduce,null
