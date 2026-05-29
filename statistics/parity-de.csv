@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1961,7 +1961,7 @@ mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
-mozilla/firefox/releases/152,0
+mozilla/firefox/releases/152,1
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -2878,12 +2878,12 @@ web/api/client/frametype,0
 web/api/client/id,0
 web/api/client/postmessage,0
 web/api/client/type,0
-web/api/client/url,0
+web/api/client/url,1
 web/api/clients,0
 web/api/clients/claim,0
 web/api/clients/get,0
 web/api/clients/matchall,0
-web/api/clients/openwindow,0
+web/api/clients/openwindow,1
 web/api/clipboard,0
 web/api/clipboard/clipboardchange_event,0
 web/api/clipboard/read,0
@@ -3906,7 +3906,7 @@ web/api/element/gesturechange_event,0
 web/api/element/gestureend_event,0
 web/api/element/gesturestart_event,0
 web/api/element/getanimations,0
-web/api/element/getattribute,1
+web/api/element/getattribute,0
 web/api/element/getattributenames,0
 web/api/element/getattributenode,0
 web/api/element/getattributenodens,0
@@ -4207,7 +4207,7 @@ web/api/fetchevent/clientid,0
 web/api/fetchevent/fetchevent,0
 web/api/fetchevent/handled,0
 web/api/fetchevent/isreload,0
-web/api/fetchevent/preloadresponse,1
+web/api/fetchevent/preloadresponse,0
 web/api/fetchevent/replacesclientid,0
 web/api/fetchevent/request,0
 web/api/fetchevent/respondwith,0
@@ -5029,7 +5029,7 @@ web/api/htmlimageelement/name,0
 web/api/htmlimageelement/naturalheight,0
 web/api/htmlimageelement/naturalwidth,0
 web/api/htmlimageelement/referrerpolicy,0
-web/api/htmlimageelement/sizes,1
+web/api/htmlimageelement/sizes,0
 web/api/htmlimageelement/src,0
 web/api/htmlimageelement/srcset,0
 web/api/htmlimageelement/usemap,0
@@ -7755,7 +7755,7 @@ web/api/serialport/writable,0
 web/api/server-sent_events,0
 web/api/server-sent_events/using_server-sent_events,0
 web/api/service_worker_api,0
-web/api/service_worker_api/using_service_workers,1
+web/api/service_worker_api/using_service_workers,0
 web/api/serviceworker,0
 web/api/serviceworker/error_event,0
 web/api/serviceworker/postmessage,0
@@ -7898,16 +7898,16 @@ web/api/speechgrammarlist/addfromuri,0
 web/api/speechgrammarlist/item,0
 web/api/speechgrammarlist/length,0
 web/api/speechgrammarlist/speechgrammarlist,0
-web/api/speechrecognition,1
+web/api/speechrecognition,0
 web/api/speechrecognition/abort,0
 web/api/speechrecognition/audioend_event,0
 web/api/speechrecognition/audiostart_event,0
-web/api/speechrecognition/available_static,1
+web/api/speechrecognition/available_static,0
 web/api/speechrecognition/continuous,0
 web/api/speechrecognition/end_event,0
 web/api/speechrecognition/error_event,0
 web/api/speechrecognition/grammars,0
-web/api/speechrecognition/install_static,1
+web/api/speechrecognition/install_static,0
 web/api/speechrecognition/interimresults,0
 web/api/speechrecognition/lang,0
 web/api/speechrecognition/maxalternatives,0
@@ -9274,7 +9274,7 @@ web/api/web_periodic_background_synchronization_api,0
 web/api/web_serial_api,0
 web/api/web_share_api,0
 web/api/web_speech_api,0
-web/api/web_speech_api/using_the_web_speech_api,1
+web/api/web_speech_api/using_the_web_speech_api,0
 web/api/web_storage_api,0
 web/api/web_storage_api/using_the_web_storage_api,0
 web/api/web_workers_api,0
@@ -10487,7 +10487,7 @@ web/css/reference,0
 web/css/reference/at-rules,0
 web/css/reference/at-rules/@charset,0
 web/css/reference/at-rules/@color-profile,0
-web/css/reference/at-rules/@container,1
+web/css/reference/at-rules/@container,0
 web/css/reference/at-rules/@counter-style,0
 web/css/reference/at-rules/@counter-style/additive-symbols,0
 web/css/reference/at-rules/@counter-style/fallback,0
@@ -10581,7 +10581,7 @@ web/css/reference/at-rules/@property/initial-value,0
 web/css/reference/at-rules/@property/syntax,0
 web/css/reference/at-rules/@scope,0
 web/css/reference/at-rules/@starting-style,0
-web/css/reference/at-rules/@supports,1
+web/css/reference/at-rules/@supports,0
 web/css/reference/at-rules/@view-transition,0
 web/css/reference/at-rules/at-rule_functions,0
 web/css/reference/mozilla_extensions,0

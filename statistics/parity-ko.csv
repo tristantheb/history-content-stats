@@ -2883,7 +2883,7 @@ web/api/clients,1
 web/api/clients/claim,1
 web/api/clients/get,0
 web/api/clients/matchall,1
-web/api/clients/openwindow,2
+web/api/clients/openwindow,3
 web/api/clipboard,null
 web/api/clipboard/clipboardchange_event,null
 web/api/clipboard/read,null
