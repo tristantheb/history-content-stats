@@ -3906,7 +3906,7 @@ web/api/element/gesturechange_event,null
 web/api/element/gestureend_event,null
 web/api/element/gesturestart_event,null
 web/api/element/getanimations,null
-web/api/element/getattribute,6
+web/api/element/getattribute,7
 web/api/element/getattributenames,null
 web/api/element/getattributenode,null
 web/api/element/getattributenodens,null

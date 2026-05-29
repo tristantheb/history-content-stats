@@ -7755,7 +7755,7 @@ web/api/serialport/writable,null
 web/api/server-sent_events,11
 web/api/server-sent_events/using_server-sent_events,null
 web/api/service_worker_api,0
-web/api/service_worker_api/using_service_workers,0
+web/api/service_worker_api/using_service_workers,1
 web/api/serviceworker,0
 web/api/serviceworker/error_event,0
 web/api/serviceworker/postmessage,2
