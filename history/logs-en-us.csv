@@ -10487,7 +10487,7 @@ web/css/reference,93b85a5bc2b4589d93185263fd2c14381c36f821,CSS
 web/css/reference/at-rules,3ee2355c3c90cf92c3119b82f8ebfa5d16c91c53,CSS|At-rules
 web/css/reference/at-rules/@charset,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@color-profile,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
-web/css/reference/at-rules/@container,48afb4da7957efe672d7fd837413ee1a69a842fd,CSS|At-rules
+web/css/reference/at-rules/@container,3e5fd6765f891b6fedae20ce1e31e2fdefe55b3c,CSS|At-rules
 web/css/reference/at-rules/@counter-style,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@counter-style/additive-symbols,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@counter-style/fallback,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
@@ -10581,7 +10581,7 @@ web/css/reference/at-rules/@property/initial-value,f0094356d3acb19475dde45508dfe
 web/css/reference/at-rules/@property/syntax,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@scope,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@starting-style,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
-web/css/reference/at-rules/@supports,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
+web/css/reference/at-rules/@supports,4179ddfb7690019d23f529cbd316c35d2381c75c,CSS|At-rules
 web/css/reference/at-rules/@view-transition,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/at-rule_functions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
 web/css/reference/mozilla_extensions,a9fd2746e238ae3948572a94036bb505de19b81b,CSS
