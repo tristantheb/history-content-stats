@@ -5790,7 +5790,7 @@ web/api/linearaccelerationsensor,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web AP
 web/api/linearaccelerationsensor/linearaccelerationsensor,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/local_font_access_api,6855bf0bdd644345f66b88b477fd219a5e7f866e,Web APIs
 web/api/location,9cfc2285428932f448a1747e347b1e35a3e0172b,Web APIs
-web/api/location/ancestororigins,1238ffad886924b20549d0cf3adca735cb0d074f,Web APIs
+web/api/location/ancestororigins,de2e44940354cad9d1922026f5020751919725b8,Web APIs
 web/api/location/assign,2e40017af745c716c510927deabcbe559be638d2,Web APIs
 web/api/location/hash,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
 web/api/location/host,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
@@ -9839,7 +9839,7 @@ web/api/window_management_api,72d51eab0cf7140e7edcca663fe24fae1a4166f8,Web APIs
 web/api/window_management_api/multi-screen_origin,f5fd4776d1c0cd6e4cffc9649f7c4f44badb7ae2,Web APIs
 web/api/window_management_api/using,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/windowclient,4a1d696e78d9aa0a3ca571cbc0aab9ba90258235,Web APIs
-web/api/windowclient/ancestororigins,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
+web/api/windowclient/ancestororigins,de2e44940354cad9d1922026f5020751919725b8,Web APIs
 web/api/windowclient/focus,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/windowclient/focused,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
 web/api/windowclient/navigate,1ddd95504b4507beeda0f08bd772eb167922b86a,Web APIs
