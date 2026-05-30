@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.1.1](https://github.com/tristantheb/history-content-stats/compare/v1.1.0...v1.1.1) (2026-05-30)
+
+
+### Miscellaneous
+
+* **deps:** bump github/codeql-action from 4.35.2 to 4.35.4 ([#272](https://github.com/tristantheb/history-content-stats/issues/272)) ([8a7cf33](https://github.com/tristantheb/history-content-stats/commit/8a7cf33a32d0abe3d81f2cb011eef2341c98c86c))
+* **deps:** bump github/codeql-action from 4.35.4 to 4.36.0 ([#339](https://github.com/tristantheb/history-content-stats/issues/339)) ([600fa33](https://github.com/tristantheb/history-content-stats/commit/600fa3388fccb6a88292fcd07012182a8788afea))
+* **deps:** bump googleapis/release-please-action from 4.4.1 to 5.0.0 ([#197](https://github.com/tristantheb/history-content-stats/issues/197)) ([0f26885](https://github.com/tristantheb/history-content-stats/commit/0f268853963d1dbef0428f3c35d9d006d3be2480))
+
+
+### CI/CD changes
+
+* poisoned sourceCommit return -1 as parity ([ea46db4](https://github.com/tristantheb/history-content-stats/commit/ea46db47cf81e6cc9527345af40d4845e2378c12))
+* return better error ([e913b85](https://github.com/tristantheb/history-content-stats/commit/e913b85268dd6d94f35709dbb0cca336a6a3995b))
+
 ## [1.1.0](https://github.com/tristantheb/history-content-stats/compare/v1.0.1...v1.1.0) (2026-04-22)
 
 
