@@ -5790,7 +5790,7 @@ web/api/linearaccelerationsensor,2
 web/api/linearaccelerationsensor/linearaccelerationsensor,3
 web/api/local_font_access_api,null
 web/api/location,5
-web/api/location/ancestororigins,1
+web/api/location/ancestororigins,2
 web/api/location/assign,7
 web/api/location/hash,5
 web/api/location/host,2
