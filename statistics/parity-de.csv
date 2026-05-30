@@ -5790,7 +5790,7 @@ web/api/linearaccelerationsensor,0
 web/api/linearaccelerationsensor/linearaccelerationsensor,0
 web/api/local_font_access_api,0
 web/api/location,0
-web/api/location/ancestororigins,0
+web/api/location/ancestororigins,1
 web/api/location/assign,0
 web/api/location/hash,0
 web/api/location/host,0
@@ -9839,7 +9839,7 @@ web/api/window_management_api,0
 web/api/window_management_api/multi-screen_origin,0
 web/api/window_management_api/using,0
 web/api/windowclient,0
-web/api/windowclient/ancestororigins,0
+web/api/windowclient/ancestororigins,1
 web/api/windowclient/focus,0
 web/api/windowclient/focused,0
 web/api/windowclient/navigate,0

@@ -9839,7 +9839,7 @@ web/api/window_management_api,null
 web/api/window_management_api/multi-screen_origin,null
 web/api/window_management_api/using,null
 web/api/windowclient,null
-web/api/windowclient/ancestororigins,0
+web/api/windowclient/ancestororigins,1
 web/api/windowclient/focus,null
 web/api/windowclient/focused,null
 web/api/windowclient/navigate,1
