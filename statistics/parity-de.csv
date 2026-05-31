@@ -6448,7 +6448,7 @@ web/api/notification/error_event,0
 web/api/notification/icon,0
 web/api/notification/image,0
 web/api/notification/lang,0
-web/api/notification/maxactions_static,0
+web/api/notification/maxactions_static,1
 web/api/notification/navigate,0
 web/api/notification/notification,0
 web/api/notification/permission_static,0
