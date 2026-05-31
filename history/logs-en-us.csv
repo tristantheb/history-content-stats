@@ -6448,7 +6448,7 @@ web/api/notification/error_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web AP
 web/api/notification/icon,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/image,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/lang,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
-web/api/notification/maxactions_static,66be0a23be754791266009f1044e2238c27332b4,Web APIs
+web/api/notification/maxactions_static,d8fc2b7782ba35a3f2708ffe5b5b4b9c44c8715f,Web APIs
 web/api/notification/navigate,8a6e8b53625bddb3af2cf2fb927cb3e430b12ba2,Web APIs
 web/api/notification/notification,66be0a23be754791266009f1044e2238c27332b4,Web APIs
 web/api/notification/permission_static,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
