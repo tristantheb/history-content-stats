@@ -1825,7 +1825,7 @@ mozilla/add-ons/webextensions/internationalization,e81cf36acffe197d01b1ad282c358
 mozilla/add-ons/webextensions/manifest.json,ee9431bdd896f41c2860ef340f01554c75fd7f29,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/action,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/author,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/background,7615562a3689a3e23a2b6b623597f4391740a53e,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/background,c09d604573caae5ab369806a27c98cd2a396bdca,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/browser_action,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,c27b843b70ca03c9dc2f46805cae2c0017d8bce6,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,8ba42490fa8be04d5751399274c40a00e1ac9a52,Mozilla|Firefox Add-ons
