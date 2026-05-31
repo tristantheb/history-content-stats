@@ -1825,7 +1825,7 @@ mozilla/add-ons/webextensions/internationalization,0
 mozilla/add-ons/webextensions/manifest.json,0
 mozilla/add-ons/webextensions/manifest.json/action,0
 mozilla/add-ons/webextensions/manifest.json/author,0
-mozilla/add-ons/webextensions/manifest.json/background,0
+mozilla/add-ons/webextensions/manifest.json/background,1
 mozilla/add-ons/webextensions/manifest.json/browser_action,0
 mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,0
 mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,0
