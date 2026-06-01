@@ -1065,7 +1065,7 @@ mdn/community/open_source_etiquette,0
 mdn/community/our_repositories,1
 mdn/community/pull_requests,6
 mdn/community/roles_teams,7
-mdn/community/translated_content,2
+mdn/community/translated_content,3
 mdn/guides,1
 mdn/kitchensink,null
 mdn/tutorials,3
@@ -12571,7 +12571,7 @@ web/javascript/reference/global_objects/intl/collator/compare,0
 web/javascript/reference/global_objects/intl/collator/resolvedoptions,null
 web/javascript/reference/global_objects/intl/collator/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/datetimeformat,0
-web/javascript/reference/global_objects/intl/datetimeformat/datetimeformat,2
+web/javascript/reference/global_objects/intl/datetimeformat/datetimeformat,0
 web/javascript/reference/global_objects/intl/datetimeformat/format,0
 web/javascript/reference/global_objects/intl/datetimeformat/formatrange,0
 web/javascript/reference/global_objects/intl/datetimeformat/formatrangetoparts,1
@@ -12624,7 +12624,7 @@ web/javascript/reference/global_objects/intl/numberformat/format,0
 web/javascript/reference/global_objects/intl/numberformat/formatrange,0
 web/javascript/reference/global_objects/intl/numberformat/formatrangetoparts,0
 web/javascript/reference/global_objects/intl/numberformat/formattoparts,0
-web/javascript/reference/global_objects/intl/numberformat/numberformat,3
+web/javascript/reference/global_objects/intl/numberformat/numberformat,0
 web/javascript/reference/global_objects/intl/numberformat/resolvedoptions,2
 web/javascript/reference/global_objects/intl/numberformat/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/pluralrules,0
