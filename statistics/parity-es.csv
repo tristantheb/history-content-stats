@@ -1105,7 +1105,7 @@ mdn/writing_guidelines/page_structures/live_samples,2
 mdn/writing_guidelines/page_structures/macros,10
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,null
 mdn/writing_guidelines/page_structures/macros/other,5
-mdn/writing_guidelines/page_structures/page_types,null
+mdn/writing_guidelines/page_structures/page_types,0
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,18
 mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,null
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,null
@@ -1121,7 +1121,7 @@ mdn/writing_guidelines/page_structures/page_types/glossary_page_template,3
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,null
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,null
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,15
-mdn/writing_guidelines/page_structures/page_types/page_type_key,null
+mdn/writing_guidelines/page_structures/page_types/page_type_key,0
 mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,0
 mdn/writing_guidelines/page_structures/polyfills,0
 mdn/writing_guidelines/page_structures/sidebars,0
@@ -8912,7 +8912,7 @@ web/api/uievent/sourcecapabilities,null
 web/api/uievent/uievent,null
 web/api/uievent/view,null
 web/api/uievent/which,null
-web/api/url,9
+web/api/url,10
 web/api/url/canparse_static,null
 web/api/url/createobjecturl_static,null
 web/api/url/hash,null

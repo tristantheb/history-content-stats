@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,11
+mozilla/firefox/experimental_features,13
 mozilla/firefox/releases,null
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -1959,7 +1959,7 @@ mozilla/firefox/releases/147,3
 mozilla/firefox/releases/148,3
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
-mozilla/firefox/releases/150,0
+mozilla/firefox/releases/150,2
 mozilla/firefox/releases/151,1
 mozilla/firefox/releases/152,null
 mozilla/firefox/releases/153,null
@@ -8912,7 +8912,7 @@ web/api/uievent/sourcecapabilities,1
 web/api/uievent/uievent,2
 web/api/uievent/view,0
 web/api/uievent/which,2
-web/api/url,2
+web/api/url,3
 web/api/url/canparse_static,3
 web/api/url/createobjecturl_static,1
 web/api/url/hash,4
@@ -9138,7 +9138,7 @@ web/api/virtualkeyboard/overlayscontent,null
 web/api/virtualkeyboard/show,null
 web/api/virtualkeyboard_api,null
 web/api/visibilitystateentry,null
-web/api/visualviewport,3
+web/api/visualviewport,4
 web/api/visualviewport/height,1
 web/api/visualviewport/offsetleft,1
 web/api/visualviewport/offsettop,1
