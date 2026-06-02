@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,2
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1959,9 +1959,9 @@ mozilla/firefox/releases/147,0
 mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
-mozilla/firefox/releases/150,0
+mozilla/firefox/releases/150,2
 mozilla/firefox/releases/151,0
-mozilla/firefox/releases/152,0
+mozilla/firefox/releases/152,4
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -4705,7 +4705,7 @@ web/api/highlightregistry/entries,0
 web/api/highlightregistry/foreach,0
 web/api/highlightregistry/get,0
 web/api/highlightregistry/has,0
-web/api/highlightregistry/highlightsfrompoint,0
+web/api/highlightregistry/highlightsfrompoint,1
 web/api/highlightregistry/keys,0
 web/api/highlightregistry/set,0
 web/api/highlightregistry/size,0
@@ -6761,8 +6761,8 @@ web/api/performanceresourcetiming/domainlookupend,0
 web/api/performanceresourcetiming/domainlookupstart,0
 web/api/performanceresourcetiming/encodedbodysize,0
 web/api/performanceresourcetiming/fetchstart,0
-web/api/performanceresourcetiming/finalresponseheadersstart,0
-web/api/performanceresourcetiming/firstinterimresponsestart,0
+web/api/performanceresourcetiming/finalresponseheadersstart,1
+web/api/performanceresourcetiming/firstinterimresponsestart,1
 web/api/performanceresourcetiming/initiatortype,0
 web/api/performanceresourcetiming/nexthopprotocol,0
 web/api/performanceresourcetiming/redirectend,0
@@ -8912,7 +8912,7 @@ web/api/uievent/sourcecapabilities,0
 web/api/uievent/uievent,0
 web/api/uievent/view,0
 web/api/uievent/which,0
-web/api/url,0
+web/api/url,1
 web/api/url/canparse_static,0
 web/api/url/createobjecturl_static,0
 web/api/url/hash,0
@@ -9138,7 +9138,7 @@ web/api/virtualkeyboard/overlayscontent,0
 web/api/virtualkeyboard/show,0
 web/api/virtualkeyboard_api,0
 web/api/visibilitystateentry,0
-web/api/visualviewport,0
+web/api/visualviewport,1
 web/api/visualviewport/height,0
 web/api/visualviewport/offsetleft,0
 web/api/visualviewport/offsettop,0
@@ -10422,7 +10422,7 @@ web/css/guides/round_display,0
 web/css/guides/ruby_layout,0
 web/css/guides/scoping,0
 web/css/guides/scroll-driven_animations,0
-web/css/guides/scroll-driven_animations/timeline_insets,0
+web/css/guides/scroll-driven_animations/timeline_insets,1
 web/css/guides/scroll-driven_animations/timeline_range_names,0
 web/css/guides/scroll-driven_animations/timelines,0
 web/css/guides/scroll_anchoring,0
@@ -13518,7 +13518,7 @@ web/media/guides/autoplay,0
 web/media/guides/formats,0
 web/media/guides/formats/audio_codecs,0
 web/media/guides/formats/audio_concepts,0
-web/media/guides/formats/codecs_parameter,0
+web/media/guides/formats/codecs_parameter,1
 web/media/guides/formats/configuring_servers_for_ogg_media,0
 web/media/guides/formats/containers,0
 web/media/guides/formats/image_types,0
@@ -14418,7 +14418,7 @@ webassembly/reference/value_types/f32,0
 webassembly/reference/value_types/f64,0
 webassembly/reference/value_types/funcref,0
 webassembly/reference/value_types/i32,0
-webassembly/reference/value_types/i64,0
+webassembly/reference/value_types/i64,1
 webassembly/reference/value_types/v128,0
 webassembly/reference/variables,0
 webassembly/reference/variables/global.get,0
