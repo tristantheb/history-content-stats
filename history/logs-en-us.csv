@@ -8093,7 +8093,7 @@ web/api/summarizer_api,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/summarizer_api/using,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
 web/api/svg_api,d559e66723de93ce6c59eb5d22a29afca7265c2a,Web APIs
 web/api/svgaelement,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
-web/api/svgaelement/download,acb7e62eb10471075a46e78542cdb4798e82bfe7,Web APIs
+web/api/svgaelement/download,94a841dba1498c685a18e72d041fd9057f302d6c,Web APIs
 web/api/svgaelement/hash,acb7e62eb10471075a46e78542cdb4798e82bfe7,Web APIs
 web/api/svgaelement/host,acb7e62eb10471075a46e78542cdb4798e82bfe7,Web APIs
 web/api/svgaelement/hostname,acb7e62eb10471075a46e78542cdb4798e82bfe7,Web APIs
@@ -13721,6 +13721,7 @@ web/svg/reference/attribute/direction,594ae0d4ffb6326a9529fe366d30ca633309ee30,S
 web/svg/reference/attribute/display,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
 web/svg/reference/attribute/divisor,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/dominant-baseline,85fccefc8066bd49af4ddafc12c77f35265c7e2d,SVG|Attribute
+web/svg/reference/attribute/download,94a841dba1498c685a18e72d041fd9057f302d6c,SVG|Attribute
 web/svg/reference/attribute/dur,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/dx,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
 web/svg/reference/attribute/dy,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
@@ -13889,7 +13890,7 @@ web/svg/reference/attribute/ychannelselector,c2fd97474834e061404b992c8397d4ccc44
 web/svg/reference/attribute/z,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/zoomandpan,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/element,c1564acf160ef4b320fb7b89ab65211b9c50cf1b,SVG|Element
-web/svg/reference/element/a,3ee333bf5e414ac81c452ec10fed7af645c96740,SVG|Element
+web/svg/reference/element/a,94a841dba1498c685a18e72d041fd9057f302d6c,SVG|Element
 web/svg/reference/element/animate,ad9776a6cf53eaf570ac0515402247e82ecefcfe,SVG|Element
 web/svg/reference/element/animatemotion,603d83f1e1cdfd634e2f0b7b939466c7660822d3,SVG|Element
 web/svg/reference/element/animatetransform,12222b32eec33a7411c6de8afc8408d9aa617dd2,SVG|Element
