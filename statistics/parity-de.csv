@@ -8093,7 +8093,7 @@ web/api/summarizer_api,0
 web/api/summarizer_api/using,0
 web/api/svg_api,0
 web/api/svgaelement,0
-web/api/svgaelement/download,0
+web/api/svgaelement/download,1
 web/api/svgaelement/hash,0
 web/api/svgaelement/host,0
 web/api/svgaelement/hostname,0
@@ -13721,6 +13721,7 @@ web/svg/reference/attribute/direction,0
 web/svg/reference/attribute/display,0
 web/svg/reference/attribute/divisor,0
 web/svg/reference/attribute/dominant-baseline,0
+web/svg/reference/attribute/download,null
 web/svg/reference/attribute/dur,0
 web/svg/reference/attribute/dx,0
 web/svg/reference/attribute/dy,0
@@ -13889,7 +13890,7 @@ web/svg/reference/attribute/ychannelselector,0
 web/svg/reference/attribute/z,0
 web/svg/reference/attribute/zoomandpan,0
 web/svg/reference/element,0
-web/svg/reference/element/a,0
+web/svg/reference/element/a,1
 web/svg/reference/element/animate,0
 web/svg/reference/element/animatemotion,0
 web/svg/reference/element/animatetransform,0
