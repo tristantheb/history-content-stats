@@ -8066,7 +8066,7 @@ web/api/subtlecrypto/decrypt,null
 web/api/subtlecrypto/derivebits,null
 web/api/subtlecrypto/derivekey,null
 web/api/subtlecrypto/digest,null
-web/api/subtlecrypto/encrypt,null
+web/api/subtlecrypto/encrypt,0
 web/api/subtlecrypto/exportkey,null
 web/api/subtlecrypto/generatekey,null
 web/api/subtlecrypto/importkey,null
