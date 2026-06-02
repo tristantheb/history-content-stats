@@ -1573,10 +1573,10 @@ mozilla/add-ons/webextensions/api/runtime/sendnativemessage,09109b6f9444d22215ba
 mozilla/add-ons/webextensions/api/runtime/setuninstallurl,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/scripting,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/scripting/contentscriptfilter,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/scripting/executescript,286918035156c33cc4ed073304f4c51ab5cfacfe,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/scripting/executescript,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/scripting/executionworld,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/scripting/getregisteredcontentscripts,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/scripting/injectiontarget,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/scripting/injectiontarget,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/scripting/insertcss,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/scripting/registercontentscripts,425b1e0ef0c91cee5abf780f16452379796c0bd1,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/scripting/registeredcontentscript,05aab3e51dc609cbd66be67516e45d20feeefd0c,Mozilla|Firefox Add-ons
@@ -1645,7 +1645,7 @@ mozilla/add-ons/webextensions/api/tabgroups/update,0ddea08f7bbefccc38ae86977a2d1
 mozilla/add-ons/webextensions/api/tabs,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/capturetab,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/capturevisibletab,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabs/connect,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabs/connect,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/create,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/detectlanguage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/discard,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1688,7 +1688,7 @@ mozilla/add-ons/webextensions/api/tabs/reload,09109b6f9444d22215ba330ec1e64e7398
 mozilla/add-ons/webextensions/api/tabs/remove,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/removecss,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/saveaspdf,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabs/sendmessage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabs/sendmessage,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/sendrequest,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/setzoom,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/setzoomsettings,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1763,15 +1763,15 @@ mozilla/add-ons/webextensions/api/webrequest/getsecurityinfo,09109b6f9444d22215b
 mozilla/add-ons/webextensions/api/webrequest/handlerbehaviorchanged,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/webrequest/httpheaders,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/webrequest/max_handler_behavior_changed_calls_per_10_minutes,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/webrequest/onauthrequired,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/webrequest/onbeforeredirect,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/webrequest/onbeforerequest,a1765c2cad20118be0dad322d3548908787b5791,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/webrequest/onbeforesendheaders,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/webrequest/oncompleted,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/webrequest/onerroroccurred,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/webrequest/onheadersreceived,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/webrequest/onresponsestarted,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/webrequest/onsendheaders,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/webrequest/onauthrequired,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/webrequest/onbeforeredirect,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/webrequest/onbeforerequest,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/webrequest/onbeforesendheaders,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/webrequest/oncompleted,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/webrequest/onerroroccurred,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/webrequest/onheadersreceived,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/webrequest/onresponsestarted,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/webrequest/onsendheaders,ecdff1d43aa1606d354cafc6eadf4b0c33e16352,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/webrequest/requestfilter,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/webrequest/resourcetype,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/webrequest/securityinfo,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -5895,7 +5895,7 @@ web/api/mediakeystatusmap/size,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f,Web APIs
 web/api/mediakeystatusmap/values,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f,Web APIs
 web/api/mediakeysystemaccess,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f,Web APIs
 web/api/mediakeysystemaccess/createmediakeys,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f,Web APIs
-web/api/mediakeysystemaccess/getconfiguration,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f,Web APIs
+web/api/mediakeysystemaccess/getconfiguration,5918123ea64a318165fe489d04c98650bf611efc,Web APIs
 web/api/mediakeysystemaccess/keysystem,b01f35e069ca9d1c343f24b5d755d210c6107164,Web APIs
 web/api/medialist,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
 web/api/medialist/appendmedium,84f8672adab0fdb783d02676c42a2b7ae16b3606,Web APIs
@@ -9652,7 +9652,7 @@ web/api/webvr_api/using_the_webvr_api,bdb97b3e01499ce52f02caa3f51d6dd245a48782,W
 web/api/webvr_api/using_vr_controllers_with_webvr,db01d0c8b4cbf8a4467b1db65e17f6724d0ce710,Web APIs
 web/api/webvtt_api,fb241f60d2c42614b106f3b4647cc6a4eb2e1bc8,Web APIs
 web/api/webvtt_api/web_video_text_tracks_format,4cb9d89a204a9532370693b982e8a3b274a874b1,Web APIs
-web/api/webxr_device_api,832bcb292fdf15ce9ba842f9a5025b5593454a65,Web APIs
+web/api/webxr_device_api,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
 web/api/webxr_device_api/bounded_reference_spaces,4a7f3948e907b117fa2ea190fc6795642c49d624,Web APIs
 web/api/webxr_device_api/cameras,5c5ee35d66ac24bc6513c14f120750c74d779d20,Web APIs
 web/api/webxr_device_api/fundamentals,4f0f7386262363103a3e9cf482bb348d8570b331,Web APIs
@@ -10163,7 +10163,7 @@ web/api/xrrigidtransform/matrix,761b9047d78876cbd153be811efb1aa77b419877,Web API
 web/api/xrrigidtransform/orientation,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrrigidtransform/position,e561fa67af347b9770b359ba93e8579d2a540682,Web APIs
 web/api/xrrigidtransform/xrrigidtransform,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
-web/api/xrsession,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
+web/api/xrsession,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
 web/api/xrsession/cancelanimationframe,8a9085b96d0135920be9b281d4500ff72a7a8369,Web APIs
 web/api/xrsession/depthdataformat,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrsession/depthusage,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
@@ -10190,6 +10190,7 @@ web/api/xrsession/squeezeend_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web 
 web/api/xrsession/squeezestart_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/xrsession/updaterenderstate,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/xrsession/visibilitychange_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
+web/api/xrsession/visibilitymaskchange_event,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
 web/api/xrsession/visibilitystate,8a9085b96d0135920be9b281d4500ff72a7a8369,Web APIs
 web/api/xrsessionevent,9a4005caa5cc13f5174e3b8981eeec5631ed83d1,Web APIs
 web/api/xrsessionevent/session,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
@@ -10206,8 +10207,9 @@ web/api/xrtransientinputhittestresult/inputsource,89c435da452257b944b403cc9e4503
 web/api/xrtransientinputhittestresult/results,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrtransientinputhittestsource,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web APIs
 web/api/xrtransientinputhittestsource/cancel,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
-web/api/xrview,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web APIs
+web/api/xrview,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
 web/api/xrview/eye,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
+web/api/xrview/index,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
 web/api/xrview/isfirstpersonobserver,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrview/projectionmatrix,d666d5ed812b56cbc9c6cba853494976da1f1dd2,Web APIs
 web/api/xrview/recommendedviewportscale,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
@@ -10220,6 +10222,13 @@ web/api/xrviewport/height,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrviewport/width,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrviewport/x,8a9085b96d0135920be9b281d4500ff72a7a8369,Web APIs
 web/api/xrviewport/y,4d51a212bfda5ce9978d162caf5532d155f7eb0a,Web APIs
+web/api/xrvisibilitymaskchangeevent,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
+web/api/xrvisibilitymaskchangeevent/eye,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
+web/api/xrvisibilitymaskchangeevent/index,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
+web/api/xrvisibilitymaskchangeevent/indices,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
+web/api/xrvisibilitymaskchangeevent/session,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
+web/api/xrvisibilitymaskchangeevent/vertices,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
+web/api/xrvisibilitymaskchangeevent/xrvisibilitymaskchangeevent,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
 web/api/xrwebglbinding,f8553485fe1d9ab48b9f4816385b43bcbb388c0e,Web APIs
 web/api/xrwebglbinding/createcubelayer,76637f9517e4b0a57a3096a36f66b5e33a3f1051,Web APIs
 web/api/xrwebglbinding/createcylinderlayer,76637f9517e4b0a57a3096a36f66b5e33a3f1051,Web APIs
@@ -10881,7 +10890,7 @@ web/css/reference/properties/justify-content,bcbb4bd6a80292c0663b723d5466759cfaa
 web/css/reference/properties/justify-items,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/justify-self,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/letter-spacing,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/letter-spacing,d62aeb53943b4861f18a3e895d32b020e09ce0aa,CSS|Properties
 web/css/reference/properties/lighting-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/line-break,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/line-clamp,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
