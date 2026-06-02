@@ -10190,6 +10190,7 @@ web/api/xrsession/squeezeend_event,null
 web/api/xrsession/squeezestart_event,null
 web/api/xrsession/updaterenderstate,null
 web/api/xrsession/visibilitychange_event,null
+web/api/xrsession/visibilitymaskchange_event,null
 web/api/xrsession/visibilitystate,null
 web/api/xrsessionevent,null
 web/api/xrsessionevent/session,null
@@ -10208,6 +10209,7 @@ web/api/xrtransientinputhittestsource,null
 web/api/xrtransientinputhittestsource/cancel,null
 web/api/xrview,null
 web/api/xrview/eye,null
+web/api/xrview/index,null
 web/api/xrview/isfirstpersonobserver,null
 web/api/xrview/projectionmatrix,null
 web/api/xrview/recommendedviewportscale,null
@@ -10220,6 +10222,13 @@ web/api/xrviewport/height,null
 web/api/xrviewport/width,null
 web/api/xrviewport/x,null
 web/api/xrviewport/y,null
+web/api/xrvisibilitymaskchangeevent,null
+web/api/xrvisibilitymaskchangeevent/eye,null
+web/api/xrvisibilitymaskchangeevent/index,null
+web/api/xrvisibilitymaskchangeevent/indices,null
+web/api/xrvisibilitymaskchangeevent/session,null
+web/api/xrvisibilitymaskchangeevent/vertices,null
+web/api/xrvisibilitymaskchangeevent/xrvisibilitymaskchangeevent,null
 web/api/xrwebglbinding,null
 web/api/xrwebglbinding/createcubelayer,null
 web/api/xrwebglbinding/createcylinderlayer,null
