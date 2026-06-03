@@ -4967,7 +4967,7 @@ web/api/htmlformelement/reset,2
 web/api/htmlformelement/reset_event,3
 web/api/htmlformelement/submit,2
 web/api/htmlformelement/submit_event,8
-web/api/htmlformelement/target,2
+web/api/htmlformelement/target,3
 web/api/htmlframesetelement,3
 web/api/htmlgeolocationelement,2
 web/api/htmlgeolocationelement/autolocate,1
