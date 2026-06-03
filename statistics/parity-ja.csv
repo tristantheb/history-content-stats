@@ -11830,7 +11830,7 @@ web/http/reference/headers/authorization,1
 web/http/reference/headers/available-dictionary,null
 web/http/reference/headers/cache-control,2
 web/http/reference/headers/clear-site-data,9
-web/http/reference/headers/connection,null
+web/http/reference/headers/connection,0
 web/http/reference/headers/content-digest,null
 web/http/reference/headers/content-disposition,1
 web/http/reference/headers/content-dpr,null
