@@ -2368,7 +2368,7 @@ web/api/attribution_reporting_api/generating_reports,3
 web/api/attribution_reporting_api/registering_sources,2
 web/api/attribution_reporting_api/registering_triggers,4
 web/api/audio_output_devices_api,7
-web/api/audio_session_api,null
+web/api/audio_session_api,0
 web/api/audiobuffer,2
 web/api/audiobuffer/audiobuffer,2
 web/api/audiobuffer/copyfromchannel,1
@@ -11891,7 +11891,7 @@ web/http/reference/headers/expires,null
 web/http/reference/headers/forwarded,5
 web/http/reference/headers/from,null
 web/http/reference/headers/host,0
-web/http/reference/headers/idempotency-key,null
+web/http/reference/headers/idempotency-key,0
 web/http/reference/headers/if-match,null
 web/http/reference/headers/if-modified-since,null
 web/http/reference/headers/if-none-match,null
@@ -12031,7 +12031,7 @@ web/http/reference/headers/upgrade-insecure-requests,null
 web/http/reference/headers/use-as-dictionary,null
 web/http/reference/headers/user-agent,0
 web/http/reference/headers/user-agent/firefox,7
-web/http/reference/headers/vary,null
+web/http/reference/headers/vary,0
 web/http/reference/headers/via,null
 web/http/reference/headers/viewport-width,null
 web/http/reference/headers/want-content-digest,null
@@ -12042,7 +12042,7 @@ web/http/reference/headers/www-authenticate,3
 web/http/reference/headers/x-content-type-options,2
 web/http/reference/headers/x-dns-prefetch-control,null
 web/http/reference/headers/x-forwarded-for,0
-web/http/reference/headers/x-forwarded-host,null
+web/http/reference/headers/x-forwarded-host,0
 web/http/reference/headers/x-forwarded-proto,null
 web/http/reference/headers/x-frame-options,4
 web/http/reference/headers/x-permitted-cross-domain-policies,null
