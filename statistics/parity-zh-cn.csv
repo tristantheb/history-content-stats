@@ -5835,7 +5835,7 @@ web/api/media_capabilities_api/using_the_media_capabilities_api,null
 web/api/media_capture_and_streams_api,4
 web/api/media_capture_and_streams_api/constraints,null
 web/api/media_capture_and_streams_api/taking_still_photos,null
-web/api/media_session_api,null
+web/api/media_session_api,0
 web/api/media_source_extensions_api,null
 web/api/media_source_extensions_api/dash_adaptive_streaming,null
 web/api/media_source_extensions_api/transcoding_assets_for_mse,null
