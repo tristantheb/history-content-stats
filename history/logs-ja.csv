@@ -1634,6 +1634,7 @@ web/api/attribution_reporting_api,f5fd4776d1c0cd6e4cffc9649f7c4f44badb7ae2
 web/api/attribution_reporting_api/registering_sources,d22284cbba8b64afd6ad8c965d4ac2c927c59550
 web/api/attribution_reporting_api/registering_triggers,d22284cbba8b64afd6ad8c965d4ac2c927c59550
 web/api/audio_output_devices_api,d458c221e219591afaa91beafd544d5eb40e790b
+web/api/audio_session_api,7afb60028792bba6b9c809867bc6c5304f9868a6
 web/api/audiobuffer/audiobuffer,135b8311a5e3d12789e8421845be3ce026ef72b8
 web/api/audiobuffer/copyfromchannel,135b8311a5e3d12789e8421845be3ce026ef72b8
 web/api/audiobuffer/copytochannel,135b8311a5e3d12789e8421845be3ce026ef72b8
@@ -8198,6 +8199,7 @@ web/http/reference/headers/expires,no_hash_commit
 web/http/reference/headers/forwarded,206723d78eed4637dae1f413ce7d0876ac94bfcb
 web/http/reference/headers/from,no_hash_commit
 web/http/reference/headers/host,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/idempotency-key,2da6c8a65715a0ce3785e88d8e293c8dc786cb49
 web/http/reference/headers/if-match,no_hash_commit
 web/http/reference/headers/if-modified-since,no_hash_commit
 web/http/reference/headers/if-none-match,no_hash_commit
@@ -8273,14 +8275,14 @@ web/http/reference/headers/upgrade-insecure-requests,no_hash_commit
 web/http/reference/headers/upgrade,no_hash_commit
 web/http/reference/headers/user-agent/firefox,b1e1430dd3b1d2e01197231ab0fa6047ed8a221b
 web/http/reference/headers/user-agent,0b852c3f5c46b69a57d23e860a833f6830951793
-web/http/reference/headers/vary,no_hash_commit
+web/http/reference/headers/vary,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/via,no_hash_commit
 web/http/reference/headers/warning,no_hash_commit
 web/http/reference/headers/www-authenticate,ee756fd51ccbc4820a4b334aa753648650ad1d51
 web/http/reference/headers/x-content-type-options,d5c3db4df1e063769b8113567f4558ad4298b00b
 web/http/reference/headers/x-dns-prefetch-control,no_hash_commit
 web/http/reference/headers/x-forwarded-for,ad5b5e31f81795d692e66dadb7818ba8b220ad15
-web/http/reference/headers/x-forwarded-host,no_hash_commit
+web/http/reference/headers/x-forwarded-host,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/x-forwarded-proto,no_hash_commit
 web/http/reference/headers/x-frame-options,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/x-xss-protection,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
