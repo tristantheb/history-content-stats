@@ -1067,7 +1067,7 @@ mdn/community/pull_requests,0
 mdn/community/roles_teams,0
 mdn/community/translated_content,0
 mdn/guides,0
-mdn/kitchensink,null
+mdn/kitchensink,0
 mdn/tutorials,0
 mdn/writing_guidelines,0
 mdn/writing_guidelines/attrib_copyright_license,0
@@ -1121,14 +1121,14 @@ mdn/writing_guidelines/page_structures/page_types/glossary_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,0
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,0
-mdn/writing_guidelines/page_structures/page_types/page_type_key,null
-mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,null
+mdn/writing_guidelines/page_structures/page_types/page_type_key,0
+mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,0
 mdn/writing_guidelines/page_structures/polyfills,0
 mdn/writing_guidelines/page_structures/sidebars,0
 mdn/writing_guidelines/page_structures/specification_tables,0
 mdn/writing_guidelines/page_structures/syntax_sections,0
-mdn/writing_guidelines/what_we_write,16
-mdn/writing_guidelines/writing_style_guide,10
+mdn/writing_guidelines/what_we_write,0
+mdn/writing_guidelines/writing_style_guide,0
 mozilla,1
 mozilla/add-ons,null
 mozilla/add-ons/contact_us,null
