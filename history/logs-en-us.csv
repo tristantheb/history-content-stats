@@ -3869,7 +3869,7 @@ web/api/element/before,8374946642c18a9cc4bf510de767011124e832a2,Web APIs
 web/api/element/beforeinput_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/element/beforematch_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/element/beforescriptexecute_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
-web/api/element/beforexrselect_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
+web/api/element/beforexrselect_event,f18c76e518179f2facc688464c5d382bf5a9b536,Web APIs
 web/api/element/blur_event,8ee7b342ad04d3414a678080987f806bb1ea5afa,Web APIs
 web/api/element/checkvisibility,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/element/childelementcount,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf,Web APIs
@@ -3995,7 +3995,7 @@ web/api/element/setattributenode,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Web AP
 web/api/element/setattributenodens,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/element/setattributens,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Web APIs
 web/api/element/setcapture,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
-web/api/element/sethtml,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
+web/api/element/sethtml,3e471e05c2529b61634416e483ef415489d7d77a,Web APIs
 web/api/element/sethtmlunsafe,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/element/setpointercapture,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
 web/api/element/shadowroot,1099567e480ad28fa86729e02a9fa8fa4cea9331,Web APIs
@@ -5133,7 +5133,7 @@ web/api/htmlmapelement/areas,aff319cd81d10cfda31b13adb3263deafb284b20,Web APIs
 web/api/htmlmapelement/name,c2441279b7956925d28373345838436b1fa2c78c,Web APIs
 web/api/htmlmarqueeelement,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
 web/api/htmlmediaelement,3d7c7d4e151ff1b578bef4eff10c201b761a9d7d,Web APIs
-web/api/htmlmediaelement/abort_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
+web/api/htmlmediaelement/abort_event,9032b617a2e2904618291c86a48e56e298e474bd,Web APIs
 web/api/htmlmediaelement/addtexttrack,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc,Web APIs
 web/api/htmlmediaelement/audiotracks,b5437b737639d6952d18b95ebd1045ed73e4bfa7,Web APIs
 web/api/htmlmediaelement/autoplay,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -10475,6 +10475,7 @@ web/css/guides/values_and_units/using_typed_arithmetic,85fccefc8066bd49af4ddafc1
 web/css/guides/values_and_units/value_definition_syntax,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/view_transitions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/viewport,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/webxr_dom_overlays,f18c76e518179f2facc688464c5d382bf5a9b536,CSS|Guides
 web/css/guides/writing_modes,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
 web/css/guides/writing_modes/vertical_controls,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
 web/css/guides/writing_modes/writing_mode_systems,c53bfa01f3bf436d486f4032c16f592855a2af2c,CSS|Guides
@@ -11240,7 +11241,7 @@ web/css/reference/selectors/_colon_valid,bf90d24ddf56e3f60df25fcbc0d4e3e08400479
 web/css/reference/selectors/_colon_visited,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_volume-locked,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_where,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
-web/css/reference/selectors/_colon_xr-overlay,c53bfa01f3bf436d486f4032c16f592855a2af2c,CSS|Selectors
+web/css/reference/selectors/_colon_xr-overlay,f18c76e518179f2facc688464c5d382bf5a9b536,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-moz-color-swatch,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-moz-focus-inner,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-moz-list-bullet,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
@@ -13527,7 +13528,7 @@ web/media/guides/autoplay,6036cd414b2214f85901158bdf3e3a96123d4553,Media|Guides
 web/media/guides/formats,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
 web/media/guides/formats/audio_codecs,c53bfa01f3bf436d486f4032c16f592855a2af2c,Media|Guides
 web/media/guides/formats/audio_concepts,26e46f8c13ebea65dc65a6e99e51e8fa4d5d619d,Media|Guides
-web/media/guides/formats/codecs_parameter,809fe4de4359a03db072d9abae18b0bf26c4ab77,Media|Guides
+web/media/guides/formats/codecs_parameter,8d04337d86d4aafa50b7798995a6b113ea7860e4,Media|Guides
 web/media/guides/formats/configuring_servers_for_ogg_media,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Media|Guides
 web/media/guides/formats/containers,a8ba4ed3061cddb88d40977dbb855cf27cedcfc2,Media|Guides
 web/media/guides/formats/image_types,d559e66723de93ce6c59eb5d22a29afca7265c2a,Media|Guides

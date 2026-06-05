@@ -5133,7 +5133,7 @@ web/api/htmlmapelement/areas,0
 web/api/htmlmapelement/name,0
 web/api/htmlmarqueeelement,0
 web/api/htmlmediaelement,0
-web/api/htmlmediaelement/abort_event,0
+web/api/htmlmediaelement/abort_event,1
 web/api/htmlmediaelement/addtexttrack,0
 web/api/htmlmediaelement/audiotracks,0
 web/api/htmlmediaelement/autoplay,0
@@ -10475,6 +10475,7 @@ web/css/guides/values_and_units/using_typed_arithmetic,null
 web/css/guides/values_and_units/value_definition_syntax,null
 web/css/guides/view_transitions,null
 web/css/guides/viewport,null
+web/css/guides/webxr_dom_overlays,null
 web/css/guides/writing_modes,null
 web/css/guides/writing_modes/vertical_controls,null
 web/css/guides/writing_modes/writing_mode_systems,null
@@ -11240,7 +11241,7 @@ web/css/reference/selectors/_colon_valid,0
 web/css/reference/selectors/_colon_visited,0
 web/css/reference/selectors/_colon_volume-locked,0
 web/css/reference/selectors/_colon_where,0
-web/css/reference/selectors/_colon_xr-overlay,0
+web/css/reference/selectors/_colon_xr-overlay,1
 web/css/reference/selectors/_doublecolon_-moz-color-swatch,0
 web/css/reference/selectors/_doublecolon_-moz-focus-inner,0
 web/css/reference/selectors/_doublecolon_-moz-list-bullet,0
