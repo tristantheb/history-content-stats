@@ -3079,8 +3079,8 @@ web/api/cssanimation,0
 web/api/cssanimation/animationname,0
 web/api/cssconditionrule,0
 web/api/cssconditionrule/conditiontext,0
-web/api/csscontainerrule,1
-web/api/csscontainerrule/conditions,1
+web/api/csscontainerrule,0
+web/api/csscontainerrule/conditions,0
 web/api/csscontainerrule/containername,0
 web/api/csscontainerrule/containerquery,0
 web/api/csscounterstylerule,0
@@ -7096,7 +7096,7 @@ web/api/request/bytes,0
 web/api/request/cache,0
 web/api/request/clone,0
 web/api/request/credentials,0
-web/api/request/destination,1
+web/api/request/destination,0
 web/api/request/duplex,0
 web/api/request/formdata,0
 web/api/request/headers,0
@@ -10209,7 +10209,7 @@ web/api/xrtransientinputhittestsource,0
 web/api/xrtransientinputhittestsource/cancel,0
 web/api/xrview,0
 web/api/xrview/eye,0
-web/api/xrview/index,1
+web/api/xrview/index,0
 web/api/xrview/isfirstpersonobserver,0
 web/api/xrview/projectionmatrix,0
 web/api/xrview/recommendedviewportscale,0
@@ -10222,13 +10222,13 @@ web/api/xrviewport/height,0
 web/api/xrviewport/width,0
 web/api/xrviewport/x,0
 web/api/xrviewport/y,0
-web/api/xrvisibilitymaskchangeevent,1
-web/api/xrvisibilitymaskchangeevent/eye,1
-web/api/xrvisibilitymaskchangeevent/index,1
-web/api/xrvisibilitymaskchangeevent/indices,1
-web/api/xrvisibilitymaskchangeevent/session,1
-web/api/xrvisibilitymaskchangeevent/vertices,1
-web/api/xrvisibilitymaskchangeevent/xrvisibilitymaskchangeevent,1
+web/api/xrvisibilitymaskchangeevent,0
+web/api/xrvisibilitymaskchangeevent/eye,0
+web/api/xrvisibilitymaskchangeevent/index,0
+web/api/xrvisibilitymaskchangeevent/indices,0
+web/api/xrvisibilitymaskchangeevent/session,0
+web/api/xrvisibilitymaskchangeevent/vertices,0
+web/api/xrvisibilitymaskchangeevent/xrvisibilitymaskchangeevent,0
 web/api/xrwebglbinding,0
 web/api/xrwebglbinding/createcubelayer,0
 web/api/xrwebglbinding/createcylinderlayer,0
@@ -12660,7 +12660,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,0
 web/javascript/reference/global_objects/isfinite,0
 web/javascript/reference/global_objects/isnan,0
-web/javascript/reference/global_objects/iterator,1
+web/javascript/reference/global_objects/iterator,0
 web/javascript/reference/global_objects/iterator/concat,0
 web/javascript/reference/global_objects/iterator/drop,0
 web/javascript/reference/global_objects/iterator/every,0
@@ -12669,7 +12669,7 @@ web/javascript/reference/global_objects/iterator/find,0
 web/javascript/reference/global_objects/iterator/flatmap,0
 web/javascript/reference/global_objects/iterator/foreach,0
 web/javascript/reference/global_objects/iterator/from,0
-web/javascript/reference/global_objects/iterator/includes,1
+web/javascript/reference/global_objects/iterator/includes,0
 web/javascript/reference/global_objects/iterator/iterator,0
 web/javascript/reference/global_objects/iterator/map,0
 web/javascript/reference/global_objects/iterator/reduce,0
