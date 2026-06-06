@@ -7096,7 +7096,7 @@ web/api/request/bytes,0
 web/api/request/cache,0
 web/api/request/clone,0
 web/api/request/credentials,0
-web/api/request/destination,1
+web/api/request/destination,2
 web/api/request/duplex,0
 web/api/request/formdata,0
 web/api/request/headers,0
@@ -12660,7 +12660,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,0
 web/javascript/reference/global_objects/isfinite,0
 web/javascript/reference/global_objects/isnan,0
-web/javascript/reference/global_objects/iterator,1
+web/javascript/reference/global_objects/iterator,2
 web/javascript/reference/global_objects/iterator/concat,0
 web/javascript/reference/global_objects/iterator/drop,0
 web/javascript/reference/global_objects/iterator/every,1
