@@ -3079,7 +3079,7 @@ web/api/cssanimation,0
 web/api/cssanimation/animationname,0
 web/api/cssconditionrule,null
 web/api/cssconditionrule/conditiontext,null
-web/api/csscontainerrule,5
+web/api/csscontainerrule,6
 web/api/csscontainerrule/conditions,null
 web/api/csscontainerrule/containername,6
 web/api/csscontainerrule/containerquery,4
@@ -4736,7 +4736,7 @@ web/api/html_drag_and_drop_api/drag_data_store,0
 web/api/html_drag_and_drop_api/drag_operations,16
 web/api/html_drag_and_drop_api/file_drag_and_drop,0
 web/api/html_drag_and_drop_api/kanban_board,0
-web/api/html_sanitizer_api,null
+web/api/html_sanitizer_api,0
 web/api/html_sanitizer_api/default_sanitizer_configuration,null
 web/api/html_sanitizer_api/using_the_html_sanitizer_api,null
 web/api/htmlallcollection,1
@@ -7096,7 +7096,7 @@ web/api/request/bytes,1
 web/api/request/cache,2
 web/api/request/clone,2
 web/api/request/credentials,2
-web/api/request/destination,8
+web/api/request/destination,9
 web/api/request/duplex,0
 web/api/request/formdata,1
 web/api/request/headers,1
@@ -11610,7 +11610,7 @@ web/html/reference/elements/hgroup,3
 web/html/reference/elements/hr,2
 web/html/reference/elements/html,1
 web/html/reference/elements/i,4
-web/html/reference/elements/iframe,9
+web/html/reference/elements/iframe,0
 web/html/reference/elements/img,1
 web/html/reference/elements/input,0
 web/html/reference/elements/input/button,4
@@ -12660,7 +12660,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,6
 web/javascript/reference/global_objects/isfinite,0
 web/javascript/reference/global_objects/isnan,0
-web/javascript/reference/global_objects/iterator,2
+web/javascript/reference/global_objects/iterator,3
 web/javascript/reference/global_objects/iterator/concat,0
 web/javascript/reference/global_objects/iterator/drop,0
 web/javascript/reference/global_objects/iterator/every,2
