@@ -9610,7 +9610,7 @@ web/api/websocketstream/closed,1
 web/api/websocketstream/opened,1
 web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,1
-web/api/webtransport,null
+web/api/webtransport,0
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
@@ -10730,7 +10730,7 @@ web/css/reference/properties/box-direction,null
 web/css/reference/properties/box-flex,null
 web/css/reference/properties/box-flex-group,null
 web/css/reference/properties/box-lines,null
-web/css/reference/properties/box-ordinal-group,null
+web/css/reference/properties/box-ordinal-group,0
 web/css/reference/properties/box-orient,null
 web/css/reference/properties/box-pack,null
 web/css/reference/properties/box-shadow,3
