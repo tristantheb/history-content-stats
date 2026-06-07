@@ -871,7 +871,7 @@ learn_web_development/core/text_styling/typesetting_a_homepage,8
 learn_web_development/core/text_styling/web_fonts,10
 learn_web_development/core/version_control,7
 learn_web_development/educators,3
-learn_web_development/extensions,2
+learn_web_development/extensions,0
 learn_web_development/extensions/advanced_javascript_objects,0
 learn_web_development/extensions/advanced_javascript_objects/adding_bouncing_balls_features,6
 learn_web_development/extensions/advanced_javascript_objects/classes_in_javascript,4
@@ -9286,7 +9286,7 @@ web/api/webcodecs_api,null
 web/api/webcodecs_api/codec_selection,null
 web/api/webcodecs_api/using_the_webcodecs_api,null
 web/api/webcodecs_api/video_processing_concepts,null
-web/api/webgl2renderingcontext,null
+web/api/webgl2renderingcontext,0
 web/api/webgl2renderingcontext/beginquery,null
 web/api/webgl2renderingcontext/begintransformfeedback,null
 web/api/webgl2renderingcontext/bindbufferbase,null
@@ -9429,7 +9429,7 @@ web/api/webglobject,3
 web/api/webglprogram,2
 web/api/webglquery,null
 web/api/webglrenderbuffer,3
-web/api/webglrenderingcontext,3
+web/api/webglrenderingcontext,0
 web/api/webglrenderingcontext/activetexture,1
 web/api/webglrenderingcontext/attachshader,4
 web/api/webglrenderingcontext/bindattriblocation,null
@@ -9541,7 +9541,7 @@ web/api/webglrenderingcontext/texparameter,null
 web/api/webglrenderingcontext/texsubimage2d,null
 web/api/webglrenderingcontext/uniform,null
 web/api/webglrenderingcontext/uniformmatrix,null
-web/api/webglrenderingcontext/unpackcolorspace,5
+web/api/webglrenderingcontext/unpackcolorspace,0
 web/api/webglrenderingcontext/useprogram,null
 web/api/webglrenderingcontext/validateprogram,null
 web/api/webglrenderingcontext/vertexattrib,null
