@@ -11698,7 +11698,7 @@ web/html/reference/elements/style,0
 web/html/reference/elements/sub,4
 web/html/reference/elements/summary,0
 web/html/reference/elements/sup,3
-web/html/reference/elements/table,6
+web/html/reference/elements/table,0
 web/html/reference/elements/tbody,0
 web/html/reference/elements/td,0
 web/html/reference/elements/template,0
@@ -13557,7 +13557,7 @@ web/performance/guides/understanding_latency,0
 web/privacy,4
 web/privacy/guides,0
 web/privacy/guides/bounce_tracking_mitigations,null
-web/privacy/guides/firefox_tracking_protection,null
+web/privacy/guides/firefox_tracking_protection,0
 web/privacy/guides/privacy_sandbox,null
 web/privacy/guides/privacy_sandbox/enrollment,null
 web/privacy/guides/privacy_sandbox/partitioned_cookies,null
