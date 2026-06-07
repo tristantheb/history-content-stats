@@ -6280,6 +6280,7 @@ web/api/websocketstream,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websocketstream/opened,702cd9e4d2834e13aea345943efc8d0c03d92ec9
 web/api/websocketstream/url,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websocketstream/websocketstream,7a418e5d057adb45a0c7c4ec3b03baa8c3be18f4
+web/api/webtransport,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa
 web/api/webtransport_api,30c9f71e6a6cac4d894688cabf7e4b50af87cfe5
 web/api/webusb_api,f7dae62645a2c735ed6f6ed63f664bf279fdfc4b
 web/api/webvr_api/concepts,7455f0c585ea29fa85ea09e11716b70f76241f5b
@@ -7103,7 +7104,7 @@ web/css/reference/properties/box-direction,no_hash_commit
 web/css/reference/properties/box-flex-group,no_hash_commit
 web/css/reference/properties/box-flex,no_hash_commit
 web/css/reference/properties/box-lines,no_hash_commit
-web/css/reference/properties/box-ordinal-group,no_hash_commit
+web/css/reference/properties/box-ordinal-group,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/box-orient,no_hash_commit
 web/css/reference/properties/box-pack,no_hash_commit
 web/css/reference/properties/box-shadow,33094d735e90b4dcae5733331b79c51fee997410
