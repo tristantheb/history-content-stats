@@ -10949,7 +10949,7 @@ web/css/reference/properties/min-block-size,bcbb4bd6a80292c0663b723d5466759cfaaa
 web/css/reference/properties/min-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/min-inline-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/min-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/mix-blend-mode,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/mix-blend-mode,3a1539b859a7e1b1daedd1880c610b71debde782,CSS|Properties
 web/css/reference/properties/object-fit,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/object-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/object-view-box,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11311,7 +11311,7 @@ web/css/reference/selectors/namespace_separator,33094d735e90b4dcae5733331b79c51f
 web/css/reference/selectors/nesting_selector,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
 web/css/reference/selectors/next-sibling_combinator,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
 web/css/reference/selectors/pseudo-classes,a75edf682e5e346b4f97582db6cbccaae800ef73,CSS|Selectors
-web/css/reference/selectors/pseudo-elements,21d2342d16ed78d6c72c66a71599125eb2405a31,CSS|Selectors
+web/css/reference/selectors/pseudo-elements,bc294cca926abf68e1cbf8026f0bae1bf6a95325,CSS|Selectors
 web/css/reference/selectors/selector_list,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
 web/css/reference/selectors/subsequent-sibling_combinator,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
 web/css/reference/selectors/type_selectors,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
