@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1961,7 +1961,7 @@ mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
-mozilla/firefox/releases/152,0
+mozilla/firefox/releases/152,1
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -11105,8 +11105,8 @@ web/css/reference/properties/text-transform,0
 web/css/reference/properties/text-underline-offset,0
 web/css/reference/properties/text-underline-position,0
 web/css/reference/properties/text-wrap,0
-web/css/reference/properties/text-wrap-mode,0
-web/css/reference/properties/text-wrap-style,0
+web/css/reference/properties/text-wrap-mode,1
+web/css/reference/properties/text-wrap-style,1
 web/css/reference/properties/timeline-scope,0
 web/css/reference/properties/top,0
 web/css/reference/properties/touch-action,0
@@ -13927,7 +13927,7 @@ web/svg/reference/element/fetile,0
 web/svg/reference/element/feturbulence,0
 web/svg/reference/element/filter,0
 web/svg/reference/element/foreignobject,0
-web/svg/reference/element/g,0
+web/svg/reference/element/g,1
 web/svg/reference/element/image,0
 web/svg/reference/element/line,0
 web/svg/reference/element/lineargradient,0
