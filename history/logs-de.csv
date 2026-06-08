@@ -1894,7 +1894,7 @@ mozilla/add-ons/webextensions/working_with_files,09109b6f9444d22215ba330ec1e64e7
 mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b123e98f5eeb7e43923
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9
-mozilla/firefox/experimental_features,fd64ce7645c6baa06a49662ece68a94f9667f5c0
+mozilla/firefox/experimental_features,2a8ddaf5bc1e331d7ff3e3e91d0eeabccaf9549a
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -1959,7 +1959,7 @@ mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f
 mozilla/firefox/releases/151,d9835ea7d100660d8d845f358277d5b25b825a20
-mozilla/firefox/releases/152,fd64ce7645c6baa06a49662ece68a94f9667f5c0
+mozilla/firefox/releases/152,2a8ddaf5bc1e331d7ff3e3e91d0eeabccaf9549a
 mozilla/firefox/releases/153,8039a6d2a26369ddf7b2a7dbcaf67d89081210e8
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
@@ -11004,7 +11004,7 @@ web/css/reference/properties/position-try-fallbacks,bcbb4bd6a80292c0663b723d5466
 web/css/reference/properties/position-try-order,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/position-try,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/position-visibility,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/position,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/position,14a91e1ff94b106c2e2a83ce252dbd380c38d7ff
 web/css/reference/properties/print-color-adjust,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/quotes,652d220f00bede14baef1fc755003a3bcfd2573c
 web/css/reference/properties/r,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -11103,8 +11103,8 @@ web/css/reference/properties/text-spacing-trim,bcbb4bd6a80292c0663b723d5466759cf
 web/css/reference/properties/text-transform,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/text-underline-offset,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/text-underline-position,a516a9818e8cef06c626d436ee1d73fc6d87ec51
-web/css/reference/properties/text-wrap-mode,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/text-wrap-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/text-wrap-mode,7d82de65fb43700d2053f13d8344ec4a78759b2c
+web/css/reference/properties/text-wrap-style,7d82de65fb43700d2053f13d8344ec4a78759b2c
 web/css/reference/properties/text-wrap,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/timeline-scope,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/top,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -13925,7 +13925,7 @@ web/svg/reference/element/fetile,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/feturbulence,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/filter,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/foreignobject,ac806e34aba086be141689c64dc4dd73636fbd62
-web/svg/reference/element/g,ac806e34aba086be141689c64dc4dd73636fbd62
+web/svg/reference/element/g,156a28c0e9cac5adf880520f5fb43d7b3d5186e7
 web/svg/reference/element/image,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/element,c1564acf160ef4b320fb7b89ab65211b9c50cf1b
 web/svg/reference/element/line,ac806e34aba086be141689c64dc4dd73636fbd62
