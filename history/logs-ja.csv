@@ -92,7 +92,7 @@ glossary/boolean/javascript,53e776eeb25d24e413d7a404257faebe1b7ce1be
 glossary/bounding_box,no_hash_commit
 glossary/breadcrumb,56c7d77cdb42a21cdd1b7ca7767c9d0bf8b7462e
 glossary/brotli_compression,a0e987d407b31560bde1f982520ee10103db4ba0
-glossary/browser,no_hash_commit
+glossary/browser,74e7902b0875b6378d77df6d2d925a2d09d19f5d
 glossary/browsing_context,070ea0f4ceb3264e21253f63647e12a09bbdfd60
 glossary/buffer,no_hash_commit
 glossary/bun,2547f622337d6cbf8c3794776b17ed377d6aad57
@@ -150,7 +150,7 @@ glossary/cors,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 glossary/crawler,no_hash_commit
 glossary/credential,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/crlf,no_hash_commit
-glossary/cross-site_scripting,no_hash_commit
+glossary/cross-site_scripting,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/cross_axis,50e5e8a9b8a6b7d0dd9877610c9639d8b90f329f
 glossary/crud,no_hash_commit
 glossary/cryptanalysis,no_hash_commit
@@ -316,7 +316,7 @@ glossary/isp,no_hash_commit
 glossary/itu,no_hash_commit
 glossary/jank,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/java,5b2d7042b0f02dd7f6ecc2b2dfbb169bae8a4724
-glossary/javascript,no_hash_commit
+glossary/javascript,6722199b4d63fad3c33db1146af380fc98b6c202
 glossary/jpeg,no_hash_commit
 glossary/json,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/just_in_time_compilation,2547f622337d6cbf8c3794776b17ed377d6aad57
@@ -430,7 +430,7 @@ glossary/promise,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/property/css,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 glossary/property,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/property/javascript,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
-glossary/protocol,no_hash_commit
+glossary/protocol,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/prototype-based_programming,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/prototype,no_hash_commit
 glossary/proxy_server,ada5fa5ef15eadd44b549ecf906423b4a2092f34
@@ -592,7 +592,7 @@ glossary/ux,no_hash_commit
 glossary/validator,no_hash_commit
 glossary/value,ba6c97a742adb97092d5b20804bf9c462f3b84f3
 glossary/variable,no_hash_commit
-glossary/vendor_prefix,no_hash_commit
+glossary/vendor_prefix,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 glossary/viewport,9be502ee0f8b030908e59d30884190281acb8054
 glossary/visual_viewport,no_hash_commit
 glossary/void_element,af32ed24e243178cd060769b7c707afcc271f9f6
@@ -869,7 +869,7 @@ learn_web_development/extensions/server-side/first_steps,48d220a8cffdfd5f088f8ca
 learn_web_development/extensions/server-side/first_steps/introduction,4bddde3e2b86234eb4594809082873fc5bf00ee3
 learn_web_development/extensions/server-side/first_steps/web_frameworks,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d
 learn_web_development/extensions/server-side/first_steps/website_security,94ef07a7b073c2663cbace0667bdb717a40bfa28
-learn_web_development/extensions/server-side,no_hash_commit
+learn_web_development/extensions/server-side,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0
 learn_web_development/extensions/server-side/node_server_without_framework,c5d8af227105b2a6d2ab50ff74295ead221fce64
 learn_web_development/extensions/testing/automated_testing,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 learn_web_development/extensions/testing/feature_detection,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
@@ -7102,11 +7102,11 @@ web/css/reference/properties/box-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/box-decoration-break,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/box-direction,no_hash_commit
 web/css/reference/properties/box-flex-group,no_hash_commit
-web/css/reference/properties/box-flex,no_hash_commit
-web/css/reference/properties/box-lines,no_hash_commit
+web/css/reference/properties/box-flex,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/box-lines,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/box-ordinal-group,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/box-orient,no_hash_commit
-web/css/reference/properties/box-pack,no_hash_commit
+web/css/reference/properties/box-orient,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/box-pack,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/box-shadow,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/box-sizing,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/break-after,2d78abb3e793352e24e976ce0e68c08d817bd7f3
