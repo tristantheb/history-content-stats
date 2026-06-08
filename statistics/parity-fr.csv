@@ -10949,7 +10949,7 @@ web/css/reference/properties/min-block-size,0
 web/css/reference/properties/min-height,0
 web/css/reference/properties/min-inline-size,0
 web/css/reference/properties/min-width,0
-web/css/reference/properties/mix-blend-mode,0
+web/css/reference/properties/mix-blend-mode,1
 web/css/reference/properties/object-fit,0
 web/css/reference/properties/object-position,0
 web/css/reference/properties/object-view-box,0
@@ -11311,7 +11311,7 @@ web/css/reference/selectors/namespace_separator,0
 web/css/reference/selectors/nesting_selector,0
 web/css/reference/selectors/next-sibling_combinator,0
 web/css/reference/selectors/pseudo-classes,0
-web/css/reference/selectors/pseudo-elements,0
+web/css/reference/selectors/pseudo-elements,1
 web/css/reference/selectors/selector_list,0
 web/css/reference/selectors/subsequent-sibling_combinator,0
 web/css/reference/selectors/type_selectors,0
