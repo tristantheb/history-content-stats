@@ -122,7 +122,7 @@ glossary/boolean/javascript,2
 glossary/bounding_box,null
 glossary/breadcrumb,3
 glossary/brotli_compression,13
-glossary/browser,null
+glossary/browser,0
 glossary/browsing_context,2
 glossary/buffer,null
 glossary/bun,2
@@ -182,7 +182,7 @@ glossary/cors-safelisted_response_header,null
 glossary/crawler,null
 glossary/credential,0
 glossary/crlf,null
-glossary/cross-site_scripting,null
+glossary/cross-site_scripting,0
 glossary/cross_axis,2
 glossary/crud,null
 glossary/cryptanalysis,null
@@ -359,7 +359,7 @@ glossary/isp,null
 glossary/itu,null
 glossary/jank,2
 glossary/java,1
-glossary/javascript,null
+glossary/javascript,0
 glossary/jitter,null
 glossary/jpeg,null
 glossary/json,2
@@ -481,7 +481,7 @@ glossary/promise,1
 glossary/property,1
 glossary/property/css,1
 glossary/property/javascript,2
-glossary/protocol,null
+glossary/protocol,0
 glossary/prototype,null
 glossary/prototype-based_programming,1
 glossary/proxy_server,2
@@ -652,7 +652,7 @@ glossary/ux,null
 glossary/validator,null
 glossary/value,12
 glossary/variable,null
-glossary/vendor_prefix,null
+glossary/vendor_prefix,0
 glossary/viewport,0
 glossary/visual_viewport,null
 glossary/void_element,14
@@ -932,7 +932,7 @@ learn_web_development/extensions/performance/perceived_performance,2
 learn_web_development/extensions/performance/video,1
 learn_web_development/extensions/performance/what_is_web_performance,0
 learn_web_development/extensions/performance/why_web_performance,0
-learn_web_development/extensions/server-side,null
+learn_web_development/extensions/server-side,0
 learn_web_development/extensions/server-side/apache_configuration_htaccess,null
 learn_web_development/extensions/server-side/configuring_server_mime_types,1
 learn_web_development/extensions/server-side/django,0
@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,13
+mozilla/firefox/experimental_features,14
 mozilla/firefox/releases,null
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -10727,12 +10727,12 @@ web/css/reference/properties/bottom,1
 web/css/reference/properties/box-align,0
 web/css/reference/properties/box-decoration-break,1
 web/css/reference/properties/box-direction,null
-web/css/reference/properties/box-flex,null
+web/css/reference/properties/box-flex,0
 web/css/reference/properties/box-flex-group,null
-web/css/reference/properties/box-lines,null
+web/css/reference/properties/box-lines,0
 web/css/reference/properties/box-ordinal-group,0
-web/css/reference/properties/box-orient,null
-web/css/reference/properties/box-pack,null
+web/css/reference/properties/box-orient,0
+web/css/reference/properties/box-pack,0
 web/css/reference/properties/box-shadow,3
 web/css/reference/properties/box-sizing,1
 web/css/reference/properties/break-after,1
@@ -11105,8 +11105,8 @@ web/css/reference/properties/text-transform,1
 web/css/reference/properties/text-underline-offset,1
 web/css/reference/properties/text-underline-position,2
 web/css/reference/properties/text-wrap,1
-web/css/reference/properties/text-wrap-mode,1
-web/css/reference/properties/text-wrap-style,1
+web/css/reference/properties/text-wrap-mode,2
+web/css/reference/properties/text-wrap-style,2
 web/css/reference/properties/timeline-scope,2
 web/css/reference/properties/top,1
 web/css/reference/properties/touch-action,1
@@ -13927,7 +13927,7 @@ web/svg/reference/element/fetile,null
 web/svg/reference/element/feturbulence,0
 web/svg/reference/element/filter,0
 web/svg/reference/element/foreignobject,0
-web/svg/reference/element/g,0
+web/svg/reference/element/g,1
 web/svg/reference/element/image,1
 web/svg/reference/element/line,0
 web/svg/reference/element/lineargradient,0
