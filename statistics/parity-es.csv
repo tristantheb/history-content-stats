@@ -3241,6 +3241,8 @@ web/api/csspropertyrule/name,null
 web/api/csspropertyrule/syntax,null
 web/api/csspseudoelement,null
 web/api/csspseudoelement/element,null
+web/api/csspseudoelement/parent,null
+web/api/csspseudoelement/pseudo,null
 web/api/csspseudoelement/type,null
 web/api/cssrotate,null
 web/api/cssrotate/angle,null
@@ -3962,6 +3964,7 @@ web/api/element/pointerup_event,null
 web/api/element/prefix,null
 web/api/element/prepend,null
 web/api/element/previouselementsibling,null
+web/api/element/pseudo,null
 web/api/element/queryselector,null
 web/api/element/queryselectorall,null
 web/api/element/releasepointercapture,null
@@ -7111,6 +7114,7 @@ web/api/request/referrer,null
 web/api/request/referrerpolicy,null
 web/api/request/request,null
 web/api/request/signal,null
+web/api/request/targetaddressspace,null
 web/api/request/text,null
 web/api/request/url,null
 web/api/requestinit,null
@@ -7754,7 +7758,7 @@ web/api/serialport/setsignals,null
 web/api/serialport/writable,null
 web/api/server-sent_events,11
 web/api/server-sent_events/using_server-sent_events,null
-web/api/service_worker_api,0
+web/api/service_worker_api,1
 web/api/service_worker_api/using_service_workers,1
 web/api/serviceworker,0
 web/api/serviceworker/error_event,0
@@ -11937,6 +11941,9 @@ web/http/reference/headers/permissions-policy/identity-credentials-get,null
 web/http/reference/headers/permissions-policy/idle-detection,null
 web/http/reference/headers/permissions-policy/language-detector,null
 web/http/reference/headers/permissions-policy/local-fonts,null
+web/http/reference/headers/permissions-policy/local-network,null
+web/http/reference/headers/permissions-policy/local-network-access,null
+web/http/reference/headers/permissions-policy/loopback-network,null
 web/http/reference/headers/permissions-policy/magnetometer,null
 web/http/reference/headers/permissions-policy/microphone,null
 web/http/reference/headers/permissions-policy/midi,null
@@ -13650,6 +13657,7 @@ web/security/authentication/passwords,null
 web/security/authentication/session_management,null
 web/security/defenses,null
 web/security/defenses/certificate_transparency,null
+web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,null
 web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,null
