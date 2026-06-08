@@ -597,7 +597,7 @@ glossary/string,null
 glossary/stringifier,null
 glossary/stun,1
 glossary/style_origin,1
-glossary/style_sheet,1
+glossary/style_sheet,0
 glossary/submit_button,5
 glossary/svg,3
 glossary/svn,1
@@ -3239,9 +3239,11 @@ web/api/csspropertyrule/inherits,1
 web/api/csspropertyrule/initialvalue,3
 web/api/csspropertyrule/name,1
 web/api/csspropertyrule/syntax,1
-web/api/csspseudoelement,1
-web/api/csspseudoelement/element,0
-web/api/csspseudoelement/type,5
+web/api/csspseudoelement,2
+web/api/csspseudoelement/element,1
+web/api/csspseudoelement/parent,null
+web/api/csspseudoelement/pseudo,null
+web/api/csspseudoelement/type,6
 web/api/cssrotate,null
 web/api/cssrotate/angle,null
 web/api/cssrotate/cssrotate,null
@@ -3800,7 +3802,7 @@ web/api/editcontext/updateselectionbounds,1
 web/api/editcontext/updatetext,2
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,6
+web/api/element,7
 web/api/element/after,3
 web/api/element/afterscriptexecute_event,3
 web/api/element/animate,11
@@ -3962,6 +3964,7 @@ web/api/element/pointerup_event,7
 web/api/element/prefix,1
 web/api/element/prepend,1
 web/api/element/previouselementsibling,4
+web/api/element/pseudo,null
 web/api/element/queryselector,5
 web/api/element/queryselectorall,9
 web/api/element/releasepointercapture,5
@@ -4199,7 +4202,7 @@ web/api/fenced_frame_api,17
 web/api/fenced_frame_api/communication_with_embedded_frames,null
 web/api/fencedframeconfig,null
 web/api/fencedframeconfig/setsharedstoragecontext,null
-web/api/fetch_api,6
+web/api/fetch_api,7
 web/api/fetch_api/using_deferred_fetch,null
 web/api/fetch_api/using_fetch,0
 web/api/fetchevent,6
@@ -4909,7 +4912,7 @@ web/api/htmlelement/outertext,0
 web/api/htmlelement/popover,7
 web/api/htmlelement/showpopover,6
 web/api/htmlelement/spellcheck,2
-web/api/htmlelement/style,16
+web/api/htmlelement/style,17
 web/api/htmlelement/tabindex,2
 web/api/htmlelement/title,1
 web/api/htmlelement/toggle_event,6
@@ -6833,7 +6836,7 @@ web/api/periodicwave/periodicwave,2
 web/api/permissions,7
 web/api/permissions/query,12
 web/api/permissions/revoke,10
-web/api/permissions_api,7
+web/api/permissions_api,8
 web/api/permissions_api/using_the_permissions_api,1
 web/api/permissionspolicyviolationreport,null
 web/api/permissionstatus,0
@@ -7087,7 +7090,7 @@ web/api/reportingobserver/disconnect,null
 web/api/reportingobserver/observe,null
 web/api/reportingobserver/reportingobserver,null
 web/api/reportingobserver/takerecords,null
-web/api/request,9
+web/api/request,10
 web/api/request/arraybuffer,1
 web/api/request/blob,1
 web/api/request/body,0
@@ -7111,9 +7114,10 @@ web/api/request/referrer,1
 web/api/request/referrerpolicy,1
 web/api/request/request,4
 web/api/request/signal,0
+web/api/request/targetaddressspace,null
 web/api/request/text,1
 web/api/request/url,1
-web/api/requestinit,11
+web/api/requestinit,12
 web/api/resize_observer_api,2
 web/api/resizeobserver,6
 web/api/resizeobserver/disconnect,0
@@ -7754,7 +7758,7 @@ web/api/serialport/setsignals,7
 web/api/serialport/writable,6
 web/api/server-sent_events,5
 web/api/server-sent_events/using_server-sent_events,5
-web/api/service_worker_api,8
+web/api/service_worker_api,9
 web/api/service_worker_api/using_service_workers,11
 web/api/serviceworker,12
 web/api/serviceworker/error_event,4
@@ -10318,9 +10322,9 @@ web/css/guides/compositing_and_blending,1
 web/css/guides/conditional_rules,2
 web/css/guides/conditional_rules/container_scroll-state_queries,1
 web/css/guides/conditional_rules/using_feature_queries,0
-web/css/guides/containment,0
-web/css/guides/containment/container_queries,1
-web/css/guides/containment/container_size_and_style_queries,2
+web/css/guides/containment,1
+web/css/guides/containment/container_queries,2
+web/css/guides/containment/container_size_and_style_queries,3
 web/css/guides/containment/using,0
 web/css/guides/counter_styles,0
 web/css/guides/counter_styles/using_counters,0
@@ -10426,7 +10430,7 @@ web/css/guides/positioned_layout/using_z-index,0
 web/css/guides/properties_and_values_api,1
 web/css/guides/properties_and_values_api/houdini,0
 web/css/guides/properties_and_values_api/registering_properties,null
-web/css/guides/pseudo-elements,1
+web/css/guides/pseudo-elements,2
 web/css/guides/round_display,null
 web/css/guides/ruby_layout,0
 web/css/guides/scoping,0
@@ -10497,7 +10501,7 @@ web/css/reference,0
 web/css/reference/at-rules,0
 web/css/reference/at-rules/@charset,0
 web/css/reference/at-rules/@color-profile,1
-web/css/reference/at-rules/@container,6
+web/css/reference/at-rules/@container,7
 web/css/reference/at-rules/@counter-style,1
 web/css/reference/at-rules/@counter-style/additive-symbols,2
 web/css/reference/at-rules/@counter-style/fallback,1
@@ -10769,9 +10773,9 @@ web/css/reference/properties/contain-intrinsic-height,1
 web/css/reference/properties/contain-intrinsic-inline-size,1
 web/css/reference/properties/contain-intrinsic-size,1
 web/css/reference/properties/contain-intrinsic-width,1
-web/css/reference/properties/container,1
-web/css/reference/properties/container-name,1
-web/css/reference/properties/container-type,2
+web/css/reference/properties/container,2
+web/css/reference/properties/container-name,2
+web/css/reference/properties/container-type,3
 web/css/reference/properties/content,3
 web/css/reference/properties/content-visibility,1
 web/css/reference/properties/corner-block-end-shape,2
@@ -11610,7 +11614,7 @@ web/html/reference/elements/hgroup,3
 web/html/reference/elements/hr,2
 web/html/reference/elements/html,1
 web/html/reference/elements/i,4
-web/html/reference/elements/iframe,0
+web/html/reference/elements/iframe,1
 web/html/reference/elements/img,1
 web/html/reference/elements/input,0
 web/html/reference/elements/input/button,4
@@ -11910,7 +11914,7 @@ web/http/reference/headers/no-vary-search,null
 web/http/reference/headers/observe-browsing-topics,null
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,null
-web/http/reference/headers/permissions-policy,1
+web/http/reference/headers/permissions-policy,2
 web/http/reference/headers/permissions-policy-report-only,null
 web/http/reference/headers/permissions-policy/accelerometer,2
 web/http/reference/headers/permissions-policy/ambient-light-sensor,2
@@ -11937,6 +11941,9 @@ web/http/reference/headers/permissions-policy/identity-credentials-get,3
 web/http/reference/headers/permissions-policy/idle-detection,2
 web/http/reference/headers/permissions-policy/language-detector,null
 web/http/reference/headers/permissions-policy/local-fonts,2
+web/http/reference/headers/permissions-policy/local-network,null
+web/http/reference/headers/permissions-policy/local-network-access,null
+web/http/reference/headers/permissions-policy/loopback-network,null
 web/http/reference/headers/permissions-policy/magnetometer,2
 web/http/reference/headers/permissions-policy/microphone,2
 web/http/reference/headers/permissions-policy/midi,3
@@ -13632,7 +13639,7 @@ web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,3
 web/security,0
 web/security/attacks,0
 web/security/attacks/clickjacking,0
-web/security/attacks/csrf,0
+web/security/attacks/csrf,1
 web/security/attacks/idor,null
 web/security/attacks/mitm,null
 web/security/attacks/phishing,null
@@ -13648,8 +13655,9 @@ web/security/authentication/otp,0
 web/security/authentication/passkeys,0
 web/security/authentication/passwords,0
 web/security/authentication/session_management,0
-web/security/defenses,1
+web/security/defenses,2
 web/security/defenses/certificate_transparency,0
+web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,0
 web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,0

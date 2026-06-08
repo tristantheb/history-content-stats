@@ -805,20 +805,20 @@ learn_web_development/core/structuring_content,0
 learn_web_development/core/structuring_content/advanced_text_features,0
 learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
-learn_web_development/core/structuring_content/debugging_html,1
+learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,0
-learn_web_development/core/structuring_content/forms_challenge,3
-learn_web_development/core/structuring_content/general_embedding_technologies,1
+learn_web_development/core/structuring_content/forms_challenge,0
+learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
-learn_web_development/core/structuring_content/html_forms,null
+learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,null
 learn_web_development/core/structuring_content/html_table_basics,null
 learn_web_development/core/structuring_content/html_video_and_audio,null
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,11
 learn_web_development/core/structuring_content/lists,0
-learn_web_development/core/structuring_content/marking_up_a_letter,3
+learn_web_development/core/structuring_content/marking_up_a_letter,0
 learn_web_development/core/structuring_content/planet_data_table,null
-learn_web_development/core/structuring_content/splash_page,1
+learn_web_development/core/structuring_content/splash_page,0
 learn_web_development/core/structuring_content/structuring_a_page_of_content,1
 learn_web_development/core/structuring_content/structuring_documents,0
 learn_web_development/core/structuring_content/table_accessibility,null
@@ -3241,6 +3241,8 @@ web/api/csspropertyrule/name,null
 web/api/csspropertyrule/syntax,null
 web/api/csspseudoelement,null
 web/api/csspseudoelement/element,null
+web/api/csspseudoelement/parent,null
+web/api/csspseudoelement/pseudo,null
 web/api/csspseudoelement/type,null
 web/api/cssrotate,null
 web/api/cssrotate/angle,null
@@ -3962,6 +3964,7 @@ web/api/element/pointerup_event,null
 web/api/element/prefix,null
 web/api/element/prepend,null
 web/api/element/previouselementsibling,null
+web/api/element/pseudo,null
 web/api/element/queryselector,2
 web/api/element/queryselectorall,4
 web/api/element/releasepointercapture,null
@@ -4199,7 +4202,7 @@ web/api/fenced_frame_api,0
 web/api/fenced_frame_api/communication_with_embedded_frames,0
 web/api/fencedframeconfig,0
 web/api/fencedframeconfig/setsharedstoragecontext,0
-web/api/fetch_api,0
+web/api/fetch_api,1
 web/api/fetch_api/using_deferred_fetch,null
 web/api/fetch_api/using_fetch,0
 web/api/fetchevent,null
@@ -4909,7 +4912,7 @@ web/api/htmlelement/outertext,0
 web/api/htmlelement/popover,0
 web/api/htmlelement/showpopover,0
 web/api/htmlelement/spellcheck,0
-web/api/htmlelement/style,0
+web/api/htmlelement/style,1
 web/api/htmlelement/tabindex,0
 web/api/htmlelement/title,0
 web/api/htmlelement/toggle_event,0
@@ -7087,7 +7090,7 @@ web/api/reportingobserver/disconnect,null
 web/api/reportingobserver/observe,null
 web/api/reportingobserver/reportingobserver,null
 web/api/reportingobserver/takerecords,null
-web/api/request,0
+web/api/request,1
 web/api/request/arraybuffer,0
 web/api/request/blob,0
 web/api/request/body,0
@@ -7111,6 +7114,7 @@ web/api/request/referrer,0
 web/api/request/referrerpolicy,0
 web/api/request/request,0
 web/api/request/signal,0
+web/api/request/targetaddressspace,null
 web/api/request/text,0
 web/api/request/url,0
 web/api/requestinit,null
@@ -7754,7 +7758,7 @@ web/api/serialport/setsignals,null
 web/api/serialport/writable,null
 web/api/server-sent_events,null
 web/api/server-sent_events/using_server-sent_events,null
-web/api/service_worker_api,0
+web/api/service_worker_api,1
 web/api/service_worker_api/using_service_workers,2
 web/api/serviceworker,null
 web/api/serviceworker/error_event,null
@@ -10497,7 +10501,7 @@ web/css/reference,0
 web/css/reference/at-rules,0
 web/css/reference/at-rules/@charset,0
 web/css/reference/at-rules/@color-profile,0
-web/css/reference/at-rules/@container,0
+web/css/reference/at-rules/@container,1
 web/css/reference/at-rules/@counter-style,0
 web/css/reference/at-rules/@counter-style/additive-symbols,0
 web/css/reference/at-rules/@counter-style/fallback,0
@@ -10769,9 +10773,9 @@ web/css/reference/properties/contain-intrinsic-height,0
 web/css/reference/properties/contain-intrinsic-inline-size,0
 web/css/reference/properties/contain-intrinsic-size,0
 web/css/reference/properties/contain-intrinsic-width,0
-web/css/reference/properties/container,0
-web/css/reference/properties/container-name,0
-web/css/reference/properties/container-type,0
+web/css/reference/properties/container,1
+web/css/reference/properties/container-name,1
+web/css/reference/properties/container-type,1
 web/css/reference/properties/content,0
 web/css/reference/properties/content-visibility,0
 web/css/reference/properties/corner-block-end-shape,0
@@ -11610,7 +11614,7 @@ web/html/reference/elements/hgroup,0
 web/html/reference/elements/hr,0
 web/html/reference/elements/html,0
 web/html/reference/elements/i,0
-web/html/reference/elements/iframe,0
+web/html/reference/elements/iframe,1
 web/html/reference/elements/img,0
 web/html/reference/elements/input,0
 web/html/reference/elements/input/button,0
@@ -11910,7 +11914,7 @@ web/http/reference/headers/no-vary-search,0
 web/http/reference/headers/observe-browsing-topics,0
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,0
-web/http/reference/headers/permissions-policy,0
+web/http/reference/headers/permissions-policy,1
 web/http/reference/headers/permissions-policy-report-only,0
 web/http/reference/headers/permissions-policy/accelerometer,0
 web/http/reference/headers/permissions-policy/ambient-light-sensor,0
@@ -11937,6 +11941,9 @@ web/http/reference/headers/permissions-policy/identity-credentials-get,0
 web/http/reference/headers/permissions-policy/idle-detection,0
 web/http/reference/headers/permissions-policy/language-detector,1
 web/http/reference/headers/permissions-policy/local-fonts,0
+web/http/reference/headers/permissions-policy/local-network,null
+web/http/reference/headers/permissions-policy/local-network-access,null
+web/http/reference/headers/permissions-policy/loopback-network,null
 web/http/reference/headers/permissions-policy/magnetometer,0
 web/http/reference/headers/permissions-policy/microphone,0
 web/http/reference/headers/permissions-policy/midi,0
@@ -13632,7 +13639,7 @@ web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,3
 web/security,null
 web/security/attacks,6
 web/security/attacks/clickjacking,null
-web/security/attacks/csrf,2
+web/security/attacks/csrf,3
 web/security/attacks/idor,null
 web/security/attacks/mitm,null
 web/security/attacks/phishing,null
@@ -13648,8 +13655,9 @@ web/security/authentication/otp,null
 web/security/authentication/passkeys,null
 web/security/authentication/passwords,null
 web/security/authentication/session_management,null
-web/security/defenses,2
+web/security/defenses,3
 web/security/defenses/certificate_transparency,1
+web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,0
 web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,0
