@@ -655,7 +655,7 @@ glossary/variable,null
 glossary/vendor_prefix,0
 glossary/viewport,0
 glossary/visual_viewport,null
-glossary/void_element,14
+glossary/void_element,15
 glossary/voip,null
 glossary/w3c,null
 glossary/wai,2
@@ -1107,7 +1107,7 @@ mdn/writing_guidelines/page_structures/macros/commonly_used_macros,10
 mdn/writing_guidelines/page_structures/macros/other,4
 mdn/writing_guidelines/page_structures/page_types,0
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,0
-mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,0
+mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,0
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,0
@@ -4343,14 +4343,14 @@ web/api/fontface/variationsettings,2
 web/api/fontface/weight,1
 web/api/fontfaceset,3
 web/api/fontfaceset/add,2
-web/api/fontfaceset/check,10
+web/api/fontfaceset/check,11
 web/api/fontfaceset/clear,1
 web/api/fontfaceset/delete,2
 web/api/fontfaceset/entries,1
-web/api/fontfaceset/foreach,2
+web/api/fontfaceset/foreach,3
 web/api/fontfaceset/has,1
 web/api/fontfaceset/keys,1
-web/api/fontfaceset/load,2
+web/api/fontfaceset/load,3
 web/api/fontfaceset/loading_event,2
 web/api/fontfaceset/loadingdone_event,2
 web/api/fontfaceset/loadingerror_event,2
@@ -14188,7 +14188,7 @@ web/xml/xslt/reference/element/when,0
 web/xml/xslt/reference/element/with-param,0
 webassembly,4
 webassembly/guides,1
-webassembly/guides/c_to_wasm,3
+webassembly/guides/c_to_wasm,4
 webassembly/guides/concepts,2
 webassembly/guides/existing_c_to_wasm,3
 webassembly/guides/exported_functions,0

@@ -655,7 +655,7 @@ glossary/variable,1
 glossary/vendor_prefix,7
 glossary/viewport,7
 glossary/visual_viewport,7
-glossary/void_element,8
+glossary/void_element,9
 glossary/voip,1
 glossary/w3c,1
 glossary/wai,2
@@ -14188,7 +14188,7 @@ web/xml/xslt/reference/element/when,null
 web/xml/xslt/reference/element/with-param,null
 webassembly,13
 webassembly/guides,null
-webassembly/guides/c_to_wasm,7
+webassembly/guides/c_to_wasm,8
 webassembly/guides/concepts,null
 webassembly/guides/existing_c_to_wasm,null
 webassembly/guides/exported_functions,null
