@@ -6983,7 +6983,7 @@ web/css/reference/properties/-webkit-box-reflect,no_hash_commit
 web/css/reference/properties/-webkit-mask-box-image,no_hash_commit
 web/css/reference/properties/-webkit-mask-composite,no_hash_commit
 web/css/reference/properties/-webkit-mask-position-x,no_hash_commit
-web/css/reference/properties/-webkit-mask-position-y,no_hash_commit
+web/css/reference/properties/-webkit-mask-position-y,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/-webkit-mask-repeat-x,no_hash_commit
 web/css/reference/properties/-webkit-mask-repeat-y,no_hash_commit
 web/css/reference/properties/-webkit-tap-highlight-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315
