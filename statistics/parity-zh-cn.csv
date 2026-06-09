@@ -11550,8 +11550,8 @@ web/html/reference/attributes/rel/dns-prefetch,2
 web/html/reference/attributes/rel/manifest,1
 web/html/reference/attributes/rel/me,1
 web/html/reference/attributes/rel/modulepreload,null
-web/html/reference/attributes/rel/noopener,null
-web/html/reference/attributes/rel/noreferrer,null
+web/html/reference/attributes/rel/noopener,0
+web/html/reference/attributes/rel/noreferrer,0
 web/html/reference/attributes/rel/preconnect,5
 web/html/reference/attributes/rel/prefetch,null
 web/html/reference/attributes/rel/preload,null

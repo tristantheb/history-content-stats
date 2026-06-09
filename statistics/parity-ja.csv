@@ -10611,7 +10611,7 @@ web/css/reference/properties/-webkit-box-reflect,null
 web/css/reference/properties/-webkit-mask-box-image,null
 web/css/reference/properties/-webkit-mask-composite,null
 web/css/reference/properties/-webkit-mask-position-x,null
-web/css/reference/properties/-webkit-mask-position-y,null
+web/css/reference/properties/-webkit-mask-position-y,0
 web/css/reference/properties/-webkit-mask-repeat-x,null
 web/css/reference/properties/-webkit-mask-repeat-y,null
 web/css/reference/properties/-webkit-tap-highlight-color,0
@@ -12116,7 +12116,7 @@ web/http/reference/status/424,1
 web/http/reference/status/425,3
 web/http/reference/status/426,1
 web/http/reference/status/428,1
-web/http/reference/status/429,2
+web/http/reference/status/429,3
 web/http/reference/status/431,2
 web/http/reference/status/451,1
 web/http/reference/status/500,0
