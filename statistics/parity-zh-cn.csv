@@ -11621,7 +11621,7 @@ web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,null
 web/html/reference/elements/input/color,null
 web/html/reference/elements/input/date,null
-web/html/reference/elements/input/datetime-local,2
+web/html/reference/elements/input/datetime-local,3
 web/html/reference/elements/input/email,null
 web/html/reference/elements/input/file,null
 web/html/reference/elements/input/hidden,null
@@ -14234,7 +14234,7 @@ webassembly/reference/javascript_interface/compileerror,0
 webassembly/reference/javascript_interface/compileerror/compileerror,0
 webassembly/reference/javascript_interface/compilestreaming_static,0
 webassembly/reference/javascript_interface/exception,-1
-webassembly/reference/javascript_interface/exception/exception,2
+webassembly/reference/javascript_interface/exception/exception,3
 webassembly/reference/javascript_interface/exception/getarg,1
 webassembly/reference/javascript_interface/exception/is,2
 webassembly/reference/javascript_interface/exception/stack,1
