@@ -14014,7 +14014,10 @@ web/webdriver/reference/bidi/modules/browser/setdownloadbehavior,null
 web/webdriver/reference/bidi/modules/browsingcontext,null
 web/webdriver/reference/bidi/modules/browsingcontext/activate,null
 web/webdriver/reference/bidi/modules/browsingcontext/close,null
+web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,null
+web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,null
 web/webdriver/reference/bidi/modules/browsingcontext/create,null
+web/webdriver/reference/bidi/modules/browsingcontext/gettree,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
 web/webdriver/reference/bidi/modules/input/filedialogopened,null

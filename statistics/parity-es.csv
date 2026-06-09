@@ -1094,7 +1094,7 @@ mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,0
 mdn/writing_guidelines/howto/write_an_api_reference,0
 mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,null
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,0
-mdn/writing_guidelines/learning_content,null
+mdn/writing_guidelines/learning_content,0
 mdn/writing_guidelines/page_structures,6
 mdn/writing_guidelines/page_structures/banners_and_notices,0
 mdn/writing_guidelines/page_structures/code_examples,7
@@ -14014,7 +14014,10 @@ web/webdriver/reference/bidi/modules/browser/setdownloadbehavior,null
 web/webdriver/reference/bidi/modules/browsingcontext,null
 web/webdriver/reference/bidi/modules/browsingcontext/activate,null
 web/webdriver/reference/bidi/modules/browsingcontext/close,null
+web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,null
+web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,null
 web/webdriver/reference/bidi/modules/browsingcontext/create,null
+web/webdriver/reference/bidi/modules/browsingcontext/gettree,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
 web/webdriver/reference/bidi/modules/input/filedialogopened,null
