@@ -5867,6 +5867,8 @@ web/html/reference/attributes/rel/dns-prefetch,0389dd29e0827791ad9d2f6b8cda217c1
 web/html/reference/attributes/rel,no_hash_commit
 web/html/reference/attributes/rel/manifest,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/attributes/rel/me,0754cd805a8e010d2e3a2a065f634a3bcf358252
+web/html/reference/attributes/rel/noopener,bf5017c389132af39b50106cf1763fa7106e87b4
+web/html/reference/attributes/rel/noreferrer,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/attributes/rel/preconnect,922c2b0f37e2f13887c50efe47e62bc23d94c3aa
 web/html/reference/attributes/rel/prefetch,no_hash_commit
 web/html/reference/attributes/rel/preload,no_hash_commit
