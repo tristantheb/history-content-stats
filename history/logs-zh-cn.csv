@@ -2208,6 +2208,7 @@ web/api/cssnumericarray,ecc46f2c8d6e09f0aa6e1b3f5194abfcf462e603
 web/api/cssnumericarray/length,d76defab4ca13261e9de81ae1df125345f847b0a
 web/api/cssnumericvalue/div,no_hash_commit
 web/api/cssom_view_api/coordinate_systems,91cc9e7f8ae21665b40ad4c3fa5152cebad119ce
+web/api/cssom_view_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/csspagerule,474a7c0e7bbb5f89b6dcc15cff75f06338457da2
 web/api/cssperspective/length,d76defab4ca13261e9de81ae1df125345f847b0a
 web/api/csspropertyrule/inherits,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b
@@ -6330,7 +6331,7 @@ web/javascript/guide/loops_and_iteration,no_hash_commit
 web/javascript/guide/memory_management,2c762771070a207d410a963166adf32213bc3a45
 web/javascript/guide/meta_programming,no_hash_commit
 web/javascript/guide/modules,5f76b99045f87349ed030bbd6a3c2e43badb3c22
-web/javascript/guide/numbers_and_strings,no_hash_commit
+web/javascript/guide/numbers_and_strings,82617295992be4d9dc4ca74499ee63f8d2e5984b
 web/javascript/guide/regular_expressions/assertions,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/guide/regular_expressions/character_classes,no_hash_commit
 web/javascript/guide/regular_expressions/groups_and_backreferences,no_hash_commit
