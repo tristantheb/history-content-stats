@@ -814,14 +814,14 @@ learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
 learn_web_development/core/structuring_content/html_table_basics,0
 learn_web_development/core/structuring_content/html_video_and_audio,0
-learn_web_development/core/structuring_content/including_vector_graphics_in_html,11
+learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
 learn_web_development/core/structuring_content/lists,0
 learn_web_development/core/structuring_content/marking_up_a_letter,0
-learn_web_development/core/structuring_content/planet_data_table,null
+learn_web_development/core/structuring_content/planet_data_table,0
 learn_web_development/core/structuring_content/splash_page,0
-learn_web_development/core/structuring_content/structuring_a_page_of_content,1
+learn_web_development/core/structuring_content/structuring_a_page_of_content,0
 learn_web_development/core/structuring_content/structuring_documents,0
-learn_web_development/core/structuring_content/table_accessibility,null
+learn_web_development/core/structuring_content/table_accessibility,0
 learn_web_development/core/structuring_content/test_your_skills,0
 learn_web_development/core/structuring_content/test_your_skills/advanced_html_text,0
 learn_web_development/core/structuring_content/test_your_skills/audio_and_video,0
@@ -830,7 +830,7 @@ learn_web_development/core/structuring_content/test_your_skills/html_text_basics
 learn_web_development/core/structuring_content/test_your_skills/images,0
 learn_web_development/core/structuring_content/test_your_skills/links,0
 learn_web_development/core/structuring_content/webpage_metadata,0
-learn_web_development/core/styling_basics,null
+learn_web_development/core/styling_basics,0
 learn_web_development/core/styling_basics/advanced_styling_effects,null
 learn_web_development/core/styling_basics/attribute_selectors,5
 learn_web_development/core/styling_basics/backgrounds_and_borders,null
@@ -840,7 +840,7 @@ learn_web_development/core/styling_basics/cascade_layers,null
 learn_web_development/core/styling_basics/combinators,null
 learn_web_development/core/styling_basics/debugging_css,9
 learn_web_development/core/styling_basics/fixing_blog_styles,null
-learn_web_development/core/styling_basics/getting_started,null
+learn_web_development/core/styling_basics/getting_started,0
 learn_web_development/core/styling_basics/handling_conflicts,22
 learn_web_development/core/styling_basics/handling_different_text_directions,null
 learn_web_development/core/styling_basics/home_color_scheme_search,null
@@ -862,7 +862,7 @@ learn_web_development/core/styling_basics/test_your_skills/selectors,null
 learn_web_development/core/styling_basics/test_your_skills/sizing,null
 learn_web_development/core/styling_basics/test_your_skills/values,null
 learn_web_development/core/styling_basics/values_and_units,0
-learn_web_development/core/styling_basics/what_is_css,null
+learn_web_development/core/styling_basics/what_is_css,0
 learn_web_development/core/text_styling,null
 learn_web_development/core/text_styling/fundamentals,null
 learn_web_development/core/text_styling/styling_links,null
