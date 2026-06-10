@@ -1069,7 +1069,7 @@ mdn/community/translated_content,5
 mdn/guides,null
 mdn/kitchensink,null
 mdn/tutorials,5
-mdn/writing_guidelines,6
+mdn/writing_guidelines,0
 mdn/writing_guidelines/attrib_copyright_license,0
 mdn/writing_guidelines/changelog,0
 mdn/writing_guidelines/code_style_guide,0
@@ -11503,7 +11503,7 @@ web/css/reference/values/url_value,null
 web/css/reference/values/var,null
 web/css/reference/webkit_extensions,null
 web/css/tutorials,null
-web/html,null
+web/html,0
 web/html/guides,null
 web/html/guides/cheatsheet,null
 web/html/guides/comments,null

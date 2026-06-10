@@ -3208,7 +3208,7 @@ web/api/cssnumericvalue/sub,null
 web/api/cssnumericvalue/to,null
 web/api/cssnumericvalue/tosum,null
 web/api/cssnumericvalue/type,null
-web/api/cssom_view_api,null
+web/api/cssom_view_api,0
 web/api/cssom_view_api/coordinate_systems,2
 web/api/csspagedescriptors,null
 web/api/csspagerule,2
@@ -12151,7 +12151,7 @@ web/javascript/guide/loops_and_iteration,null
 web/javascript/guide/memory_management,8
 web/javascript/guide/meta_programming,null
 web/javascript/guide/modules,14
-web/javascript/guide/numbers_and_strings,null
+web/javascript/guide/numbers_and_strings,0
 web/javascript/guide/regular_expressions,null
 web/javascript/guide/regular_expressions/assertions,0
 web/javascript/guide/regular_expressions/character_classes,null
