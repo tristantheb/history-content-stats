@@ -1268,6 +1268,8 @@ mozilla/add-ons/webextensions/api/contextualidentities,null
 mozilla/add-ons/webextensions/api/contextualidentities/contextualidentity,null
 mozilla/add-ons/webextensions/api/contextualidentities/create,null
 mozilla/add-ons/webextensions/api/contextualidentities/get,null
+mozilla/add-ons/webextensions/api/contextualidentities/getsupportedcolors,null
+mozilla/add-ons/webextensions/api/contextualidentities/getsupportedicons,null
 mozilla/add-ons/webextensions/api/contextualidentities/move,null
 mozilla/add-ons/webextensions/api/contextualidentities/oncreated,null
 mozilla/add-ons/webextensions/api/contextualidentities/onremoved,null
@@ -10872,7 +10874,7 @@ web/css/reference/properties/hanging-punctuation,0
 web/css/reference/properties/height,0
 web/css/reference/properties/hyphenate-character,0
 web/css/reference/properties/hyphenate-limit-chars,0
-web/css/reference/properties/hyphens,0
+web/css/reference/properties/hyphens,1
 web/css/reference/properties/image-orientation,0
 web/css/reference/properties/image-rendering,0
 web/css/reference/properties/image-resolution,0
