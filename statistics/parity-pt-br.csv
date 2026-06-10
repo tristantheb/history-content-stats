@@ -1268,6 +1268,8 @@ mozilla/add-ons/webextensions/api/contextualidentities,null
 mozilla/add-ons/webextensions/api/contextualidentities/contextualidentity,null
 mozilla/add-ons/webextensions/api/contextualidentities/create,null
 mozilla/add-ons/webextensions/api/contextualidentities/get,null
+mozilla/add-ons/webextensions/api/contextualidentities/getsupportedcolors,null
+mozilla/add-ons/webextensions/api/contextualidentities/getsupportedicons,null
 mozilla/add-ons/webextensions/api/contextualidentities/move,null
 mozilla/add-ons/webextensions/api/contextualidentities/oncreated,null
 mozilla/add-ons/webextensions/api/contextualidentities/onremoved,null

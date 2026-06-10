@@ -1264,10 +1264,12 @@ mozilla/add-ons/webextensions/api/contentscripts,3
 mozilla/add-ons/webextensions/api/contentscripts/register,8
 mozilla/add-ons/webextensions/api/contentscripts/registeredcontentscript,3
 mozilla/add-ons/webextensions/api/contentscripts/registeredcontentscript/unregister,null
-mozilla/add-ons/webextensions/api/contextualidentities,2
+mozilla/add-ons/webextensions/api/contextualidentities,3
 mozilla/add-ons/webextensions/api/contextualidentities/contextualidentity,2
 mozilla/add-ons/webextensions/api/contextualidentities/create,3
 mozilla/add-ons/webextensions/api/contextualidentities/get,2
+mozilla/add-ons/webextensions/api/contextualidentities/getsupportedcolors,null
+mozilla/add-ons/webextensions/api/contextualidentities/getsupportedicons,null
 mozilla/add-ons/webextensions/api/contextualidentities/move,1
 mozilla/add-ons/webextensions/api/contextualidentities/oncreated,3
 mozilla/add-ons/webextensions/api/contextualidentities/onremoved,3

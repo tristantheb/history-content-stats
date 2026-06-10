@@ -1264,10 +1264,12 @@ mozilla/add-ons/webextensions/api/contentscripts,0
 mozilla/add-ons/webextensions/api/contentscripts/register,0
 mozilla/add-ons/webextensions/api/contentscripts/registeredcontentscript,0
 mozilla/add-ons/webextensions/api/contentscripts/registeredcontentscript/unregister,0
-mozilla/add-ons/webextensions/api/contextualidentities,0
+mozilla/add-ons/webextensions/api/contextualidentities,1
 mozilla/add-ons/webextensions/api/contextualidentities/contextualidentity,0
 mozilla/add-ons/webextensions/api/contextualidentities/create,0
 mozilla/add-ons/webextensions/api/contextualidentities/get,0
+mozilla/add-ons/webextensions/api/contextualidentities/getsupportedcolors,null
+mozilla/add-ons/webextensions/api/contextualidentities/getsupportedicons,null
 mozilla/add-ons/webextensions/api/contextualidentities/move,0
 mozilla/add-ons/webextensions/api/contextualidentities/oncreated,0
 mozilla/add-ons/webextensions/api/contextualidentities/onremoved,0
@@ -1962,7 +1964,7 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,0
+mozilla/firefox/releases/153,1
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -7774,7 +7776,7 @@ web/api/serviceworkercontainer/getregistrations,0
 web/api/serviceworkercontainer/message_event,0
 web/api/serviceworkercontainer/messageerror_event,0
 web/api/serviceworkercontainer/ready,0
-web/api/serviceworkercontainer/register,0
+web/api/serviceworkercontainer/register,1
 web/api/serviceworkercontainer/startmessages,0
 web/api/serviceworkerglobalscope,0
 web/api/serviceworkerglobalscope/activate_event,0
@@ -10479,7 +10481,7 @@ web/css/guides/values_and_units/using_typed_arithmetic,0
 web/css/guides/values_and_units/value_definition_syntax,0
 web/css/guides/view_transitions,0
 web/css/guides/viewport,0
-web/css/guides/webxr_dom_overlays,1
+web/css/guides/webxr_dom_overlays,0
 web/css/guides/writing_modes,0
 web/css/guides/writing_modes/vertical_controls,0
 web/css/guides/writing_modes/writing_mode_systems,0
@@ -10574,7 +10576,7 @@ web/css/reference/at-rules/@media/pointer,0
 web/css/reference/at-rules/@media/prefers-color-scheme,0
 web/css/reference/at-rules/@media/prefers-contrast,0
 web/css/reference/at-rules/@media/prefers-reduced-data,0
-web/css/reference/at-rules/@media/prefers-reduced-motion,1
+web/css/reference/at-rules/@media/prefers-reduced-motion,0
 web/css/reference/at-rules/@media/prefers-reduced-transparency,0
 web/css/reference/at-rules/@media/resolution,0
 web/css/reference/at-rules/@media/scan,0
@@ -10872,7 +10874,7 @@ web/css/reference/properties/hanging-punctuation,0
 web/css/reference/properties/height,0
 web/css/reference/properties/hyphenate-character,0
 web/css/reference/properties/hyphenate-limit-chars,0
-web/css/reference/properties/hyphens,0
+web/css/reference/properties/hyphens,1
 web/css/reference/properties/image-orientation,0
 web/css/reference/properties/image-rendering,0
 web/css/reference/properties/image-resolution,0
@@ -14017,7 +14019,7 @@ web/webdriver/reference/bidi/modules/browsingcontext/close,0
 web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,0
 web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,0
 web/webdriver/reference/bidi/modules/browsingcontext/create,0
-web/webdriver/reference/bidi/modules/browsingcontext/gettree,1
+web/webdriver/reference/bidi/modules/browsingcontext/gettree,0
 web/webdriver/reference/bidi/modules/emulation,0
 web/webdriver/reference/bidi/modules/input,0
 web/webdriver/reference/bidi/modules/input/filedialogopened,0
