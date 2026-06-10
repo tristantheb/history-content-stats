@@ -10477,7 +10477,7 @@ web/css/guides/values_and_units/using_typed_arithmetic,85fccefc8066bd49af4ddafc1
 web/css/guides/values_and_units/value_definition_syntax,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/view_transitions,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/viewport,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/guides/webxr_dom_overlays,f18c76e518179f2facc688464c5d382bf5a9b536
+web/css/guides/webxr_dom_overlays,52a247932646cc4cb4b3a9bb50d7bd66d1fdc713
 web/css/guides/writing_modes,a516a9818e8cef06c626d436ee1d73fc6d87ec51
 web/css/guides/writing_modes/vertical_controls,32bdfdb82cf91ce9942b694286dec62be2cc20aa
 web/css/guides/writing_modes/writing_mode_systems,c53bfa01f3bf436d486f4032c16f592855a2af2c
@@ -10571,7 +10571,7 @@ web/css/reference/at-rules/@media/pointer,67d40334c8b90e4623f3b0d3aea466b9882d82
 web/css/reference/at-rules/@media/prefers-color-scheme,67d40334c8b90e4623f3b0d3aea466b9882d8236
 web/css/reference/at-rules/@media/prefers-contrast,67d40334c8b90e4623f3b0d3aea466b9882d8236
 web/css/reference/at-rules/@media/prefers-reduced-data,67d40334c8b90e4623f3b0d3aea466b9882d8236
-web/css/reference/at-rules/@media/prefers-reduced-motion,67d40334c8b90e4623f3b0d3aea466b9882d8236
+web/css/reference/at-rules/@media/prefers-reduced-motion,2d5e55258ef3f001d0d9fea6b48486bd3056fca6
 web/css/reference/at-rules/@media/prefers-reduced-transparency,67d40334c8b90e4623f3b0d3aea466b9882d8236
 web/css/reference/at-rules/@media/resolution,67d40334c8b90e4623f3b0d3aea466b9882d8236
 web/css/reference/at-rules/@media/scan,67d40334c8b90e4623f3b0d3aea466b9882d8236
@@ -14014,7 +14014,7 @@ web/webdriver/reference/bidi/modules/browsingcontext/close,1db2c61210860e17e452e
 web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,a3d6e24e23dccd757487d9ed97b0eb241f107d96
 web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,a3d6e24e23dccd757487d9ed97b0eb241f107d96
 web/webdriver/reference/bidi/modules/browsingcontext/create,1db2c61210860e17e452e21122280b76a7dcffb6
-web/webdriver/reference/bidi/modules/browsingcontext/gettree,a3d6e24e23dccd757487d9ed97b0eb241f107d96
+web/webdriver/reference/bidi/modules/browsingcontext/gettree,52a247932646cc4cb4b3a9bb50d7bd66d1fdc713
 web/webdriver/reference/bidi/modules/browsingcontext,a3d6e24e23dccd757487d9ed97b0eb241f107d96
 web/webdriver/reference/bidi/modules/emulation,fbf733732bf531a1be40a0c646bcbc4b31618476
 web/webdriver/reference/bidi/modules,253bed3def8e1680475ea75987d24ca62ee9f989
