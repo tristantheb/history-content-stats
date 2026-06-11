@@ -1528,6 +1528,11 @@ mozilla/add-ons/webextensions/api/proxy/onrequest,null
 mozilla/add-ons/webextensions/api/proxy/proxyinfo,null
 mozilla/add-ons/webextensions/api/proxy/requestdetails,1
 mozilla/add-ons/webextensions/api/proxy/settings,null
+mozilla/add-ons/webextensions/api/publicsuffix,null
+mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,null
+mozilla/add-ons/webextensions/api/publicsuffix/getdomain,null
+mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,null
+mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,null
 mozilla/add-ons/webextensions/api/runtime,null
 mozilla/add-ons/webextensions/api/runtime/connect,null
 mozilla/add-ons/webextensions/api/runtime/connectnative,null
@@ -8117,7 +8122,6 @@ web/api/svgaelement/rel,null
 web/api/svgaelement/rellist,null
 web/api/svgaelement/search,null
 web/api/svgaelement/target,null
-web/api/svgaelement/text,null
 web/api/svgaelement/type,null
 web/api/svgaelement/username,null
 web/api/svgangle,null
@@ -8571,7 +8575,6 @@ web/api/svgrectelement/ry,null
 web/api/svgrectelement/width,null
 web/api/svgrectelement/x,null
 web/api/svgrectelement/y,null
-web/api/svgrenderingintent,null
 web/api/svgscriptelement,null
 web/api/svgscriptelement/async,null
 web/api/svgscriptelement/href,null
@@ -11116,7 +11119,7 @@ web/css/reference/properties/text-wrap-style,0
 web/css/reference/properties/timeline-scope,0
 web/css/reference/properties/top,0
 web/css/reference/properties/touch-action,0
-web/css/reference/properties/transform,0
+web/css/reference/properties/transform,1
 web/css/reference/properties/transform-box,0
 web/css/reference/properties/transform-origin,0
 web/css/reference/properties/transform-style,0
@@ -11506,7 +11509,7 @@ web/css/reference/values/var,0
 web/css/reference/webkit_extensions,2
 web/css/tutorials,0
 web/html,0
-web/html/guides,0
+web/html/guides,1
 web/html/guides/cheatsheet,0
 web/html/guides/comments,0
 web/html/guides/constraint_validation,0
@@ -11524,7 +11527,7 @@ web/html/how_to/cors_enabled_image,0
 web/html/how_to/define_terms_with_html,0
 web/html/how_to/use_data_attributes,0
 web/html/reference,0
-web/html/reference/attributes,0
+web/html/reference/attributes,1
 web/html/reference/attributes/accept,0
 web/html/reference/attributes/autocomplete,0
 web/html/reference/attributes/capture,0

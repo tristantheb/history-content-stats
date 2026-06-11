@@ -1326,7 +1326,7 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/updatestaticrules,09109b
 mozilla/add-ons/webextensions/api/declarativenetrequest/urltransform,2290fdbf9d5cf68482245d07d388b883156058ac,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/devtools/inspectedwindow/eval,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow/eval,c4bcbe7056da00277112f21b94966e0443c39805,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/reload,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/tabid,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools/network,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1390,13 +1390,13 @@ mozilla/add-ons/webextensions/api/events/event/removelistener,09109b6f9444d22215
 mozilla/add-ons/webextensions/api/events/event/removerules,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/events/rule,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/events/urlfilter,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/extension,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/extension,c4bcbe7056da00277112f21b94966e0443c39805,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/extension/getbackgroundpage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/extension/getextensiontabs,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/extension/geturl,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/extension/getviews,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/extension/inincognitocontext,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/extension/isallowedfileschemeaccess,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/extension/isallowedfileschemeaccess,c4bcbe7056da00277112f21b94966e0443c39805,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/extension/isallowedincognitoaccess,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/extension/lasterror,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/extension/onrequest,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1528,6 +1528,11 @@ mozilla/add-ons/webextensions/api/proxy/onrequest,09109b6f9444d22215ba330ec1e64e
 mozilla/add-ons/webextensions/api/proxy/proxyinfo,938a5a7cf48ef6bd89d8635ae61d161401eedf17,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/proxy/requestdetails,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/proxy/settings,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/publicsuffix,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/publicsuffix/getdomain,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime,d093679f1b6c69e417e761d90eca65681e5f95f4,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/connect,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/connectnative,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1722,7 +1727,7 @@ mozilla/add-ons/webextensions/api/types/browsersetting/clear,51aed03147472b38832
 mozilla/add-ons/webextensions/api/types/browsersetting/get,51aed03147472b3883200e4538ff0beec8ff948f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/types/browsersetting/onchange,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/types/browsersetting/set,51aed03147472b3883200e4538ff0beec8ff948f,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/userscripts,a3b7f4beaca4b6a29ef22e7d27f07ea13f48ca73,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/userscripts,20c11f6af0809fa827413acf968b56bf4650d8d4,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/configureworld,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/execute,14e9b0589ba62353a7cc08b2e2371b1c4ef0cac6,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/executionworld,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1731,7 +1736,7 @@ mozilla/add-ons/webextensions/api/userscripts/getworldconfigurations,09109b6f944
 mozilla/add-ons/webextensions/api/userscripts/register,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/registereduserscript,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/resetworldconfiguration,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/userscripts/scriptsource,14e9b0589ba62353a7cc08b2e2371b1c4ef0cac6,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/userscripts/scriptsource,20c11f6af0809fa827413acf968b56bf4650d8d4,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/unregister,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/update,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/userscriptfilter,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1852,11 +1857,11 @@ mozilla/add-ons/webextensions/manifest.json/name,09109b6f9444d22215ba330ec1e64e7
 mozilla/add-ons/webextensions/manifest.json/offline_enabled,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/omnibox,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,a46ee9267e4c49ce85c780b76c0f08fc389a2553,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/optional_permissions,a46ee9267e4c49ce85c780b76c0f08fc389a2553,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/optional_permissions,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/options_page,9928bcdc0db13da73e8ef065ab40a8e1ac8e6b0c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/options_ui,38199423810927262c9cb4dec7ea7de4cb0c5e0f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/page_action,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/permissions,674d6c8868cde1654eaba3c285afde9d3b60ce9f,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/permissions,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/protocol_handlers,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/short_name,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Mozilla|Firefox Add-ons
@@ -1933,7 +1938,7 @@ mozilla/firefox/releases/121,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Mozilla|Fi
 mozilla/firefox/releases/122,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox|Versions
 mozilla/firefox/releases/123,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/124,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
-mozilla/firefox/releases/125,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
+mozilla/firefox/releases/125,52dc7d3f7b4f52472d63161e76a6da821104824c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/126,4cb9d89a204a9532370693b982e8a3b274a874b1,Mozilla|Firefox|Versions
 mozilla/firefox/releases/127,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Mozilla|Firefox|Versions
 mozilla/firefox/releases/128,5ebca2edd6095fb3f61d442ed3146fa37fffbf7d,Mozilla|Firefox|Versions
@@ -1963,8 +1968,8 @@ mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Fi
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,d9835ea7d100660d8d845f358277d5b25b825a20,Mozilla|Firefox|Versions
-mozilla/firefox/releases/152,184a2adcf533de244f520829045c2ad85c6af1a8,Mozilla|Firefox|Versions
-mozilla/firefox/releases/153,6203b96117ae35099df06d08f6a037bf2dff1d80,Mozilla|Firefox|Versions
+mozilla/firefox/releases/152,abe853e4d7b359699b7b113fc9fbb2b6b4033185,Mozilla|Firefox|Versions
+mozilla/firefox/releases/153,20c11f6af0809fa827413acf968b56bf4650d8d4,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -8117,7 +8122,6 @@ web/api/svgaelement/rel,99d723c4f77d7f537292a07dd7b5e5c13cb610da,Web APIs
 web/api/svgaelement/rellist,c053b4b3bb0f34736e9f4402d4254830670af723,Web APIs
 web/api/svgaelement/search,acb7e62eb10471075a46e78542cdb4798e82bfe7,Web APIs
 web/api/svgaelement/target,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
-web/api/svgaelement/text,55bb65bb6a84808896ed0f6c83e57c60dbd8480e,Web APIs
 web/api/svgaelement/type,acb7e62eb10471075a46e78542cdb4798e82bfe7,Web APIs
 web/api/svgaelement/username,acb7e62eb10471075a46e78542cdb4798e82bfe7,Web APIs
 web/api/svgangle,2e39a37874913a1e3fd82999467505fd525e9177,Web APIs
@@ -8571,7 +8575,6 @@ web/api/svgrectelement/ry,693106d7bc9aa28f22a3f234455f5496efd728c4,Web APIs
 web/api/svgrectelement/width,c2fd97474834e061404b992c8397d4ccc4439a71,Web APIs
 web/api/svgrectelement/x,c2fd97474834e061404b992c8397d4ccc4439a71,Web APIs
 web/api/svgrectelement/y,c2fd97474834e061404b992c8397d4ccc4439a71,Web APIs
-web/api/svgrenderingintent,4f8c4b31478742a2a39fdb03993d08fc1c90bbea,Web APIs
 web/api/svgscriptelement,0c001c739dd59b282af60a6d0a55c161798c0084,Web APIs
 web/api/svgscriptelement/async,0c001c739dd59b282af60a6d0a55c161798c0084,Web APIs
 web/api/svgscriptelement/href,a809326f55025ca710b11e6c46414d73d031bf2b,Web APIs
@@ -11116,7 +11119,7 @@ web/css/reference/properties/text-wrap-style,7d82de65fb43700d2053f13d8344ec4a787
 web/css/reference/properties/timeline-scope,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/touch-action,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/transform,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/transform,b069bf45c0a5706f838f9e46d8494cd7babd605a,CSS|Properties
 web/css/reference/properties/transform-box,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/transform-origin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/transform-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11506,7 +11509,7 @@ web/css/reference/values/var,f551881c1f8f168c5a6e7ac5c7dbc15474b9c642,CSS|Values
 web/css/reference/webkit_extensions,0d155984425e8964c889efb63ec39593e11bbc14,CSS
 web/css/tutorials,33094d735e90b4dcae5733331b79c51fee997410,CSS|Tutorials
 web/html,d1f3f179175c80c18b1b78ba0df0ea7d15ca32cc,HTML
-web/html/guides,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,HTML|Guides
+web/html/guides,1f73b512daca27339931eca233376957a7a7a4fd,HTML|Guides
 web/html/guides/cheatsheet,aff319cd81d10cfda31b13adb3263deafb284b20,HTML|Guides
 web/html/guides/comments,85fccefc8066bd49af4ddafc12c77f35265c7e2d,HTML|Guides
 web/html/guides/constraint_validation,6f889a782a6663e055bbfaf29a4b0be895866b9d,HTML|Guides
@@ -11524,7 +11527,7 @@ web/html/how_to/cors_enabled_image,6036cd414b2214f85901158bdf3e3a96123d4553,HTML
 web/html/how_to/define_terms_with_html,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|How To
 web/html/how_to/use_data_attributes,7c28cd21b705e7b7664d53b4d7822469ea8e6e15,HTML|How To
 web/html/reference,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML
-web/html/reference/attributes,fef6630e9b90f9794d3194ea8389ff70599c6884,HTML|Attributes
+web/html/reference/attributes,1f73b512daca27339931eca233376957a7a7a4fd,HTML|Attributes
 web/html/reference/attributes/accept,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/autocomplete,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/capture,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes

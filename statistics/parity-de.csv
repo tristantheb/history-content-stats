@@ -1326,7 +1326,7 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/updatestaticrules,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/urltransform,0
 mozilla/add-ons/webextensions/api/devtools,0
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow,0
-mozilla/add-ons/webextensions/api/devtools/inspectedwindow/eval,0
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow/eval,1
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/reload,0
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/tabid,0
 mozilla/add-ons/webextensions/api/devtools/network,0
@@ -1390,13 +1390,13 @@ mozilla/add-ons/webextensions/api/events/event/removelistener,0
 mozilla/add-ons/webextensions/api/events/event/removerules,0
 mozilla/add-ons/webextensions/api/events/rule,0
 mozilla/add-ons/webextensions/api/events/urlfilter,0
-mozilla/add-ons/webextensions/api/extension,0
+mozilla/add-ons/webextensions/api/extension,1
 mozilla/add-ons/webextensions/api/extension/getbackgroundpage,0
 mozilla/add-ons/webextensions/api/extension/getextensiontabs,0
 mozilla/add-ons/webextensions/api/extension/geturl,0
 mozilla/add-ons/webextensions/api/extension/getviews,0
 mozilla/add-ons/webextensions/api/extension/inincognitocontext,0
-mozilla/add-ons/webextensions/api/extension/isallowedfileschemeaccess,0
+mozilla/add-ons/webextensions/api/extension/isallowedfileschemeaccess,1
 mozilla/add-ons/webextensions/api/extension/isallowedincognitoaccess,0
 mozilla/add-ons/webextensions/api/extension/lasterror,0
 mozilla/add-ons/webextensions/api/extension/onrequest,0
@@ -1528,6 +1528,11 @@ mozilla/add-ons/webextensions/api/proxy/onrequest,0
 mozilla/add-ons/webextensions/api/proxy/proxyinfo,0
 mozilla/add-ons/webextensions/api/proxy/requestdetails,0
 mozilla/add-ons/webextensions/api/proxy/settings,0
+mozilla/add-ons/webextensions/api/publicsuffix,null
+mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,null
+mozilla/add-ons/webextensions/api/publicsuffix/getdomain,null
+mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,null
+mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,null
 mozilla/add-ons/webextensions/api/runtime,0
 mozilla/add-ons/webextensions/api/runtime/connect,0
 mozilla/add-ons/webextensions/api/runtime/connectnative,0
@@ -1722,7 +1727,7 @@ mozilla/add-ons/webextensions/api/types/browsersetting/clear,0
 mozilla/add-ons/webextensions/api/types/browsersetting/get,0
 mozilla/add-ons/webextensions/api/types/browsersetting/onchange,0
 mozilla/add-ons/webextensions/api/types/browsersetting/set,0
-mozilla/add-ons/webextensions/api/userscripts,0
+mozilla/add-ons/webextensions/api/userscripts,1
 mozilla/add-ons/webextensions/api/userscripts/configureworld,0
 mozilla/add-ons/webextensions/api/userscripts/execute,0
 mozilla/add-ons/webextensions/api/userscripts/executionworld,0
@@ -1731,7 +1736,7 @@ mozilla/add-ons/webextensions/api/userscripts/getworldconfigurations,0
 mozilla/add-ons/webextensions/api/userscripts/register,0
 mozilla/add-ons/webextensions/api/userscripts/registereduserscript,0
 mozilla/add-ons/webextensions/api/userscripts/resetworldconfiguration,0
-mozilla/add-ons/webextensions/api/userscripts/scriptsource,0
+mozilla/add-ons/webextensions/api/userscripts/scriptsource,1
 mozilla/add-ons/webextensions/api/userscripts/unregister,0
 mozilla/add-ons/webextensions/api/userscripts/update,0
 mozilla/add-ons/webextensions/api/userscripts/userscriptfilter,0
@@ -1852,11 +1857,11 @@ mozilla/add-ons/webextensions/manifest.json/name,0
 mozilla/add-ons/webextensions/manifest.json/offline_enabled,0
 mozilla/add-ons/webextensions/manifest.json/omnibox,0
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,0
-mozilla/add-ons/webextensions/manifest.json/optional_permissions,0
+mozilla/add-ons/webextensions/manifest.json/optional_permissions,1
 mozilla/add-ons/webextensions/manifest.json/options_page,0
 mozilla/add-ons/webextensions/manifest.json/options_ui,0
 mozilla/add-ons/webextensions/manifest.json/page_action,0
-mozilla/add-ons/webextensions/manifest.json/permissions,0
+mozilla/add-ons/webextensions/manifest.json/permissions,1
 mozilla/add-ons/webextensions/manifest.json/protocol_handlers,0
 mozilla/add-ons/webextensions/manifest.json/short_name,0
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,0
@@ -1933,7 +1938,7 @@ mozilla/firefox/releases/121,0
 mozilla/firefox/releases/122,0
 mozilla/firefox/releases/123,0
 mozilla/firefox/releases/124,0
-mozilla/firefox/releases/125,0
+mozilla/firefox/releases/125,1
 mozilla/firefox/releases/126,0
 mozilla/firefox/releases/127,0
 mozilla/firefox/releases/128,0
@@ -1963,8 +1968,8 @@ mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
-mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,0
+mozilla/firefox/releases/152,1
+mozilla/firefox/releases/153,3
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -8117,7 +8122,6 @@ web/api/svgaelement/rel,0
 web/api/svgaelement/rellist,0
 web/api/svgaelement/search,0
 web/api/svgaelement/target,0
-web/api/svgaelement/text,0
 web/api/svgaelement/type,0
 web/api/svgaelement/username,0
 web/api/svgangle,0
@@ -8571,7 +8575,6 @@ web/api/svgrectelement/ry,0
 web/api/svgrectelement/width,0
 web/api/svgrectelement/x,0
 web/api/svgrectelement/y,0
-web/api/svgrenderingintent,0
 web/api/svgscriptelement,0
 web/api/svgscriptelement/async,0
 web/api/svgscriptelement/href,0
@@ -11116,7 +11119,7 @@ web/css/reference/properties/text-wrap-style,0
 web/css/reference/properties/timeline-scope,0
 web/css/reference/properties/top,0
 web/css/reference/properties/touch-action,0
-web/css/reference/properties/transform,0
+web/css/reference/properties/transform,1
 web/css/reference/properties/transform-box,0
 web/css/reference/properties/transform-origin,0
 web/css/reference/properties/transform-style,0
@@ -11506,7 +11509,7 @@ web/css/reference/values/var,0
 web/css/reference/webkit_extensions,0
 web/css/tutorials,0
 web/html,0
-web/html/guides,0
+web/html/guides,1
 web/html/guides/cheatsheet,0
 web/html/guides/comments,0
 web/html/guides/constraint_validation,0
@@ -11524,7 +11527,7 @@ web/html/how_to/cors_enabled_image,0
 web/html/how_to/define_terms_with_html,0
 web/html/how_to/use_data_attributes,0
 web/html/reference,0
-web/html/reference/attributes,0
+web/html/reference/attributes,1
 web/html/reference/attributes/accept,0
 web/html/reference/attributes/autocomplete,0
 web/html/reference/attributes/capture,0
