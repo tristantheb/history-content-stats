@@ -5678,7 +5678,7 @@ web/api/ink_api,2
 web/api/inputdevicecapabilities,1
 web/api/inputdevicecapabilities/firestouchevents,3
 web/api/inputdevicecapabilities/inputdevicecapabilities,3
-web/api/inputdevicecapabilities_api,1
+web/api/inputdevicecapabilities_api,0
 web/api/inputdeviceinfo,0
 web/api/inputdeviceinfo/getcapabilities,2
 web/api/inputevent,4
@@ -8853,10 +8853,10 @@ web/api/transformstream/readable,2
 web/api/transformstream/transformstream,4
 web/api/transformstream/writable,2
 web/api/transformstreamdefaultcontroller,1
-web/api/transformstreamdefaultcontroller/desiredsize,1
+web/api/transformstreamdefaultcontroller/desiredsize,0
 web/api/transformstreamdefaultcontroller/enqueue,1
-web/api/transformstreamdefaultcontroller/error,1
-web/api/transformstreamdefaultcontroller/terminate,1
+web/api/transformstreamdefaultcontroller/error,0
+web/api/transformstreamdefaultcontroller/terminate,0
 web/api/transitionevent,0
 web/api/transitionevent/elapsedtime,0
 web/api/transitionevent/propertyname,0
