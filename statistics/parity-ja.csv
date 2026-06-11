@@ -921,7 +921,7 @@ learn_web_development/extensions/forms/ui_pseudo-classes,0
 learn_web_development/extensions/forms/user_input_methods,8
 learn_web_development/extensions/forms/your_first_form,9
 learn_web_development/extensions/performance,1
-learn_web_development/extensions/performance/best_practices,null
+learn_web_development/extensions/performance/best_practices,0
 learn_web_development/extensions/performance/business_case_for_performance,1
 learn_web_development/extensions/performance/css,0
 learn_web_development/extensions/performance/html,4
@@ -4200,7 +4200,7 @@ web/api/fence,null
 web/api/fence/getnestedconfigs,null
 web/api/fence/reportevent,null
 web/api/fence/setreporteventdataforautomaticbeacons,null
-web/api/fenced_frame_api,17
+web/api/fenced_frame_api,0
 web/api/fenced_frame_api/communication_with_embedded_frames,null
 web/api/fencedframeconfig,null
 web/api/fencedframeconfig/setsharedstoragecontext,null
@@ -6756,7 +6756,7 @@ web/api/performancepainttiming,4
 web/api/performancepainttiming/painttime,null
 web/api/performancepainttiming/presentationtime,null
 web/api/performancepainttiming/tojson,null
-web/api/performanceresourcetiming,17
+web/api/performanceresourcetiming,0
 web/api/performanceresourcetiming/connectend,3
 web/api/performanceresourcetiming/connectstart,3
 web/api/performanceresourcetiming/contenttype,null
@@ -13573,13 +13573,13 @@ web/privacy/guides/privacy_sandbox/partitioned_cookies,null
 web/privacy/guides/redirect_tracking_protection,null
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,1
 web/privacy/guides/state_partitioning,null
-web/privacy/guides/storage_access_policy,null
-web/privacy/guides/storage_access_policy/errors,null
+web/privacy/guides/storage_access_policy,0
+web/privacy/guides/storage_access_policy/errors,0
 web/privacy/guides/storage_access_policy/errors/cookieblockedall,null
 web/privacy/guides/storage_access_policy/errors/cookieblockedbypermission,null
 web/privacy/guides/storage_access_policy/errors/cookieblockedforeign,null
 web/privacy/guides/storage_access_policy/errors/cookieblockedtracker,null
-web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,null
+web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,0
 web/privacy/guides/third-party_cookies,3
 web/progressive_web_apps,4
 web/progressive_web_apps/guides,1
