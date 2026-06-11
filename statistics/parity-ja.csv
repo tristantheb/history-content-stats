@@ -1528,6 +1528,11 @@ mozilla/add-ons/webextensions/api/proxy/onrequest,null
 mozilla/add-ons/webextensions/api/proxy/proxyinfo,null
 mozilla/add-ons/webextensions/api/proxy/requestdetails,null
 mozilla/add-ons/webextensions/api/proxy/settings,0
+mozilla/add-ons/webextensions/api/publicsuffix,null
+mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,null
+mozilla/add-ons/webextensions/api/publicsuffix/getdomain,null
+mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,null
+mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,null
 mozilla/add-ons/webextensions/api/runtime,null
 mozilla/add-ons/webextensions/api/runtime/connect,null
 mozilla/add-ons/webextensions/api/runtime/connectnative,null
@@ -1933,7 +1938,7 @@ mozilla/firefox/releases/121,12
 mozilla/firefox/releases/122,10
 mozilla/firefox/releases/123,11
 mozilla/firefox/releases/124,5
-mozilla/firefox/releases/125,17
+mozilla/firefox/releases/125,18
 mozilla/firefox/releases/126,13
 mozilla/firefox/releases/127,17
 mozilla/firefox/releases/128,0
@@ -8117,7 +8122,6 @@ web/api/svgaelement/rel,0
 web/api/svgaelement/rellist,0
 web/api/svgaelement/search,0
 web/api/svgaelement/target,0
-web/api/svgaelement/text,0
 web/api/svgaelement/type,0
 web/api/svgaelement/username,0
 web/api/svgangle,0
@@ -8571,7 +8575,6 @@ web/api/svgrectelement/ry,0
 web/api/svgrectelement/width,0
 web/api/svgrectelement/x,0
 web/api/svgrectelement/y,0
-web/api/svgrenderingintent,null
 web/api/svgscriptelement,null
 web/api/svgscriptelement/async,null
 web/api/svgscriptelement/href,null
@@ -11116,7 +11119,7 @@ web/css/reference/properties/text-wrap-style,2
 web/css/reference/properties/timeline-scope,2
 web/css/reference/properties/top,1
 web/css/reference/properties/touch-action,1
-web/css/reference/properties/transform,1
+web/css/reference/properties/transform,2
 web/css/reference/properties/transform-box,1
 web/css/reference/properties/transform-origin,1
 web/css/reference/properties/transform-style,1
@@ -11506,7 +11509,7 @@ web/css/reference/values/var,1
 web/css/reference/webkit_extensions,null
 web/css/tutorials,7
 web/html,0
-web/html/guides,0
+web/html/guides,1
 web/html/guides/cheatsheet,0
 web/html/guides/comments,2
 web/html/guides/constraint_validation,0
@@ -11524,7 +11527,7 @@ web/html/how_to/cors_enabled_image,4
 web/html/how_to/define_terms_with_html,1
 web/html/how_to/use_data_attributes,0
 web/html/reference,0
-web/html/reference/attributes,0
+web/html/reference/attributes,1
 web/html/reference/attributes/accept,3
 web/html/reference/attributes/autocomplete,0
 web/html/reference/attributes/capture,2

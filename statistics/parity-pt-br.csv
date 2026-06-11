@@ -1528,6 +1528,11 @@ mozilla/add-ons/webextensions/api/proxy/onrequest,null
 mozilla/add-ons/webextensions/api/proxy/proxyinfo,null
 mozilla/add-ons/webextensions/api/proxy/requestdetails,null
 mozilla/add-ons/webextensions/api/proxy/settings,null
+mozilla/add-ons/webextensions/api/publicsuffix,null
+mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,null
+mozilla/add-ons/webextensions/api/publicsuffix/getdomain,null
+mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,null
+mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,null
 mozilla/add-ons/webextensions/api/runtime,null
 mozilla/add-ons/webextensions/api/runtime/connect,null
 mozilla/add-ons/webextensions/api/runtime/connectnative,null
@@ -8117,7 +8122,6 @@ web/api/svgaelement/rel,null
 web/api/svgaelement/rellist,null
 web/api/svgaelement/search,null
 web/api/svgaelement/target,null
-web/api/svgaelement/text,null
 web/api/svgaelement/type,null
 web/api/svgaelement/username,null
 web/api/svgangle,null
@@ -8571,7 +8575,6 @@ web/api/svgrectelement/ry,null
 web/api/svgrectelement/width,null
 web/api/svgrectelement/x,null
 web/api/svgrectelement/y,null
-web/api/svgrenderingintent,null
 web/api/svgscriptelement,null
 web/api/svgscriptelement/async,null
 web/api/svgscriptelement/href,null

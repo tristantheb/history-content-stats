@@ -1390,13 +1390,13 @@ mozilla/add-ons/webextensions/api/events/event/removelistener,null
 mozilla/add-ons/webextensions/api/events/event/removerules,null
 mozilla/add-ons/webextensions/api/events/rule,3
 mozilla/add-ons/webextensions/api/events/urlfilter,5
-mozilla/add-ons/webextensions/api/extension,4
+mozilla/add-ons/webextensions/api/extension,5
 mozilla/add-ons/webextensions/api/extension/getbackgroundpage,1
 mozilla/add-ons/webextensions/api/extension/getextensiontabs,2
 mozilla/add-ons/webextensions/api/extension/geturl,2
 mozilla/add-ons/webextensions/api/extension/getviews,3
 mozilla/add-ons/webextensions/api/extension/inincognitocontext,2
-mozilla/add-ons/webextensions/api/extension/isallowedfileschemeaccess,2
+mozilla/add-ons/webextensions/api/extension/isallowedfileschemeaccess,3
 mozilla/add-ons/webextensions/api/extension/isallowedincognitoaccess,1
 mozilla/add-ons/webextensions/api/extension/lasterror,2
 mozilla/add-ons/webextensions/api/extension/onrequest,3
@@ -1528,6 +1528,11 @@ mozilla/add-ons/webextensions/api/proxy/onrequest,null
 mozilla/add-ons/webextensions/api/proxy/proxyinfo,null
 mozilla/add-ons/webextensions/api/proxy/requestdetails,null
 mozilla/add-ons/webextensions/api/proxy/settings,null
+mozilla/add-ons/webextensions/api/publicsuffix,null
+mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,null
+mozilla/add-ons/webextensions/api/publicsuffix/getdomain,null
+mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,null
+mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,null
 mozilla/add-ons/webextensions/api/runtime,null
 mozilla/add-ons/webextensions/api/runtime/connect,null
 mozilla/add-ons/webextensions/api/runtime/connectnative,null
@@ -1722,7 +1727,7 @@ mozilla/add-ons/webextensions/api/types/browsersetting/clear,null
 mozilla/add-ons/webextensions/api/types/browsersetting/get,null
 mozilla/add-ons/webextensions/api/types/browsersetting/onchange,null
 mozilla/add-ons/webextensions/api/types/browsersetting/set,null
-mozilla/add-ons/webextensions/api/userscripts,4
+mozilla/add-ons/webextensions/api/userscripts,5
 mozilla/add-ons/webextensions/api/userscripts/configureworld,2
 mozilla/add-ons/webextensions/api/userscripts/execute,null
 mozilla/add-ons/webextensions/api/userscripts/executionworld,1
@@ -1731,7 +1736,7 @@ mozilla/add-ons/webextensions/api/userscripts/getworldconfigurations,1
 mozilla/add-ons/webextensions/api/userscripts/register,2
 mozilla/add-ons/webextensions/api/userscripts/registereduserscript,1
 mozilla/add-ons/webextensions/api/userscripts/resetworldconfiguration,1
-mozilla/add-ons/webextensions/api/userscripts/scriptsource,2
+mozilla/add-ons/webextensions/api/userscripts/scriptsource,3
 mozilla/add-ons/webextensions/api/userscripts/unregister,1
 mozilla/add-ons/webextensions/api/userscripts/update,2
 mozilla/add-ons/webextensions/api/userscripts/userscriptfilter,1
@@ -1933,7 +1938,7 @@ mozilla/firefox/releases/121,13
 mozilla/firefox/releases/122,10
 mozilla/firefox/releases/123,9
 mozilla/firefox/releases/124,5
-mozilla/firefox/releases/125,17
+mozilla/firefox/releases/125,18
 mozilla/firefox/releases/126,13
 mozilla/firefox/releases/127,16
 mozilla/firefox/releases/128,null
@@ -8117,7 +8122,6 @@ web/api/svgaelement/rel,null
 web/api/svgaelement/rellist,null
 web/api/svgaelement/search,null
 web/api/svgaelement/target,null
-web/api/svgaelement/text,null
 web/api/svgaelement/type,null
 web/api/svgaelement/username,null
 web/api/svgangle,null
@@ -8571,7 +8575,6 @@ web/api/svgrectelement/ry,null
 web/api/svgrectelement/width,null
 web/api/svgrectelement/x,null
 web/api/svgrectelement/y,null
-web/api/svgrenderingintent,null
 web/api/svgscriptelement,null
 web/api/svgscriptelement/async,null
 web/api/svgscriptelement/href,null
@@ -11116,7 +11119,7 @@ web/css/reference/properties/text-wrap-style,null
 web/css/reference/properties/timeline-scope,null
 web/css/reference/properties/top,null
 web/css/reference/properties/touch-action,null
-web/css/reference/properties/transform,4
+web/css/reference/properties/transform,5
 web/css/reference/properties/transform-box,null
 web/css/reference/properties/transform-origin,null
 web/css/reference/properties/transform-style,null
@@ -11506,7 +11509,7 @@ web/css/reference/values/var,null
 web/css/reference/webkit_extensions,null
 web/css/tutorials,null
 web/html,null
-web/html/guides,0
+web/html/guides,1
 web/html/guides/cheatsheet,2
 web/html/guides/comments,2
 web/html/guides/constraint_validation,null
