@@ -1096,7 +1096,7 @@ mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_w
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,5
 mdn/writing_guidelines/learning_content,5
 mdn/writing_guidelines/page_structures,0
-mdn/writing_guidelines/page_structures/banners_and_notices,5
+mdn/writing_guidelines/page_structures/banners_and_notices,6
 mdn/writing_guidelines/page_structures/code_examples,1
 mdn/writing_guidelines/page_structures/compatibility_tables,1
 mdn/writing_guidelines/page_structures/feature_status,8
@@ -3465,7 +3465,7 @@ web/api/deviceposture/change_event,0
 web/api/deviceposture/type,0
 web/api/directoryentrysync,5
 web/api/directoryreadersync,null
-web/api/document,15
+web/api/document,16
 web/api/document/activeelement,5
 web/api/document/activeviewtransition,0
 web/api/document/adoptedstylesheets,5
@@ -3588,7 +3588,7 @@ web/api/document/referrer,2
 web/api/document/releasecapture,0
 web/api/document/replacechildren,1
 web/api/document/requeststorageaccess,8
-web/api/document/requeststorageaccessfor,9
+web/api/document/requeststorageaccessfor,10
 web/api/document/rootelement,0
 web/api/document/scripts,0
 web/api/document/scroll_event,6
@@ -8009,8 +8009,7 @@ web/api/storage/key,1
 web/api/storage/length,1
 web/api/storage/removeitem,1
 web/api/storage/setitem,3
-web/api/storage_access_api,0
-web/api/storage_access_api/related_website_sets,null
+web/api/storage_access_api,1
 web/api/storage_access_api/using,null
 web/api/storage_api,null
 web/api/storage_api/storage_quotas_and_eviction_criteria,2
@@ -11527,7 +11526,7 @@ web/html/how_to/cors_enabled_image,4
 web/html/how_to/define_terms_with_html,1
 web/html/how_to/use_data_attributes,0
 web/html/reference,0
-web/html/reference/attributes,1
+web/html/reference/attributes,2
 web/html/reference/attributes/accept,3
 web/html/reference/attributes/autocomplete,0
 web/html/reference/attributes/capture,2

@@ -8010,7 +8010,6 @@ web/api/storage/length,null
 web/api/storage/removeitem,null
 web/api/storage/setitem,null
 web/api/storage_access_api,null
-web/api/storage_access_api/related_website_sets,null
 web/api/storage_access_api/using,null
 web/api/storage_api,null
 web/api/storage_api/storage_quotas_and_eviction_criteria,null

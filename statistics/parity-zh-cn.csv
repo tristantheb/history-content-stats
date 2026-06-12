@@ -2577,10 +2577,10 @@ web/api/backgroundfetchupdateuievent/backgroundfetchupdateuievent,null
 web/api/backgroundfetchupdateuievent/updateui,null
 web/api/badging_api,0
 web/api/barcode_detection_api,0
-web/api/barcodedetector,1
+web/api/barcodedetector,2
 web/api/barcodedetector/barcodedetector,1
 web/api/barcodedetector/detect,0
-web/api/barcodedetector/getsupportedformats_static,0
+web/api/barcodedetector/getsupportedformats_static,1
 web/api/barprop,1
 web/api/barprop/visible,1
 web/api/baseaudiocontext,null
@@ -3465,7 +3465,7 @@ web/api/deviceposture/change_event,null
 web/api/deviceposture/type,null
 web/api/directoryentrysync,null
 web/api/directoryreadersync,null
-web/api/document,5
+web/api/document,6
 web/api/document/activeelement,5
 web/api/document/activeviewtransition,null
 web/api/document/adoptedstylesheets,5
@@ -8010,7 +8010,6 @@ web/api/storage/length,null
 web/api/storage/removeitem,null
 web/api/storage/setitem,null
 web/api/storage_access_api,null
-web/api/storage_access_api/related_website_sets,null
 web/api/storage_access_api/using,null
 web/api/storage_api,null
 web/api/storage_api/storage_quotas_and_eviction_criteria,null
@@ -13570,7 +13569,7 @@ web/privacy,7
 web/privacy/guides,0
 web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,2
-web/privacy/guides/privacy_sandbox,10
+web/privacy/guides/privacy_sandbox,11
 web/privacy/guides/privacy_sandbox/enrollment,5
 web/privacy/guides/privacy_sandbox/partitioned_cookies,4
 web/privacy/guides/redirect_tracking_protection,null

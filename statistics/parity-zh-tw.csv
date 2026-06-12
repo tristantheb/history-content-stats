@@ -1096,7 +1096,7 @@ mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_w
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,null
 mdn/writing_guidelines/learning_content,null
 mdn/writing_guidelines/page_structures,0
-mdn/writing_guidelines/page_structures/banners_and_notices,4
+mdn/writing_guidelines/page_structures/banners_and_notices,5
 mdn/writing_guidelines/page_structures/code_examples,null
 mdn/writing_guidelines/page_structures/compatibility_tables,null
 mdn/writing_guidelines/page_structures/feature_status,null
@@ -8010,7 +8010,6 @@ web/api/storage/length,null
 web/api/storage/removeitem,null
 web/api/storage/setitem,null
 web/api/storage_access_api,null
-web/api/storage_access_api/related_website_sets,null
 web/api/storage_access_api/using,null
 web/api/storage_api,null
 web/api/storage_api/storage_quotas_and_eviction_criteria,null
