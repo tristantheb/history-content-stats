@@ -2577,10 +2577,10 @@ web/api/backgroundfetchupdateuievent/backgroundfetchupdateuievent,0
 web/api/backgroundfetchupdateuievent/updateui,0
 web/api/badging_api,0
 web/api/barcode_detection_api,0
-web/api/barcodedetector,1
+web/api/barcodedetector,0
 web/api/barcodedetector/barcodedetector,0
 web/api/barcodedetector/detect,0
-web/api/barcodedetector/getsupportedformats_static,1
+web/api/barcodedetector/getsupportedformats_static,0
 web/api/barprop,0
 web/api/barprop/visible,0
 web/api/baseaudiocontext,0
@@ -3465,7 +3465,7 @@ web/api/deviceposture/change_event,0
 web/api/deviceposture/type,0
 web/api/directoryentrysync,0
 web/api/directoryreadersync,0
-web/api/document,1
+web/api/document,0
 web/api/document/activeelement,0
 web/api/document/activeviewtransition,0
 web/api/document/adoptedstylesheets,0
@@ -3588,7 +3588,7 @@ web/api/document/referrer,0
 web/api/document/releasecapture,0
 web/api/document/replacechildren,0
 web/api/document/requeststorageaccess,0
-web/api/document/requeststorageaccessfor,1
+web/api/document/requeststorageaccessfor,0
 web/api/document/rootelement,0
 web/api/document/scripts,0
 web/api/document/scroll_event,0
@@ -5616,7 +5616,7 @@ web/api/identityprovider/getuserinfo_static,0
 web/api/idle_detection_api,0
 web/api/idledeadline,0
 web/api/idledeadline/didtimeout,0
-web/api/idledeadline/timeremaining,1
+web/api/idledeadline/timeremaining,0
 web/api/idledetector,0
 web/api/idledetector/change_event,0
 web/api/idledetector/idledetector,0
@@ -8010,7 +8010,7 @@ web/api/storage/length,0
 web/api/storage/removeitem,0
 web/api/storage/setitem,0
 web/api/storage_access_api,1
-web/api/storage_access_api/using,1
+web/api/storage_access_api/using,0
 web/api/storage_api,0
 web/api/storage_api/storage_quotas_and_eviction_criteria,0
 web/api/storageaccesshandle,0
@@ -9624,7 +9624,7 @@ web/api/webtransport/closed,0
 web/api/webtransport/congestioncontrol,0
 web/api/webtransport/createbidirectionalstream,0
 web/api/webtransport/createunidirectionalstream,0
-web/api/webtransport/datagrams,1
+web/api/webtransport/datagrams,0
 web/api/webtransport/getstats,0
 web/api/webtransport/incomingbidirectionalstreams,0
 web/api/webtransport/incomingunidirectionalstreams,0
@@ -11526,7 +11526,7 @@ web/html/how_to/cors_enabled_image,0
 web/html/how_to/define_terms_with_html,0
 web/html/how_to/use_data_attributes,0
 web/html/reference,0
-web/html/reference/attributes,1
+web/html/reference/attributes,0
 web/html/reference/attributes/accept,0
 web/html/reference/attributes/autocomplete,0
 web/html/reference/attributes/capture,0
@@ -13569,7 +13569,7 @@ web/privacy,0
 web/privacy/guides,0
 web/privacy/guides/bounce_tracking_mitigations,0
 web/privacy/guides/firefox_tracking_protection,0
-web/privacy/guides/privacy_sandbox,1
+web/privacy/guides/privacy_sandbox,0
 web/privacy/guides/privacy_sandbox/enrollment,0
 web/privacy/guides/privacy_sandbox/partitioned_cookies,0
 web/privacy/guides/redirect_tracking_protection,0
