@@ -5616,7 +5616,7 @@ web/api/identityprovider/getuserinfo_static,0
 web/api/idle_detection_api,0
 web/api/idledeadline,0
 web/api/idledeadline/didtimeout,0
-web/api/idledeadline/timeremaining,0
+web/api/idledeadline/timeremaining,1
 web/api/idledetector,0
 web/api/idledetector/change_event,0
 web/api/idledetector/idledetector,0
