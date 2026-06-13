@@ -3246,10 +3246,10 @@ web/api/csspropertyrule/inherits,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b,Web AP
 web/api/csspropertyrule/initialvalue,636b90011532e3fd2cf9333aaf1754fdc8de7938,Web APIs
 web/api/csspropertyrule/name,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b,Web APIs
 web/api/csspropertyrule/syntax,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b,Web APIs
-web/api/csspseudoelement,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
+web/api/csspseudoelement,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web APIs
 web/api/csspseudoelement/element,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
 web/api/csspseudoelement/parent,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
-web/api/csspseudoelement/pseudo,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
+web/api/csspseudoelement/pseudo,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web APIs
 web/api/csspseudoelement/type,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
 web/api/cssrotate,ecc46f2c8d6e09f0aa6e1b3f5194abfcf462e603,Web APIs
 web/api/cssrotate/angle,53b1989260054e651bcf001bacee9b843b8ca9c8,Web APIs
@@ -3809,7 +3809,7 @@ web/api/editcontext/updateselectionbounds,ffff697fbd3004c3da50323ef4d868b3ad47e4
 web/api/editcontext/updatetext,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
 web/api/editcontext_api,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/editcontext_api/guide,886f2641ae90a70858c5e7d0d20959c70ee44d9d,Web APIs
-web/api/element,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
+web/api/element,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web APIs
 web/api/element/after,8374946642c18a9cc4bf510de767011124e832a2,Web APIs
 web/api/element/afterscriptexecute_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/element/animate,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
@@ -3971,7 +3971,7 @@ web/api/element/pointerup_event,a7265fc3effa7c25b9997135104370c057a65293,Web API
 web/api/element/prefix,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/element/prepend,bd15d43260b7e72b1066c04d9d9f3b79129c619c,Web APIs
 web/api/element/previouselementsibling,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
-web/api/element/pseudo,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
+web/api/element/pseudo,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web APIs
 web/api/element/queryselector,f69b6693212029ce4b9fa0c753729044577af548,Web APIs
 web/api/element/queryselectorall,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/element/releasepointercapture,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
@@ -7121,7 +7121,7 @@ web/api/request/referrer,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/request/referrerpolicy,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/request/request,f6e66d18205c93fcaeb2ea9ad51541b5b4d7d2b1,Web APIs
 web/api/request/signal,242b21a3650efeec0d5d2c74cbd171891748c115,Web APIs
-web/api/request/targetaddressspace,75016e5d37ecff3b11de4c2ef6665178f654797e,Web APIs
+web/api/request/targetaddressspace,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web APIs
 web/api/request/text,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/url,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/requestinit,75016e5d37ecff3b11de4c2ef6665178f654797e,Web APIs

@@ -3246,7 +3246,7 @@ web/api/csspropertyrule/inherits,1
 web/api/csspropertyrule/initialvalue,3
 web/api/csspropertyrule/name,1
 web/api/csspropertyrule/syntax,1
-web/api/csspseudoelement,2
+web/api/csspseudoelement,3
 web/api/csspseudoelement/element,1
 web/api/csspseudoelement/parent,null
 web/api/csspseudoelement/pseudo,null
@@ -3809,7 +3809,7 @@ web/api/editcontext/updateselectionbounds,1
 web/api/editcontext/updatetext,2
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,7
+web/api/element,8
 web/api/element/after,3
 web/api/element/afterscriptexecute_event,3
 web/api/element/animate,11
