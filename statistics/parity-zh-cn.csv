@@ -3809,7 +3809,7 @@ web/api/editcontext/updateselectionbounds,null
 web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,8
+web/api/element,9
 web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
 web/api/element/animate,null
