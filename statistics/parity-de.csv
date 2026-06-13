@@ -1096,7 +1096,7 @@ mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_w
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,0
 mdn/writing_guidelines/learning_content,0
 mdn/writing_guidelines/page_structures,0
-mdn/writing_guidelines/page_structures/banners_and_notices,1
+mdn/writing_guidelines/page_structures/banners_and_notices,0
 mdn/writing_guidelines/page_structures/code_examples,0
 mdn/writing_guidelines/page_structures/compatibility_tables,0
 mdn/writing_guidelines/page_structures/feature_status,0
@@ -1530,7 +1530,7 @@ mozilla/add-ons/webextensions/api/proxy/requestdetails,0
 mozilla/add-ons/webextensions/api/proxy/settings,0
 mozilla/add-ons/webextensions/api/publicsuffix,0
 mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,0
-mozilla/add-ons/webextensions/api/publicsuffix/getdomain,1
+mozilla/add-ons/webextensions/api/publicsuffix/getdomain,0
 mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,0
 mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,0
 mozilla/add-ons/webextensions/api/runtime,0
@@ -3246,10 +3246,10 @@ web/api/csspropertyrule/inherits,0
 web/api/csspropertyrule/initialvalue,0
 web/api/csspropertyrule/name,0
 web/api/csspropertyrule/syntax,0
-web/api/csspseudoelement,1
+web/api/csspseudoelement,0
 web/api/csspseudoelement/element,0
 web/api/csspseudoelement/parent,0
-web/api/csspseudoelement/pseudo,1
+web/api/csspseudoelement/pseudo,0
 web/api/csspseudoelement/type,0
 web/api/cssrotate,0
 web/api/cssrotate/angle,0
@@ -3809,7 +3809,7 @@ web/api/editcontext/updateselectionbounds,0
 web/api/editcontext/updatetext,0
 web/api/editcontext_api,0
 web/api/editcontext_api/guide,0
-web/api/element,1
+web/api/element,0
 web/api/element/after,0
 web/api/element/afterscriptexecute_event,0
 web/api/element/animate,0
@@ -3971,7 +3971,7 @@ web/api/element/pointerup_event,0
 web/api/element/prefix,0
 web/api/element/prepend,0
 web/api/element/previouselementsibling,0
-web/api/element/pseudo,1
+web/api/element/pseudo,0
 web/api/element/queryselector,0
 web/api/element/queryselectorall,0
 web/api/element/releasepointercapture,0
@@ -7121,7 +7121,7 @@ web/api/request/referrer,0
 web/api/request/referrerpolicy,0
 web/api/request/request,0
 web/api/request/signal,0
-web/api/request/targetaddressspace,1
+web/api/request/targetaddressspace,0
 web/api/request/text,0
 web/api/request/url,0
 web/api/requestinit,0
@@ -8009,7 +8009,7 @@ web/api/storage/key,0
 web/api/storage/length,0
 web/api/storage/removeitem,0
 web/api/storage/setitem,0
-web/api/storage_access_api,1
+web/api/storage_access_api,0
 web/api/storage_access_api/using,0
 web/api/storage_api,0
 web/api/storage_api/storage_quotas_and_eviction_criteria,0
@@ -9635,7 +9635,7 @@ web/api/webtransport_api,0
 web/api/webtransportbidirectionalstream,0
 web/api/webtransportbidirectionalstream/readable,0
 web/api/webtransportbidirectionalstream/writable,0
-web/api/webtransportdatagramduplexstream,1
+web/api/webtransportdatagramduplexstream,0
 web/api/webtransportdatagramduplexstream/incominghighwatermark,0
 web/api/webtransportdatagramduplexstream/incomingmaxage,0
 web/api/webtransportdatagramduplexstream/maxdatagramsize,0
