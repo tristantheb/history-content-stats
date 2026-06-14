@@ -974,7 +974,7 @@ learn_web_development/extensions/server-side/express_nodejs/forms/create_genre_f
 learn_web_development/extensions/server-side/express_nodejs/forms/delete_author_form,null
 learn_web_development/extensions/server-side/express_nodejs/forms/update_book_form,null
 learn_web_development/extensions/server-side/express_nodejs/introduction,0
-learn_web_development/extensions/server-side/express_nodejs/mongoose,null
+learn_web_development/extensions/server-side/express_nodejs/mongoose,0
 learn_web_development/extensions/server-side/express_nodejs/routes,null
 learn_web_development/extensions/server-side/express_nodejs/skeleton_website,0
 learn_web_development/extensions/server-side/express_nodejs/tutorial_local_library_website,null
@@ -2109,7 +2109,7 @@ web/accessibility/aria/guides,0
 web/accessibility/aria/guides/live_regions,0
 web/accessibility/aria/guides/multipart_labels,null
 web/accessibility/aria/guides/screen_reader_implementors,null
-web/accessibility/aria/guides/techniques,1
+web/accessibility/aria/guides/techniques,0
 web/accessibility/aria/reference,0
 web/accessibility/aria/reference/attributes,1
 web/accessibility/aria/reference/attributes/aria-activedescendant,4
@@ -7124,7 +7124,7 @@ web/api/request/signal,0
 web/api/request/targetaddressspace,null
 web/api/request/text,1
 web/api/request/url,1
-web/api/requestinit,12
+web/api/requestinit,13
 web/api/resize_observer_api,2
 web/api/resizeobserver,6
 web/api/resizeobserver/disconnect,0
@@ -11340,10 +11340,10 @@ web/css/reference/values/basic-shape,1
 web/css/reference/values/basic-shape/circle,0
 web/css/reference/values/basic-shape/ellipse,0
 web/css/reference/values/basic-shape/inset,0
-web/css/reference/values/basic-shape/path,2
+web/css/reference/values/basic-shape/path,0
 web/css/reference/values/basic-shape/polygon,0
 web/css/reference/values/basic-shape/rect,0
-web/css/reference/values/basic-shape/shape,2
+web/css/reference/values/basic-shape/shape,0
 web/css/reference/values/basic-shape/xywh,0
 web/css/reference/values/blend-mode,0
 web/css/reference/values/box-edge,1
