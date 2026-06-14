@@ -6816,7 +6816,7 @@ web/css/guides/scroll-driven_animations/timelines,11d748f9e217b6a9fd16291d7815a6
 web/css/guides/scroll_anchoring,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/scroll_anchoring/overview,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/scroll_snap/basic_concepts,81f8fcd666952c1782653a3675347c392cc997ca
-web/css/guides/scroll_snap,11d748f9e217b6a9fd16291d7815a6f803f0136d
+web/css/guides/scroll_snap,a14f56b06eabf3b182ae4bc0e02634a8ccc01f20
 web/css/guides/scroll_snap/using_scroll_snap_events,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/scrollbars_styling,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/selectors,a397ab763a6686a4056af755e4da32ac735b9fa5
@@ -7000,6 +7000,7 @@ web/css/reference/properties/align-self,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/alignment-baseline,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/all,1bfe630bd8538b64c97c7f684f5ee647a76c1a28
 web/css/reference/properties/anchor-name,8300697ca75ca1e77175912110d4fe9ef48cb0bb
+web/css/reference/properties/anchor-scope,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/animation-composition,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/animation-delay,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/animation-direction,46a4425d4b7160129fd4c8d0f684ccd0617326b7
