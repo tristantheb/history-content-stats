@@ -7124,7 +7124,7 @@ web/api/request/signal,0
 web/api/request/targetaddressspace,0
 web/api/request/text,0
 web/api/request/url,0
-web/api/requestinit,0
+web/api/requestinit,1
 web/api/resize_observer_api,0
 web/api/resizeobserver,0
 web/api/resizeobserver/disconnect,0
