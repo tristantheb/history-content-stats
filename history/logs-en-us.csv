@@ -7124,7 +7124,7 @@ web/api/request/signal,242b21a3650efeec0d5d2c74cbd171891748c115,Web APIs
 web/api/request/targetaddressspace,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web APIs
 web/api/request/text,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/url,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
-web/api/requestinit,75016e5d37ecff3b11de4c2ef6665178f654797e,Web APIs
+web/api/requestinit,0985f662bf6c2351278ddb6c6629827d00ff6755,Web APIs
 web/api/resize_observer_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/resizeobserver,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/resizeobserver/disconnect,954612667bafd71241a93e8554e8f11afc474ff3,Web APIs
