@@ -10444,7 +10444,7 @@ web/css/guides/scroll-driven_animations/timeline_range_names,null
 web/css/guides/scroll-driven_animations/timelines,2
 web/css/guides/scroll_anchoring,0
 web/css/guides/scroll_anchoring/overview,0
-web/css/guides/scroll_snap,1
+web/css/guides/scroll_snap,0
 web/css/guides/scroll_snap/basic_concepts,1
 web/css/guides/scroll_snap/using_scroll_snap_events,0
 web/css/guides/scrollbars_styling,0
@@ -10632,7 +10632,7 @@ web/css/reference/properties/align-self,1
 web/css/reference/properties/alignment-baseline,1
 web/css/reference/properties/all,1
 web/css/reference/properties/anchor-name,1
-web/css/reference/properties/anchor-scope,null
+web/css/reference/properties/anchor-scope,0
 web/css/reference/properties/animation,3
 web/css/reference/properties/animation-composition,1
 web/css/reference/properties/animation-delay,1
