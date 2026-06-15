@@ -12,7 +12,7 @@ games/techniques/3d_collision_detection,0
 games/techniques/3d_collision_detection/bounding_volume_collision_detection_with_three.js,0
 games/techniques/3d_on_the_web,0
 games/techniques/3d_on_the_web/basic_theory,0
-games/techniques/3d_on_the_web/building_up_a_basic_demo_with_a-frame,1
+games/techniques/3d_on_the_web/building_up_a_basic_demo_with_a-frame,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_babylon.js,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/editor,0
@@ -13574,14 +13574,14 @@ web/privacy/guides/privacy_sandbox/enrollment,0
 web/privacy/guides/privacy_sandbox/partitioned_cookies,0
 web/privacy/guides/redirect_tracking_protection,0
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,0
-web/privacy/guides/state_partitioning,1
-web/privacy/guides/storage_access_policy,1
+web/privacy/guides/state_partitioning,0
+web/privacy/guides/storage_access_policy,0
 web/privacy/guides/storage_access_policy/errors,0
 web/privacy/guides/storage_access_policy/errors/cookieblockedall,0
 web/privacy/guides/storage_access_policy/errors/cookieblockedbypermission,0
-web/privacy/guides/storage_access_policy/errors/cookieblockedforeign,1
+web/privacy/guides/storage_access_policy/errors/cookieblockedforeign,0
 web/privacy/guides/storage_access_policy/errors/cookieblockedtracker,0
-web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,1
+web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,0
 web/privacy/guides/third-party_cookies,0
 web/progressive_web_apps,0
 web/progressive_web_apps/guides,0
