@@ -13575,13 +13575,13 @@ web/privacy/guides/privacy_sandbox/partitioned_cookies,null
 web/privacy/guides/redirect_tracking_protection,null
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,1
 web/privacy/guides/state_partitioning,null
-web/privacy/guides/storage_access_policy,0
+web/privacy/guides/storage_access_policy,1
 web/privacy/guides/storage_access_policy/errors,0
 web/privacy/guides/storage_access_policy/errors/cookieblockedall,null
 web/privacy/guides/storage_access_policy/errors/cookieblockedbypermission,null
 web/privacy/guides/storage_access_policy/errors/cookieblockedforeign,null
 web/privacy/guides/storage_access_policy/errors/cookieblockedtracker,null
-web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,0
+web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,1
 web/privacy/guides/third-party_cookies,3
 web/progressive_web_apps,4
 web/progressive_web_apps/guides,1
