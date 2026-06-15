@@ -13574,14 +13574,14 @@ web/privacy/guides/privacy_sandbox/enrollment,5
 web/privacy/guides/privacy_sandbox/partitioned_cookies,4
 web/privacy/guides/redirect_tracking_protection,null
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,null
-web/privacy/guides/state_partitioning,5
+web/privacy/guides/state_partitioning,6
 web/privacy/guides/storage_access_policy,null
 web/privacy/guides/storage_access_policy/errors,0
 web/privacy/guides/storage_access_policy/errors/cookieblockedall,1
 web/privacy/guides/storage_access_policy/errors/cookieblockedbypermission,0
-web/privacy/guides/storage_access_policy/errors/cookieblockedforeign,0
+web/privacy/guides/storage_access_policy/errors/cookieblockedforeign,1
 web/privacy/guides/storage_access_policy/errors/cookieblockedtracker,0
-web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,0
+web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,1
 web/privacy/guides/third-party_cookies,4
 web/progressive_web_apps,null
 web/progressive_web_apps/guides,0
