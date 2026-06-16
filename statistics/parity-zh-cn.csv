@@ -1970,6 +1970,7 @@ mozilla/firefox/releases/150,null
 mozilla/firefox/releases/151,null
 mozilla/firefox/releases/152,null
 mozilla/firefox/releases/153,null
+mozilla/firefox/releases/154,null
 mozilla/firefox/releases/16,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
@@ -5915,12 +5916,12 @@ web/api/medialist/length,null
 web/api/medialist/mediatext,null
 web/api/medialist/tostring,null
 web/api/mediametadata,0
-web/api/mediametadata/album,null
-web/api/mediametadata/artist,null
+web/api/mediametadata/album,0
+web/api/mediametadata/artist,0
 web/api/mediametadata/artwork,null
 web/api/mediametadata/chapterinfo,null
 web/api/mediametadata/mediametadata,null
-web/api/mediametadata/title,null
+web/api/mediametadata/title,0
 web/api/mediaquerylist,null
 web/api/mediaquerylist/addlistener,null
 web/api/mediaquerylist/change_event,null

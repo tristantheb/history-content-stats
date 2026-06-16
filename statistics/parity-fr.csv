@@ -1903,7 +1903,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,3
 mozilla/firefox,0
-mozilla/firefox/experimental_features,17
+mozilla/firefox/experimental_features,19
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1964,12 +1964,13 @@ mozilla/firefox/releases/145,0
 mozilla/firefox/releases/146,0
 mozilla/firefox/releases/147,0
 mozilla/firefox/releases/148,0
-mozilla/firefox/releases/149,0
+mozilla/firefox/releases/149,1
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,0
-mozilla/firefox/releases/152,1
+mozilla/firefox/releases/151,1
+mozilla/firefox/releases/152,3
 mozilla/firefox/releases/153,null
+mozilla/firefox/releases/154,null
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -10584,7 +10585,7 @@ web/css/reference/at-rules/@media/overflow-inline,0
 web/css/reference/at-rules/@media/pointer,0
 web/css/reference/at-rules/@media/prefers-color-scheme,0
 web/css/reference/at-rules/@media/prefers-contrast,0
-web/css/reference/at-rules/@media/prefers-reduced-data,0
+web/css/reference/at-rules/@media/prefers-reduced-data,1
 web/css/reference/at-rules/@media/prefers-reduced-motion,1
 web/css/reference/at-rules/@media/prefers-reduced-transparency,0
 web/css/reference/at-rules/@media/resolution,0
