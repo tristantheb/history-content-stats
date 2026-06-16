@@ -1903,7 +1903,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,19f3e11f44bce2ba4e76067b868e29314cbb97a0,Mozilla|Firefox
+mozilla/firefox/experimental_features,86f1c6f4e3582b382c8e41654123968ff4551fdc,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1964,12 +1964,13 @@ mozilla/firefox/releases/145,30487c754854c3f21157827914eefb94d0e5bd4d,Mozilla|Fi
 mozilla/firefox/releases/146,13fd8fb0c8553a8bf34b37f4952d911fad5a0d6b,Mozilla|Firefox|Versions
 mozilla/firefox/releases/147,21638327a5baa7ecf918835c4a233a74f25b02ed,Mozilla|Firefox|Versions
 mozilla/firefox/releases/148,d9e71f8b15265a041b550a54a1d0970f049053e4,Mozilla|Firefox|Versions
-mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Firefox|Versions
+mozilla/firefox/releases/149,4c414e3e776ea5a6bd7b2fc9479d87b5b8e91a1d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Firefox|Versions
-mozilla/firefox/releases/151,d9835ea7d100660d8d845f358277d5b25b825a20,Mozilla|Firefox|Versions
-mozilla/firefox/releases/152,dddb369a2026e37a251ae6ccfad04907456caa35,Mozilla|Firefox|Versions
-mozilla/firefox/releases/153,20c11f6af0809fa827413acf968b56bf4650d8d4,Mozilla|Firefox|Versions
+mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
+mozilla/firefox/releases/152,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
+mozilla/firefox/releases/153,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
+mozilla/firefox/releases/154,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -10584,7 +10585,7 @@ web/css/reference/at-rules/@media/overflow-inline,67d40334c8b90e4623f3b0d3aea466
 web/css/reference/at-rules/@media/pointer,67d40334c8b90e4623f3b0d3aea466b9882d8236,CSS|At-rules
 web/css/reference/at-rules/@media/prefers-color-scheme,67d40334c8b90e4623f3b0d3aea466b9882d8236,CSS|At-rules
 web/css/reference/at-rules/@media/prefers-contrast,67d40334c8b90e4623f3b0d3aea466b9882d8236,CSS|At-rules
-web/css/reference/at-rules/@media/prefers-reduced-data,67d40334c8b90e4623f3b0d3aea466b9882d8236,CSS|At-rules
+web/css/reference/at-rules/@media/prefers-reduced-data,294f2e4cedd4de0d99948f3bf9b451454387fe35,CSS|At-rules
 web/css/reference/at-rules/@media/prefers-reduced-motion,2d5e55258ef3f001d0d9fea6b48486bd3056fca6,CSS|At-rules
 web/css/reference/at-rules/@media/prefers-reduced-transparency,67d40334c8b90e4623f3b0d3aea466b9882d8236,CSS|At-rules
 web/css/reference/at-rules/@media/resolution,67d40334c8b90e4623f3b0d3aea466b9882d8236,CSS|At-rules
