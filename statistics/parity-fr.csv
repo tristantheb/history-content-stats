@@ -838,12 +838,12 @@ learn_web_development/core/styling_basics/basic_selectors,0
 learn_web_development/core/styling_basics/box_model,0
 learn_web_development/core/styling_basics/cascade_layers,null
 learn_web_development/core/styling_basics/combinators,0
-learn_web_development/core/styling_basics/debugging_css,9
+learn_web_development/core/styling_basics/debugging_css,0
 learn_web_development/core/styling_basics/fixing_blog_styles,0
 learn_web_development/core/styling_basics/getting_started,0
 learn_web_development/core/styling_basics/handling_conflicts,0
 learn_web_development/core/styling_basics/handling_different_text_directions,null
-learn_web_development/core/styling_basics/home_color_scheme_search,null
+learn_web_development/core/styling_basics/home_color_scheme_search,0
 learn_web_development/core/styling_basics/images_media_forms,0
 learn_web_development/core/styling_basics/organizing,null
 learn_web_development/core/styling_basics/overflow,0
@@ -1967,8 +1967,8 @@ mozilla/firefox/releases/148,0
 mozilla/firefox/releases/149,1
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
-mozilla/firefox/releases/151,1
-mozilla/firefox/releases/152,3
+mozilla/firefox/releases/151,0
+mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,null
 mozilla/firefox/releases/154,null
 mozilla/firefox/releases/16,0
