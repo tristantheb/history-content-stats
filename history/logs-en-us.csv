@@ -1968,7 +1968,7 @@ mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159,Mozilla|Fi
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,d9835ea7d100660d8d845f358277d5b25b825a20,Mozilla|Firefox|Versions
-mozilla/firefox/releases/152,bfaf90116752cffcff6098be4d40f843b8e9f6ee,Mozilla|Firefox|Versions
+mozilla/firefox/releases/152,dddb369a2026e37a251ae6ccfad04907456caa35,Mozilla|Firefox|Versions
 mozilla/firefox/releases/153,20c11f6af0809fa827413acf968b56bf4650d8d4,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -10424,7 +10424,7 @@ web/css/guides/namespaces,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/nesting,81f8fcd666952c1782653a3675347c392cc997ca,CSS|Guides
 web/css/guides/nesting/at-rules,81f8fcd666952c1782653a3675347c392cc997ca,CSS|Guides
 web/css/guides/nesting/nesting_and_specificity,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/nesting/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/nesting/using,279a16a2a54a7713338446e1bc3325a203984988,CSS|Guides
 web/css/guides/overflow,74d9a1227d110a152bf4d68f5d5f753e723ea01b,CSS|Guides
 web/css/guides/overflow/carousels,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d,CSS|Guides
 web/css/guides/overscroll_behavior,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -13705,7 +13705,7 @@ web/svg/guides/svg_as_an_image,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,SVG|Guid
 web/svg/guides/svg_filters,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Guides
 web/svg/guides/svg_in_html,a1765c2cad20118be0dad322d3548908787b5791,SVG|Guides
 web/svg/reference,c2fd97474834e061404b992c8397d4ccc4439a71,SVG
-web/svg/reference/attribute,3e97bf7d99f829a3cab9676837e8d9beabf9a1de,SVG|Attribute
+web/svg/reference/attribute,6220f771788093b57a7fd05340f6dfd7824efc63,SVG|Attribute
 web/svg/reference/attribute/accumulate,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/additive,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/alignment-baseline,a516a9818e8cef06c626d436ee1d73fc6d87ec51,SVG|Attribute
@@ -13946,7 +13946,7 @@ web/svg/reference/element/fetile,62476ac3c21417ad3a07e12c9f8eaf92cea8311d,SVG|El
 web/svg/reference/element/feturbulence,62476ac3c21417ad3a07e12c9f8eaf92cea8311d,SVG|Element
 web/svg/reference/element/filter,62476ac3c21417ad3a07e12c9f8eaf92cea8311d,SVG|Element
 web/svg/reference/element/foreignobject,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
-web/svg/reference/element/g,156a28c0e9cac5adf880520f5fb43d7b3d5186e7,SVG|Element
+web/svg/reference/element/g,6220f771788093b57a7fd05340f6dfd7824efc63,SVG|Element
 web/svg/reference/element/image,85fccefc8066bd49af4ddafc12c77f35265c7e2d,SVG|Element
 web/svg/reference/element/line,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
 web/svg/reference/element/lineargradient,6aeb1ae589087f90e99bdeffd57c258ebfc81b29,SVG|Element
