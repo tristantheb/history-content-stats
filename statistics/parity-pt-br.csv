@@ -9623,6 +9623,7 @@ web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
 web/api/webtransport/createbidirectionalstream,null
+web/api/webtransport/createsendgroup,null
 web/api/webtransport/createunidirectionalstream,null
 web/api/webtransport/datagrams,null
 web/api/webtransport/getstats,null
@@ -9636,6 +9637,7 @@ web/api/webtransportbidirectionalstream,null
 web/api/webtransportbidirectionalstream/readable,null
 web/api/webtransportbidirectionalstream/writable,null
 web/api/webtransportdatagramduplexstream,null
+web/api/webtransportdatagramduplexstream/createwritable,null
 web/api/webtransportdatagramduplexstream/incominghighwatermark,null
 web/api/webtransportdatagramduplexstream/incomingmaxage,null
 web/api/webtransportdatagramduplexstream/maxdatagramsize,null
@@ -9643,12 +9645,17 @@ web/api/webtransportdatagramduplexstream/outgoinghighwatermark,null
 web/api/webtransportdatagramduplexstream/outgoingmaxage,null
 web/api/webtransportdatagramduplexstream/readable,null
 web/api/webtransportdatagramduplexstream/writable,null
+web/api/webtransportdatagramswritable,null
+web/api/webtransportdatagramswritable/sendgroup,null
+web/api/webtransportdatagramswritable/sendorder,null
 web/api/webtransporterror,null
 web/api/webtransporterror/source,null
 web/api/webtransporterror/streamerrorcode,null
 web/api/webtransporterror/webtransporterror,null
 web/api/webtransportreceivestream,null
 web/api/webtransportreceivestream/getstats,null
+web/api/webtransportsendgroup,null
+web/api/webtransportsendgroup/getstats,null
 web/api/webtransportsendstream,null
 web/api/webtransportsendstream/getstats,null
 web/api/webtransportsendstream/getwriter,null
@@ -13571,7 +13578,6 @@ web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,null
 web/privacy/guides/privacy_sandbox,null
 web/privacy/guides/privacy_sandbox/enrollment,null
-web/privacy/guides/privacy_sandbox/partitioned_cookies,null
 web/privacy/guides/redirect_tracking_protection,null
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,null
 web/privacy/guides/state_partitioning,null
@@ -13583,6 +13589,7 @@ web/privacy/guides/storage_access_policy/errors/cookieblockedforeign,null
 web/privacy/guides/storage_access_policy/errors/cookieblockedtracker,null
 web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,null
 web/privacy/guides/third-party_cookies,null
+web/privacy/guides/third-party_cookies/partitioned_cookies,null
 web/progressive_web_apps,5
 web/progressive_web_apps/guides,null
 web/progressive_web_apps/guides/best_practices,null
