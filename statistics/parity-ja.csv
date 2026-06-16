@@ -10424,7 +10424,7 @@ web/css/guides/namespaces,0
 web/css/guides/nesting,0
 web/css/guides/nesting/at-rules,0
 web/css/guides/nesting/nesting_and_specificity,0
-web/css/guides/nesting/using,0
+web/css/guides/nesting/using,1
 web/css/guides/overflow,1
 web/css/guides/overflow/carousels,3
 web/css/guides/overscroll_behavior,0
@@ -13705,7 +13705,7 @@ web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,3
 web/svg/guides/svg_in_html,2
 web/svg/reference,0
-web/svg/reference/attribute,1
+web/svg/reference/attribute,2
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,0
 web/svg/reference/attribute/alignment-baseline,1
@@ -13946,7 +13946,7 @@ web/svg/reference/element/fetile,null
 web/svg/reference/element/feturbulence,0
 web/svg/reference/element/filter,0
 web/svg/reference/element/foreignobject,0
-web/svg/reference/element/g,1
+web/svg/reference/element/g,2
 web/svg/reference/element/image,1
 web/svg/reference/element/line,0
 web/svg/reference/element/lineargradient,0

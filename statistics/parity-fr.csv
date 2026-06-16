@@ -1968,7 +1968,7 @@ mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
-mozilla/firefox/releases/152,0
+mozilla/firefox/releases/152,1
 mozilla/firefox/releases/153,null
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -13705,7 +13705,7 @@ web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,1
 web/svg/guides/svg_in_html,0
 web/svg/reference,0
-web/svg/reference/attribute,1
+web/svg/reference/attribute,2
 web/svg/reference/attribute/accumulate,null
 web/svg/reference/attribute/additive,null
 web/svg/reference/attribute/alignment-baseline,null
@@ -13946,7 +13946,7 @@ web/svg/reference/element/fetile,null
 web/svg/reference/element/feturbulence,null
 web/svg/reference/element/filter,null
 web/svg/reference/element/foreignobject,0
-web/svg/reference/element/g,1
+web/svg/reference/element/g,2
 web/svg/reference/element/image,null
 web/svg/reference/element/line,0
 web/svg/reference/element/lineargradient,null
