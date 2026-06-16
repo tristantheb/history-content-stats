@@ -3509,7 +3509,10 @@ web/api/mediakeystatusmap/size,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysystemaccess,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/mediakeysystemaccess/keysystem,b01f35e069ca9d1c343f24b5d755d210c6107164
 web/api/medialist,no_hash_commit
+web/api/mediametadata/album,033bcb33784ef00e5c95c0333d51c771125f9f94
+web/api/mediametadata/artist,033bcb33784ef00e5c95c0333d51c771125f9f94
 web/api/mediametadata,b60bc79c7ad36c56dddf6760d2fd4dbb642d2023
+web/api/mediametadata/title,033bcb33784ef00e5c95c0333d51c771125f9f94
 web/api/mediaquerylist/addlistener,no_hash_commit
 web/api/mediaquerylist/change_event,no_hash_commit
 web/api/mediaquerylist,no_hash_commit
