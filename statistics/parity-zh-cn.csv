@@ -2352,6 +2352,7 @@ web/api/animationeffect/getcomputedtiming,null
 web/api/animationeffect/gettiming,null
 web/api/animationeffect/updatetiming,null
 web/api/animationevent,null
+web/api/animationevent/animation,null
 web/api/animationevent/animationevent,null
 web/api/animationevent/animationname,1
 web/api/animationevent/elapsedtime,1
@@ -5839,6 +5840,7 @@ web/api/mathmlelement/autofocus,0
 web/api/mathmlelement/blur,null
 web/api/mathmlelement/dataset,null
 web/api/mathmlelement/focus,null
+web/api/mathmlelement/nonce,null
 web/api/mathmlelement/style,null
 web/api/mathmlelement/tabindex,null
 web/api/media_capabilities_api,null
@@ -8858,6 +8860,7 @@ web/api/transformstreamdefaultcontroller/enqueue,0
 web/api/transformstreamdefaultcontroller/error,0
 web/api/transformstreamdefaultcontroller/terminate,0
 web/api/transitionevent,null
+web/api/transitionevent/animation,null
 web/api/transitionevent/elapsedtime,null
 web/api/transitionevent/propertyname,null
 web/api/transitionevent/pseudoelement,null
@@ -9823,7 +9826,7 @@ web/api/window/sessionstorage,null
 web/api/window/setimmediate,null
 web/api/window/setinterval,6
 web/api/window/setresizable,0
-web/api/window/settimeout,9
+web/api/window/settimeout,10
 web/api/window/sharedstorage,null
 web/api/window/showdirectorypicker,2
 web/api/window/showopenfilepicker,2
