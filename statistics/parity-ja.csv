@@ -12,7 +12,7 @@ games/techniques/3d_collision_detection,3
 games/techniques/3d_collision_detection/bounding_volume_collision_detection_with_three.js,null
 games/techniques/3d_on_the_web,null
 games/techniques/3d_on_the_web/basic_theory,null
-games/techniques/3d_on_the_web/building_up_a_basic_demo_with_a-frame,null
+games/techniques/3d_on_the_web/building_up_a_basic_demo_with_a-frame,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_babylon.js,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/editor,null
@@ -2301,7 +2301,7 @@ web/api/accelerometer/y,2
 web/api/accelerometer/z,1
 web/api/aescbcparams,0
 web/api/aesctrparams,0
-web/api/aesderivedkeyparams,null
+web/api/aesderivedkeyparams,0
 web/api/aesgcmparams,0
 web/api/aeskeygenparams,1
 web/api/ambientlightsensor,2
@@ -2351,8 +2351,9 @@ web/api/animationeffect,1
 web/api/animationeffect/getcomputedtiming,2
 web/api/animationeffect/gettiming,3
 web/api/animationeffect/updatetiming,0
-web/api/animationevent,0
-web/api/animationevent/animationevent,0
+web/api/animationevent,1
+web/api/animationevent/animation,null
+web/api/animationevent/animationevent,1
 web/api/animationevent/animationname,0
 web/api/animationevent/elapsedtime,0
 web/api/animationevent/pseudoelement,0
@@ -5833,12 +5834,13 @@ web/api/managedmediasource/startstreaming_event,null
 web/api/managedmediasource/streaming,null
 web/api/managedsourcebuffer,null
 web/api/managedsourcebuffer/bufferedchange_event,null
-web/api/mathmlelement,4
+web/api/mathmlelement,5
 web/api/mathmlelement/attributestylemap,1
 web/api/mathmlelement/autofocus,null
 web/api/mathmlelement/blur,null
 web/api/mathmlelement/dataset,null
 web/api/mathmlelement/focus,null
+web/api/mathmlelement/nonce,null
 web/api/mathmlelement/style,5
 web/api/mathmlelement/tabindex,null
 web/api/media_capabilities_api,null
@@ -8857,11 +8859,12 @@ web/api/transformstreamdefaultcontroller/desiredsize,0
 web/api/transformstreamdefaultcontroller/enqueue,1
 web/api/transformstreamdefaultcontroller/error,0
 web/api/transformstreamdefaultcontroller/terminate,0
-web/api/transitionevent,0
+web/api/transitionevent,1
+web/api/transitionevent/animation,null
 web/api/transitionevent/elapsedtime,0
 web/api/transitionevent/propertyname,0
 web/api/transitionevent/pseudoelement,0
-web/api/transitionevent/transitionevent,0
+web/api/transitionevent/transitionevent,1
 web/api/translator,null
 web/api/translator/availability_static,null
 web/api/translator/create_static,null
@@ -9823,7 +9826,7 @@ web/api/window/sessionstorage,7
 web/api/window/setimmediate,0
 web/api/window/setinterval,3
 web/api/window/setresizable,0
-web/api/window/settimeout,6
+web/api/window/settimeout,7
 web/api/window/sharedstorage,null
 web/api/window/showdirectorypicker,10
 web/api/window/showopenfilepicker,12
@@ -10642,7 +10645,7 @@ web/css/reference/properties/all,1
 web/css/reference/properties/anchor-name,1
 web/css/reference/properties/anchor-scope,0
 web/css/reference/properties/animation,3
-web/css/reference/properties/animation-composition,1
+web/css/reference/properties/animation-composition,2
 web/css/reference/properties/animation-delay,1
 web/css/reference/properties/animation-direction,1
 web/css/reference/properties/animation-duration,1
@@ -11485,7 +11488,7 @@ web/css/reference/values/tan,0
 web/css/reference/values/text-edge,1
 web/css/reference/values/time,1
 web/css/reference/values/time-percentage,1
-web/css/reference/values/timeline-range-name,5
+web/css/reference/values/timeline-range-name,6
 web/css/reference/values/transform-function,0
 web/css/reference/values/transform-function/matrix,0
 web/css/reference/values/transform-function/matrix3d,0
@@ -13577,8 +13580,8 @@ web/privacy,4
 web/privacy/guides,0
 web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,0
-web/privacy/guides/privacy_sandbox,null
-web/privacy/guides/privacy_sandbox/enrollment,null
+web/privacy/guides/privacy_sandbox,1
+web/privacy/guides/privacy_sandbox/enrollment,0
 web/privacy/guides/redirect_tracking_protection,null
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,1
 web/privacy/guides/state_partitioning,null

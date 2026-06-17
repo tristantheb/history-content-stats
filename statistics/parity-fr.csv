@@ -2351,8 +2351,9 @@ web/api/animationeffect,null
 web/api/animationeffect/getcomputedtiming,null
 web/api/animationeffect/gettiming,null
 web/api/animationeffect/updatetiming,null
-web/api/animationevent,9
-web/api/animationevent/animationevent,8
+web/api/animationevent,10
+web/api/animationevent/animation,null
+web/api/animationevent/animationevent,9
 web/api/animationevent/animationname,null
 web/api/animationevent/elapsedtime,null
 web/api/animationevent/pseudoelement,null
@@ -5839,6 +5840,7 @@ web/api/mathmlelement/autofocus,null
 web/api/mathmlelement/blur,null
 web/api/mathmlelement/dataset,null
 web/api/mathmlelement/focus,null
+web/api/mathmlelement/nonce,null
 web/api/mathmlelement/style,null
 web/api/mathmlelement/tabindex,null
 web/api/media_capabilities_api,null
@@ -8857,7 +8859,8 @@ web/api/transformstreamdefaultcontroller/desiredsize,null
 web/api/transformstreamdefaultcontroller/enqueue,null
 web/api/transformstreamdefaultcontroller/error,null
 web/api/transformstreamdefaultcontroller/terminate,null
-web/api/transitionevent,4
+web/api/transitionevent,5
+web/api/transitionevent/animation,null
 web/api/transitionevent/elapsedtime,null
 web/api/transitionevent/propertyname,null
 web/api/transitionevent/pseudoelement,null
@@ -10642,7 +10645,7 @@ web/css/reference/properties/all,0
 web/css/reference/properties/anchor-name,0
 web/css/reference/properties/anchor-scope,0
 web/css/reference/properties/animation,0
-web/css/reference/properties/animation-composition,0
+web/css/reference/properties/animation-composition,1
 web/css/reference/properties/animation-delay,0
 web/css/reference/properties/animation-direction,0
 web/css/reference/properties/animation-duration,0
@@ -11485,7 +11488,7 @@ web/css/reference/values/tan,0
 web/css/reference/values/text-edge,0
 web/css/reference/values/time,0
 web/css/reference/values/time-percentage,0
-web/css/reference/values/timeline-range-name,0
+web/css/reference/values/timeline-range-name,1
 web/css/reference/values/transform-function,0
 web/css/reference/values/transform-function/matrix,0
 web/css/reference/values/transform-function/matrix3d,0
