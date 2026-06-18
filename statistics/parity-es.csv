@@ -9240,6 +9240,15 @@ web/api/vttcue/text,null
 web/api/vttcue/vertical,null
 web/api/vttcue/vttcue,null
 web/api/vttregion,null
+web/api/vttregion/id,null
+web/api/vttregion/lines,null
+web/api/vttregion/regionanchorx,null
+web/api/vttregion/regionanchory,null
+web/api/vttregion/scroll,null
+web/api/vttregion/viewportanchorx,null
+web/api/vttregion/viewportanchory,null
+web/api/vttregion/vttregion,null
+web/api/vttregion/width,null
 web/api/wakelock,null
 web/api/wakelock/request,null
 web/api/wakelocksentinel,null
@@ -10378,6 +10387,7 @@ web/css/guides/fonts/opentype_fonts,null
 web/css/guides/fonts/variable_fonts,null
 web/css/guides/fonts/woff,null
 web/css/guides/fragmentation,null
+web/css/guides/gaps,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null

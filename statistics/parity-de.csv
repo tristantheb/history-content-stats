@@ -9239,7 +9239,16 @@ web/api/vttcue/snaptolines,0
 web/api/vttcue/text,0
 web/api/vttcue/vertical,0
 web/api/vttcue/vttcue,0
-web/api/vttregion,0
+web/api/vttregion,1
+web/api/vttregion/id,null
+web/api/vttregion/lines,null
+web/api/vttregion/regionanchorx,null
+web/api/vttregion/regionanchory,null
+web/api/vttregion/scroll,null
+web/api/vttregion/viewportanchorx,null
+web/api/vttregion/viewportanchory,null
+web/api/vttregion/vttregion,null
+web/api/vttregion/width,null
 web/api/wakelock,0
 web/api/wakelock/request,0
 web/api/wakelocksentinel,0
@@ -10306,7 +10315,7 @@ web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,0
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,0
 web/css/guides/basic_user_interface,0
 web/css/guides/borders_and_box_decorations,0
-web/css/guides/box_alignment,0
+web/css/guides/box_alignment,1
 web/css/guides/box_alignment/in_block_abspos_tables,0
 web/css/guides/box_alignment/in_flexbox,0
 web/css/guides/box_alignment/in_grid_layout,0
@@ -10364,7 +10373,7 @@ web/css/guides/environment_variables,0
 web/css/guides/environment_variables/using,0
 web/css/guides/filter_effects,0
 web/css/guides/filter_effects/using,0
-web/css/guides/flexible_box_layout,0
+web/css/guides/flexible_box_layout,1
 web/css/guides/flexible_box_layout/aligning_items,0
 web/css/guides/flexible_box_layout/basic_concepts,0
 web/css/guides/flexible_box_layout/controlling_flex_item_ratios,0
@@ -10378,8 +10387,9 @@ web/css/guides/fonts/opentype_fonts,0
 web/css/guides/fonts/variable_fonts,0
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
+web/css/guides/gaps,null
 web/css/guides/generated_content,0
-web/css/guides/grid_layout,0
+web/css/guides/grid_layout,1
 web/css/guides/grid_layout/accessibility,0
 web/css/guides/grid_layout/auto-placement,0
 web/css/guides/grid_layout/basic_concepts,0
@@ -10417,7 +10427,7 @@ web/css/guides/media_queries/testing,0
 web/css/guides/media_queries/using,0
 web/css/guides/media_queries/using_for_accessibility,0
 web/css/guides/motion_path,0
-web/css/guides/multicol_layout,0
+web/css/guides/multicol_layout,1
 web/css/guides/multicol_layout/basic_concepts,0
 web/css/guides/multicol_layout/handling_content_breaks,0
 web/css/guides/multicol_layout/handling_overflow,0
@@ -10772,9 +10782,9 @@ web/css/reference/properties/color-interpolation-filters,0
 web/css/reference/properties/color-scheme,0
 web/css/reference/properties/column-count,0
 web/css/reference/properties/column-fill,0
-web/css/reference/properties/column-gap,0
+web/css/reference/properties/column-gap,1
 web/css/reference/properties/column-height,0
-web/css/reference/properties/column-rule,0
+web/css/reference/properties/column-rule,1
 web/css/reference/properties/column-rule-color,0
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-width,0
@@ -10867,7 +10877,7 @@ web/css/reference/properties/font-variation-settings,0
 web/css/reference/properties/font-weight,0
 web/css/reference/properties/font-width,0
 web/css/reference/properties/forced-color-adjust,0
-web/css/reference/properties/gap,0
+web/css/reference/properties/gap,1
 web/css/reference/properties/grid,0
 web/css/reference/properties/grid-area,0
 web/css/reference/properties/grid-auto-columns,0
@@ -11033,7 +11043,7 @@ web/css/reference/properties/reading-order,0
 web/css/reference/properties/resize,0
 web/css/reference/properties/right,0
 web/css/reference/properties/rotate,0
-web/css/reference/properties/row-gap,0
+web/css/reference/properties/row-gap,1
 web/css/reference/properties/ruby-align,0
 web/css/reference/properties/ruby-overhang,0
 web/css/reference/properties/ruby-position,0

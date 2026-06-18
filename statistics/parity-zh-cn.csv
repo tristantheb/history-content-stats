@@ -9240,6 +9240,15 @@ web/api/vttcue/text,null
 web/api/vttcue/vertical,null
 web/api/vttcue/vttcue,null
 web/api/vttregion,null
+web/api/vttregion/id,null
+web/api/vttregion/lines,null
+web/api/vttregion/regionanchorx,null
+web/api/vttregion/regionanchory,null
+web/api/vttregion/scroll,null
+web/api/vttregion/viewportanchorx,null
+web/api/vttregion/viewportanchory,null
+web/api/vttregion/vttregion,null
+web/api/vttregion/width,null
 web/api/wakelock,1
 web/api/wakelock/request,3
 web/api/wakelocksentinel,null
@@ -10378,6 +10387,7 @@ web/css/guides/fonts/opentype_fonts,1
 web/css/guides/fonts/variable_fonts,null
 web/css/guides/fonts/woff,null
 web/css/guides/fragmentation,null
+web/css/guides/gaps,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -10867,7 +10877,7 @@ web/css/reference/properties/font-variation-settings,3
 web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,3
-web/css/reference/properties/gap,4
+web/css/reference/properties/gap,5
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -11033,7 +11043,7 @@ web/css/reference/properties/reading-order,null
 web/css/reference/properties/resize,null
 web/css/reference/properties/right,null
 web/css/reference/properties/rotate,null
-web/css/reference/properties/row-gap,3
+web/css/reference/properties/row-gap,4
 web/css/reference/properties/ruby-align,null
 web/css/reference/properties/ruby-overhang,null
 web/css/reference/properties/ruby-position,null
