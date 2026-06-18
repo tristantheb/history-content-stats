@@ -10668,7 +10668,7 @@ web/css/reference/properties/background,3
 web/css/reference/properties/background-attachment,4
 web/css/reference/properties/background-blend-mode,1
 web/css/reference/properties/background-clip,1
-web/css/reference/properties/background-color,1
+web/css/reference/properties/background-color,2
 web/css/reference/properties/background-image,2
 web/css/reference/properties/background-origin,2
 web/css/reference/properties/background-position,1
@@ -10837,7 +10837,7 @@ web/css/reference/properties/flex-wrap,1
 web/css/reference/properties/float,1
 web/css/reference/properties/flood-color,0
 web/css/reference/properties/flood-opacity,0
-web/css/reference/properties/font,2
+web/css/reference/properties/font,3
 web/css/reference/properties/font-family,2
 web/css/reference/properties/font-feature-settings,3
 web/css/reference/properties/font-kerning,2

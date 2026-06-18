@@ -5370,7 +5370,7 @@ web/api/htmltablecaptionelement/align,2d78abb3e793352e24e976ce0e68c08d817bd7f3,W
 web/api/htmltablecellelement,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmltablecellelement/abbr,d47348199a379f68bea876a403eb510628ec4ccb,Web APIs
 web/api/htmltablecellelement/align,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Web APIs
-web/api/htmltablecellelement/bgcolor,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Web APIs
+web/api/htmltablecellelement/bgcolor,21fddb9643fae34dce16aec8eb5dd86cc29e0b7c,Web APIs
 web/api/htmltablecellelement/cellindex,3466b077e26ce0293b7b95cba0bd05559c3a3194,Web APIs
 web/api/htmltablecellelement/ch,d16706e4e930c57161d473287374a9286c663147,Web APIs
 web/api/htmltablecellelement/choff,d16706e4e930c57161d473287374a9286c663147,Web APIs
@@ -5412,7 +5412,7 @@ web/api/htmltableelement/thead,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/htmltableelement/width,d47348199a379f68bea876a403eb510628ec4ccb,Web APIs
 web/api/htmltablerowelement,06e6e54baef7032c4e81ca93291fde0a0585de8b,Web APIs
 web/api/htmltablerowelement/align,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Web APIs
-web/api/htmltablerowelement/bgcolor,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Web APIs
+web/api/htmltablerowelement/bgcolor,21fddb9643fae34dce16aec8eb5dd86cc29e0b7c,Web APIs
 web/api/htmltablerowelement/cells,e5cb967d09849f77746f82d3526243fa956fbd8b,Web APIs
 web/api/htmltablerowelement/ch,d16706e4e930c57161d473287374a9286c663147,Web APIs
 web/api/htmltablerowelement/choff,d16706e4e930c57161d473287374a9286c663147,Web APIs
@@ -10668,7 +10668,7 @@ web/css/reference/properties/background,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/background-attachment,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/background-blend-mode,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/background-clip,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/background-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/background-color,21fddb9643fae34dce16aec8eb5dd86cc29e0b7c,CSS|Properties
 web/css/reference/properties/background-image,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/background-origin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/background-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10837,7 +10837,7 @@ web/css/reference/properties/flex-wrap,bcbb4bd6a80292c0663b723d5466759cfaaa8315,
 web/css/reference/properties/float,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/flood-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/flood-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font,ddf85bfec1b6e43cdacb404de0c38a801c561640,CSS|Properties
+web/css/reference/properties/font,efad19be74655f7a9c78f78d81cd4fb18d551033,CSS|Properties
 web/css/reference/properties/font-family,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-feature-settings,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-kerning,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties

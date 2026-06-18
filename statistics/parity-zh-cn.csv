@@ -5370,7 +5370,7 @@ web/api/htmltablecaptionelement/align,2
 web/api/htmltablecellelement,2
 web/api/htmltablecellelement/abbr,1
 web/api/htmltablecellelement/align,2
-web/api/htmltablecellelement/bgcolor,2
+web/api/htmltablecellelement/bgcolor,3
 web/api/htmltablecellelement/cellindex,0
 web/api/htmltablecellelement/ch,0
 web/api/htmltablecellelement/choff,0
@@ -5412,7 +5412,7 @@ web/api/htmltableelement/thead,null
 web/api/htmltableelement/width,null
 web/api/htmltablerowelement,3
 web/api/htmltablerowelement/align,3
-web/api/htmltablerowelement/bgcolor,2
+web/api/htmltablerowelement/bgcolor,3
 web/api/htmltablerowelement/cells,0
 web/api/htmltablerowelement/ch,0
 web/api/htmltablerowelement/choff,0
@@ -5921,8 +5921,8 @@ web/api/mediametadata,0
 web/api/mediametadata/album,0
 web/api/mediametadata/artist,0
 web/api/mediametadata/artwork,null
-web/api/mediametadata/chapterinfo,null
-web/api/mediametadata/mediametadata,null
+web/api/mediametadata/chapterinfo,0
+web/api/mediametadata/mediametadata,0
 web/api/mediametadata/title,0
 web/api/mediaquerylist,null
 web/api/mediaquerylist/addlistener,null
@@ -10668,7 +10668,7 @@ web/css/reference/properties/background,null
 web/css/reference/properties/background-attachment,null
 web/css/reference/properties/background-blend-mode,null
 web/css/reference/properties/background-clip,null
-web/css/reference/properties/background-color,4
+web/css/reference/properties/background-color,5
 web/css/reference/properties/background-image,null
 web/css/reference/properties/background-origin,null
 web/css/reference/properties/background-position,null
@@ -10837,7 +10837,7 @@ web/css/reference/properties/flex-wrap,null
 web/css/reference/properties/float,null
 web/css/reference/properties/flood-color,null
 web/css/reference/properties/flood-opacity,null
-web/css/reference/properties/font,5
+web/css/reference/properties/font,6
 web/css/reference/properties/font-family,4
 web/css/reference/properties/font-feature-settings,null
 web/css/reference/properties/font-kerning,null
