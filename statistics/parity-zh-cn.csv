@@ -1265,8 +1265,8 @@ mozilla/add-ons/webextensions/api/contentscripts/register,8
 mozilla/add-ons/webextensions/api/contentscripts/registeredcontentscript,3
 mozilla/add-ons/webextensions/api/contentscripts/registeredcontentscript/unregister,null
 mozilla/add-ons/webextensions/api/contextualidentities,3
-mozilla/add-ons/webextensions/api/contextualidentities/contextualidentity,2
-mozilla/add-ons/webextensions/api/contextualidentities/create,3
+mozilla/add-ons/webextensions/api/contextualidentities/contextualidentity,3
+mozilla/add-ons/webextensions/api/contextualidentities/create,4
 mozilla/add-ons/webextensions/api/contextualidentities/get,2
 mozilla/add-ons/webextensions/api/contextualidentities/getsupportedcolors,null
 mozilla/add-ons/webextensions/api/contextualidentities/getsupportedicons,null
@@ -1276,7 +1276,7 @@ mozilla/add-ons/webextensions/api/contextualidentities/onremoved,3
 mozilla/add-ons/webextensions/api/contextualidentities/onupdated,3
 mozilla/add-ons/webextensions/api/contextualidentities/query,3
 mozilla/add-ons/webextensions/api/contextualidentities/remove,2
-mozilla/add-ons/webextensions/api/contextualidentities/update,3
+mozilla/add-ons/webextensions/api/contextualidentities/update,4
 mozilla/add-ons/webextensions/api/cookies,6
 mozilla/add-ons/webextensions/api/cookies/cookie,7
 mozilla/add-ons/webextensions/api/cookies/cookiestore,4
