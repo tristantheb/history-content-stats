@@ -3882,7 +3882,7 @@ web/api/element/beforematch_event,6
 web/api/element/beforescriptexecute_event,4
 web/api/element/beforexrselect_event,3
 web/api/element/blur_event,4
-web/api/element/checkvisibility,7
+web/api/element/checkvisibility,8
 web/api/element/childelementcount,0
 web/api/element/children,0
 web/api/element/classlist,2
