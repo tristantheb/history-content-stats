@@ -1265,18 +1265,18 @@ mozilla/add-ons/webextensions/api/contentscripts/register,425b1e0ef0c91cee5abf78
 mozilla/add-ons/webextensions/api/contentscripts/registeredcontentscript,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/contentscripts/registeredcontentscript/unregister,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/contextualidentities,6203b96117ae35099df06d08f6a037bf2dff1d80,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/contextualidentities/contextualidentity,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/contextualidentities/create,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/contextualidentities/contextualidentity,8ede916a8af8537114db737b914cef1d721fda84,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/contextualidentities/create,8ede916a8af8537114db737b914cef1d721fda84,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/contextualidentities/get,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/contextualidentities/getsupportedcolors,6203b96117ae35099df06d08f6a037bf2dff1d80,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/contextualidentities/getsupportedicons,6203b96117ae35099df06d08f6a037bf2dff1d80,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/contextualidentities/getsupportedcolors,8ede916a8af8537114db737b914cef1d721fda84,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/contextualidentities/getsupportedicons,8ede916a8af8537114db737b914cef1d721fda84,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/contextualidentities/move,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/contextualidentities/oncreated,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/contextualidentities/onremoved,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/contextualidentities/onupdated,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/contextualidentities/query,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/contextualidentities/remove,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/contextualidentities/update,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/contextualidentities/update,8ede916a8af8537114db737b914cef1d721fda84,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/cookies,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/cookies/cookie,4f75a883f60a0ebd730def108aa66251942bb833,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/cookies/cookiestore,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1895,7 +1895,7 @@ mozilla/add-ons/webextensions/user_interface/sidebars,a85c2674f303680e9729f4965c
 mozilla/add-ons/webextensions/user_interface/toolbar_button,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/what_are_webextensions,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/what_next,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/work_with_contextual_identities,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/work_with_contextual_identities,8ede916a8af8537114db737b914cef1d721fda84,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/work_with_the_bookmarks_api,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/work_with_the_cookies_api,7348ad4bf0fa7351041e9a3661c8a2bd2659d6e5,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/working_with_files,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Fir
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,3305c80f225be0e373313d96841f6bf9a52e314b,Mozilla|Firefox|Versions
-mozilla/firefox/releases/153,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
+mozilla/firefox/releases/153,8ede916a8af8537114db737b914cef1d721fda84,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -3882,7 +3882,7 @@ web/api/element/beforematch_event,a7265fc3effa7c25b9997135104370c057a65293,Web A
 web/api/element/beforescriptexecute_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/element/beforexrselect_event,f18c76e518179f2facc688464c5d382bf5a9b536,Web APIs
 web/api/element/blur_event,8ee7b342ad04d3414a678080987f806bb1ea5afa,Web APIs
-web/api/element/checkvisibility,9128682a34406683f2d3b73d04b20d70a19f70e3,Web APIs
+web/api/element/checkvisibility,978aef2f7339917b6032c687b675402ae664de4d,Web APIs
 web/api/element/childelementcount,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf,Web APIs
 web/api/element/children,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf,Web APIs
 web/api/element/classlist,c053b4b3bb0f34736e9f4402d4254830670af723,Web APIs
