@@ -5370,7 +5370,7 @@ web/api/htmltablecaptionelement/align,0
 web/api/htmltablecellelement,0
 web/api/htmltablecellelement/abbr,0
 web/api/htmltablecellelement/align,0
-web/api/htmltablecellelement/bgcolor,0
+web/api/htmltablecellelement/bgcolor,1
 web/api/htmltablecellelement/cellindex,0
 web/api/htmltablecellelement/ch,0
 web/api/htmltablecellelement/choff,0
@@ -5412,7 +5412,7 @@ web/api/htmltableelement/thead,0
 web/api/htmltableelement/width,0
 web/api/htmltablerowelement,0
 web/api/htmltablerowelement/align,0
-web/api/htmltablerowelement/bgcolor,0
+web/api/htmltablerowelement/bgcolor,1
 web/api/htmltablerowelement/cells,0
 web/api/htmltablerowelement/ch,0
 web/api/htmltablerowelement/choff,0
@@ -10668,7 +10668,7 @@ web/css/reference/properties/background,0
 web/css/reference/properties/background-attachment,0
 web/css/reference/properties/background-blend-mode,0
 web/css/reference/properties/background-clip,0
-web/css/reference/properties/background-color,0
+web/css/reference/properties/background-color,1
 web/css/reference/properties/background-image,0
 web/css/reference/properties/background-origin,0
 web/css/reference/properties/background-position,0
@@ -10837,7 +10837,7 @@ web/css/reference/properties/flex-wrap,0
 web/css/reference/properties/float,0
 web/css/reference/properties/flood-color,0
 web/css/reference/properties/flood-opacity,0
-web/css/reference/properties/font,0
+web/css/reference/properties/font,1
 web/css/reference/properties/font-family,0
 web/css/reference/properties/font-feature-settings,0
 web/css/reference/properties/font-kerning,0
