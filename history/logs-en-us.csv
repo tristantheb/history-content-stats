@@ -9239,7 +9239,16 @@ web/api/vttcue/snaptolines,cd22b9f18cf2450c0cc488379b8b780f0f343397,Web APIs
 web/api/vttcue/text,cd22b9f18cf2450c0cc488379b8b780f0f343397,Web APIs
 web/api/vttcue/vertical,cd22b9f18cf2450c0cc488379b8b780f0f343397,Web APIs
 web/api/vttcue/vttcue,532ecbca7b68e7defa4612bc7b00885a13163641,Web APIs
-web/api/vttregion,3975bcf6caa09c9c5f7fddf2eef2be6c021d00f6,Web APIs
+web/api/vttregion,dce88d7e1cffa0768629209b784bb0da0f3da32b,Web APIs
+web/api/vttregion/id,dce88d7e1cffa0768629209b784bb0da0f3da32b,Web APIs
+web/api/vttregion/lines,dce88d7e1cffa0768629209b784bb0da0f3da32b,Web APIs
+web/api/vttregion/regionanchorx,dce88d7e1cffa0768629209b784bb0da0f3da32b,Web APIs
+web/api/vttregion/regionanchory,dce88d7e1cffa0768629209b784bb0da0f3da32b,Web APIs
+web/api/vttregion/scroll,dce88d7e1cffa0768629209b784bb0da0f3da32b,Web APIs
+web/api/vttregion/viewportanchorx,dce88d7e1cffa0768629209b784bb0da0f3da32b,Web APIs
+web/api/vttregion/viewportanchory,dce88d7e1cffa0768629209b784bb0da0f3da32b,Web APIs
+web/api/vttregion/vttregion,dce88d7e1cffa0768629209b784bb0da0f3da32b,Web APIs
+web/api/vttregion/width,dce88d7e1cffa0768629209b784bb0da0f3da32b,Web APIs
 web/api/wakelock,daa20da731748454675985dbcda02b2a0db3013a,Web APIs
 web/api/wakelock/request,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/wakelocksentinel,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -10306,7 +10315,7 @@ web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,85fccefc8066bd49a
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,c53bfa01f3bf436d486f4032c16f592855a2af2c,CSS|Guides
 web/css/guides/basic_user_interface,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b,CSS|Guides
 web/css/guides/borders_and_box_decorations,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/box_alignment,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/box_alignment,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Guides
 web/css/guides/box_alignment/in_block_abspos_tables,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
 web/css/guides/box_alignment/in_flexbox,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
 web/css/guides/box_alignment/in_grid_layout,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
@@ -10364,7 +10373,7 @@ web/css/guides/environment_variables,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CS
 web/css/guides/environment_variables/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/filter_effects,35958cdccf9d974ee47bb2ba282466725cae3416,CSS|Guides
 web/css/guides/filter_effects/using,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/flexible_box_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/flexible_box_layout,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Guides
 web/css/guides/flexible_box_layout/aligning_items,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/flexible_box_layout/basic_concepts,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b,CSS|Guides
 web/css/guides/flexible_box_layout/controlling_flex_item_ratios,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10378,8 +10387,9 @@ web/css/guides/fonts/opentype_fonts,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS
 web/css/guides/fonts/variable_fonts,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5,CSS|Guides
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/gaps,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Guides
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/grid_layout,1951d1dbe59ac6cd79ae0ec90697f764ab9c7ffd,CSS|Guides
+web/css/guides/grid_layout,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Guides
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/grid_layout/auto-placement,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/grid_layout/basic_concepts,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
@@ -10417,7 +10427,7 @@ web/css/guides/media_queries/testing,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CS
 web/css/guides/media_queries/using,3ee2355c3c90cf92c3119b82f8ebfa5d16c91c53,CSS|Guides
 web/css/guides/media_queries/using_for_accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/motion_path,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,CSS|Guides
-web/css/guides/multicol_layout,04defe50e601cf53adde40c4bd652a7a4e6eae55,CSS|Guides
+web/css/guides/multicol_layout,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Guides
 web/css/guides/multicol_layout/basic_concepts,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/multicol_layout/handling_content_breaks,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/multicol_layout/handling_overflow,04defe50e601cf53adde40c4bd652a7a4e6eae55,CSS|Guides
@@ -10772,9 +10782,9 @@ web/css/reference/properties/color-interpolation-filters,bcbb4bd6a80292c0663b723
 web/css/reference/properties/color-scheme,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/column-count,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/column-fill,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/column-gap,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/column-gap,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Properties
 web/css/reference/properties/column-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/column-rule,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/column-rule,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Properties
 web/css/reference/properties/column-rule-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/column-rule-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/column-rule-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10867,7 +10877,7 @@ web/css/reference/properties/font-variation-settings,bcbb4bd6a80292c0663b723d546
 web/css/reference/properties/font-weight,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/forced-color-adjust,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/gap,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/gap,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Properties
 web/css/reference/properties/grid,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-auto-columns,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11033,7 +11043,7 @@ web/css/reference/properties/reading-order,bcbb4bd6a80292c0663b723d5466759cfaaa8
 web/css/reference/properties/resize,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/rotate,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/row-gap,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/row-gap,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Properties
 web/css/reference/properties/ruby-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ruby-overhang,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ruby-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
