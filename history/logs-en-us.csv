@@ -3469,7 +3469,7 @@ web/api/directoryentrysync,754b68246f4e69e404309fee4a1699e047e43994,Web APIs
 web/api/directoryreadersync,e6d43da6c6d28a6ac92cdd47882809ffbdf987ce,Web APIs
 web/api/document,793bcbe2dd88fc553d2c4c918c4dec4899704022,Web APIs
 web/api/document/activeelement,dc9d517589ac7b74bc205f49492b0450dfdb78de,Web APIs
-web/api/document/activeviewtransition,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
+web/api/document/activeviewtransition,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
 web/api/document/adoptedstylesheets,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/document/adoptnode,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
 web/api/document/afterscriptexecute_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
@@ -3601,7 +3601,7 @@ web/api/document/scrollsnapchanging_event,85fccefc8066bd49af4ddafc12c77f35265c7e
 web/api/document/securitypolicyviolation_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/document/selectedstylesheetset,be8f7f155a48e11b30c240f8731afb1845f85378,Web APIs
 web/api/document/selectionchange_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
-web/api/document/startviewtransition,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
+web/api/document/startviewtransition,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
 web/api/document/stylesheets,87440643d71bf81a5bf4b8fa21db9e3d56ead395,Web APIs
 web/api/document/stylesheetsets,41a8b9c9832359d445d136b6d7a8a28737badc6b,Web APIs
 web/api/document/timeline,be8f7f155a48e11b30c240f8731afb1845f85378,Web APIs
@@ -3811,7 +3811,8 @@ web/api/editcontext/updateselectionbounds,ffff697fbd3004c3da50323ef4d868b3ad47e4
 web/api/editcontext/updatetext,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
 web/api/editcontext_api,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/editcontext_api/guide,886f2641ae90a70858c5e7d0d20959c70ee44d9d,Web APIs
-web/api/element,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web APIs
+web/api/element,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
+web/api/element/activeviewtransition,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
 web/api/element/after,8374946642c18a9cc4bf510de767011124e832a2,Web APIs
 web/api/element/afterscriptexecute_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/element/animate,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
@@ -4012,6 +4013,7 @@ web/api/element/sethtmlunsafe,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/element/setpointercapture,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
 web/api/element/shadowroot,1099567e480ad28fa86729e02a9fa8fa4cea9331,Web APIs
 web/api/element/slot,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
+web/api/element/startviewtransition,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
 web/api/element/tagname,bc7e82aa6db60568d7146ee285918550bbe4b8ce,Web APIs
 web/api/element/toggleattribute,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
 web/api/element/touchcancel_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
@@ -9122,9 +9124,10 @@ web/api/videotracklist/gettrackbyid,8a9085b96d0135920be9b281d4500ff72a7a8369,Web
 web/api/videotracklist/length,8a9085b96d0135920be9b281d4500ff72a7a8369,Web APIs
 web/api/videotracklist/removetrack_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/videotracklist/selectedindex,532ecbca7b68e7defa4612bc7b00885a13163641,Web APIs
-web/api/view_transition_api,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
-web/api/view_transition_api/using,7313aa9ef71bdfcd7ddb2fa4247b0600ce0e6542,Web APIs
-web/api/view_transition_api/using_types,8f7fa9e7aef0399c7a7f8e5a20476a0c2f287640,Web APIs
+web/api/view_transition_api,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
+web/api/view_transition_api/using,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
+web/api/view_transition_api/using_element-scoped,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
+web/api/view_transition_api/using_types,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
 web/api/viewport,9be502ee0f8b030908e59d30884190281acb8054,Web APIs
 web/api/viewport/segments,9be502ee0f8b030908e59d30884190281acb8054,Web APIs
 web/api/viewport_segments_api,9be502ee0f8b030908e59d30884190281acb8054,Web APIs
@@ -9134,10 +9137,11 @@ web/api/viewtimeline/endoffset,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/viewtimeline/startoffset,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/viewtimeline/subject,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/viewtimeline/viewtimeline,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/viewtransition,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
+web/api/viewtransition,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
 web/api/viewtransition/finished,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
 web/api/viewtransition/ready,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
 web/api/viewtransition/skiptransition,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
+web/api/viewtransition/transitionroot,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
 web/api/viewtransition/types,8f7fa9e7aef0399c7a7f8e5a20476a0c2f287640,Web APIs
 web/api/viewtransition/updatecallbackdone,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
 web/api/viewtransition/waituntil,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
@@ -10502,7 +10506,7 @@ web/css/guides/values_and_units/textual_data_types,85fccefc8066bd49af4ddafc12c77
 web/css/guides/values_and_units/using_math_functions,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/values_and_units/using_typed_arithmetic,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/values_and_units/value_definition_syntax,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/view_transitions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/view_transitions,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,CSS|Guides
 web/css/guides/viewport,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/webxr_dom_overlays,52a247932646cc4cb4b3a9bb50d7bd66d1fdc713,CSS|Guides
 web/css/guides/writing_modes,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
@@ -11161,6 +11165,7 @@ web/css/reference/properties/view-timeline-inset,bcbb4bd6a80292c0663b723d5466759
 web/css/reference/properties/view-timeline-name,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/view-transition-class,7447816a276e95c5b4c2ab2f6a1f80b081371de2,CSS|Properties
 web/css/reference/properties/view-transition-name,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/view-transition-scope,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,CSS|Properties
 web/css/reference/properties/visibility,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/white-space,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/white-space-collapse,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -12371,7 +12376,7 @@ web/javascript/reference/global_objects/array/join,544b843570cb08d1474cfc5ec03ff
 web/javascript/reference/global_objects/array/keys,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/array/lastindexof,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/array/length,5a745d55a26933ffd9e71f3b2246deba3f9e6f82,JavaScript|Global Objects
-web/javascript/reference/global_objects/array/map,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
+web/javascript/reference/global_objects/array/map,9ae2247bcf8bf0e8dcb2ae6da5edd4594a4000e4,JavaScript|Global Objects
 web/javascript/reference/global_objects/array/of,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/array/pop,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/array/push,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
@@ -12392,7 +12397,7 @@ web/javascript/reference/global_objects/array/tosorted,544b843570cb08d1474cfc5ec
 web/javascript/reference/global_objects/array/tospliced,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/array/tostring,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/array/unshift,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
-web/javascript/reference/global_objects/array/values,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
+web/javascript/reference/global_objects/array/values,4ba102cc94aa48226595635679334462cb46fa29,JavaScript|Global Objects
 web/javascript/reference/global_objects/array/with,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/arraybuffer,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,JavaScript|Global Objects
 web/javascript/reference/global_objects/arraybuffer/arraybuffer,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,JavaScript|Global Objects
@@ -14038,11 +14043,14 @@ web/webdriver/reference/bidi/modules/browser/removeusercontext,ef8c3806c33f2b1d9
 web/webdriver/reference/bidi/modules/browser/setdownloadbehavior,ef8c3806c33f2b1d9d381f4fe3b643b5af5e3d22,WebDriver
 web/webdriver/reference/bidi/modules/browsingcontext,a3d6e24e23dccd757487d9ed97b0eb241f107d96,WebDriver
 web/webdriver/reference/bidi/modules/browsingcontext/activate,ef8c3806c33f2b1d9d381f4fe3b643b5af5e3d22,WebDriver
-web/webdriver/reference/bidi/modules/browsingcontext/close,ef8c3806c33f2b1d9d381f4fe3b643b5af5e3d22,WebDriver
+web/webdriver/reference/bidi/modules/browsingcontext/close,50e846e7423814d7d0c3c3630ff8e793b38cad8a,WebDriver
 web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,a3d6e24e23dccd757487d9ed97b0eb241f107d96,WebDriver
 web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,a3d6e24e23dccd757487d9ed97b0eb241f107d96,WebDriver
-web/webdriver/reference/bidi/modules/browsingcontext/create,ef8c3806c33f2b1d9d381f4fe3b643b5af5e3d22,WebDriver
+web/webdriver/reference/bidi/modules/browsingcontext/create,50e846e7423814d7d0c3c3630ff8e793b38cad8a,WebDriver
 web/webdriver/reference/bidi/modules/browsingcontext/gettree,ef8c3806c33f2b1d9d381f4fe3b643b5af5e3d22,WebDriver
+web/webdriver/reference/bidi/modules/browsingcontext/navigate,50e846e7423814d7d0c3c3630ff8e793b38cad8a,WebDriver
+web/webdriver/reference/bidi/modules/browsingcontext/reload,50e846e7423814d7d0c3c3630ff8e793b38cad8a,WebDriver
+web/webdriver/reference/bidi/modules/browsingcontext/traversehistory,50e846e7423814d7d0c3c3630ff8e793b38cad8a,WebDriver
 web/webdriver/reference/bidi/modules/emulation,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/input,0e3eb297658e3fff3be9bbe2a09cb6721ed1979b,WebDriver
 web/webdriver/reference/bidi/modules/input/filedialogopened,a3d6e24e23dccd757487d9ed97b0eb241f107d96,WebDriver
