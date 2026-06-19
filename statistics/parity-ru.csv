@@ -3812,6 +3812,7 @@ web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
 web/api/element,null
+web/api/element/activeviewtransition,null
 web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
 web/api/element/animate,10
@@ -4012,6 +4013,7 @@ web/api/element/sethtmlunsafe,null
 web/api/element/setpointercapture,null
 web/api/element/shadowroot,null
 web/api/element/slot,null
+web/api/element/startviewtransition,null
 web/api/element/tagname,null
 web/api/element/toggleattribute,null
 web/api/element/touchcancel_event,null
@@ -9124,6 +9126,7 @@ web/api/videotracklist/removetrack_event,null
 web/api/videotracklist/selectedindex,null
 web/api/view_transition_api,null
 web/api/view_transition_api/using,null
+web/api/view_transition_api/using_element-scoped,null
 web/api/view_transition_api/using_types,null
 web/api/viewport,null
 web/api/viewport/segments,null
@@ -9138,6 +9141,7 @@ web/api/viewtransition,null
 web/api/viewtransition/finished,null
 web/api/viewtransition/ready,null
 web/api/viewtransition/skiptransition,null
+web/api/viewtransition/transitionroot,null
 web/api/viewtransition/types,null
 web/api/viewtransition/updatecallbackdone,null
 web/api/viewtransition/waituntil,null
@@ -11161,6 +11165,7 @@ web/css/reference/properties/view-timeline-inset,null
 web/css/reference/properties/view-timeline-name,null
 web/css/reference/properties/view-transition-class,null
 web/css/reference/properties/view-transition-name,null
+web/css/reference/properties/view-transition-scope,null
 web/css/reference/properties/visibility,null
 web/css/reference/properties/white-space,null
 web/css/reference/properties/white-space-collapse,null
@@ -14043,6 +14048,9 @@ web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,null
 web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,null
 web/webdriver/reference/bidi/modules/browsingcontext/create,null
 web/webdriver/reference/bidi/modules/browsingcontext/gettree,null
+web/webdriver/reference/bidi/modules/browsingcontext/navigate,null
+web/webdriver/reference/bidi/modules/browsingcontext/reload,null
+web/webdriver/reference/bidi/modules/browsingcontext/traversehistory,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
 web/webdriver/reference/bidi/modules/input/filedialogopened,null

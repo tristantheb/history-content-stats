@@ -3469,7 +3469,7 @@ web/api/directoryentrysync,null
 web/api/directoryreadersync,null
 web/api/document,5
 web/api/document/activeelement,0
-web/api/document/activeviewtransition,0
+web/api/document/activeviewtransition,1
 web/api/document/adoptedstylesheets,0
 web/api/document/adoptnode,0
 web/api/document/afterscriptexecute_event,0
@@ -3601,7 +3601,7 @@ web/api/document/scrollsnapchanging_event,0
 web/api/document/securitypolicyviolation_event,0
 web/api/document/selectedstylesheetset,0
 web/api/document/selectionchange_event,0
-web/api/document/startviewtransition,0
+web/api/document/startviewtransition,1
 web/api/document/stylesheets,0
 web/api/document/stylesheetsets,0
 web/api/document/timeline,0
@@ -3812,6 +3812,7 @@ web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
 web/api/element,null
+web/api/element/activeviewtransition,null
 web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
 web/api/element/animate,null
@@ -4012,6 +4013,7 @@ web/api/element/sethtmlunsafe,null
 web/api/element/setpointercapture,null
 web/api/element/shadowroot,null
 web/api/element/slot,null
+web/api/element/startviewtransition,null
 web/api/element/tagname,null
 web/api/element/toggleattribute,null
 web/api/element/touchcancel_event,null
@@ -9124,6 +9126,7 @@ web/api/videotracklist/removetrack_event,null
 web/api/videotracklist/selectedindex,null
 web/api/view_transition_api,null
 web/api/view_transition_api/using,null
+web/api/view_transition_api/using_element-scoped,null
 web/api/view_transition_api/using_types,null
 web/api/viewport,null
 web/api/viewport/segments,null
@@ -9138,6 +9141,7 @@ web/api/viewtransition,null
 web/api/viewtransition/finished,null
 web/api/viewtransition/ready,null
 web/api/viewtransition/skiptransition,null
+web/api/viewtransition/transitionroot,null
 web/api/viewtransition/types,null
 web/api/viewtransition/updatecallbackdone,null
 web/api/viewtransition/waituntil,null
@@ -11161,6 +11165,7 @@ web/css/reference/properties/view-timeline-inset,0
 web/css/reference/properties/view-timeline-name,0
 web/css/reference/properties/view-transition-class,0
 web/css/reference/properties/view-transition-name,0
+web/css/reference/properties/view-transition-scope,null
 web/css/reference/properties/visibility,0
 web/css/reference/properties/white-space,0
 web/css/reference/properties/white-space-collapse,0
@@ -12371,7 +12376,7 @@ web/javascript/reference/global_objects/array/join,0
 web/javascript/reference/global_objects/array/keys,0
 web/javascript/reference/global_objects/array/lastindexof,0
 web/javascript/reference/global_objects/array/length,0
-web/javascript/reference/global_objects/array/map,0
+web/javascript/reference/global_objects/array/map,1
 web/javascript/reference/global_objects/array/of,0
 web/javascript/reference/global_objects/array/pop,0
 web/javascript/reference/global_objects/array/push,0
@@ -12392,7 +12397,7 @@ web/javascript/reference/global_objects/array/tosorted,0
 web/javascript/reference/global_objects/array/tospliced,0
 web/javascript/reference/global_objects/array/tostring,0
 web/javascript/reference/global_objects/array/unshift,0
-web/javascript/reference/global_objects/array/values,0
+web/javascript/reference/global_objects/array/values,1
 web/javascript/reference/global_objects/array/with,0
 web/javascript/reference/global_objects/arraybuffer,0
 web/javascript/reference/global_objects/arraybuffer/arraybuffer,0
@@ -14043,6 +14048,9 @@ web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,null
 web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,null
 web/webdriver/reference/bidi/modules/browsingcontext/create,null
 web/webdriver/reference/bidi/modules/browsingcontext/gettree,null
+web/webdriver/reference/bidi/modules/browsingcontext/navigate,null
+web/webdriver/reference/bidi/modules/browsingcontext/reload,null
+web/webdriver/reference/bidi/modules/browsingcontext/traversehistory,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
 web/webdriver/reference/bidi/modules/input/filedialogopened,null
