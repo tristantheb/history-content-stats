@@ -2372,7 +2372,7 @@ web/api/attr/ownerelement,76600240fbe75e083e964bc3707cce81e99999c2,Web APIs
 web/api/attr/prefix,ec1006afdf68a5808a48ab6301f9ccff3cd7ecc2,Web APIs
 web/api/attr/specified,135b8311a5e3d12789e8421845be3ce026ef72b8,Web APIs
 web/api/attr/value,76600240fbe75e083e964bc3707cce81e99999c2,Web APIs
-web/api/attribution_reporting_api,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
+web/api/attribution_reporting_api,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
 web/api/attribution_reporting_api/generating_reports,9e837bbcce64783e14f56b16eb1612b05e7d8fdc,Web APIs
 web/api/attribution_reporting_api/registering_sources,9e837bbcce64783e14f56b16eb1612b05e7d8fdc,Web APIs
 web/api/attribution_reporting_api/registering_triggers,d7a0ef33dfce20818a160557b5a72d6565cec254,Web APIs
@@ -3482,7 +3482,7 @@ web/api/document/arianotify,3d7c7d4e151ff1b578bef4eff10c201b761a9d7d,Web APIs
 web/api/document/beforescriptexecute_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/document/bgcolor,cac79d099b0a4e48456cb53eb2435f6acf03e188,Web APIs
 web/api/document/body,79fdc26fea835d65c9361541bb8ab1896f307475,Web APIs
-web/api/document/browsingtopics,e936e7271df947f25184a5ba8a21445bbd4d056c,Web APIs
+web/api/document/browsingtopics,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
 web/api/document/caretpositionfrompoint,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
 web/api/document/caretrangefrompoint,1c7b8308c11efc3468214b997eb1ac4150f76c18,Web APIs
 web/api/document/characterset,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
@@ -4207,7 +4207,7 @@ web/api/fence,a6c32a2d0add510c95ef74e85bd8e17551d508b6,Web APIs
 web/api/fence/getnestedconfigs,a6c32a2d0add510c95ef74e85bd8e17551d508b6,Web APIs
 web/api/fence/reportevent,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
 web/api/fence/setreporteventdataforautomaticbeacons,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
-web/api/fenced_frame_api,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Web APIs
+web/api/fenced_frame_api,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
 web/api/fenced_frame_api/communication_with_embedded_frames,a6c32a2d0add510c95ef74e85bd8e17551d508b6,Web APIs
 web/api/fencedframeconfig,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
 web/api/fencedframeconfig/setsharedstoragecontext,a6c32a2d0add510c95ef74e85bd8e17551d508b6,Web APIs
@@ -7663,7 +7663,7 @@ web/api/screen/orientationchange_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,
 web/api/screen/pixeldepth,896a41d7d9832367a1e24af567fb419e9d4182f8,Web APIs
 web/api/screen/unlockorientation,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/screen/width,896a41d7d9832367a1e24af567fb419e9d4182f8,Web APIs
-web/api/screen_capture_api,83a92f1eaf27dabf71beec6c548afb03171aa194,Web APIs
+web/api/screen_capture_api,9b3f226141b5a609e173fd40de31b342abddcf44,Web APIs
 web/api/screen_capture_api/captured_surface_control,1d4acd0cc450af2e293b9856d5763b92a0812e30,Web APIs
 web/api/screen_capture_api/element_region_capture,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/screen_capture_api/using_screen_capture,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
@@ -7851,18 +7851,18 @@ web/api/shadowroot/sethtml,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/shadowroot/sethtmlunsafe,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/shadowroot/slotassignment,f77236a72e479b61c6b1cb6059c9ae1e90f4c7cd,Web APIs
 web/api/shadowroot/stylesheets,f2f9346c0c0e9f6676f2df9f1850933e274401de,Web APIs
-web/api/shared_storage_api,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
+web/api/shared_storage_api,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
 web/api/sharedstorage,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
-web/api/sharedstorage/append,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
-web/api/sharedstorage/clear,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
-web/api/sharedstorage/delete,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
-web/api/sharedstorage/set,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
+web/api/sharedstorage/append,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
+web/api/sharedstorage/clear,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
+web/api/sharedstorage/delete,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
+web/api/sharedstorage/set,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
 web/api/sharedstorageoperation,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
 web/api/sharedstoragerunoperation,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
 web/api/sharedstoragerunoperation/run,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
 web/api/sharedstorageselecturloperation,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
 web/api/sharedstorageselecturloperation/run,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
-web/api/sharedstorageworklet,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
+web/api/sharedstorageworklet,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
 web/api/sharedstorageworkletglobalscope,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/sharedstorageworkletglobalscope/register,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/sharedstorageworkletglobalscope/sharedstorage,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
@@ -8813,8 +8813,8 @@ web/api/toggleevent/newstate,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/toggleevent/oldstate,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/toggleevent/source,2597731017bf54bd583bd533fce1a5fab064b597,Web APIs
 web/api/toggleevent/toggleevent,81407b5d512b0429332fda450aa39340493f390d,Web APIs
-web/api/topics_api,e936e7271df947f25184a5ba8a21445bbd4d056c,Web APIs
-web/api/topics_api/using,d424e20ffce8770d7e66ee169203a17980bd88cf,Web APIs
+web/api/topics_api,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
+web/api/topics_api/using,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
 web/api/touch,1f3603b8d48cc9b64687ba23e6390d8bde4bb390,Web APIs
 web/api/touch/altitudeangle,1f3603b8d48cc9b64687ba23e6390d8bde4bb390,Web APIs
 web/api/touch/azimuthangle,1f3603b8d48cc9b64687ba23e6390d8bde4bb390,Web APIs
@@ -9881,8 +9881,8 @@ web/api/windowcontrolsoverlaygeometrychangeevent/titlebararearect,195edecd7c4a12
 web/api/windowcontrolsoverlaygeometrychangeevent/visible,195edecd7c4a1205562d2a984bea9e2f8895c479,Web APIs
 web/api/windowcontrolsoverlaygeometrychangeevent/windowcontrolsoverlaygeometrychangeevent,195edecd7c4a1205562d2a984bea9e2f8895c479,Web APIs
 web/api/windowsharedstorage,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
-web/api/windowsharedstorage/run,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
-web/api/windowsharedstorage/selecturl,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
+web/api/windowsharedstorage/run,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
+web/api/windowsharedstorage/selecturl,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
 web/api/windowsharedstorage/worklet,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
 web/api/worker,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/worker/error_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -9967,11 +9967,11 @@ web/api/worklet/addmodule,635820782735cd00f71ce3929ff9377b091f8995,Web APIs
 web/api/workletglobalscope,e561fa67af347b9770b359ba93e8579d2a540682,Web APIs
 web/api/workletsharedstorage,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
 web/api/workletsharedstorage/context,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
-web/api/workletsharedstorage/entries,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
-web/api/workletsharedstorage/get,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
-web/api/workletsharedstorage/keys,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
-web/api/workletsharedstorage/length,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
-web/api/workletsharedstorage/remainingbudget,923adb616baa87402ca965ebd18a73380cc84d27,Web APIs
+web/api/workletsharedstorage/entries,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
+web/api/workletsharedstorage/get,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
+web/api/workletsharedstorage/keys,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
+web/api/workletsharedstorage/length,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
+web/api/workletsharedstorage/remainingbudget,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
 web/api/writablestream,7d37e07f04c40ecbfd424d6fce0766ef3d2f7db4,Web APIs
 web/api/writablestream/abort,6012fe912a34bb129d5f9848a2b01b63468950f8,Web APIs
 web/api/writablestream/close,1fdb14f1bc00789a1dc8bf347b08b5b94d717f0c,Web APIs
@@ -11854,8 +11854,8 @@ web/http/reference/headers/allow,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|H
 web/http/reference/headers/alt-svc,c53bfa01f3bf436d486f4032c16f592855a2af2c,HTTP|Headers
 web/http/reference/headers/alt-used,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/attribution-reporting-eligible,44a5fa2aace490e0114349d9d683675b2f5cacce,HTTP|Headers
-web/http/reference/headers/attribution-reporting-register-source,44a5fa2aace490e0114349d9d683675b2f5cacce,HTTP|Headers
-web/http/reference/headers/attribution-reporting-register-trigger,44a5fa2aace490e0114349d9d683675b2f5cacce,HTTP|Headers
+web/http/reference/headers/attribution-reporting-register-source,0c906f7f464d8ff632baf8d25fa63eed3f03b632,HTTP|Headers
+web/http/reference/headers/attribution-reporting-register-trigger,0c906f7f464d8ff632baf8d25fa63eed3f03b632,HTTP|Headers
 web/http/reference/headers/authorization,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,HTTP|Headers
 web/http/reference/headers/available-dictionary,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/cache-control,c53bfa01f3bf436d486f4032c16f592855a2af2c,HTTP|Headers
@@ -12006,7 +12006,7 @@ web/http/reference/headers/repr-digest,ad5b5e31f81795d692e66dadb7818ba8b220ad15,
 web/http/reference/headers/retry-after,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/rtt,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/save-data,6c43d5c2607cbc84c8ec488400ebb66448992958,HTTP|Headers
-web/http/reference/headers/sec-browsing-topics,e936e7271df947f25184a5ba8a21445bbd4d056c,HTTP|Headers
+web/http/reference/headers/sec-browsing-topics,0c906f7f464d8ff632baf8d25fa63eed3f03b632,HTTP|Headers
 web/http/reference/headers/sec-ch-device-memory,b304d8d3c870fba028df550a51f5b4258ab3ac08,HTTP|Headers
 web/http/reference/headers/sec-ch-dpr,423161782178b119c64cd0b41bff8df20dc84a56,HTTP|Headers
 web/http/reference/headers/sec-ch-prefers-color-scheme,6c43d5c2607cbc84c8ec488400ebb66448992958,HTTP|Headers
@@ -12436,7 +12436,7 @@ web/javascript/reference/global_objects/atomics/islockfree,48f29758dbe9036bd04ba
 web/javascript/reference/global_objects/atomics/load,48f29758dbe9036bd04baf519b8e35d1f989e532,JavaScript|Global Objects
 web/javascript/reference/global_objects/atomics/notify,48f29758dbe9036bd04baf519b8e35d1f989e532,JavaScript|Global Objects
 web/javascript/reference/global_objects/atomics/or,48f29758dbe9036bd04baf519b8e35d1f989e532,JavaScript|Global Objects
-web/javascript/reference/global_objects/atomics/pause,48f29758dbe9036bd04baf519b8e35d1f989e532,JavaScript|Global Objects
+web/javascript/reference/global_objects/atomics/pause,f3bcd518b873a2264b2ec9005060741e4def8b2c,JavaScript|Global Objects
 web/javascript/reference/global_objects/atomics/store,48f29758dbe9036bd04baf519b8e35d1f989e532,JavaScript|Global Objects
 web/javascript/reference/global_objects/atomics/sub,48f29758dbe9036bd04baf519b8e35d1f989e532,JavaScript|Global Objects
 web/javascript/reference/global_objects/atomics/wait,48f29758dbe9036bd04baf519b8e35d1f989e532,JavaScript|Global Objects
@@ -13590,8 +13590,7 @@ web/privacy,dd868507df863ab4f37d53c960c76e20e9ee365f,Privacy
 web/privacy/guides,775df1c62a1cbe555c4374ff9122d4ef15bd6f60,Privacy|Guides
 web/privacy/guides/bounce_tracking_mitigations,d7a0ef33dfce20818a160557b5a72d6565cec254,Privacy|Guides
 web/privacy/guides/firefox_tracking_protection,0e638cb6498f7ae7dc1cb5c39fea99b00084c1e7,Privacy|Guides
-web/privacy/guides/privacy_sandbox,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Privacy|Guides
-web/privacy/guides/privacy_sandbox/enrollment,923adb616baa87402ca965ebd18a73380cc84d27,Privacy|Guides
+web/privacy/guides/privacy_sandbox,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Privacy|Guides
 web/privacy/guides/redirect_tracking_protection,d7a0ef33dfce20818a160557b5a72d6565cec254,Privacy|Guides
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,bb435e7556282e5dbe5ae9476b0a185c3d3ede32,Privacy|Guides
 web/privacy/guides/state_partitioning,fc801f51100908ad3f4471918cc634d767898874,Privacy|Guides
@@ -13661,7 +13660,7 @@ web/progressive_web_apps/tutorials/js13kgames/installable_pwas,628b29f53d15f203c
 web/progressive_web_apps/tutorials/js13kgames/loading,628b29f53d15f203c4a6b33c1d0303f864f6af63,PWAs|Tutorials
 web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,3e8eb2b3466248d87e86df227f45deb49054aa42,PWAs|Tutorials
 web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,3e8eb2b3466248d87e86df227f45deb49054aa42,PWAs|Tutorials
-web/security,dd868507df863ab4f37d53c960c76e20e9ee365f,Security
+web/security,9b3f226141b5a609e173fd40de31b342abddcf44,Security
 web/security/attacks,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Security|Attacks
 web/security/attacks/clickjacking,d67650e38cd150ce190e5116355fcb362eb759bd,Security|Attacks
 web/security/attacks/csrf,75016e5d37ecff3b11de4c2ef6665178f654797e,Security|Attacks
@@ -13680,9 +13679,10 @@ web/security/authentication/otp,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Securit
 web/security/authentication/passkeys,3d49f18251e1f3493ef2e3a70519603345f8b7dc,Security|Authentication
 web/security/authentication/passwords,545c1267ae9642d850ef539956442c2bb4de280a,Security|Authentication
 web/security/authentication/session_management,7e1cf6ab1fbd41b0430021a2044d658de5d857a3,Security|Authentication
-web/security/defenses,75016e5d37ecff3b11de4c2ef6665178f654797e,Security|Defenses
+web/security/defenses,f14623f12f092d92558ecb1d766069c1567fd347,Security|Defenses
 web/security/defenses/certificate_transparency,4e989d1d75c8fd0abc43c420002618dbdda8bfbe,Security|Defenses
-web/security/defenses/local_network_access,75016e5d37ecff3b11de4c2ef6665178f654797e,Security|Defenses
+web/security/defenses/input_validation,f14623f12f092d92558ecb1d766069c1567fd347,Security|Defenses
+web/security/defenses/local_network_access,daeab84f326911c95114ee686c3c3ab566b71afe,Security|Defenses
 web/security/defenses/mixed_content,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Security|Defenses
 web/security/defenses/operational_security,2d1f9a4d1d01322394b12feebb1f67504383730e,Security|Defenses
 web/security/defenses/same-origin_policy,39070892d5d1a5cc55312a0ac10c97f4c339384f,Security|Defenses
@@ -13893,7 +13893,7 @@ web/svg/reference/attribute/text-overflow,2d78abb3e793352e24e976ce0e68c08d817bd7
 web/svg/reference/attribute/text-rendering,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/textlength,6036cd414b2214f85901158bdf3e3a96123d4553,SVG|Attribute
 web/svg/reference/attribute/to,ab279632b84d201ae9ddd3db3981bf0b01573371,SVG|Attribute
-web/svg/reference/attribute/transform,f69b6693212029ce4b9fa0c753729044577af548,SVG|Attribute
+web/svg/reference/attribute/transform,a65cb1fa4293b1006ac02ce9a19507fd2ab960f7,SVG|Attribute
 web/svg/reference/attribute/transform-origin,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
 web/svg/reference/attribute/type,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
 web/svg/reference/attribute/unicode-bidi,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute

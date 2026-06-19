@@ -2372,7 +2372,7 @@ web/api/attr/ownerelement,1
 web/api/attr/prefix,2
 web/api/attr/specified,0
 web/api/attr/value,1
-web/api/attribution_reporting_api,4
+web/api/attribution_reporting_api,5
 web/api/attribution_reporting_api/generating_reports,3
 web/api/attribution_reporting_api/registering_sources,2
 web/api/attribution_reporting_api/registering_triggers,4
@@ -3482,7 +3482,7 @@ web/api/document/arianotify,null
 web/api/document/beforescriptexecute_event,5
 web/api/document/bgcolor,3
 web/api/document/body,2
-web/api/document/browsingtopics,6
+web/api/document/browsingtopics,7
 web/api/document/caretpositionfrompoint,4
 web/api/document/caretrangefrompoint,1
 web/api/document/characterset,2
@@ -4207,7 +4207,7 @@ web/api/fence,null
 web/api/fence/getnestedconfigs,null
 web/api/fence/reportevent,null
 web/api/fence/setreporteventdataforautomaticbeacons,null
-web/api/fenced_frame_api,1
+web/api/fenced_frame_api,2
 web/api/fenced_frame_api/communication_with_embedded_frames,null
 web/api/fencedframeconfig,null
 web/api/fencedframeconfig/setsharedstoragecontext,null
@@ -7663,7 +7663,7 @@ web/api/screen/orientationchange_event,0
 web/api/screen/pixeldepth,2
 web/api/screen/unlockorientation,1
 web/api/screen/width,1
-web/api/screen_capture_api,5
+web/api/screen_capture_api,6
 web/api/screen_capture_api/captured_surface_control,null
 web/api/screen_capture_api/element_region_capture,null
 web/api/screen_capture_api/using_screen_capture,5
@@ -12436,7 +12436,7 @@ web/javascript/reference/global_objects/atomics/islockfree,1
 web/javascript/reference/global_objects/atomics/load,1
 web/javascript/reference/global_objects/atomics/notify,1
 web/javascript/reference/global_objects/atomics/or,1
-web/javascript/reference/global_objects/atomics/pause,1
+web/javascript/reference/global_objects/atomics/pause,2
 web/javascript/reference/global_objects/atomics/store,1
 web/javascript/reference/global_objects/atomics/sub,1
 web/javascript/reference/global_objects/atomics/wait,1
@@ -13590,8 +13590,7 @@ web/privacy,4
 web/privacy/guides,0
 web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,0
-web/privacy/guides/privacy_sandbox,1
-web/privacy/guides/privacy_sandbox/enrollment,0
+web/privacy/guides/privacy_sandbox,2
 web/privacy/guides/redirect_tracking_protection,null
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,1
 web/privacy/guides/state_partitioning,null
@@ -13661,7 +13660,7 @@ web/progressive_web_apps/tutorials/js13kgames/installable_pwas,2
 web/progressive_web_apps/tutorials/js13kgames/loading,3
 web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,6
 web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,3
-web/security,0
+web/security,1
 web/security/attacks,0
 web/security/attacks/clickjacking,0
 web/security/attacks/csrf,1
@@ -13680,8 +13679,9 @@ web/security/authentication/otp,0
 web/security/authentication/passkeys,0
 web/security/authentication/passwords,0
 web/security/authentication/session_management,0
-web/security/defenses,2
+web/security/defenses,3
 web/security/defenses/certificate_transparency,0
+web/security/defenses/input_validation,null
 web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,0
 web/security/defenses/operational_security,null
@@ -13893,7 +13893,7 @@ web/svg/reference/attribute/text-overflow,null
 web/svg/reference/attribute/text-rendering,null
 web/svg/reference/attribute/textlength,0
 web/svg/reference/attribute/to,0
-web/svg/reference/attribute/transform,1
+web/svg/reference/attribute/transform,2
 web/svg/reference/attribute/transform-origin,0
 web/svg/reference/attribute/type,1
 web/svg/reference/attribute/unicode-bidi,0
