@@ -7663,7 +7663,7 @@ web/api/screen/orientationchange_event,null
 web/api/screen/pixeldepth,null
 web/api/screen/unlockorientation,null
 web/api/screen/width,null
-web/api/screen_capture_api,8
+web/api/screen_capture_api,9
 web/api/screen_capture_api/captured_surface_control,null
 web/api/screen_capture_api/element_region_capture,null
 web/api/screen_capture_api/using_screen_capture,13
@@ -13591,7 +13591,6 @@ web/privacy/guides,null
 web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,null
 web/privacy/guides/privacy_sandbox,null
-web/privacy/guides/privacy_sandbox/enrollment,null
 web/privacy/guides/redirect_tracking_protection,null
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,null
 web/privacy/guides/state_partitioning,null
@@ -13682,6 +13681,7 @@ web/security/authentication/passwords,null
 web/security/authentication/session_management,null
 web/security/defenses,null
 web/security/defenses/certificate_transparency,null
+web/security/defenses/input_validation,null
 web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,null
 web/security/defenses/operational_security,null

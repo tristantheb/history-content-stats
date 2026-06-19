@@ -2372,7 +2372,7 @@ web/api/attr/ownerelement,null
 web/api/attr/prefix,null
 web/api/attr/specified,null
 web/api/attr/value,null
-web/api/attribution_reporting_api,2
+web/api/attribution_reporting_api,3
 web/api/attribution_reporting_api/generating_reports,null
 web/api/attribution_reporting_api/registering_sources,null
 web/api/attribution_reporting_api/registering_triggers,null
@@ -3482,7 +3482,7 @@ web/api/document/arianotify,2
 web/api/document/beforescriptexecute_event,0
 web/api/document/bgcolor,0
 web/api/document/body,0
-web/api/document/browsingtopics,0
+web/api/document/browsingtopics,1
 web/api/document/caretpositionfrompoint,0
 web/api/document/caretrangefrompoint,0
 web/api/document/characterset,0
@@ -4207,7 +4207,7 @@ web/api/fence,0
 web/api/fence/getnestedconfigs,0
 web/api/fence/reportevent,1
 web/api/fence/setreporteventdataforautomaticbeacons,1
-web/api/fenced_frame_api,1
+web/api/fenced_frame_api,2
 web/api/fenced_frame_api/communication_with_embedded_frames,0
 web/api/fencedframeconfig,0
 web/api/fencedframeconfig/setsharedstoragecontext,0
@@ -11854,8 +11854,8 @@ web/http/reference/headers/allow,0
 web/http/reference/headers/alt-svc,0
 web/http/reference/headers/alt-used,0
 web/http/reference/headers/attribution-reporting-eligible,0
-web/http/reference/headers/attribution-reporting-register-source,0
-web/http/reference/headers/attribution-reporting-register-trigger,0
+web/http/reference/headers/attribution-reporting-register-source,1
+web/http/reference/headers/attribution-reporting-register-trigger,1
 web/http/reference/headers/authorization,0
 web/http/reference/headers/available-dictionary,0
 web/http/reference/headers/cache-control,0
@@ -12006,7 +12006,7 @@ web/http/reference/headers/repr-digest,0
 web/http/reference/headers/retry-after,0
 web/http/reference/headers/rtt,0
 web/http/reference/headers/save-data,0
-web/http/reference/headers/sec-browsing-topics,0
+web/http/reference/headers/sec-browsing-topics,1
 web/http/reference/headers/sec-ch-device-memory,0
 web/http/reference/headers/sec-ch-dpr,0
 web/http/reference/headers/sec-ch-prefers-color-scheme,0
@@ -12436,7 +12436,7 @@ web/javascript/reference/global_objects/atomics/islockfree,0
 web/javascript/reference/global_objects/atomics/load,0
 web/javascript/reference/global_objects/atomics/notify,0
 web/javascript/reference/global_objects/atomics/or,0
-web/javascript/reference/global_objects/atomics/pause,0
+web/javascript/reference/global_objects/atomics/pause,1
 web/javascript/reference/global_objects/atomics/store,0
 web/javascript/reference/global_objects/atomics/sub,0
 web/javascript/reference/global_objects/atomics/wait,0
@@ -13591,7 +13591,6 @@ web/privacy/guides,null
 web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,null
 web/privacy/guides/privacy_sandbox,null
-web/privacy/guides/privacy_sandbox/enrollment,null
 web/privacy/guides/redirect_tracking_protection,null
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,0
 web/privacy/guides/state_partitioning,null
@@ -13680,8 +13679,9 @@ web/security/authentication/otp,null
 web/security/authentication/passkeys,null
 web/security/authentication/passwords,null
 web/security/authentication/session_management,null
-web/security/defenses,3
+web/security/defenses,4
 web/security/defenses/certificate_transparency,1
+web/security/defenses/input_validation,null
 web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,0
 web/security/defenses/operational_security,null

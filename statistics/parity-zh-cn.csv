@@ -2372,7 +2372,7 @@ web/api/attr/ownerelement,null
 web/api/attr/prefix,null
 web/api/attr/specified,0
 web/api/attr/value,null
-web/api/attribution_reporting_api,9
+web/api/attribution_reporting_api,10
 web/api/attribution_reporting_api/generating_reports,11
 web/api/attribution_reporting_api/registering_sources,9
 web/api/attribution_reporting_api/registering_triggers,12
@@ -4207,7 +4207,7 @@ web/api/fence,1
 web/api/fence/getnestedconfigs,1
 web/api/fence/reportevent,3
 web/api/fence/setreporteventdataforautomaticbeacons,3
-web/api/fenced_frame_api,11
+web/api/fenced_frame_api,12
 web/api/fenced_frame_api/communication_with_embedded_frames,2
 web/api/fencedframeconfig,5
 web/api/fencedframeconfig/setsharedstoragecontext,2
@@ -13590,8 +13590,7 @@ web/privacy,7
 web/privacy/guides,0
 web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,2
-web/privacy/guides/privacy_sandbox,12
-web/privacy/guides/privacy_sandbox/enrollment,5
+web/privacy/guides/privacy_sandbox,13
 web/privacy/guides/redirect_tracking_protection,null
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,null
 web/privacy/guides/state_partitioning,6
@@ -13661,7 +13660,7 @@ web/progressive_web_apps/tutorials/js13kgames/installable_pwas,null
 web/progressive_web_apps/tutorials/js13kgames/loading,null
 web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,null
 web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,null
-web/security,5
+web/security,6
 web/security/attacks,9
 web/security/attacks/clickjacking,2
 web/security/attacks/csrf,null
@@ -13682,6 +13681,7 @@ web/security/authentication/passwords,null
 web/security/authentication/session_management,null
 web/security/defenses,null
 web/security/defenses/certificate_transparency,null
+web/security/defenses/input_validation,null
 web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,null
 web/security/defenses/operational_security,null
@@ -13893,7 +13893,7 @@ web/svg/reference/attribute/text-overflow,null
 web/svg/reference/attribute/text-rendering,null
 web/svg/reference/attribute/textlength,null
 web/svg/reference/attribute/to,null
-web/svg/reference/attribute/transform,4
+web/svg/reference/attribute/transform,5
 web/svg/reference/attribute/transform-origin,null
 web/svg/reference/attribute/type,null
 web/svg/reference/attribute/unicode-bidi,null
