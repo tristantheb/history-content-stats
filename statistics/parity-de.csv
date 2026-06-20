@@ -2351,7 +2351,7 @@ web/api/animationeffect,0
 web/api/animationeffect/getcomputedtiming,0
 web/api/animationeffect/gettiming,0
 web/api/animationeffect/updatetiming,0
-web/api/animationevent,1
+web/api/animationevent,2
 web/api/animationevent/animation,null
 web/api/animationevent/animationevent,1
 web/api/animationevent/animationname,0
@@ -3811,7 +3811,7 @@ web/api/editcontext/updateselectionbounds,0
 web/api/editcontext/updatetext,0
 web/api/editcontext_api,0
 web/api/editcontext_api/guide,0
-web/api/element,1
+web/api/element,2
 web/api/element/activeviewtransition,null
 web/api/element/after,0
 web/api/element/afterscriptexecute_event,0
@@ -7603,15 +7603,15 @@ web/api/rtctrackevent/track,0
 web/api/rtctrackevent/transceiver,0
 web/api/rtctransformevent,0
 web/api/rtctransformevent/transformer,0
-web/api/rtctransportstats,0
+web/api/rtctransportstats,1
 web/api/rtctransportstats/bytesreceived,0
 web/api/rtctransportstats/bytessent,0
 web/api/rtctransportstats/dtlscipher,0
-web/api/rtctransportstats/dtlsrole,0
+web/api/rtctransportstats/dtlsrole,1
 web/api/rtctransportstats/dtlsstate,0
-web/api/rtctransportstats/icelocalusernamefragment,0
-web/api/rtctransportstats/icerole,0
-web/api/rtctransportstats/icestate,0
+web/api/rtctransportstats/icelocalusernamefragment,1
+web/api/rtctransportstats/icerole,1
+web/api/rtctransportstats/icestate,1
 web/api/rtctransportstats/id,0
 web/api/rtctransportstats/localcertificateid,0
 web/api/rtctransportstats/packetsreceived,0
@@ -8861,7 +8861,7 @@ web/api/transformstreamdefaultcontroller/desiredsize,0
 web/api/transformstreamdefaultcontroller/enqueue,0
 web/api/transformstreamdefaultcontroller/error,0
 web/api/transformstreamdefaultcontroller/terminate,0
-web/api/transitionevent,1
+web/api/transitionevent,2
 web/api/transitionevent/animation,null
 web/api/transitionevent/elapsedtime,0
 web/api/transitionevent/propertyname,0
@@ -9137,7 +9137,7 @@ web/api/viewtimeline/endoffset,0
 web/api/viewtimeline/startoffset,0
 web/api/viewtimeline/subject,0
 web/api/viewtimeline/viewtimeline,0
-web/api/viewtransition,1
+web/api/viewtransition,2
 web/api/viewtransition/finished,0
 web/api/viewtransition/ready,0
 web/api/viewtransition/skiptransition,0
@@ -9635,7 +9635,7 @@ web/api/websocketstream/closed,0
 web/api/websocketstream/opened,0
 web/api/websocketstream/url,0
 web/api/websocketstream/websocketstream,0
-web/api/webtransport,1
+web/api/webtransport,2
 web/api/webtransport/close,0
 web/api/webtransport/closed,0
 web/api/webtransport/congestioncontrol,0
@@ -9653,7 +9653,7 @@ web/api/webtransport_api,0
 web/api/webtransportbidirectionalstream,0
 web/api/webtransportbidirectionalstream/readable,0
 web/api/webtransportbidirectionalstream/writable,0
-web/api/webtransportdatagramduplexstream,1
+web/api/webtransportdatagramduplexstream,2
 web/api/webtransportdatagramduplexstream/createwritable,null
 web/api/webtransportdatagramduplexstream/incominghighwatermark,0
 web/api/webtransportdatagramduplexstream/incomingmaxage,0

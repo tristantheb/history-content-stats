@@ -2351,7 +2351,7 @@ web/api/animationeffect,null
 web/api/animationeffect/getcomputedtiming,null
 web/api/animationeffect/gettiming,null
 web/api/animationeffect/updatetiming,null
-web/api/animationevent,10
+web/api/animationevent,11
 web/api/animationevent/animation,null
 web/api/animationevent/animationevent,9
 web/api/animationevent/animationname,null
@@ -8861,7 +8861,7 @@ web/api/transformstreamdefaultcontroller/desiredsize,null
 web/api/transformstreamdefaultcontroller/enqueue,null
 web/api/transformstreamdefaultcontroller/error,null
 web/api/transformstreamdefaultcontroller/terminate,null
-web/api/transitionevent,5
+web/api/transitionevent,6
 web/api/transitionevent/animation,null
 web/api/transitionevent/elapsedtime,null
 web/api/transitionevent/propertyname,null
