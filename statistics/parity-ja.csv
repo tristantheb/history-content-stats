@@ -574,7 +574,7 @@ glossary/smtp,null
 glossary/snake_case,2
 glossary/snap_positions,null
 glossary/soap,1
-glossary/social_engineering,null
+glossary/social_engineering,0
 glossary/source_map,0
 glossary/spa,1
 glossary/specification,null
@@ -1876,7 +1876,7 @@ mozilla/add-ons/webextensions/manifest.json/web_accessible_resources,null
 mozilla/add-ons/webextensions/match_patterns,null
 mozilla/add-ons/webextensions/modify_a_web_page,null
 mozilla/add-ons/webextensions/native_manifests,null
-mozilla/add-ons/webextensions/native_messaging,null
+mozilla/add-ons/webextensions/native_messaging,0
 mozilla/add-ons/webextensions/safely_inserting_external_content_into_a_page,null
 mozilla/add-ons/webextensions/sharing_objects_with_page_scripts,null
 mozilla/add-ons/webextensions/use_the_web_authn_api,null
@@ -12085,7 +12085,7 @@ web/http/reference/headers/x-forwarded-proto,null
 web/http/reference/headers/x-frame-options,4
 web/http/reference/headers/x-permitted-cross-domain-policies,null
 web/http/reference/headers/x-powered-by,null
-web/http/reference/headers/x-robots-tag,null
+web/http/reference/headers/x-robots-tag,0
 web/http/reference/headers/x-xss-protection,0
 web/http/reference/methods,0
 web/http/reference/methods/connect,0
