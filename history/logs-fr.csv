@@ -4161,8 +4161,9 @@ web/css/guides/colors,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/colors/using_color_wisely,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d
 web/css/guides/colors/using_relative_colors,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/compositing_and_blending,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
+web/css/guides/conditional_rules/container_scroll-state_queries,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9
 web/css/guides/conditional_rules,ddf85bfec1b6e43cdacb404de0c38a801c561640
-web/css/guides/conditional_rules/using_feature_queries,no_hash_commit
+web/css/guides/conditional_rules/using_feature_queries,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/containment,no_hash_commit
 web/css/guides/counter_styles,no_hash_commit
 web/css/guides/counter_styles/using_counters,no_hash_commit
