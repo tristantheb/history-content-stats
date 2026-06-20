@@ -517,6 +517,7 @@ glossary/smpte,no_hash_commit
 glossary/smtp,no_hash_commit
 glossary/snake_case,6aa664dc5ccb5edf0897f99ad5feb59325dff831
 glossary/soap,ada5fa5ef15eadd44b549ecf906423b4a2092f34
+glossary/social_engineering,5e3308146f872a133a3221e612ea8c6ee85dd77d
 glossary/source_map,7d4f930455a349e3c73836500add3d4840c76f5d
 glossary/spa,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 glossary/specification,no_hash_commit
@@ -1189,7 +1190,7 @@ mozilla/add-ons/webextensions/manifest.json/web_accessible_resources,no_hash_com
 mozilla/add-ons/webextensions/match_patterns,no_hash_commit
 mozilla/add-ons/webextensions/modify_a_web_page,no_hash_commit
 mozilla/add-ons/webextensions/native_manifests,no_hash_commit
-mozilla/add-ons/webextensions/native_messaging,no_hash_commit
+mozilla/add-ons/webextensions/native_messaging,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/user_interface/context_menu_items,no_hash_commit
 mozilla/add-ons/webextensions/user_interface/devtools_panels,no_hash_commit
 mozilla/add-ons/webextensions/user_interface/extension_pages,no_hash_commit
@@ -8308,6 +8309,7 @@ web/http/reference/headers/x-forwarded-for,ad5b5e31f81795d692e66dadb7818ba8b220a
 web/http/reference/headers/x-forwarded-host,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/x-forwarded-proto,no_hash_commit
 web/http/reference/headers/x-frame-options,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/x-robots-tag,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/x-xss-protection,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/methods/connect,ad5b5e31f81795d692e66dadb7818ba8b220ad15
