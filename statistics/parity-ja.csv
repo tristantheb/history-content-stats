@@ -280,7 +280,7 @@ glossary/gecko,0
 glossary/general_header,null
 glossary/gif,null
 glossary/git,1
-glossary/global_object,null
+glossary/global_object,0
 glossary/global_scope,1
 glossary/global_variable,null
 glossary/glyph,null
@@ -2351,7 +2351,7 @@ web/api/animationeffect,1
 web/api/animationeffect/getcomputedtiming,2
 web/api/animationeffect/gettiming,3
 web/api/animationeffect/updatetiming,0
-web/api/animationevent,1
+web/api/animationevent,2
 web/api/animationevent/animation,null
 web/api/animationevent/animationevent,1
 web/api/animationevent/animationname,0
@@ -3620,8 +3620,8 @@ web/api/document_object_model/building_and_updating_the_dom_tree,0
 web/api/document_object_model/events,3
 web/api/document_object_model/reflected_attributes,3
 web/api/document_object_model/selection_and_traversal_on_the_dom_tree,0
-web/api/document_picture-in-picture_api,null
-web/api/document_picture-in-picture_api/using,null
+web/api/document_picture-in-picture_api,0
+web/api/document_picture-in-picture_api/using,0
 web/api/documentfragment,0
 web/api/documentfragment/append,2
 web/api/documentfragment/childelementcount,1
@@ -3811,7 +3811,7 @@ web/api/editcontext/updateselectionbounds,1
 web/api/editcontext/updatetext,2
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,9
+web/api/element,10
 web/api/element/activeviewtransition,null
 web/api/element/after,3
 web/api/element/afterscriptexecute_event,3
@@ -8861,7 +8861,7 @@ web/api/transformstreamdefaultcontroller/desiredsize,0
 web/api/transformstreamdefaultcontroller/enqueue,1
 web/api/transformstreamdefaultcontroller/error,0
 web/api/transformstreamdefaultcontroller/terminate,0
-web/api/transitionevent,1
+web/api/transitionevent,2
 web/api/transitionevent/animation,null
 web/api/transitionevent/elapsedtime,0
 web/api/transitionevent/propertyname,0
@@ -9137,7 +9137,7 @@ web/api/viewtimeline/endoffset,2
 web/api/viewtimeline/startoffset,2
 web/api/viewtimeline/subject,2
 web/api/viewtimeline/viewtimeline,3
-web/api/viewtransition,3
+web/api/viewtransition,4
 web/api/viewtransition/finished,0
 web/api/viewtransition/ready,0
 web/api/viewtransition/skiptransition,0
@@ -9635,7 +9635,7 @@ web/api/websocketstream/closed,1
 web/api/websocketstream/opened,1
 web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,1
-web/api/webtransport,1
+web/api/webtransport,2
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null

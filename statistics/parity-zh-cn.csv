@@ -3811,7 +3811,7 @@ web/api/editcontext/updateselectionbounds,null
 web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,10
+web/api/element,11
 web/api/element/activeviewtransition,null
 web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
@@ -7610,8 +7610,8 @@ web/api/rtctransportstats/dtlscipher,0
 web/api/rtctransportstats/dtlsrole,null
 web/api/rtctransportstats/dtlsstate,0
 web/api/rtctransportstats/icelocalusernamefragment,null
-web/api/rtctransportstats/icerole,0
-web/api/rtctransportstats/icestate,0
+web/api/rtctransportstats/icerole,1
+web/api/rtctransportstats/icestate,1
 web/api/rtctransportstats/id,0
 web/api/rtctransportstats/localcertificateid,0
 web/api/rtctransportstats/packetsreceived,0
@@ -9635,7 +9635,7 @@ web/api/websocketstream/closed,null
 web/api/websocketstream/opened,null
 web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,null
-web/api/webtransport,3
+web/api/webtransport,4
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
