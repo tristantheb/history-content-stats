@@ -5967,7 +5967,7 @@ web/api/mediasession/setcameraactive,624bbdcb7d9beace299a4fa0d3ddcd8f6732cd90,We
 web/api/mediasession/setmicrophoneactive,624bbdcb7d9beace299a4fa0d3ddcd8f6732cd90,Web APIs
 web/api/mediasession/setpositionstate,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/mediasession/setscreenshareactive,d22284cbba8b64afd6ad8c965d4ac2c927c59550,Web APIs
-web/api/mediasource,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
+web/api/mediasource,fe79e8c3b686b6d1ab74c03266fc71028c7bb42e,Web APIs
 web/api/mediasource/activesourcebuffers,93b34fcdb9cf91ff44f5dfe7f4dcd13e961962da,Web APIs
 web/api/mediasource/addsourcebuffer,7cac5cc51350b7688903656bb36d79152f82d01f,Web APIs
 web/api/mediasource/canconstructindedicatedworker_static,1573959d78591b4079500af13019f901faaaca02,Web APIs
@@ -10378,7 +10378,7 @@ web/css/guides/environment_variables/using,85fccefc8066bd49af4ddafc12c77f35265c7
 web/css/guides/filter_effects,35958cdccf9d974ee47bb2ba282466725cae3416,CSS|Guides
 web/css/guides/filter_effects/using,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/flexible_box_layout,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Guides
-web/css/guides/flexible_box_layout/aligning_items,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/flexible_box_layout/aligning_items,170d71538522a7dc3d98e8f5c5ba0f22c47d6c7f,CSS|Guides
 web/css/guides/flexible_box_layout/basic_concepts,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b,CSS|Guides
 web/css/guides/flexible_box_layout/controlling_flex_item_ratios,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/flexible_box_layout/ordering_items,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10659,7 +10659,7 @@ web/css/reference/properties/all,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Pr
 web/css/reference/properties/anchor-name,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/anchor-scope,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/animation,8fbdeb7fdee69284a6423044f24b8b4a7140028f,CSS|Properties
-web/css/reference/properties/animation-composition,682dfd30caf9790bcc9b90ad90ce951373bc86af,CSS|Properties
+web/css/reference/properties/animation-composition,68bff8f2a51944e80394307c8e5c2879c167b126,CSS|Properties
 web/css/reference/properties/animation-delay,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/animation-direction,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/animation-duration,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
