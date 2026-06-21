@@ -330,7 +330,7 @@ glossary/ice,null
 glossary/ide,null
 glossary/idempotent,0
 glossary/identifier,null
-glossary/identity_provider,null
+glossary/identity_provider,0
 glossary/idl,8
 glossary/ietf,null
 glossary/iife,0
@@ -1135,7 +1135,7 @@ mozilla/add-ons/contact_us,0
 mozilla/add-ons/webextensions,0
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,null
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,9
-mozilla/add-ons/webextensions/api,null
+mozilla/add-ons/webextensions/api,0
 mozilla/add-ons/webextensions/api/action,null
 mozilla/add-ons/webextensions/api/action/colorarray,null
 mozilla/add-ons/webextensions/api/action/disable,null
@@ -1873,7 +1873,7 @@ mozilla/add-ons/webextensions/manifest.json/version,null
 mozilla/add-ons/webextensions/manifest.json/version/format,null
 mozilla/add-ons/webextensions/manifest.json/version_name,null
 mozilla/add-ons/webextensions/manifest.json/web_accessible_resources,null
-mozilla/add-ons/webextensions/match_patterns,null
+mozilla/add-ons/webextensions/match_patterns,0
 mozilla/add-ons/webextensions/modify_a_web_page,null
 mozilla/add-ons/webextensions/native_manifests,null
 mozilla/add-ons/webextensions/native_messaging,0
@@ -1968,7 +1968,7 @@ mozilla/firefox/releases/149,1
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,2
 mozilla/firefox/releases/151,2
-mozilla/firefox/releases/152,null
+mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,null
 mozilla/firefox/releases/154,null
 mozilla/firefox/releases/16,0
@@ -6545,9 +6545,9 @@ web/api/oscillatornode/setperiodicwave,4
 web/api/oscillatornode/type,7
 web/api/otpcredential,9
 web/api/otpcredential/code,7
-web/api/overconstrainederror,null
-web/api/overconstrainederror/constraint,null
-web/api/overconstrainederror/overconstrainederror,null
+web/api/overconstrainederror,0
+web/api/overconstrainederror/constraint,0
+web/api/overconstrainederror/overconstrainederror,0
 web/api/ovr_multiview2,null
 web/api/ovr_multiview2/framebuffertexturemultiviewovr,null
 web/api/page_visibility_api,11
@@ -11929,7 +11929,7 @@ web/http/reference/headers/host,0
 web/http/reference/headers/idempotency-key,0
 web/http/reference/headers/if-match,null
 web/http/reference/headers/if-modified-since,null
-web/http/reference/headers/if-none-match,null
+web/http/reference/headers/if-none-match,0
 web/http/reference/headers/if-range,null
 web/http/reference/headers/if-unmodified-since,null
 web/http/reference/headers/integrity-policy,null
