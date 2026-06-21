@@ -5967,7 +5967,7 @@ web/api/mediasession/setcameraactive,3
 web/api/mediasession/setmicrophoneactive,3
 web/api/mediasession/setpositionstate,5
 web/api/mediasession/setscreenshareactive,null
-web/api/mediasource,3
+web/api/mediasource,4
 web/api/mediasource/activesourcebuffers,2
 web/api/mediasource/addsourcebuffer,4
 web/api/mediasource/canconstructindedicatedworker_static,2
@@ -10378,7 +10378,7 @@ web/css/guides/environment_variables/using,0
 web/css/guides/filter_effects,2
 web/css/guides/filter_effects/using,0
 web/css/guides/flexible_box_layout,1
-web/css/guides/flexible_box_layout/aligning_items,0
+web/css/guides/flexible_box_layout/aligning_items,1
 web/css/guides/flexible_box_layout/basic_concepts,2
 web/css/guides/flexible_box_layout/controlling_flex_item_ratios,0
 web/css/guides/flexible_box_layout/ordering_items,0
@@ -10659,7 +10659,7 @@ web/css/reference/properties/all,1
 web/css/reference/properties/anchor-name,1
 web/css/reference/properties/anchor-scope,0
 web/css/reference/properties/animation,3
-web/css/reference/properties/animation-composition,2
+web/css/reference/properties/animation-composition,3
 web/css/reference/properties/animation-delay,1
 web/css/reference/properties/animation-direction,1
 web/css/reference/properties/animation-duration,1
