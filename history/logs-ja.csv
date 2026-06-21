@@ -289,6 +289,7 @@ glossary/ice,no_hash_commit
 glossary/ide,no_hash_commit
 glossary/idempotent,99d723c4f77d7f537292a07dd7b5e5c13cb610da
 glossary/identifier,no_hash_commit
+glossary/identity_provider,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/idl,a4d73f3e2a41b98e26f8f39af143338ad4900bd5
 glossary/ietf,no_hash_commit
 glossary/iife,99d723c4f77d7f537292a07dd7b5e5c13cb610da
@@ -1095,7 +1096,7 @@ mozilla/add-ons/webextensions/api/i18n/locale-specific_message_reference,no_hash
 mozilla/add-ons/webextensions/api/identity/getredirecturl,no_hash_commit
 mozilla/add-ons/webextensions/api/identity,593600a6822de931ce9fb369849146ad25f22c6f
 mozilla/add-ons/webextensions/api/idle,no_hash_commit
-mozilla/add-ons/webextensions/api,no_hash_commit
+mozilla/add-ons/webextensions/api,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/management,no_hash_commit
 mozilla/add-ons/webextensions/api/menus,no_hash_commit
 mozilla/add-ons/webextensions/api/menus/onclicked,no_hash_commit
@@ -1187,7 +1188,7 @@ mozilla/add-ons/webextensions/manifest.json/sidebar_action,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/version,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/version_name,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/web_accessible_resources,no_hash_commit
-mozilla/add-ons/webextensions/match_patterns,no_hash_commit
+mozilla/add-ons/webextensions/match_patterns,8f7fa9e7aef0399c7a7f8e5a20476a0c2f287640
 mozilla/add-ons/webextensions/modify_a_web_page,no_hash_commit
 mozilla/add-ons/webextensions/native_manifests,no_hash_commit
 mozilla/add-ons/webextensions/native_messaging,09109b6f9444d22215ba330ec1e64e73980b2a6c
@@ -1270,6 +1271,7 @@ mozilla/firefox/releases/149,ce29b1c36065db92c2a59ba507a4941fbf0a5159
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/150,0b214cbce88da71a9d4470364e378285c2a921a5
 mozilla/firefox/releases/151,3673b96dceb4e6ac3739103e3c7646e14868a2b2
+mozilla/firefox/releases/152,3305c80f225be0e373313d96841f6bf9a52e314b
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127
@@ -4716,6 +4718,9 @@ web/api/oscillatornode/setperiodicwave,2b8f5d9a29f00aea5d2edfa78d1fb90c51752858
 web/api/oscillatornode/type,20a58f1383da377a634b48902bff9b4fde9227c3
 web/api/otpcredential/code,4b4638246aad5d39b9a2e5c572b179b4c39c0a84
 web/api/otpcredential,db72d5612ada1d40cde0de191389dde2fe062c23
+web/api/overconstrainederror/constraint,3178e38ae397032bd9c44d5ec6f8192ee391b56a
+web/api/overconstrainederror,3178e38ae397032bd9c44d5ec6f8192ee391b56a
+web/api/overconstrainederror/overconstrainederror,3178e38ae397032bd9c44d5ec6f8192ee391b56a
 web/api/page_visibility_api,c41a14a44308f59a7e3bbe73988044bf547172d3
 web/api/pagerevealevent,6336af7a3880c350919e5b29f83b938fb1594362
 web/api/pagerevealevent/pagerevealevent,cd809f324e890917837ebe5194c934543d4a5464
@@ -8226,7 +8231,7 @@ web/http/reference/headers/host,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/idempotency-key,2da6c8a65715a0ce3785e88d8e293c8dc786cb49
 web/http/reference/headers/if-match,no_hash_commit
 web/http/reference/headers/if-modified-since,no_hash_commit
-web/http/reference/headers/if-none-match,no_hash_commit
+web/http/reference/headers/if-none-match,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/if-range,no_hash_commit
 web/http/reference/headers/if-unmodified-since,no_hash_commit
 web/http/reference/headers,ad5b5e31f81795d692e66dadb7818ba8b220ad15
