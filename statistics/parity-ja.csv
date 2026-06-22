@@ -4008,7 +4008,7 @@ web/api/element/setattributenode,3
 web/api/element/setattributenodens,3
 web/api/element/setattributens,9
 web/api/element/setcapture,5
-web/api/element/sethtml,8
+web/api/element/sethtml,9
 web/api/element/sethtmlunsafe,11
 web/api/element/setpointercapture,7
 web/api/element/shadowroot,2
