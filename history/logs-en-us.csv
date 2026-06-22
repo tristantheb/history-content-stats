@@ -4008,7 +4008,7 @@ web/api/element/setattributenode,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Web AP
 web/api/element/setattributenodens,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/element/setattributens,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Web APIs
 web/api/element/setcapture,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
-web/api/element/sethtml,3e471e05c2529b61634416e483ef415489d7d77a,Web APIs
+web/api/element/sethtml,438ac3c8511239d9ef8f4b562980ffc57ea8b358,Web APIs
 web/api/element/sethtmlunsafe,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/element/setpointercapture,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
 web/api/element/shadowroot,1099567e480ad28fa86729e02a9fa8fa4cea9331,Web APIs
@@ -7645,7 +7645,7 @@ web/api/sanitizer/replaceelementwithchildren,3da04ec7191b2d04750d76aad2a59d6579f
 web/api/sanitizer/sanitizer,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/sanitizer/setcomments,ba886c384e385689ce8feffacf4f7ce1d8c5e736,Web APIs
 web/api/sanitizer/setdataattributes,ba886c384e385689ce8feffacf4f7ce1d8c5e736,Web APIs
-web/api/sanitizerconfig,ba886c384e385689ce8feffacf4f7ce1d8c5e736,Web APIs
+web/api/sanitizerconfig,438ac3c8511239d9ef8f4b562980ffc57ea8b358,Web APIs
 web/api/scheduler,66f1ba7918610f1145cde4a1d2d7ecb3baea5f65,Web APIs
 web/api/scheduler/posttask,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/scheduler/yield,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
