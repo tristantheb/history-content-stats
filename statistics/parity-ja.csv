@@ -7117,6 +7117,7 @@ web/api/request/formdata,1
 web/api/request/headers,1
 web/api/request/integrity,2
 web/api/request/ishistorynavigation,0
+web/api/request/isreloadnavigation,null
 web/api/request/json,1
 web/api/request/keepalive,1
 web/api/request/method,1
@@ -10748,7 +10749,7 @@ web/css/reference/properties/border-right-width,2
 web/css/reference/properties/border-spacing,1
 web/css/reference/properties/border-start-end-radius,1
 web/css/reference/properties/border-start-start-radius,1
-web/css/reference/properties/border-style,1
+web/css/reference/properties/border-style,2
 web/css/reference/properties/border-top,5
 web/css/reference/properties/border-top-color,1
 web/css/reference/properties/border-top-left-radius,1
@@ -10994,7 +10995,7 @@ web/css/reference/properties/orphans,1
 web/css/reference/properties/outline,1
 web/css/reference/properties/outline-color,1
 web/css/reference/properties/outline-offset,1
-web/css/reference/properties/outline-style,1
+web/css/reference/properties/outline-style,2
 web/css/reference/properties/outline-width,1
 web/css/reference/properties/overflow,2
 web/css/reference/properties/overflow-anchor,0
@@ -11459,7 +11460,7 @@ web/css/reference/values/initial,3
 web/css/reference/values/integer,1
 web/css/reference/values/length,1
 web/css/reference/values/length-percentage,1
-web/css/reference/values/line-style,0
+web/css/reference/values/line-style,1
 web/css/reference/values/log,0
 web/css/reference/values/max,2
 web/css/reference/values/max-content,1
@@ -11597,7 +11598,7 @@ web/html/reference/elements/address,0
 web/html/reference/elements/area,0
 web/html/reference/elements/article,1
 web/html/reference/elements/aside,0
-web/html/reference/elements/audio,4
+web/html/reference/elements/audio,0
 web/html/reference/elements/b,2
 web/html/reference/elements/base,0
 web/html/reference/elements/bdi,2
@@ -11609,14 +11610,14 @@ web/html/reference/elements/br,2
 web/html/reference/elements/button,0
 web/html/reference/elements/canvas,0
 web/html/reference/elements/caption,0
-web/html/reference/elements/center,4
-web/html/reference/elements/cite,4
+web/html/reference/elements/center,0
+web/html/reference/elements/cite,0
 web/html/reference/elements/code,0
 web/html/reference/elements/col,0
 web/html/reference/elements/colgroup,0
 web/html/reference/elements/data,3
 web/html/reference/elements/datalist,1
-web/html/reference/elements/dd,4
+web/html/reference/elements/dd,0
 web/html/reference/elements/del,0
 web/html/reference/elements/details,1
 web/html/reference/elements/dfn,3
@@ -11624,7 +11625,7 @@ web/html/reference/elements/dialog,0
 web/html/reference/elements/dir,0
 web/html/reference/elements/div,2
 web/html/reference/elements/dl,1
-web/html/reference/elements/dt,4
+web/html/reference/elements/dt,0
 web/html/reference/elements/em,3
 web/html/reference/elements/embed,0
 web/html/reference/elements/fencedframe,2
@@ -11936,7 +11937,7 @@ web/http/reference/headers/integrity-policy,null
 web/http/reference/headers/integrity-policy-report-only,null
 web/http/reference/headers/keep-alive,0
 web/http/reference/headers/last-modified,null
-web/http/reference/headers/link,null
+web/http/reference/headers/link,1
 web/http/reference/headers/location,0
 web/http/reference/headers/max-forwards,null
 web/http/reference/headers/nel,null
@@ -12048,7 +12049,7 @@ web/http/reference/headers/sec-websocket-extensions,null
 web/http/reference/headers/sec-websocket-key,null
 web/http/reference/headers/sec-websocket-protocol,null
 web/http/reference/headers/sec-websocket-version,null
-web/http/reference/headers/server,null
+web/http/reference/headers/server,0
 web/http/reference/headers/server-timing,null
 web/http/reference/headers/service-worker,null
 web/http/reference/headers/service-worker-allowed,null
