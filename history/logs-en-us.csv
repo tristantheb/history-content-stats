@@ -79,7 +79,7 @@ glossary/algorithm,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/alignment_container,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
 glossary/alignment_subject,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
 glossary/alpha,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
-glossary/alpn,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Glossary
+glossary/alpn,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/api,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/apple_safari,ac287b7a4b7de33be5f649a0d3bb7bfca882808f,Glossary
 glossary/application_context,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
@@ -647,7 +647,7 @@ glossary/usenet,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/user_agent,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/utf-16,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/utf-8,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
-glossary/uuid,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Glossary
+glossary/uuid,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/ux,7d4f930455a349e3c73836500add3d4840c76f5d,Glossary
 glossary/validator,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/value,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
@@ -1121,7 +1121,7 @@ mdn/writing_guidelines/page_structures/page_types/glossary_page_template,a84b606
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,MDN|Writing Guidelines
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,MDN|Writing Guidelines
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,ad5b5e31f81795d692e66dadb7818ba8b220ad15,MDN|Writing Guidelines
-mdn/writing_guidelines/page_structures/page_types/page_type_key,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,MDN|Writing Guidelines
+mdn/writing_guidelines/page_structures/page_types/page_type_key,bd8f07e677d3bf6d5ebb0bccec3afb48f52921b5,MDN|Writing Guidelines
 mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,39d45a2e71cee2c107a026a59ba0d9229a511592,MDN|Writing Guidelines
 mdn/writing_guidelines/page_structures/polyfills,15be229ea1379b99a02f0c8b102f2acb5c3d6633,MDN|Writing Guidelines
 mdn/writing_guidelines/page_structures/sidebars,0ff7ba5177bf2e66214bd90b58590c6bf3acb758,MDN|Writing Guidelines
@@ -1426,7 +1426,7 @@ mozilla/add-ons/webextensions/api/history/onvisitremoved,09109b6f9444d22215ba330
 mozilla/add-ons/webextensions/api/history/search,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/history/transitiontype,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/history/visititem,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/i18n,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/i18n,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/i18n/detectlanguage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/i18n/getacceptlanguages,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/i18n/getmessage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1525,7 +1525,7 @@ mozilla/add-ons/webextensions/api/privacy/websites,09109b6f9444d22215ba330ec1e64
 mozilla/add-ons/webextensions/api/proxy,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/proxy/onerror,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/proxy/onrequest,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/proxy/proxyinfo,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/proxy/proxyinfo,938a5a7cf48ef6bd89d8635ae61d161401eedf17,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/proxy/requestdetails,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/proxy/settings,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/publicsuffix,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
@@ -1838,7 +1838,7 @@ mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,c27b843b70
 mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,8ba42490fa8be04d5751399274c40a00e1ac9a52,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/commands,ceaac5d55bef85edef9a4a716e6bd6ca3d3ec9c1,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/content_scripts,ff9896b8f5e8a16696ca8ef50d8a9baa0ae8b1f8,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/content_scripts,01768f6dcc74acdbd32d2e91512939003b86ac6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/content_security_policy,64969748897516212b7585b8dbc8f9f1a9bbb242,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/dark_theme,ee9431bdd896f41c2860ef340f01554c75fd7f29,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/declarative_net_request,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -2440,7 +2440,7 @@ web/api/audiodestinationnode/maxchannelcount,93b34fcdb9cf91ff44f5dfe7f4dcd13e961
 web/api/audioencoder,06b418a190b8e4a46682ab706d14984e7db34862,Web APIs
 web/api/audioencoder/audioencoder,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/audioencoder/close,06b418a190b8e4a46682ab706d14984e7db34862,Web APIs
-web/api/audioencoder/configure,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/audioencoder/configure,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/audioencoder/dequeue_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/audioencoder/encode,06b418a190b8e4a46682ab706d14984e7db34862,Web APIs
 web/api/audioencoder/encodequeuesize,06b418a190b8e4a46682ab706d14984e7db34862,Web APIs
@@ -2540,10 +2540,10 @@ web/api/authenticatorassertionresponse,515d03ad8572b96e88916888156444626dcba193,
 web/api/authenticatorassertionresponse/authenticatordata,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/authenticatorassertionresponse/signature,515d03ad8572b96e88916888156444626dcba193,Web APIs
 web/api/authenticatorassertionresponse/userhandle,515d03ad8572b96e88916888156444626dcba193,Web APIs
-web/api/authenticatorattestationresponse,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/authenticatorattestationresponse,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/authenticatorattestationresponse/attestationobject,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/authenticatorattestationresponse/getauthenticatordata,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
-web/api/authenticatorattestationresponse/getpublickey,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/authenticatorattestationresponse/getpublickey,515d03ad8572b96e88916888156444626dcba193,Web APIs
 web/api/authenticatorattestationresponse/getpublickeyalgorithm,515d03ad8572b96e88916888156444626dcba193,Web APIs
 web/api/authenticatorattestationresponse/gettransports,c229b8f8375f5238a85303170a1f2211a0ebccf6,Web APIs
 web/api/authenticatorresponse,cf41a29c212c730c1beef36d6bf3474ebbfc6162,Web APIs
@@ -2915,8 +2915,8 @@ web/api/clipboarditem/supports_static,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,W
 web/api/clipboarditem/types,eaa5b39f80d5fac0e5bf182679dc658b7083d15b,Web APIs
 web/api/closeevent,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
 web/api/closeevent/closeevent,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
-web/api/closeevent/code,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
-web/api/closeevent/reason,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/closeevent/code,be1922d62a0d31e4e3441db0e943aed8df736481,Web APIs
+web/api/closeevent/reason,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
 web/api/closeevent/wasclean,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
 web/api/closewatcher,de5b557883e8eff2514f0fe6eeb180db782575b1,Web APIs
 web/api/closewatcher/cancel_event,de5b557883e8eff2514f0fe6eeb180db782575b1,Web APIs
@@ -2939,7 +2939,7 @@ web/api/compositionevent/initcompositionevent,b25d8774aa7bcc6a053e26cf804ad454f5
 web/api/compositionevent/locale,cede06423af0242a18670246e1b25562d21c0004,Web APIs
 web/api/compression_streams_api,7d17bd76546fce1b3889f151876481507bce2a31,Web APIs
 web/api/compressionstream,ae6626ec9a5729a51f202b77586f37958088ed77,Web APIs
-web/api/compressionstream/compressionstream,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/compressionstream/compressionstream,238b0047b17c0d506060fc34619a16d237533dc7,Web APIs
 web/api/compressionstream/readable,ae6626ec9a5729a51f202b77586f37958088ed77,Web APIs
 web/api/compressionstream/writable,ae6626ec9a5729a51f202b77586f37958088ed77,Web APIs
 web/api/compute_pressure_api,4f8c4b31478742a2a39fdb03993d08fc1c90bbea,Web APIs
@@ -3413,7 +3413,7 @@ web/api/datatransferitemlist/clear,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web 
 web/api/datatransferitemlist/length,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
 web/api/datatransferitemlist/remove,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/decompressionstream,ae6626ec9a5729a51f202b77586f37958088ed77,Web APIs
-web/api/decompressionstream/decompressionstream,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/decompressionstream/decompressionstream,238b0047b17c0d506060fc34619a16d237533dc7,Web APIs
 web/api/decompressionstream/readable,ae6626ec9a5729a51f202b77586f37958088ed77,Web APIs
 web/api/decompressionstream/writable,ae6626ec9a5729a51f202b77586f37958088ed77,Web APIs
 web/api/dedicatedworkerglobalscope,e6457c34ac16790d4e62bc9ba21e899ac560089c,Web APIs
@@ -7102,7 +7102,7 @@ web/api/reportingobserver/disconnect,6720d579bd658f02c56363805e97e69f93dc79f1,We
 web/api/reportingobserver/observe,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
 web/api/reportingobserver/reportingobserver,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
 web/api/reportingobserver/takerecords,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
-web/api/request,98091f3ead60c0057dbbc7c7224e967ca44acff9,Web APIs
+web/api/request,75016e5d37ecff3b11de4c2ef6665178f654797e,Web APIs
 web/api/request/arraybuffer,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/blob,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/body,121546ed0718e92b3f99ae99b1a45869ea68ebe7,Web APIs
@@ -7117,7 +7117,6 @@ web/api/request/formdata,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/headers,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/request/integrity,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/request/ishistorynavigation,f2dc3d5367203c860cf1a71ce0e972f018523849,Web APIs
-web/api/request/isreloadnavigation,98091f3ead60c0057dbbc7c7224e967ca44acff9,Web APIs
 web/api/request/json,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/keepalive,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/request/method,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
@@ -7184,11 +7183,11 @@ web/api/rtcaudiosourcestats/trackidentifier,d32ba6a7c5a4c43029b92fab2e78e3bedc00
 web/api/rtcaudiosourcestats/type,d32ba6a7c5a4c43029b92fab2e78e3bedc00b63c,Web APIs
 web/api/rtccertificate,8b6cec0ceff01e7a9d6865cf5306788e15cce4b8,Web APIs
 web/api/rtccertificate/expires,381c51574a3e6a07ee09c63493452440f046038d,Web APIs
-web/api/rtccertificate/getfingerprints,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/rtccertificate/getfingerprints,847f754b374ed8928a270ab17672a1675802776f,Web APIs
 web/api/rtccertificatestats,848771d9efdc57ad84d643081cf91e89355c751b,Web APIs
 web/api/rtccertificatestats/base64certificate,cc247a1dfe34f8c8a04071e9652c9c6a413870c8,Web APIs
-web/api/rtccertificatestats/fingerprint,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
-web/api/rtccertificatestats/fingerprintalgorithm,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/rtccertificatestats/fingerprint,cc247a1dfe34f8c8a04071e9652c9c6a413870c8,Web APIs
+web/api/rtccertificatestats/fingerprintalgorithm,bb48907e64eb4bf60f17efd7d39b46c771d220a0,Web APIs
 web/api/rtccertificatestats/id,cc247a1dfe34f8c8a04071e9652c9c6a413870c8,Web APIs
 web/api/rtccertificatestats/timestamp,cc247a1dfe34f8c8a04071e9652c9c6a413870c8,Web APIs
 web/api/rtccertificatestats/type,cc247a1dfe34f8c8a04071e9652c9c6a413870c8,Web APIs
@@ -7197,7 +7196,7 @@ web/api/rtccodecstats/channels,e82d46feb66ed523ed8f74bd0bd6f4153c87acbb,Web APIs
 web/api/rtccodecstats/clockrate,5f5d8299c2889f9e93d2aa7bd572eb883ee91f62,Web APIs
 web/api/rtccodecstats/id,667d3fc3409c0524a1fb97a7f3d784606d12f48d,Web APIs
 web/api/rtccodecstats/mimetype,5f5d8299c2889f9e93d2aa7bd572eb883ee91f62,Web APIs
-web/api/rtccodecstats/payloadtype,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/rtccodecstats/payloadtype,5f5d8299c2889f9e93d2aa7bd572eb883ee91f62,Web APIs
 web/api/rtccodecstats/sdpfmtpline,5f5d8299c2889f9e93d2aa7bd572eb883ee91f62,Web APIs
 web/api/rtccodecstats/timestamp,667d3fc3409c0524a1fb97a7f3d784606d12f48d,Web APIs
 web/api/rtccodecstats/transportid,667d3fc3409c0524a1fb97a7f3d784606d12f48d,Web APIs
@@ -7254,7 +7253,7 @@ web/api/rtcdtmftonechangeevent/rtcdtmftonechangeevent,3e543cdfe8dddfb4774a64bf3d
 web/api/rtcdtmftonechangeevent/tone,954612667bafd71241a93e8554e8f11afc474ff3,Web APIs
 web/api/rtcencodedaudioframe,23398d025295ad1eaf1663a26fbe738a8fe12883,Web APIs
 web/api/rtcencodedaudioframe/data,7cf04da4f63ea96edfddde0a74ac0d0b1bc4d12e,Web APIs
-web/api/rtcencodedaudioframe/getmetadata,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/rtcencodedaudioframe/getmetadata,23398d025295ad1eaf1663a26fbe738a8fe12883,Web APIs
 web/api/rtcencodedaudioframe/rtcencodedaudioframe,23398d025295ad1eaf1663a26fbe738a8fe12883,Web APIs
 web/api/rtcencodedaudioframe/timestamp,3dd7df0af3b0ada1a7c5784cc2bc5448adcda8af,Web APIs
 web/api/rtcencodedvideoframe,bbb1d10fbbb06665b9587b6c953e5cafb62ab7dc,Web APIs
@@ -7736,7 +7735,7 @@ web/api/selection/rangecount,0b5859108411e47d228a4bb9f30a5556ab17f63c,Web APIs
 web/api/selection/removeallranges,4f35a8237ee0842beb9cfef3354e05464ad7ce1a,Web APIs
 web/api/selection/removerange,29601e9dc567c497143866aa9c2eca9358e9f449,Web APIs
 web/api/selection/selectallchildren,f2f9346c0c0e9f6676f2df9f1850933e274401de,Web APIs
-web/api/selection/setbaseandextent,fd2399f990ee990b2f162f528053d5023617cf83,Web APIs
+web/api/selection/setbaseandextent,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/selection/setposition,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/selection/tostring,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/selection/type,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
@@ -8931,13 +8930,13 @@ web/api/url,88ec096ac35386218934a5c0f6d03c9dece5017f,Web APIs
 web/api/url/canparse_static,5c569deab82d7efb49718eb64b2bda5d5b9c8954,Web APIs
 web/api/url/createobjecturl_static,44373c3805ba65db7542af75b664dc6fdce2aec0,Web APIs
 web/api/url/hash,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
-web/api/url/host,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
-web/api/url/hostname,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
-web/api/url/href,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/url/host,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
+web/api/url/hostname,734ede6d63422fb22232b555b6c521bd8939ca5f,Web APIs
+web/api/url/href,55ed83b5960e15ae039e4ffefd35c006585c6f13,Web APIs
 web/api/url/origin,ad6c8d26d4d447c83e1003696b82bfcc10606c71,Web APIs
 web/api/url/parse_static,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/url/password,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
-web/api/url/pathname,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/url/pathname,42cbee255618c5d832bdc163b4e4fb42258cb831,Web APIs
 web/api/url/port,cdb09c75dc0f1f263d33c2c8163bf70c47c65722,Web APIs
 web/api/url/protocol,82acf2a065dc00a1bd0cbf5e73de696e1bedee91,Web APIs
 web/api/url/revokeobjecturl_static,879e68dbfa6b0275c66988a0d92ae5f2c0103958,Web APIs
@@ -9606,13 +9605,13 @@ web/api/webrtc_api/protocols,74e7902b0875b6378d77df6d2d925a2d09d19f5d,Web APIs
 web/api/webrtc_api/session_lifetime,7336c394a1406850b293f743c7dcb3f2ee661952,Web APIs
 web/api/webrtc_api/signaling_and_video_calling,f71683f74da0078d9371c4d0c1ff9d3898fc7b59,Web APIs
 web/api/webrtc_api/simple_rtcdatachannel_sample,f71683f74da0078d9371c4d0c1ff9d3898fc7b59,Web APIs
-web/api/webrtc_api/using_data_channels,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/webrtc_api/using_data_channels,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/webrtc_api/using_dtmf,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/webrtc_api/using_encoded_transforms,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/websocket,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
 web/api/websocket/binarytype,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
 web/api/websocket/bufferedamount,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
-web/api/websocket/close,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/websocket/close,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/websocket/close_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/websocket/error_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/websocket/extensions,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
@@ -9622,7 +9621,7 @@ web/api/websocket/protocol,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
 web/api/websocket/readystate,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
 web/api/websocket/send,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/websocket/url,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
-web/api/websocket/websocket,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/websocket/websocket,30cfb5ce0b07b93ef8fb32c73e0f421fd53d2ca3,Web APIs
 web/api/websockets_api,b2f9c1e9e0f56bb2fd10262b0836603e10bcb4dc,Web APIs
 web/api/websockets_api/using_websocketstream,7a418e5d057adb45a0c7c4ec3b03baa8c3be18f4,Web APIs
 web/api/websockets_api/writing_a_websocket_server_in_java,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac,Web APIs
@@ -11718,7 +11717,7 @@ web/html/reference/elements/samp,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|E
 web/html/reference/elements/script,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/script/type,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Elements
 web/html/reference/elements/script/type/importmap,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Elements
-web/html/reference/elements/script/type/speculationrules,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTML|Elements
+web/html/reference/elements/script/type/speculationrules,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Elements
 web/html/reference/elements/search,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/section,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/select,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11794,7 +11793,7 @@ web/http/guides/browser_detection_using_the_user_agent,6ad108adad746bd7ed79b5b32
 web/http/guides/caching,c53bfa01f3bf436d486f4032c16f592855a2af2c,HTTP|Guides
 web/http/guides/client_hints,53d1a4810a69dc436badd5b73c1a66c8764c835b,HTTP|Guides
 web/http/guides/compression,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
-web/http/guides/compression_dictionary_transport,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Guides
+web/http/guides/compression_dictionary_transport,07fe6a6cf8e1961eec54a77e680ba385611a249e,HTTP|Guides
 web/http/guides/conditional_requests,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/connection_management_in_http_1.x,bc45e7d6005f231e1f18c8cec29ca0b7c1e694bb,HTTP|Guides
 web/http/guides/content_negotiation,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Guides
@@ -11825,12 +11824,12 @@ web/http/guides/evolution_of_http,f9a9e52d36680ee55fb9f3f1dfc41ca3cdce046f,HTTP|
 web/http/guides/fetch_metadata,f648561b1db8502f28a9d3664175c2000cbe9ea7,HTTP|Guides
 web/http/guides/iframe_credentialless,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,HTTP|Guides
 web/http/guides/messages,7a32241450ff246ab9035aca6e54483349ce855b,HTTP|Guides
-web/http/guides/mime_types,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Guides
-web/http/guides/mime_types/common_types,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Guides
+web/http/guides/mime_types,055bf71b1941f23bfcef39ab5b3393f9601b82b6,HTTP|Guides
+web/http/guides/mime_types/common_types,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/network_error_logging,4877aae5dd61ffb22ba63bd0461d200087aa3543,HTTP|Guides
 web/http/guides/overview,58b10ef2aeaee2f8faae2626f13e18e40d199061,HTTP|Guides
 web/http/guides/permissions_policy,aff319cd81d10cfda31b13adb3263deafb284b20,HTTP|Guides
-web/http/guides/protocol_upgrade_mechanism,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Guides
+web/http/guides/protocol_upgrade_mechanism,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/proxy_servers_and_tunneling,6ef7bc04d63cf8b512bdbea149a6cb875cc063e3,HTTP|Guides
 web/http/guides/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file,06e6e54baef7032c4e81ca93291fde0a0585de8b,HTTP|Guides
 web/http/guides/range_requests,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
@@ -11843,7 +11842,7 @@ web/http/reference/headers/accept,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|
 web/http/reference/headers/accept-ch,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
 web/http/reference/headers/accept-encoding,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/accept-language,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
-web/http/reference/headers/accept-patch,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
+web/http/reference/headers/accept-patch,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/accept-post,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/accept-ranges,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/access-control-allow-credentials,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
@@ -11867,8 +11866,8 @@ web/http/reference/headers/available-dictionary,ad5b5e31f81795d692e66dadb7818ba8
 web/http/reference/headers/cache-control,c53bfa01f3bf436d486f4032c16f592855a2af2c,HTTP|Headers
 web/http/reference/headers/clear-site-data,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/connection,0e40ec22841891d42376ad8a6d29135953c5106c,HTTP|Headers
-web/http/reference/headers/content-digest,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
-web/http/reference/headers/content-disposition,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
+web/http/reference/headers/content-digest,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
+web/http/reference/headers/content-disposition,06e6e54baef7032c4e81ca93291fde0a0585de8b,HTTP|Headers
 web/http/reference/headers/content-dpr,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
 web/http/reference/headers/content-encoding,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/content-language,e7bc0ed5466f5834641d75d416fa81886cf6b37e,HTTP|Headers
@@ -11918,10 +11917,10 @@ web/http/reference/headers/dictionary-id,ad5b5e31f81795d692e66dadb7818ba8b220ad1
 web/http/reference/headers/dnt,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/downlink,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/dpr,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
-web/http/reference/headers/early-data,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
+web/http/reference/headers/early-data,74109a487250280f5f4c1595e91dfb43efef544a,HTTP|Headers
 web/http/reference/headers/ect,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/etag,099a15b4234071958980dcae0e122a7145fdbdfa,HTTP|Headers
-web/http/reference/headers/expect,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
+web/http/reference/headers/expect,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/expect-ct,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,HTTP|Headers
 web/http/reference/headers/expires,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/forwarded,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -11937,11 +11936,11 @@ web/http/reference/headers/integrity-policy,6720d579bd658f02c56363805e97e69f93dc
 web/http/reference/headers/integrity-policy-report-only,5ab391405a364e5a512b8182c376261ee8a0bf18,HTTP|Headers
 web/http/reference/headers/keep-alive,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/last-modified,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
-web/http/reference/headers/link,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
+web/http/reference/headers/link,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/location,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/max-forwards,77b4195dec3174497169d2e2de35e1eae29139f0,HTTP|Headers
 web/http/reference/headers/nel,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
-web/http/reference/headers/no-vary-search,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
+web/http/reference/headers/no-vary-search,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/observe-browsing-topics,e936e7271df947f25184a5ba8a21445bbd4d056c,HTTP|Headers
 web/http/reference/headers/origin,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,HTTP|Headers
 web/http/reference/headers/origin-agent-cluster,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
@@ -11997,8 +11996,8 @@ web/http/reference/headers/permissions-policy/web-share,ad5b5e31f81795d692e66dad
 web/http/reference/headers/permissions-policy/window-management,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/permissions-policy/xr-spatial-tracking,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/pragma,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
-web/http/reference/headers/prefer,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
-web/http/reference/headers/preference-applied,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
+web/http/reference/headers/prefer,c8bc787246fbec6fed108e4fb9e25df1d70a29ce,HTTP|Headers
+web/http/reference/headers/preference-applied,a516a9818e8cef06c626d436ee1d73fc6d87ec51,HTTP|Headers
 web/http/reference/headers/priority,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/proxy-authenticate,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/proxy-authorization,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -12008,7 +12007,7 @@ web/http/reference/headers/referrer-policy,dd868507df863ab4f37d53c960c76e20e9ee3
 web/http/reference/headers/refresh,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/report-to,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/reporting-endpoints,a019b326a3ad0c16d78d236582927a38ccaea8b4,HTTP|Headers
-web/http/reference/headers/repr-digest,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
+web/http/reference/headers/repr-digest,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/retry-after,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/rtt,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/save-data,6c43d5c2607cbc84c8ec488400ebb66448992958,HTTP|Headers
@@ -12075,7 +12074,7 @@ web/http/reference/headers/via,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Hea
 web/http/reference/headers/viewport-width,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
 web/http/reference/headers/want-content-digest,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/want-repr-digest,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
-web/http/reference/headers/warning,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
+web/http/reference/headers/warning,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/width,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
 web/http/reference/headers/www-authenticate,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,HTTP|Headers
 web/http/reference/headers/x-content-type-options,e20c8ff4a722842bf3a09b3e0536dd140be5f629,HTTP|Headers
@@ -12090,77 +12089,77 @@ web/http/reference/headers/x-robots-tag,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/x-xss-protection,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/methods,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Methods
 web/http/reference/methods/connect,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Methods
-web/http/reference/methods/delete,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Methods
+web/http/reference/methods/delete,531ab7d0f0572957de89f715de2adb981628d64e,HTTP|Methods
 web/http/reference/methods/get,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Methods
 web/http/reference/methods/head,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Methods
 web/http/reference/methods/options,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Methods
-web/http/reference/methods/patch,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Methods
+web/http/reference/methods/patch,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Methods
 web/http/reference/methods/post,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Methods
-web/http/reference/methods/put,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Methods
-web/http/reference/methods/trace,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Methods
+web/http/reference/methods/put,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Methods
+web/http/reference/methods/trace,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Methods
 web/http/reference/resources_and_specifications,d52561e8ad756054318f719f967f951f9291abe4,HTTP
 web/http/reference/status,cd8ed9bfa89d5ced4fd6c2083d7d90bcda41e441,HTTP|Status
-web/http/reference/status/100,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/100,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/101,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/102,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/103,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/200,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/201,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/102,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/103,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/200,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/201,52d840333a70d06e6f667faaeb160f3ad4b03eca,HTTP|Status
 web/http/reference/status/202,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/203,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/204,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/205,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/206,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/207,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/208,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/226,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/204,c212cfca9809021001637344831487029f1b8887,HTTP|Status
+web/http/reference/status/205,b4e920ce0a34d9e609080ccb937a1a30c3cd558a,HTTP|Status
+web/http/reference/status/206,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/207,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/208,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/226,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/300,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/301,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/302,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/303,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/304,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/307,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/301,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/302,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/303,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/304,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/307,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/308,a44f198025a4efab10df30201b59793b8e0fd38c,HTTP|Status
 web/http/reference/status/400,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/401,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/401,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/402,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/403,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/404,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/403,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/404,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/405,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/406,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/407,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/406,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/407,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/408,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/409,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/410,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/409,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/410,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/411,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/412,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/412,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/413,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/414,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/415,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/416,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/416,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/417,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/418,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/421,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/418,8654d0983add0e93af8c754e76ba9e3d56fe79be,HTTP|Status
+web/http/reference/status/421,74109a487250280f5f4c1595e91dfb43efef544a,HTTP|Status
 web/http/reference/status/422,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/423,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/424,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/423,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/424,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/425,74109a487250280f5f4c1595e91dfb43efef544a,HTTP|Status
 web/http/reference/status/426,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/428,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/429,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/431,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/428,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/429,d45b7a7d45dac4a0012c138aba7afedc0f9e570c,HTTP|Status
+web/http/reference/status/431,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,HTTP|Status
 web/http/reference/status/451,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/500,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/501,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/502,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/503,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/504,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/500,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/501,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/502,dd0fe980a26938d585691d1429c8a941fa6824ff,HTTP|Status
+web/http/reference/status/503,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/504,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/505,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/506,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/507,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/508,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/510,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/511,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
+web/http/reference/status/506,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/507,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/508,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/510,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/511,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/javascript,1ddd95504b4507beeda0f08bd772eb167922b86a,JavaScript
 web/javascript/guide,0b926fc3e79782401461d389fc9f17d522b39ed3,JavaScript|Guides
 web/javascript/guide/closures,984adfc302136da0ee90eab7caaa85d577b735e6,JavaScript|Guides
@@ -13228,7 +13227,7 @@ web/javascript/reference/global_objects/temporal/plainyearmonth/until,7e14795a6e
 web/javascript/reference/global_objects/temporal/plainyearmonth/valueof,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/plainyearmonth/with,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/plainyearmonth/year,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
-web/javascript/reference/global_objects/temporal/zoneddatetime,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,JavaScript|Global Objects
+web/javascript/reference/global_objects/temporal/zoneddatetime,3cc665141a834304942e7e2c15745cb766a6b195,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/zoneddatetime/add,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/zoneddatetime/calendarid,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/zoneddatetime/compare,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
@@ -13680,8 +13679,8 @@ web/security/attacks/supply_chain_attacks,2d1f9a4d1d01322394b12feebb1f6750438373
 web/security/attacks/xs-leaks,81bf621759d3a52fdf737c2d75f186a0073d1406,Security|Attacks
 web/security/attacks/xss,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,Security|Attacks
 web/security/authentication,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Security|Authentication
-web/security/authentication/federated_identity,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Security|Authentication
-web/security/authentication/otp,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Security|Authentication
+web/security/authentication/federated_identity,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Security|Authentication
+web/security/authentication/otp,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Security|Authentication
 web/security/authentication/passkeys,3d49f18251e1f3493ef2e3a70519603345f8b7dc,Security|Authentication
 web/security/authentication/passwords,545c1267ae9642d850ef539956442c2bb4de280a,Security|Authentication
 web/security/authentication/session_management,7e1cf6ab1fbd41b0430021a2044d658de5d857a3,Security|Authentication
@@ -14012,17 +14011,17 @@ web/svg/tutorials/svg_from_scratch/svg_and_css,d559e66723de93ce6c59eb5d22a29afca
 web/svg/tutorials/svg_from_scratch/texts,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/tools_for_svg,144fc1770b3eaa69bb5be691f505565b6dd9a68e,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/using_fonts,9cfc2285428932f448a1747e347b1e35a3e0172b,SVG|Tutorials
-web/uri,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,URI
+web/uri,9aa03132f4c0aebc474995a234f4e52c64fcc6b4,URI
 web/uri/guides,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,URI
 web/uri/guides/choosing_between_www_and_non-www_urls,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd,URI
 web/uri/reference,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,URI
-web/uri/reference/authority,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,URI
-web/uri/reference/fragment,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,URI
+web/uri/reference/authority,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,URI
+web/uri/reference/fragment,224631999df9097fb7f5fa861a4ec534aa598eb2,URI
 web/uri/reference/fragment/media_fragments,465d0f2adc0dd98c6122a8e6fc2c6b32ecce0b0c,URI
-web/uri/reference/fragment/text_fragments,a267b5378025c50bd722e90c6a1969c41bb80bb1,URI
-web/uri/reference/path,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,URI
-web/uri/reference/query,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,URI
-web/uri/reference/schemes,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,URI
+web/uri/reference/fragment/text_fragments,b2a6a2d255b792532d1cd3edf224f204d1ab2251,URI
+web/uri/reference/path,ab279632b84d201ae9ddd3db3981bf0b01573371,URI
+web/uri/reference/query,6f149dd37e04fa257d6472e7ee1c5ee5545a405b,URI
+web/uri/reference/schemes,44373c3805ba65db7542af75b664dc6fdce2aec0,URI
 web/uri/reference/schemes/blob,ca1647a3e2b77cdf9df220244998f25b86629048,URI
 web/uri/reference/schemes/data,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,URI
 web/uri/reference/schemes/javascript,466ca1db767535c1aa9984b4e6c0db41b3a53475,URI
