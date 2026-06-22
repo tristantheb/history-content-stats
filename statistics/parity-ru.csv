@@ -7117,6 +7117,7 @@ web/api/request/formdata,null
 web/api/request/headers,null
 web/api/request/integrity,null
 web/api/request/ishistorynavigation,null
+web/api/request/isreloadnavigation,null
 web/api/request/json,null
 web/api/request/keepalive,null
 web/api/request/method,null
@@ -10994,7 +10995,7 @@ web/css/reference/properties/orphans,null
 web/css/reference/properties/outline,3
 web/css/reference/properties/outline-color,7
 web/css/reference/properties/outline-offset,2
-web/css/reference/properties/outline-style,2
+web/css/reference/properties/outline-style,3
 web/css/reference/properties/outline-width,2
 web/css/reference/properties/overflow,null
 web/css/reference/properties/overflow-anchor,null

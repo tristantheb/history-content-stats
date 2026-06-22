@@ -7117,6 +7117,7 @@ web/api/request/formdata,0
 web/api/request/headers,0
 web/api/request/integrity,0
 web/api/request/ishistorynavigation,0
+web/api/request/isreloadnavigation,null
 web/api/request/json,0
 web/api/request/keepalive,0
 web/api/request/method,0
@@ -10255,7 +10256,7 @@ web/api/xrviewport/width,0
 web/api/xrviewport/x,0
 web/api/xrviewport/y,0
 web/api/xrvisibilitymaskchangeevent,0
-web/api/xrvisibilitymaskchangeevent/eye,0
+web/api/xrvisibilitymaskchangeevent/eye,1
 web/api/xrvisibilitymaskchangeevent/index,0
 web/api/xrvisibilitymaskchangeevent/indices,0
 web/api/xrvisibilitymaskchangeevent/session,0
@@ -10748,7 +10749,7 @@ web/css/reference/properties/border-right-width,0
 web/css/reference/properties/border-spacing,0
 web/css/reference/properties/border-start-end-radius,0
 web/css/reference/properties/border-start-start-radius,0
-web/css/reference/properties/border-style,0
+web/css/reference/properties/border-style,1
 web/css/reference/properties/border-top,0
 web/css/reference/properties/border-top-color,0
 web/css/reference/properties/border-top-left-radius,0
@@ -10994,7 +10995,7 @@ web/css/reference/properties/orphans,0
 web/css/reference/properties/outline,0
 web/css/reference/properties/outline-color,0
 web/css/reference/properties/outline-offset,0
-web/css/reference/properties/outline-style,0
+web/css/reference/properties/outline-style,1
 web/css/reference/properties/outline-width,0
 web/css/reference/properties/overflow,0
 web/css/reference/properties/overflow-anchor,0
@@ -11459,7 +11460,7 @@ web/css/reference/values/initial,0
 web/css/reference/values/integer,0
 web/css/reference/values/length,0
 web/css/reference/values/length-percentage,0
-web/css/reference/values/line-style,0
+web/css/reference/values/line-style,1
 web/css/reference/values/log,0
 web/css/reference/values/max,0
 web/css/reference/values/max-content,0
@@ -14476,7 +14477,7 @@ webassembly/reference/value_types/f32,0
 webassembly/reference/value_types/f64,0
 webassembly/reference/value_types/funcref,0
 webassembly/reference/value_types/i32,0
-webassembly/reference/value_types/i64,0
+webassembly/reference/value_types/i64,1
 webassembly/reference/value_types/v128,0
 webassembly/reference/variables,0
 webassembly/reference/variables/global.get,0

@@ -7117,6 +7117,7 @@ web/api/request/formdata,null
 web/api/request/headers,null
 web/api/request/integrity,null
 web/api/request/ishistorynavigation,null
+web/api/request/isreloadnavigation,null
 web/api/request/json,null
 web/api/request/keepalive,null
 web/api/request/method,null
