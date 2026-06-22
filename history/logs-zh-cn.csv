@@ -3511,6 +3511,7 @@ web/api/mediakeysystemaccess/keysystem,b01f35e069ca9d1c343f24b5d755d210c6107164
 web/api/medialist,no_hash_commit
 web/api/mediametadata/album,033bcb33784ef00e5c95c0333d51c771125f9f94
 web/api/mediametadata/artist,033bcb33784ef00e5c95c0333d51c771125f9f94
+web/api/mediametadata/artwork,033bcb33784ef00e5c95c0333d51c771125f9f94
 web/api/mediametadata/chapterinfo,b60bc79c7ad36c56dddf6760d2fd4dbb642d2023
 web/api/mediametadata,b60bc79c7ad36c56dddf6760d2fd4dbb642d2023
 web/api/mediametadata/mediametadata,3e543cdfe8dddfb4774a64bf3decdcbab42a4111

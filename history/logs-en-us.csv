@@ -10256,7 +10256,7 @@ web/api/xrviewport/width,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrviewport/x,8a9085b96d0135920be9b281d4500ff72a7a8369,Web APIs
 web/api/xrviewport/y,4d51a212bfda5ce9978d162caf5532d155f7eb0a,Web APIs
 web/api/xrvisibilitymaskchangeevent,8330e7c1afd31d53ae12c3271e96d681bba9e223,Web APIs
-web/api/xrvisibilitymaskchangeevent/eye,8330e7c1afd31d53ae12c3271e96d681bba9e223,Web APIs
+web/api/xrvisibilitymaskchangeevent/eye,058e546d8a4ed2529efc5cc6ad9d06162bb59def,Web APIs
 web/api/xrvisibilitymaskchangeevent/index,8330e7c1afd31d53ae12c3271e96d681bba9e223,Web APIs
 web/api/xrvisibilitymaskchangeevent/indices,8330e7c1afd31d53ae12c3271e96d681bba9e223,Web APIs
 web/api/xrvisibilitymaskchangeevent/session,8330e7c1afd31d53ae12c3271e96d681bba9e223,Web APIs
@@ -10749,7 +10749,7 @@ web/css/reference/properties/border-right-width,bcbb4bd6a80292c0663b723d5466759c
 web/css/reference/properties/border-spacing,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-start-end-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-start-start-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/border-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/border-style,a06cf3dca37bb7da1d5e5ad98c5d15a10dde3e8c,CSS|Properties
 web/css/reference/properties/border-top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-top-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-top-left-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10995,7 +10995,7 @@ web/css/reference/properties/orphans,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CS
 web/css/reference/properties/outline,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/outline-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/outline-offset,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/outline-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/outline-style,a06cf3dca37bb7da1d5e5ad98c5d15a10dde3e8c,CSS|Properties
 web/css/reference/properties/outline-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/overflow,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/overflow-anchor,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11460,7 +11460,7 @@ web/css/reference/values/initial,0aa8517faf9d7d15c745ac94db7014d3a2d2085f,CSS|Va
 web/css/reference/values/integer,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/length,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/length-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/line-style,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
+web/css/reference/values/line-style,a06cf3dca37bb7da1d5e5ad98c5d15a10dde3e8c,CSS|Values
 web/css/reference/values/log,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/max,6857a53b4ef756a062310b555e61f2ec722a2441,CSS|Values
 web/css/reference/values/max-content,aaedffba9f47d6dce7967a4191963378026d9406,CSS|Values
@@ -14477,7 +14477,7 @@ webassembly/reference/value_types/f32,48b0dc43b7c13a2c9a5d2c56f110444d2550b90e,W
 webassembly/reference/value_types/f64,48b0dc43b7c13a2c9a5d2c56f110444d2550b90e,WebAssembly
 webassembly/reference/value_types/funcref,48b0dc43b7c13a2c9a5d2c56f110444d2550b90e,WebAssembly
 webassembly/reference/value_types/i32,48b0dc43b7c13a2c9a5d2c56f110444d2550b90e,WebAssembly
-webassembly/reference/value_types/i64,add2e734fb5804f451b32bafe631bcc69e71cd48,WebAssembly
+webassembly/reference/value_types/i64,b9ea307536ef3c128102bdd5d090b57bfca93143,WebAssembly
 webassembly/reference/value_types/v128,48b0dc43b7c13a2c9a5d2c56f110444d2550b90e,WebAssembly
 webassembly/reference/variables,a21bf857ac668ad72a36aad0d8ad7e87c6bdc4d8,WebAssembly|Variables
 webassembly/reference/variables/global.get,a21bf857ac668ad72a36aad0d8ad7e87c6bdc4d8,WebAssembly|Variables
