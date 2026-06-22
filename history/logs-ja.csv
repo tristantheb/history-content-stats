@@ -7914,7 +7914,7 @@ web/html/reference/elements/address,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/area,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/article,a1765c2cad20118be0dad322d3548908787b5791
 web/html/reference/elements/aside,599ae8b7ad414e91df473d91983f4ffc5cafabb3
-web/html/reference/elements/audio,b0c2ce683687410406fa7ccdef391ff1d41503bb
+web/html/reference/elements/audio,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/b,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/elements/base,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/bdi,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
@@ -7926,14 +7926,14 @@ web/html/reference/elements/br,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/elements/button,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/canvas,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/caption,599ae8b7ad414e91df473d91983f4ffc5cafabb3
-web/html/reference/elements/center,6f886b9147b7f62bacfa1e740a3ea288168a58aa
-web/html/reference/elements/cite,942a529383ee7ee3996fb234187641c08935f3ff
+web/html/reference/elements/center,599ae8b7ad414e91df473d91983f4ffc5cafabb3
+web/html/reference/elements/cite,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/code,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/col,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/colgroup,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/data,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/datalist,0754cd805a8e010d2e3a2a065f634a3bcf358252
-web/html/reference/elements/dd,942a529383ee7ee3996fb234187641c08935f3ff
+web/html/reference/elements/dd,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/del,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/details,7615562a3689a3e23a2b6b623597f4391740a53e
 web/html/reference/elements/dfn,e04d8d2766c468f149445c0bf438d09f9b2d188c
@@ -7941,7 +7941,7 @@ web/html/reference/elements/dialog,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/dir,44a5fa2aace490e0114349d9d683675b2f5cacce
 web/html/reference/elements/div,a1765c2cad20118be0dad322d3548908787b5791
 web/html/reference/elements/dl,0754cd805a8e010d2e3a2a065f634a3bcf358252
-web/html/reference/elements/dt,942a529383ee7ee3996fb234187641c08935f3ff
+web/html/reference/elements/dt,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/em,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/embed,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/fencedframe,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
@@ -8237,7 +8237,7 @@ web/http/reference/headers/if-unmodified-since,no_hash_commit
 web/http/reference/headers,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/keep-alive,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/last-modified,no_hash_commit
-web/http/reference/headers/link,no_hash_commit
+web/http/reference/headers/link,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/location,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/nel,no_hash_commit
 web/http/reference/headers/origin,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
@@ -8291,7 +8291,7 @@ web/http/reference/headers/sec-fetch-mode,ad5b5e31f81795d692e66dadb7818ba8b220ad
 web/http/reference/headers/sec-fetch-site,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-fetch-user,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/server-timing,no_hash_commit
-web/http/reference/headers/server,no_hash_commit
+web/http/reference/headers/server,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/set-cookie,ac513ee8e865b8de037adee906d10fd888004cce
 web/http/reference/headers/sourcemap,no_hash_commit
 web/http/reference/headers/strict-transport-security,886f2641ae90a70858c5e7d0d20959c70ee44d9d
