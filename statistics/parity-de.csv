@@ -4008,7 +4008,7 @@ web/api/element/setattributenode,0
 web/api/element/setattributenodens,0
 web/api/element/setattributens,0
 web/api/element/setcapture,0
-web/api/element/sethtml,0
+web/api/element/sethtml,1
 web/api/element/sethtmlunsafe,0
 web/api/element/setpointercapture,0
 web/api/element/shadowroot,0
@@ -7645,7 +7645,7 @@ web/api/sanitizer/replaceelementwithchildren,0
 web/api/sanitizer/sanitizer,0
 web/api/sanitizer/setcomments,0
 web/api/sanitizer/setdataattributes,0
-web/api/sanitizerconfig,0
+web/api/sanitizerconfig,1
 web/api/scheduler,0
 web/api/scheduler/posttask,0
 web/api/scheduler/yield,0
