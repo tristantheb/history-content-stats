@@ -1121,7 +1121,7 @@ mdn/writing_guidelines/page_structures/page_types/glossary_page_template,3
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,null
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,null
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,15
-mdn/writing_guidelines/page_structures/page_types/page_type_key,0
+mdn/writing_guidelines/page_structures/page_types/page_type_key,1
 mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,0
 mdn/writing_guidelines/page_structures/polyfills,0
 mdn/writing_guidelines/page_structures/sidebars,0
@@ -2939,7 +2939,7 @@ web/api/compositionevent/initcompositionevent,null
 web/api/compositionevent/locale,null
 web/api/compression_streams_api,1
 web/api/compressionstream,1
-web/api/compressionstream/compressionstream,3
+web/api/compressionstream/compressionstream,4
 web/api/compressionstream/readable,1
 web/api/compressionstream/writable,1
 web/api/compute_pressure_api,null
@@ -3413,7 +3413,7 @@ web/api/datatransferitemlist/clear,null
 web/api/datatransferitemlist/length,null
 web/api/datatransferitemlist/remove,null
 web/api/decompressionstream,1
-web/api/decompressionstream/decompressionstream,3
+web/api/decompressionstream/decompressionstream,4
 web/api/decompressionstream/readable,1
 web/api/decompressionstream/writable,1
 web/api/dedicatedworkerglobalscope,null
@@ -8930,7 +8930,7 @@ web/api/url,10
 web/api/url/canparse_static,null
 web/api/url/createobjecturl_static,null
 web/api/url/hash,null
-web/api/url/host,3
+web/api/url/host,4
 web/api/url/hostname,null
 web/api/url/href,null
 web/api/url/origin,null
@@ -12089,7 +12089,7 @@ web/http/reference/headers/x-robots-tag,null
 web/http/reference/headers/x-xss-protection,null
 web/http/reference/methods,null
 web/http/reference/methods/connect,null
-web/http/reference/methods/delete,5
+web/http/reference/methods/delete,6
 web/http/reference/methods/get,null
 web/http/reference/methods/head,null
 web/http/reference/methods/options,null
@@ -12149,7 +12149,7 @@ web/http/reference/status/428,null
 web/http/reference/status/429,null
 web/http/reference/status/431,null
 web/http/reference/status/451,null
-web/http/reference/status/500,2
+web/http/reference/status/500,3
 web/http/reference/status/501,null
 web/http/reference/status/502,null
 web/http/reference/status/503,null

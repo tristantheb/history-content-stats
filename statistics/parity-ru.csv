@@ -12093,7 +12093,7 @@ web/http/reference/methods/delete,null
 web/http/reference/methods/get,null
 web/http/reference/methods/head,null
 web/http/reference/methods/options,null
-web/http/reference/methods/patch,4
+web/http/reference/methods/patch,5
 web/http/reference/methods/post,null
 web/http/reference/methods/put,null
 web/http/reference/methods/trace,null
