@@ -1539,6 +1539,7 @@ mozilla/add-ons/webextensions/api/runtime/connectnative,null
 mozilla/add-ons/webextensions/api/runtime/getbackgroundpage,null
 mozilla/add-ons/webextensions/api/runtime/getbrowserinfo,null
 mozilla/add-ons/webextensions/api/runtime/getcontexts,null
+mozilla/add-ons/webextensions/api/runtime/getdocumentid,null
 mozilla/add-ons/webextensions/api/runtime/getframeid,null
 mozilla/add-ons/webextensions/api/runtime/getmanifest,null
 mozilla/add-ons/webextensions/api/runtime/getpackagedirectoryentry,null
@@ -1896,6 +1897,7 @@ mozilla/add-ons/webextensions/user_interface/toolbar_button,null
 mozilla/add-ons/webextensions/what_are_webextensions,3
 mozilla/add-ons/webextensions/what_next,null
 mozilla/add-ons/webextensions/work_with_contextual_identities,null
+mozilla/add-ons/webextensions/work_with_documentid,null
 mozilla/add-ons/webextensions/work_with_the_bookmarks_api,null
 mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null

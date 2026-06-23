@@ -1539,6 +1539,7 @@ mozilla/add-ons/webextensions/api/runtime/connectnative,null
 mozilla/add-ons/webextensions/api/runtime/getbackgroundpage,null
 mozilla/add-ons/webextensions/api/runtime/getbrowserinfo,null
 mozilla/add-ons/webextensions/api/runtime/getcontexts,null
+mozilla/add-ons/webextensions/api/runtime/getdocumentid,null
 mozilla/add-ons/webextensions/api/runtime/getframeid,null
 mozilla/add-ons/webextensions/api/runtime/getmanifest,null
 mozilla/add-ons/webextensions/api/runtime/getpackagedirectoryentry,null
@@ -1817,7 +1818,7 @@ mozilla/add-ons/webextensions/background_scripts,null
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,null
 mozilla/add-ons/webextensions/build_a_cross_browser_extension,null
 mozilla/add-ons/webextensions/chrome_incompatibilities,null
-mozilla/add-ons/webextensions/content_scripts,13
+mozilla/add-ons/webextensions/content_scripts,14
 mozilla/add-ons/webextensions/content_scripts/cloneinto,null
 mozilla/add-ons/webextensions/content_scripts/exportfunction,null
 mozilla/add-ons/webextensions/content_security_policy,null
@@ -1896,6 +1897,7 @@ mozilla/add-ons/webextensions/user_interface/toolbar_button,null
 mozilla/add-ons/webextensions/what_are_webextensions,null
 mozilla/add-ons/webextensions/what_next,null
 mozilla/add-ons/webextensions/work_with_contextual_identities,null
+mozilla/add-ons/webextensions/work_with_documentid,null
 mozilla/add-ons/webextensions/work_with_the_bookmarks_api,null
 mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
@@ -11381,7 +11383,7 @@ web/css/reference/values/calc-sum,1
 web/css/reference/values/clamp,2
 web/css/reference/values/color-interpolation-method,0
 web/css/reference/values/color_value,0
-web/css/reference/values/color_value/color,0
+web/css/reference/values/color_value/color,1
 web/css/reference/values/color_value/color-mix,0
 web/css/reference/values/color_value/contrast-color,0
 web/css/reference/values/color_value/device-cmyk,0
