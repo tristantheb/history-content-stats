@@ -4721,7 +4721,7 @@ web/api/highlightregistry/entries,0
 web/api/highlightregistry/foreach,0
 web/api/highlightregistry/get,0
 web/api/highlightregistry/has,0
-web/api/highlightregistry/highlightsfrompoint,0
+web/api/highlightregistry/highlightsfrompoint,1
 web/api/highlightregistry/keys,0
 web/api/highlightregistry/set,0
 web/api/highlightregistry/size,0
@@ -6890,7 +6890,7 @@ web/api/pointerevent/tilty,0
 web/api/pointerevent/twist,0
 web/api/pointerevent/width,0
 web/api/popover_api,0
-web/api/popover_api/using,0
+web/api/popover_api/using,1
 web/api/popover_api/using_interest_invokers,0
 web/api/popstateevent,0
 web/api/popstateevent/hasuavisualtransition,0
