@@ -10721,7 +10721,7 @@ web/css/reference/properties/border-collapse,1
 web/css/reference/properties/border-color,5
 web/css/reference/properties/border-end-end-radius,1
 web/css/reference/properties/border-end-start-radius,1
-web/css/reference/properties/border-image,1
+web/css/reference/properties/border-image,2
 web/css/reference/properties/border-image-outset,1
 web/css/reference/properties/border-image-repeat,1
 web/css/reference/properties/border-image-slice,1
@@ -10906,7 +10906,7 @@ web/css/reference/properties/hyphenate-character,1
 web/css/reference/properties/hyphenate-limit-chars,1
 web/css/reference/properties/hyphens,2
 web/css/reference/properties/image-orientation,1
-web/css/reference/properties/image-rendering,1
+web/css/reference/properties/image-rendering,2
 web/css/reference/properties/image-resolution,2
 web/css/reference/properties/initial-letter,1
 web/css/reference/properties/inline-size,0
