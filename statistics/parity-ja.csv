@@ -10635,7 +10635,7 @@ web/css/reference/properties,0
 web/css/reference/properties/--_star_,1
 web/css/reference/properties/-moz-float-edge,null
 web/css/reference/properties/-moz-force-broken-image-icon,2
-web/css/reference/properties/-moz-orient,null
+web/css/reference/properties/-moz-orient,0
 web/css/reference/properties/-moz-user-focus,1
 web/css/reference/properties/-moz-user-input,1
 web/css/reference/properties/-webkit-border-before,0
