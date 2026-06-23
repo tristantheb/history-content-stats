@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Fir
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,3305c80f225be0e373313d96841f6bf9a52e314b,Mozilla|Firefox|Versions
-mozilla/firefox/releases/153,9791add3508e087982097f25fbd367c21bcb8305,Mozilla|Firefox|Versions
+mozilla/firefox/releases/153,31a0b58995d4e1162c2be23226e974ba4a9e34bb,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -10721,7 +10721,7 @@ web/css/reference/properties/border-collapse,bcbb4bd6a80292c0663b723d5466759cfaa
 web/css/reference/properties/border-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-end-end-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-end-start-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/border-image,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/border-image,0cf00ab40deebad90225815e1881ae89bbca085b,CSS|Properties
 web/css/reference/properties/border-image-outset,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-image-repeat,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-image-slice,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10906,7 +10906,7 @@ web/css/reference/properties/hyphenate-character,bcbb4bd6a80292c0663b723d5466759
 web/css/reference/properties/hyphenate-limit-chars,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/hyphens,35704c8c6b8065b8a288d0f6454e4a0387538dcc,CSS|Properties
 web/css/reference/properties/image-orientation,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/image-rendering,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/image-rendering,d314d089e9be9ac78a91ba95ee80cad7d3cbe8c2,CSS|Properties
 web/css/reference/properties/image-resolution,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/initial-letter,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/inline-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
