@@ -4721,7 +4721,7 @@ web/api/highlightregistry/entries,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web A
 web/api/highlightregistry/foreach,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/highlightregistry/get,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb,Web APIs
 web/api/highlightregistry/has,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb,Web APIs
-web/api/highlightregistry/highlightsfrompoint,55fa335b332f8e4068344170167f412682206131,Web APIs
+web/api/highlightregistry/highlightsfrompoint,6401be870472f3197c3a130b719952779cad639b,Web APIs
 web/api/highlightregistry/keys,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
 web/api/highlightregistry/set,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/highlightregistry/size,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb,Web APIs
@@ -6890,7 +6890,7 @@ web/api/pointerevent/tilty,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/pointerevent/twist,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
 web/api/pointerevent/width,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
 web/api/popover_api,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
-web/api/popover_api/using,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
+web/api/popover_api/using,7ea78dce9d6321ccde40f32ca946c254b7e424f0,Web APIs
 web/api/popover_api/using_interest_invokers,995f8bcede5aa8ca40921b030deef7524ce9e1a3,Web APIs
 web/api/popstateevent,082221e2a29b7bea7a3029cd71442c8f294a8422,Web APIs
 web/api/popstateevent/hasuavisualtransition,0496643fbc14a6bad2bf46c94ab27c541f6928ff,Web APIs

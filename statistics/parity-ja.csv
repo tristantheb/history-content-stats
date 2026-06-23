@@ -6890,7 +6890,7 @@ web/api/pointerevent/tilty,4
 web/api/pointerevent/twist,1
 web/api/pointerevent/width,1
 web/api/popover_api,13
-web/api/popover_api/using,0
+web/api/popover_api/using,1
 web/api/popover_api/using_interest_invokers,0
 web/api/popstateevent,2
 web/api/popstateevent/hasuavisualtransition,null
