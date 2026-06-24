@@ -553,6 +553,7 @@ web/accessibility/aria/reference/attributes/aria-required,no_hash_commit
 web/accessibility/aria/reference/attributes,f6d04a43eadf5ab26a3488942dfb318b58234eb5
 web/accessibility/aria/reference/roles/alert_role,no_hash_commit
 web/accessibility/aria/reference/roles/alertdialog_role,no_hash_commit
+web/accessibility/guides/cognitive_accessibility,7ba6358a0ff684cc67c60b76d6d972722bbf0d18
 web/accessibility/guides/understanding_wcag,no_hash_commit
 web/accessibility/guides/understanding_wcag/keyboard,no_hash_commit
 web/accessibility/guides/understanding_wcag/perceivable/color_contrast,no_hash_commit
