@@ -3690,7 +3690,7 @@ web/api/navigator/contacts,89c435da452257b944b403cc9e45036fcb22590e
 web/api/navigator/cookieenabled,ef75c1741b450c2331204be5563ee964ad5f4c48
 web/api/navigator/credentials,61e0e2ba096262b69b86b36bbadb5fcbfd546b1e
 web/api/navigator/deprecatedreplaceinurn,f430d277573ba0b06b1ac33ae8017fd90f170bef
-web/api/navigator/devicememory,ca577adc00ddc882765c131739ad2ed25edd2285
+web/api/navigator/devicememory,b304d8d3c870fba028df550a51f5b4258ab3ac08
 web/api/navigator/donottrack,44cf523714745d626317192bfbe849b47144f3ab
 web/api/navigator/geolocation,b0870830e4c02596ca6c501f8f8b468a917eafc2
 web/api/navigator/getbattery,4d929bb0a021c7130d5a71a4bf505bcb8070378d
@@ -7094,6 +7094,7 @@ web/javascript/reference/operators/greater_than,no_hash_commit
 web/javascript/reference/operators/greater_than_or_equal,no_hash_commit
 web/javascript/reference/operators/grouping,no_hash_commit
 web/javascript/reference/operators/import.meta,4f86aad2b0b66c0d2041354ec81400c574ab56ca
+web/javascript/reference/operators/import.meta/resolve,0ca040b6a9cfd931558bd1d3a402707abddc1924
 web/javascript/reference/operators/import,eb7cf694c19b31ee8826f22eaac6c12e808b1e50
 web/javascript/reference/operators/in,no_hash_commit
 web/javascript/reference/operators/increment,no_hash_commit
