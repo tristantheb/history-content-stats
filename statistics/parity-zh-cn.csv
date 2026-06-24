@@ -6306,7 +6306,7 @@ web/api/navigator/contacts,1
 web/api/navigator/cookieenabled,4
 web/api/navigator/credentials,1
 web/api/navigator/deprecatedreplaceinurn,2
-web/api/navigator/devicememory,2
+web/api/navigator/devicememory,0
 web/api/navigator/deviceposture,null
 web/api/navigator/donottrack,3
 web/api/navigator/geolocation,1
@@ -13394,7 +13394,7 @@ web/javascript/reference/operators/greater_than_or_equal,null
 web/javascript/reference/operators/grouping,null
 web/javascript/reference/operators/import,8
 web/javascript/reference/operators/import.meta,1
-web/javascript/reference/operators/import.meta/resolve,null
+web/javascript/reference/operators/import.meta/resolve,0
 web/javascript/reference/operators/in,null
 web/javascript/reference/operators/increment,null
 web/javascript/reference/operators/inequality,null
