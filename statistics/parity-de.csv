@@ -1324,7 +1324,7 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/updateenabledrulesets,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/updatesessionrules,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/updatestaticrules,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/urltransform,0
-mozilla/add-ons/webextensions/api/devtools,0
+mozilla/add-ons/webextensions/api/devtools,1
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow,0
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/eval,0
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/reload,0
@@ -1530,9 +1530,9 @@ mozilla/add-ons/webextensions/api/proxy/requestdetails,1
 mozilla/add-ons/webextensions/api/proxy/settings,0
 mozilla/add-ons/webextensions/api/publicsuffix,0
 mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,0
-mozilla/add-ons/webextensions/api/publicsuffix/getdomain,0
-mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,0
-mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,0
+mozilla/add-ons/webextensions/api/publicsuffix/getdomain,1
+mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,1
+mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,1
 mozilla/add-ons/webextensions/api/runtime,1
 mozilla/add-ons/webextensions/api/runtime/connect,0
 mozilla/add-ons/webextensions/api/runtime/connectnative,0
