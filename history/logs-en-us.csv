@@ -1324,7 +1324,7 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/updateenabledrulesets,09
 mozilla/add-ons/webextensions/api/declarativenetrequest/updatesessionrules,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/declarativenetrequest/updatestaticrules,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/declarativenetrequest/urltransform,2290fdbf9d5cf68482245d07d388b883156058ac,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/devtools,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/devtools,96eee46848f79914902892ca67e14df7736e11c7,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/eval,c4bcbe7056da00277112f21b94966e0443c39805,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/reload,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1530,9 +1530,9 @@ mozilla/add-ons/webextensions/api/proxy/requestdetails,9791add3508e087982097f25f
 mozilla/add-ons/webextensions/api/proxy/settings,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/publicsuffix,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/publicsuffix/getdomain,b8ffa5128ed5afe5f76b8936723f91d86b8fc7df,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/publicsuffix/getdomain,79dc4b2dfc4d0564581cc4e417e5a2cfdd64bbd6,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,79dc4b2dfc4d0564581cc4e417e5a2cfdd64bbd6,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,79dc4b2dfc4d0564581cc4e417e5a2cfdd64bbd6,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime,9791add3508e087982097f25fbd367c21bcb8305,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/connect,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/connectnative,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
