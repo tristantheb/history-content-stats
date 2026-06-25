@@ -1324,7 +1324,7 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/updateenabledrulesets,nu
 mozilla/add-ons/webextensions/api/declarativenetrequest/updatesessionrules,null
 mozilla/add-ons/webextensions/api/declarativenetrequest/updatestaticrules,null
 mozilla/add-ons/webextensions/api/declarativenetrequest/urltransform,null
-mozilla/add-ons/webextensions/api/devtools,7
+mozilla/add-ons/webextensions/api/devtools,8
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow,null
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/eval,null
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/reload,null
