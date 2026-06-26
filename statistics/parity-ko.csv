@@ -306,7 +306,7 @@ glossary/head,3
 glossary/head_of_line_blocking,null
 glossary/high-level_programming_language,1
 glossary/hmac,3
-glossary/hoisting,2
+glossary/hoisting,3
 glossary/host,1
 glossary/hotlink,2
 glossary/houdini,5
@@ -8650,6 +8650,7 @@ web/api/svgtextelement,null
 web/api/svgtextpathelement,null
 web/api/svgtextpathelement/href,null
 web/api/svgtextpathelement/method,null
+web/api/svgtextpathelement/side,null
 web/api/svgtextpathelement/spacing,null
 web/api/svgtextpathelement/startoffset,null
 web/api/svgtextpositioningelement,null

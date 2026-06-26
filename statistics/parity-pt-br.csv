@@ -8650,6 +8650,7 @@ web/api/svgtextelement,null
 web/api/svgtextpathelement,null
 web/api/svgtextpathelement/href,null
 web/api/svgtextpathelement/method,null
+web/api/svgtextpathelement/side,null
 web/api/svgtextpathelement/spacing,null
 web/api/svgtextpathelement/startoffset,null
 web/api/svgtextpositioningelement,null
