@@ -3994,7 +3994,7 @@ web/api/element/scroll_event,null
 web/api/element/scrollby,null
 web/api/element/scrollend_event,null
 web/api/element/scrollheight,null
-web/api/element/scrollintoview,0
+web/api/element/scrollintoview,1
 web/api/element/scrollintoviewifneeded,1
 web/api/element/scrollleft,null
 web/api/element/scrollleftmax,null
@@ -8584,6 +8584,8 @@ web/api/svgrectelement/x,null
 web/api/svgrectelement/y,null
 web/api/svgscriptelement,null
 web/api/svgscriptelement/async,null
+web/api/svgscriptelement/crossorigin,null
+web/api/svgscriptelement/defer,null
 web/api/svgscriptelement/href,null
 web/api/svgscriptelement/type,null
 web/api/svgsetelement,null
@@ -9825,7 +9827,7 @@ web/api/window/screenleft,null
 web/api/window/screentop,null
 web/api/window/screenx,null
 web/api/window/screeny,null
-web/api/window/scroll,1
+web/api/window/scroll,2
 web/api/window/scrollbars,1
 web/api/window/scrollby,null
 web/api/window/scrollbylines,1
@@ -9834,7 +9836,7 @@ web/api/window/scrollmaxx,0
 web/api/window/scrollmaxy,0
 web/api/window/scrollsnapchange_event,null
 web/api/window/scrollsnapchanging_event,null
-web/api/window/scrollto,2
+web/api/window/scrollto,3
 web/api/window/scrollx,null
 web/api/window/scrolly,null
 web/api/window/self,null
