@@ -3527,7 +3527,7 @@ web/api/document/elementfrompoint,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web A
 web/api/document/elementsfrompoint,b21df53ffbb066cfb9347d7f0e5aebb792ed73e5,Web APIs
 web/api/document/embeds,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/document/enablestylesheetsforset,b71d118ffc6d72b77efad9661110fcc9ede464eb,Web APIs
-web/api/document/evaluate,8ea63a911eed0b22c74e2c3f0c41ae1e98abc314,Web APIs
+web/api/document/evaluate,61db27d780267e3f68583214b43bc24319de455b,Web APIs
 web/api/document/execcommand,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/document/exitfullscreen,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/document/exitpictureinpicture,58d68cd4c2a6e77a90fb990924a04e5bc93cc3bd,Web APIs
