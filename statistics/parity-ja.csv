@@ -3484,7 +3484,7 @@ web/api/document/arianotify,null
 web/api/document/beforescriptexecute_event,5
 web/api/document/bgcolor,3
 web/api/document/body,2
-web/api/document/browsingtopics,0
+web/api/document/browsingtopics,1
 web/api/document/caretpositionfrompoint,4
 web/api/document/caretrangefrompoint,1
 web/api/document/characterset,2
@@ -5008,7 +5008,7 @@ web/api/htmliframeelement,10
 web/api/htmliframeelement/allow,1
 web/api/htmliframeelement/allowfullscreen,1
 web/api/htmliframeelement/allowpaymentrequest,0
-web/api/htmliframeelement/browsingtopics,2
+web/api/htmliframeelement/browsingtopics,3
 web/api/htmliframeelement/contentdocument,1
 web/api/htmliframeelement/contentwindow,2
 web/api/htmliframeelement/credentialless,1
@@ -7132,7 +7132,7 @@ web/api/request/signal,0
 web/api/request/targetaddressspace,null
 web/api/request/text,1
 web/api/request/url,1
-web/api/requestinit,13
+web/api/requestinit,14
 web/api/resize_observer_api,2
 web/api/resizeobserver,6
 web/api/resizeobserver/disconnect,0
@@ -7164,7 +7164,7 @@ web/api/response/ok,2
 web/api/response/redirect_static,2
 web/api/response/redirected,3
 web/api/response/response,3
-web/api/response/status,3
+web/api/response/status,4
 web/api/response/statustext,2
 web/api/response/text,5
 web/api/response/type,4
@@ -8820,7 +8820,6 @@ web/api/toggleevent/oldstate,2
 web/api/toggleevent/source,null
 web/api/toggleevent/toggleevent,5
 web/api/topics_api,null
-web/api/topics_api/using,null
 web/api/touch,3
 web/api/touch/altitudeangle,null
 web/api/touch/azimuthangle,null
@@ -11648,7 +11647,7 @@ web/html/reference/elements/hgroup,0
 web/html/reference/elements/hr,2
 web/html/reference/elements/html,1
 web/html/reference/elements/i,0
-web/html/reference/elements/iframe,1
+web/html/reference/elements/iframe,2
 web/html/reference/elements/img,1
 web/html/reference/elements/input,0
 web/html/reference/elements/input/button,1
@@ -11841,7 +11840,7 @@ web/http/guides/redirections,0
 web/http/guides/session,2
 web/http/guides/user-agent_reduction,0
 web/http/reference,1
-web/http/reference/headers,5
+web/http/reference/headers,6
 web/http/reference/headers/accept,0
 web/http/reference/headers/accept-ch,null
 web/http/reference/headers/accept-encoding,0

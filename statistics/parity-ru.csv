@@ -7164,7 +7164,7 @@ web/api/response/ok,5
 web/api/response/redirect_static,null
 web/api/response/redirected,null
 web/api/response/response,null
-web/api/response/status,4
+web/api/response/status,5
 web/api/response/statustext,3
 web/api/response/text,null
 web/api/response/type,6
@@ -8820,7 +8820,6 @@ web/api/toggleevent/oldstate,null
 web/api/toggleevent/source,null
 web/api/toggleevent/toggleevent,null
 web/api/topics_api,null
-web/api/topics_api/using,null
 web/api/touch,null
 web/api/touch/altitudeangle,null
 web/api/touch/azimuthangle,null
