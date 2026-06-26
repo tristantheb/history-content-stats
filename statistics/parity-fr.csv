@@ -3527,7 +3527,7 @@ web/api/document/elementfrompoint,0
 web/api/document/elementsfrompoint,0
 web/api/document/embeds,0
 web/api/document/enablestylesheetsforset,0
-web/api/document/evaluate,0
+web/api/document/evaluate,1
 web/api/document/execcommand,2
 web/api/document/exitfullscreen,0
 web/api/document/exitpictureinpicture,0
