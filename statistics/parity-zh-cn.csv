@@ -5008,7 +5008,7 @@ web/api/htmliframeelement,null
 web/api/htmliframeelement/allow,null
 web/api/htmliframeelement/allowfullscreen,2
 web/api/htmliframeelement/allowpaymentrequest,0
-web/api/htmliframeelement/browsingtopics,5
+web/api/htmliframeelement/browsingtopics,6
 web/api/htmliframeelement/contentdocument,1
 web/api/htmliframeelement/contentwindow,1
 web/api/htmliframeelement/credentialless,1
@@ -7164,7 +7164,7 @@ web/api/response/ok,null
 web/api/response/redirect_static,null
 web/api/response/redirected,null
 web/api/response/response,null
-web/api/response/status,1
+web/api/response/status,2
 web/api/response/statustext,null
 web/api/response/text,null
 web/api/response/type,null
@@ -8820,7 +8820,6 @@ web/api/toggleevent/oldstate,null
 web/api/toggleevent/source,null
 web/api/toggleevent/toggleevent,null
 web/api/topics_api,null
-web/api/topics_api/using,null
 web/api/touch,null
 web/api/touch/altitudeangle,null
 web/api/touch/azimuthangle,null
@@ -11648,7 +11647,7 @@ web/html/reference/elements/hgroup,null
 web/html/reference/elements/hr,null
 web/html/reference/elements/html,5
 web/html/reference/elements/i,1
-web/html/reference/elements/iframe,17
+web/html/reference/elements/iframe,18
 web/html/reference/elements/img,15
 web/html/reference/elements/input,4
 web/html/reference/elements/input/button,null
@@ -11841,7 +11840,7 @@ web/http/guides/redirections,5
 web/http/guides/session,null
 web/http/guides/user-agent_reduction,null
 web/http/reference,1
-web/http/reference/headers,17
+web/http/reference/headers,18
 web/http/reference/headers/accept,0
 web/http/reference/headers/accept-ch,5
 web/http/reference/headers/accept-encoding,5

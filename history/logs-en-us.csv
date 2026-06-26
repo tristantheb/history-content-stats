@@ -3484,7 +3484,7 @@ web/api/document/arianotify,3d7c7d4e151ff1b578bef4eff10c201b761a9d7d,Web APIs
 web/api/document/beforescriptexecute_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/document/bgcolor,cac79d099b0a4e48456cb53eb2435f6acf03e188,Web APIs
 web/api/document/body,79fdc26fea835d65c9361541bb8ab1896f307475,Web APIs
-web/api/document/browsingtopics,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
+web/api/document/browsingtopics,c807b72777506cd8aaa8d888b7a187dbc6079ca1,Web APIs
 web/api/document/caretpositionfrompoint,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
 web/api/document/caretrangefrompoint,1c7b8308c11efc3468214b997eb1ac4150f76c18,Web APIs
 web/api/document/characterset,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
@@ -5008,7 +5008,7 @@ web/api/htmliframeelement,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/htmliframeelement/allow,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/htmliframeelement/allowfullscreen,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/htmliframeelement/allowpaymentrequest,a3d9f61a8990ba7b53bda9748d1f26a9e9810b18,Web APIs
-web/api/htmliframeelement/browsingtopics,e936e7271df947f25184a5ba8a21445bbd4d056c,Web APIs
+web/api/htmliframeelement/browsingtopics,c807b72777506cd8aaa8d888b7a187dbc6079ca1,Web APIs
 web/api/htmliframeelement/contentdocument,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/htmliframeelement/contentwindow,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/htmliframeelement/credentialless,dd868507df863ab4f37d53c960c76e20e9ee365f,Web APIs
@@ -7132,7 +7132,7 @@ web/api/request/signal,242b21a3650efeec0d5d2c74cbd171891748c115,Web APIs
 web/api/request/targetaddressspace,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web APIs
 web/api/request/text,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/url,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
-web/api/requestinit,0985f662bf6c2351278ddb6c6629827d00ff6755,Web APIs
+web/api/requestinit,c807b72777506cd8aaa8d888b7a187dbc6079ca1,Web APIs
 web/api/resize_observer_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/resizeobserver,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/resizeobserver/disconnect,954612667bafd71241a93e8554e8f11afc474ff3,Web APIs
@@ -7164,7 +7164,7 @@ web/api/response/ok,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/response/redirect_static,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/response/redirected,31a80a3156d2e93145ae172fdc97a82f6782de48,Web APIs
 web/api/response/response,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/response/status,2064920ea85d963b8cf590dc5d5d25b377aa3d2e,Web APIs
+web/api/response/status,5005f078577007161ffab6b5ffee765f8551174c,Web APIs
 web/api/response/statustext,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/response/text,2845a346b971d6d0415bf24e53084cd4d7aab1e0,Web APIs
 web/api/response/type,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -8819,8 +8819,7 @@ web/api/toggleevent/newstate,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/toggleevent/oldstate,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/toggleevent/source,2597731017bf54bd583bd533fce1a5fab064b597,Web APIs
 web/api/toggleevent/toggleevent,81407b5d512b0429332fda450aa39340493f390d,Web APIs
-web/api/topics_api,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
-web/api/topics_api/using,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Web APIs
+web/api/topics_api,c807b72777506cd8aaa8d888b7a187dbc6079ca1,Web APIs
 web/api/touch,1f3603b8d48cc9b64687ba23e6390d8bde4bb390,Web APIs
 web/api/touch/altitudeangle,1f3603b8d48cc9b64687ba23e6390d8bde4bb390,Web APIs
 web/api/touch/azimuthangle,1f3603b8d48cc9b64687ba23e6390d8bde4bb390,Web APIs
@@ -11648,7 +11647,7 @@ web/html/reference/elements/hgroup,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML
 web/html/reference/elements/hr,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/html,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/i,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/iframe,75016e5d37ecff3b11de4c2ef6665178f654797e,HTML|Elements
+web/html/reference/elements/iframe,c807b72777506cd8aaa8d888b7a187dbc6079ca1,HTML|Elements
 web/html/reference/elements/img,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/input,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/input/button,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
@@ -11841,7 +11840,7 @@ web/http/guides/redirections,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guide
 web/http/guides/session,182692930243199b48e10dfc2cc43c51f9373aa2,HTTP|Guides
 web/http/guides/user-agent_reduction,2ab902d9eec2f5a93d1f666234371ca77e93c470,HTTP|Guides
 web/http/reference,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP
-web/http/reference/headers,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
+web/http/reference/headers,c807b72777506cd8aaa8d888b7a187dbc6079ca1,HTTP|Headers
 web/http/reference/headers/accept,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/accept-ch,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
 web/http/reference/headers/accept-encoding,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -11945,7 +11944,7 @@ web/http/reference/headers/location,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTT
 web/http/reference/headers/max-forwards,77b4195dec3174497169d2e2de35e1eae29139f0,HTTP|Headers
 web/http/reference/headers/nel,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/no-vary-search,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
-web/http/reference/headers/observe-browsing-topics,e936e7271df947f25184a5ba8a21445bbd4d056c,HTTP|Headers
+web/http/reference/headers/observe-browsing-topics,c807b72777506cd8aaa8d888b7a187dbc6079ca1,HTTP|Headers
 web/http/reference/headers/origin,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,HTTP|Headers
 web/http/reference/headers/origin-agent-cluster,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/permissions-policy,75016e5d37ecff3b11de4c2ef6665178f654797e,HTTP|Headers
@@ -12015,7 +12014,7 @@ web/http/reference/headers/repr-digest,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,
 web/http/reference/headers/retry-after,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/rtt,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/save-data,6c43d5c2607cbc84c8ec488400ebb66448992958,HTTP|Headers
-web/http/reference/headers/sec-browsing-topics,0c906f7f464d8ff632baf8d25fa63eed3f03b632,HTTP|Headers
+web/http/reference/headers/sec-browsing-topics,c807b72777506cd8aaa8d888b7a187dbc6079ca1,HTTP|Headers
 web/http/reference/headers/sec-ch-device-memory,b304d8d3c870fba028df550a51f5b4258ab3ac08,HTTP|Headers
 web/http/reference/headers/sec-ch-dpr,423161782178b119c64cd0b41bff8df20dc84a56,HTTP|Headers
 web/http/reference/headers/sec-ch-prefers-color-scheme,6c43d5c2607cbc84c8ec488400ebb66448992958,HTTP|Headers
