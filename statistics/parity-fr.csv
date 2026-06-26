@@ -306,7 +306,7 @@ glossary/head,0
 glossary/head_of_line_blocking,0
 glossary/high-level_programming_language,0
 glossary/hmac,0
-glossary/hoisting,0
+glossary/hoisting,1
 glossary/host,0
 glossary/hotlink,0
 glossary/houdini,0
@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,3
 mozilla/firefox,0
-mozilla/firefox/experimental_features,19
+mozilla/firefox/experimental_features,20
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -8650,6 +8650,7 @@ web/api/svgtextelement,null
 web/api/svgtextpathelement,null
 web/api/svgtextpathelement/href,null
 web/api/svgtextpathelement/method,null
+web/api/svgtextpathelement/side,null
 web/api/svgtextpathelement/spacing,null
 web/api/svgtextpathelement/startoffset,null
 web/api/svgtextpositioningelement,null
