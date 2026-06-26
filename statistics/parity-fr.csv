@@ -8584,6 +8584,8 @@ web/api/svgrectelement/x,null
 web/api/svgrectelement/y,null
 web/api/svgscriptelement,null
 web/api/svgscriptelement/async,null
+web/api/svgscriptelement/crossorigin,null
+web/api/svgscriptelement/defer,null
 web/api/svgscriptelement/href,null
 web/api/svgscriptelement/type,null
 web/api/svgsetelement,null

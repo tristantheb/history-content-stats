@@ -8584,6 +8584,8 @@ web/api/svgrectelement/x,null
 web/api/svgrectelement/y,null
 web/api/svgscriptelement,null
 web/api/svgscriptelement/async,null
+web/api/svgscriptelement/crossorigin,null
+web/api/svgscriptelement/defer,null
 web/api/svgscriptelement/href,null
 web/api/svgscriptelement/type,null
 web/api/svgsetelement,null
@@ -9827,7 +9829,7 @@ web/api/window/screenx,null
 web/api/window/screeny,null
 web/api/window/scroll,null
 web/api/window/scrollbars,null
-web/api/window/scrollby,2
+web/api/window/scrollby,3
 web/api/window/scrollbylines,null
 web/api/window/scrollbypages,null
 web/api/window/scrollmaxx,null
