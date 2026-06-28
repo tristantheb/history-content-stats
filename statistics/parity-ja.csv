@@ -13356,11 +13356,11 @@ web/javascript/reference/global_objects/weakmap/weakmap,0
 web/javascript/reference/global_objects/weakref,5
 web/javascript/reference/global_objects/weakref/deref,2
 web/javascript/reference/global_objects/weakref/weakref,3
-web/javascript/reference/global_objects/weakset,null
+web/javascript/reference/global_objects/weakset,0
 web/javascript/reference/global_objects/weakset/add,null
 web/javascript/reference/global_objects/weakset/delete,null
 web/javascript/reference/global_objects/weakset/has,null
-web/javascript/reference/global_objects/weakset/weakset,null
+web/javascript/reference/global_objects/weakset/weakset,0
 web/javascript/reference/iteration_protocols,12
 web/javascript/reference/javascript_technologies_overview,0
 web/javascript/reference/lexical_grammar,1
@@ -13710,7 +13710,7 @@ web/security/practical_implementation_guides/mime_types,null
 web/security/practical_implementation_guides/referrer_policy,null
 web/security/practical_implementation_guides/robots_txt,null
 web/security/practical_implementation_guides/sri,null
-web/security/practical_implementation_guides/tls,null
+web/security/practical_implementation_guides/tls,0
 web/security/practical_implementation_guides/turning_off_form_autocompletion,1
 web/security/threat_modeling,null
 web/security/threat_modeling/example_threat_model,null
