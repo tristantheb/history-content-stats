@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.1.2](https://github.com/tristantheb/history-content-stats/compare/v1.1.1...v1.1.2) (2026-06-28)
+
+
+### Bug Fixes
+
+* **sync:** parity files not updated properly ([#481](https://github.com/tristantheb/history-content-stats/issues/481)) ([a836ae7](https://github.com/tristantheb/history-content-stats/commit/a836ae792dc21126822307aafb5e5cf57e86959d))
+
+
+### Miscellaneous
+
+* **deps:** bump actions/checkout from 6.0.2 to 6.0.3 ([#398](https://github.com/tristantheb/history-content-stats/issues/398)) ([f534e51](https://github.com/tristantheb/history-content-stats/commit/f534e51f471a9a6fe1f1a1f8648126ae40ab0f0d))
+* **deps:** bump actions/checkout from 6.0.3 to 7.0.0 ([#469](https://github.com/tristantheb/history-content-stats/issues/469)) ([a38a8ef](https://github.com/tristantheb/history-content-stats/commit/a38a8ef1ac6f7e0aca44a98047d1e4bd09e109cc))
+* **deps:** bump actions/setup-python from 6.2.0 to 6.3.0 ([#493](https://github.com/tristantheb/history-content-stats/issues/493)) ([a821768](https://github.com/tristantheb/history-content-stats/commit/a8217686b908aba8eb9c882382a51198e3143f1d))
+* **deps:** bump github/codeql-action from 4.36.0 to 4.36.1 ([#387](https://github.com/tristantheb/history-content-stats/issues/387)) ([d4bb7ff](https://github.com/tristantheb/history-content-stats/commit/d4bb7ff5de3772eacfaeb95ae7ec1328930ac0b9))
+* **deps:** bump github/codeql-action from 4.36.1 to 4.36.2 ([#406](https://github.com/tristantheb/history-content-stats/issues/406)) ([ac670bd](https://github.com/tristantheb/history-content-stats/commit/ac670bd1ef1a5a5f0cc67085484f14d29e31569a))
+
 ## [1.1.1](https://github.com/tristantheb/history-content-stats/compare/v1.1.0...v1.1.1) (2026-05-30)
 
 
