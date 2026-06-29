@@ -5865,7 +5865,7 @@ web/api/mediadeviceinfo/groupid,null
 web/api/mediadeviceinfo/kind,null
 web/api/mediadeviceinfo/label,null
 web/api/mediadeviceinfo/tojson,null
-web/api/mediadevices,null
+web/api/mediadevices,0
 web/api/mediadevices/devicechange_event,null
 web/api/mediadevices/enumeratedevices,null
 web/api/mediadevices/getdisplaymedia,null
