@@ -2237,12 +2237,12 @@ web/accessibility/aria/reference/roles/select_role,0
 web/accessibility/aria/reference/roles/separator_role,0
 web/accessibility/aria/reference/roles/slider_role,null
 web/accessibility/aria/reference/roles/spinbutton_role,0
-web/accessibility/aria/reference/roles/status_role,null
+web/accessibility/aria/reference/roles/status_role,0
 web/accessibility/aria/reference/roles/structural_roles,0
 web/accessibility/aria/reference/roles/structure_role,0
 web/accessibility/aria/reference/roles/suggestion_role,0
 web/accessibility/aria/reference/roles/switch_role,null
-web/accessibility/aria/reference/roles/tab_role,null
+web/accessibility/aria/reference/roles/tab_role,0
 web/accessibility/aria/reference/roles/table_role,null
 web/accessibility/aria/reference/roles/tablist_role,0
 web/accessibility/aria/reference/roles/tabpanel_role,1
@@ -13357,9 +13357,9 @@ web/javascript/reference/global_objects/weakref,5
 web/javascript/reference/global_objects/weakref/deref,2
 web/javascript/reference/global_objects/weakref/weakref,3
 web/javascript/reference/global_objects/weakset,0
-web/javascript/reference/global_objects/weakset/add,null
-web/javascript/reference/global_objects/weakset/delete,null
-web/javascript/reference/global_objects/weakset/has,null
+web/javascript/reference/global_objects/weakset/add,0
+web/javascript/reference/global_objects/weakset/delete,0
+web/javascript/reference/global_objects/weakset/has,0
 web/javascript/reference/global_objects/weakset/weakset,0
 web/javascript/reference/iteration_protocols,12
 web/javascript/reference/javascript_technologies_overview,0
