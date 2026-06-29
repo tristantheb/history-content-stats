@@ -460,7 +460,7 @@ web/api/keyboardevent,no_hash_commit
 web/api/keyboardevent/keyboardevent,no_hash_commit
 web/api/media_capture_and_streams_api,no_hash_commit
 web/api/mediadevices/enumeratedevices,no_hash_commit
-web/api/mediadevices,no_hash_commit
+web/api/mediadevices,b2875dbaa70efb5850084b9802803b439db325f5
 web/api/mediaquerylist,63cbf204323f117a2a80c7aa6273e50253ab9d07
 web/api/mediasource/activesourcebuffers,no_hash_commit
 web/api/mediasource/duration,no_hash_commit
