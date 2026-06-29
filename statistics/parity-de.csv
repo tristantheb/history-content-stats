@@ -6350,7 +6350,7 @@ web/api/navigator/sendbeacon,0
 web/api/navigator/serial,0
 web/api/navigator/serviceworker,0
 web/api/navigator/setappbadge,0
-web/api/navigator/share,0
+web/api/navigator/share,1
 web/api/navigator/storage,0
 web/api/navigator/taintenabled,0
 web/api/navigator/unregisterprotocolhandler,0
@@ -11364,7 +11364,7 @@ web/css/reference/values/angle-percentage,0
 web/css/reference/values/asin,0
 web/css/reference/values/atan,0
 web/css/reference/values/atan2,0
-web/css/reference/values/attr,0
+web/css/reference/values/attr,1
 web/css/reference/values/axis,0
 web/css/reference/values/baseline-position,0
 web/css/reference/values/basic-shape,0
@@ -13471,7 +13471,7 @@ web/javascript/reference/statements/continue,0
 web/javascript/reference/statements/debugger,0
 web/javascript/reference/statements/do...while,0
 web/javascript/reference/statements/empty,0
-web/javascript/reference/statements/export,0
+web/javascript/reference/statements/export,1
 web/javascript/reference/statements/expression_statement,0
 web/javascript/reference/statements/for,0
 web/javascript/reference/statements/for-await...of,0
@@ -13577,7 +13577,7 @@ web/media/guides/formats/image_types,0
 web/media/guides/formats/support_issues,0
 web/media/guides/formats/video_codecs,0
 web/media/guides/formats/video_concepts,0
-web/media/guides/formats/webrtc_codecs,0
+web/media/guides/formats/webrtc_codecs,1
 web/media/guides/images,0
 web/media/guides/streaming,0
 web/performance,0
