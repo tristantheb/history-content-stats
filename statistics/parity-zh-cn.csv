@@ -703,7 +703,7 @@ learn_web_development/core/accessibility/test_your_skills,1
 learn_web_development/core/accessibility/test_your_skills/css_and_javascript,null
 learn_web_development/core/accessibility/test_your_skills/html,null
 learn_web_development/core/accessibility/test_your_skills/wai-aria,null
-learn_web_development/core/accessibility/tooling,13
+learn_web_development/core/accessibility/tooling,0
 learn_web_development/core/accessibility/wai-aria_basics,null
 learn_web_development/core/accessibility/what_is_accessibility,null
 learn_web_development/core/css_layout,null
@@ -2961,7 +2961,7 @@ web/api/console/info_static,null
 web/api/console/log_static,null
 web/api/console/profile_static,null
 web/api/console/profileend_static,null
-web/api/console/table_static,null
+web/api/console/table_static,0
 web/api/console/time_static,7
 web/api/console/timeend_static,null
 web/api/console/timelog_static,null
@@ -5962,8 +5962,8 @@ web/api/mediarecordererrorevent,null
 web/api/mediarecordererrorevent/error,null
 web/api/mediarecordererrorevent/mediarecordererrorevent,null
 web/api/mediasession,null
-web/api/mediasession/metadata,null
-web/api/mediasession/playbackstate,null
+web/api/mediasession/metadata,0
+web/api/mediasession/playbackstate,0
 web/api/mediasession/setactionhandler,null
 web/api/mediasession/setcameraactive,null
 web/api/mediasession/setmicrophoneactive,null
@@ -6350,7 +6350,7 @@ web/api/navigator/sendbeacon,null
 web/api/navigator/serial,3
 web/api/navigator/serviceworker,0
 web/api/navigator/setappbadge,2
-web/api/navigator/share,1
+web/api/navigator/share,2
 web/api/navigator/storage,0
 web/api/navigator/taintenabled,1
 web/api/navigator/unregisterprotocolhandler,null
@@ -11364,7 +11364,7 @@ web/css/reference/values/angle-percentage,6
 web/css/reference/values/asin,null
 web/css/reference/values/atan,null
 web/css/reference/values/atan2,null
-web/css/reference/values/attr,6
+web/css/reference/values/attr,7
 web/css/reference/values/axis,null
 web/css/reference/values/baseline-position,1
 web/css/reference/values/basic-shape,7
@@ -11721,7 +11721,7 @@ web/html/reference/elements/s,3
 web/html/reference/elements/samp,null
 web/html/reference/elements/script,null
 web/html/reference/elements/script/type,null
-web/html/reference/elements/script/type/importmap,9
+web/html/reference/elements/script/type/importmap,0
 web/html/reference/elements/script/type/speculationrules,null
 web/html/reference/elements/search,3
 web/html/reference/elements/section,null
@@ -13471,7 +13471,7 @@ web/javascript/reference/statements/continue,6
 web/javascript/reference/statements/debugger,1
 web/javascript/reference/statements/do...while,4
 web/javascript/reference/statements/empty,4
-web/javascript/reference/statements/export,8
+web/javascript/reference/statements/export,9
 web/javascript/reference/statements/expression_statement,4
 web/javascript/reference/statements/for,7
 web/javascript/reference/statements/for-await...of,12

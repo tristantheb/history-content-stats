@@ -6350,7 +6350,7 @@ web/api/navigator/sendbeacon,12
 web/api/navigator/serial,null
 web/api/navigator/serviceworker,null
 web/api/navigator/setappbadge,null
-web/api/navigator/share,1
+web/api/navigator/share,2
 web/api/navigator/storage,null
 web/api/navigator/taintenabled,null
 web/api/navigator/unregisterprotocolhandler,null
