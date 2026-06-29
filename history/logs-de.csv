@@ -6349,7 +6349,7 @@ web/api/navigator/sendbeacon,e3b1390089160b88a74b2bed5445d9cf7cb7e436
 web/api/navigator/serial,6fe7a18b80e55d9d25dcc16dfb010eec09460bb8
 web/api/navigator/serviceworker,5d29bef0815f8cc4b5b152b9ee1ab53f002ee617
 web/api/navigator/setappbadge,0abb70602b0b3b11a2909c417a03e10eabd607a8
-web/api/navigator/share,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
+web/api/navigator/share,642395ab2226aed8d0393d5bb9ef7f6f46bd9911
 web/api/navigator/storage,ef75c1741b450c2331204be5563ee964ad5f4c48
 web/api/navigator/taintenabled,9cbfa7fc0051724913e92958b712425db77291a8
 web/api/navigator/unregisterprotocolhandler,702cd9e4d2834e13aea345943efc8d0c03d92ec9
@@ -11362,7 +11362,7 @@ web/css/reference/values/angle,06d31d3fa6fbe7ecf0d2c3f3f0b14e1d5fe874c5
 web/css/reference/values/asin,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/atan,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/atan2,b760560abe30bd69ca968dac38528102f423b5ea
-web/css/reference/values/attr,c53bfa01f3bf436d486f4032c16f592855a2af2c
+web/css/reference/values/attr,3e21789c23062f7cfffa6fd7e24bd9dfc2c38551
 web/css/reference/values/axis,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/baseline-position,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/basic-shape/circle,b760560abe30bd69ca968dac38528102f423b5ea
@@ -13470,7 +13470,7 @@ web/javascript/reference/statements/continue,fad67be4431d8e6c2a89ac880735233aa76
 web/javascript/reference/statements/debugger,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/statements/do...while,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/statements/empty,cd22b9f18cf2450c0cc488379b8b780f0f343397
-web/javascript/reference/statements/export,b6a36de3428f4b42c7707c8f190a349db13bf531
+web/javascript/reference/statements/export,a07ac6e396e3cc9632814ff03a0534e823270f48
 web/javascript/reference/statements/expression_statement,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/statements/for-await...of,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/javascript/reference/statements/for...in,b6a36de3428f4b42c7707c8f190a349db13bf531
@@ -13575,7 +13575,7 @@ web/media/guides/formats,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf
 web/media/guides/formats/support_issues,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf
 web/media/guides/formats/video_codecs,c53bfa01f3bf436d486f4032c16f592855a2af2c
 web/media/guides/formats/video_concepts,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf
-web/media/guides/formats/webrtc_codecs,f2dc3d5367203c860cf1a71ce0e972f018523849
+web/media/guides/formats/webrtc_codecs,37e31c37661c11fea2426ef583b7d5dd0be5d349
 web/media/guides/images,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/media/guides,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf
 web/media/guides/streaming,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf
