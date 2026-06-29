@@ -680,7 +680,7 @@ learn_web_development/core/accessibility,33d92d501901ca505f1d33f914531753ca289f2
 learn_web_development/core/accessibility/mobile,no_hash_commit
 learn_web_development/core/accessibility/multimedia,no_hash_commit
 learn_web_development/core/accessibility/test_your_skills,c44c4d14527eddf441079e3623abccd711adfc23
-learn_web_development/core/accessibility/tooling,af1e384356e21dbcc573d1c1cc015ec79c644de1
+learn_web_development/core/accessibility/tooling,483ce811e1ea52cb2d9d2a5af0c4d1c4d591ea4a
 learn_web_development/core/accessibility/wai-aria_basics,no_hash_commit
 learn_web_development/core/accessibility/what_is_accessibility,no_hash_commit
 learn_web_development/core/css_layout/flexbox,2b4a2ad5d9ba084a9eaa2f9204102655e7b575c4
@@ -2081,7 +2081,7 @@ web/api/console/info_static,no_hash_commit
 web/api/console/log_static,no_hash_commit
 web/api/console/profile_static,no_hash_commit
 web/api/console/profileend_static,no_hash_commit
-web/api/console/table_static,no_hash_commit
+web/api/console/table_static,bcc977bc3e79a87edd64cd9ef977b515f63daa2c
 web/api/console/time_static,2c641e08878722bf29fb784d58c61873ce4a133a
 web/api/console/timeend_static,no_hash_commit
 web/api/console/timelog_static,no_hash_commit
@@ -3531,6 +3531,8 @@ web/api/mediarecorder/istypesupported_static,27bceead8e9b1fe9c92df0fa5e418f81bd5
 web/api/mediarecorder/mediarecorder,no_hash_commit
 web/api/mediarecorder/videobitspersecond,2fcb562ec9bf1bf36d195d9bebb8a27515fa49f4
 web/api/mediasession,no_hash_commit
+web/api/mediasession/metadata,84f8672adab0fdb783d02676c42a2b7ae16b3606
+web/api/mediasession/playbackstate,84f8672adab0fdb783d02676c42a2b7ae16b3606
 web/api/mediasession/setactionhandler,no_hash_commit
 web/api/mediasource/activesourcebuffers,no_hash_commit
 web/api/mediasource/addsourcebuffer,no_hash_commit
@@ -6006,7 +6008,7 @@ web/html/reference/elements/ruby,no_hash_commit
 web/html/reference/elements/s,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/elements/samp,no_hash_commit
 web/html/reference/elements/script,no_hash_commit
-web/html/reference/elements/script/type/importmap,85ee57ef02a1cc0d104d3db2c81a4a45cb71011b
+web/html/reference/elements/script/type/importmap,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/search,fdd3ac5598c3ddceb71e59949b003936ae99f647
 web/html/reference/elements/section,no_hash_commit
 web/html/reference/elements/select,no_hash_commit
