@@ -51,7 +51,7 @@ games/tutorials/2d_breakout_game_phaser/physics,null
 games/tutorials/2d_breakout_game_phaser/player_paddle_and_controls,null
 games/tutorials/2d_breakout_game_phaser/randomizing_gameplay,null
 games/tutorials/2d_breakout_game_phaser/scaling,null
-games/tutorials/2d_breakout_game_phaser/the_score,null
+games/tutorials/2d_breakout_game_phaser/the_score,0
 games/tutorials/2d_breakout_game_phaser/win_the_game,0
 games/tutorials/2d_breakout_game_pure_javascript,0
 games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,null
@@ -5965,7 +5965,7 @@ web/api/mediasession,null
 web/api/mediasession/metadata,0
 web/api/mediasession/playbackstate,0
 web/api/mediasession/setactionhandler,null
-web/api/mediasession/setcameraactive,null
+web/api/mediasession/setcameraactive,0
 web/api/mediasession/setmicrophoneactive,null
 web/api/mediasession/setpositionstate,null
 web/api/mediasession/setscreenshareactive,null
