@@ -10344,7 +10344,7 @@ web/css/guides/cascade/specificity,da60cb61c2cbb7fb35807515095d9efb129eacbc,CSS|
 web/css/guides/cascading_variables,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/cascading_variables/using_custom_properties,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/color_adjustment,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/colors,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
+web/css/guides/colors,1055ee79c55c33ef82e2efc27ed248a561365724,CSS|Guides
 web/css/guides/colors/applying_color,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
 web/css/guides/colors/color_format_converter,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/colors/color_mixer,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
@@ -11385,6 +11385,7 @@ web/css/reference/values/calc-sum,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|V
 web/css/reference/values/clamp,3b8d8c8243e43b9fa9e60c3db35782e149ea0b30,CSS|Values
 web/css/reference/values/color-interpolation-method,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/color_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
+web/css/reference/values/color_value/alpha,1055ee79c55c33ef82e2efc27ed248a561365724,CSS|Values
 web/css/reference/values/color_value/color,99251a2a7cc534462d5c0ad6fbcb17905e4df826,CSS|Values
 web/css/reference/values/color_value/color-mix,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/color_value/contrast-color,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Values
