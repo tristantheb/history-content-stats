@@ -11385,6 +11385,7 @@ web/css/reference/values/calc-sum,null
 web/css/reference/values/clamp,null
 web/css/reference/values/color-interpolation-method,null
 web/css/reference/values/color_value,null
+web/css/reference/values/color_value/alpha,null
 web/css/reference/values/color_value/color,null
 web/css/reference/values/color_value/color-mix,null
 web/css/reference/values/color_value/contrast-color,null

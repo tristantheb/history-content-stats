@@ -10344,7 +10344,7 @@ web/css/guides/cascade/specificity,null
 web/css/guides/cascading_variables,null
 web/css/guides/cascading_variables/using_custom_properties,null
 web/css/guides/color_adjustment,1
-web/css/guides/colors,9
+web/css/guides/colors,10
 web/css/guides/colors/applying_color,5
 web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,2
@@ -11385,6 +11385,7 @@ web/css/reference/values/calc-sum,null
 web/css/reference/values/clamp,null
 web/css/reference/values/color-interpolation-method,6
 web/css/reference/values/color_value,5
+web/css/reference/values/color_value/alpha,null
 web/css/reference/values/color_value/color,null
 web/css/reference/values/color_value/color-mix,null
 web/css/reference/values/color_value/contrast-color,null
