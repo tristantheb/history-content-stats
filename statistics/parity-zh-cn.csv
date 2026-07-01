@@ -44,7 +44,7 @@ games/tutorials/2d_breakout_game_phaser/buttons,null
 games/tutorials/2d_breakout_game_phaser/collision_detection,null
 games/tutorials/2d_breakout_game_phaser/extra_lives,null
 games/tutorials/2d_breakout_game_phaser/game_over,0
-games/tutorials/2d_breakout_game_phaser/initialize_the_framework,null
+games/tutorials/2d_breakout_game_phaser/initialize_the_framework,0
 games/tutorials/2d_breakout_game_phaser/load_the_assets_and_print_them_on_screen,null
 games/tutorials/2d_breakout_game_phaser/move_the_ball,0
 games/tutorials/2d_breakout_game_phaser/physics,null
@@ -11795,7 +11795,7 @@ web/http,null
 web/http/guides,1
 web/http/guides/authentication,null
 web/http/guides/browser_detection_using_the_user_agent,null
-web/http/guides/caching,null
+web/http/guides/caching,0
 web/http/guides/client_hints,null
 web/http/guides/compression,3
 web/http/guides/compression_dictionary_transport,null
