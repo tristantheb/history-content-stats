@@ -9423,7 +9423,7 @@ web/api/webgl_api/tutorial/using_textures_in_webgl,1
 web/api/webgl_api/types,2
 web/api/webgl_api/using_extensions,null
 web/api/webgl_api/webgl_best_practices,null
-web/api/webgl_api/webgl_model_view_projection,5
+web/api/webgl_api/webgl_model_view_projection,0
 web/api/webgl_color_buffer_float,4
 web/api/webgl_compressed_texture_astc,null
 web/api/webgl_compressed_texture_astc/getsupportedprofiles,null
@@ -11929,7 +11929,7 @@ web/http/reference/headers/etag,0
 web/http/reference/headers/expect,null
 web/http/reference/headers/expect-ct,null
 web/http/reference/headers/expires,null
-web/http/reference/headers/forwarded,5
+web/http/reference/headers/forwarded,0
 web/http/reference/headers/from,null
 web/http/reference/headers/host,0
 web/http/reference/headers/idempotency-key,0
@@ -12065,10 +12065,10 @@ web/http/reference/headers/sourcemap,null
 web/http/reference/headers/speculation-rules,null
 web/http/reference/headers/strict-transport-security,3
 web/http/reference/headers/supports-loading-mode,null
-web/http/reference/headers/te,3
+web/http/reference/headers/te,0
 web/http/reference/headers/timing-allow-origin,null
 web/http/reference/headers/tk,null
-web/http/reference/headers/trailer,4
+web/http/reference/headers/trailer,0
 web/http/reference/headers/transfer-encoding,0
 web/http/reference/headers/upgrade,null
 web/http/reference/headers/upgrade-insecure-requests,null
