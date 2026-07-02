@@ -10345,7 +10345,7 @@ web/css/guides/colors/applying_color,a516a9818e8cef06c626d436ee1d73fc6d87ec51
 web/css/guides/colors/color_format_converter,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/colors/color_mixer,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/colors/color_values,33094d735e90b4dcae5733331b79c51fee997410
-web/css/guides/colors,33094d735e90b4dcae5733331b79c51fee997410
+web/css/guides/colors,1055ee79c55c33ef82e2efc27ed248a561365724
 web/css/guides/colors/using_color_wisely,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d
 web/css/guides/colors/using_relative_colors,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/compositing_and_blending,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
@@ -11382,6 +11382,7 @@ web/css/reference/values/calc-sum,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/calc,ddf85bfec1b6e43cdacb404de0c38a801c561640
 web/css/reference/values/clamp,3b8d8c8243e43b9fa9e60c3db35782e149ea0b30
 web/css/reference/values/color-interpolation-method,c88e03530319b73272fd4f9a9f6ebe878f026004
+web/css/reference/values/color_value/alpha,1055ee79c55c33ef82e2efc27ed248a561365724
 web/css/reference/values/color_value/color-mix,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/color_value/color,99251a2a7cc534462d5c0ad6fbcb17905e4df826
 web/css/reference/values/color_value/contrast-color,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf
