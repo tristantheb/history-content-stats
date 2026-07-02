@@ -11385,7 +11385,7 @@ web/css/reference/values/calc-sum,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|V
 web/css/reference/values/clamp,3b8d8c8243e43b9fa9e60c3db35782e149ea0b30,CSS|Values
 web/css/reference/values/color-interpolation-method,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/color_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/color_value/alpha,1055ee79c55c33ef82e2efc27ed248a561365724,CSS|Values
+web/css/reference/values/color_value/alpha,fb0c5c4bd92cfdc043afcfca944c658cbf592b34,CSS|Values
 web/css/reference/values/color_value/color,99251a2a7cc534462d5c0ad6fbcb17905e4df826,CSS|Values
 web/css/reference/values/color_value/color-mix,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/color_value/contrast-color,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Values
@@ -11626,7 +11626,7 @@ web/html/reference/elements/dd,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Ele
 web/html/reference/elements/del,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/details,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/dfn,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/dialog,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/dialog,4280928da7b326df9e358204a23df21b4668a29b,HTML|Elements
 web/html/reference/elements/dir,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/div,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/dl,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
