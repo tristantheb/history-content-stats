@@ -11385,7 +11385,7 @@ web/css/reference/values/calc-sum,0
 web/css/reference/values/clamp,0
 web/css/reference/values/color-interpolation-method,0
 web/css/reference/values/color_value,0
-web/css/reference/values/color_value/alpha,0
+web/css/reference/values/color_value/alpha,1
 web/css/reference/values/color_value/color,0
 web/css/reference/values/color_value/color-mix,0
 web/css/reference/values/color_value/contrast-color,0
@@ -11626,7 +11626,7 @@ web/html/reference/elements/dd,0
 web/html/reference/elements/del,0
 web/html/reference/elements/details,0
 web/html/reference/elements/dfn,0
-web/html/reference/elements/dialog,0
+web/html/reference/elements/dialog,1
 web/html/reference/elements/dir,0
 web/html/reference/elements/div,0
 web/html/reference/elements/dl,0
