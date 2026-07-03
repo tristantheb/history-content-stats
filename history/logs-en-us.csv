@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,69aa9c51ebd26b390f444f5ea88f882630042451,Mozilla|Firefox
+mozilla/firefox/experimental_features,97a6738de30dbb1072346dca78f24dca67da9eca,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1970,7 +1970,7 @@ mozilla/firefox/releases/149,4c414e3e776ea5a6bd7b2fc9479d87b5b8e91a1d,Mozilla|Fi
 mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
-mozilla/firefox/releases/152,3305c80f225be0e373313d96841f6bf9a52e314b,Mozilla|Firefox|Versions
+mozilla/firefox/releases/152,97a6738de30dbb1072346dca78f24dca67da9eca,Mozilla|Firefox|Versions
 mozilla/firefox/releases/153,04b3c97a358fe352ef1b1c1c6bff0bf215ad3354,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -3556,7 +3556,7 @@ web/api/document/hasredemptionrecord,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678,We
 web/api/document/hasstorageaccess,775df1c62a1cbe555c4374ff9122d4ef15bd6f60,Web APIs
 web/api/document/hasunpartitionedcookieaccess,775df1c62a1cbe555c4374ff9122d4ef15bd6f60,Web APIs
 web/api/document/head,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
-web/api/document/hidden,9b89bf6c59aa5f4dfe7e68b7e4fee42507d67cc4,Web APIs
+web/api/document/hidden,54c533a1750f2804d5bec13e1afeed1113fde5d9,Web APIs
 web/api/document/images,0af9a589170f1535622062de89bbf73507580b8f,Web APIs
 web/api/document/implementation,be8f7f155a48e11b30c240f8731afb1845f85378,Web APIs
 web/api/document/importnode,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
@@ -4906,7 +4906,7 @@ web/api/htmlelement/enterkeyhint,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web AP
 web/api/htmlelement/error_event,aff319cd81d10cfda31b13adb3263deafb284b20,Web APIs
 web/api/htmlelement/focus,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/htmlelement/hidden,6ef7bc04d63cf8b512bdbea149a6cb875cc063e3,Web APIs
-web/api/htmlelement/hidepopover,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
+web/api/htmlelement/hidepopover,58290795d9f78c91933e092053bb6439bde56651,Web APIs
 web/api/htmlelement/inert,3ff38e7687b65e43fe821a904ff52778312b8d36,Web APIs
 web/api/htmlelement/innertext,5c513c8e3075989886ae5f3b00d92f2b2988085a,Web APIs
 web/api/htmlelement/inputmode,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -4923,13 +4923,13 @@ web/api/htmlelement/offsettop,0916e1754652f3a7c663ef031faa26c98f492023,Web APIs
 web/api/htmlelement/offsetwidth,0916e1754652f3a7c663ef031faa26c98f492023,Web APIs
 web/api/htmlelement/outertext,e9e2ec643ac69c132f31427a0b586ab2cf83ed58,Web APIs
 web/api/htmlelement/popover,9af64ef430ad722b9cc3f75ccabeb8989c23b988,Web APIs
-web/api/htmlelement/showpopover,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
+web/api/htmlelement/showpopover,58290795d9f78c91933e092053bb6439bde56651,Web APIs
 web/api/htmlelement/spellcheck,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlelement/style,6ec00da93f656e1386f27507291bc6431540d97a,Web APIs
 web/api/htmlelement/tabindex,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlelement/title,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlelement/toggle_event,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69,Web APIs
-web/api/htmlelement/togglepopover,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
+web/api/htmlelement/togglepopover,58290795d9f78c91933e092053bb6439bde56651,Web APIs
 web/api/htmlelement/translate,874ad29df9150037acb8a4a3e7550a302c90a080,Web APIs
 web/api/htmlelement/virtualkeyboardpolicy,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlelement/writingsuggestions,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -6890,7 +6890,7 @@ web/api/pointerevent/tilty,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/pointerevent/twist,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
 web/api/pointerevent/width,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
 web/api/popover_api,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
-web/api/popover_api/using,7ea78dce9d6321ccde40f32ca946c254b7e424f0,Web APIs
+web/api/popover_api/using,58290795d9f78c91933e092053bb6439bde56651,Web APIs
 web/api/popover_api/using_interest_invokers,995f8bcede5aa8ca40921b030deef7524ce9e1a3,Web APIs
 web/api/popstateevent,082221e2a29b7bea7a3029cd71442c8f294a8422,Web APIs
 web/api/popstateevent/hasuavisualtransition,0496643fbc14a6bad2bf46c94ab27c541f6928ff,Web APIs
@@ -11783,7 +11783,7 @@ web/html/reference/global_attributes/itemtype,9c70c6ff09189cad43d40e241fbd2fe673
 web/html/reference/global_attributes/lang,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/nonce,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/part,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
-web/html/reference/global_attributes/popover,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
+web/html/reference/global_attributes/popover,58290795d9f78c91933e092053bb6439bde56651,HTML|Global Attributes
 web/html/reference/global_attributes/slot,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/spellcheck,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/style,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
@@ -11796,7 +11796,7 @@ web/http,d1f3f179175c80c18b1b78ba0df0ea7d15ca32cc,HTTP
 web/http/guides,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/authentication,3a50bf634f24f832d97e3e2add4a4633ab255217,HTTP|Guides
 web/http/guides/browser_detection_using_the_user_agent,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a,HTTP|Guides
-web/http/guides/caching,c53bfa01f3bf436d486f4032c16f592855a2af2c,HTTP|Guides
+web/http/guides/caching,eff8aa047157f1bd4b1066cae7cc07eab2dcc0dd,HTTP|Guides
 web/http/guides/client_hints,53d1a4810a69dc436badd5b73c1a66c8764c835b,HTTP|Guides
 web/http/guides/compression,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/compression_dictionary_transport,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Guides
@@ -11869,7 +11869,7 @@ web/http/reference/headers/attribution-reporting-register-source,0c906f7f464d8ff
 web/http/reference/headers/attribution-reporting-register-trigger,0c906f7f464d8ff632baf8d25fa63eed3f03b632,HTTP|Headers
 web/http/reference/headers/authorization,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,HTTP|Headers
 web/http/reference/headers/available-dictionary,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
-web/http/reference/headers/cache-control,c53bfa01f3bf436d486f4032c16f592855a2af2c,HTTP|Headers
+web/http/reference/headers/cache-control,eff8aa047157f1bd4b1066cae7cc07eab2dcc0dd,HTTP|Headers
 web/http/reference/headers/clear-site-data,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/connection,0e40ec22841891d42376ad8a6d29135953c5106c,HTTP|Headers
 web/http/reference/headers/content-digest,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
@@ -13691,7 +13691,7 @@ web/security/authentication/passkeys,3d49f18251e1f3493ef2e3a70519603345f8b7dc,Se
 web/security/authentication/passwords,545c1267ae9642d850ef539956442c2bb4de280a,Security|Authentication
 web/security/authentication/session_management,7e1cf6ab1fbd41b0430021a2044d658de5d857a3,Security|Authentication
 web/security/defenses,f14623f12f092d92558ecb1d766069c1567fd347,Security|Defenses
-web/security/defenses/certificate_transparency,4e989d1d75c8fd0abc43c420002618dbdda8bfbe,Security|Defenses
+web/security/defenses/certificate_transparency,eb6cbe6a7b86bc59aa71c8ce0b3d3b29dd789f25,Security|Defenses
 web/security/defenses/input_validation,f14623f12f092d92558ecb1d766069c1567fd347,Security|Defenses
 web/security/defenses/local_network_access,daeab84f326911c95114ee686c3c3ab566b71afe,Security|Defenses
 web/security/defenses/mixed_content,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Security|Defenses
