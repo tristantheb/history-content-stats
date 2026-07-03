@@ -3470,7 +3470,7 @@ web/api/deviceposture/type,null
 web/api/directoryentrysync,null
 web/api/directoryreadersync,null
 web/api/document,6
-web/api/document/activeelement,5
+web/api/document/activeelement,6
 web/api/document/activeviewtransition,null
 web/api/document/adoptedstylesheets,5
 web/api/document/adoptnode,1
@@ -4695,7 +4695,7 @@ web/api/hiddevice/productid,1
 web/api/hiddevice/productname,1
 web/api/hiddevice/receivefeaturereport,0
 web/api/hiddevice/sendfeaturereport,0
-web/api/hiddevice/sendreport,0
+web/api/hiddevice/sendreport,1
 web/api/hiddevice/vendorid,1
 web/api/hidinputreportevent,0
 web/api/hidinputreportevent/data,0
@@ -7277,7 +7277,7 @@ web/api/rtcerrorevent/error,null
 web/api/rtcerrorevent/rtcerrorevent,null
 web/api/rtcicecandidate,4
 web/api/rtcicecandidate/address,2
-web/api/rtcicecandidate/candidate,1
+web/api/rtcicecandidate/candidate,2
 web/api/rtcicecandidate/component,null
 web/api/rtcicecandidate/foundation,2
 web/api/rtcicecandidate/port,1
@@ -10796,6 +10796,7 @@ web/css/reference/properties/column-height,null
 web/css/reference/properties/column-rule,null
 web/css/reference/properties/column-rule-color,null
 web/css/reference/properties/column-rule-style,2
+web/css/reference/properties/column-rule-visibility-items,null
 web/css/reference/properties/column-rule-width,2
 web/css/reference/properties/column-span,null
 web/css/reference/properties/column-width,5
@@ -11053,9 +11054,11 @@ web/css/reference/properties/resize,null
 web/css/reference/properties/right,null
 web/css/reference/properties/rotate,null
 web/css/reference/properties/row-gap,4
+web/css/reference/properties/row-rule-visibility-items,null
 web/css/reference/properties/ruby-align,null
 web/css/reference/properties/ruby-overhang,null
 web/css/reference/properties/ruby-position,null
+web/css/reference/properties/rule-visibility-items,null
 web/css/reference/properties/rx,null
 web/css/reference/properties/ry,null
 web/css/reference/properties/scale,null
@@ -11569,7 +11572,7 @@ web/html/reference/attributes/disabled,null
 web/html/reference/attributes/elementtiming,4
 web/html/reference/attributes/fetchpriority,2
 web/html/reference/attributes/for,4
-web/html/reference/attributes/form,1
+web/html/reference/attributes/form,2
 web/html/reference/attributes/integrity,null
 web/html/reference/attributes/max,6
 web/html/reference/attributes/maxlength,5
@@ -11785,7 +11788,7 @@ web/html/reference/global_attributes/nonce,6
 web/html/reference/global_attributes/part,null
 web/html/reference/global_attributes/popover,12
 web/html/reference/global_attributes/slot,null
-web/html/reference/global_attributes/spellcheck,4
+web/html/reference/global_attributes/spellcheck,5
 web/html/reference/global_attributes/style,4
 web/html/reference/global_attributes/tabindex,null
 web/html/reference/global_attributes/title,null
@@ -13474,7 +13477,7 @@ web/javascript/reference/statements/do...while,4
 web/javascript/reference/statements/empty,4
 web/javascript/reference/statements/export,9
 web/javascript/reference/statements/expression_statement,4
-web/javascript/reference/statements/for,7
+web/javascript/reference/statements/for,8
 web/javascript/reference/statements/for-await...of,12
 web/javascript/reference/statements/for...in,9
 web/javascript/reference/statements/for...of,14

@@ -917,7 +917,7 @@ learn_web_development/extensions/forms/other_form_controls,7
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,7
 learn_web_development/extensions/forms/sending_forms_through_javascript,3
 learn_web_development/extensions/forms/styling_web_forms,16
-learn_web_development/extensions/forms/ui_pseudo-classes,0
+learn_web_development/extensions/forms/ui_pseudo-classes,1
 learn_web_development/extensions/forms/user_input_methods,8
 learn_web_development/extensions/forms/your_first_form,9
 learn_web_development/extensions/performance,0
@@ -1109,20 +1109,20 @@ mdn/writing_guidelines/page_structures/page_types,0
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,0
-mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,0
-mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,0
+mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,1
+mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,0
 mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,13
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,2
 mdn/writing_guidelines/page_structures/page_types/css_property_page_template,14
-mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,0
+mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,1
 mdn/writing_guidelines/page_structures/page_types/glossary_page_template,3
-mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,0
+mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,1
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,0
-mdn/writing_guidelines/page_structures/page_types/http_header_page_template,15
+mdn/writing_guidelines/page_structures/page_types/http_header_page_template,16
 mdn/writing_guidelines/page_structures/page_types/page_type_key,3
-mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,14
+mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,15
 mdn/writing_guidelines/page_structures/polyfills,null
 mdn/writing_guidelines/page_structures/sidebars,0
 mdn/writing_guidelines/page_structures/specification_tables,1
@@ -3037,7 +3037,7 @@ web/api/credential_management_api,1
 web/api/credential_management_api/credential_types,0
 web/api/credentialscontainer,0
 web/api/credentialscontainer/create,3
-web/api/credentialscontainer/get,4
+web/api/credentialscontainer/get,5
 web/api/credentialscontainer/preventsilentaccess,0
 web/api/credentialscontainer/store,0
 web/api/croptarget,null
@@ -3131,7 +3131,7 @@ web/api/cssfontfeaturevaluesrule/stylistic,null
 web/api/cssfontfeaturevaluesrule/swash,null
 web/api/cssfontpalettevaluesrule,5
 web/api/cssfontpalettevaluesrule/basepalette,3
-web/api/cssfontpalettevaluesrule/fontfamily,2
+web/api/cssfontpalettevaluesrule/fontfamily,3
 web/api/cssfontpalettevaluesrule/name,2
 web/api/cssfontpalettevaluesrule/overridecolors,4
 web/api/cssfunctiondeclarations,0
@@ -3288,7 +3288,7 @@ web/api/cssskewy,null
 web/api/cssskewy/ay,null
 web/api/cssskewy/cssskewy,null
 web/api/cssstartingstylerule,0
-web/api/cssstyledeclaration,7
+web/api/cssstyledeclaration,8
 web/api/cssstyledeclaration/cssfloat,4
 web/api/cssstyledeclaration/csstext,2
 web/api/cssstyledeclaration/getpropertycssvalue,3
@@ -3470,7 +3470,7 @@ web/api/deviceposture/type,0
 web/api/directoryentrysync,5
 web/api/directoryreadersync,null
 web/api/document,16
-web/api/document/activeelement,5
+web/api/document/activeelement,6
 web/api/document/activeviewtransition,1
 web/api/document/adoptedstylesheets,5
 web/api/document/adoptnode,1
@@ -4695,7 +4695,7 @@ web/api/hiddevice/productid,5
 web/api/hiddevice/productname,5
 web/api/hiddevice/receivefeaturereport,3
 web/api/hiddevice/sendfeaturereport,6
-web/api/hiddevice/sendreport,7
+web/api/hiddevice/sendreport,8
 web/api/hiddevice/vendorid,5
 web/api/hidinputreportevent,5
 web/api/hidinputreportevent/data,3
@@ -6600,7 +6600,7 @@ web/api/path2d/path2d,3
 web/api/payment_request_api,8
 web/api/payment_request_api/concepts,7
 web/api/payment_request_api/using_secure_payment_confirmation,null
-web/api/payment_request_api/using_the_payment_request_api,10
+web/api/payment_request_api/using_the_payment_request_api,11
 web/api/paymentaddress,0
 web/api/paymentaddress/addressline,null
 web/api/paymentaddress/city,null
@@ -6969,7 +6969,7 @@ web/api/promiserejectionevent,5
 web/api/promiserejectionevent/promise,5
 web/api/promiserejectionevent/promiserejectionevent,5
 web/api/promiserejectionevent/reason,4
-web/api/publickeycredential,16
+web/api/publickeycredential,17
 web/api/publickeycredential/authenticatorattachment,null
 web/api/publickeycredential/getclientcapabilities_static,null
 web/api/publickeycredential/getclientextensionresults,null
@@ -7114,7 +7114,7 @@ web/api/request/cache,2
 web/api/request/clone,2
 web/api/request/credentials,2
 web/api/request/destination,9
-web/api/request/duplex,0
+web/api/request/duplex,1
 web/api/request/formdata,1
 web/api/request/headers,1
 web/api/request/integrity,2
@@ -8857,7 +8857,7 @@ web/api/touchlist/length,2
 web/api/trackevent,4
 web/api/trackevent/track,2
 web/api/trackevent/trackevent,2
-web/api/transformstream,4
+web/api/transformstream,5
 web/api/transformstream/readable,2
 web/api/transformstream/transformstream,4
 web/api/transformstream/writable,2
@@ -10477,7 +10477,7 @@ web/css/guides/scroll_anchoring/overview,0
 web/css/guides/scroll_snap,0
 web/css/guides/scroll_snap/basic_concepts,1
 web/css/guides/scroll_snap/using_scroll_snap_events,0
-web/css/guides/scrollbars_styling,0
+web/css/guides/scrollbars_styling,1
 web/css/guides/selectors,1
 web/css/guides/selectors/privacy_and__colon_visited,0
 web/css/guides/selectors/selector_structure,0
@@ -10796,6 +10796,7 @@ web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,1
 web/css/reference/properties/column-rule-color,0
 web/css/reference/properties/column-rule-style,0
+web/css/reference/properties/column-rule-visibility-items,null
 web/css/reference/properties/column-rule-width,0
 web/css/reference/properties/column-span,0
 web/css/reference/properties/column-width,0
@@ -11053,9 +11054,11 @@ web/css/reference/properties/resize,1
 web/css/reference/properties/right,1
 web/css/reference/properties/rotate,1
 web/css/reference/properties/row-gap,2
+web/css/reference/properties/row-rule-visibility-items,null
 web/css/reference/properties/ruby-align,0
 web/css/reference/properties/ruby-overhang,0
 web/css/reference/properties/ruby-position,0
+web/css/reference/properties/rule-visibility-items,null
 web/css/reference/properties/rx,null
 web/css/reference/properties/ry,null
 web/css/reference/properties/scale,1
@@ -11261,8 +11264,8 @@ web/css/reference/selectors/_colon_picture-in-picture,0
 web/css/reference/selectors/_colon_placeholder-shown,0
 web/css/reference/selectors/_colon_playing,0
 web/css/reference/selectors/_colon_popover-open,0
-web/css/reference/selectors/_colon_read-only,0
-web/css/reference/selectors/_colon_read-write,0
+web/css/reference/selectors/_colon_read-only,1
+web/css/reference/selectors/_colon_read-write,1
 web/css/reference/selectors/_colon_required,0
 web/css/reference/selectors/_colon_right,1
 web/css/reference/selectors/_colon_root,0
@@ -11436,7 +11439,7 @@ web/css/reference/values/filter-function/opacity,0
 web/css/reference/values/filter-function/saturate,0
 web/css/reference/values/filter-function/sepia,0
 web/css/reference/values/fit-content,6
-web/css/reference/values/fit-content_function,0
+web/css/reference/values/fit-content_function,1
 web/css/reference/values/flex_value,1
 web/css/reference/values/frequency,1
 web/css/reference/values/frequency-percentage,0
@@ -11569,7 +11572,7 @@ web/html/reference/attributes/disabled,2
 web/html/reference/attributes/elementtiming,3
 web/html/reference/attributes/fetchpriority,2
 web/html/reference/attributes/for,3
-web/html/reference/attributes/form,1
+web/html/reference/attributes/form,2
 web/html/reference/attributes/integrity,1
 web/html/reference/attributes/max,4
 web/html/reference/attributes/maxlength,4
@@ -11785,7 +11788,7 @@ web/html/reference/global_attributes/nonce,2
 web/html/reference/global_attributes/part,2
 web/html/reference/global_attributes/popover,1
 web/html/reference/global_attributes/slot,2
-web/html/reference/global_attributes/spellcheck,1
+web/html/reference/global_attributes/spellcheck,2
 web/html/reference/global_attributes/style,1
 web/html/reference/global_attributes/tabindex,3
 web/html/reference/global_attributes/title,3
@@ -11885,7 +11888,7 @@ web/http/reference/headers/content-security-policy-report-only,1
 web/http/reference/headers/content-security-policy/base-uri,3
 web/http/reference/headers/content-security-policy/block-all-mixed-content,4
 web/http/reference/headers/content-security-policy/child-src,4
-web/http/reference/headers/content-security-policy/connect-src,0
+web/http/reference/headers/content-security-policy/connect-src,1
 web/http/reference/headers/content-security-policy/default-src,4
 web/http/reference/headers/content-security-policy/fenced-frame-src,3
 web/http/reference/headers/content-security-policy/font-src,3
@@ -13474,7 +13477,7 @@ web/javascript/reference/statements/do...while,0
 web/javascript/reference/statements/empty,5
 web/javascript/reference/statements/export,1
 web/javascript/reference/statements/expression_statement,4
-web/javascript/reference/statements/for,0
+web/javascript/reference/statements/for,1
 web/javascript/reference/statements/for-await...of,0
 web/javascript/reference/statements/for...in,0
 web/javascript/reference/statements/for...of,1
