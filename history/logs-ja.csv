@@ -39,7 +39,7 @@ games/tutorials,86e302046641b6c4885d21bc0dc0ddd2f57db2e5
 glossary/abstraction,no_hash_commit
 glossary/accent,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/accessibility,ada5fa5ef15eadd44b549ecf906423b4a2092f34
-glossary/accessibility_tree,no_hash_commit
+glossary/accessibility_tree,7d4f930455a349e3c73836500add3d4840c76f5d
 glossary/accessible_description,6d37e664f5981436dfbba7a67f008a30c5238e00
 glossary/accessible_name,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 glossary/adobe_flash,0c163056cfe83fba519b757f15d2e20f83eddaff
@@ -8313,7 +8313,7 @@ web/http/reference/headers/permissions-policy/xr-spatial-tracking,4d929bb0a021c7
 web/http/reference/headers/pragma,no_hash_commit
 web/http/reference/headers/proxy-authenticate,no_hash_commit
 web/http/reference/headers/proxy-authorization,no_hash_commit
-web/http/reference/headers/range,no_hash_commit
+web/http/reference/headers/range,ca1647a3e2b77cdf9df220244998f25b86629048
 web/http/reference/headers/referer,dd868507df863ab4f37d53c960c76e20e9ee365f
 web/http/reference/headers/referrer-policy,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/retry-after,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
