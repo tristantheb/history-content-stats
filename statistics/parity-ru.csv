@@ -3556,7 +3556,7 @@ web/api/document/hasredemptionrecord,null
 web/api/document/hasstorageaccess,null
 web/api/document/hasunpartitionedcookieaccess,null
 web/api/document/head,null
-web/api/document/hidden,0
+web/api/document/hidden,1
 web/api/document/images,0
 web/api/document/implementation,null
 web/api/document/importnode,null

@@ -13691,7 +13691,7 @@ web/security/authentication/passkeys,null
 web/security/authentication/passwords,3
 web/security/authentication/session_management,null
 web/security/defenses,null
-web/security/defenses/certificate_transparency,2
+web/security/defenses/certificate_transparency,3
 web/security/defenses/input_validation,null
 web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,2
