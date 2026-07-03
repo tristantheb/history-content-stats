@@ -3556,7 +3556,7 @@ web/api/document/hasredemptionrecord,null
 web/api/document/hasstorageaccess,1
 web/api/document/hasunpartitionedcookieaccess,null
 web/api/document/head,2
-web/api/document/hidden,0
+web/api/document/hidden,1
 web/api/document/images,null
 web/api/document/implementation,null
 web/api/document/importnode,null
@@ -9619,7 +9619,7 @@ web/api/websocket/bufferedamount,0
 web/api/websocket/close,null
 web/api/websocket/close_event,null
 web/api/websocket/error_event,null
-web/api/websocket/extensions,null
+web/api/websocket/extensions,0
 web/api/websocket/message_event,null
 web/api/websocket/open_event,null
 web/api/websocket/protocol,null
@@ -11783,7 +11783,7 @@ web/html/reference/global_attributes/itemtype,null
 web/html/reference/global_attributes/lang,null
 web/html/reference/global_attributes/nonce,6
 web/html/reference/global_attributes/part,null
-web/html/reference/global_attributes/popover,11
+web/html/reference/global_attributes/popover,12
 web/html/reference/global_attributes/slot,null
 web/html/reference/global_attributes/spellcheck,4
 web/html/reference/global_attributes/style,4
@@ -11796,7 +11796,7 @@ web/http,null
 web/http/guides,1
 web/http/guides/authentication,null
 web/http/guides/browser_detection_using_the_user_agent,null
-web/http/guides/caching,0
+web/http/guides/caching,1
 web/http/guides/client_hints,null
 web/http/guides/compression,3
 web/http/guides/compression_dictionary_transport,null

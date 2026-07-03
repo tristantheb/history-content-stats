@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,18
+mozilla/firefox/experimental_features,19
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -1970,7 +1970,7 @@ mozilla/firefox/releases/149,1
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,2
 mozilla/firefox/releases/151,0
-mozilla/firefox/releases/152,0
+mozilla/firefox/releases/152,1
 mozilla/firefox/releases/153,null
 mozilla/firefox/releases/154,null
 mozilla/firefox/releases/16,0
@@ -3556,7 +3556,7 @@ web/api/document/hasredemptionrecord,null
 web/api/document/hasstorageaccess,2
 web/api/document/hasunpartitionedcookieaccess,3
 web/api/document/head,2
-web/api/document/hidden,0
+web/api/document/hidden,1
 web/api/document/images,0
 web/api/document/implementation,1
 web/api/document/importnode,5
@@ -4906,7 +4906,7 @@ web/api/htmlelement/enterkeyhint,1
 web/api/htmlelement/error_event,4
 web/api/htmlelement/focus,4
 web/api/htmlelement/hidden,6
-web/api/htmlelement/hidepopover,2
+web/api/htmlelement/hidepopover,3
 web/api/htmlelement/inert,4
 web/api/htmlelement/innertext,2
 web/api/htmlelement/inputmode,3
@@ -4923,13 +4923,13 @@ web/api/htmlelement/offsettop,1
 web/api/htmlelement/offsetwidth,1
 web/api/htmlelement/outertext,0
 web/api/htmlelement/popover,7
-web/api/htmlelement/showpopover,6
+web/api/htmlelement/showpopover,7
 web/api/htmlelement/spellcheck,2
 web/api/htmlelement/style,17
 web/api/htmlelement/tabindex,2
 web/api/htmlelement/title,1
 web/api/htmlelement/toggle_event,6
-web/api/htmlelement/togglepopover,6
+web/api/htmlelement/togglepopover,7
 web/api/htmlelement/translate,3
 web/api/htmlelement/virtualkeyboardpolicy,2
 web/api/htmlelement/writingsuggestions,0
@@ -6890,7 +6890,7 @@ web/api/pointerevent/tilty,4
 web/api/pointerevent/twist,1
 web/api/pointerevent/width,1
 web/api/popover_api,13
-web/api/popover_api/using,1
+web/api/popover_api/using,2
 web/api/popover_api/using_interest_invokers,0
 web/api/popstateevent,2
 web/api/popstateevent/hasuavisualtransition,null
@@ -11783,7 +11783,7 @@ web/html/reference/global_attributes/itemtype,1
 web/html/reference/global_attributes/lang,2
 web/html/reference/global_attributes/nonce,2
 web/html/reference/global_attributes/part,2
-web/html/reference/global_attributes/popover,0
+web/html/reference/global_attributes/popover,1
 web/html/reference/global_attributes/slot,2
 web/html/reference/global_attributes/spellcheck,1
 web/html/reference/global_attributes/style,1
@@ -11796,7 +11796,7 @@ web/http,0
 web/http/guides,0
 web/http/guides/authentication,0
 web/http/guides/browser_detection_using_the_user_agent,5
-web/http/guides/caching,2
+web/http/guides/caching,3
 web/http/guides/client_hints,4
 web/http/guides/compression,0
 web/http/guides/compression_dictionary_transport,4
@@ -11869,7 +11869,7 @@ web/http/reference/headers/attribution-reporting-register-source,null
 web/http/reference/headers/attribution-reporting-register-trigger,null
 web/http/reference/headers/authorization,1
 web/http/reference/headers/available-dictionary,null
-web/http/reference/headers/cache-control,2
+web/http/reference/headers/cache-control,3
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
 web/http/reference/headers/content-digest,null
@@ -13691,7 +13691,7 @@ web/security/authentication/passkeys,0
 web/security/authentication/passwords,0
 web/security/authentication/session_management,0
 web/security/defenses,3
-web/security/defenses/certificate_transparency,0
+web/security/defenses/certificate_transparency,1
 web/security/defenses/input_validation,null
 web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,0

@@ -4706,7 +4706,7 @@ web/api/websocket/bufferedamount,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websocket/close,no_hash_commit
 web/api/websocket/close_event,no_hash_commit
 web/api/websocket/error_event,no_hash_commit
-web/api/websocket/extensions,no_hash_commit
+web/api/websocket/extensions,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websocket,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websocket/message_event,no_hash_commit
 web/api/websocket/open_event,no_hash_commit
