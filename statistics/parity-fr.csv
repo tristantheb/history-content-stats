@@ -2353,7 +2353,7 @@ web/api/animationeffect,null
 web/api/animationeffect/getcomputedtiming,null
 web/api/animationeffect/gettiming,null
 web/api/animationeffect/updatetiming,null
-web/api/animationevent,11
+web/api/animationevent,12
 web/api/animationevent/animation,null
 web/api/animationevent/animationevent,9
 web/api/animationevent/animationname,null
@@ -5433,7 +5433,7 @@ web/api/htmltablesectionelement/deleterow,0
 web/api/htmltablesectionelement/insertrow,0
 web/api/htmltablesectionelement/rows,0
 web/api/htmltablesectionelement/valign,0
-web/api/htmltemplateelement,2
+web/api/htmltemplateelement,3
 web/api/htmltemplateelement/content,0
 web/api/htmltemplateelement/shadowrootclonable,0
 web/api/htmltemplateelement/shadowrootcustomelementregistry,null
@@ -7104,7 +7104,7 @@ web/api/reportingobserver/disconnect,null
 web/api/reportingobserver/observe,null
 web/api/reportingobserver/reportingobserver,null
 web/api/reportingobserver/takerecords,null
-web/api/request,2
+web/api/request,3
 web/api/request/arraybuffer,0
 web/api/request/blob,0
 web/api/request/body,0
@@ -8866,7 +8866,7 @@ web/api/transformstreamdefaultcontroller/desiredsize,null
 web/api/transformstreamdefaultcontroller/enqueue,null
 web/api/transformstreamdefaultcontroller/error,null
 web/api/transformstreamdefaultcontroller/terminate,null
-web/api/transitionevent,6
+web/api/transitionevent,7
 web/api/transitionevent/animation,null
 web/api/transitionevent/elapsedtime,null
 web/api/transitionevent/propertyname,null
@@ -11310,7 +11310,7 @@ web/css/reference/selectors/_doublecolon_-webkit-slider-thumb,0
 web/css/reference/selectors/_doublecolon_after,0
 web/css/reference/selectors/_doublecolon_backdrop,0
 web/css/reference/selectors/_doublecolon_before,0
-web/css/reference/selectors/_doublecolon_checkmark,0
+web/css/reference/selectors/_doublecolon_checkmark,1
 web/css/reference/selectors/_doublecolon_column,0
 web/css/reference/selectors/_doublecolon_cue,0
 web/css/reference/selectors/_doublecolon_details-content,0
@@ -11730,7 +11730,7 @@ web/html/reference/elements/script/type/speculationrules,1
 web/html/reference/elements/search,0
 web/html/reference/elements/section,0
 web/html/reference/elements/select,0
-web/html/reference/elements/selectedcontent,0
+web/html/reference/elements/selectedcontent,1
 web/html/reference/elements/slot,0
 web/html/reference/elements/small,0
 web/html/reference/elements/source,0
@@ -11915,7 +11915,7 @@ web/http/reference/headers/content-security-policy/upgrade-insecure-requests,0
 web/http/reference/headers/content-security-policy/worker-src,0
 web/http/reference/headers/content-type,0
 web/http/reference/headers/cookie,0
-web/http/reference/headers/critical-ch,0
+web/http/reference/headers/critical-ch,1
 web/http/reference/headers/cross-origin-embedder-policy,0
 web/http/reference/headers/cross-origin-embedder-policy-report-only,0
 web/http/reference/headers/cross-origin-opener-policy,0
@@ -11935,7 +11935,7 @@ web/http/reference/headers/expires,0
 web/http/reference/headers/forwarded,0
 web/http/reference/headers/from,0
 web/http/reference/headers/host,0
-web/http/reference/headers/idempotency-key,0
+web/http/reference/headers/idempotency-key,1
 web/http/reference/headers/if-match,0
 web/http/reference/headers/if-modified-since,0
 web/http/reference/headers/if-none-match,0
