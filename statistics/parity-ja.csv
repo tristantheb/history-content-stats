@@ -2353,7 +2353,7 @@ web/api/animationeffect,1
 web/api/animationeffect/getcomputedtiming,2
 web/api/animationeffect/gettiming,3
 web/api/animationeffect/updatetiming,0
-web/api/animationevent,2
+web/api/animationevent,3
 web/api/animationevent/animation,null
 web/api/animationevent/animationevent,1
 web/api/animationevent/animationname,0
@@ -5433,7 +5433,7 @@ web/api/htmltablesectionelement/deleterow,null
 web/api/htmltablesectionelement/insertrow,null
 web/api/htmltablesectionelement/rows,null
 web/api/htmltablesectionelement/valign,null
-web/api/htmltemplateelement,4
+web/api/htmltemplateelement,5
 web/api/htmltemplateelement/content,1
 web/api/htmltemplateelement/shadowrootclonable,2
 web/api/htmltemplateelement/shadowrootcustomelementregistry,null
@@ -5532,7 +5532,7 @@ web/api/idbfactory/cmp,0
 web/api/idbfactory/databases,1
 web/api/idbfactory/deletedatabase,1
 web/api/idbfactory/open,1
-web/api/idbindex,9
+web/api/idbindex,10
 web/api/idbindex/count,3
 web/api/idbindex/get,2
 web/api/idbindex/getall,1
@@ -5558,7 +5558,7 @@ web/api/idbkeyrange/only_static,0
 web/api/idbkeyrange/upper,0
 web/api/idbkeyrange/upperbound_static,0
 web/api/idbkeyrange/upperopen,0
-web/api/idbobjectstore,7
+web/api/idbobjectstore,8
 web/api/idbobjectstore/add,2
 web/api/idbobjectstore/autoincrement,2
 web/api/idbobjectstore/clear,3
@@ -5695,9 +5695,9 @@ web/api/inputevent/inputevent,1
 web/api/inputevent/inputtype,4
 web/api/inputevent/iscomposing,0
 web/api/insertable_streams_for_mediastreamtrack_api,4
-web/api/installevent,12
+web/api/installevent,13
 web/api/installevent/addroutes,null
-web/api/installevent/installevent,5
+web/api/installevent/installevent,6
 web/api/integrityviolationreport,null
 web/api/interestevent,null
 web/api/interestevent/interestevent,null
@@ -7057,9 +7057,9 @@ web/api/readablebytestreamcontroller/close,1
 web/api/readablebytestreamcontroller/desiredsize,0
 web/api/readablebytestreamcontroller/enqueue,2
 web/api/readablebytestreamcontroller/error,1
-web/api/readablestream,5
+web/api/readablestream,6
 web/api/readablestream/cancel,4
-web/api/readablestream/from_static,3
+web/api/readablestream/from_static,4
 web/api/readablestream/getreader,4
 web/api/readablestream/locked,2
 web/api/readablestream/pipethrough,3
@@ -7104,7 +7104,7 @@ web/api/reportingobserver/disconnect,null
 web/api/reportingobserver/observe,null
 web/api/reportingobserver/reportingobserver,null
 web/api/reportingobserver/takerecords,null
-web/api/request,11
+web/api/request,12
 web/api/request/arraybuffer,1
 web/api/request/blob,1
 web/api/request/body,0
@@ -8649,7 +8649,7 @@ web/api/svgtextcontentelement/getsubstringlength,2
 web/api/svgtextcontentelement/lengthadjust,0
 web/api/svgtextcontentelement/textlength,0
 web/api/svgtextelement,0
-web/api/svgtextpathelement,1
+web/api/svgtextpathelement,2
 web/api/svgtextpathelement/href,0
 web/api/svgtextpathelement/method,1
 web/api/svgtextpathelement/side,null
@@ -8866,7 +8866,7 @@ web/api/transformstreamdefaultcontroller/desiredsize,0
 web/api/transformstreamdefaultcontroller/enqueue,1
 web/api/transformstreamdefaultcontroller/error,0
 web/api/transformstreamdefaultcontroller/terminate,0
-web/api/transitionevent,2
+web/api/transitionevent,3
 web/api/transitionevent/animation,null
 web/api/transitionevent/elapsedtime,0
 web/api/transitionevent/propertyname,0
@@ -9945,14 +9945,14 @@ web/api/workerlocation/port,1
 web/api/workerlocation/protocol,1
 web/api/workerlocation/search,1
 web/api/workerlocation/tostring,2
-web/api/workernavigator,3
+web/api/workernavigator,4
 web/api/workernavigator/appcodename,6
 web/api/workernavigator/appname,6
 web/api/workernavigator/appversion,6
 web/api/workernavigator/clearappbadge,1
 web/api/workernavigator/connection,4
 web/api/workernavigator/devicememory,3
-web/api/workernavigator/globalprivacycontrol,5
+web/api/workernavigator/globalprivacycontrol,6
 web/api/workernavigator/gpu,5
 web/api/workernavigator/hardwareconcurrency,5
 web/api/workernavigator/hid,null
@@ -11310,7 +11310,7 @@ web/css/reference/selectors/_doublecolon_-webkit-slider-thumb,null
 web/css/reference/selectors/_doublecolon_after,1
 web/css/reference/selectors/_doublecolon_backdrop,2
 web/css/reference/selectors/_doublecolon_before,1
-web/css/reference/selectors/_doublecolon_checkmark,0
+web/css/reference/selectors/_doublecolon_checkmark,1
 web/css/reference/selectors/_doublecolon_column,1
 web/css/reference/selectors/_doublecolon_cue,0
 web/css/reference/selectors/_doublecolon_details-content,0
@@ -11730,7 +11730,7 @@ web/html/reference/elements/script/type/speculationrules,1
 web/html/reference/elements/search,0
 web/html/reference/elements/section,1
 web/html/reference/elements/select,0
-web/html/reference/elements/selectedcontent,1
+web/html/reference/elements/selectedcontent,2
 web/html/reference/elements/slot,1
 web/html/reference/elements/small,0
 web/html/reference/elements/source,0
@@ -11935,7 +11935,7 @@ web/http/reference/headers/expires,null
 web/http/reference/headers/forwarded,0
 web/http/reference/headers/from,null
 web/http/reference/headers/host,0
-web/http/reference/headers/idempotency-key,0
+web/http/reference/headers/idempotency-key,1
 web/http/reference/headers/if-match,null
 web/http/reference/headers/if-modified-since,null
 web/http/reference/headers/if-none-match,0
@@ -13988,7 +13988,7 @@ web/svg/reference/element/polygon,0
 web/svg/reference/element/polyline,0
 web/svg/reference/element/radialgradient,1
 web/svg/reference/element/rect,0
-web/svg/reference/element/script,1
+web/svg/reference/element/script,2
 web/svg/reference/element/set,0
 web/svg/reference/element/stop,1
 web/svg/reference/element/style,2

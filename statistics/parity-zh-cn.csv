@@ -5558,7 +5558,7 @@ web/api/idbkeyrange/only_static,null
 web/api/idbkeyrange/upper,null
 web/api/idbkeyrange/upperbound_static,null
 web/api/idbkeyrange/upperopen,null
-web/api/idbobjectstore,2
+web/api/idbobjectstore,3
 web/api/idbobjectstore/add,null
 web/api/idbobjectstore/autoincrement,null
 web/api/idbobjectstore/clear,null
@@ -9952,7 +9952,7 @@ web/api/workernavigator/appversion,4
 web/api/workernavigator/clearappbadge,1
 web/api/workernavigator/connection,0
 web/api/workernavigator/devicememory,3
-web/api/workernavigator/globalprivacycontrol,3
+web/api/workernavigator/globalprivacycontrol,4
 web/api/workernavigator/gpu,4
 web/api/workernavigator/hardwareconcurrency,null
 web/api/workernavigator/hid,1

@@ -2353,7 +2353,7 @@ web/api/animationeffect,null
 web/api/animationeffect/getcomputedtiming,null
 web/api/animationeffect/gettiming,null
 web/api/animationeffect/updatetiming,null
-web/api/animationevent,4
+web/api/animationevent,5
 web/api/animationevent/animation,null
 web/api/animationevent/animationevent,null
 web/api/animationevent/animationname,null
