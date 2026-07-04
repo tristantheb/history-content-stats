@@ -129,7 +129,7 @@ glossary/bun,2
 glossary/cache,null
 glossary/cacheable,0
 glossary/caldav,0
-glossary/call_stack,null
+glossary/call_stack,0
 glossary/callback_function,7
 glossary/camel_case,6
 glossary/canonical_order,null
@@ -242,7 +242,7 @@ glossary/enumerated,6
 glossary/escape_character,0
 glossary/event,null
 glossary/exception,null
-glossary/exif,null
+glossary/exif,0
 glossary/expando,null
 glossary/extrinsic_size,null
 glossary/fallback_alignment,2
@@ -348,14 +348,14 @@ glossary/interaction_to_next_paint,null
 glossary/internationalization,3
 glossary/internet,null
 glossary/interpolation,4
-glossary/intrinsic_size,null
+glossary/intrinsic_size,0
 glossary/invariant,null
 glossary/ip_address,null
 glossary/ipv4,null
 glossary/ipv6,null
-glossary/irc,null
+glossary/irc,0
 glossary/iso,null
-glossary/isp,null
+glossary/isp,0
 glossary/itu,null
 glossary/jank,2
 glossary/java,1
@@ -372,7 +372,7 @@ glossary/khronos,6
 glossary/largest_contentful_paint,4
 glossary/latency,0
 glossary/layout_mode,null
-glossary/layout_viewport,null
+glossary/layout_viewport,0
 glossary/lazy_load,3
 glossary/leading,3
 glossary/lgpl,1
@@ -446,7 +446,7 @@ glossary/p2p,1
 glossary/pac,0
 glossary/packet,1
 glossary/page_load_time,4
-glossary/page_prediction,null
+glossary/page_prediction,0
 glossary/parameter,4
 glossary/parent_object,null
 glossary/parse,1
@@ -510,7 +510,7 @@ glossary/replaced_elements,0
 glossary/replay_attack,0
 glossary/repo,2
 glossary/reporting_directive,null
-glossary/representation_header,null
+glossary/representation_header,0
 glossary/request_header,0
 glossary/resource_timing,2
 glossary/response_header,0
@@ -544,7 +544,7 @@ glossary/scroll_container,4
 glossary/scroll_snap,3
 glossary/sctp,0
 glossary/sdk,1
-glossary/sdp,0
+glossary/sdp,1
 glossary/search_engine,1
 glossary/secure_context,6
 glossary/semantics,0
@@ -567,7 +567,7 @@ glossary/site,16
 glossary/site_map,null
 glossary/sld,null
 glossary/sloppy_mode,null
-glossary/slug,null
+glossary/slug,0
 glossary/smoke_test,null
 glossary/smpte,null
 glossary/smtp,null
