@@ -2353,8 +2353,8 @@ web/api/animationeffect,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/animationeffect/getcomputedtiming,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/animationeffect/gettiming,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/animationeffect/updatetiming,135b8311a5e3d12789e8421845be3ce026ef72b8,Web APIs
-web/api/animationevent,361dd9caf4ac5db8a73cc33e4d8ee43fa2e35fcc,Web APIs
-web/api/animationevent/animation,361dd9caf4ac5db8a73cc33e4d8ee43fa2e35fcc,Web APIs
+web/api/animationevent,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
+web/api/animationevent/animation,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/animationevent/animationevent,abe2e9c88f9962da6a58f7ee4ad16e35a351b03e,Web APIs
 web/api/animationevent/animationname,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/animationevent/elapsedtime,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
@@ -5433,14 +5433,14 @@ web/api/htmltablesectionelement/deleterow,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff
 web/api/htmltablesectionelement/insertrow,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Web APIs
 web/api/htmltablesectionelement/rows,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Web APIs
 web/api/htmltablesectionelement/valign,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Web APIs
-web/api/htmltemplateelement,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
+web/api/htmltemplateelement,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/htmltemplateelement/content,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
 web/api/htmltemplateelement/shadowrootclonable,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/htmltemplateelement/shadowrootcustomelementregistry,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/htmltemplateelement/shadowrootdelegatesfocus,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/htmltemplateelement/shadowrootmode,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/htmltemplateelement/shadowrootserializable,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
-web/api/htmltemplateelement/shadowrootslotassignment,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,Web APIs
+web/api/htmltemplateelement/shadowrootslotassignment,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/htmltextareaelement,5f2a755c4fa7d126f85b56fbca90b15c5f039eff,Web APIs
 web/api/htmltextareaelement/autocomplete,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmltextareaelement/checkvalidity,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -5532,12 +5532,12 @@ web/api/idbfactory/cmp,d16706e4e930c57161d473287374a9286c663147,Web APIs
 web/api/idbfactory/databases,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/idbfactory/deletedatabase,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/idbfactory/open,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
-web/api/idbindex,55bb65bb6a84808896ed0f6c83e57c60dbd8480e,Web APIs
+web/api/idbindex,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/idbindex/count,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/idbindex/get,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
 web/api/idbindex/getall,a2aab7a2f0d25c63b9fee9cd15f96478ac9186c8,Web APIs
 web/api/idbindex/getallkeys,a2aab7a2f0d25c63b9fee9cd15f96478ac9186c8,Web APIs
-web/api/idbindex/getallrecords,6722199b4d63fad3c33db1146af380fc98b6c202,Web APIs
+web/api/idbindex/getallrecords,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/idbindex/getkey,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
 web/api/idbindex/isautolocale,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
 web/api/idbindex/keypath,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
@@ -5558,7 +5558,7 @@ web/api/idbkeyrange/only_static,d16706e4e930c57161d473287374a9286c663147,Web API
 web/api/idbkeyrange/upper,d16706e4e930c57161d473287374a9286c663147,Web APIs
 web/api/idbkeyrange/upperbound_static,d16706e4e930c57161d473287374a9286c663147,Web APIs
 web/api/idbkeyrange/upperopen,f2088b8912ef205a737551441d54b73507bd3ac6,Web APIs
-web/api/idbobjectstore,55bb65bb6a84808896ed0f6c83e57c60dbd8480e,Web APIs
+web/api/idbobjectstore,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/idbobjectstore/add,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
 web/api/idbobjectstore/autoincrement,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
 web/api/idbobjectstore/clear,733c40043bfb7a55fb01644d52000149b2dab13c,Web APIs
@@ -5569,7 +5569,7 @@ web/api/idbobjectstore/deleteindex,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b,Web 
 web/api/idbobjectstore/get,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/idbobjectstore/getall,a2aab7a2f0d25c63b9fee9cd15f96478ac9186c8,Web APIs
 web/api/idbobjectstore/getallkeys,a2aab7a2f0d25c63b9fee9cd15f96478ac9186c8,Web APIs
-web/api/idbobjectstore/getallrecords,6722199b4d63fad3c33db1146af380fc98b6c202,Web APIs
+web/api/idbobjectstore/getallrecords,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/idbobjectstore/getkey,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
 web/api/idbobjectstore/index,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
 web/api/idbobjectstore/indexnames,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
@@ -5615,7 +5615,7 @@ web/api/identitycredentialerror,f1251a98115e7a6d566331512256dcbbc4cf7c24,Web API
 web/api/identitycredentialerror/error,f1251a98115e7a6d566331512256dcbbc4cf7c24,Web APIs
 web/api/identitycredentialerror/identitycredentialerror,f1251a98115e7a6d566331512256dcbbc4cf7c24,Web APIs
 web/api/identitycredentialerror/url,f1251a98115e7a6d566331512256dcbbc4cf7c24,Web APIs
-web/api/identitycredentialrequestoptions,798f5efbce403e2366323afea025e5729b902e46,Web APIs
+web/api/identitycredentialrequestoptions,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/identityprovider,6722199b4d63fad3c33db1146af380fc98b6c202,Web APIs
 web/api/identityprovider/close_static,6722199b4d63fad3c33db1146af380fc98b6c202,Web APIs
 web/api/identityprovider/getuserinfo_static,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
@@ -5695,9 +5695,9 @@ web/api/inputevent/inputevent,e4cc8b707a1056c14a6316079798b95cb39b725f,Web APIs
 web/api/inputevent/inputtype,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
 web/api/inputevent/iscomposing,eab4066e72d5478de920e4020e5db71214dcffa6,Web APIs
 web/api/insertable_streams_for_mediastreamtrack_api,0d0ccc861fa024fa10836fbf0cc2c3813cd74745,Web APIs
-web/api/installevent,4a0413ef319179b7d0d833c42a156629544c8248,Web APIs
-web/api/installevent/addroutes,aafad07220c63481570e43cc66a5d9fb7b985ffc,Web APIs
-web/api/installevent/installevent,47962c4ebad5a138673422ec63a282ab9a63d454,Web APIs
+web/api/installevent,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
+web/api/installevent/addroutes,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
+web/api/installevent/installevent,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/integrityviolationreport,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
 web/api/interestevent,0563b7d83916b234fa637483211889e573df9440,Web APIs
 web/api/interestevent/interestevent,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
@@ -7057,9 +7057,9 @@ web/api/readablebytestreamcontroller/close,802b6063046dffb7634d2138aadcd92cb22ed
 web/api/readablebytestreamcontroller/desiredsize,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
 web/api/readablebytestreamcontroller/enqueue,bdcf6443a4f745d6522dc98d7286a2a47b76b408,Web APIs
 web/api/readablebytestreamcontroller/error,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
-web/api/readablestream,0ca040b6a9cfd931558bd1d3a402707abddc1924,Web APIs
+web/api/readablestream,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/readablestream/cancel,0b8f00bb9ece33c6964eea886b2f7db8711d7b62,Web APIs
-web/api/readablestream/from_static,71851d602eecd8786bb8da95ab2980764bb2c201,Web APIs
+web/api/readablestream/from_static,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/readablestream/getreader,0df016ab2d5d9b9bef8b4e8a8f94aa77c4f42aa5,Web APIs
 web/api/readablestream/locked,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/readablestream/pipethrough,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -7104,7 +7104,7 @@ web/api/reportingobserver/disconnect,6720d579bd658f02c56363805e97e69f93dc79f1,We
 web/api/reportingobserver/observe,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
 web/api/reportingobserver/reportingobserver,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
 web/api/reportingobserver/takerecords,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
-web/api/request,98091f3ead60c0057dbbc7c7224e967ca44acff9,Web APIs
+web/api/request,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/request/arraybuffer,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/blob,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/body,121546ed0718e92b3f99ae99b1a45869ea68ebe7,Web APIs
@@ -7119,7 +7119,7 @@ web/api/request/formdata,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/headers,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/request/integrity,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/request/ishistorynavigation,f2dc3d5367203c860cf1a71ce0e972f018523849,Web APIs
-web/api/request/isreloadnavigation,98091f3ead60c0057dbbc7c7224e967ca44acff9,Web APIs
+web/api/request/isreloadnavigation,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/request/json,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/keepalive,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/request/method,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
@@ -8649,10 +8649,10 @@ web/api/svgtextcontentelement/getsubstringlength,0c13af55e869cbc54830fd1a601fd05
 web/api/svgtextcontentelement/lengthadjust,84cab3d0973d23ac3f00448784c55fe3f0c948ad,Web APIs
 web/api/svgtextcontentelement/textlength,84cab3d0973d23ac3f00448784c55fe3f0c948ad,Web APIs
 web/api/svgtextelement,226ac33eb70ed5411dd2d68bd602c80cafd780b6,Web APIs
-web/api/svgtextpathelement,73f93cb9449dc42059d2f8835338e8674b3d8bdd,Web APIs
+web/api/svgtextpathelement,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/svgtextpathelement/href,cb6a3d63ca47ea6efeb1d9f8f60e47375a59d541,Web APIs
 web/api/svgtextpathelement/method,73f93cb9449dc42059d2f8835338e8674b3d8bdd,Web APIs
-web/api/svgtextpathelement/side,73f93cb9449dc42059d2f8835338e8674b3d8bdd,Web APIs
+web/api/svgtextpathelement/side,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/svgtextpathelement/spacing,73f93cb9449dc42059d2f8835338e8674b3d8bdd,Web APIs
 web/api/svgtextpathelement/startoffset,cb6a3d63ca47ea6efeb1d9f8f60e47375a59d541,Web APIs
 web/api/svgtextpositioningelement,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,Web APIs
@@ -8866,8 +8866,8 @@ web/api/transformstreamdefaultcontroller/desiredsize,d8b4431bfde42f1bc195239ea1f
 web/api/transformstreamdefaultcontroller/enqueue,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
 web/api/transformstreamdefaultcontroller/error,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
 web/api/transformstreamdefaultcontroller/terminate,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
-web/api/transitionevent,361dd9caf4ac5db8a73cc33e4d8ee43fa2e35fcc,Web APIs
-web/api/transitionevent/animation,361dd9caf4ac5db8a73cc33e4d8ee43fa2e35fcc,Web APIs
+web/api/transitionevent,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
+web/api/transitionevent/animation,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/transitionevent/elapsedtime,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/transitionevent/propertyname,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/transitionevent/pseudoelement,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
@@ -9658,12 +9658,12 @@ web/api/webtransport_api,30c9f71e6a6cac4d894688cabf7e4b50af87cfe5,Web APIs
 web/api/webtransportbidirectionalstream,cc41ecd796870c2b6c77ad0b04fcb8d8c7d877d2,Web APIs
 web/api/webtransportbidirectionalstream/readable,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/webtransportbidirectionalstream/writable,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
-web/api/webtransportdatagramduplexstream,361dd9caf4ac5db8a73cc33e4d8ee43fa2e35fcc,Web APIs
+web/api/webtransportdatagramduplexstream,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/webtransportdatagramduplexstream/createwritable,361dd9caf4ac5db8a73cc33e4d8ee43fa2e35fcc,Web APIs
-web/api/webtransportdatagramduplexstream/incominghighwatermark,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
+web/api/webtransportdatagramduplexstream/incominghighwatermark,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/webtransportdatagramduplexstream/incomingmaxage,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/webtransportdatagramduplexstream/maxdatagramsize,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
-web/api/webtransportdatagramduplexstream/outgoinghighwatermark,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
+web/api/webtransportdatagramduplexstream/outgoinghighwatermark,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/webtransportdatagramduplexstream/outgoingmaxage,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/webtransportdatagramduplexstream/readable,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/webtransportdatagramduplexstream/writable,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
@@ -9945,14 +9945,14 @@ web/api/workerlocation/port,e8fe043f7d2ad7cd9804d1bf96e0310949f1dac7,Web APIs
 web/api/workerlocation/protocol,e8fe043f7d2ad7cd9804d1bf96e0310949f1dac7,Web APIs
 web/api/workerlocation/search,e8fe043f7d2ad7cd9804d1bf96e0310949f1dac7,Web APIs
 web/api/workerlocation/tostring,b25d8774aa7bcc6a053e26cf804ad454f51e134b,Web APIs
-web/api/workernavigator,c9773fc1268b974b6c009208b259c53954c839ef,Web APIs
+web/api/workernavigator,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/workernavigator/appcodename,0266df57cb5eb52a057e305ba12d49c93f0edb7e,Web APIs
 web/api/workernavigator/appname,0266df57cb5eb52a057e305ba12d49c93f0edb7e,Web APIs
 web/api/workernavigator/appversion,0266df57cb5eb52a057e305ba12d49c93f0edb7e,Web APIs
 web/api/workernavigator/clearappbadge,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/workernavigator/connection,e8fe043f7d2ad7cd9804d1bf96e0310949f1dac7,Web APIs
 web/api/workernavigator/devicememory,b304d8d3c870fba028df550a51f5b4258ab3ac08,Web APIs
-web/api/workernavigator/globalprivacycontrol,f89740247002fb71eb339af142482900f3c32349,Web APIs
+web/api/workernavigator/globalprivacycontrol,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/workernavigator/gpu,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/workernavigator/hardwareconcurrency,9a4005caa5cc13f5174e3b8981eeec5631ed83d1,Web APIs
 web/api/workernavigator/hid,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
@@ -10796,7 +10796,7 @@ web/css/reference/properties/column-height,bcbb4bd6a80292c0663b723d5466759cfaaa8
 web/css/reference/properties/column-rule,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Properties
 web/css/reference/properties/column-rule-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/column-rule-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/column-rule-visibility-items,34838ae7d32e78bfe01dbf2c266257ef0f8305c4,CSS|Properties
+web/css/reference/properties/column-rule-visibility-items,513146a616213fee548fdcf72dc1359030eb3395,CSS|Properties
 web/css/reference/properties/column-rule-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/column-span,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/column-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11054,11 +11054,11 @@ web/css/reference/properties/resize,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS
 web/css/reference/properties/right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/rotate,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/row-gap,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Properties
-web/css/reference/properties/row-rule-visibility-items,34838ae7d32e78bfe01dbf2c266257ef0f8305c4,CSS|Properties
+web/css/reference/properties/row-rule-visibility-items,513146a616213fee548fdcf72dc1359030eb3395,CSS|Properties
 web/css/reference/properties/ruby-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ruby-overhang,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ruby-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/rule-visibility-items,34838ae7d32e78bfe01dbf2c266257ef0f8305c4,CSS|Properties
+web/css/reference/properties/rule-visibility-items,513146a616213fee548fdcf72dc1359030eb3395,CSS|Properties
 web/css/reference/properties/rx,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ry,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scale,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11310,7 +11310,7 @@ web/css/reference/selectors/_doublecolon_-webkit-slider-thumb,6cf697a8965ecdc496
 web/css/reference/selectors/_doublecolon_after,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_backdrop,8fa3309a76fe8dc4cf5e8eed97ef596a91513fbd,CSS|Selectors
 web/css/reference/selectors/_doublecolon_before,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
-web/css/reference/selectors/_doublecolon_checkmark,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
+web/css/reference/selectors/_doublecolon_checkmark,513146a616213fee548fdcf72dc1359030eb3395,CSS|Selectors
 web/css/reference/selectors/_doublecolon_column,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_cue,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_details-content,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
@@ -11730,7 +11730,7 @@ web/html/reference/elements/script/type/speculationrules,87ca9db1ebe56eb20c1f20b
 web/html/reference/elements/search,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/section,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/select,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/selectedcontent,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/selectedcontent,513146a616213fee548fdcf72dc1359030eb3395,HTML|Elements
 web/html/reference/elements/slot,8dd50fa9cb734907685508144376dbdd28f98be6,HTML|Elements
 web/html/reference/elements/small,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/source,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11915,7 +11915,7 @@ web/http/reference/headers/content-security-policy/upgrade-insecure-requests,ca2
 web/http/reference/headers/content-security-policy/worker-src,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/content-type,b4e920ce0a34d9e609080ccb937a1a30c3cd558a,HTTP|Headers
 web/http/reference/headers/cookie,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
-web/http/reference/headers/critical-ch,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
+web/http/reference/headers/critical-ch,513146a616213fee548fdcf72dc1359030eb3395,HTTP|Headers
 web/http/reference/headers/cross-origin-embedder-policy,2d0aa21573c6ceb33aeadf94ce6cd84588b74123,HTTP|Headers
 web/http/reference/headers/cross-origin-embedder-policy-report-only,2d0aa21573c6ceb33aeadf94ce6cd84588b74123,HTTP|Headers
 web/http/reference/headers/cross-origin-opener-policy,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
@@ -11935,7 +11935,7 @@ web/http/reference/headers/expires,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP
 web/http/reference/headers/forwarded,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/from,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/host,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
-web/http/reference/headers/idempotency-key,2da6c8a65715a0ce3785e88d8e293c8dc786cb49,HTTP|Headers
+web/http/reference/headers/idempotency-key,513146a616213fee548fdcf72dc1359030eb3395,HTTP|Headers
 web/http/reference/headers/if-match,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/if-modified-since,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/if-none-match,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -12045,7 +12045,7 @@ web/http/reference/headers/sec-fetch-mode,81bf621759d3a52fdf737c2d75f186a0073d14
 web/http/reference/headers/sec-fetch-site,81bf621759d3a52fdf737c2d75f186a0073d1406,HTTP|Headers
 web/http/reference/headers/sec-fetch-storage-access,e936e7271df947f25184a5ba8a21445bbd4d056c,HTTP|Headers
 web/http/reference/headers/sec-fetch-user,81bf621759d3a52fdf737c2d75f186a0073d1406,HTTP|Headers
-web/http/reference/headers/sec-gpc,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
+web/http/reference/headers/sec-gpc,513146a616213fee548fdcf72dc1359030eb3395,HTTP|Headers
 web/http/reference/headers/sec-private-state-token,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678,HTTP|Headers
 web/http/reference/headers/sec-private-state-token-crypto-version,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678,HTTP|Headers
 web/http/reference/headers/sec-private-state-token-lifetime,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678,HTTP|Headers
@@ -13988,7 +13988,7 @@ web/svg/reference/element/polygon,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|E
 web/svg/reference/element/polyline,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
 web/svg/reference/element/radialgradient,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
 web/svg/reference/element/rect,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
-web/svg/reference/element/script,a9e07b75358077e93e2515a13a7413275116ee48,SVG|Element
+web/svg/reference/element/script,513146a616213fee548fdcf72dc1359030eb3395,SVG|Element
 web/svg/reference/element/set,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
 web/svg/reference/element/stop,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
 web/svg/reference/element/style,f69b6693212029ce4b9fa0c753729044577af548,SVG|Element
@@ -14072,7 +14072,7 @@ web/webdriver/reference/bidi/modules/network,fbf733732bf531a1be40a0c646bcbc4b316
 web/webdriver/reference/bidi/modules/permissions,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/script,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/session,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
-web/webdriver/reference/bidi/modules/session/end,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver
+web/webdriver/reference/bidi/modules/session/end,513146a616213fee548fdcf72dc1359030eb3395,WebDriver
 web/webdriver/reference/bidi/modules/session/new,9703f3f0a1ae56e4e40af5505451f96c78495cb9,WebDriver
 web/webdriver/reference/bidi/modules/session/status,9703f3f0a1ae56e4e40af5505451f96c78495cb9,WebDriver
 web/webdriver/reference/bidi/modules/session/subscribe,9703f3f0a1ae56e4e40af5505451f96c78495cb9,WebDriver
