@@ -11831,7 +11831,7 @@ web/http/guides/csp/errors,5
 web/http/guides/csp/errors/cspviolation,2
 web/http/guides/evolution_of_http,3
 web/http/guides/fetch_metadata,null
-web/http/guides/iframe_credentialless,2
+web/http/guides/iframe_credentialless,0
 web/http/guides/messages,1
 web/http/guides/mime_types,3
 web/http/guides/mime_types/common_types,1
@@ -13528,7 +13528,7 @@ web/mathml/reference/element/mroot,null
 web/mathml/reference/element/mrow,null
 web/mathml/reference/element/ms,null
 web/mathml/reference/element/mspace,2
-web/mathml/reference/element/msqrt,null
+web/mathml/reference/element/msqrt,0
 web/mathml/reference/element/mstyle,null
 web/mathml/reference/element/msub,1
 web/mathml/reference/element/msubsup,1
@@ -13606,7 +13606,7 @@ web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,0
 web/privacy/guides/privacy_sandbox,0
 web/privacy/guides/redirect_tracking_protection,null
-web/privacy/guides/referer_header_colon__privacy_and_security_concerns,1
+web/privacy/guides/referer_header_colon__privacy_and_security_concerns,0
 web/privacy/guides/state_partitioning,null
 web/privacy/guides/storage_access_policy,1
 web/privacy/guides/storage_access_policy/errors,0
