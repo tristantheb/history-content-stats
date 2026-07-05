@@ -879,7 +879,7 @@ learn_web_development/extensions/advanced_javascript_objects/object-oriented_pro
 learn_web_development/extensions/advanced_javascript_objects/object_building_practice,6
 learn_web_development/extensions/advanced_javascript_objects/object_prototypes,1
 learn_web_development/extensions/advanced_javascript_objects/test_your_skills,1
-learn_web_development/extensions/advanced_javascript_objects/test_your_skills/object-oriented_javascript,5
+learn_web_development/extensions/advanced_javascript_objects/test_your_skills/object-oriented_javascript,0
 learn_web_development/extensions/async_js,2
 learn_web_development/extensions/async_js/implementing_a_promise-based_api,3
 learn_web_development/extensions/async_js/introducing,1
@@ -11920,7 +11920,7 @@ web/http/reference/headers/cross-origin-embedder-policy,1
 web/http/reference/headers/cross-origin-embedder-policy-report-only,null
 web/http/reference/headers/cross-origin-opener-policy,3
 web/http/reference/headers/cross-origin-resource-policy,null
-web/http/reference/headers/date,null
+web/http/reference/headers/date,0
 web/http/reference/headers/device-memory,null
 web/http/reference/headers/dictionary-id,null
 web/http/reference/headers/dnt,0
@@ -13712,7 +13712,7 @@ web/security/practical_implementation_guides/cors,null
 web/security/practical_implementation_guides/csp,0
 web/security/practical_implementation_guides/mime_types,null
 web/security/practical_implementation_guides/referrer_policy,null
-web/security/practical_implementation_guides/robots_txt,null
+web/security/practical_implementation_guides/robots_txt,0
 web/security/practical_implementation_guides/sri,null
 web/security/practical_implementation_guides/tls,0
 web/security/practical_implementation_guides/turning_off_form_autocompletion,1
