@@ -8257,7 +8257,7 @@ web/http/reference/headers/early-data,no_hash_commit
 web/http/reference/headers/etag,099a15b4234071958980dcae0e122a7145fdbdfa
 web/http/reference/headers/expect-ct,no_hash_commit
 web/http/reference/headers/expect,no_hash_commit
-web/http/reference/headers/expires,no_hash_commit
+web/http/reference/headers/expires,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/forwarded,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/from,no_hash_commit
 web/http/reference/headers/host,ad5b5e31f81795d692e66dadb7818ba8b220ad15
