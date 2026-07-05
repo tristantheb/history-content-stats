@@ -11931,7 +11931,7 @@ web/http/reference/headers/ect,null
 web/http/reference/headers/etag,0
 web/http/reference/headers/expect,null
 web/http/reference/headers/expect-ct,null
-web/http/reference/headers/expires,null
+web/http/reference/headers/expires,0
 web/http/reference/headers/forwarded,0
 web/http/reference/headers/from,null
 web/http/reference/headers/host,0
