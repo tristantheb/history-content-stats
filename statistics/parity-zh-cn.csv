@@ -38,7 +38,7 @@ games/tools/asm.js,2
 games/tutorials,null
 games/tutorials/2d_breakout_game_phaser,null
 games/tutorials/2d_breakout_game_phaser/animations_and_tweens,null
-games/tutorials/2d_breakout_game_phaser/bounce_off_the_walls,null
+games/tutorials/2d_breakout_game_phaser/bounce_off_the_walls,0
 games/tutorials/2d_breakout_game_phaser/build_the_brick_field,null
 games/tutorials/2d_breakout_game_phaser/buttons,null
 games/tutorials/2d_breakout_game_phaser/collision_detection,null
@@ -50,7 +50,7 @@ games/tutorials/2d_breakout_game_phaser/move_the_ball,0
 games/tutorials/2d_breakout_game_phaser/physics,null
 games/tutorials/2d_breakout_game_phaser/player_paddle_and_controls,null
 games/tutorials/2d_breakout_game_phaser/randomizing_gameplay,null
-games/tutorials/2d_breakout_game_phaser/scaling,null
+games/tutorials/2d_breakout_game_phaser/scaling,0
 games/tutorials/2d_breakout_game_phaser/the_score,0
 games/tutorials/2d_breakout_game_phaser/win_the_game,0
 games/tutorials/2d_breakout_game_pure_javascript,0
