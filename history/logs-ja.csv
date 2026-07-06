@@ -8262,7 +8262,7 @@ web/http/reference/headers/forwarded,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/from,no_hash_commit
 web/http/reference/headers/host,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/idempotency-key,2da6c8a65715a0ce3785e88d8e293c8dc786cb49
-web/http/reference/headers/if-match,no_hash_commit
+web/http/reference/headers/if-match,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/if-modified-since,no_hash_commit
 web/http/reference/headers/if-none-match,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/if-range,no_hash_commit
