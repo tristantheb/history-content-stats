@@ -11936,7 +11936,7 @@ web/http/reference/headers/forwarded,0
 web/http/reference/headers/from,null
 web/http/reference/headers/host,0
 web/http/reference/headers/idempotency-key,1
-web/http/reference/headers/if-match,null
+web/http/reference/headers/if-match,0
 web/http/reference/headers/if-modified-since,null
 web/http/reference/headers/if-none-match,0
 web/http/reference/headers/if-range,null
