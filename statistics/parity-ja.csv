@@ -5582,11 +5582,12 @@ web/api/idbobjectstore/transaction,2
 web/api/idbopendbrequest,4
 web/api/idbopendbrequest/blocked_event,5
 web/api/idbopendbrequest/upgradeneeded_event,5
+web/api/idbrecord,null
 web/api/idbrequest,null
 web/api/idbrequest/error,8
 web/api/idbrequest/error_event,7
 web/api/idbrequest/readystate,7
-web/api/idbrequest/result,6
+web/api/idbrequest/result,7
 web/api/idbrequest/source,4
 web/api/idbrequest/success_event,null
 web/api/idbrequest/transaction,6

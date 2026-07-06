@@ -5537,7 +5537,7 @@ web/api/idbindex/count,0
 web/api/idbindex/get,0
 web/api/idbindex/getall,0
 web/api/idbindex/getallkeys,0
-web/api/idbindex/getallrecords,0
+web/api/idbindex/getallrecords,1
 web/api/idbindex/getkey,0
 web/api/idbindex/isautolocale,0
 web/api/idbindex/keypath,0
@@ -5569,7 +5569,7 @@ web/api/idbobjectstore/deleteindex,0
 web/api/idbobjectstore/get,0
 web/api/idbobjectstore/getall,0
 web/api/idbobjectstore/getallkeys,0
-web/api/idbobjectstore/getallrecords,0
+web/api/idbobjectstore/getallrecords,1
 web/api/idbobjectstore/getkey,0
 web/api/idbobjectstore/index,0
 web/api/idbobjectstore/indexnames,0
@@ -5582,11 +5582,12 @@ web/api/idbobjectstore/transaction,0
 web/api/idbopendbrequest,0
 web/api/idbopendbrequest/blocked_event,0
 web/api/idbopendbrequest/upgradeneeded_event,0
-web/api/idbrequest,0
+web/api/idbrecord,null
+web/api/idbrequest,1
 web/api/idbrequest/error,0
 web/api/idbrequest/error_event,0
 web/api/idbrequest/readystate,0
-web/api/idbrequest/result,0
+web/api/idbrequest/result,1
 web/api/idbrequest/source,0
 web/api/idbrequest/success_event,0
 web/api/idbrequest/transaction,0
