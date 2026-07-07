@@ -2642,7 +2642,7 @@ web/api/biquadfilternode/q,null
 web/api/biquadfilternode/type,null
 web/api/blob,3
 web/api/blob/arraybuffer,0
-web/api/blob/blob,1
+web/api/blob/blob,2
 web/api/blob/bytes,0
 web/api/blob/size,0
 web/api/blob/slice,1
@@ -11665,7 +11665,7 @@ web/html/reference/elements/input/datetime-local,1
 web/html/reference/elements/input/email,1
 web/html/reference/elements/input/file,1
 web/html/reference/elements/input/hidden,1
-web/html/reference/elements/input/image,1
+web/html/reference/elements/input/image,2
 web/html/reference/elements/input/month,1
 web/html/reference/elements/input/number,1
 web/html/reference/elements/input/password,1
@@ -11945,7 +11945,7 @@ web/http/reference/headers/if-unmodified-since,null
 web/http/reference/headers/integrity-policy,null
 web/http/reference/headers/integrity-policy-report-only,null
 web/http/reference/headers/keep-alive,0
-web/http/reference/headers/last-modified,null
+web/http/reference/headers/last-modified,0
 web/http/reference/headers/link,1
 web/http/reference/headers/location,0
 web/http/reference/headers/max-forwards,null
@@ -12074,7 +12074,7 @@ web/http/reference/headers/timing-allow-origin,null
 web/http/reference/headers/tk,null
 web/http/reference/headers/trailer,0
 web/http/reference/headers/transfer-encoding,0
-web/http/reference/headers/upgrade,null
+web/http/reference/headers/upgrade,0
 web/http/reference/headers/upgrade-insecure-requests,null
 web/http/reference/headers/use-as-dictionary,null
 web/http/reference/headers/user-agent,0
@@ -13515,7 +13515,7 @@ web/mathml/reference/element/maction,null
 web/mathml/reference/element/math,5
 web/mathml/reference/element/menclose,2
 web/mathml/reference/element/merror,null
-web/mathml/reference/element/mfenced,1
+web/mathml/reference/element/mfenced,0
 web/mathml/reference/element/mfrac,null
 web/mathml/reference/element/mi,6
 web/mathml/reference/element/mmultiscripts,1

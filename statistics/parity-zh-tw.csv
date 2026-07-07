@@ -2642,7 +2642,7 @@ web/api/biquadfilternode/q,null
 web/api/biquadfilternode/type,null
 web/api/blob,1
 web/api/blob/arraybuffer,null
-web/api/blob/blob,0
+web/api/blob/blob,1
 web/api/blob/bytes,null
 web/api/blob/size,0
 web/api/blob/slice,null
