@@ -8269,7 +8269,7 @@ web/http/reference/headers/if-range,no_hash_commit
 web/http/reference/headers/if-unmodified-since,no_hash_commit
 web/http/reference/headers,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/keep-alive,ad5b5e31f81795d692e66dadb7818ba8b220ad15
-web/http/reference/headers/last-modified,no_hash_commit
+web/http/reference/headers/last-modified,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/link,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/location,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/nel,no_hash_commit
@@ -8334,7 +8334,7 @@ web/http/reference/headers/tk,no_hash_commit
 web/http/reference/headers/trailer,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/transfer-encoding,dc18e207e48c04447d979a731129d1ae253a2109
 web/http/reference/headers/upgrade-insecure-requests,no_hash_commit
-web/http/reference/headers/upgrade,no_hash_commit
+web/http/reference/headers/upgrade,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/user-agent/firefox,b1e1430dd3b1d2e01197231ab0fa6047ed8a221b
 web/http/reference/headers/user-agent,0b852c3f5c46b69a57d23e860a833f6830951793
 web/http/reference/headers/vary,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
@@ -9463,7 +9463,7 @@ web/mathml/reference/element,c263f06fa14ed56153e345006bb459c9df014b98
 web/mathml/reference/element/math,8eece0b998c23e8ea35f936d7371a169974130f5
 web/mathml/reference/element/menclose,8eece0b998c23e8ea35f936d7371a169974130f5
 web/mathml/reference/element/merror,no_hash_commit
-web/mathml/reference/element/mfenced,0fb5d5d5579d459f58ab52d0e6e94fc4634a9fe0
+web/mathml/reference/element/mfenced,c263f06fa14ed56153e345006bb459c9df014b98
 web/mathml/reference/element/mfrac,no_hash_commit
 web/mathml/reference/element/mi,0fb5d5d5579d459f58ab52d0e6e94fc4634a9fe0
 web/mathml/reference/element/mmultiscripts,07f0cf4375aaa02e1071d8bd0e8518db7609b7a9
