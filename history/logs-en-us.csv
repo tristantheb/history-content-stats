@@ -2642,7 +2642,7 @@ web/api/biquadfilternode/q,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b,Web APIs
 web/api/biquadfilternode/type,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b,Web APIs
 web/api/blob,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/blob/arraybuffer,84a9afd94f497d4173bde131731ef6bdf0b6135d,Web APIs
-web/api/blob/blob,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/blob/blob,6d97bc4fcbb8896f7b15e32d5128df5bb3b4efe4,Web APIs
 web/api/blob/bytes,5ee9d033cacad3a031562be16be43c55a838cc4f,Web APIs
 web/api/blob/size,84a9afd94f497d4173bde131731ef6bdf0b6135d,Web APIs
 web/api/blob/slice,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
@@ -11665,7 +11665,7 @@ web/html/reference/elements/input/datetime-local,3944506d4afeeed774687cf3fd95087
 web/html/reference/elements/input/email,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/file,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/hidden,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/input/image,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/image,3a814443b0b97b9334811b7b1406cae3a009d487,HTML|Elements
 web/html/reference/elements/input/month,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/number,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/password,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
