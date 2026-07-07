@@ -1869,6 +1869,16 @@ web/api/abstractrange/endoffset,f314991b236fce81b712a6df59e4643de0f98449
 web/api/abstractrange,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52
 web/api/abstractrange/startcontainer,f314991b236fce81b712a6df59e4643de0f98449
 web/api/abstractrange/startoffset,f314991b236fce81b712a6df59e4643de0f98449
+web/api/accelerometer/accelerometer,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
+web/api/accelerometer,37a8f396715c6e2e6a0e3d3225e1481484a825b7
+web/api/accelerometer/x,4ea748e5f025c2a00a8ca8babd7c505e73ad9def
+web/api/accelerometer/y,4d51a212bfda5ce9978d162caf5532d155f7eb0a
+web/api/accelerometer/z,4ea748e5f025c2a00a8ca8babd7c505e73ad9def
+web/api/aescbcparams,bca8d1ab2bc4f5a1ef6b39c454b0229539178e98
+web/api/aesctrparams,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0
+web/api/aesderivedkeyparams,63774786a6abccda8e70ad62429aa39571aba878
+web/api/aesgcmparams,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
+web/api/aeskeygenparams,bca8d1ab2bc4f5a1ef6b39c454b0229539178e98
 web/api/analysernode/analysernode,no_hash_commit
 web/api/analysernode/fftsize,no_hash_commit
 web/api/analysernode/frequencybincount,no_hash_commit
@@ -2364,7 +2374,7 @@ web/api/element/hasattribute,990ab6637bb4d44f059597262cbf3c51abae79eb
 web/api/element/hasattributens,7eed0e1e4ab478d78dc7ca23c19ae77406776e4e
 web/api/element/hasattributes,no_hash_commit
 web/api/element/id,no_hash_commit
-web/api/element,no_hash_commit
+web/api/element,361dd9caf4ac5db8a73cc33e4d8ee43fa2e35fcc
 web/api/element/innerhtml,no_hash_commit
 web/api/element/input_event,no_hash_commit
 web/api/element/insertadjacentelement,no_hash_commit
