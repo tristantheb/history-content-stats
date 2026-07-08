@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,3
 mozilla/firefox,0
-mozilla/firefox/experimental_features,21
+mozilla/firefox/experimental_features,23
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -11003,7 +11003,7 @@ web/css/reference/properties/outline-color,0
 web/css/reference/properties/outline-offset,0
 web/css/reference/properties/outline-style,1
 web/css/reference/properties/outline-width,0
-web/css/reference/properties/overflow,0
+web/css/reference/properties/overflow,1
 web/css/reference/properties/overflow-anchor,0
 web/css/reference/properties/overflow-block,0
 web/css/reference/properties/overflow-clip-margin,0
@@ -11467,7 +11467,7 @@ web/css/reference/values/important,0
 web/css/reference/values/inherit,0
 web/css/reference/values/initial,0
 web/css/reference/values/integer,0
-web/css/reference/values/length,0
+web/css/reference/values/length,1
 web/css/reference/values/length-percentage,0
 web/css/reference/values/line-style,1
 web/css/reference/values/log,0
@@ -11716,7 +11716,7 @@ web/html/reference/elements/picture,0
 web/html/reference/elements/plaintext,0
 web/html/reference/elements/pre,0
 web/html/reference/elements/progress,0
-web/html/reference/elements/q,0
+web/html/reference/elements/q,1
 web/html/reference/elements/rb,0
 web/html/reference/elements/rp,0
 web/html/reference/elements/rt,0
