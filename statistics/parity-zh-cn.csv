@@ -9626,7 +9626,7 @@ web/api/websocket/open_event,null
 web/api/websocket/protocol,null
 web/api/websocket/readystate,0
 web/api/websocket/send,null
-web/api/websocket/url,null
+web/api/websocket/url,0
 web/api/websocket/websocket,null
 web/api/websockets_api,12
 web/api/websockets_api/using_websocketstream,null
