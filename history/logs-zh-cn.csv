@@ -4713,7 +4713,7 @@ web/api/websocket/open_event,no_hash_commit
 web/api/websocket/protocol,no_hash_commit
 web/api/websocket/readystate,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websocket/send,no_hash_commit
-web/api/websocket/url,no_hash_commit
+web/api/websocket/url,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websocket/websocket,no_hash_commit
 web/api/websockets_api,a67b9956163a6a3bace6bea8d223d048f089675f
 web/api/websockets_api/writing_a_websocket_server_in_java,eba47bb55d10e6dc73f61dbefc9d3da2abf1fd78
