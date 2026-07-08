@@ -13265,7 +13265,7 @@ web/javascript/reference/global_objects/temporal/zoneddatetime/monthcode,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/monthsinyear,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/nanosecond,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/offset,0
-web/javascript/reference/global_objects/temporal/zoneddatetime/offsetnanoseconds,0
+web/javascript/reference/global_objects/temporal/zoneddatetime/offsetnanoseconds,1
 web/javascript/reference/global_objects/temporal/zoneddatetime/round,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/second,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/since,0
