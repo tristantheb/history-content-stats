@@ -2642,7 +2642,7 @@ web/api/biquadfilternode/q,0
 web/api/biquadfilternode/type,0
 web/api/blob,0
 web/api/blob/arraybuffer,0
-web/api/blob/blob,1
+web/api/blob/blob,0
 web/api/blob/bytes,0
 web/api/blob/size,0
 web/api/blob/slice,0
@@ -11665,7 +11665,7 @@ web/html/reference/elements/input/datetime-local,0
 web/html/reference/elements/input/email,0
 web/html/reference/elements/input/file,0
 web/html/reference/elements/input/hidden,0
-web/html/reference/elements/input/image,1
+web/html/reference/elements/input/image,0
 web/html/reference/elements/input/month,0
 web/html/reference/elements/input/number,0
 web/html/reference/elements/input/password,0
