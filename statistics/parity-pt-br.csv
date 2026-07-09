@@ -14305,8 +14305,13 @@ webassembly/reference/javascript_interface/module/customsections_static,null
 webassembly/reference/javascript_interface/module/exports_static,null
 webassembly/reference/javascript_interface/module/imports_static,null
 webassembly/reference/javascript_interface/module/module,null
+webassembly/reference/javascript_interface/promising_static,null
 webassembly/reference/javascript_interface/runtimeerror,null
 webassembly/reference/javascript_interface/runtimeerror/runtimeerror,null
+webassembly/reference/javascript_interface/suspenderror,null
+webassembly/reference/javascript_interface/suspenderror/suspenderror,null
+webassembly/reference/javascript_interface/suspending,null
+webassembly/reference/javascript_interface/suspending/suspending,null
 webassembly/reference/javascript_interface/table,null
 webassembly/reference/javascript_interface/table/get,null
 webassembly/reference/javascript_interface/table/grow,null
