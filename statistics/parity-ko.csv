@@ -122,7 +122,7 @@ glossary/boolean/javascript,2
 glossary/bounding_box,4
 glossary/breadcrumb,4
 glossary/brotli_compression,7
-glossary/browser,8
+glossary/browser,9
 glossary/browsing_context,4
 glossary/buffer,2
 glossary/bun,3
@@ -334,7 +334,7 @@ glossary/identity_provider,null
 glossary/idl,3
 glossary/ietf,1
 glossary/iife,7
-glossary/imap,2
+glossary/imap,3
 glossary/immutable,3
 glossary/indexeddb,1
 glossary/information_architecture,1
@@ -398,7 +398,7 @@ glossary/media/css,6
 glossary/media_query,null
 glossary/metadata,2
 glossary/method,3
-glossary/microsoft_edge,7
+glossary/microsoft_edge,8
 glossary/microsoft_internet_explorer,3
 glossary/middleware,1
 glossary/mime,2
@@ -992,7 +992,7 @@ learn_web_development/extensions/testing/introduction,null
 learn_web_development/extensions/testing/testing_strategies,null
 learn_web_development/extensions/testing/your_own_automation_environment,null
 learn_web_development/getting_started,2
-learn_web_development/getting_started/environment_setup,3
+learn_web_development/getting_started/environment_setup,4
 learn_web_development/getting_started/environment_setup/browsing_the_web,null
 learn_web_development/getting_started/environment_setup/code_editors,null
 learn_web_development/getting_started/environment_setup/command_line,null
@@ -10810,7 +10810,7 @@ web/css/reference/properties/contain-intrinsic-inline-size,null
 web/css/reference/properties/contain-intrinsic-size,null
 web/css/reference/properties/contain-intrinsic-width,null
 web/css/reference/properties/container,4
-web/css/reference/properties/container-name,5
+web/css/reference/properties/container-name,6
 web/css/reference/properties/container-type,6
 web/css/reference/properties/content,null
 web/css/reference/properties/content-visibility,8
@@ -10888,7 +10888,7 @@ web/css/reference/properties/font-variation-settings,null
 web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,null
-web/css/reference/properties/gap,5
+web/css/reference/properties/gap,6
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -12183,7 +12183,7 @@ web/javascript/guide/grammar_and_types,null
 web/javascript/guide/indexed_collections,13
 web/javascript/guide/inheritance_and_the_prototype_chain,6
 web/javascript/guide/internationalization,null
-web/javascript/guide/introduction,12
+web/javascript/guide/introduction,13
 web/javascript/guide/iterators_and_generators,null
 web/javascript/guide/keyed_collections,null
 web/javascript/guide/language_overview,6
@@ -12857,7 +12857,7 @@ web/javascript/reference/global_objects/object/valueof,null
 web/javascript/reference/global_objects/object/values,null
 web/javascript/reference/global_objects/parsefloat,null
 web/javascript/reference/global_objects/parseint,null
-web/javascript/reference/global_objects/promise,29
+web/javascript/reference/global_objects/promise,30
 web/javascript/reference/global_objects/promise/all,null
 web/javascript/reference/global_objects/promise/allsettled,null
 web/javascript/reference/global_objects/promise/any,6
@@ -13675,7 +13675,7 @@ web/progressive_web_apps/tutorials/js13kgames/installable_pwas,null
 web/progressive_web_apps/tutorials/js13kgames/loading,null
 web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,null
 web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,null
-web/security,32
+web/security,33
 web/security/attacks,15
 web/security/attacks/clickjacking,5
 web/security/attacks/csrf,null
