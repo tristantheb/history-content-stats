@@ -862,7 +862,7 @@ learn_web_development/core/styling_basics/test_your_skills/selectors,0
 learn_web_development/core/styling_basics/test_your_skills/sizing,0
 learn_web_development/core/styling_basics/test_your_skills/values,0
 learn_web_development/core/styling_basics/values_and_units,0
-learn_web_development/core/styling_basics/what_is_css,0
+learn_web_development/core/styling_basics/what_is_css,1
 learn_web_development/core/text_styling,null
 learn_web_development/core/text_styling/fundamentals,null
 learn_web_development/core/text_styling/styling_links,null
@@ -6891,7 +6891,7 @@ web/api/pointerevent/tilty,null
 web/api/pointerevent/twist,null
 web/api/pointerevent/width,null
 web/api/popover_api,1
-web/api/popover_api/using,3
+web/api/popover_api/using,4
 web/api/popover_api/using_interest_invokers,1
 web/api/popstateevent,null
 web/api/popstateevent/hasuavisualtransition,null
@@ -10888,7 +10888,7 @@ web/css/reference/properties/font-variation-settings,0
 web/css/reference/properties/font-weight,0
 web/css/reference/properties/font-width,0
 web/css/reference/properties/forced-color-adjust,0
-web/css/reference/properties/gap,2
+web/css/reference/properties/gap,3
 web/css/reference/properties/grid,0
 web/css/reference/properties/grid-area,0
 web/css/reference/properties/grid-auto-columns,0
@@ -11538,7 +11538,7 @@ web/css/reference/values/transform-function/translatey,0
 web/css/reference/values/transform-function/translatez,0
 web/css/reference/values/type,0
 web/css/reference/values/unset,0
-web/css/reference/values/url_function,0
+web/css/reference/values/url_function,1
 web/css/reference/values/url_value,0
 web/css/reference/values/var,0
 web/css/reference/webkit_extensions,2
@@ -14274,7 +14274,7 @@ webassembly/reference/exception_handling/try_table/catch,null
 webassembly/reference/exception_handling/try_table/catch_all,null
 webassembly/reference/exception_handling/try_table/catch_all_ref,null
 webassembly/reference/exception_handling/try_table/catch_ref,null
-webassembly/reference/javascript_interface,1
+webassembly/reference/javascript_interface,2
 webassembly/reference/javascript_interface/compile_static,3
 webassembly/reference/javascript_interface/compileerror,null
 webassembly/reference/javascript_interface/compileerror/compileerror,null
@@ -14305,8 +14305,13 @@ webassembly/reference/javascript_interface/module/customsections_static,2
 webassembly/reference/javascript_interface/module/exports_static,3
 webassembly/reference/javascript_interface/module/imports_static,3
 webassembly/reference/javascript_interface/module/module,null
+webassembly/reference/javascript_interface/promising_static,null
 webassembly/reference/javascript_interface/runtimeerror,null
 webassembly/reference/javascript_interface/runtimeerror/runtimeerror,null
+webassembly/reference/javascript_interface/suspenderror,null
+webassembly/reference/javascript_interface/suspenderror/suspenderror,null
+webassembly/reference/javascript_interface/suspending,null
+webassembly/reference/javascript_interface/suspending/suspending,null
 webassembly/reference/javascript_interface/table,0
 webassembly/reference/javascript_interface/table/get,0
 webassembly/reference/javascript_interface/table/grow,0

@@ -775,7 +775,7 @@ learn_web_development/core/scripting/debugging_javascript,18
 learn_web_development/core/scripting/dom_scripting,14
 learn_web_development/core/scripting/event_bubbling,null
 learn_web_development/core/scripting/events,null
-learn_web_development/core/scripting/functions,16
+learn_web_development/core/scripting/functions,17
 learn_web_development/core/scripting/house_data_ui,null
 learn_web_development/core/scripting/image_gallery,null
 learn_web_development/core/scripting/json,null
@@ -862,7 +862,7 @@ learn_web_development/core/styling_basics/test_your_skills/selectors,13
 learn_web_development/core/styling_basics/test_your_skills/sizing,null
 learn_web_development/core/styling_basics/test_your_skills/values,null
 learn_web_development/core/styling_basics/values_and_units,16
-learn_web_development/core/styling_basics/what_is_css,5
+learn_web_development/core/styling_basics/what_is_css,6
 learn_web_development/core/text_styling,null
 learn_web_development/core/text_styling/fundamentals,null
 learn_web_development/core/text_styling/styling_links,6
@@ -10888,7 +10888,7 @@ web/css/reference/properties/font-variation-settings,3
 web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,3
-web/css/reference/properties/gap,6
+web/css/reference/properties/gap,7
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -11538,7 +11538,7 @@ web/css/reference/values/transform-function/translatey,null
 web/css/reference/values/transform-function/translatez,null
 web/css/reference/values/type,null
 web/css/reference/values/unset,null
-web/css/reference/values/url_function,5
+web/css/reference/values/url_function,7
 web/css/reference/values/url_value,4
 web/css/reference/values/var,null
 web/css/reference/webkit_extensions,null
@@ -14274,10 +14274,10 @@ webassembly/reference/exception_handling/try_table/catch,null
 webassembly/reference/exception_handling/try_table/catch_all,null
 webassembly/reference/exception_handling/try_table/catch_all_ref,null
 webassembly/reference/exception_handling/try_table/catch_ref,null
-webassembly/reference/javascript_interface,1
+webassembly/reference/javascript_interface,2
 webassembly/reference/javascript_interface/compile_static,0
-webassembly/reference/javascript_interface/compileerror,0
-webassembly/reference/javascript_interface/compileerror/compileerror,0
+webassembly/reference/javascript_interface/compileerror,1
+webassembly/reference/javascript_interface/compileerror/compileerror,1
 webassembly/reference/javascript_interface/compilestreaming_static,0
 webassembly/reference/javascript_interface/exception,-1
 webassembly/reference/javascript_interface/exception/exception,4
@@ -14294,8 +14294,8 @@ webassembly/reference/javascript_interface/instance/instance,0
 webassembly/reference/javascript_interface/instantiate_static,1
 webassembly/reference/javascript_interface/instantiatestreaming_static,0
 webassembly/reference/javascript_interface/jstag_static,null
-webassembly/reference/javascript_interface/linkerror,0
-webassembly/reference/javascript_interface/linkerror/linkerror,0
+webassembly/reference/javascript_interface/linkerror,1
+webassembly/reference/javascript_interface/linkerror/linkerror,1
 webassembly/reference/javascript_interface/memory,null
 webassembly/reference/javascript_interface/memory/buffer,null
 webassembly/reference/javascript_interface/memory/grow,null
@@ -14305,8 +14305,13 @@ webassembly/reference/javascript_interface/module/customsections_static,null
 webassembly/reference/javascript_interface/module/exports_static,null
 webassembly/reference/javascript_interface/module/imports_static,null
 webassembly/reference/javascript_interface/module/module,null
+webassembly/reference/javascript_interface/promising_static,null
 webassembly/reference/javascript_interface/runtimeerror,null
 webassembly/reference/javascript_interface/runtimeerror/runtimeerror,null
+webassembly/reference/javascript_interface/suspenderror,null
+webassembly/reference/javascript_interface/suspenderror/suspenderror,null
+webassembly/reference/javascript_interface/suspending,null
+webassembly/reference/javascript_interface/suspending/suspending,null
 webassembly/reference/javascript_interface/table,0
 webassembly/reference/javascript_interface/table/get,null
 webassembly/reference/javascript_interface/table/grow,null
