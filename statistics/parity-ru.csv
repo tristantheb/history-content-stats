@@ -963,7 +963,7 @@ learn_web_development/extensions/server-side/express_nodejs/displaying_data/book
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/bookinstance_list_page,null
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/date_formatting_using_moment,null
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/genre_detail_page,null
-learn_web_development/extensions/server-side/express_nodejs/displaying_data/home_page,5
+learn_web_development/extensions/server-side/express_nodejs/displaying_data/home_page,6
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/locallibrary_base_template,null
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/template_primer,null
 learn_web_development/extensions/server-side/express_nodejs/forms,null
@@ -9830,7 +9830,7 @@ web/api/window/screenx,null
 web/api/window/screeny,null
 web/api/window/scroll,null
 web/api/window/scrollbars,null
-web/api/window/scrollby,3
+web/api/window/scrollby,4
 web/api/window/scrollbylines,null
 web/api/window/scrollbypages,null
 web/api/window/scrollmaxx,null
@@ -13675,7 +13675,7 @@ web/progressive_web_apps/tutorials/js13kgames/installable_pwas,null
 web/progressive_web_apps/tutorials/js13kgames/loading,null
 web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,null
 web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,null
-web/security,12
+web/security,13
 web/security/attacks,null
 web/security/attacks/clickjacking,null
 web/security/attacks/csrf,null

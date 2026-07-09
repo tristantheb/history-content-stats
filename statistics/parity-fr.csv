@@ -122,7 +122,7 @@ glossary/boolean/javascript,0
 glossary/bounding_box,0
 glossary/breadcrumb,0
 glossary/brotli_compression,0
-glossary/browser,0
+glossary/browser,1
 glossary/browsing_context,0
 glossary/buffer,0
 glossary/bun,0
@@ -334,7 +334,7 @@ glossary/identity_provider,0
 glossary/idl,0
 glossary/ietf,0
 glossary/iife,0
-glossary/imap,0
+glossary/imap,1
 glossary/immutable,0
 glossary/indexeddb,0
 glossary/information_architecture,0
@@ -398,7 +398,7 @@ glossary/media/css,0
 glossary/media_query,0
 glossary/metadata,0
 glossary/method,0
-glossary/microsoft_edge,0
+glossary/microsoft_edge,1
 glossary/microsoft_internet_explorer,0
 glossary/middleware,0
 glossary/mime,0
@@ -992,12 +992,12 @@ learn_web_development/extensions/testing/introduction,null
 learn_web_development/extensions/testing/testing_strategies,null
 learn_web_development/extensions/testing/your_own_automation_environment,null
 learn_web_development/getting_started,0
-learn_web_development/getting_started/environment_setup,0
+learn_web_development/getting_started/environment_setup,1
 learn_web_development/getting_started/environment_setup/browsing_the_web,0
 learn_web_development/getting_started/environment_setup/code_editors,0
 learn_web_development/getting_started/environment_setup/command_line,0
 learn_web_development/getting_started/environment_setup/dealing_with_files,0
-learn_web_development/getting_started/environment_setup/installing_software,0
+learn_web_development/getting_started/environment_setup/installing_software,1
 learn_web_development/getting_started/soft_skills,0
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,0
 learn_web_development/getting_started/soft_skills/finding_a_job,0
@@ -9628,7 +9628,7 @@ web/api/websocket/readystate,0
 web/api/websocket/send,0
 web/api/websocket/url,0
 web/api/websocket/websocket,2
-web/api/websockets_api,1
+web/api/websockets_api,2
 web/api/websockets_api/using_websocketstream,null
 web/api/websockets_api/writing_a_websocket_server_in_java,null
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,null
@@ -10357,7 +10357,7 @@ web/css/guides/conditional_rules,0
 web/css/guides/conditional_rules/container_scroll-state_queries,0
 web/css/guides/conditional_rules/using_feature_queries,0
 web/css/guides/containment,0
-web/css/guides/containment/container_queries,0
+web/css/guides/containment/container_queries,1
 web/css/guides/containment/container_size_and_style_queries,0
 web/css/guides/containment/using,0
 web/css/guides/counter_styles,0
@@ -10810,7 +10810,7 @@ web/css/reference/properties/contain-intrinsic-inline-size,0
 web/css/reference/properties/contain-intrinsic-size,0
 web/css/reference/properties/contain-intrinsic-width,0
 web/css/reference/properties/container,0
-web/css/reference/properties/container-name,0
+web/css/reference/properties/container-name,1
 web/css/reference/properties/container-type,0
 web/css/reference/properties/content,0
 web/css/reference/properties/content-visibility,0
@@ -10839,7 +10839,7 @@ web/css/reference/properties/cx,0
 web/css/reference/properties/cy,0
 web/css/reference/properties/d,0
 web/css/reference/properties/direction,0
-web/css/reference/properties/display,0
+web/css/reference/properties/display,1
 web/css/reference/properties/dominant-baseline,0
 web/css/reference/properties/dynamic-range-limit,0
 web/css/reference/properties/empty-cells,0
@@ -10858,7 +10858,7 @@ web/css/reference/properties/flex-wrap,0
 web/css/reference/properties/float,0
 web/css/reference/properties/flood-color,0
 web/css/reference/properties/flood-opacity,0
-web/css/reference/properties/font,1
+web/css/reference/properties/font,2
 web/css/reference/properties/font-family,0
 web/css/reference/properties/font-feature-settings,0
 web/css/reference/properties/font-kerning,0
@@ -10888,7 +10888,7 @@ web/css/reference/properties/font-variation-settings,0
 web/css/reference/properties/font-weight,0
 web/css/reference/properties/font-width,0
 web/css/reference/properties/forced-color-adjust,0
-web/css/reference/properties/gap,1
+web/css/reference/properties/gap,2
 web/css/reference/properties/grid,0
 web/css/reference/properties/grid-area,0
 web/css/reference/properties/grid-auto-columns,0
@@ -11217,7 +11217,7 @@ web/css/reference/selectors/_colon_default,0
 web/css/reference/selectors/_colon_defined,0
 web/css/reference/selectors/_colon_dir,0
 web/css/reference/selectors/_colon_disabled,0
-web/css/reference/selectors/_colon_empty,0
+web/css/reference/selectors/_colon_empty,1
 web/css/reference/selectors/_colon_enabled,0
 web/css/reference/selectors/_colon_first,0
 web/css/reference/selectors/_colon_first-child,0
@@ -11696,7 +11696,7 @@ web/html/reference/elements/meta/name,0
 web/html/reference/elements/meta/name/color-scheme,0
 web/html/reference/elements/meta/name/referrer,0
 web/html/reference/elements/meta/name/robots,0
-web/html/reference/elements/meta/name/text-scale,0
+web/html/reference/elements/meta/name/text-scale,1
 web/html/reference/elements/meta/name/theme-color,0
 web/html/reference/elements/meta/name/viewport,0
 web/html/reference/elements/meter,0
@@ -12183,7 +12183,7 @@ web/javascript/guide/grammar_and_types,null
 web/javascript/guide/indexed_collections,null
 web/javascript/guide/inheritance_and_the_prototype_chain,null
 web/javascript/guide/internationalization,null
-web/javascript/guide/introduction,0
+web/javascript/guide/introduction,1
 web/javascript/guide/iterators_and_generators,null
 web/javascript/guide/keyed_collections,null
 web/javascript/guide/language_overview,null
@@ -13401,7 +13401,7 @@ web/javascript/reference/operators/greater_than_or_equal,null
 web/javascript/reference/operators/grouping,null
 web/javascript/reference/operators/import,28
 web/javascript/reference/operators/import.meta,null
-web/javascript/reference/operators/import.meta/resolve,11
+web/javascript/reference/operators/import.meta/resolve,12
 web/javascript/reference/operators/in,null
 web/javascript/reference/operators/increment,null
 web/javascript/reference/operators/inequality,null
@@ -13734,7 +13734,7 @@ web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,1
 web/svg/guides/svg_in_html,0
 web/svg/reference,0
-web/svg/reference/attribute,2
+web/svg/reference/attribute,3
 web/svg/reference/attribute/accumulate,null
 web/svg/reference/attribute/additive,null
 web/svg/reference/attribute/alignment-baseline,null

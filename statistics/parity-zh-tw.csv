@@ -997,7 +997,7 @@ learn_web_development/getting_started/environment_setup/browsing_the_web,null
 learn_web_development/getting_started/environment_setup/code_editors,null
 learn_web_development/getting_started/environment_setup/command_line,null
 learn_web_development/getting_started/environment_setup/dealing_with_files,2
-learn_web_development/getting_started/environment_setup/installing_software,6
+learn_web_development/getting_started/environment_setup/installing_software,7
 learn_web_development/getting_started/soft_skills,null
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,null
 learn_web_development/getting_started/soft_skills/finding_a_job,null
@@ -9628,7 +9628,7 @@ web/api/websocket/readystate,null
 web/api/websocket/send,null
 web/api/websocket/url,null
 web/api/websocket/websocket,null
-web/api/websockets_api,1
+web/api/websockets_api,2
 web/api/websockets_api/using_websocketstream,null
 web/api/websockets_api/writing_a_websocket_server_in_java,null
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,null
