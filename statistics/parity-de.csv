@@ -4153,7 +4153,7 @@ web/api/eventsource/url,0
 web/api/eventsource/withcredentials,0
 web/api/eventtarget,0
 web/api/eventtarget/addeventlistener,0
-web/api/eventtarget/dispatchevent,0
+web/api/eventtarget/dispatchevent,1
 web/api/eventtarget/eventtarget,0
 web/api/eventtarget/removeeventlistener,0
 web/api/ext_blend_minmax,0
@@ -13665,7 +13665,7 @@ web/progressive_web_apps/reference,0
 web/progressive_web_apps/tutorials,0
 web/progressive_web_apps/tutorials/cycletracker,0
 web/progressive_web_apps/tutorials/cycletracker/html_and_css,0
-web/progressive_web_apps/tutorials/cycletracker/javascript_functionality,1
+web/progressive_web_apps/tutorials/cycletracker/javascript_functionality,0
 web/progressive_web_apps/tutorials/cycletracker/manifest_file,0
 web/progressive_web_apps/tutorials/cycletracker/secure_connection,0
 web/progressive_web_apps/tutorials/cycletracker/service_workers,0

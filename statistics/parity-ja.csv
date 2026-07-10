@@ -4153,7 +4153,7 @@ web/api/eventsource/url,0
 web/api/eventsource/withcredentials,0
 web/api/eventtarget,2
 web/api/eventtarget/addeventlistener,10
-web/api/eventtarget/dispatchevent,3
+web/api/eventtarget/dispatchevent,4
 web/api/eventtarget/eventtarget,1
 web/api/eventtarget/removeeventlistener,3
 web/api/ext_blend_minmax,null
