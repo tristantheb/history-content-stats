@@ -4153,7 +4153,7 @@ web/api/eventsource/url,a166ba48ceb8bccb37c67a0a8856b0e5b12e0135,Web APIs
 web/api/eventsource/withcredentials,a166ba48ceb8bccb37c67a0a8856b0e5b12e0135,Web APIs
 web/api/eventtarget,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a,Web APIs
 web/api/eventtarget/addeventlistener,1ddd95504b4507beeda0f08bd772eb167922b86a,Web APIs
-web/api/eventtarget/dispatchevent,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a,Web APIs
+web/api/eventtarget/dispatchevent,c615fed2b0c23b4c107d854485ced0d4e1e1e092,Web APIs
 web/api/eventtarget/eventtarget,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c,Web APIs
 web/api/eventtarget/removeeventlistener,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
 web/api/ext_blend_minmax,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c,Web APIs
