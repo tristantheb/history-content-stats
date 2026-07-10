@@ -747,7 +747,7 @@ learn_web_development/core/frameworks_libraries/react_components,0
 learn_web_development/core/frameworks_libraries/react_getting_started,0
 learn_web_development/core/frameworks_libraries/react_interactivity_events_state,0
 learn_web_development/core/frameworks_libraries/react_interactivity_filtering_conditional_rendering,0
-learn_web_development/core/frameworks_libraries/react_resources,1
+learn_web_development/core/frameworks_libraries/react_resources,0
 learn_web_development/core/frameworks_libraries/react_todo_list_beginning,0
 learn_web_development/core/frameworks_libraries/svelte_components,0
 learn_web_development/core/frameworks_libraries/svelte_deployment_next,0
@@ -776,7 +776,7 @@ learn_web_development/core/scripting/dom_scripting,0
 learn_web_development/core/scripting/event_bubbling,0
 learn_web_development/core/scripting/events,0
 learn_web_development/core/scripting/functions,0
-learn_web_development/core/scripting/house_data_ui,1
+learn_web_development/core/scripting/house_data_ui,0
 learn_web_development/core/scripting/image_gallery,0
 learn_web_development/core/scripting/json,0
 learn_web_development/core/scripting/loops,0
@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,1
+mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -2379,7 +2379,7 @@ web/api/attribution_reporting_api/generating_reports,0
 web/api/attribution_reporting_api/registering_sources,0
 web/api/attribution_reporting_api/registering_triggers,0
 web/api/audio_output_devices_api,0
-web/api/audio_session_api,1
+web/api/audio_session_api,0
 web/api/audiobuffer,0
 web/api/audiobuffer/audiobuffer,0
 web/api/audiobuffer/copyfromchannel,0
@@ -2485,7 +2485,7 @@ web/api/audioparam/setvaluecurveattime,0
 web/api/audioparam/value,0
 web/api/audioparamdescriptor,0
 web/api/audioparammap,0
-web/api/audioplaybackstats,1
+web/api/audioplaybackstats,0
 web/api/audioplaybackstats/averagelatency,0
 web/api/audioplaybackstats/maximumlatency,0
 web/api/audioplaybackstats/minimumlatency,0
@@ -4201,7 +4201,7 @@ web/api/featurepolicy/features,0
 web/api/featurepolicy/getallowlistforfeature,0
 web/api/fedcm_api,0
 web/api/fedcm_api/idp_integration,0
-web/api/fedcm_api/rp_sign-in,1
+web/api/fedcm_api/rp_sign-in,0
 web/api/federatedcredential,0
 web/api/federatedcredential/federatedcredential,0
 web/api/federatedcredential/protocol,0
@@ -6891,7 +6891,7 @@ web/api/pointerevent/tilty,0
 web/api/pointerevent/twist,0
 web/api/pointerevent/width,0
 web/api/popover_api,0
-web/api/popover_api/using,1
+web/api/popover_api/using,0
 web/api/popover_api/using_interest_invokers,0
 web/api/popstateevent,0
 web/api/popstateevent/hasuavisualtransition,0
@@ -8147,7 +8147,7 @@ web/api/svganimatedboolean,0
 web/api/svganimatedboolean/animval,0
 web/api/svganimatedboolean/baseval,0
 web/api/svganimatedenumeration,0
-web/api/svganimatedenumeration/animval,1
+web/api/svganimatedenumeration/animval,0
 web/api/svganimatedenumeration/baseval,0
 web/api/svganimatedinteger,0
 web/api/svganimatedinteger/animval,0
@@ -8650,7 +8650,7 @@ web/api/svgtextcontentelement/getsubstringlength,0
 web/api/svgtextcontentelement/lengthadjust,0
 web/api/svgtextcontentelement/textlength,0
 web/api/svgtextelement,0
-web/api/svgtextpathelement,1
+web/api/svgtextpathelement,0
 web/api/svgtextpathelement/href,0
 web/api/svgtextpathelement/method,0
 web/api/svgtextpathelement/side,0
@@ -10470,7 +10470,7 @@ web/css/guides/round_display,0
 web/css/guides/ruby_layout,0
 web/css/guides/scoping,0
 web/css/guides/scroll-driven_animations,0
-web/css/guides/scroll-driven_animations/timeline_insets,1
+web/css/guides/scroll-driven_animations/timeline_insets,0
 web/css/guides/scroll-driven_animations/timeline_range_names,0
 web/css/guides/scroll-driven_animations/timelines,0
 web/css/guides/scroll_anchoring,0
@@ -10797,7 +10797,7 @@ web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,0
 web/css/reference/properties/column-rule-color,0
 web/css/reference/properties/column-rule-style,0
-web/css/reference/properties/column-rule-visibility-items,1
+web/css/reference/properties/column-rule-visibility-items,0
 web/css/reference/properties/column-rule-width,0
 web/css/reference/properties/column-span,0
 web/css/reference/properties/column-width,0
@@ -10888,7 +10888,7 @@ web/css/reference/properties/font-variation-settings,0
 web/css/reference/properties/font-weight,0
 web/css/reference/properties/font-width,0
 web/css/reference/properties/forced-color-adjust,0
-web/css/reference/properties/gap,1
+web/css/reference/properties/gap,0
 web/css/reference/properties/grid,0
 web/css/reference/properties/grid-area,0
 web/css/reference/properties/grid-auto-columns,0
@@ -11059,7 +11059,7 @@ web/css/reference/properties/row-rule-visibility-items,0
 web/css/reference/properties/ruby-align,0
 web/css/reference/properties/ruby-overhang,0
 web/css/reference/properties/ruby-position,0
-web/css/reference/properties/rule-visibility-items,1
+web/css/reference/properties/rule-visibility-items,0
 web/css/reference/properties/rx,0
 web/css/reference/properties/ry,0
 web/css/reference/properties/scale,0
