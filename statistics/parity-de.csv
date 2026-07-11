@@ -8650,7 +8650,7 @@ web/api/svgtextcontentelement/getsubstringlength,0
 web/api/svgtextcontentelement/lengthadjust,0
 web/api/svgtextcontentelement/textlength,0
 web/api/svgtextelement,0
-web/api/svgtextpathelement,1
+web/api/svgtextpathelement,0
 web/api/svgtextpathelement/href,0
 web/api/svgtextpathelement/method,0
 web/api/svgtextpathelement/side,0
@@ -9659,7 +9659,7 @@ web/api/webtransport_api,0
 web/api/webtransportbidirectionalstream,0
 web/api/webtransportbidirectionalstream/readable,0
 web/api/webtransportbidirectionalstream/writable,0
-web/api/webtransportdatagramduplexstream,1
+web/api/webtransportdatagramduplexstream,0
 web/api/webtransportdatagramduplexstream/createwritable,0
 web/api/webtransportdatagramduplexstream/incominghighwatermark,0
 web/api/webtransportdatagramduplexstream/incomingmaxage,0
@@ -13989,7 +13989,7 @@ web/svg/reference/element/polygon,0
 web/svg/reference/element/polyline,0
 web/svg/reference/element/radialgradient,0
 web/svg/reference/element/rect,0
-web/svg/reference/element/script,1
+web/svg/reference/element/script,0
 web/svg/reference/element/set,0
 web/svg/reference/element/stop,0
 web/svg/reference/element/style,0
