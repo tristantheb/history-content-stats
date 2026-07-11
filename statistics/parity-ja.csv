@@ -8650,7 +8650,7 @@ web/api/svgtextcontentelement/getsubstringlength,2
 web/api/svgtextcontentelement/lengthadjust,0
 web/api/svgtextcontentelement/textlength,0
 web/api/svgtextelement,0
-web/api/svgtextpathelement,3
+web/api/svgtextpathelement,4
 web/api/svgtextpathelement/href,0
 web/api/svgtextpathelement/method,1
 web/api/svgtextpathelement/side,null
@@ -13989,7 +13989,7 @@ web/svg/reference/element/polygon,0
 web/svg/reference/element/polyline,0
 web/svg/reference/element/radialgradient,1
 web/svg/reference/element/rect,0
-web/svg/reference/element/script,2
+web/svg/reference/element/script,3
 web/svg/reference/element/set,0
 web/svg/reference/element/stop,1
 web/svg/reference/element/style,2
