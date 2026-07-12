@@ -11919,7 +11919,7 @@ web/http/reference/headers/cookie,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|
 web/http/reference/headers/critical-ch,513146a616213fee548fdcf72dc1359030eb3395,HTTP|Headers
 web/http/reference/headers/cross-origin-embedder-policy,2d0aa21573c6ceb33aeadf94ce6cd84588b74123,HTTP|Headers
 web/http/reference/headers/cross-origin-embedder-policy-report-only,2d0aa21573c6ceb33aeadf94ce6cd84588b74123,HTTP|Headers
-web/http/reference/headers/cross-origin-opener-policy,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
+web/http/reference/headers/cross-origin-opener-policy,d0b1c8fc4aa83c8c584a6593b0410adef7b9d4c3,HTTP|Headers
 web/http/reference/headers/cross-origin-resource-policy,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/date,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/device-memory,b304d8d3c870fba028df550a51f5b4258ab3ac08,HTTP|Headers

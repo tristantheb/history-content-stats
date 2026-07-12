@@ -11919,7 +11919,7 @@ web/http/reference/headers/cookie,0
 web/http/reference/headers/critical-ch,null
 web/http/reference/headers/cross-origin-embedder-policy,1
 web/http/reference/headers/cross-origin-embedder-policy-report-only,null
-web/http/reference/headers/cross-origin-opener-policy,3
+web/http/reference/headers/cross-origin-opener-policy,4
 web/http/reference/headers/cross-origin-resource-policy,null
 web/http/reference/headers/date,0
 web/http/reference/headers/device-memory,null
