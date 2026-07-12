@@ -12796,7 +12796,7 @@ web/javascript/reference/global_objects/math/tan,0
 web/javascript/reference/global_objects/math/tanh,0
 web/javascript/reference/global_objects/math/trunc,0
 web/javascript/reference/global_objects/nan,0
-web/javascript/reference/global_objects/number,0
+web/javascript/reference/global_objects/number,1
 web/javascript/reference/global_objects/number/epsilon,0
 web/javascript/reference/global_objects/number/isfinite,0
 web/javascript/reference/global_objects/number/isinteger,0
@@ -13448,7 +13448,7 @@ web/javascript/reference/operators/yield_star_,0
 web/javascript/reference/regular_expressions,0
 web/javascript/reference/regular_expressions/backreference,0
 web/javascript/reference/regular_expressions/capturing_group,0
-web/javascript/reference/regular_expressions/character_class,0
+web/javascript/reference/regular_expressions/character_class,1
 web/javascript/reference/regular_expressions/character_class_escape,0
 web/javascript/reference/regular_expressions/character_escape,0
 web/javascript/reference/regular_expressions/disjunction,0
