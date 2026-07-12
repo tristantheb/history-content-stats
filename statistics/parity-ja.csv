@@ -12386,10 +12386,10 @@ web/javascript/reference/global_objects/array/join,0
 web/javascript/reference/global_objects/array/keys,1
 web/javascript/reference/global_objects/array/lastindexof,0
 web/javascript/reference/global_objects/array/length,1
-web/javascript/reference/global_objects/array/map,2
+web/javascript/reference/global_objects/array/map,3
 web/javascript/reference/global_objects/array/of,0
 web/javascript/reference/global_objects/array/pop,0
-web/javascript/reference/global_objects/array/push,0
+web/javascript/reference/global_objects/array/push,1
 web/javascript/reference/global_objects/array/reduce,1
 web/javascript/reference/global_objects/array/reduceright,1
 web/javascript/reference/global_objects/array/reverse,1
@@ -12858,13 +12858,13 @@ web/javascript/reference/global_objects/object/values,1
 web/javascript/reference/global_objects/parsefloat,0
 web/javascript/reference/global_objects/parseint,0
 web/javascript/reference/global_objects/promise,4
-web/javascript/reference/global_objects/promise/all,1
+web/javascript/reference/global_objects/promise/all,2
 web/javascript/reference/global_objects/promise/allsettled,0
-web/javascript/reference/global_objects/promise/any,0
+web/javascript/reference/global_objects/promise/any,1
 web/javascript/reference/global_objects/promise/catch,1
 web/javascript/reference/global_objects/promise/finally,1
 web/javascript/reference/global_objects/promise/promise,0
-web/javascript/reference/global_objects/promise/race,0
+web/javascript/reference/global_objects/promise/race,1
 web/javascript/reference/global_objects/promise/reject,0
 web/javascript/reference/global_objects/promise/resolve,0
 web/javascript/reference/global_objects/promise/symbol.species,0
@@ -13101,7 +13101,7 @@ web/javascript/reference/global_objects/temporal/now/plaindatetimeiso,null
 web/javascript/reference/global_objects/temporal/now/plaintimeiso,null
 web/javascript/reference/global_objects/temporal/now/timezoneid,null
 web/javascript/reference/global_objects/temporal/now/zoneddatetimeiso,null
-web/javascript/reference/global_objects/temporal/plaindate,0
+web/javascript/reference/global_objects/temporal/plaindate,1
 web/javascript/reference/global_objects/temporal/plaindate/add,null
 web/javascript/reference/global_objects/temporal/plaindate/calendarid,null
 web/javascript/reference/global_objects/temporal/plaindate/compare,null
@@ -13494,7 +13494,7 @@ web/javascript/reference/statements/switch,0
 web/javascript/reference/statements/throw,0
 web/javascript/reference/statements/try...catch,1
 web/javascript/reference/statements/using,0
-web/javascript/reference/statements/var,0
+web/javascript/reference/statements/var,1
 web/javascript/reference/statements/while,0
 web/javascript/reference/statements/with,0
 web/javascript/reference/strict_mode,14

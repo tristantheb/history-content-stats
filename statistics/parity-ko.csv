@@ -12386,10 +12386,10 @@ web/javascript/reference/global_objects/array/join,6
 web/javascript/reference/global_objects/array/keys,6
 web/javascript/reference/global_objects/array/lastindexof,7
 web/javascript/reference/global_objects/array/length,6
-web/javascript/reference/global_objects/array/map,8
+web/javascript/reference/global_objects/array/map,9
 web/javascript/reference/global_objects/array/of,4
 web/javascript/reference/global_objects/array/pop,4
-web/javascript/reference/global_objects/array/push,5
+web/javascript/reference/global_objects/array/push,6
 web/javascript/reference/global_objects/array/reduce,null
 web/javascript/reference/global_objects/array/reduceright,null
 web/javascript/reference/global_objects/array/reverse,null
@@ -12860,7 +12860,7 @@ web/javascript/reference/global_objects/parseint,null
 web/javascript/reference/global_objects/promise,30
 web/javascript/reference/global_objects/promise/all,null
 web/javascript/reference/global_objects/promise/allsettled,null
-web/javascript/reference/global_objects/promise/any,6
+web/javascript/reference/global_objects/promise/any,7
 web/javascript/reference/global_objects/promise/catch,6
 web/javascript/reference/global_objects/promise/finally,11
 web/javascript/reference/global_objects/promise/promise,null
