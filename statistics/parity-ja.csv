@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,2
+mozilla/firefox/experimental_features,3
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -7244,6 +7244,7 @@ web/api/rtcdatachannelstats/timestamp,null
 web/api/rtcdatachannelstats/type,null
 web/api/rtcdtlstransport,null
 web/api/rtcdtlstransport/error_event,null
+web/api/rtcdtlstransport/getremotecertificates,null
 web/api/rtcdtlstransport/icetransport,null
 web/api/rtcdtlstransport/state,null
 web/api/rtcdtlstransport/statechange_event,null
@@ -9593,7 +9594,7 @@ web/api/webgpu_api,16
 web/api/webhid_api,5
 web/api/webkitpoint,null
 web/api/webotp_api,0
-web/api/webrtc_api,3
+web/api/webrtc_api,4
 web/api/webrtc_api/build_a_phone_with_peerjs,9
 web/api/webrtc_api/build_a_phone_with_peerjs/build_the_server,null
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers,null
@@ -10312,7 +10313,7 @@ web/css/guides,2
 web/css/guides/anchor_positioning,2
 web/css/guides/anchor_positioning/anchored_container_queries,null
 web/css/guides/anchor_positioning/try_options_hiding,1
-web/css/guides/anchor_positioning/using,6
+web/css/guides/anchor_positioning/using,7
 web/css/guides/animations,3
 web/css/guides/animations/animatable_properties,0
 web/css/guides/animations/using,0

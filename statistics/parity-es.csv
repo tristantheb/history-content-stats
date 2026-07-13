@@ -7244,6 +7244,7 @@ web/api/rtcdatachannelstats/timestamp,null
 web/api/rtcdatachannelstats/type,null
 web/api/rtcdtlstransport,null
 web/api/rtcdtlstransport/error_event,null
+web/api/rtcdtlstransport/getremotecertificates,null
 web/api/rtcdtlstransport/icetransport,null
 web/api/rtcdtlstransport/state,null
 web/api/rtcdtlstransport/statechange_event,null

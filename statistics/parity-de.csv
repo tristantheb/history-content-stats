@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,0
+mozilla/firefox/releases/153,1
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -7242,8 +7242,9 @@ web/api/rtcdatachannelstats/protocol,0
 web/api/rtcdatachannelstats/state,0
 web/api/rtcdatachannelstats/timestamp,0
 web/api/rtcdatachannelstats/type,0
-web/api/rtcdtlstransport,0
+web/api/rtcdtlstransport,1
 web/api/rtcdtlstransport/error_event,0
+web/api/rtcdtlstransport/getremotecertificates,null
 web/api/rtcdtlstransport/icetransport,0
 web/api/rtcdtlstransport/state,0
 web/api/rtcdtlstransport/statechange_event,0
@@ -9593,7 +9594,7 @@ web/api/webgpu_api,0
 web/api/webhid_api,0
 web/api/webkitpoint,0
 web/api/webotp_api,0
-web/api/webrtc_api,0
+web/api/webrtc_api,1
 web/api/webrtc_api/build_a_phone_with_peerjs,0
 web/api/webrtc_api/build_a_phone_with_peerjs/build_the_server,0
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers,0
@@ -10312,7 +10313,7 @@ web/css/guides,0
 web/css/guides/anchor_positioning,0
 web/css/guides/anchor_positioning/anchored_container_queries,0
 web/css/guides/anchor_positioning/try_options_hiding,0
-web/css/guides/anchor_positioning/using,0
+web/css/guides/anchor_positioning/using,1
 web/css/guides/animations,0
 web/css/guides/animations/animatable_properties,0
 web/css/guides/animations/using,0
@@ -11919,7 +11920,7 @@ web/http/reference/headers/cookie,0
 web/http/reference/headers/critical-ch,0
 web/http/reference/headers/cross-origin-embedder-policy,0
 web/http/reference/headers/cross-origin-embedder-policy-report-only,0
-web/http/reference/headers/cross-origin-opener-policy,1
+web/http/reference/headers/cross-origin-opener-policy,0
 web/http/reference/headers/cross-origin-resource-policy,0
 web/http/reference/headers/date,0
 web/http/reference/headers/device-memory,0
@@ -12386,10 +12387,10 @@ web/javascript/reference/global_objects/array/join,0
 web/javascript/reference/global_objects/array/keys,0
 web/javascript/reference/global_objects/array/lastindexof,0
 web/javascript/reference/global_objects/array/length,0
-web/javascript/reference/global_objects/array/map,1
+web/javascript/reference/global_objects/array/map,0
 web/javascript/reference/global_objects/array/of,0
 web/javascript/reference/global_objects/array/pop,0
-web/javascript/reference/global_objects/array/push,1
+web/javascript/reference/global_objects/array/push,0
 web/javascript/reference/global_objects/array/reduce,0
 web/javascript/reference/global_objects/array/reduceright,0
 web/javascript/reference/global_objects/array/reverse,0
@@ -12858,13 +12859,13 @@ web/javascript/reference/global_objects/object/values,0
 web/javascript/reference/global_objects/parsefloat,0
 web/javascript/reference/global_objects/parseint,0
 web/javascript/reference/global_objects/promise,0
-web/javascript/reference/global_objects/promise/all,1
+web/javascript/reference/global_objects/promise/all,0
 web/javascript/reference/global_objects/promise/allsettled,0
-web/javascript/reference/global_objects/promise/any,1
+web/javascript/reference/global_objects/promise/any,0
 web/javascript/reference/global_objects/promise/catch,0
 web/javascript/reference/global_objects/promise/finally,0
 web/javascript/reference/global_objects/promise/promise,0
-web/javascript/reference/global_objects/promise/race,1
+web/javascript/reference/global_objects/promise/race,0
 web/javascript/reference/global_objects/promise/reject,0
 web/javascript/reference/global_objects/promise/resolve,0
 web/javascript/reference/global_objects/promise/symbol.species,0
@@ -13101,7 +13102,7 @@ web/javascript/reference/global_objects/temporal/now/plaindatetimeiso,0
 web/javascript/reference/global_objects/temporal/now/plaintimeiso,0
 web/javascript/reference/global_objects/temporal/now/timezoneid,0
 web/javascript/reference/global_objects/temporal/now/zoneddatetimeiso,0
-web/javascript/reference/global_objects/temporal/plaindate,1
+web/javascript/reference/global_objects/temporal/plaindate,0
 web/javascript/reference/global_objects/temporal/plaindate/add,0
 web/javascript/reference/global_objects/temporal/plaindate/calendarid,0
 web/javascript/reference/global_objects/temporal/plaindate/compare,0
@@ -13494,7 +13495,7 @@ web/javascript/reference/statements/switch,0
 web/javascript/reference/statements/throw,0
 web/javascript/reference/statements/try...catch,0
 web/javascript/reference/statements/using,0
-web/javascript/reference/statements/var,1
+web/javascript/reference/statements/var,0
 web/javascript/reference/statements/while,0
 web/javascript/reference/statements/with,0
 web/javascript/reference/strict_mode,0
