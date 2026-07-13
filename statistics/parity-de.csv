@@ -4753,7 +4753,7 @@ web/api/html_drag_and_drop_api/drag_operations,0
 web/api/html_drag_and_drop_api/file_drag_and_drop,0
 web/api/html_drag_and_drop_api/kanban_board,0
 web/api/html_sanitizer_api,0
-web/api/html_sanitizer_api/default_sanitizer_configuration,0
+web/api/html_sanitizer_api/default_sanitizer_configuration,1
 web/api/html_sanitizer_api/using_the_html_sanitizer_api,0
 web/api/htmlallcollection,0
 web/api/htmlallcollection/item,0
@@ -7644,7 +7644,7 @@ web/api/sanitizer/allowelement,0
 web/api/sanitizer/get,0
 web/api/sanitizer/removeattribute,0
 web/api/sanitizer/removeelement,0
-web/api/sanitizer/removeunsafe,0
+web/api/sanitizer/removeunsafe,1
 web/api/sanitizer/replaceelementwithchildren,0
 web/api/sanitizer/sanitizer,0
 web/api/sanitizer/setcomments,0
@@ -10441,7 +10441,7 @@ web/css/guides/motion_path,0
 web/css/guides/multicol_layout,0
 web/css/guides/multicol_layout/basic_concepts,0
 web/css/guides/multicol_layout/handling_content_breaks,0
-web/css/guides/multicol_layout/handling_overflow,0
+web/css/guides/multicol_layout/handling_overflow,1
 web/css/guides/multicol_layout/spanning_balancing_columns,0
 web/css/guides/multicol_layout/styling_columns,0
 web/css/guides/multicol_layout/using,0
