@@ -1003,9 +1003,9 @@ learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,9
 learn_web_development/getting_started/soft_skills/finding_a_job,6
 learn_web_development/getting_started/soft_skills/research_and_learning,12
 learn_web_development/getting_started/soft_skills/workflows_and_processes,7
-learn_web_development/getting_started/web_standards,2
+learn_web_development/getting_started/web_standards,0
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,7
-learn_web_development/getting_started/web_standards/how_the_web_works,16
+learn_web_development/getting_started/web_standards/how_the_web_works,0
 learn_web_development/getting_started/web_standards/the_web_standards_model,10
 learn_web_development/getting_started/your_first_website,7
 learn_web_development/getting_started/your_first_website/adding_interactivity,14
@@ -4154,7 +4154,7 @@ web/api/eventsource/withcredentials,0
 web/api/eventtarget,2
 web/api/eventtarget/addeventlistener,10
 web/api/eventtarget/dispatchevent,4
-web/api/eventtarget/eventtarget,1
+web/api/eventtarget/eventtarget,0
 web/api/eventtarget/removeeventlistener,3
 web/api/ext_blend_minmax,null
 web/api/ext_color_buffer_float,null
@@ -10441,7 +10441,7 @@ web/css/guides/motion_path,0
 web/css/guides/multicol_layout,1
 web/css/guides/multicol_layout/basic_concepts,0
 web/css/guides/multicol_layout/handling_content_breaks,0
-web/css/guides/multicol_layout/handling_overflow,1
+web/css/guides/multicol_layout/handling_overflow,2
 web/css/guides/multicol_layout/spanning_balancing_columns,0
 web/css/guides/multicol_layout/styling_columns,0
 web/css/guides/multicol_layout/using,0
