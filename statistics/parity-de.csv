@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,1
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,1
+mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -4753,7 +4753,7 @@ web/api/html_drag_and_drop_api/drag_operations,0
 web/api/html_drag_and_drop_api/file_drag_and_drop,0
 web/api/html_drag_and_drop_api/kanban_board,0
 web/api/html_sanitizer_api,0
-web/api/html_sanitizer_api/default_sanitizer_configuration,1
+web/api/html_sanitizer_api/default_sanitizer_configuration,0
 web/api/html_sanitizer_api/using_the_html_sanitizer_api,0
 web/api/htmlallcollection,0
 web/api/htmlallcollection/item,0
@@ -7242,9 +7242,9 @@ web/api/rtcdatachannelstats/protocol,0
 web/api/rtcdatachannelstats/state,0
 web/api/rtcdatachannelstats/timestamp,0
 web/api/rtcdatachannelstats/type,0
-web/api/rtcdtlstransport,1
+web/api/rtcdtlstransport,0
 web/api/rtcdtlstransport/error_event,0
-web/api/rtcdtlstransport/getremotecertificates,null
+web/api/rtcdtlstransport/getremotecertificates,0
 web/api/rtcdtlstransport/icetransport,0
 web/api/rtcdtlstransport/state,0
 web/api/rtcdtlstransport/statechange_event,0
@@ -7644,7 +7644,7 @@ web/api/sanitizer/allowelement,0
 web/api/sanitizer/get,0
 web/api/sanitizer/removeattribute,0
 web/api/sanitizer/removeelement,0
-web/api/sanitizer/removeunsafe,1
+web/api/sanitizer/removeunsafe,0
 web/api/sanitizer/replaceelementwithchildren,0
 web/api/sanitizer/sanitizer,0
 web/api/sanitizer/setcomments,0
@@ -9594,7 +9594,7 @@ web/api/webgpu_api,0
 web/api/webhid_api,0
 web/api/webkitpoint,0
 web/api/webotp_api,0
-web/api/webrtc_api,1
+web/api/webrtc_api,0
 web/api/webrtc_api/build_a_phone_with_peerjs,0
 web/api/webrtc_api/build_a_phone_with_peerjs/build_the_server,0
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers,0
@@ -10313,7 +10313,7 @@ web/css/guides,0
 web/css/guides/anchor_positioning,0
 web/css/guides/anchor_positioning/anchored_container_queries,0
 web/css/guides/anchor_positioning/try_options_hiding,0
-web/css/guides/anchor_positioning/using,1
+web/css/guides/anchor_positioning/using,0
 web/css/guides/animations,0
 web/css/guides/animations/animatable_properties,0
 web/css/guides/animations/using,0
@@ -10441,7 +10441,7 @@ web/css/guides/motion_path,0
 web/css/guides/multicol_layout,0
 web/css/guides/multicol_layout/basic_concepts,0
 web/css/guides/multicol_layout/handling_content_breaks,0
-web/css/guides/multicol_layout/handling_overflow,1
+web/css/guides/multicol_layout/handling_overflow,0
 web/css/guides/multicol_layout/spanning_balancing_columns,0
 web/css/guides/multicol_layout/styling_columns,0
 web/css/guides/multicol_layout/using,0
