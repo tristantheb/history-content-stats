@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,3
 mozilla/firefox,0
-mozilla/firefox/experimental_features,23
+mozilla/firefox/experimental_features,24
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -7244,6 +7244,7 @@ web/api/rtcdatachannelstats/timestamp,null
 web/api/rtcdatachannelstats/type,null
 web/api/rtcdtlstransport,null
 web/api/rtcdtlstransport/error_event,null
+web/api/rtcdtlstransport/getremotecertificates,null
 web/api/rtcdtlstransport/icetransport,null
 web/api/rtcdtlstransport/state,null
 web/api/rtcdtlstransport/statechange_event,null
@@ -10312,7 +10313,7 @@ web/css/guides,0
 web/css/guides/anchor_positioning,0
 web/css/guides/anchor_positioning/anchored_container_queries,0
 web/css/guides/anchor_positioning/try_options_hiding,0
-web/css/guides/anchor_positioning/using,0
+web/css/guides/anchor_positioning/using,1
 web/css/guides/animations,0
 web/css/guides/animations/animatable_properties,0
 web/css/guides/animations/using,0

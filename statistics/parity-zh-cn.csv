@@ -7244,6 +7244,7 @@ web/api/rtcdatachannelstats/timestamp,0
 web/api/rtcdatachannelstats/type,0
 web/api/rtcdtlstransport,null
 web/api/rtcdtlstransport/error_event,null
+web/api/rtcdtlstransport/getremotecertificates,null
 web/api/rtcdtlstransport/icetransport,0
 web/api/rtcdtlstransport/state,null
 web/api/rtcdtlstransport/statechange_event,null
@@ -9593,7 +9594,7 @@ web/api/webgpu_api,null
 web/api/webhid_api,0
 web/api/webkitpoint,0
 web/api/webotp_api,null
-web/api/webrtc_api,3
+web/api/webrtc_api,4
 web/api/webrtc_api/build_a_phone_with_peerjs,9
 web/api/webrtc_api/build_a_phone_with_peerjs/build_the_server,1
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers,0

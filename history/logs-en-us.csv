@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,1b528f70d00f9569369d0ce803c8c7c7ea79cf65,Mozilla|Firefox
+mozilla/firefox/experimental_features,348c4c91586f188bc3439f2aab767ecd553fc6d3,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Fir
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,97a6738de30dbb1072346dca78f24dca67da9eca,Mozilla|Firefox|Versions
-mozilla/firefox/releases/153,ab37ac6c09a1b6e627a1e73af0b220817c774f51,Mozilla|Firefox|Versions
+mozilla/firefox/releases/153,348c4c91586f188bc3439f2aab767ecd553fc6d3,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -7242,8 +7242,9 @@ web/api/rtcdatachannelstats/protocol,7e6058c754c6d38bc15a16cf8e65f1e31139f05b,We
 web/api/rtcdatachannelstats/state,7e6058c754c6d38bc15a16cf8e65f1e31139f05b,Web APIs
 web/api/rtcdatachannelstats/timestamp,7e6058c754c6d38bc15a16cf8e65f1e31139f05b,Web APIs
 web/api/rtcdatachannelstats/type,7e6058c754c6d38bc15a16cf8e65f1e31139f05b,Web APIs
-web/api/rtcdtlstransport,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/rtcdtlstransport,2dc27362f1f5a228a279f869784597b94a2f8d96,Web APIs
 web/api/rtcdtlstransport/error_event,1d2dd9c951674bf559b9b6d5223704ea3d8d8269,Web APIs
+web/api/rtcdtlstransport/getremotecertificates,2dc27362f1f5a228a279f869784597b94a2f8d96,Web APIs
 web/api/rtcdtlstransport/icetransport,9f18116c362265a3dfb65185728548ec43cd12f4,Web APIs
 web/api/rtcdtlstransport/state,954612667bafd71241a93e8554e8f11afc474ff3,Web APIs
 web/api/rtcdtlstransport/statechange_event,ef185b1e0a720a4b7f5da3745831871248e6a2f1,Web APIs
@@ -9593,7 +9594,7 @@ web/api/webgpu_api,19b8981ede1bc5dad6e0eb7f5f7c2a0ee0c296f1,Web APIs
 web/api/webhid_api,534e2c61fee576355e8a9b7036d9fa36056edb03,Web APIs
 web/api/webkitpoint,b065c09b79d18abf0f04778c9307e1c312b8c6f9,Web APIs
 web/api/webotp_api,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
-web/api/webrtc_api,d0ed4906719465102739e604bdb35213fb19f251,Web APIs
+web/api/webrtc_api,a544f6d64dc65d37bbf06282f95ff013c5a24a7f,Web APIs
 web/api/webrtc_api/build_a_phone_with_peerjs,0c81cbce5f95a0be935724bcd936f5592774eb3a,Web APIs
 web/api/webrtc_api/build_a_phone_with_peerjs/build_the_server,e6d43da6c6d28a6ac92cdd47882809ffbdf987ce,Web APIs
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web APIs
@@ -10312,7 +10313,7 @@ web/css/guides,3e0ba995376cace7f08f0771635f86f0fb1753b3,CSS|Guides
 web/css/guides/anchor_positioning,879a1aece3a1d4eb28c0024f0baac6aa1b96638e,CSS|Guides
 web/css/guides/anchor_positioning/anchored_container_queries,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Guides
 web/css/guides/anchor_positioning/try_options_hiding,879a1aece3a1d4eb28c0024f0baac6aa1b96638e,CSS|Guides
-web/css/guides/anchor_positioning/using,06e6e54baef7032c4e81ca93291fde0a0585de8b,CSS|Guides
+web/css/guides/anchor_positioning/using,a0b748b391f3ed7e6ef38e8eda3ecaa9efced926,CSS|Guides
 web/css/guides/animations,b8a45c83bfb5aa8b99ddcd564e7e9c66be5daffc,CSS|Guides
 web/css/guides/animations/animatable_properties,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
 web/css/guides/animations/using,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
