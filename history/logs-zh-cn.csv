@@ -2150,7 +2150,7 @@ web/api/css_object_model/managing_screen_orientation,c7edf2734fccb185c5e93ee114e
 web/api/css_object_model/using_dynamic_styling_information,no_hash_commit
 web/api/css_properties_and_values_api,no_hash_commit
 web/api/css_typed_om_api,9151632d3aacb4f7d7228d5446ca66c7f44f406a
-web/api/cssconditionrule,no_hash_commit
+web/api/cssconditionrule,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/csscounterstylerule/additivesymbols,9840d330e75b5fa4eec7034859a7d96e5d6ae07b
 web/api/csscounterstylerule/fallback,9840d330e75b5fa4eec7034859a7d96e5d6ae07b
 web/api/csscounterstylerule,9840d330e75b5fa4eec7034859a7d96e5d6ae07b
@@ -7432,7 +7432,7 @@ web/svg/reference/element/fefuncg,3a1ef2abc8233835f0b0cc73afaf36e44edaf4a1
 web/svg/reference/element/fefuncr,3a1ef2abc8233835f0b0cc73afaf36e44edaf4a1
 web/svg/reference/element/fegaussianblur,01b8471b84e1d157cbddbb3ffaf560a86b082070
 web/svg/reference/element/feimage,3a1ef2abc8233835f0b0cc73afaf36e44edaf4a1
-web/svg/reference/element/femerge,no_hash_commit
+web/svg/reference/element/femerge,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/femergenode,no_hash_commit
 web/svg/reference/element/femorphology,3a1ef2abc8233835f0b0cc73afaf36e44edaf4a1
 web/svg/reference/element/feoffset,no_hash_commit
@@ -7468,7 +7468,7 @@ web/svg/reference/element/symbol,no_hash_commit
 web/svg/reference/element/text,no_hash_commit
 web/svg/reference/element/textpath,no_hash_commit
 web/svg/reference/element/title,no_hash_commit
-web/svg/reference/element/tspan,no_hash_commit
+web/svg/reference/element/tspan,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/use,2e5fc06de139c56873a20ec4bc3bf5600ea3cbef
 web/svg/reference/element/view,eb2d8ffb82c8a6fa4e55aad2835215ffada25897
 web/svg/reference,c2fd97474834e061404b992c8397d4ccc4439a71
