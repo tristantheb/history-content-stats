@@ -707,7 +707,7 @@ learn_web_development/core/accessibility/tooling,0
 learn_web_development/core/accessibility/wai-aria_basics,null
 learn_web_development/core/accessibility/what_is_accessibility,null
 learn_web_development/core/css_layout,null
-learn_web_development/core/css_layout/flexbox,0
+learn_web_development/core/css_layout/flexbox,1
 learn_web_development/core/css_layout/floats,null
 learn_web_development/core/css_layout/fundamental_layout_comprehension,null
 learn_web_development/core/css_layout/grids,null
@@ -3088,7 +3088,7 @@ web/api/css_typed_om_api,6
 web/api/css_typed_om_api/guide,null
 web/api/cssanimation,null
 web/api/cssanimation/animationname,null
-web/api/cssconditionrule,null
+web/api/cssconditionrule,0
 web/api/cssconditionrule/conditiontext,null
 web/api/csscontainerrule,null
 web/api/csscontainerrule/conditions,null
@@ -13965,7 +13965,7 @@ web/svg/reference/element/fefuncg,1
 web/svg/reference/element/fefuncr,1
 web/svg/reference/element/fegaussianblur,2
 web/svg/reference/element/feimage,6
-web/svg/reference/element/femerge,null
+web/svg/reference/element/femerge,0
 web/svg/reference/element/femergenode,null
 web/svg/reference/element/femorphology,4
 web/svg/reference/element/feoffset,null
@@ -14000,7 +14000,7 @@ web/svg/reference/element/symbol,null
 web/svg/reference/element/text,null
 web/svg/reference/element/textpath,null
 web/svg/reference/element/title,null
-web/svg/reference/element/tspan,null
+web/svg/reference/element/tspan,0
 web/svg/reference/element/use,10
 web/svg/reference/element/view,5
 web/svg/tutorials,0
