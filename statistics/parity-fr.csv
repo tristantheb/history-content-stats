@@ -707,7 +707,7 @@ learn_web_development/core/accessibility/tooling,3
 learn_web_development/core/accessibility/wai-aria_basics,18
 learn_web_development/core/accessibility/what_is_accessibility,null
 learn_web_development/core/css_layout,null
-learn_web_development/core/css_layout/flexbox,3
+learn_web_development/core/css_layout/flexbox,4
 learn_web_development/core/css_layout/floats,null
 learn_web_development/core/css_layout/fundamental_layout_comprehension,null
 learn_web_development/core/css_layout/grids,null
@@ -812,7 +812,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
-learn_web_development/core/structuring_content/html_table_basics,0
+learn_web_development/core/structuring_content/html_table_basics,1
 learn_web_development/core/structuring_content/html_video_and_audio,0
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
 learn_web_development/core/structuring_content/lists,0

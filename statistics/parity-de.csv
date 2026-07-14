@@ -707,7 +707,7 @@ learn_web_development/core/accessibility/tooling,0
 learn_web_development/core/accessibility/wai-aria_basics,0
 learn_web_development/core/accessibility/what_is_accessibility,0
 learn_web_development/core/css_layout,0
-learn_web_development/core/css_layout/flexbox,0
+learn_web_development/core/css_layout/flexbox,1
 learn_web_development/core/css_layout/floats,0
 learn_web_development/core/css_layout/fundamental_layout_comprehension,0
 learn_web_development/core/css_layout/grids,0
@@ -812,7 +812,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
-learn_web_development/core/structuring_content/html_table_basics,0
+learn_web_development/core/structuring_content/html_table_basics,1
 learn_web_development/core/structuring_content/html_video_and_audio,0
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
 learn_web_development/core/structuring_content/lists,0
@@ -13576,7 +13576,7 @@ web/media/guides/autoplay,0
 web/media/guides/formats,0
 web/media/guides/formats/audio_codecs,0
 web/media/guides/formats/audio_concepts,0
-web/media/guides/formats/codecs_parameter,0
+web/media/guides/formats/codecs_parameter,1
 web/media/guides/formats/configuring_servers_for_ogg_media,0
 web/media/guides/formats/containers,0
 web/media/guides/formats/image_types,0
