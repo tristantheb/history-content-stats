@@ -11801,7 +11801,7 @@ web/http,0
 web/http/guides,0
 web/http/guides/authentication,0
 web/http/guides/browser_detection_using_the_user_agent,0
-web/http/guides/caching,1
+web/http/guides/caching,2
 web/http/guides/client_hints,0
 web/http/guides/compression,0
 web/http/guides/compression_dictionary_transport,1

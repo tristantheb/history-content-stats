@@ -1147,7 +1147,7 @@ mozilla/add-ons/webextensions/api/action/getpopup,09109b6f9444d22215ba330ec1e64e
 mozilla/add-ons/webextensions/api/action/gettitle,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/getusersettings,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/imagedatatype,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/action/isenabled,3cc1a6783def002ef12a3d9420af77cb11cf4b3a,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/action/isenabled,cad08ffc0ed23419179cc5bb15d56d2a88451f89,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/onclicked,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/onusersettingschanged,0bbc83440e89ae434a8d798453511e82de79a356,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/openpopup,8ae151e4d6b1ee73aef9d8e10222241f053b9e38,Mozilla|Firefox Add-ons
@@ -11801,7 +11801,7 @@ web/http,d1f3f179175c80c18b1b78ba0df0ea7d15ca32cc,HTTP
 web/http/guides,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/authentication,3a50bf634f24f832d97e3e2add4a4633ab255217,HTTP|Guides
 web/http/guides/browser_detection_using_the_user_agent,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a,HTTP|Guides
-web/http/guides/caching,eff8aa047157f1bd4b1066cae7cc07eab2dcc0dd,HTTP|Guides
+web/http/guides/caching,f4393b25c74ce73882236df6807ba8d97255269e,HTTP|Guides
 web/http/guides/client_hints,53d1a4810a69dc436badd5b73c1a66c8764c835b,HTTP|Guides
 web/http/guides/compression,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/compression_dictionary_transport,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Guides

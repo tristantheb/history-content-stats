@@ -1147,7 +1147,7 @@ mozilla/add-ons/webextensions/api/action/getpopup,0
 mozilla/add-ons/webextensions/api/action/gettitle,0
 mozilla/add-ons/webextensions/api/action/getusersettings,0
 mozilla/add-ons/webextensions/api/action/imagedatatype,0
-mozilla/add-ons/webextensions/api/action/isenabled,0
+mozilla/add-ons/webextensions/api/action/isenabled,1
 mozilla/add-ons/webextensions/api/action/onclicked,0
 mozilla/add-ons/webextensions/api/action/onusersettingschanged,0
 mozilla/add-ons/webextensions/api/action/openpopup,0
@@ -11801,7 +11801,7 @@ web/http,0
 web/http/guides,0
 web/http/guides/authentication,0
 web/http/guides/browser_detection_using_the_user_agent,0
-web/http/guides/caching,0
+web/http/guides/caching,1
 web/http/guides/client_hints,0
 web/http/guides/compression,0
 web/http/guides/compression_dictionary_transport,0
