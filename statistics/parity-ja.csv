@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,3
+mozilla/firefox/experimental_features,4
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -11731,7 +11731,7 @@ web/html/reference/elements/script/type/importmap,0
 web/html/reference/elements/script/type/speculationrules,1
 web/html/reference/elements/search,0
 web/html/reference/elements/section,1
-web/html/reference/elements/select,0
+web/html/reference/elements/select,1
 web/html/reference/elements/selectedcontent,2
 web/html/reference/elements/slot,1
 web/html/reference/elements/small,0
@@ -11745,11 +11745,11 @@ web/html/reference/elements/summary,0
 web/html/reference/elements/sup,0
 web/html/reference/elements/table,0
 web/html/reference/elements/tbody,0
-web/html/reference/elements/td,0
+web/html/reference/elements/td,1
 web/html/reference/elements/template,0
 web/html/reference/elements/textarea,1
 web/html/reference/elements/tfoot,0
-web/html/reference/elements/th,0
+web/html/reference/elements/th,1
 web/html/reference/elements/thead,0
 web/html/reference/elements/time,0
 web/html/reference/elements/title,0

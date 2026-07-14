@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,348c4c91586f188bc3439f2aab767ecd553fc6d3,Mozilla|Firefox
+mozilla/firefox/experimental_features,3a90ff6c1920bb8613b75d00514c1030e8856c11,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Fir
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,97a6738de30dbb1072346dca78f24dca67da9eca,Mozilla|Firefox|Versions
-mozilla/firefox/releases/153,348c4c91586f188bc3439f2aab767ecd553fc6d3,Mozilla|Firefox|Versions
+mozilla/firefox/releases/153,9edb26a033a11bcc1e101814a466c30d13e09f43,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -11731,7 +11731,7 @@ web/html/reference/elements/script/type/importmap,bf5017c389132af39b50106cf1763f
 web/html/reference/elements/script/type/speculationrules,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTML|Elements
 web/html/reference/elements/search,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/section,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/select,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/select,9edb26a033a11bcc1e101814a466c30d13e09f43,HTML|Elements
 web/html/reference/elements/selectedcontent,513146a616213fee548fdcf72dc1359030eb3395,HTML|Elements
 web/html/reference/elements/slot,8dd50fa9cb734907685508144376dbdd28f98be6,HTML|Elements
 web/html/reference/elements/small,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11745,11 +11745,11 @@ web/html/reference/elements/summary,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTM
 web/html/reference/elements/sup,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/table,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/tbody,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
-web/html/reference/elements/td,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/td,3871111d7fb958626f9d926d8809222d318b8c72,HTML|Elements
 web/html/reference/elements/template,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8,HTML|Elements
 web/html/reference/elements/textarea,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/tfoot,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
-web/html/reference/elements/th,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/th,3871111d7fb958626f9d926d8809222d318b8c72,HTML|Elements
 web/html/reference/elements/thead,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/time,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/title,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
