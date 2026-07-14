@@ -707,7 +707,7 @@ learn_web_development/core/accessibility/tooling,0
 learn_web_development/core/accessibility/wai-aria_basics,0
 learn_web_development/core/accessibility/what_is_accessibility,0
 learn_web_development/core/css_layout,0
-learn_web_development/core/css_layout/flexbox,1
+learn_web_development/core/css_layout/flexbox,0
 learn_web_development/core/css_layout/floats,0
 learn_web_development/core/css_layout/fundamental_layout_comprehension,0
 learn_web_development/core/css_layout/grids,0
@@ -812,7 +812,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
-learn_web_development/core/structuring_content/html_table_basics,1
+learn_web_development/core/structuring_content/html_table_basics,0
 learn_web_development/core/structuring_content/html_video_and_audio,0
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
 learn_web_development/core/structuring_content/lists,0
@@ -1147,7 +1147,7 @@ mozilla/add-ons/webextensions/api/action/getpopup,0
 mozilla/add-ons/webextensions/api/action/gettitle,0
 mozilla/add-ons/webextensions/api/action/getusersettings,0
 mozilla/add-ons/webextensions/api/action/imagedatatype,0
-mozilla/add-ons/webextensions/api/action/isenabled,1
+mozilla/add-ons/webextensions/api/action/isenabled,0
 mozilla/add-ons/webextensions/api/action/onclicked,0
 mozilla/add-ons/webextensions/api/action/onusersettingschanged,0
 mozilla/add-ons/webextensions/api/action/openpopup,0
@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,0
+mozilla/firefox/releases/153,3
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -11731,7 +11731,7 @@ web/html/reference/elements/script/type/importmap,0
 web/html/reference/elements/script/type/speculationrules,0
 web/html/reference/elements/search,0
 web/html/reference/elements/section,0
-web/html/reference/elements/select,0
+web/html/reference/elements/select,1
 web/html/reference/elements/selectedcontent,0
 web/html/reference/elements/slot,0
 web/html/reference/elements/small,0
@@ -11745,11 +11745,11 @@ web/html/reference/elements/summary,0
 web/html/reference/elements/sup,0
 web/html/reference/elements/table,0
 web/html/reference/elements/tbody,0
-web/html/reference/elements/td,0
+web/html/reference/elements/td,1
 web/html/reference/elements/template,0
 web/html/reference/elements/textarea,0
 web/html/reference/elements/tfoot,0
-web/html/reference/elements/th,0
+web/html/reference/elements/th,1
 web/html/reference/elements/thead,0
 web/html/reference/elements/time,0
 web/html/reference/elements/title,0
@@ -11801,7 +11801,7 @@ web/http,0
 web/http/guides,0
 web/http/guides/authentication,0
 web/http/guides/browser_detection_using_the_user_agent,0
-web/http/guides/caching,1
+web/http/guides/caching,0
 web/http/guides/client_hints,0
 web/http/guides/compression,0
 web/http/guides/compression_dictionary_transport,0
@@ -13576,7 +13576,7 @@ web/media/guides/autoplay,0
 web/media/guides/formats,0
 web/media/guides/formats/audio_codecs,0
 web/media/guides/formats/audio_concepts,0
-web/media/guides/formats/codecs_parameter,1
+web/media/guides/formats/codecs_parameter,0
 web/media/guides/formats/configuring_servers_for_ogg_media,0
 web/media/guides/formats/containers,0
 web/media/guides/formats/image_types,0
