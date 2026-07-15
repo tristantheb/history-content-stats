@@ -3584,7 +3584,7 @@ web/api/document/prerenderingchange_event,2
 web/api/document/querycommandenabled,4
 web/api/document/querycommandstate,3
 web/api/document/querycommandsupported,1
-web/api/document/queryselector,0
+web/api/document/queryselector,1
 web/api/document/queryselectorall,0
 web/api/document/readystate,2
 web/api/document/readystatechange_event,2
