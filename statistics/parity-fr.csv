@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,3
 mozilla/firefox,0
-mozilla/firefox/experimental_features,25
+mozilla/firefox/experimental_features,26
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -2236,7 +2236,7 @@ web/accessibility/aria/reference/roles/sectionhead_role,0
 web/accessibility/aria/reference/roles/select_role,0
 web/accessibility/aria/reference/roles/separator_role,0
 web/accessibility/aria/reference/roles/slider_role,0
-web/accessibility/aria/reference/roles/spinbutton_role,0
+web/accessibility/aria/reference/roles/spinbutton_role,1
 web/accessibility/aria/reference/roles/status_role,0
 web/accessibility/aria/reference/roles/structural_roles,0
 web/accessibility/aria/reference/roles/structure_role,0
@@ -3602,7 +3602,7 @@ web/api/document/scrollsnapchange_event,0
 web/api/document/scrollsnapchanging_event,0
 web/api/document/securitypolicyviolation_event,0
 web/api/document/selectedstylesheetset,0
-web/api/document/selectionchange_event,0
+web/api/document/selectionchange_event,1
 web/api/document/startviewtransition,1
 web/api/document/stylesheets,0
 web/api/document/stylesheetsets,0
@@ -11056,6 +11056,7 @@ web/css/reference/properties/resize,0
 web/css/reference/properties/right,0
 web/css/reference/properties/rotate,0
 web/css/reference/properties/row-gap,0
+web/css/reference/properties/row-rule-color,null
 web/css/reference/properties/row-rule-visibility-items,null
 web/css/reference/properties/ruby-align,0
 web/css/reference/properties/ruby-overhang,0
@@ -11362,7 +11363,7 @@ web/css/reference/values/abs,0
 web/css/reference/values/absolute-size,0
 web/css/reference/values/acos,0
 web/css/reference/values/alpha-value,0
-web/css/reference/values/anchor,0
+web/css/reference/values/anchor,1
 web/css/reference/values/anchor-size,0
 web/css/reference/values/angle,0
 web/css/reference/values/angle-percentage,0
@@ -12133,7 +12134,7 @@ web/http/reference/status/307,0
 web/http/reference/status/308,0
 web/http/reference/status/400,0
 web/http/reference/status/401,0
-web/http/reference/status/402,0
+web/http/reference/status/402,1
 web/http/reference/status/403,0
 web/http/reference/status/404,0
 web/http/reference/status/405,0
