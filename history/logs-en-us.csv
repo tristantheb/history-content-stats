@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,3a90ff6c1920bb8613b75d00514c1030e8856c11,Mozilla|Firefox
+mozilla/firefox/experimental_features,977af4d2c62cdc936f51a496db1a193b6f9057fe,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Fir
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,97a6738de30dbb1072346dca78f24dca67da9eca,Mozilla|Firefox|Versions
-mozilla/firefox/releases/153,9edb26a033a11bcc1e101814a466c30d13e09f43,Mozilla|Firefox|Versions
+mozilla/firefox/releases/153,977af4d2c62cdc936f51a496db1a193b6f9057fe,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -2236,7 +2236,7 @@ web/accessibility/aria/reference/roles/sectionhead_role,a8b25483994fa47cf949b432
 web/accessibility/aria/reference/roles/select_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/separator_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/slider_role,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/spinbutton_role,f6e12d0cba939a2f203119f4514b56b5faff17e1,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/spinbutton_role,e73d98a3d66c8c6c7dd60780f58136be04d9bfdf,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/status_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/structural_roles,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/structure_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
@@ -3602,7 +3602,7 @@ web/api/document/scrollsnapchange_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/document/scrollsnapchanging_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/document/securitypolicyviolation_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/document/selectedstylesheetset,be8f7f155a48e11b30c240f8731afb1845f85378,Web APIs
-web/api/document/selectionchange_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
+web/api/document/selectionchange_event,453f1e19963409710b3466630538467db38a3f6f,Web APIs
 web/api/document/startviewtransition,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
 web/api/document/stylesheets,87440643d71bf81a5bf4b8fa21db9e3d56ead395,Web APIs
 web/api/document/stylesheetsets,41a8b9c9832359d445d136b6d7a8a28737badc6b,Web APIs
@@ -11056,6 +11056,7 @@ web/css/reference/properties/resize,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS
 web/css/reference/properties/right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/rotate,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/row-gap,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Properties
+web/css/reference/properties/row-rule-color,c2b19ba089e2aa91491254bb76b9cbfcc27d7826,CSS|Properties
 web/css/reference/properties/row-rule-visibility-items,afcdfa050626bb7eb05ee693df8997020db9ff2e,CSS|Properties
 web/css/reference/properties/ruby-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ruby-overhang,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11362,7 +11363,7 @@ web/css/reference/values/abs,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/absolute-size,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/acos,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/alpha-value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/anchor,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/anchor,7dbcde5a0aa6855447d015d99eba6fb8be6c2185,CSS|Values
 web/css/reference/values/anchor-size,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/angle,06d31d3fa6fbe7ecf0d2c3f3f0b14e1d5fe874c5,CSS|Values
 web/css/reference/values/angle-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
@@ -12133,7 +12134,7 @@ web/http/reference/status/307,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Stat
 web/http/reference/status/308,a44f198025a4efab10df30201b59793b8e0fd38c,HTTP|Status
 web/http/reference/status/400,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
 web/http/reference/status/401,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
-web/http/reference/status/402,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/402,304469f96698fda14a08e35060057a23761daea4,HTTP|Status
 web/http/reference/status/403,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
 web/http/reference/status/404,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
 web/http/reference/status/405,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
