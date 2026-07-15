@@ -4201,7 +4201,7 @@ web/api/featurepolicy/features,0
 web/api/featurepolicy/getallowlistforfeature,0
 web/api/fedcm_api,0
 web/api/fedcm_api/idp_integration,0
-web/api/fedcm_api/rp_sign-in,0
+web/api/fedcm_api/rp_sign-in,1
 web/api/federatedcredential,0
 web/api/federatedcredential/federatedcredential,0
 web/api/federatedcredential/protocol,0
@@ -10455,7 +10455,7 @@ web/css/guides/overflow/carousels,0
 web/css/guides/overscroll_behavior,0
 web/css/guides/paged_media,0
 web/css/guides/positioned_layout,0
-web/css/guides/positioned_layout/stacking_context,0
+web/css/guides/positioned_layout/stacking_context,1
 web/css/guides/positioned_layout/stacking_context/example_1,0
 web/css/guides/positioned_layout/stacking_context/example_2,0
 web/css/guides/positioned_layout/stacking_context/example_3,0

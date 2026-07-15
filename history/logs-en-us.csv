@@ -4201,7 +4201,7 @@ web/api/featurepolicy/features,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/featurepolicy/getallowlistforfeature,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/fedcm_api,6722199b4d63fad3c33db1146af380fc98b6c202,Web APIs
 web/api/fedcm_api/idp_integration,30bb7c6b5b9f3e19276a8c528134fe78f131c9a5,Web APIs
-web/api/fedcm_api/rp_sign-in,7f138099644a02640a903b2abc39e685ca8ca7cd,Web APIs
+web/api/fedcm_api/rp_sign-in,4761340e600daad008747fb9aa48e28748a78422,Web APIs
 web/api/federatedcredential,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c,Web APIs
 web/api/federatedcredential/federatedcredential,4ee6823d1ae58f39e1863b9fc6f6b34d4a417336,Web APIs
 web/api/federatedcredential/protocol,339595951b78774e951b1a9d215a6db6b856f6b2,Web APIs
@@ -10455,7 +10455,7 @@ web/css/guides/overflow/carousels,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d,CSS|G
 web/css/guides/overscroll_behavior,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/paged_media,74d9a1227d110a152bf4d68f5d5f753e723ea01b,CSS|Guides
 web/css/guides/positioned_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/positioned_layout/stacking_context,c0c6a47d07815a734bd7bf6cdc6b287686e9b9e7,CSS|Guides
+web/css/guides/positioned_layout/stacking_context,4761340e600daad008747fb9aa48e28748a78422,CSS|Guides
 web/css/guides/positioned_layout/stacking_context/example_1,c1bbbf977b4fd477104265cd87f74cdf42616b0d,CSS|Guides
 web/css/guides/positioned_layout/stacking_context/example_2,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/positioned_layout/stacking_context/example_3,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
