@@ -6351,7 +6351,7 @@ web/api/navigator/sendbeacon,12
 web/api/navigator/serial,null
 web/api/navigator/serviceworker,null
 web/api/navigator/setappbadge,null
-web/api/navigator/share,2
+web/api/navigator/share,3
 web/api/navigator/storage,null
 web/api/navigator/taintenabled,null
 web/api/navigator/unregisterprotocolhandler,null
@@ -11041,7 +11041,7 @@ web/css/reference/properties/perspective-origin,null
 web/css/reference/properties/place-content,6
 web/css/reference/properties/place-items,6
 web/css/reference/properties/place-self,6
-web/css/reference/properties/pointer-events,3
+web/css/reference/properties/pointer-events,4
 web/css/reference/properties/position,null
 web/css/reference/properties/position-anchor,null
 web/css/reference/properties/position-area,null

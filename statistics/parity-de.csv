@@ -779,7 +779,7 @@ learn_web_development/core/scripting/functions,0
 learn_web_development/core/scripting/house_data_ui,0
 learn_web_development/core/scripting/image_gallery,0
 learn_web_development/core/scripting/json,0
-learn_web_development/core/scripting/loops,1
+learn_web_development/core/scripting/loops,0
 learn_web_development/core/scripting/math,0
 learn_web_development/core/scripting/network_requests,0
 learn_web_development/core/scripting/object_basics,0
@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,0
+mozilla/firefox/releases/153,1
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -6351,7 +6351,7 @@ web/api/navigator/sendbeacon,0
 web/api/navigator/serial,0
 web/api/navigator/serviceworker,0
 web/api/navigator/setappbadge,0
-web/api/navigator/share,0
+web/api/navigator/share,1
 web/api/navigator/storage,0
 web/api/navigator/taintenabled,0
 web/api/navigator/unregisterprotocolhandler,0
@@ -10325,8 +10325,8 @@ web/css/guides/backgrounds_and_borders/resizing_background_images,0
 web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,0
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,0
 web/css/guides/basic_user_interface,0
-web/css/guides/borders_and_box_decorations,1
-web/css/guides/borders_and_box_decorations/border_shape_nav_menu,null
+web/css/guides/borders_and_box_decorations,0
+web/css/guides/borders_and_box_decorations/border_shape_nav_menu,0
 web/css/guides/box_alignment,0
 web/css/guides/box_alignment/in_block_abspos_tables,0
 web/css/guides/box_alignment/in_flexbox,0
@@ -10487,7 +10487,7 @@ web/css/guides/selectors/selector_structure,0
 web/css/guides/selectors/selectors_and_combinators,0
 web/css/guides/selectors/using__colon_target,0
 web/css/guides/shadow_parts,0
-web/css/guides/shapes,1
+web/css/guides/shapes,0
 web/css/guides/shapes/from_box_values,0
 web/css/guides/shapes/from_images,0
 web/css/guides/shapes/overview,0
@@ -10753,7 +10753,7 @@ web/css/reference/properties/border-right,0
 web/css/reference/properties/border-right-color,0
 web/css/reference/properties/border-right-style,0
 web/css/reference/properties/border-right-width,0
-web/css/reference/properties/border-shape,null
+web/css/reference/properties/border-shape,0
 web/css/reference/properties/border-spacing,0
 web/css/reference/properties/border-start-end-radius,0
 web/css/reference/properties/border-start-start-radius,0
@@ -10828,7 +10828,7 @@ web/css/reference/properties/corner-inline-end-shape,0
 web/css/reference/properties/corner-inline-start-shape,0
 web/css/reference/properties/corner-left-shape,0
 web/css/reference/properties/corner-right-shape,0
-web/css/reference/properties/corner-shape,1
+web/css/reference/properties/corner-shape,0
 web/css/reference/properties/corner-start-end-shape,0
 web/css/reference/properties/corner-start-start-shape,0
 web/css/reference/properties/corner-top-left-shape,0
@@ -11006,7 +11006,7 @@ web/css/reference/properties/outline-color,0
 web/css/reference/properties/outline-offset,0
 web/css/reference/properties/outline-style,0
 web/css/reference/properties/outline-width,0
-web/css/reference/properties/overflow,1
+web/css/reference/properties/overflow,0
 web/css/reference/properties/overflow-anchor,0
 web/css/reference/properties/overflow-block,0
 web/css/reference/properties/overflow-clip-margin,0
@@ -11041,7 +11041,7 @@ web/css/reference/properties/perspective-origin,0
 web/css/reference/properties/place-content,0
 web/css/reference/properties/place-items,0
 web/css/reference/properties/place-self,0
-web/css/reference/properties/pointer-events,0
+web/css/reference/properties/pointer-events,1
 web/css/reference/properties/position,0
 web/css/reference/properties/position-anchor,0
 web/css/reference/properties/position-area,0
@@ -11252,7 +11252,7 @@ web/css/reference/selectors/_colon_left,0
 web/css/reference/selectors/_colon_link,0
 web/css/reference/selectors/_colon_local-link,0
 web/css/reference/selectors/_colon_modal,0
-web/css/reference/selectors/_colon_muted,0
+web/css/reference/selectors/_colon_muted,1
 web/css/reference/selectors/_colon_not,0
 web/css/reference/selectors/_colon_nth-child,0
 web/css/reference/selectors/_colon_nth-last-child,0
@@ -11375,17 +11375,17 @@ web/css/reference/values/atan2,0
 web/css/reference/values/attr,0
 web/css/reference/values/axis,0
 web/css/reference/values/baseline-position,0
-web/css/reference/values/basic-shape,1
-web/css/reference/values/basic-shape/circle,1
-web/css/reference/values/basic-shape/ellipse,1
-web/css/reference/values/basic-shape/inset,1
-web/css/reference/values/basic-shape/path,1
-web/css/reference/values/basic-shape/polygon,1
-web/css/reference/values/basic-shape/rect,1
-web/css/reference/values/basic-shape/shape,1
-web/css/reference/values/basic-shape/xywh,1
+web/css/reference/values/basic-shape,0
+web/css/reference/values/basic-shape/circle,0
+web/css/reference/values/basic-shape/ellipse,0
+web/css/reference/values/basic-shape/inset,0
+web/css/reference/values/basic-shape/path,0
+web/css/reference/values/basic-shape/polygon,0
+web/css/reference/values/basic-shape/rect,0
+web/css/reference/values/basic-shape/shape,0
+web/css/reference/values/basic-shape/xywh,0
 web/css/reference/values/blend-mode,0
-web/css/reference/values/box-edge,1
+web/css/reference/values/box-edge,0
 web/css/reference/values/calc,0
 web/css/reference/values/calc-keyword,0
 web/css/reference/values/calc-size,0
@@ -11448,7 +11448,7 @@ web/css/reference/values/fit-content_function,0
 web/css/reference/values/flex_value,0
 web/css/reference/values/frequency,0
 web/css/reference/values/frequency-percentage,0
-web/css/reference/values/functions,1
+web/css/reference/values/functions,0
 web/css/reference/values/generic-family,0
 web/css/reference/values/gradient,0
 web/css/reference/values/gradient/conic-gradient,0
@@ -11542,7 +11542,7 @@ web/css/reference/values/transform-function/translatey,0
 web/css/reference/values/transform-function/translatez,0
 web/css/reference/values/type,0
 web/css/reference/values/unset,0
-web/css/reference/values/url_function,0
+web/css/reference/values/url_function,1
 web/css/reference/values/url_value,0
 web/css/reference/values/var,0
 web/css/reference/webkit_extensions,0
@@ -11611,7 +11611,7 @@ web/html/reference/elements/address,0
 web/html/reference/elements/area,0
 web/html/reference/elements/article,0
 web/html/reference/elements/aside,0
-web/html/reference/elements/audio,0
+web/html/reference/elements/audio,1
 web/html/reference/elements/b,0
 web/html/reference/elements/base,0
 web/html/reference/elements/bdi,0
@@ -11762,7 +11762,7 @@ web/html/reference/elements/tt,0
 web/html/reference/elements/u,0
 web/html/reference/elements/ul,0
 web/html/reference/elements/var,0
-web/html/reference/elements/video,0
+web/html/reference/elements/video,1
 web/html/reference/elements/wbr,0
 web/html/reference/elements/xmp,0
 web/html/reference/global_attributes,0

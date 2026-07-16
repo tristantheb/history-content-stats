@@ -11041,7 +11041,7 @@ web/css/reference/properties/perspective-origin,0
 web/css/reference/properties/place-content,0
 web/css/reference/properties/place-items,0
 web/css/reference/properties/place-self,0
-web/css/reference/properties/pointer-events,0
+web/css/reference/properties/pointer-events,1
 web/css/reference/properties/position,0
 web/css/reference/properties/position-anchor,0
 web/css/reference/properties/position-area,0
@@ -11252,7 +11252,7 @@ web/css/reference/selectors/_colon_left,0
 web/css/reference/selectors/_colon_link,0
 web/css/reference/selectors/_colon_local-link,0
 web/css/reference/selectors/_colon_modal,0
-web/css/reference/selectors/_colon_muted,0
+web/css/reference/selectors/_colon_muted,1
 web/css/reference/selectors/_colon_not,0
 web/css/reference/selectors/_colon_nth-child,0
 web/css/reference/selectors/_colon_nth-last-child,0
@@ -11542,7 +11542,7 @@ web/css/reference/values/transform-function/translatey,0
 web/css/reference/values/transform-function/translatez,0
 web/css/reference/values/type,0
 web/css/reference/values/unset,0
-web/css/reference/values/url_function,1
+web/css/reference/values/url_function,2
 web/css/reference/values/url_value,0
 web/css/reference/values/var,0
 web/css/reference/webkit_extensions,2
@@ -11611,7 +11611,7 @@ web/html/reference/elements/address,0
 web/html/reference/elements/area,0
 web/html/reference/elements/article,0
 web/html/reference/elements/aside,0
-web/html/reference/elements/audio,0
+web/html/reference/elements/audio,1
 web/html/reference/elements/b,0
 web/html/reference/elements/base,0
 web/html/reference/elements/bdi,0
@@ -11762,7 +11762,7 @@ web/html/reference/elements/tt,0
 web/html/reference/elements/u,0
 web/html/reference/elements/ul,0
 web/html/reference/elements/var,0
-web/html/reference/elements/video,0
+web/html/reference/elements/video,1
 web/html/reference/elements/wbr,0
 web/html/reference/elements/xmp,0
 web/html/reference/global_attributes,0
