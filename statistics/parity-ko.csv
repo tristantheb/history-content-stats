@@ -10326,6 +10326,7 @@ web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,null
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,null
 web/css/guides/basic_user_interface,5
 web/css/guides/borders_and_box_decorations,null
+web/css/guides/borders_and_box_decorations/border_shape_nav_menu,null
 web/css/guides/box_alignment,null
 web/css/guides/box_alignment/in_block_abspos_tables,null
 web/css/guides/box_alignment/in_flexbox,null
@@ -10752,6 +10753,7 @@ web/css/reference/properties/border-right,null
 web/css/reference/properties/border-right-color,null
 web/css/reference/properties/border-right-style,null
 web/css/reference/properties/border-right-width,null
+web/css/reference/properties/border-shape,null
 web/css/reference/properties/border-spacing,null
 web/css/reference/properties/border-start-end-radius,null
 web/css/reference/properties/border-start-start-radius,null
@@ -11374,7 +11376,7 @@ web/css/reference/values/attr,null
 web/css/reference/values/axis,null
 web/css/reference/values/baseline-position,null
 web/css/reference/values/basic-shape,null
-web/css/reference/values/basic-shape/circle,3
+web/css/reference/values/basic-shape/circle,5
 web/css/reference/values/basic-shape/ellipse,null
 web/css/reference/values/basic-shape/inset,null
 web/css/reference/values/basic-shape/path,null
