@@ -779,7 +779,7 @@ learn_web_development/core/scripting/functions,null
 learn_web_development/core/scripting/house_data_ui,null
 learn_web_development/core/scripting/image_gallery,null
 learn_web_development/core/scripting/json,null
-learn_web_development/core/scripting/loops,15
+learn_web_development/core/scripting/loops,16
 learn_web_development/core/scripting/math,null
 learn_web_development/core/scripting/network_requests,null
 learn_web_development/core/scripting/object_basics,null
@@ -10326,6 +10326,7 @@ web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,null
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,null
 web/css/guides/basic_user_interface,null
 web/css/guides/borders_and_box_decorations,null
+web/css/guides/borders_and_box_decorations/border_shape_nav_menu,null
 web/css/guides/box_alignment,null
 web/css/guides/box_alignment/in_block_abspos_tables,null
 web/css/guides/box_alignment/in_flexbox,null
@@ -10752,6 +10753,7 @@ web/css/reference/properties/border-right,null
 web/css/reference/properties/border-right-color,null
 web/css/reference/properties/border-right-style,null
 web/css/reference/properties/border-right-width,null
+web/css/reference/properties/border-shape,null
 web/css/reference/properties/border-spacing,null
 web/css/reference/properties/border-start-end-radius,null
 web/css/reference/properties/border-start-start-radius,null
