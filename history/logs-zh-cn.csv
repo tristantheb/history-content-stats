@@ -5297,7 +5297,7 @@ web/css/reference/properties/border-inline-style,no_hash_commit
 web/css/reference/properties/border-inline-width,no_hash_commit
 web/css/reference/properties/border-inline,no_hash_commit
 web/css/reference/properties/border-left-color,no_hash_commit
-web/css/reference/properties/border-left-style,no_hash_commit
+web/css/reference/properties/border-left-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/border-left-width,no_hash_commit
 web/css/reference/properties/border-left,no_hash_commit
 web/css/reference/properties/border-radius,no_hash_commit
@@ -7407,7 +7407,7 @@ web/svg/reference/attribute/visibility,no_hash_commit
 web/svg/reference/attribute/width,no_hash_commit
 web/svg/reference/attribute/x,no_hash_commit
 web/svg/reference/attribute/y,no_hash_commit
-web/svg/reference/element/a,no_hash_commit
+web/svg/reference/element/a,94a841dba1498c685a18e72d041fd9057f302d6c
 web/svg/reference/element/animate,no_hash_commit
 web/svg/reference/element/animatemotion,no_hash_commit
 web/svg/reference/element/animatetransform,no_hash_commit
