@@ -6351,7 +6351,7 @@ web/api/navigator/sendbeacon,null
 web/api/navigator/serial,3
 web/api/navigator/serviceworker,0
 web/api/navigator/setappbadge,2
-web/api/navigator/share,2
+web/api/navigator/share,3
 web/api/navigator/storage,0
 web/api/navigator/taintenabled,1
 web/api/navigator/unregisterprotocolhandler,null
@@ -11542,7 +11542,7 @@ web/css/reference/values/transform-function/translatey,null
 web/css/reference/values/transform-function/translatez,null
 web/css/reference/values/type,null
 web/css/reference/values/unset,null
-web/css/reference/values/url_function,7
+web/css/reference/values/url_function,8
 web/css/reference/values/url_value,4
 web/css/reference/values/var,null
 web/css/reference/webkit_extensions,null
@@ -11762,7 +11762,7 @@ web/html/reference/elements/tt,4
 web/html/reference/elements/u,4
 web/html/reference/elements/ul,6
 web/html/reference/elements/var,4
-web/html/reference/elements/video,9
+web/html/reference/elements/video,10
 web/html/reference/elements/wbr,6
 web/html/reference/elements/xmp,1
 web/html/reference/global_attributes,null
