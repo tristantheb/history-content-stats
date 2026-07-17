@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Fir
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,97a6738de30dbb1072346dca78f24dca67da9eca,Mozilla|Firefox|Versions
-mozilla/firefox/releases/153,2ae025a4bdf7b7cb901d13f6ebf727d4780e5462,Mozilla|Firefox|Versions
+mozilla/firefox/releases/153,43af35616ae2abe1b414bb91caf22e61003f5650,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -3496,7 +3496,7 @@ web/api/document/compatmode,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/document/contenttype,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/document/cookie,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Web APIs
 web/api/document/createattribute,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Web APIs
-web/api/document/createattributens,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Web APIs
+web/api/document/createattributens,80058a757e45377c0b06e782a9618da65c7ced5a,Web APIs
 web/api/document/createcdatasection,f216422c99b6c7014e398803b70600501bce8a48,Web APIs
 web/api/document/createcomment,f216422c99b6c7014e398803b70600501bce8a48,Web APIs
 web/api/document/createdocumentfragment,0a881eea07f0cec6ca4ed85a24af43b367a9f80d,Web APIs
@@ -9714,7 +9714,7 @@ web/api/wheelevent/deltax,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltay,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltaz,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/wheelevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
-web/api/window,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
+web/api/window,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,Web APIs
 web/api/window/afterprint_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/window/alert,e3faa375b0179de77a5eff00074e3d168a0a904c,Web APIs
 web/api/window/appinstalled_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -9820,6 +9820,7 @@ web/api/window/reporterror,4f90930051faa1ff1f4278068885e59c5bbb0069,Web APIs
 web/api/window/requestanimationframe,90c1d8efd51c2f82d26e6b79e442f9dbcfafd048,Web APIs
 web/api/window/requestfilesystem,0916e1754652f3a7c663ef031faa26c98f492023,Web APIs
 web/api/window/requestidlecallback,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/window/requestresize,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,Web APIs
 web/api/window/resize_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/window/resizeby,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/window/resizeto,e561fa67af347b9770b359ba93e8579d2a540682,Web APIs
@@ -10336,7 +10337,7 @@ web/css/guides/box_alignment/overview,32bdfdb82cf91ce9942b694286dec62be2cc20aa,C
 web/css/guides/box_model,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/box_model/introduction,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
 web/css/guides/box_model/margin_collapsing,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
-web/css/guides/box_sizing,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/box_sizing,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,CSS|Guides
 web/css/guides/box_sizing/aspect_ratios,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/cascade,81f8fcd666952c1782653a3675347c392cc997ca,CSS|Guides
 web/css/guides/cascade/inheritance,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
@@ -10753,7 +10754,7 @@ web/css/reference/properties/border-right,bcbb4bd6a80292c0663b723d5466759cfaaa83
 web/css/reference/properties/border-right-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-right-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-right-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/border-shape,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Properties
+web/css/reference/properties/border-shape,78291b4caa8c466d5e96480b7c0646f5f255952c,CSS|Properties
 web/css/reference/properties/border-spacing,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-start-end-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-start-start-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10891,6 +10892,7 @@ web/css/reference/properties/font-variation-settings,bcbb4bd6a80292c0663b723d546
 web/css/reference/properties/font-weight,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/forced-color-adjust,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/frame-sizing,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,CSS|Properties
 web/css/reference/properties/gap,7f138099644a02640a903b2abc39e685ca8ca7cd,CSS|Properties
 web/css/reference/properties/grid,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11658,7 +11660,7 @@ web/html/reference/elements/hgroup,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML
 web/html/reference/elements/hr,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/html,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/i,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/iframe,c807b72777506cd8aaa8d888b7a187dbc6079ca1,HTML|Elements
+web/html/reference/elements/iframe,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,HTML|Elements
 web/html/reference/elements/img,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/input,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/input/button,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
@@ -11696,9 +11698,10 @@ web/html/reference/elements/marquee,44a5fa2aace490e0114349d9d683675b2f5cacce,HTM
 web/html/reference/elements/menu,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/meta,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/meta/http-equiv,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Elements
-web/html/reference/elements/meta/name,b884c869c8bdc8f6bd0ea8290934757d27d6845c,HTML|Elements
+web/html/reference/elements/meta/name,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,HTML|Elements
 web/html/reference/elements/meta/name/color-scheme,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Elements
 web/html/reference/elements/meta/name/referrer,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Elements
+web/html/reference/elements/meta/name/responsive-embedded-sizing,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,HTML|Elements
 web/html/reference/elements/meta/name/robots,c53bfa01f3bf436d486f4032c16f592855a2af2c,HTML|Elements
 web/html/reference/elements/meta/name/text-scale,afcdfa050626bb7eb05ee693df8997020db9ff2e,HTML|Elements
 web/html/reference/elements/meta/name/theme-color,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Elements
@@ -14413,7 +14416,7 @@ webassembly/reference/simd/arithmetic/extmul_low_i8x16_u,ca1301872404bbc0305fa94
 webassembly/reference/simd/arithmetic/max_s,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
 webassembly/reference/simd/arithmetic/max_u,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
 webassembly/reference/simd/arithmetic/min_s,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/arithmetic/min_u,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
+webassembly/reference/simd/arithmetic/min_u,05a935ece59e972b328235c64ecd628b59780f17,WebAssembly
 webassembly/reference/simd/arithmetic/pmax,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
 webassembly/reference/simd/arithmetic/pmin,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
 webassembly/reference/simd/arithmetic/q15mulr_sat_s,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
