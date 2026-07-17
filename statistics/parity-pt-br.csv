@@ -13637,10 +13637,12 @@ web/progressive_web_apps/how_to/customize_your_app_colors,null
 web/progressive_web_apps/how_to/define_app_icons,null
 web/progressive_web_apps/how_to/display_badge_on_app_icon,null
 web/progressive_web_apps/how_to/expose_common_actions_as_shortcuts,null
+web/progressive_web_apps/how_to/localize_an_app_manifest,null
 web/progressive_web_apps/how_to/share_data_between_apps,null
 web/progressive_web_apps/how_to/trigger_install_prompt,null
 web/progressive_web_apps/manifest,null
 web/progressive_web_apps/manifest/reference,null
+web/progressive_web_apps/manifest/reference/_star__localized,null
 web/progressive_web_apps/manifest/reference/background_color,null
 web/progressive_web_apps/manifest/reference/categories,null
 web/progressive_web_apps/manifest/reference/description,null

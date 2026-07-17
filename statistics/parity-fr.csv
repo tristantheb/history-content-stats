@@ -4906,7 +4906,7 @@ web/api/htmlelement/enterkeyhint,0
 web/api/htmlelement/error_event,0
 web/api/htmlelement/focus,0
 web/api/htmlelement/hidden,0
-web/api/htmlelement/hidepopover,1
+web/api/htmlelement/hidepopover,2
 web/api/htmlelement/inert,0
 web/api/htmlelement/innertext,0
 web/api/htmlelement/inputmode,0
@@ -4923,13 +4923,13 @@ web/api/htmlelement/offsettop,0
 web/api/htmlelement/offsetwidth,0
 web/api/htmlelement/outertext,0
 web/api/htmlelement/popover,0
-web/api/htmlelement/showpopover,1
+web/api/htmlelement/showpopover,2
 web/api/htmlelement/spellcheck,0
 web/api/htmlelement/style,1
 web/api/htmlelement/tabindex,0
 web/api/htmlelement/title,0
 web/api/htmlelement/toggle_event,0
-web/api/htmlelement/togglepopover,1
+web/api/htmlelement/togglepopover,2
 web/api/htmlelement/translate,0
 web/api/htmlelement/virtualkeyboardpolicy,0
 web/api/htmlelement/writingsuggestions,0
@@ -13637,10 +13637,12 @@ web/progressive_web_apps/how_to/customize_your_app_colors,null
 web/progressive_web_apps/how_to/define_app_icons,null
 web/progressive_web_apps/how_to/display_badge_on_app_icon,null
 web/progressive_web_apps/how_to/expose_common_actions_as_shortcuts,null
+web/progressive_web_apps/how_to/localize_an_app_manifest,null
 web/progressive_web_apps/how_to/share_data_between_apps,null
 web/progressive_web_apps/how_to/trigger_install_prompt,null
 web/progressive_web_apps/manifest,null
 web/progressive_web_apps/manifest/reference,null
+web/progressive_web_apps/manifest/reference/_star__localized,null
 web/progressive_web_apps/manifest/reference/background_color,null
 web/progressive_web_apps/manifest/reference/categories,null
 web/progressive_web_apps/manifest/reference/description,null

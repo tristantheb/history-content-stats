@@ -7322,7 +7322,7 @@ web/svg/guides/svg_animation_with_smil,no_hash_commit
 web/svg/guides/svg_as_an_image,bd6d98893c48e00bfcbdafd60c684bf30e0fa406
 web/svg/guides/svg_in_html,no_hash_commit
 web/svg,be9ba40fbef7f96beae73e5dd6d48a3ca875826f
-web/svg/reference/attribute/accumulate,54eb3a678b4d4cbc94588d2234103e74dfa063a0
+web/svg/reference/attribute/accumulate,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/additive,54eb3a678b4d4cbc94588d2234103e74dfa063a0
 web/svg/reference/attribute/alignment-baseline,5c000c8621145c6915f3d545b505c216317bc64a
 web/svg/reference/attribute/amplitude,c2274293475b0a5b4febf85a49c1f91bf43ebac7
@@ -7350,6 +7350,7 @@ web/svg/reference/attribute/fill,no_hash_commit
 web/svg/reference/attribute/filter,no_hash_commit
 web/svg/reference/attribute/filterunits,b4f998244660723175f8e06b5d77f68cfb1d1f1a
 web/svg/reference/attribute/font-family,no_hash_commit
+web/svg/reference/attribute/font-weight,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/svg/reference/attribute/fr,no_hash_commit
 web/svg/reference/attribute/from,no_hash_commit
 web/svg/reference/attribute/fx,no_hash_commit
@@ -7422,7 +7423,7 @@ web/svg/reference/element/fecomponenttransfer,3a1ef2abc8233835f0b0cc73afaf36e44e
 web/svg/reference/element/fecomposite,no_hash_commit
 web/svg/reference/element/feconvolvematrix,1cec868de12e098b0c24d61fd91506887d8d5773
 web/svg/reference/element/fediffuselighting,no_hash_commit
-web/svg/reference/element/fedisplacementmap,no_hash_commit
+web/svg/reference/element/fedisplacementmap,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/fedistantlight,no_hash_commit
 web/svg/reference/element/fedropshadow,no_hash_commit
 web/svg/reference/element/feflood,3a1ef2abc8233835f0b0cc73afaf36e44edaf4a1

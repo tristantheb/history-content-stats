@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7
 mozilla/firefox/releases/152,97a6738de30dbb1072346dca78f24dca67da9eca
-mozilla/firefox/releases/153,977af4d2c62cdc936f51a496db1a193b6f9057fe
+mozilla/firefox/releases/153,2ae025a4bdf7b7cb901d13f6ebf727d4780e5462
 mozilla/firefox/releases/154,681ee4beb90b7e0d001f8938df41d5af0f602fe7
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
@@ -6350,7 +6350,7 @@ web/api/navigator/sendbeacon,e3b1390089160b88a74b2bed5445d9cf7cb7e436
 web/api/navigator/serial,6fe7a18b80e55d9d25dcc16dfb010eec09460bb8
 web/api/navigator/serviceworker,5d29bef0815f8cc4b5b152b9ee1ab53f002ee617
 web/api/navigator/setappbadge,0abb70602b0b3b11a2909c417a03e10eabd607a8
-web/api/navigator/share,642395ab2226aed8d0393d5bb9ef7f6f46bd9911
+web/api/navigator/share,20ab1482dedfed0d77fbbf1b58b3992e8ba503a0
 web/api/navigator/storage,ef75c1741b450c2331204be5563ee964ad5f4c48
 web/api/navigator/taintenabled,9cbfa7fc0051724913e92958b712425db77291a8
 web/api/navigator/unregisterprotocolhandler,702cd9e4d2834e13aea345943efc8d0c03d92ec9
@@ -11040,7 +11040,7 @@ web/css/reference/properties/perspective,bcbb4bd6a80292c0663b723d5466759cfaaa831
 web/css/reference/properties/place-content,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/place-items,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/place-self,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/pointer-events,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/pointer-events,54363b174e87f0d2af789266d78eda0e9934bdbd
 web/css/reference/properties/position-anchor,31086145b865d6c5c2fec3ba700fd424d57fdf42
 web/css/reference/properties/position-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/position-try-fallbacks,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -11250,7 +11250,7 @@ web/css/reference/selectors/_colon_left,bf90d24ddf56e3f60df25fcbc0d4e3e084004794
 web/css/reference/selectors/_colon_link,bf90d24ddf56e3f60df25fcbc0d4e3e084004794
 web/css/reference/selectors/_colon_local-link,bf90d24ddf56e3f60df25fcbc0d4e3e084004794
 web/css/reference/selectors/_colon_modal,bf90d24ddf56e3f60df25fcbc0d4e3e084004794
-web/css/reference/selectors/_colon_muted,bf90d24ddf56e3f60df25fcbc0d4e3e084004794
+web/css/reference/selectors/_colon_muted,d1aa0dbd7441564e6ce8f6706c2022a2e1912d8c
 web/css/reference/selectors/_colon_not,bf90d24ddf56e3f60df25fcbc0d4e3e084004794
 web/css/reference/selectors/_colon_nth-child,bf90d24ddf56e3f60df25fcbc0d4e3e084004794
 web/css/reference/selectors/_colon_nth-last-child,bf90d24ddf56e3f60df25fcbc0d4e3e084004794
@@ -11541,7 +11541,7 @@ web/css/reference/values/transform-function/translatey,b760560abe30bd69ca968dac3
 web/css/reference/values/transform-function/translatez,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/type,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/unset,0aa8517faf9d7d15c745ac94db7014d3a2d2085f
-web/css/reference/values/url_function,039b9d3f05cae775b88d4bdb09c533af62246e32
+web/css/reference/values/url_function,b36b3e9dc1c4a60a4a382e57f1d3793164e2ca3f
 web/css/reference/values/url_value,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/var,f551881c1f8f168c5a6e7ac5c7dbc15474b9c642
 web/css/reference/webkit_extensions,0d155984425e8964c889efb63ec39593e11bbc14
@@ -11608,7 +11608,7 @@ web/html/reference/elements/address,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/area,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/article,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/aside,599ae8b7ad414e91df473d91983f4ffc5cafabb3
-web/html/reference/elements/audio,599ae8b7ad414e91df473d91983f4ffc5cafabb3
+web/html/reference/elements/audio,d1aa0dbd7441564e6ce8f6706c2022a2e1912d8c
 web/html/reference/elements/b,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/base,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/bdi,599ae8b7ad414e91df473d91983f4ffc5cafabb3
@@ -11760,7 +11760,7 @@ web/html/reference/elements/tt,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/u,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/ul,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/var,599ae8b7ad414e91df473d91983f4ffc5cafabb3
-web/html/reference/elements/video,599ae8b7ad414e91df473d91983f4ffc5cafabb3
+web/html/reference/elements/video,d1aa0dbd7441564e6ce8f6706c2022a2e1912d8c
 web/html/reference/elements/wbr,b7de5fa065848c0d703b6763df7a15d1eb908c91
 web/html/reference/elements/xmp,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/global_attributes/accesskey,9c70c6ff09189cad43d40e241fbd2fe67349c3c2
