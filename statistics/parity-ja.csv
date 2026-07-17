@@ -3496,7 +3496,7 @@ web/api/document/compatmode,3
 web/api/document/contenttype,2
 web/api/document/cookie,1
 web/api/document/createattribute,6
-web/api/document/createattributens,4
+web/api/document/createattributens,5
 web/api/document/createcdatasection,2
 web/api/document/createcomment,1
 web/api/document/createdocumentfragment,0
@@ -9714,7 +9714,7 @@ web/api/wheelevent/deltax,2
 web/api/wheelevent/deltay,2
 web/api/wheelevent/deltaz,2
 web/api/wheelevent/wheelevent,4
-web/api/window,11
+web/api/window,12
 web/api/window/afterprint_event,0
 web/api/window/alert,0
 web/api/window/appinstalled_event,6
@@ -9820,6 +9820,7 @@ web/api/window/reporterror,1
 web/api/window/requestanimationframe,0
 web/api/window/requestfilesystem,0
 web/api/window/requestidlecallback,0
+web/api/window/requestresize,null
 web/api/window/resize_event,0
 web/api/window/resizeby,null
 web/api/window/resizeto,null
@@ -10336,7 +10337,7 @@ web/css/guides/box_alignment/overview,0
 web/css/guides/box_model,0
 web/css/guides/box_model/introduction,0
 web/css/guides/box_model/margin_collapsing,0
-web/css/guides/box_sizing,0
+web/css/guides/box_sizing,1
 web/css/guides/box_sizing/aspect_ratios,0
 web/css/guides/cascade,0
 web/css/guides/cascade/inheritance,0
@@ -10891,6 +10892,7 @@ web/css/reference/properties/font-variation-settings,1
 web/css/reference/properties/font-weight,1
 web/css/reference/properties/font-width,0
 web/css/reference/properties/forced-color-adjust,1
+web/css/reference/properties/frame-sizing,null
 web/css/reference/properties/gap,5
 web/css/reference/properties/grid,2
 web/css/reference/properties/grid-area,1
@@ -11658,7 +11660,7 @@ web/html/reference/elements/hgroup,0
 web/html/reference/elements/hr,2
 web/html/reference/elements/html,1
 web/html/reference/elements/i,0
-web/html/reference/elements/iframe,2
+web/html/reference/elements/iframe,3
 web/html/reference/elements/img,1
 web/html/reference/elements/input,0
 web/html/reference/elements/input/button,1
@@ -11696,9 +11698,10 @@ web/html/reference/elements/marquee,2
 web/html/reference/elements/menu,0
 web/html/reference/elements/meta,1
 web/html/reference/elements/meta/http-equiv,1
-web/html/reference/elements/meta/name,1
+web/html/reference/elements/meta/name,2
 web/html/reference/elements/meta/name/color-scheme,0
 web/html/reference/elements/meta/name/referrer,1
+web/html/reference/elements/meta/name/responsive-embedded-sizing,null
 web/html/reference/elements/meta/name/robots,0
 web/html/reference/elements/meta/name/text-scale,3
 web/html/reference/elements/meta/name/theme-color,0

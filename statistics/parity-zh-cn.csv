@@ -9820,6 +9820,7 @@ web/api/window/reporterror,1
 web/api/window/requestanimationframe,0
 web/api/window/requestfilesystem,null
 web/api/window/requestidlecallback,null
+web/api/window/requestresize,null
 web/api/window/resize_event,3
 web/api/window/resizeby,null
 web/api/window/resizeto,null
@@ -10891,6 +10892,7 @@ web/css/reference/properties/font-variation-settings,3
 web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,3
+web/css/reference/properties/frame-sizing,null
 web/css/reference/properties/gap,7
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
@@ -11658,7 +11660,7 @@ web/html/reference/elements/hgroup,null
 web/html/reference/elements/hr,null
 web/html/reference/elements/html,5
 web/html/reference/elements/i,1
-web/html/reference/elements/iframe,18
+web/html/reference/elements/iframe,19
 web/html/reference/elements/img,15
 web/html/reference/elements/input,4
 web/html/reference/elements/input/button,null
@@ -11699,6 +11701,7 @@ web/html/reference/elements/meta/http-equiv,null
 web/html/reference/elements/meta/name,null
 web/html/reference/elements/meta/name/color-scheme,null
 web/html/reference/elements/meta/name/referrer,null
+web/html/reference/elements/meta/name/responsive-embedded-sizing,null
 web/html/reference/elements/meta/name/robots,null
 web/html/reference/elements/meta/name/text-scale,null
 web/html/reference/elements/meta/name/theme-color,7
@@ -13813,7 +13816,7 @@ web/svg/reference/attribute/href,null
 web/svg/reference/attribute/id,3
 web/svg/reference/attribute/image-rendering,2
 web/svg/reference/attribute/in,4
-web/svg/reference/attribute/in2,null
+web/svg/reference/attribute/in2,0
 web/svg/reference/attribute/intercept,null
 web/svg/reference/attribute/k1,null
 web/svg/reference/attribute/k2,null

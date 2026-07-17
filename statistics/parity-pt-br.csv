@@ -9820,6 +9820,7 @@ web/api/window/reporterror,null
 web/api/window/requestanimationframe,null
 web/api/window/requestfilesystem,null
 web/api/window/requestidlecallback,null
+web/api/window/requestresize,null
 web/api/window/resize_event,null
 web/api/window/resizeby,null
 web/api/window/resizeto,null
@@ -10891,6 +10892,7 @@ web/css/reference/properties/font-variation-settings,null
 web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,null
+web/css/reference/properties/frame-sizing,null
 web/css/reference/properties/gap,null
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
@@ -11699,6 +11701,7 @@ web/html/reference/elements/meta/http-equiv,null
 web/html/reference/elements/meta/name,null
 web/html/reference/elements/meta/name/color-scheme,null
 web/html/reference/elements/meta/name/referrer,null
+web/html/reference/elements/meta/name/responsive-embedded-sizing,null
 web/html/reference/elements/meta/name/robots,null
 web/html/reference/elements/meta/name/text-scale,null
 web/html/reference/elements/meta/name/theme-color,null
