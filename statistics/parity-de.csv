@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,0
+mozilla/firefox/releases/153,1
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -3496,7 +3496,7 @@ web/api/document/compatmode,0
 web/api/document/contenttype,0
 web/api/document/cookie,0
 web/api/document/createattribute,0
-web/api/document/createattributens,0
+web/api/document/createattributens,1
 web/api/document/createcdatasection,0
 web/api/document/createcomment,0
 web/api/document/createdocumentfragment,0
@@ -9714,7 +9714,7 @@ web/api/wheelevent/deltax,0
 web/api/wheelevent/deltay,0
 web/api/wheelevent/deltaz,0
 web/api/wheelevent/wheelevent,0
-web/api/window,0
+web/api/window,1
 web/api/window/afterprint_event,0
 web/api/window/alert,0
 web/api/window/appinstalled_event,0
@@ -9820,6 +9820,7 @@ web/api/window/reporterror,0
 web/api/window/requestanimationframe,0
 web/api/window/requestfilesystem,0
 web/api/window/requestidlecallback,0
+web/api/window/requestresize,null
 web/api/window/resize_event,0
 web/api/window/resizeby,0
 web/api/window/resizeto,0
@@ -10336,7 +10337,7 @@ web/css/guides/box_alignment/overview,0
 web/css/guides/box_model,0
 web/css/guides/box_model/introduction,0
 web/css/guides/box_model/margin_collapsing,0
-web/css/guides/box_sizing,0
+web/css/guides/box_sizing,1
 web/css/guides/box_sizing/aspect_ratios,0
 web/css/guides/cascade,0
 web/css/guides/cascade/inheritance,0
@@ -10753,7 +10754,7 @@ web/css/reference/properties/border-right,0
 web/css/reference/properties/border-right-color,0
 web/css/reference/properties/border-right-style,0
 web/css/reference/properties/border-right-width,0
-web/css/reference/properties/border-shape,0
+web/css/reference/properties/border-shape,1
 web/css/reference/properties/border-spacing,0
 web/css/reference/properties/border-start-end-radius,0
 web/css/reference/properties/border-start-start-radius,0
@@ -10891,6 +10892,7 @@ web/css/reference/properties/font-variation-settings,0
 web/css/reference/properties/font-weight,0
 web/css/reference/properties/font-width,0
 web/css/reference/properties/forced-color-adjust,0
+web/css/reference/properties/frame-sizing,null
 web/css/reference/properties/gap,0
 web/css/reference/properties/grid,0
 web/css/reference/properties/grid-area,0
@@ -11658,7 +11660,7 @@ web/html/reference/elements/hgroup,0
 web/html/reference/elements/hr,0
 web/html/reference/elements/html,0
 web/html/reference/elements/i,0
-web/html/reference/elements/iframe,0
+web/html/reference/elements/iframe,1
 web/html/reference/elements/img,0
 web/html/reference/elements/input,0
 web/html/reference/elements/input/button,0
@@ -11696,9 +11698,10 @@ web/html/reference/elements/marquee,0
 web/html/reference/elements/menu,0
 web/html/reference/elements/meta,0
 web/html/reference/elements/meta/http-equiv,0
-web/html/reference/elements/meta/name,0
+web/html/reference/elements/meta/name,1
 web/html/reference/elements/meta/name/color-scheme,0
 web/html/reference/elements/meta/name/referrer,0
+web/html/reference/elements/meta/name/responsive-embedded-sizing,null
 web/html/reference/elements/meta/name/robots,0
 web/html/reference/elements/meta/name/text-scale,0
 web/html/reference/elements/meta/name/theme-color,0
@@ -14413,7 +14416,7 @@ webassembly/reference/simd/arithmetic/extmul_low_i8x16_u,0
 webassembly/reference/simd/arithmetic/max_s,0
 webassembly/reference/simd/arithmetic/max_u,0
 webassembly/reference/simd/arithmetic/min_s,0
-webassembly/reference/simd/arithmetic/min_u,0
+webassembly/reference/simd/arithmetic/min_u,1
 webassembly/reference/simd/arithmetic/pmax,0
 webassembly/reference/simd/arithmetic/pmin,0
 webassembly/reference/simd/arithmetic/q15mulr_sat_s,0
