@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,1
+mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -4906,7 +4906,7 @@ web/api/htmlelement/enterkeyhint,0
 web/api/htmlelement/error_event,0
 web/api/htmlelement/focus,0
 web/api/htmlelement/hidden,0
-web/api/htmlelement/hidepopover,0
+web/api/htmlelement/hidepopover,1
 web/api/htmlelement/inert,0
 web/api/htmlelement/innertext,0
 web/api/htmlelement/inputmode,0
@@ -4923,13 +4923,13 @@ web/api/htmlelement/offsettop,0
 web/api/htmlelement/offsetwidth,0
 web/api/htmlelement/outertext,0
 web/api/htmlelement/popover,0
-web/api/htmlelement/showpopover,0
+web/api/htmlelement/showpopover,1
 web/api/htmlelement/spellcheck,0
 web/api/htmlelement/style,0
 web/api/htmlelement/tabindex,0
 web/api/htmlelement/title,0
 web/api/htmlelement/toggle_event,0
-web/api/htmlelement/togglepopover,0
+web/api/htmlelement/togglepopover,1
 web/api/htmlelement/translate,0
 web/api/htmlelement/virtualkeyboardpolicy,0
 web/api/htmlelement/writingsuggestions,0
@@ -6351,7 +6351,7 @@ web/api/navigator/sendbeacon,0
 web/api/navigator/serial,0
 web/api/navigator/serviceworker,0
 web/api/navigator/setappbadge,0
-web/api/navigator/share,1
+web/api/navigator/share,0
 web/api/navigator/storage,0
 web/api/navigator/taintenabled,0
 web/api/navigator/unregisterprotocolhandler,0
@@ -11041,7 +11041,7 @@ web/css/reference/properties/perspective-origin,0
 web/css/reference/properties/place-content,0
 web/css/reference/properties/place-items,0
 web/css/reference/properties/place-self,0
-web/css/reference/properties/pointer-events,1
+web/css/reference/properties/pointer-events,0
 web/css/reference/properties/position,0
 web/css/reference/properties/position-anchor,0
 web/css/reference/properties/position-area,0
@@ -11252,7 +11252,7 @@ web/css/reference/selectors/_colon_left,0
 web/css/reference/selectors/_colon_link,0
 web/css/reference/selectors/_colon_local-link,0
 web/css/reference/selectors/_colon_modal,0
-web/css/reference/selectors/_colon_muted,1
+web/css/reference/selectors/_colon_muted,0
 web/css/reference/selectors/_colon_not,0
 web/css/reference/selectors/_colon_nth-child,0
 web/css/reference/selectors/_colon_nth-last-child,0
@@ -11542,7 +11542,7 @@ web/css/reference/values/transform-function/translatey,0
 web/css/reference/values/transform-function/translatez,0
 web/css/reference/values/type,0
 web/css/reference/values/unset,0
-web/css/reference/values/url_function,1
+web/css/reference/values/url_function,0
 web/css/reference/values/url_value,0
 web/css/reference/values/var,0
 web/css/reference/webkit_extensions,0
@@ -11611,7 +11611,7 @@ web/html/reference/elements/address,0
 web/html/reference/elements/area,0
 web/html/reference/elements/article,0
 web/html/reference/elements/aside,0
-web/html/reference/elements/audio,1
+web/html/reference/elements/audio,0
 web/html/reference/elements/b,0
 web/html/reference/elements/base,0
 web/html/reference/elements/bdi,0
@@ -11762,7 +11762,7 @@ web/html/reference/elements/tt,0
 web/html/reference/elements/u,0
 web/html/reference/elements/ul,0
 web/html/reference/elements/var,0
-web/html/reference/elements/video,1
+web/html/reference/elements/video,0
 web/html/reference/elements/wbr,0
 web/html/reference/elements/xmp,0
 web/html/reference/global_attributes,0
@@ -11839,7 +11839,7 @@ web/http/guides/fetch_metadata,0
 web/http/guides/iframe_credentialless,0
 web/http/guides/messages,0
 web/http/guides/mime_types,0
-web/http/guides/mime_types/common_types,0
+web/http/guides/mime_types/common_types,1
 web/http/guides/network_error_logging,0
 web/http/guides/overview,0
 web/http/guides/permissions_policy,0
@@ -13637,10 +13637,12 @@ web/progressive_web_apps/how_to/customize_your_app_colors,0
 web/progressive_web_apps/how_to/define_app_icons,0
 web/progressive_web_apps/how_to/display_badge_on_app_icon,0
 web/progressive_web_apps/how_to/expose_common_actions_as_shortcuts,0
+web/progressive_web_apps/how_to/localize_an_app_manifest,null
 web/progressive_web_apps/how_to/share_data_between_apps,0
 web/progressive_web_apps/how_to/trigger_install_prompt,0
 web/progressive_web_apps/manifest,0
 web/progressive_web_apps/manifest/reference,0
+web/progressive_web_apps/manifest/reference/_star__localized,null
 web/progressive_web_apps/manifest/reference/background_color,0
 web/progressive_web_apps/manifest/reference/categories,0
 web/progressive_web_apps/manifest/reference/description,0
@@ -14287,7 +14289,7 @@ webassembly/reference/javascript_interface/exception,0
 webassembly/reference/javascript_interface/exception/exception,0
 webassembly/reference/javascript_interface/exception/getarg,0
 webassembly/reference/javascript_interface/exception/is,0
-webassembly/reference/javascript_interface/exception/stack,0
+webassembly/reference/javascript_interface/exception/stack,1
 webassembly/reference/javascript_interface/global,0
 webassembly/reference/javascript_interface/global/global,0
 webassembly/reference/javascript_interface/global/value,0

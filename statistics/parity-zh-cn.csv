@@ -13637,10 +13637,12 @@ web/progressive_web_apps/how_to/customize_your_app_colors,null
 web/progressive_web_apps/how_to/define_app_icons,null
 web/progressive_web_apps/how_to/display_badge_on_app_icon,null
 web/progressive_web_apps/how_to/expose_common_actions_as_shortcuts,null
+web/progressive_web_apps/how_to/localize_an_app_manifest,null
 web/progressive_web_apps/how_to/share_data_between_apps,null
 web/progressive_web_apps/how_to/trigger_install_prompt,null
 web/progressive_web_apps/manifest,6
 web/progressive_web_apps/manifest/reference,0
+web/progressive_web_apps/manifest/reference/_star__localized,null
 web/progressive_web_apps/manifest/reference/background_color,null
 web/progressive_web_apps/manifest/reference/categories,null
 web/progressive_web_apps/manifest/reference/description,null
@@ -13739,7 +13741,7 @@ web/svg/guides/svg_filters,null
 web/svg/guides/svg_in_html,null
 web/svg/reference,0
 web/svg/reference/attribute,14
-web/svg/reference/attribute/accumulate,1
+web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,1
 web/svg/reference/attribute/alignment-baseline,5
 web/svg/reference/attribute/amplitude,3
@@ -13796,7 +13798,7 @@ web/svg/reference/attribute/font-size-adjust,null
 web/svg/reference/attribute/font-stretch,null
 web/svg/reference/attribute/font-style,null
 web/svg/reference/attribute/font-variant,null
-web/svg/reference/attribute/font-weight,null
+web/svg/reference/attribute/font-weight,0
 web/svg/reference/attribute/font-width,null
 web/svg/reference/attribute/fr,null
 web/svg/reference/attribute/from,null
@@ -13958,7 +13960,7 @@ web/svg/reference/element/fecomponenttransfer,6
 web/svg/reference/element/fecomposite,null
 web/svg/reference/element/feconvolvematrix,6
 web/svg/reference/element/fediffuselighting,null
-web/svg/reference/element/fedisplacementmap,null
+web/svg/reference/element/fedisplacementmap,0
 web/svg/reference/element/fedistantlight,null
 web/svg/reference/element/fedropshadow,null
 web/svg/reference/element/feflood,3
@@ -14287,7 +14289,7 @@ webassembly/reference/javascript_interface/exception,-1
 webassembly/reference/javascript_interface/exception/exception,4
 webassembly/reference/javascript_interface/exception/getarg,1
 webassembly/reference/javascript_interface/exception/is,2
-webassembly/reference/javascript_interface/exception/stack,1
+webassembly/reference/javascript_interface/exception/stack,2
 webassembly/reference/javascript_interface/global,1
 webassembly/reference/javascript_interface/global/global,3
 webassembly/reference/javascript_interface/global/value,null
