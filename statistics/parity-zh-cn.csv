@@ -10753,7 +10753,7 @@ web/css/reference/properties/border-radius,null
 web/css/reference/properties/border-right,4
 web/css/reference/properties/border-right-color,null
 web/css/reference/properties/border-right-style,null
-web/css/reference/properties/border-right-width,3
+web/css/reference/properties/border-right-width,4
 web/css/reference/properties/border-shape,null
 web/css/reference/properties/border-spacing,null
 web/css/reference/properties/border-start-end-radius,null
@@ -10765,7 +10765,7 @@ web/css/reference/properties/border-top-left-radius,null
 web/css/reference/properties/border-top-right-radius,null
 web/css/reference/properties/border-top-style,null
 web/css/reference/properties/border-top-width,null
-web/css/reference/properties/border-width,7
+web/css/reference/properties/border-width,8
 web/css/reference/properties/bottom,null
 web/css/reference/properties/box-align,null
 web/css/reference/properties/box-decoration-break,null
@@ -11011,7 +11011,7 @@ web/css/reference/properties/outline-width,2
 web/css/reference/properties/overflow,null
 web/css/reference/properties/overflow-anchor,null
 web/css/reference/properties/overflow-block,null
-web/css/reference/properties/overflow-clip-margin,2
+web/css/reference/properties/overflow-clip-margin,3
 web/css/reference/properties/overflow-inline,null
 web/css/reference/properties/overflow-wrap,null
 web/css/reference/properties/overflow-x,6
@@ -11026,13 +11026,13 @@ web/css/reference/properties/padding,3
 web/css/reference/properties/padding-block,null
 web/css/reference/properties/padding-block-end,null
 web/css/reference/properties/padding-block-start,null
-web/css/reference/properties/padding-bottom,3
+web/css/reference/properties/padding-bottom,4
 web/css/reference/properties/padding-inline,null
 web/css/reference/properties/padding-inline-end,null
 web/css/reference/properties/padding-inline-start,null
-web/css/reference/properties/padding-left,3
-web/css/reference/properties/padding-right,3
-web/css/reference/properties/padding-top,3
+web/css/reference/properties/padding-left,4
+web/css/reference/properties/padding-right,4
+web/css/reference/properties/padding-top,4
 web/css/reference/properties/page,null
 web/css/reference/properties/page-break-after,null
 web/css/reference/properties/page-break-before,null
@@ -11256,7 +11256,7 @@ web/css/reference/selectors/_colon_local-link,3
 web/css/reference/selectors/_colon_modal,null
 web/css/reference/selectors/_colon_muted,null
 web/css/reference/selectors/_colon_not,null
-web/css/reference/selectors/_colon_nth-child,3
+web/css/reference/selectors/_colon_nth-child,4
 web/css/reference/selectors/_colon_nth-last-child,null
 web/css/reference/selectors/_colon_nth-last-of-type,null
 web/css/reference/selectors/_colon_nth-of-type,null
