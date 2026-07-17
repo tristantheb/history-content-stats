@@ -695,7 +695,7 @@ learn_web_development/changelog,02eafb53ee0b481bc4a60e7da630811201fe228a,Learn
 learn_web_development/core,57bc2729e3963907c0b54158ae1a31318a2ebbd1,Learn|Core Modules
 learn_web_development/core/accessibility,89e8e67d44039717f685a98d8b161f3d1ed1b233,Learn|Core Modules
 learn_web_development/core/accessibility/accessibility_troubleshooting,73a73bc44e12181c778910f3b7d73962e0dd9a29,Learn|Core Modules
-learn_web_development/core/accessibility/css_and_javascript,fd2acb039cc1caee4af10f76ffb839c8da7da5b8,Learn|Core Modules
+learn_web_development/core/accessibility/css_and_javascript,0c62b082755017d0773ecaaee7e74efd5e066d0b,Learn|Core Modules
 learn_web_development/core/accessibility/html,51b3821941729c1c2eeb63f6547b1251ac8df0f8,Learn|Core Modules
 learn_web_development/core/accessibility/mobile,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Learn|Core Modules
 learn_web_development/core/accessibility/multimedia,ef78a9a3336c884fb3587e4ff833e64704296f01,Learn|Core Modules
@@ -10722,7 +10722,7 @@ web/css/reference/properties/border-bottom-color,bcbb4bd6a80292c0663b723d5466759
 web/css/reference/properties/border-bottom-left-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-bottom-right-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-bottom-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/border-bottom-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/border-bottom-width,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
 web/css/reference/properties/border-collapse,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-end-end-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10748,12 +10748,12 @@ web/css/reference/properties/border-inline-width,bcbb4bd6a80292c0663b723d5466759
 web/css/reference/properties/border-left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-left-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-left-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/border-left-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/border-left-width,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
 web/css/reference/properties/border-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-right-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-right-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/border-right-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/border-right-width,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
 web/css/reference/properties/border-shape,78291b4caa8c466d5e96480b7c0646f5f255952c,CSS|Properties
 web/css/reference/properties/border-spacing,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-start-end-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10764,8 +10764,8 @@ web/css/reference/properties/border-top-color,bcbb4bd6a80292c0663b723d5466759cfa
 web/css/reference/properties/border-top-left-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-top-right-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-top-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/border-top-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/border-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/border-top-width,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
+web/css/reference/properties/border-width,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
 web/css/reference/properties/bottom,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/box-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/box-decoration-break,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11011,7 +11011,7 @@ web/css/reference/properties/outline-width,bcbb4bd6a80292c0663b723d5466759cfaaa8
 web/css/reference/properties/overflow,bd1e1e4c5979dc7b79f75dfcc787e5bff9510aef,CSS|Properties
 web/css/reference/properties/overflow-anchor,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/overflow-block,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/overflow-clip-margin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/overflow-clip-margin,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
 web/css/reference/properties/overflow-inline,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/overflow-wrap,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/overflow-x,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11024,15 +11024,15 @@ web/css/reference/properties/overscroll-behavior-x,bcbb4bd6a80292c0663b723d54667
 web/css/reference/properties/overscroll-behavior-y,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/padding,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/padding-block,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/padding-block-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/padding-block-start,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/padding-bottom,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/padding-inline,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/padding-inline-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/padding-inline-start,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/padding-left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/padding-right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/padding-top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/padding-block-end,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
+web/css/reference/properties/padding-block-start,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
+web/css/reference/properties/padding-bottom,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
+web/css/reference/properties/padding-inline,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
+web/css/reference/properties/padding-inline-end,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
+web/css/reference/properties/padding-inline-start,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
+web/css/reference/properties/padding-left,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
+web/css/reference/properties/padding-right,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
+web/css/reference/properties/padding-top,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
 web/css/reference/properties/page,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/page-break-after,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/page-break-before,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11256,8 +11256,8 @@ web/css/reference/selectors/_colon_local-link,bf90d24ddf56e3f60df25fcbc0d4e3e084
 web/css/reference/selectors/_colon_modal,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_muted,d1aa0dbd7441564e6ce8f6706c2022a2e1912d8c,CSS|Selectors
 web/css/reference/selectors/_colon_not,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
-web/css/reference/selectors/_colon_nth-child,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
-web/css/reference/selectors/_colon_nth-last-child,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
+web/css/reference/selectors/_colon_nth-child,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Selectors
+web/css/reference/selectors/_colon_nth-last-child,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Selectors
 web/css/reference/selectors/_colon_nth-last-of-type,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_nth-of-type,e620c4f06bca1cbecc4412084e43ddc12e88fe56,CSS|Selectors
 web/css/reference/selectors/_colon_only-child,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
