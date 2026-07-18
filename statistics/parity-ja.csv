@@ -4199,7 +4199,7 @@ web/api/featurepolicy/allowedfeatures,null
 web/api/featurepolicy/allowsfeature,null
 web/api/featurepolicy/features,null
 web/api/featurepolicy/getallowlistforfeature,null
-web/api/fedcm_api,null
+web/api/fedcm_api,0
 web/api/fedcm_api/idp_integration,null
 web/api/fedcm_api/rp_sign-in,null
 web/api/federatedcredential,4
