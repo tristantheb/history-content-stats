@@ -3469,7 +3469,7 @@ web/api/deviceposture/change_event,a7265fc3effa7c25b9997135104370c057a65293,Web 
 web/api/deviceposture/type,a3d19af7e3eeb1c40748c80cd6b5143cfa201c54,Web APIs
 web/api/directoryentrysync,754b68246f4e69e404309fee4a1699e047e43994,Web APIs
 web/api/directoryreadersync,e6d43da6c6d28a6ac92cdd47882809ffbdf987ce,Web APIs
-web/api/document,793bcbe2dd88fc553d2c4c918c4dec4899704022,Web APIs
+web/api/document,9cf3002bd29376c15d49df6fab2e6a264285abf6,Web APIs
 web/api/document/activeelement,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,Web APIs
 web/api/document/activeviewtransition,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
 web/api/document/adoptedstylesheets,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
@@ -3569,7 +3569,7 @@ web/api/document/location,c053b4b3bb0f34736e9f4402d4254830670af723,Web APIs
 web/api/document/movebefore,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/document/mozsetimageelement,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
 web/api/document/open,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
-web/api/document/parsehtml_static,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
+web/api/document/parsehtml_static,9cf3002bd29376c15d49df6fab2e6a264285abf6,Web APIs
 web/api/document/parsehtmlunsafe_static,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/document/pictureinpictureelement,20e15ad6027f10c7bdd48f36776876cd1aa3a63c,Web APIs
 web/api/document/pictureinpictureenabled,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
@@ -6317,7 +6317,7 @@ web/api/navigator/getgamepads,3020adac456187cf18edeb20613482fb73b38c1e,Web APIs
 web/api/navigator/getinstalledrelatedapps,afcdfa050626bb7eb05ee693df8997020db9ff2e,Web APIs
 web/api/navigator/getusermedia,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/navigator/getvrdisplays,ce094c10e0b71ff594e013d459b9c29110a6442a,Web APIs
-web/api/navigator/globalprivacycontrol,f89740247002fb71eb339af142482900f3c32349,Web APIs
+web/api/navigator/globalprivacycontrol,ba61b242bb7da20302af919bb7f496be67e89e32,Web APIs
 web/api/navigator/gpu,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/navigator/hardwareconcurrency,d47348199a379f68bea876a403eb510628ec4ccb,Web APIs
 web/api/navigator/hid,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
@@ -7837,7 +7837,7 @@ web/api/serviceworkerregistration/update,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f
 web/api/serviceworkerregistration/updatefound_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/serviceworkerregistration/updateviacache,e9b95b3735a9e928fbdf3fe0a9f69c420b44cd79,Web APIs
 web/api/serviceworkerregistration/waiting,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
-web/api/shadowroot,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
+web/api/shadowroot,9cf3002bd29376c15d49df6fab2e6a264285abf6,Web APIs
 web/api/shadowroot/activeelement,f2f9346c0c0e9f6676f2df9f1850933e274401de,Web APIs
 web/api/shadowroot/adoptedstylesheets,4f35a8237ee0842beb9cfef3354e05464ad7ce1a,Web APIs
 web/api/shadowroot/clonable,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -7854,7 +7854,7 @@ web/api/shadowroot/mode,4e2a9fb782fc314d8cc71dc93d8b31bdf4a4c3d6,Web APIs
 web/api/shadowroot/pictureinpictureelement,bb4d21e3c6e71db4e0ba983a450d6ed628e82670,Web APIs
 web/api/shadowroot/pointerlockelement,c99ff93a1b71e7d664509fdd3e0c168920be967a,Web APIs
 web/api/shadowroot/serializable,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
-web/api/shadowroot/sethtml,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
+web/api/shadowroot/sethtml,9cf3002bd29376c15d49df6fab2e6a264285abf6,Web APIs
 web/api/shadowroot/sethtmlunsafe,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/shadowroot/slotassignment,f77236a72e479b61c6b1cb6059c9ae1e90f4c7cd,Web APIs
 web/api/shadowroot/stylesheets,f2f9346c0c0e9f6676f2df9f1850933e274401de,Web APIs
@@ -9714,7 +9714,7 @@ web/api/wheelevent/deltax,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltay,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltaz,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/wheelevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
-web/api/window,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,Web APIs
+web/api/window,9cf3002bd29376c15d49df6fab2e6a264285abf6,Web APIs
 web/api/window/afterprint_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/window/alert,e3faa375b0179de77a5eff00074e3d168a0a904c,Web APIs
 web/api/window/appinstalled_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -9820,7 +9820,7 @@ web/api/window/reporterror,4f90930051faa1ff1f4278068885e59c5bbb0069,Web APIs
 web/api/window/requestanimationframe,90c1d8efd51c2f82d26e6b79e442f9dbcfafd048,Web APIs
 web/api/window/requestfilesystem,0916e1754652f3a7c663ef031faa26c98f492023,Web APIs
 web/api/window/requestidlecallback,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/window/requestresize,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,Web APIs
+web/api/window/requestresize,9cf3002bd29376c15d49df6fab2e6a264285abf6,Web APIs
 web/api/window/resize_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/window/resizeby,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/window/resizeto,e561fa67af347b9770b359ba93e8579d2a540682,Web APIs
@@ -10518,6 +10518,7 @@ web/css/guides/values_and_units/value_definition_syntax,33094d735e90b4dcae573333
 web/css/guides/view_transitions,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,CSS|Guides
 web/css/guides/viewport,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/webxr_dom_overlays,52a247932646cc4cb4b3a9bb50d7bd66d1fdc713,CSS|Guides
+web/css/guides/will_change,5362c0545d8dc2a859fd2f64de41d576931d6a2e,CSS|Guides
 web/css/guides/writing_modes,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
 web/css/guides/writing_modes/vertical_controls,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
 web/css/guides/writing_modes/writing_mode_systems,c53bfa01f3bf436d486f4032c16f592855a2af2c,CSS|Guides
@@ -10892,7 +10893,7 @@ web/css/reference/properties/font-variation-settings,bcbb4bd6a80292c0663b723d546
 web/css/reference/properties/font-weight,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/forced-color-adjust,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/frame-sizing,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,CSS|Properties
+web/css/reference/properties/frame-sizing,9cf3002bd29376c15d49df6fab2e6a264285abf6,CSS|Properties
 web/css/reference/properties/gap,7f138099644a02640a903b2abc39e685ca8ca7cd,CSS|Properties
 web/css/reference/properties/grid,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11060,8 +11061,11 @@ web/css/reference/properties/resize,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS
 web/css/reference/properties/right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/rotate,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/row-gap,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Properties
-web/css/reference/properties/row-rule-color,c2b19ba089e2aa91491254bb76b9cbfcc27d7826,CSS|Properties
+web/css/reference/properties/row-rule,b13ef1ff1d0914617689df9074b24d41486e91b2,CSS|Properties
+web/css/reference/properties/row-rule-color,9cf3002bd29376c15d49df6fab2e6a264285abf6,CSS|Properties
+web/css/reference/properties/row-rule-style,b13ef1ff1d0914617689df9074b24d41486e91b2,CSS|Properties
 web/css/reference/properties/row-rule-visibility-items,afcdfa050626bb7eb05ee693df8997020db9ff2e,CSS|Properties
+web/css/reference/properties/row-rule-width,b13ef1ff1d0914617689df9074b24d41486e91b2,CSS|Properties
 web/css/reference/properties/ruby-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ruby-overhang,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ruby-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11186,7 +11190,7 @@ web/css/reference/properties/white-space,bcbb4bd6a80292c0663b723d5466759cfaaa831
 web/css/reference/properties/white-space-collapse,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/widows,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/width,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
-web/css/reference/properties/will-change,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/will-change,5362c0545d8dc2a859fd2f64de41d576931d6a2e,CSS|Properties
 web/css/reference/properties/word-break,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/word-spacing,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/writing-mode,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
