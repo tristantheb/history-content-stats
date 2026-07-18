@@ -10518,6 +10518,7 @@ web/css/guides/values_and_units/value_definition_syntax,null
 web/css/guides/view_transitions,null
 web/css/guides/viewport,null
 web/css/guides/webxr_dom_overlays,null
+web/css/guides/will_change,null
 web/css/guides/writing_modes,null
 web/css/guides/writing_modes/vertical_controls,null
 web/css/guides/writing_modes/writing_mode_systems,null
@@ -11060,8 +11061,11 @@ web/css/reference/properties/resize,null
 web/css/reference/properties/right,null
 web/css/reference/properties/rotate,null
 web/css/reference/properties/row-gap,null
+web/css/reference/properties/row-rule,null
 web/css/reference/properties/row-rule-color,null
+web/css/reference/properties/row-rule-style,null
 web/css/reference/properties/row-rule-visibility-items,null
+web/css/reference/properties/row-rule-width,null
 web/css/reference/properties/ruby-align,null
 web/css/reference/properties/ruby-overhang,null
 web/css/reference/properties/ruby-position,null

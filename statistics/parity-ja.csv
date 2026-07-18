@@ -3469,7 +3469,7 @@ web/api/deviceposture/change_event,0
 web/api/deviceposture/type,0
 web/api/directoryentrysync,5
 web/api/directoryreadersync,null
-web/api/document,16
+web/api/document,17
 web/api/document/activeelement,6
 web/api/document/activeviewtransition,1
 web/api/document/adoptedstylesheets,5
@@ -3569,7 +3569,7 @@ web/api/document/location,1
 web/api/document/movebefore,1
 web/api/document/mozsetimageelement,3
 web/api/document/open,2
-web/api/document/parsehtml_static,3
+web/api/document/parsehtml_static,4
 web/api/document/parsehtmlunsafe_static,0
 web/api/document/pictureinpictureelement,1
 web/api/document/pictureinpictureenabled,1
@@ -6317,7 +6317,7 @@ web/api/navigator/getgamepads,2
 web/api/navigator/getinstalledrelatedapps,7
 web/api/navigator/getusermedia,2
 web/api/navigator/getvrdisplays,1
-web/api/navigator/globalprivacycontrol,7
+web/api/navigator/globalprivacycontrol,8
 web/api/navigator/gpu,4
 web/api/navigator/hardwareconcurrency,1
 web/api/navigator/hid,3
@@ -7837,7 +7837,7 @@ web/api/serviceworkerregistration/update,5
 web/api/serviceworkerregistration/updatefound_event,5
 web/api/serviceworkerregistration/updateviacache,6
 web/api/serviceworkerregistration/waiting,6
-web/api/shadowroot,11
+web/api/shadowroot,12
 web/api/shadowroot/activeelement,0
 web/api/shadowroot/adoptedstylesheets,0
 web/api/shadowroot/clonable,1
@@ -9714,7 +9714,7 @@ web/api/wheelevent/deltax,2
 web/api/wheelevent/deltay,2
 web/api/wheelevent/deltaz,2
 web/api/wheelevent/wheelevent,4
-web/api/window,12
+web/api/window,13
 web/api/window/afterprint_event,0
 web/api/window/alert,0
 web/api/window/appinstalled_event,6
@@ -10518,6 +10518,7 @@ web/css/guides/values_and_units/value_definition_syntax,0
 web/css/guides/view_transitions,1
 web/css/guides/viewport,0
 web/css/guides/webxr_dom_overlays,null
+web/css/guides/will_change,null
 web/css/guides/writing_modes,2
 web/css/guides/writing_modes/vertical_controls,0
 web/css/guides/writing_modes/writing_mode_systems,2
@@ -11060,8 +11061,11 @@ web/css/reference/properties/resize,1
 web/css/reference/properties/right,1
 web/css/reference/properties/rotate,1
 web/css/reference/properties/row-gap,2
+web/css/reference/properties/row-rule,null
 web/css/reference/properties/row-rule-color,null
+web/css/reference/properties/row-rule-style,null
 web/css/reference/properties/row-rule-visibility-items,null
+web/css/reference/properties/row-rule-width,null
 web/css/reference/properties/ruby-align,0
 web/css/reference/properties/ruby-overhang,0
 web/css/reference/properties/ruby-position,0
@@ -11186,7 +11190,7 @@ web/css/reference/properties/white-space,0
 web/css/reference/properties/white-space-collapse,0
 web/css/reference/properties/widows,1
 web/css/reference/properties/width,4
-web/css/reference/properties/will-change,1
+web/css/reference/properties/will-change,2
 web/css/reference/properties/word-break,1
 web/css/reference/properties/word-spacing,3
 web/css/reference/properties/writing-mode,2
