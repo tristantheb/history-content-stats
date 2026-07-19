@@ -3959,7 +3959,7 @@ web/api/element/mouseup_event,null
 web/api/element/mousewheel_event,null
 web/api/element/movebefore,null
 web/api/element/mozmousepixelscroll_event,null
-web/api/element/namespaceuri,null
+web/api/element/namespaceuri,0
 web/api/element/nextelementsibling,null
 web/api/element/outerhtml,null
 web/api/element/part,null
@@ -11549,7 +11549,7 @@ web/css/reference/values/transform-function/translatez,null
 web/css/reference/values/type,null
 web/css/reference/values/unset,null
 web/css/reference/values/url_function,8
-web/css/reference/values/url_value,4
+web/css/reference/values/url_value,0
 web/css/reference/values/var,null
 web/css/reference/webkit_extensions,null
 web/css/tutorials,null
