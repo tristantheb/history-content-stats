@@ -2645,7 +2645,7 @@ web/api/element/mouseout_event,no_hash_commit
 web/api/element/mouseover_event,no_hash_commit
 web/api/element/mouseup_event,no_hash_commit
 web/api/element/mousewheel_event,no_hash_commit
-web/api/element/namespaceuri,no_hash_commit
+web/api/element/namespaceuri,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/nextelementsibling,no_hash_commit
 web/api/element/outerhtml,no_hash_commit
 web/api/element/paste_event,no_hash_commit
@@ -5832,7 +5832,7 @@ web/css/reference/values/transform-function/translatex,no_hash_commit
 web/css/reference/values/transform-function/translatey,no_hash_commit
 web/css/reference/values/unset,no_hash_commit
 web/css/reference/values/url_function,b6f6c10c9c3a73e8a1f1c7bc643b44b2521cb234
-web/css/reference/values/url_value,0cc9980e3b21c83d1800a428bc402ae1865326b2
+web/css/reference/values/url_value,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/var,no_hash_commit
 web/css/reference/webkit_extensions,no_hash_commit
 web/css/tutorials,no_hash_commit
