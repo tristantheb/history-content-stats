@@ -710,7 +710,7 @@ learn_web_development/core/css_layout,0
 learn_web_development/core/css_layout/flexbox,1
 learn_web_development/core/css_layout/floats,0
 learn_web_development/core/css_layout/fundamental_layout_comprehension,0
-learn_web_development/core/css_layout/grids,2
+learn_web_development/core/css_layout/grids,3
 learn_web_development/core/css_layout/introduction,0
 learn_web_development/core/css_layout/legacy_layout_methods,0
 learn_web_development/core/css_layout/media_queries,1
@@ -805,7 +805,7 @@ learn_web_development/core/structuring_content,0
 learn_web_development/core/structuring_content/advanced_text_features,0
 learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
-learn_web_development/core/structuring_content/debugging_html,1
+learn_web_development/core/structuring_content/debugging_html,2
 learn_web_development/core/structuring_content/emphasis_and_importance,0
 learn_web_development/core/structuring_content/forms_challenge,3
 learn_web_development/core/structuring_content/general_embedding_technologies,0
@@ -887,7 +887,7 @@ learn_web_development/extensions/async_js/introducing_workers,2
 learn_web_development/extensions/async_js/promises,5
 learn_web_development/extensions/async_js/sequencing_animations,2
 learn_web_development/extensions/client-side_apis,0
-learn_web_development/extensions/client-side_apis/client-side_storage,0
+learn_web_development/extensions/client-side_apis/client-side_storage,1
 learn_web_development/extensions/client-side_apis/drawing_graphics,0
 learn_web_development/extensions/client-side_apis/introduction,0
 learn_web_development/extensions/client-side_apis/third_party_apis,0
@@ -992,7 +992,7 @@ learn_web_development/extensions/testing/introduction,8
 learn_web_development/extensions/testing/testing_strategies,10
 learn_web_development/extensions/testing/your_own_automation_environment,12
 learn_web_development/getting_started,6
-learn_web_development/getting_started/environment_setup,5
+learn_web_development/getting_started/environment_setup,0
 learn_web_development/getting_started/environment_setup/browsing_the_web,2
 learn_web_development/getting_started/environment_setup/code_editors,8
 learn_web_development/getting_started/environment_setup/command_line,11
@@ -1005,13 +1005,13 @@ learn_web_development/getting_started/soft_skills/research_and_learning,12
 learn_web_development/getting_started/soft_skills/workflows_and_processes,7
 learn_web_development/getting_started/web_standards,0
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
-learn_web_development/getting_started/web_standards/how_the_web_works,0
+learn_web_development/getting_started/web_standards/how_the_web_works,1
 learn_web_development/getting_started/web_standards/the_web_standards_model,0
 learn_web_development/getting_started/your_first_website,7
 learn_web_development/getting_started/your_first_website/adding_interactivity,14
 learn_web_development/getting_started/your_first_website/creating_the_content,14
 learn_web_development/getting_started/your_first_website/publishing_your_website,10
-learn_web_development/getting_started/your_first_website/styling_the_content,13
+learn_web_development/getting_started/your_first_website/styling_the_content,14
 learn_web_development/getting_started/your_first_website/what_will_your_website_look_like,8
 learn_web_development/howto,3
 learn_web_development/howto/design_and_accessibility,0
@@ -2805,7 +2805,7 @@ web/api/canvasrenderingcontext2d/imagesmoothingquality,3
 web/api/canvasrenderingcontext2d/iscontextlost,0
 web/api/canvasrenderingcontext2d/ispointinpath,0
 web/api/canvasrenderingcontext2d/ispointinstroke,0
-web/api/canvasrenderingcontext2d/lang,2
+web/api/canvasrenderingcontext2d/lang,3
 web/api/canvasrenderingcontext2d/letterspacing,3
 web/api/canvasrenderingcontext2d/linecap,3
 web/api/canvasrenderingcontext2d/linedashoffset,0
@@ -4201,7 +4201,7 @@ web/api/featurepolicy/features,null
 web/api/featurepolicy/getallowlistforfeature,null
 web/api/fedcm_api,0
 web/api/fedcm_api/idp_integration,0
-web/api/fedcm_api/rp_sign-in,null
+web/api/fedcm_api/rp_sign-in,1
 web/api/federatedcredential,4
 web/api/federatedcredential/federatedcredential,4
 web/api/federatedcredential/protocol,0
@@ -9777,7 +9777,7 @@ web/api/window/languagechange_event,null
 web/api/window/launchqueue,1
 web/api/window/length,0
 web/api/window/load_event,9
-web/api/window/localstorage,4
+web/api/window/localstorage,0
 web/api/window/location,1
 web/api/window/locationbar,0
 web/api/window/matchmedia,0
@@ -12688,7 +12688,7 @@ web/javascript/reference/global_objects/intl/locale/script,0
 web/javascript/reference/global_objects/intl/locale/tostring,0
 web/javascript/reference/global_objects/intl/locale/variants,0
 web/javascript/reference/global_objects/intl/numberformat,0
-web/javascript/reference/global_objects/intl/numberformat/format,0
+web/javascript/reference/global_objects/intl/numberformat/format,1
 web/javascript/reference/global_objects/intl/numberformat/formatrange,0
 web/javascript/reference/global_objects/intl/numberformat/formatrangetoparts,0
 web/javascript/reference/global_objects/intl/numberformat/formattoparts,0
@@ -13708,7 +13708,7 @@ web/security/authentication/passkeys,0
 web/security/authentication/passwords,0
 web/security/authentication/session_management,0
 web/security/defenses,3
-web/security/defenses/certificate_transparency,1
+web/security/defenses/certificate_transparency,2
 web/security/defenses/input_validation,null
 web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,0
