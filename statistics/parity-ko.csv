@@ -710,7 +710,7 @@ learn_web_development/core/css_layout,9
 learn_web_development/core/css_layout/flexbox,null
 learn_web_development/core/css_layout/floats,null
 learn_web_development/core/css_layout/fundamental_layout_comprehension,10
-learn_web_development/core/css_layout/grids,14
+learn_web_development/core/css_layout/grids,15
 learn_web_development/core/css_layout/introduction,8
 learn_web_development/core/css_layout/legacy_layout_methods,null
 learn_web_development/core/css_layout/media_queries,14
@@ -13708,7 +13708,7 @@ web/security/authentication/passkeys,null
 web/security/authentication/passwords,3
 web/security/authentication/session_management,null
 web/security/defenses,null
-web/security/defenses/certificate_transparency,3
+web/security/defenses/certificate_transparency,4
 web/security/defenses/input_validation,null
 web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,2

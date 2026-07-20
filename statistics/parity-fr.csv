@@ -805,7 +805,7 @@ learn_web_development/core/structuring_content,0
 learn_web_development/core/structuring_content/advanced_text_features,0
 learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
-learn_web_development/core/structuring_content/debugging_html,0
+learn_web_development/core/structuring_content/debugging_html,1
 learn_web_development/core/structuring_content/emphasis_and_importance,0
 learn_web_development/core/structuring_content/forms_challenge,0
 learn_web_development/core/structuring_content/general_embedding_technologies,0
@@ -1005,13 +1005,13 @@ learn_web_development/getting_started/soft_skills/research_and_learning,0
 learn_web_development/getting_started/soft_skills/workflows_and_processes,0
 learn_web_development/getting_started/web_standards,0
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
-learn_web_development/getting_started/web_standards/how_the_web_works,0
+learn_web_development/getting_started/web_standards/how_the_web_works,1
 learn_web_development/getting_started/web_standards/the_web_standards_model,0
 learn_web_development/getting_started/your_first_website,0
 learn_web_development/getting_started/your_first_website/adding_interactivity,0
 learn_web_development/getting_started/your_first_website/creating_the_content,0
 learn_web_development/getting_started/your_first_website/publishing_your_website,0
-learn_web_development/getting_started/your_first_website/styling_the_content,0
+learn_web_development/getting_started/your_first_website/styling_the_content,1
 learn_web_development/getting_started/your_first_website/what_will_your_website_look_like,0
 learn_web_development/howto,null
 learn_web_development/howto/design_and_accessibility,null
@@ -12688,7 +12688,7 @@ web/javascript/reference/global_objects/intl/locale/script,0
 web/javascript/reference/global_objects/intl/locale/tostring,0
 web/javascript/reference/global_objects/intl/locale/variants,0
 web/javascript/reference/global_objects/intl/numberformat,0
-web/javascript/reference/global_objects/intl/numberformat/format,0
+web/javascript/reference/global_objects/intl/numberformat/format,1
 web/javascript/reference/global_objects/intl/numberformat/formatrange,0
 web/javascript/reference/global_objects/intl/numberformat/formatrangetoparts,0
 web/javascript/reference/global_objects/intl/numberformat/formattoparts,0
@@ -13708,7 +13708,7 @@ web/security/authentication/passkeys,null
 web/security/authentication/passwords,null
 web/security/authentication/session_management,null
 web/security/defenses,4
-web/security/defenses/certificate_transparency,2
+web/security/defenses/certificate_transparency,3
 web/security/defenses/input_validation,null
 web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,0
