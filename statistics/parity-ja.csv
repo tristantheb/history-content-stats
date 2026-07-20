@@ -1970,9 +1970,10 @@ mozilla/firefox/releases/149,1
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,2
 mozilla/firefox/releases/151,0
-mozilla/firefox/releases/152,1
+mozilla/firefox/releases/152,2
 mozilla/firefox/releases/153,null
 mozilla/firefox/releases/154,null
+mozilla/firefox/releases/155,null
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -12187,7 +12188,7 @@ web/javascript/guide/closures,0
 web/javascript/guide/control_flow_and_error_handling,0
 web/javascript/guide/data_structures,0
 web/javascript/guide/enumerability_and_ownership_of_properties,0
-web/javascript/guide/equality_comparisons_and_sameness,0
+web/javascript/guide/equality_comparisons_and_sameness,1
 web/javascript/guide/expressions_and_operators,0
 web/javascript/guide/functions,0
 web/javascript/guide/grammar_and_types,1
