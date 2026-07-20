@@ -997,7 +997,7 @@ learn_web_development/getting_started/environment_setup/browsing_the_web,2
 learn_web_development/getting_started/environment_setup/code_editors,8
 learn_web_development/getting_started/environment_setup/command_line,11
 learn_web_development/getting_started/environment_setup/dealing_with_files,10
-learn_web_development/getting_started/environment_setup/installing_software,16
+learn_web_development/getting_started/environment_setup/installing_software,0
 learn_web_development/getting_started/soft_skills,4
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,9
 learn_web_development/getting_started/soft_skills/finding_a_job,6
@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,5
+mozilla/firefox/experimental_features,7
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
