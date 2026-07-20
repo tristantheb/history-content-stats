@@ -4447,7 +4447,7 @@ web/api/transformstreamdefaultcontroller/terminate,d8b4431bfde42f1bc195239ea1f37
 web/api/transitionevent,no_hash_commit
 web/api/treewalker,no_hash_commit
 web/api/ui_events/keyboard_event_key_values,no_hash_commit
-web/api/uievent/detail,no_hash_commit
+web/api/uievent/detail,0c8a320b035cf625c1df67713a94ead2e7f3aec6
 web/api/uievent,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 web/api/uievent/inituievent,22080a7cc403f7f45c8e85065b182c9f0d4d383c
 web/api/uievent/sourcecapabilities,8cac4a3fed6a702840efd2deda67a922120732d0
@@ -5405,7 +5405,7 @@ web/css/reference/properties/hanging-punctuation,no_hash_commit
 web/css/reference/properties/height,no_hash_commit
 web/css/reference/properties/hyphens,no_hash_commit
 web/css/reference/properties/image-orientation,no_hash_commit
-web/css/reference/properties/image-rendering,no_hash_commit
+web/css/reference/properties/image-rendering,d314d089e9be9ac78a91ba95ee80cad7d3cbe8c2
 web/css/reference/properties,12b296d2b3937c45b2363f34ed8afadcf00ed166
 web/css/reference/properties/initial-letter,33cd63a518c57caded1b43ff9fff071230a2397a
 web/css/reference/properties/inline-size,no_hash_commit
@@ -7469,7 +7469,7 @@ web/svg/reference/element/switch,no_hash_commit
 web/svg/reference/element/symbol,no_hash_commit
 web/svg/reference/element/text,no_hash_commit
 web/svg/reference/element/textpath,no_hash_commit
-web/svg/reference/element/title,no_hash_commit
+web/svg/reference/element/title,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/tspan,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/use,2e5fc06de139c56873a20ec4bc3bf5600ea3cbef
 web/svg/reference/element/view,eb2d8ffb82c8a6fa4e55aad2835215ffada25897
