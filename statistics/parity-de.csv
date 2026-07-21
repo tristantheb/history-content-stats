@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,2
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1970,10 +1970,10 @@ mozilla/firefox/releases/149,0
 mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
-mozilla/firefox/releases/152,1
-mozilla/firefox/releases/153,4
-mozilla/firefox/releases/154,1
-mozilla/firefox/releases/155,null
+mozilla/firefox/releases/152,0
+mozilla/firefox/releases/153,0
+mozilla/firefox/releases/154,0
+mozilla/firefox/releases/155,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -12188,7 +12188,7 @@ web/javascript/guide/closures,0
 web/javascript/guide/control_flow_and_error_handling,0
 web/javascript/guide/data_structures,0
 web/javascript/guide/enumerability_and_ownership_of_properties,0
-web/javascript/guide/equality_comparisons_and_sameness,1
+web/javascript/guide/equality_comparisons_and_sameness,0
 web/javascript/guide/expressions_and_operators,0
 web/javascript/guide/functions,0
 web/javascript/guide/grammar_and_types,0

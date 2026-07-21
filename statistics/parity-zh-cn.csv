@@ -4676,7 +4676,7 @@ web/api/headers/has,1
 web/api/headers/headers,1
 web/api/headers/keys,null
 web/api/headers/set,2
-web/api/headers/values,null
+web/api/headers/values,0
 web/api/hid,0
 web/api/hid/connect_event,1
 web/api/hid/disconnect_event,1
@@ -9784,7 +9784,7 @@ web/api/window/locationbar,0
 web/api/window/matchmedia,null
 web/api/window/menubar,0
 web/api/window/message_event,null
-web/api/window/messageerror_event,null
+web/api/window/messageerror_event,0
 web/api/window/moveby,0
 web/api/window/moveto,0
 web/api/window/mozinnerscreenx,0
