@@ -2957,7 +2957,7 @@ web/api/headers/headers,2c641e08878722bf29fb784d58c61873ce4a133a
 web/api/headers,no_hash_commit
 web/api/headers/keys,no_hash_commit
 web/api/headers/set,2c641e08878722bf29fb784d58c61873ce4a133a
-web/api/headers/values,no_hash_commit
+web/api/headers/values,e81cf36acffe197d01b1ad282c3582ebd7b0b54d
 web/api/hid/connect_event,534e2c61fee576355e8a9b7036d9fa36056edb03
 web/api/hid/disconnect_event,534e2c61fee576355e8a9b7036d9fa36056edb03
 web/api/hid/getdevices,534e2c61fee576355e8a9b7036d9fa36056edb03
@@ -4803,7 +4803,7 @@ web/api/window/locationbar,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/matchmedia,no_hash_commit
 web/api/window/menubar,62cedc63226017e9e7d0718b6fea3529ca8dbf37
 web/api/window/message_event,no_hash_commit
-web/api/window/messageerror_event,no_hash_commit
+web/api/window/messageerror_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec
 web/api/window/moveby,20c51db7895b1b6f41d4fa90e71830f4b6678eea
 web/api/window/moveto,20c51db7895b1b6f41d4fa90e71830f4b6678eea
 web/api/window/mozinnerscreenx,e561fa67af347b9770b359ba93e8579d2a540682
