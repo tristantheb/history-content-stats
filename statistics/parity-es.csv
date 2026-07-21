@@ -10694,7 +10694,7 @@ web/css/reference/properties/background-attachment,null
 web/css/reference/properties/background-blend-mode,null
 web/css/reference/properties/background-clip,null
 web/css/reference/properties/background-color,null
-web/css/reference/properties/background-image,7
+web/css/reference/properties/background-image,8
 web/css/reference/properties/background-origin,null
 web/css/reference/properties/background-position,null
 web/css/reference/properties/background-position-x,null
@@ -11126,7 +11126,7 @@ web/css/reference/properties/stroke-opacity,null
 web/css/reference/properties/stroke-width,null
 web/css/reference/properties/tab-size,null
 web/css/reference/properties/table-layout,null
-web/css/reference/properties/text-align,2
+web/css/reference/properties/text-align,3
 web/css/reference/properties/text-align-last,null
 web/css/reference/properties/text-anchor,null
 web/css/reference/properties/text-autospace,null
@@ -11137,7 +11137,7 @@ web/css/reference/properties/text-combine-upright,null
 web/css/reference/properties/text-decoration,null
 web/css/reference/properties/text-decoration-color,null
 web/css/reference/properties/text-decoration-inset,null
-web/css/reference/properties/text-decoration-line,2
+web/css/reference/properties/text-decoration-line,3
 web/css/reference/properties/text-decoration-skip,null
 web/css/reference/properties/text-decoration-skip-ink,null
 web/css/reference/properties/text-decoration-style,null
@@ -11157,7 +11157,7 @@ web/css/reference/properties/text-spacing-trim,null
 web/css/reference/properties/text-transform,null
 web/css/reference/properties/text-underline-offset,null
 web/css/reference/properties/text-underline-position,null
-web/css/reference/properties/text-wrap,7
+web/css/reference/properties/text-wrap,8
 web/css/reference/properties/text-wrap-mode,null
 web/css/reference/properties/text-wrap-style,null
 web/css/reference/properties/timeline-scope,null

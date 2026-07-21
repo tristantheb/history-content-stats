@@ -10666,7 +10666,7 @@ web/css/reference/properties/align-content,null
 web/css/reference/properties/align-items,null
 web/css/reference/properties/align-self,null
 web/css/reference/properties/alignment-baseline,null
-web/css/reference/properties/all,6
+web/css/reference/properties/all,7
 web/css/reference/properties/anchor-name,null
 web/css/reference/properties/anchor-scope,null
 web/css/reference/properties/animation,null
@@ -10693,7 +10693,7 @@ web/css/reference/properties/background,null
 web/css/reference/properties/background-attachment,null
 web/css/reference/properties/background-blend-mode,null
 web/css/reference/properties/background-clip,null
-web/css/reference/properties/background-color,5
+web/css/reference/properties/background-color,6
 web/css/reference/properties/background-image,null
 web/css/reference/properties/background-origin,null
 web/css/reference/properties/background-position,null
@@ -10802,11 +10802,11 @@ web/css/reference/properties/column-gap,null
 web/css/reference/properties/column-height,null
 web/css/reference/properties/column-rule,null
 web/css/reference/properties/column-rule-color,null
-web/css/reference/properties/column-rule-style,2
+web/css/reference/properties/column-rule-style,3
 web/css/reference/properties/column-rule-visibility-items,null
-web/css/reference/properties/column-rule-width,2
+web/css/reference/properties/column-rule-width,3
 web/css/reference/properties/column-span,null
-web/css/reference/properties/column-width,5
+web/css/reference/properties/column-width,6
 web/css/reference/properties/column-wrap,null
 web/css/reference/properties/columns,null
 web/css/reference/properties/contain,null
@@ -10893,7 +10893,7 @@ web/css/reference/properties/font-variant-position,null
 web/css/reference/properties/font-variation-settings,3
 web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
-web/css/reference/properties/forced-color-adjust,3
+web/css/reference/properties/forced-color-adjust,4
 web/css/reference/properties/frame-sizing,null
 web/css/reference/properties/gap,7
 web/css/reference/properties/grid,null
@@ -10933,7 +10933,7 @@ web/css/reference/properties/interest-delay,null
 web/css/reference/properties/interest-delay-end,null
 web/css/reference/properties/interest-delay-start,null
 web/css/reference/properties/interpolate-size,null
-web/css/reference/properties/isolation,2
+web/css/reference/properties/isolation,3
 web/css/reference/properties/justify-content,null
 web/css/reference/properties/justify-items,null
 web/css/reference/properties/justify-self,null
@@ -11009,7 +11009,7 @@ web/css/reference/properties/outline,null
 web/css/reference/properties/outline-color,null
 web/css/reference/properties/outline-offset,2
 web/css/reference/properties/outline-style,null
-web/css/reference/properties/outline-width,2
+web/css/reference/properties/outline-width,3
 web/css/reference/properties/overflow,null
 web/css/reference/properties/overflow-anchor,null
 web/css/reference/properties/overflow-block,null
@@ -11053,7 +11053,7 @@ web/css/reference/properties/position-try,null
 web/css/reference/properties/position-try-fallbacks,null
 web/css/reference/properties/position-try-order,null
 web/css/reference/properties/position-visibility,null
-web/css/reference/properties/print-color-adjust,4
+web/css/reference/properties/print-color-adjust,5
 web/css/reference/properties/quotes,null
 web/css/reference/properties/r,null
 web/css/reference/properties/reading-flow,null
@@ -11126,7 +11126,7 @@ web/css/reference/properties/stroke-opacity,null
 web/css/reference/properties/stroke-width,null
 web/css/reference/properties/tab-size,null
 web/css/reference/properties/table-layout,null
-web/css/reference/properties/text-align,2
+web/css/reference/properties/text-align,3
 web/css/reference/properties/text-align-last,null
 web/css/reference/properties/text-anchor,null
 web/css/reference/properties/text-autospace,3
@@ -11163,7 +11163,7 @@ web/css/reference/properties/text-wrap-style,null
 web/css/reference/properties/timeline-scope,null
 web/css/reference/properties/top,null
 web/css/reference/properties/touch-action,null
-web/css/reference/properties/transform,5
+web/css/reference/properties/transform,6
 web/css/reference/properties/transform-box,null
 web/css/reference/properties/transform-origin,null
 web/css/reference/properties/transform-style,null

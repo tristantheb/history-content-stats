@@ -10693,7 +10693,7 @@ web/css/reference/properties/background,null
 web/css/reference/properties/background-attachment,6
 web/css/reference/properties/background-blend-mode,null
 web/css/reference/properties/background-clip,null
-web/css/reference/properties/background-color,5
+web/css/reference/properties/background-color,6
 web/css/reference/properties/background-image,null
 web/css/reference/properties/background-origin,null
 web/css/reference/properties/background-position,null
@@ -10720,7 +10720,7 @@ web/css/reference/properties/border-block-start-width,null
 web/css/reference/properties/border-block-style,null
 web/css/reference/properties/border-block-width,null
 web/css/reference/properties/border-bottom,null
-web/css/reference/properties/border-bottom-color,3
+web/css/reference/properties/border-bottom-color,4
 web/css/reference/properties/border-bottom-left-radius,null
 web/css/reference/properties/border-bottom-right-radius,null
 web/css/reference/properties/border-bottom-style,null
@@ -10748,12 +10748,12 @@ web/css/reference/properties/border-inline-start-width,null
 web/css/reference/properties/border-inline-style,null
 web/css/reference/properties/border-inline-width,null
 web/css/reference/properties/border-left,null
-web/css/reference/properties/border-left-color,3
+web/css/reference/properties/border-left-color,4
 web/css/reference/properties/border-left-style,null
 web/css/reference/properties/border-left-width,null
 web/css/reference/properties/border-radius,null
 web/css/reference/properties/border-right,null
-web/css/reference/properties/border-right-color,3
+web/css/reference/properties/border-right-color,4
 web/css/reference/properties/border-right-style,null
 web/css/reference/properties/border-right-width,null
 web/css/reference/properties/border-shape,null
@@ -10762,7 +10762,7 @@ web/css/reference/properties/border-start-end-radius,null
 web/css/reference/properties/border-start-start-radius,null
 web/css/reference/properties/border-style,null
 web/css/reference/properties/border-top,null
-web/css/reference/properties/border-top-color,3
+web/css/reference/properties/border-top-color,4
 web/css/reference/properties/border-top-left-radius,null
 web/css/reference/properties/border-top-right-radius,null
 web/css/reference/properties/border-top-style,null
