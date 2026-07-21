@@ -10675,7 +10675,7 @@ web/css/reference/properties/animation-delay,null
 web/css/reference/properties/animation-direction,null
 web/css/reference/properties/animation-duration,null
 web/css/reference/properties/animation-fill-mode,null
-web/css/reference/properties/animation-iteration-count,4
+web/css/reference/properties/animation-iteration-count,5
 web/css/reference/properties/animation-name,null
 web/css/reference/properties/animation-play-state,null
 web/css/reference/properties/animation-range,null
@@ -11014,7 +11014,7 @@ web/css/reference/properties/overflow,null
 web/css/reference/properties/overflow-anchor,3
 web/css/reference/properties/overflow-block,null
 web/css/reference/properties/overflow-clip-margin,null
-web/css/reference/properties/overflow-inline,3
+web/css/reference/properties/overflow-inline,4
 web/css/reference/properties/overflow-wrap,null
 web/css/reference/properties/overflow-x,null
 web/css/reference/properties/overflow-y,null
@@ -11058,7 +11058,7 @@ web/css/reference/properties/quotes,null
 web/css/reference/properties/r,null
 web/css/reference/properties/reading-flow,null
 web/css/reference/properties/reading-order,null
-web/css/reference/properties/resize,2
+web/css/reference/properties/resize,3
 web/css/reference/properties/right,null
 web/css/reference/properties/rotate,null
 web/css/reference/properties/row-gap,null
@@ -11074,7 +11074,7 @@ web/css/reference/properties/rule-visibility-items,null
 web/css/reference/properties/rx,null
 web/css/reference/properties/ry,null
 web/css/reference/properties/scale,2
-web/css/reference/properties/scroll-behavior,2
+web/css/reference/properties/scroll-behavior,3
 web/css/reference/properties/scroll-initial-target,null
 web/css/reference/properties/scroll-margin,null
 web/css/reference/properties/scroll-margin-block,null
@@ -11149,7 +11149,7 @@ web/css/reference/properties/text-emphasis-style,null
 web/css/reference/properties/text-indent,null
 web/css/reference/properties/text-justify,null
 web/css/reference/properties/text-orientation,null
-web/css/reference/properties/text-overflow,3
+web/css/reference/properties/text-overflow,4
 web/css/reference/properties/text-rendering,null
 web/css/reference/properties/text-shadow,null
 web/css/reference/properties/text-size-adjust,null
@@ -11157,7 +11157,7 @@ web/css/reference/properties/text-spacing-trim,null
 web/css/reference/properties/text-transform,null
 web/css/reference/properties/text-underline-offset,null
 web/css/reference/properties/text-underline-position,null
-web/css/reference/properties/text-wrap,7
+web/css/reference/properties/text-wrap,8
 web/css/reference/properties/text-wrap-mode,null
 web/css/reference/properties/text-wrap-style,null
 web/css/reference/properties/timeline-scope,null
