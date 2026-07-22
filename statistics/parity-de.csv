@@ -2149,7 +2149,7 @@ web/accessibility/aria/reference/attributes/aria-live,0
 web/accessibility/aria/reference/attributes/aria-modal,0
 web/accessibility/aria/reference/attributes/aria-multiline,0
 web/accessibility/aria/reference/attributes/aria-multiselectable,0
-web/accessibility/aria/reference/attributes/aria-orientation,0
+web/accessibility/aria/reference/attributes/aria-orientation,1
 web/accessibility/aria/reference/attributes/aria-owns,0
 web/accessibility/aria/reference/attributes/aria-placeholder,0
 web/accessibility/aria/reference/attributes/aria-posinset,0
