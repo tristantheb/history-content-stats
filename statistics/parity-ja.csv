@@ -1830,7 +1830,7 @@ mozilla/add-ons/webextensions/implement_a_settings_page,null
 mozilla/add-ons/webextensions/interact_with_the_clipboard,14
 mozilla/add-ons/webextensions/intercept_http_requests,6
 mozilla/add-ons/webextensions/internationalization,0
-mozilla/add-ons/webextensions/manifest.json,1
+mozilla/add-ons/webextensions/manifest.json,2
 mozilla/add-ons/webextensions/manifest.json/action,null
 mozilla/add-ons/webextensions/manifest.json/author,null
 mozilla/add-ons/webextensions/manifest.json/background,null
@@ -1855,7 +1855,6 @@ mozilla/add-ons/webextensions/manifest.json/icons,null
 mozilla/add-ons/webextensions/manifest.json/incognito,null
 mozilla/add-ons/webextensions/manifest.json/manifest_version,null
 mozilla/add-ons/webextensions/manifest.json/name,null
-mozilla/add-ons/webextensions/manifest.json/offline_enabled,null
 mozilla/add-ons/webextensions/manifest.json/omnibox,null
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,null
 mozilla/add-ons/webextensions/manifest.json/optional_permissions,null

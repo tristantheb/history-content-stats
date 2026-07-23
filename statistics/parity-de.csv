@@ -1830,7 +1830,7 @@ mozilla/add-ons/webextensions/implement_a_settings_page,0
 mozilla/add-ons/webextensions/interact_with_the_clipboard,0
 mozilla/add-ons/webextensions/intercept_http_requests,0
 mozilla/add-ons/webextensions/internationalization,0
-mozilla/add-ons/webextensions/manifest.json,0
+mozilla/add-ons/webextensions/manifest.json,1
 mozilla/add-ons/webextensions/manifest.json/action,0
 mozilla/add-ons/webextensions/manifest.json/author,0
 mozilla/add-ons/webextensions/manifest.json/background,0
@@ -1855,7 +1855,6 @@ mozilla/add-ons/webextensions/manifest.json/icons,0
 mozilla/add-ons/webextensions/manifest.json/incognito,0
 mozilla/add-ons/webextensions/manifest.json/manifest_version,0
 mozilla/add-ons/webextensions/manifest.json/name,0
-mozilla/add-ons/webextensions/manifest.json/offline_enabled,0
 mozilla/add-ons/webextensions/manifest.json/omnibox,0
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,0
 mozilla/add-ons/webextensions/manifest.json/optional_permissions,0
@@ -1867,7 +1866,7 @@ mozilla/add-ons/webextensions/manifest.json/protocol_handlers,0
 mozilla/add-ons/webextensions/manifest.json/short_name,0
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,0
 mozilla/add-ons/webextensions/manifest.json/storage,0
-mozilla/add-ons/webextensions/manifest.json/theme,1
+mozilla/add-ons/webextensions/manifest.json/theme,0
 mozilla/add-ons/webextensions/manifest.json/theme_experiment,0
 mozilla/add-ons/webextensions/manifest.json/user_scripts,0
 mozilla/add-ons/webextensions/manifest.json/version,0
@@ -1971,7 +1970,7 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,1
+mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/16,0
@@ -6210,7 +6209,7 @@ web/api/mutationrecord/attributenamespace,0
 web/api/mutationrecord/nextsibling,0
 web/api/mutationrecord/oldvalue,0
 web/api/mutationrecord/previoussibling,0
-web/api/mutationrecord/removednodes,1
+web/api/mutationrecord/removednodes,0
 web/api/mutationrecord/target,0
 web/api/mutationrecord/type,0
 web/api/namednodemap,0

@@ -1541,10 +1541,9 @@ mozilla/add-ons/webextensions/manifest.json/externally_connectable,no_hash_commi
 mozilla/add-ons/webextensions/manifest.json/homepage_url,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/icons,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/incognito,no_hash_commit
-mozilla/add-ons/webextensions/manifest.json,no_hash_commit
+mozilla/add-ons/webextensions/manifest.json,6d09b387b3a5137be8fc24137d8052403d26ecc6
 mozilla/add-ons/webextensions/manifest.json/manifest_version,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/name,no_hash_commit
-mozilla/add-ons/webextensions/manifest.json/offline_enabled,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/omnibox,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/optional_permissions,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/options_page,no_hash_commit

@@ -1830,7 +1830,7 @@ mozilla/add-ons/webextensions/implement_a_settings_page,673a473ab4b40c5f6787b2d3
 mozilla/add-ons/webextensions/interact_with_the_clipboard,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/intercept_http_requests,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/internationalization,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json,ee9431bdd896f41c2860ef340f01554c75fd7f29,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json,6d09b387b3a5137be8fc24137d8052403d26ecc6,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/action,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/author,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/background,c09d604573caae5ab369806a27c98cd2a396bdca,Mozilla|Firefox Add-ons
@@ -1855,7 +1855,6 @@ mozilla/add-ons/webextensions/manifest.json/icons,8a74d8feac267c1ddc37a4a8bc61e9
 mozilla/add-ons/webextensions/manifest.json/incognito,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/manifest_version,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/name,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/offline_enabled,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/omnibox,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,a46ee9267e4c49ce85c780b76c0f08fc389a2553,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/optional_permissions,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4,Mozilla|Firefox Add-ons
