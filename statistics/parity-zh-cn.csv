@@ -40,7 +40,7 @@ games/tutorials/2d_breakout_game_phaser,null
 games/tutorials/2d_breakout_game_phaser/animations_and_tweens,null
 games/tutorials/2d_breakout_game_phaser/bounce_off_the_walls,0
 games/tutorials/2d_breakout_game_phaser/build_the_brick_field,null
-games/tutorials/2d_breakout_game_phaser/buttons,null
+games/tutorials/2d_breakout_game_phaser/buttons,0
 games/tutorials/2d_breakout_game_phaser/collision_detection,null
 games/tutorials/2d_breakout_game_phaser/extra_lives,null
 games/tutorials/2d_breakout_game_phaser/game_over,0
@@ -1855,7 +1855,6 @@ mozilla/add-ons/webextensions/manifest.json/icons,null
 mozilla/add-ons/webextensions/manifest.json/incognito,null
 mozilla/add-ons/webextensions/manifest.json/manifest_version,null
 mozilla/add-ons/webextensions/manifest.json/name,null
-mozilla/add-ons/webextensions/manifest.json/offline_enabled,null
 mozilla/add-ons/webextensions/manifest.json/omnibox,null
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,null
 mozilla/add-ons/webextensions/manifest.json/optional_permissions,null
