@@ -2105,7 +2105,7 @@ related/imsc/styling,null
 related/imsc/subtitle_placement,null
 related/imsc/timing_in_imsc,null
 related/imsc/using_the_imscjs_polyfill,null
-web,5
+web,0
 web/accessibility,1
 web/accessibility/aria,3
 web/accessibility/aria/guides,0
@@ -2270,7 +2270,7 @@ web/accessibility/guides/understanding_wcag,0
 web/accessibility/guides/understanding_wcag/keyboard,0
 web/accessibility/guides/understanding_wcag/operable,0
 web/accessibility/guides/understanding_wcag/perceivable,0
-web/accessibility/guides/understanding_wcag/perceivable/color_contrast,4
+web/accessibility/guides/understanding_wcag/perceivable/color_contrast,0
 web/accessibility/guides/understanding_wcag/perceivable/use_of_color,null
 web/accessibility/guides/understanding_wcag/robust,0
 web/accessibility/guides/understanding_wcag/text_labels_and_names,1
@@ -10472,7 +10472,7 @@ web/css/guides/pseudo-elements,2
 web/css/guides/round_display,null
 web/css/guides/ruby_layout,0
 web/css/guides/scoping,0
-web/css/guides/scroll-driven_animations,5
+web/css/guides/scroll-driven_animations,0
 web/css/guides/scroll-driven_animations/timeline_insets,null
 web/css/guides/scroll-driven_animations/timeline_range_names,null
 web/css/guides/scroll-driven_animations/timelines,2
@@ -10755,7 +10755,7 @@ web/css/reference/properties/border-right,2
 web/css/reference/properties/border-right-color,2
 web/css/reference/properties/border-right-style,1
 web/css/reference/properties/border-right-width,3
-web/css/reference/properties/border-shape,null
+web/css/reference/properties/border-shape,0
 web/css/reference/properties/border-spacing,1
 web/css/reference/properties/border-start-end-radius,1
 web/css/reference/properties/border-start-start-radius,1
@@ -10844,7 +10844,7 @@ web/css/reference/properties/cx,1
 web/css/reference/properties/cy,0
 web/css/reference/properties/d,0
 web/css/reference/properties/direction,1
-web/css/reference/properties/display,6
+web/css/reference/properties/display,0
 web/css/reference/properties/dominant-baseline,1
 web/css/reference/properties/dynamic-range-limit,null
 web/css/reference/properties/empty-cells,2
@@ -11839,8 +11839,8 @@ web/http/guides/cors/errors/corspreflightdidnotsucceed,2
 web/http/guides/cors/errors/corsrequestnothttp,2
 web/http/guides/cross-origin_resource_policy,0
 web/http/guides/csp,3
-web/http/guides/csp/errors,5
-web/http/guides/csp/errors/cspviolation,2
+web/http/guides/csp/errors,0
+web/http/guides/csp/errors/cspviolation,0
 web/http/guides/evolution_of_http,3
 web/http/guides/fetch_metadata,null
 web/http/guides/iframe_credentialless,0
@@ -14098,8 +14098,8 @@ web/webdriver/reference/capabilities,0
 web/webdriver/reference/capabilities/acceptinsecurecerts,null
 web/webdriver/reference/capabilities/firefoxoptions,null
 web/webdriver/reference/capabilities/websocketurl,null
-web/webdriver/reference/classic,null
-web/webdriver/reference/classic/commands,2
+web/webdriver/reference/classic,0
+web/webdriver/reference/classic/commands,0
 web/webdriver/reference/classic/commands/back,null
 web/webdriver/reference/classic/commands/closewindow,null
 web/webdriver/reference/classic/commands/forward,null
@@ -14116,7 +14116,7 @@ web/webdriver/reference/classic/commands/refresh,null
 web/webdriver/reference/classic/commands/settimeouts,null
 web/webdriver/reference/classic/commands/setwindowrect,null
 web/webdriver/reference/classic/timeouts,null
-web/webdriver/reference/errors,4
+web/webdriver/reference/errors,0
 web/webdriver/reference/errors/insecurecertificate,null
 web/webdriver/reference/errors/invalidargument,null
 web/webdriver/reference/errors/invalidcookiedomain,null
