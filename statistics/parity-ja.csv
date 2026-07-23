@@ -10807,7 +10807,7 @@ web/css/reference/properties/column-rule-width,1
 web/css/reference/properties/column-span,1
 web/css/reference/properties/column-width,1
 web/css/reference/properties/column-wrap,0
-web/css/reference/properties/columns,0
+web/css/reference/properties/columns,1
 web/css/reference/properties/contain,1
 web/css/reference/properties/contain-intrinsic-block-size,1
 web/css/reference/properties/contain-intrinsic-height,1
@@ -11068,7 +11068,7 @@ web/css/reference/properties/row-rule-visibility-items,null
 web/css/reference/properties/row-rule-width,null
 web/css/reference/properties/ruby-align,0
 web/css/reference/properties/ruby-overhang,0
-web/css/reference/properties/ruby-position,0
+web/css/reference/properties/ruby-position,1
 web/css/reference/properties/rule-visibility-items,null
 web/css/reference/properties/rx,null
 web/css/reference/properties/ry,null
