@@ -1851,10 +1851,9 @@ mozilla/add-ons/webextensions/manifest.json/homepage_url,09109b6f9444d22215ba330
 mozilla/add-ons/webextensions/manifest.json/host_permissions,674d6c8868cde1654eaba3c285afde9d3b60ce9f
 mozilla/add-ons/webextensions/manifest.json/icons,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12
 mozilla/add-ons/webextensions/manifest.json/incognito,09109b6f9444d22215ba330ec1e64e73980b2a6c
-mozilla/add-ons/webextensions/manifest.json,ee9431bdd896f41c2860ef340f01554c75fd7f29
+mozilla/add-ons/webextensions/manifest.json,6d09b387b3a5137be8fc24137d8052403d26ecc6
 mozilla/add-ons/webextensions/manifest.json/manifest_version,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/manifest.json/name,09109b6f9444d22215ba330ec1e64e73980b2a6c
-mozilla/add-ons/webextensions/manifest.json/offline_enabled,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/manifest.json/omnibox,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,a46ee9267e4c49ce85c780b76c0f08fc389a2553
 mozilla/add-ons/webextensions/manifest.json/optional_permissions,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4
@@ -10806,7 +10805,7 @@ web/css/reference/properties/column-rule,5cf8432d980cbe9b7e5611d647d8566b5c4ff3e
 web/css/reference/properties/column-span,c0c85c3dc0d6ff4247c85b0144149e584d74b625
 web/css/reference/properties/column-width,c0c85c3dc0d6ff4247c85b0144149e584d74b625
 web/css/reference/properties/column-wrap,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/columns,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/columns,ab90c79ca764c4431c7f4a078d81c02ef4bfce2e
 web/css/reference/properties/contain-intrinsic-block-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/contain-intrinsic-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/contain-intrinsic-inline-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -11068,7 +11067,7 @@ web/css/reference/properties/row-rule-width,b13ef1ff1d0914617689df9074b24d41486e
 web/css/reference/properties/row-rule,b13ef1ff1d0914617689df9074b24d41486e91b2
 web/css/reference/properties/ruby-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/ruby-overhang,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/ruby-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/ruby-position,a52a9cd2b661e6e51e4b600c848207140265d362
 web/css/reference/properties/rule-visibility-items,7f138099644a02640a903b2abc39e685ca8ca7cd
 web/css/reference/properties/rx,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/ry,bcbb4bd6a80292c0663b723d5466759cfaaa8315
