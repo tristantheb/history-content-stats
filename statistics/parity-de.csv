@@ -1830,7 +1830,7 @@ mozilla/add-ons/webextensions/implement_a_settings_page,0
 mozilla/add-ons/webextensions/interact_with_the_clipboard,0
 mozilla/add-ons/webextensions/intercept_http_requests,0
 mozilla/add-ons/webextensions/internationalization,0
-mozilla/add-ons/webextensions/manifest.json,1
+mozilla/add-ons/webextensions/manifest.json,0
 mozilla/add-ons/webextensions/manifest.json/action,0
 mozilla/add-ons/webextensions/manifest.json/author,0
 mozilla/add-ons/webextensions/manifest.json/background,0
@@ -10807,7 +10807,7 @@ web/css/reference/properties/column-rule-width,0
 web/css/reference/properties/column-span,0
 web/css/reference/properties/column-width,0
 web/css/reference/properties/column-wrap,0
-web/css/reference/properties/columns,1
+web/css/reference/properties/columns,0
 web/css/reference/properties/contain,0
 web/css/reference/properties/contain-intrinsic-block-size,0
 web/css/reference/properties/contain-intrinsic-height,0
@@ -11068,7 +11068,7 @@ web/css/reference/properties/row-rule-visibility-items,0
 web/css/reference/properties/row-rule-width,0
 web/css/reference/properties/ruby-align,0
 web/css/reference/properties/ruby-overhang,0
-web/css/reference/properties/ruby-position,1
+web/css/reference/properties/ruby-position,0
 web/css/reference/properties/rule-visibility-items,0
 web/css/reference/properties/rx,0
 web/css/reference/properties/ry,0
