@@ -10943,6 +10943,7 @@ web/css/reference/properties/line-break,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/line-clamp,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/line-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/line-height-step,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/link-parameters,35cd8b781219157e42b289364754cff862c2dd1a,CSS|Properties
 web/css/reference/properties/list-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/list-style-image,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/list-style-position,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
@@ -11422,7 +11423,7 @@ web/css/reference/values/counters,b760560abe30bd69ca968dac38528102f423b5ea,CSS|V
 web/css/reference/values/cross-fade,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/custom-ident,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/dashed-function,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/dashed-ident,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
+web/css/reference/values/dashed-ident,35cd8b781219157e42b289364754cff862c2dd1a,CSS|Values
 web/css/reference/values/data_types,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Values
 web/css/reference/values/dimension,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/display-box,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
@@ -11437,7 +11438,7 @@ web/css/reference/values/easing-function/cubic-bezier,b760560abe30bd69ca968dac38
 web/css/reference/values/easing-function/linear,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/easing-function/steps,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/element,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/env,4607393c465f5a8bdbb36047f2ec03c2fb058af5,CSS|Values
+web/css/reference/values/env,35cd8b781219157e42b289364754cff862c2dd1a,CSS|Values
 web/css/reference/values/exp,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/filter-function,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/filter-function/blur,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
@@ -11493,6 +11494,7 @@ web/css/reference/values/named-color,c88e03530319b73272fd4f9a9f6ebe878f026004,CS
 web/css/reference/values/number,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/overflow-position,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/overflow_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
+web/css/reference/values/param,35cd8b781219157e42b289364754cff862c2dd1a,CSS|Values
 web/css/reference/values/percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/position-area_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/position_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values

@@ -2239,7 +2239,7 @@ web/javascript/reference/global_objects/object/preventextensions,no_hash_commit
 web/javascript/reference/global_objects/object/propertyisenumerable,no_hash_commit
 web/javascript/reference/global_objects/object/proto,no_hash_commit
 web/javascript/reference/global_objects/object/seal,no_hash_commit
-web/javascript/reference/global_objects/object/setprototypeof,no_hash_commit
+web/javascript/reference/global_objects/object/setprototypeof,00c3b9fb6ead031e43863460add87321f262696c
 web/javascript/reference/global_objects/object/tolocalestring,no_hash_commit
 web/javascript/reference/global_objects/object/tostring,no_hash_commit
 web/javascript/reference/global_objects/object/valueof,no_hash_commit
