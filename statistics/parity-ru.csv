@@ -11004,11 +11004,11 @@ web/css/reference/properties/offset-rotate,null
 web/css/reference/properties/opacity,null
 web/css/reference/properties/order,null
 web/css/reference/properties/orphans,null
-web/css/reference/properties/outline,3
+web/css/reference/properties/outline,4
 web/css/reference/properties/outline-color,7
 web/css/reference/properties/outline-offset,2
 web/css/reference/properties/outline-style,4
-web/css/reference/properties/outline-width,3
+web/css/reference/properties/outline-width,4
 web/css/reference/properties/overflow,null
 web/css/reference/properties/overflow-anchor,null
 web/css/reference/properties/overflow-block,null
@@ -11481,6 +11481,7 @@ web/css/reference/values/integer,null
 web/css/reference/values/length,null
 web/css/reference/values/length-percentage,null
 web/css/reference/values/line-style,null
+web/css/reference/values/line-width,null
 web/css/reference/values/log,null
 web/css/reference/values/max,null
 web/css/reference/values/max-content,null
