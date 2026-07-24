@@ -7545,7 +7545,7 @@ web/api/rtcremoteoutboundrtpstreamstats/type,ffe914fa3268cbc0d84648d156d19c7df3a
 web/api/rtcrtpreceiver,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/rtcrtpreceiver/getcapabilities_static,fd2acb039cc1caee4af10f76ffb839c8da7da5b8,Web APIs
 web/api/rtcrtpreceiver/getcontributingsources,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/rtcrtpreceiver/getparameters,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/rtcrtpreceiver/getparameters,9c3005fef31dbcfad889a57cd6f46014e6c498da,Web APIs
 web/api/rtcrtpreceiver/getstats,00f46adb5616d826821d63b11eac285faf1cf4a5,Web APIs
 web/api/rtcrtpreceiver/getsynchronizationsources,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/rtcrtpreceiver/jitterbuffertarget,9dd28ca3964213e0564c80db0a7c39d8ad73ed72,Web APIs
@@ -10563,7 +10563,7 @@ web/css/reference/at-rules/@font-face/font-feature-settings,f0094356d3acb19475dd
 web/css/reference/at-rules/@font-face/font-stretch,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/font-style,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/font-variation-settings,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
-web/css/reference/at-rules/@font-face/font-weight,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
+web/css/reference/at-rules/@font-face/font-weight,c66cecb0ec58ddea1bd624aa89dd355d9b90b5c3,CSS|At-rules
 web/css/reference/at-rules/@font-face/font-width,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/line-gap-override,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/size-adjust,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
@@ -10638,7 +10638,7 @@ web/css/reference/at-rules/@supports,4179ddfb7690019d23f529cbd316c35d2381c75c,CS
 web/css/reference/at-rules/@view-transition,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/at-rule_functions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
 web/css/reference/mozilla_extensions,a9fd2746e238ae3948572a94036bb505de19b81b,CSS
-web/css/reference/properties,26e03490d14803dc2ae8b85ec5c0c2b26d6b50d1,CSS|Properties
+web/css/reference/properties,28f2781de2dbb8e81be94c87ff81fd0442cb4736,CSS|Properties
 web/css/reference/properties/--_star_,98bbdcd90e5487539cebe19b12fe3d731fb5a03e,CSS|Properties
 web/css/reference/properties/-moz-float-edge,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/-moz-force-broken-image-icon,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11039,6 +11039,7 @@ web/css/reference/properties/page-break-after,bcbb4bd6a80292c0663b723d5466759cfa
 web/css/reference/properties/page-break-before,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/page-break-inside,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/paint-order,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/path-length,28f2781de2dbb8e81be94c87ff81fd0442cb4736,CSS|Properties
 web/css/reference/properties/perspective,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/perspective-origin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/place-content,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11381,9 +11382,9 @@ web/css/reference/values/atan2,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Valu
 web/css/reference/values/attr,3e21789c23062f7cfffa6fd7e24bd9dfc2c38551,CSS|Values
 web/css/reference/values/axis,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/baseline-position,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/basic-shape,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Values
-web/css/reference/values/basic-shape/circle,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Values
-web/css/reference/values/basic-shape/ellipse,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Values
+web/css/reference/values/basic-shape,1e7ba7f0645705dcd46dd7392f09284129cf87bf,CSS|Values
+web/css/reference/values/basic-shape/circle,1e7ba7f0645705dcd46dd7392f09284129cf87bf,CSS|Values
+web/css/reference/values/basic-shape/ellipse,1e7ba7f0645705dcd46dd7392f09284129cf87bf,CSS|Values
 web/css/reference/values/basic-shape/inset,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Values
 web/css/reference/values/basic-shape/path,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Values
 web/css/reference/values/basic-shape/polygon,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Values
@@ -13747,7 +13748,7 @@ web/svg/guides/svg_as_an_image,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,SVG|Guid
 web/svg/guides/svg_filters,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Guides
 web/svg/guides/svg_in_html,a1765c2cad20118be0dad322d3548908787b5791,SVG|Guides
 web/svg/reference,c2fd97474834e061404b992c8397d4ccc4439a71,SVG
-web/svg/reference/attribute,afcdfa050626bb7eb05ee693df8997020db9ff2e,SVG|Attribute
+web/svg/reference/attribute,28f2781de2dbb8e81be94c87ff81fd0442cb4736,SVG|Attribute
 web/svg/reference/attribute/accumulate,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/additive,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/alignment-baseline,a516a9818e8cef06c626d436ee1d73fc6d87ec51,SVG|Attribute
@@ -13860,7 +13861,7 @@ web/svg/reference/attribute/origin,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|
 web/svg/reference/attribute/overflow,ed3f9fceef4ebde12363f2eb7193f1b1ccad7858,SVG|Attribute
 web/svg/reference/attribute/paint-order,a1765c2cad20118be0dad322d3548908787b5791,SVG|Attribute
 web/svg/reference/attribute/path,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
-web/svg/reference/attribute/pathlength,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
+web/svg/reference/attribute/pathlength,28f2781de2dbb8e81be94c87ff81fd0442cb4736,SVG|Attribute
 web/svg/reference/attribute/patterncontentunits,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/patterntransform,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/patternunits,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute

@@ -11039,6 +11039,7 @@ web/css/reference/properties/page-break-after,null
 web/css/reference/properties/page-break-before,null
 web/css/reference/properties/page-break-inside,null
 web/css/reference/properties/paint-order,null
+web/css/reference/properties/path-length,null
 web/css/reference/properties/perspective,null
 web/css/reference/properties/perspective-origin,null
 web/css/reference/properties/place-content,6
@@ -11382,7 +11383,7 @@ web/css/reference/values/attr,null
 web/css/reference/values/axis,null
 web/css/reference/values/baseline-position,null
 web/css/reference/values/basic-shape,null
-web/css/reference/values/basic-shape/circle,5
+web/css/reference/values/basic-shape/circle,6
 web/css/reference/values/basic-shape/ellipse,null
 web/css/reference/values/basic-shape/inset,null
 web/css/reference/values/basic-shape/path,null

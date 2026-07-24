@@ -10563,7 +10563,7 @@ web/css/reference/at-rules/@font-face/font-feature-settings,1
 web/css/reference/at-rules/@font-face/font-stretch,4
 web/css/reference/at-rules/@font-face/font-style,1
 web/css/reference/at-rules/@font-face/font-variation-settings,1
-web/css/reference/at-rules/@font-face/font-weight,1
+web/css/reference/at-rules/@font-face/font-weight,2
 web/css/reference/at-rules/@font-face/font-width,null
 web/css/reference/at-rules/@font-face/line-gap-override,1
 web/css/reference/at-rules/@font-face/size-adjust,1
@@ -10638,7 +10638,7 @@ web/css/reference/at-rules/@supports,2
 web/css/reference/at-rules/@view-transition,1
 web/css/reference/at-rules/at-rule_functions,0
 web/css/reference/mozilla_extensions,1
-web/css/reference/properties,0
+web/css/reference/properties,1
 web/css/reference/properties/--_star_,1
 web/css/reference/properties/-moz-float-edge,null
 web/css/reference/properties/-moz-force-broken-image-icon,0
@@ -11039,6 +11039,7 @@ web/css/reference/properties/page-break-after,0
 web/css/reference/properties/page-break-before,0
 web/css/reference/properties/page-break-inside,0
 web/css/reference/properties/paint-order,0
+web/css/reference/properties/path-length,null
 web/css/reference/properties/perspective,1
 web/css/reference/properties/perspective-origin,1
 web/css/reference/properties/place-content,1
@@ -11381,9 +11382,9 @@ web/css/reference/values/atan2,0
 web/css/reference/values/attr,5
 web/css/reference/values/axis,1
 web/css/reference/values/baseline-position,1
-web/css/reference/values/basic-shape,2
-web/css/reference/values/basic-shape/circle,1
-web/css/reference/values/basic-shape/ellipse,1
+web/css/reference/values/basic-shape,3
+web/css/reference/values/basic-shape/circle,2
+web/css/reference/values/basic-shape/ellipse,2
 web/css/reference/values/basic-shape/inset,1
 web/css/reference/values/basic-shape/path,1
 web/css/reference/values/basic-shape/polygon,1
@@ -13747,7 +13748,7 @@ web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,3
 web/svg/guides/svg_in_html,2
 web/svg/reference,0
-web/svg/reference/attribute,3
+web/svg/reference/attribute,4
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,0
 web/svg/reference/attribute/alignment-baseline,1
@@ -13860,7 +13861,7 @@ web/svg/reference/attribute/origin,null
 web/svg/reference/attribute/overflow,1
 web/svg/reference/attribute/paint-order,null
 web/svg/reference/attribute/path,0
-web/svg/reference/attribute/pathlength,1
+web/svg/reference/attribute/pathlength,2
 web/svg/reference/attribute/patterncontentunits,null
 web/svg/reference/attribute/patterntransform,null
 web/svg/reference/attribute/patternunits,0
