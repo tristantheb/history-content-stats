@@ -10638,7 +10638,7 @@ web/css/reference/at-rules/@supports,null
 web/css/reference/at-rules/@view-transition,null
 web/css/reference/at-rules/at-rule_functions,null
 web/css/reference/mozilla_extensions,null
-web/css/reference/properties,0
+web/css/reference/properties,1
 web/css/reference/properties/--_star_,null
 web/css/reference/properties/-moz-float-edge,null
 web/css/reference/properties/-moz-force-broken-image-icon,null
@@ -11039,6 +11039,7 @@ web/css/reference/properties/page-break-after,null
 web/css/reference/properties/page-break-before,null
 web/css/reference/properties/page-break-inside,null
 web/css/reference/properties/paint-order,null
+web/css/reference/properties/path-length,null
 web/css/reference/properties/perspective,null
 web/css/reference/properties/perspective-origin,null
 web/css/reference/properties/place-content,null
