@@ -10943,6 +10943,7 @@ web/css/reference/properties/line-break,1
 web/css/reference/properties/line-clamp,1
 web/css/reference/properties/line-height,1
 web/css/reference/properties/line-height-step,0
+web/css/reference/properties/link-parameters,null
 web/css/reference/properties/list-style,1
 web/css/reference/properties/list-style-image,1
 web/css/reference/properties/list-style-position,2
@@ -11422,7 +11423,7 @@ web/css/reference/values/counters,0
 web/css/reference/values/cross-fade,0
 web/css/reference/values/custom-ident,1
 web/css/reference/values/dashed-function,1
-web/css/reference/values/dashed-ident,2
+web/css/reference/values/dashed-ident,3
 web/css/reference/values/data_types,4
 web/css/reference/values/dimension,1
 web/css/reference/values/display-box,1
@@ -11437,7 +11438,7 @@ web/css/reference/values/easing-function/cubic-bezier,0
 web/css/reference/values/easing-function/linear,0
 web/css/reference/values/easing-function/steps,0
 web/css/reference/values/element,0
-web/css/reference/values/env,1
+web/css/reference/values/env,2
 web/css/reference/values/exp,0
 web/css/reference/values/filter-function,0
 web/css/reference/values/filter-function/blur,0
@@ -11493,6 +11494,7 @@ web/css/reference/values/named-color,2
 web/css/reference/values/number,1
 web/css/reference/values/overflow-position,1
 web/css/reference/values/overflow_value,1
+web/css/reference/values/param,null
 web/css/reference/values/percentage,1
 web/css/reference/values/position-area_value,0
 web/css/reference/values/position_value,1

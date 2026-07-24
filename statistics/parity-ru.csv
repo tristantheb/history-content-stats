@@ -10943,6 +10943,7 @@ web/css/reference/properties/line-break,null
 web/css/reference/properties/line-clamp,null
 web/css/reference/properties/line-height,null
 web/css/reference/properties/line-height-step,null
+web/css/reference/properties/link-parameters,null
 web/css/reference/properties/list-style,null
 web/css/reference/properties/list-style-image,null
 web/css/reference/properties/list-style-position,null
@@ -11493,6 +11494,7 @@ web/css/reference/values/named-color,null
 web/css/reference/values/number,null
 web/css/reference/values/overflow-position,null
 web/css/reference/values/overflow_value,null
+web/css/reference/values/param,null
 web/css/reference/values/percentage,null
 web/css/reference/values/position-area_value,null
 web/css/reference/values/position_value,null

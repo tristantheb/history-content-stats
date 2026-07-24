@@ -1904,7 +1904,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,3
 mozilla/firefox,0
-mozilla/firefox/experimental_features,28
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -10943,6 +10943,7 @@ web/css/reference/properties/line-break,0
 web/css/reference/properties/line-clamp,0
 web/css/reference/properties/line-height,0
 web/css/reference/properties/line-height-step,0
+web/css/reference/properties/link-parameters,null
 web/css/reference/properties/list-style,0
 web/css/reference/properties/list-style-image,0
 web/css/reference/properties/list-style-position,1
@@ -11422,7 +11423,7 @@ web/css/reference/values/counters,0
 web/css/reference/values/cross-fade,0
 web/css/reference/values/custom-ident,0
 web/css/reference/values/dashed-function,0
-web/css/reference/values/dashed-ident,0
+web/css/reference/values/dashed-ident,1
 web/css/reference/values/data_types,1
 web/css/reference/values/dimension,0
 web/css/reference/values/display-box,0
@@ -11437,7 +11438,7 @@ web/css/reference/values/easing-function/cubic-bezier,0
 web/css/reference/values/easing-function/linear,0
 web/css/reference/values/easing-function/steps,0
 web/css/reference/values/element,0
-web/css/reference/values/env,0
+web/css/reference/values/env,1
 web/css/reference/values/exp,0
 web/css/reference/values/filter-function,0
 web/css/reference/values/filter-function/blur,0
@@ -11493,6 +11494,7 @@ web/css/reference/values/named-color,0
 web/css/reference/values/number,0
 web/css/reference/values/overflow-position,0
 web/css/reference/values/overflow_value,0
+web/css/reference/values/param,null
 web/css/reference/values/percentage,0
 web/css/reference/values/position-area_value,0
 web/css/reference/values/position_value,0
