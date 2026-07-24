@@ -10754,7 +10754,7 @@ web/css/reference/properties/border-radius,null
 web/css/reference/properties/border-right,4
 web/css/reference/properties/border-right-color,null
 web/css/reference/properties/border-right-style,null
-web/css/reference/properties/border-right-width,4
+web/css/reference/properties/border-right-width,5
 web/css/reference/properties/border-shape,null
 web/css/reference/properties/border-spacing,null
 web/css/reference/properties/border-start-end-radius,null
@@ -10766,7 +10766,7 @@ web/css/reference/properties/border-top-left-radius,null
 web/css/reference/properties/border-top-right-radius,null
 web/css/reference/properties/border-top-style,null
 web/css/reference/properties/border-top-width,null
-web/css/reference/properties/border-width,8
+web/css/reference/properties/border-width,9
 web/css/reference/properties/bottom,null
 web/css/reference/properties/box-align,null
 web/css/reference/properties/box-decoration-break,null
@@ -10801,9 +10801,9 @@ web/css/reference/properties/column-gap,null
 web/css/reference/properties/column-height,null
 web/css/reference/properties/column-rule,null
 web/css/reference/properties/column-rule-color,null
-web/css/reference/properties/column-rule-style,3
+web/css/reference/properties/column-rule-style,4
 web/css/reference/properties/column-rule-visibility-items,null
-web/css/reference/properties/column-rule-width,3
+web/css/reference/properties/column-rule-width,4
 web/css/reference/properties/column-span,null
 web/css/reference/properties/column-width,6
 web/css/reference/properties/column-wrap,null
@@ -11008,7 +11008,7 @@ web/css/reference/properties/outline,null
 web/css/reference/properties/outline-color,null
 web/css/reference/properties/outline-offset,2
 web/css/reference/properties/outline-style,null
-web/css/reference/properties/outline-width,3
+web/css/reference/properties/outline-width,4
 web/css/reference/properties/overflow,null
 web/css/reference/properties/overflow-anchor,null
 web/css/reference/properties/overflow-block,null
@@ -11481,6 +11481,7 @@ web/css/reference/values/integer,2
 web/css/reference/values/length,5
 web/css/reference/values/length-percentage,null
 web/css/reference/values/line-style,null
+web/css/reference/values/line-width,null
 web/css/reference/values/log,null
 web/css/reference/values/max,null
 web/css/reference/values/max-content,3

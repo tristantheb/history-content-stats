@@ -10689,7 +10689,7 @@ web/css/reference/properties/aspect-ratio,null
 web/css/reference/properties/backdrop-filter,null
 web/css/reference/properties/backface-visibility,null
 web/css/reference/properties/background,null
-web/css/reference/properties/background-attachment,6
+web/css/reference/properties/background-attachment,7
 web/css/reference/properties/background-blend-mode,null
 web/css/reference/properties/background-clip,null
 web/css/reference/properties/background-color,6
@@ -11481,6 +11481,7 @@ web/css/reference/values/integer,null
 web/css/reference/values/length,null
 web/css/reference/values/length-percentage,null
 web/css/reference/values/line-style,null
+web/css/reference/values/line-width,null
 web/css/reference/values/log,null
 web/css/reference/values/max,null
 web/css/reference/values/max-content,null
