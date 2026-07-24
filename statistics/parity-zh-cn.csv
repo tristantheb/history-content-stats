@@ -14514,4 +14514,4 @@ webassembly/reference/variables/global.set,null
 webassembly/reference/variables/local,null
 webassembly/reference/variables/local.get,null
 webassembly/reference/variables/local.set,null
-webassembly/reference/variables/local.tee,0
+webassembly/reference/variables/local.tee,1
