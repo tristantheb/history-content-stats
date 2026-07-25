@@ -10943,7 +10943,7 @@ web/css/reference/properties/line-break,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/line-clamp,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/line-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/line-height-step,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/link-parameters,35cd8b781219157e42b289364754cff862c2dd1a,CSS|Properties
+web/css/reference/properties/link-parameters,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/list-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/list-style-image,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/list-style-position,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
@@ -11040,7 +11040,7 @@ web/css/reference/properties/page-break-after,bcbb4bd6a80292c0663b723d5466759cfa
 web/css/reference/properties/page-break-before,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/page-break-inside,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/paint-order,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/path-length,28f2781de2dbb8e81be94c87ff81fd0442cb4736,CSS|Properties
+web/css/reference/properties/path-length,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/perspective,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/perspective-origin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/place-content,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11063,11 +11063,11 @@ web/css/reference/properties/resize,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS
 web/css/reference/properties/right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/rotate,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/row-gap,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Properties
-web/css/reference/properties/row-rule,b13ef1ff1d0914617689df9074b24d41486e91b2,CSS|Properties
+web/css/reference/properties/row-rule,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/row-rule-color,9cf3002bd29376c15d49df6fab2e6a264285abf6,CSS|Properties
-web/css/reference/properties/row-rule-style,5cf8432d980cbe9b7e5611d647d8566b5c4ff3ed,CSS|Properties
+web/css/reference/properties/row-rule-style,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/row-rule-visibility-items,afcdfa050626bb7eb05ee693df8997020db9ff2e,CSS|Properties
-web/css/reference/properties/row-rule-width,b13ef1ff1d0914617689df9074b24d41486e91b2,CSS|Properties
+web/css/reference/properties/row-rule-width,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/ruby-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ruby-overhang,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ruby-position,a52a9cd2b661e6e51e4b600c848207140265d362,CSS|Properties
@@ -11482,7 +11482,7 @@ web/css/reference/values/integer,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Va
 web/css/reference/values/length,b25b4a98b757fbd05ce1fb74b1b78f3fcf917729,CSS|Values
 web/css/reference/values/length-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/line-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Values
-web/css/reference/values/line-width,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Values
+web/css/reference/values/line-width,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Values
 web/css/reference/values/log,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/max,6857a53b4ef756a062310b555e61f2ec722a2441,CSS|Values
 web/css/reference/values/max-content,aaedffba9f47d6dce7967a4191963378026d9406,CSS|Values
@@ -13653,7 +13653,7 @@ web/progressive_web_apps/how_to/share_data_between_apps,26f9fbee05fb92b584d44fba
 web/progressive_web_apps/how_to/trigger_install_prompt,7e7a9ee50e68a1da8386e08a7279a724cadfeaf9,PWAs|How To
 web/progressive_web_apps/manifest,5f2a755c4fa7d126f85b56fbca90b15c5f039eff,PWAs|Manifest
 web/progressive_web_apps/manifest/reference,628b29f53d15f203c4a6b33c1d0303f864f6af63,PWAs|Manifest
-web/progressive_web_apps/manifest/reference/_star__localized,429a5b3c0a9363f7f9c700d56380af6226d2348f,PWAs|Manifest
+web/progressive_web_apps/manifest/reference/_star__localized,a9dc3374034d357cbfea717fd5d641605359e3c7,PWAs|Manifest
 web/progressive_web_apps/manifest/reference/background_color,1351f23f494656e58195ab8e186cd8946e90adcf,PWAs|Manifest
 web/progressive_web_apps/manifest/reference/categories,628b29f53d15f203c4a6b33c1d0303f864f6af63,PWAs|Manifest
 web/progressive_web_apps/manifest/reference/description,628b29f53d15f203c4a6b33c1d0303f864f6af63,PWAs|Manifest
