@@ -1818,7 +1818,7 @@ mozilla/add-ons/webextensions/background_scripts,0
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,0
 mozilla/add-ons/webextensions/build_a_cross_browser_extension,0
 mozilla/add-ons/webextensions/chrome_incompatibilities,0
-mozilla/add-ons/webextensions/content_scripts,0
+mozilla/add-ons/webextensions/content_scripts,1
 mozilla/add-ons/webextensions/content_scripts/cloneinto,0
 mozilla/add-ons/webextensions/content_scripts/exportfunction,0
 mozilla/add-ons/webextensions/content_security_policy,0
