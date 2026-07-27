@@ -7188,11 +7188,12 @@ web/api/rtcaudiosourcestats/type,0
 web/api/rtccertificate,0
 web/api/rtccertificate/expires,0
 web/api/rtccertificate/getfingerprints,0
-web/api/rtccertificatestats,0
+web/api/rtccertificatestats,1
 web/api/rtccertificatestats/base64certificate,0
 web/api/rtccertificatestats/fingerprint,0
 web/api/rtccertificatestats/fingerprintalgorithm,0
 web/api/rtccertificatestats/id,0
+web/api/rtccertificatestats/issuercertificateid,null
 web/api/rtccertificatestats/timestamp,0
 web/api/rtccertificatestats/type,0
 web/api/rtccodecstats,0

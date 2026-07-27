@@ -7193,6 +7193,7 @@ web/api/rtccertificatestats/base64certificate,null
 web/api/rtccertificatestats/fingerprint,null
 web/api/rtccertificatestats/fingerprintalgorithm,null
 web/api/rtccertificatestats/id,null
+web/api/rtccertificatestats/issuercertificateid,null
 web/api/rtccertificatestats/timestamp,null
 web/api/rtccertificatestats/type,null
 web/api/rtccodecstats,null

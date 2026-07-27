@@ -5185,7 +5185,7 @@ web/api/htmlmediaelement/loadstart_event,null
 web/api/htmlmediaelement/loop,null
 web/api/htmlmediaelement/mediagroup,0
 web/api/htmlmediaelement/mediakeys,0
-web/api/htmlmediaelement/muted,null
+web/api/htmlmediaelement/muted,0
 web/api/htmlmediaelement/networkstate,null
 web/api/htmlmediaelement/pause,null
 web/api/htmlmediaelement/pause_event,null
@@ -7038,7 +7038,7 @@ web/api/range/detach,null
 web/api/range/extractcontents,1
 web/api/range/getboundingclientrect,null
 web/api/range/getclientrects,null
-web/api/range/insertnode,null
+web/api/range/insertnode,0
 web/api/range/intersectsnode,0
 web/api/range/ispointinrange,null
 web/api/range/range,4
@@ -7193,6 +7193,7 @@ web/api/rtccertificatestats/base64certificate,0
 web/api/rtccertificatestats/fingerprint,1
 web/api/rtccertificatestats/fingerprintalgorithm,1
 web/api/rtccertificatestats/id,0
+web/api/rtccertificatestats/issuercertificateid,null
 web/api/rtccertificatestats/timestamp,0
 web/api/rtccertificatestats/type,0
 web/api/rtccodecstats,null
@@ -9618,7 +9619,7 @@ web/api/webrtc_api/using_encoded_transforms,7
 web/api/websocket,0
 web/api/websocket/binarytype,0
 web/api/websocket/bufferedamount,0
-web/api/websocket/close,null
+web/api/websocket/close,0
 web/api/websocket/close_event,null
 web/api/websocket/error_event,null
 web/api/websocket/extensions,0
@@ -11728,7 +11729,7 @@ web/html/reference/elements/output,null
 web/html/reference/elements/p,4
 web/html/reference/elements/param,6
 web/html/reference/elements/picture,null
-web/html/reference/elements/plaintext,1
+web/html/reference/elements/plaintext,0
 web/html/reference/elements/pre,null
 web/html/reference/elements/progress,null
 web/html/reference/elements/q,null
@@ -13963,7 +13964,7 @@ web/svg/reference/element/animatetransform,null
 web/svg/reference/element/circle,0
 web/svg/reference/element/clippath,null
 web/svg/reference/element/defs,null
-web/svg/reference/element/desc,null
+web/svg/reference/element/desc,0
 web/svg/reference/element/ellipse,null
 web/svg/reference/element/feblend,4
 web/svg/reference/element/fecolormatrix,null
