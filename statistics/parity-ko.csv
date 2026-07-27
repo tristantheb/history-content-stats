@@ -1127,7 +1127,7 @@ mdn/writing_guidelines/page_structures/polyfills,null
 mdn/writing_guidelines/page_structures/sidebars,null
 mdn/writing_guidelines/page_structures/specification_tables,null
 mdn/writing_guidelines/page_structures/syntax_sections,null
-mdn/writing_guidelines/what_we_write,1
+mdn/writing_guidelines/what_we_write,2
 mdn/writing_guidelines/writing_style_guide,null
 mozilla,null
 mozilla/add-ons,0
@@ -12981,7 +12981,7 @@ web/javascript/reference/global_objects/sharedarraybuffer/slice,6
 web/javascript/reference/global_objects/sharedarraybuffer/symbol.species,3
 web/javascript/reference/global_objects/string,null
 web/javascript/reference/global_objects/string/anchor,4
-web/javascript/reference/global_objects/string/at,8
+web/javascript/reference/global_objects/string/at,9
 web/javascript/reference/global_objects/string/big,4
 web/javascript/reference/global_objects/string/blink,4
 web/javascript/reference/global_objects/string/bold,4
@@ -13306,7 +13306,7 @@ web/javascript/reference/global_objects/temporal/zoneddatetime/year,null
 web/javascript/reference/global_objects/temporal/zoneddatetime/yearofweek,null
 web/javascript/reference/global_objects/temporal/zoneddatetime/zoneddatetime,null
 web/javascript/reference/global_objects/typedarray,null
-web/javascript/reference/global_objects/typedarray/at,5
+web/javascript/reference/global_objects/typedarray/at,6
 web/javascript/reference/global_objects/typedarray/buffer,null
 web/javascript/reference/global_objects/typedarray/bytelength,null
 web/javascript/reference/global_objects/typedarray/byteoffset,3

@@ -704,7 +704,7 @@ learn_web_development/core/accessibility/test_your_skills/css_and_javascript,nul
 learn_web_development/core/accessibility/test_your_skills/html,null
 learn_web_development/core/accessibility/test_your_skills/wai-aria,null
 learn_web_development/core/accessibility/tooling,3
-learn_web_development/core/accessibility/wai-aria_basics,18
+learn_web_development/core/accessibility/wai-aria_basics,19
 learn_web_development/core/accessibility/what_is_accessibility,null
 learn_web_development/core/css_layout,null
 learn_web_development/core/css_layout/flexbox,4
@@ -1127,7 +1127,7 @@ mdn/writing_guidelines/page_structures/polyfills,0
 mdn/writing_guidelines/page_structures/sidebars,0
 mdn/writing_guidelines/page_structures/specification_tables,0
 mdn/writing_guidelines/page_structures/syntax_sections,0
-mdn/writing_guidelines/what_we_write,0
+mdn/writing_guidelines/what_we_write,1
 mdn/writing_guidelines/writing_style_guide,0
 mozilla,1
 mozilla/add-ons,null
