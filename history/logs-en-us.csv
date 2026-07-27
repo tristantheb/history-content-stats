@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Fi
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/153,3b763f8f076c053b7a44e261c3a19a1879bc11ff,Mozilla|Firefox|Versions
-mozilla/firefox/releases/154,8e0f027a72e39f1e75f707623b48ece23ab656bc,Mozilla|Firefox|Versions
+mozilla/firefox/releases/154,7dae8cc1bbde35982df7baaa495714f45a064913,Mozilla|Firefox|Versions
 mozilla/firefox/releases/155,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -7295,8 +7295,8 @@ web/api/rtcicecandidate/tojson,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/rtcicecandidate/type,b71d118ffc6d72b77efad9661110fcc9ede464eb,Web APIs
 web/api/rtcicecandidate/usernamefragment,cb736d8b5c6b3976fd3e8d3f215fbef25d61ad7a,Web APIs
 web/api/rtcicecandidatepair,fa1301aead2cee37516b7ad5a5ec2fb21e004227,Web APIs
-web/api/rtcicecandidatepair/local,29b4592a883de9b3848e34924b42ff195a7505a1,Web APIs
-web/api/rtcicecandidatepair/remote,954612667bafd71241a93e8554e8f11afc474ff3,Web APIs
+web/api/rtcicecandidatepair/local,7dae8cc1bbde35982df7baaa495714f45a064913,Web APIs
+web/api/rtcicecandidatepair/remote,7dae8cc1bbde35982df7baaa495714f45a064913,Web APIs
 web/api/rtcicecandidatepairstats,848771d9efdc57ad84d643081cf91e89355c751b,Web APIs
 web/api/rtcicecandidatepairstats/availableincomingbitrate,7c03abf6c6abaf0013f6606cae9cb97717415cce,Web APIs
 web/api/rtcicecandidatepairstats/availableoutgoingbitrate,2c2b213b9a7d391732c94dd35928edf9ff34d8ed,Web APIs
@@ -7353,7 +7353,7 @@ web/api/rtcicetransport/getlocalcandidates,6f0473b8ae412384093a81af49a74a696ea61
 web/api/rtcicetransport/getlocalparameters,9f18116c362265a3dfb65185728548ec43cd12f4,Web APIs
 web/api/rtcicetransport/getremotecandidates,9f18116c362265a3dfb65185728548ec43cd12f4,Web APIs
 web/api/rtcicetransport/getremoteparameters,9f18116c362265a3dfb65185728548ec43cd12f4,Web APIs
-web/api/rtcicetransport/getselectedcandidatepair,4f35a8237ee0842beb9cfef3354e05464ad7ce1a,Web APIs
+web/api/rtcicetransport/getselectedcandidatepair,7dae8cc1bbde35982df7baaa495714f45a064913,Web APIs
 web/api/rtcicetransport/role,9f18116c362265a3dfb65185728548ec43cd12f4,Web APIs
 web/api/rtcicetransport/selectedcandidatepairchange_event,f71683f74da0078d9371c4d0c1ff9d3898fc7b59,Web APIs
 web/api/rtcicetransport/state,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -10654,29 +10654,29 @@ web/css/reference/properties/-webkit-mask-position-y,bcbb4bd6a80292c0663b723d546
 web/css/reference/properties/-webkit-mask-repeat-x,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/-webkit-mask-repeat-y,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/-webkit-tap-highlight-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/-webkit-text-fill-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/-webkit-text-fill-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/-webkit-text-security,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/-webkit-text-stroke,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/-webkit-text-stroke-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/-webkit-text-stroke-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/-webkit-text-stroke-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/-webkit-touch-callout,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/accent-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/align-content,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/align-items,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/align-self,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/alignment-baseline,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/accent-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/align-content,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/align-items,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/align-self,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/alignment-baseline,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/all,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/anchor-name,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/anchor-scope,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/anchor-name,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/anchor-scope,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/animation,8fbdeb7fdee69284a6423044f24b8b4a7140028f,CSS|Properties
 web/css/reference/properties/animation-composition,d4dc9d899ebec0e9c22a5bb9229f39f33457d8df,CSS|Properties
-web/css/reference/properties/animation-delay,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/animation-direction,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/animation-delay,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/animation-direction,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/animation-duration,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/animation-fill-mode,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/animation-fill-mode,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/animation-iteration-count,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/animation-name,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/animation-play-state,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/animation-play-state,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/animation-range,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/animation-range-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/animation-range-start,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10707,7 +10707,7 @@ web/css/reference/properties/baseline-source,bcbb4bd6a80292c0663b723d5466759cfaa
 web/css/reference/properties/block-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-block,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
-web/css/reference/properties/border-block-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/border-block-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/border-block-end,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
 web/css/reference/properties/border-block-end-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-block-end-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
@@ -10735,7 +10735,7 @@ web/css/reference/properties/border-image-slice,bcbb4bd6a80292c0663b723d5466759c
 web/css/reference/properties/border-image-source,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-image-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-inline,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
-web/css/reference/properties/border-inline-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/border-inline-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/border-inline-end,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
 web/css/reference/properties/border-inline-end-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/border-inline-end-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
@@ -10785,15 +10785,15 @@ web/css/reference/properties/break-inside,bcbb4bd6a80292c0663b723d5466759cfaaa83
 web/css/reference/properties/caption-side,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/caret,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/caret-animation,00da2fc19d0c8c7cd2e91c78cf55e204cd94cf2b,CSS|Properties
-web/css/reference/properties/caret-color,00da2fc19d0c8c7cd2e91c78cf55e204cd94cf2b,CSS|Properties
-web/css/reference/properties/caret-shape,00da2fc19d0c8c7cd2e91c78cf55e204cd94cf2b,CSS|Properties
-web/css/reference/properties/clear,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/caret-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/caret-shape,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/clear,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/clip,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/clip-path,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/clip-rule,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/color-interpolation,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/color-interpolation-filters,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/color-interpolation,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/color-interpolation-filters,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/color-scheme,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/column-count,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/column-fill,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10802,7 +10802,7 @@ web/css/reference/properties/column-height,bcbb4bd6a80292c0663b723d5466759cfaaa8
 web/css/reference/properties/column-rule,5cf8432d980cbe9b7e5611d647d8566b5c4ff3ed,CSS|Properties
 web/css/reference/properties/column-rule-color,5cf8432d980cbe9b7e5611d647d8566b5c4ff3ed,CSS|Properties
 web/css/reference/properties/column-rule-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
-web/css/reference/properties/column-rule-visibility-items,7f138099644a02640a903b2abc39e685ca8ca7cd,CSS|Properties
+web/css/reference/properties/column-rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/column-rule-width,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
 web/css/reference/properties/column-span,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/column-width,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
@@ -10818,7 +10818,7 @@ web/css/reference/properties/container,2ce88199869b63f8da3bbeafd899400f7579cce9,
 web/css/reference/properties/container-name,afcdfa050626bb7eb05ee693df8997020db9ff2e,CSS|Properties
 web/css/reference/properties/container-type,2ce88199869b63f8da3bbeafd899400f7579cce9,CSS|Properties
 web/css/reference/properties/content,ddf85bfec1b6e43cdacb404de0c38a801c561640,CSS|Properties
-web/css/reference/properties/content-visibility,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/content-visibility,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/corner-block-end-shape,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/corner-block-start-shape,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/corner-bottom-left-shape,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10842,16 +10842,16 @@ web/css/reference/properties/counter-set,bcbb4bd6a80292c0663b723d5466759cfaaa831
 web/css/reference/properties/cursor,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/cx,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/cy,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/d,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/direction,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/d,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/direction,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/display,afcdfa050626bb7eb05ee693df8997020db9ff2e,CSS|Properties
 web/css/reference/properties/dominant-baseline,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/dynamic-range-limit,468c261821b7443db6fdb748f733f21186597501,CSS|Properties
 web/css/reference/properties/empty-cells,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/field-sizing,cd0d465d5512de499b5da36abc5735c14897af7c,CSS|Properties
-web/css/reference/properties/fill,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/field-sizing,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/fill,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/fill-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/fill-rule,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/fill-rule,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/filter,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/flex,ddf85bfec1b6e43cdacb404de0c38a801c561640,CSS|Properties
 web/css/reference/properties/flex-basis,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10861,14 +10861,14 @@ web/css/reference/properties/flex-grow,c0c85c3dc0d6ff4247c85b0144149e584d74b625,
 web/css/reference/properties/flex-shrink,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/flex-wrap,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/float,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/flood-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/flood-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/flood-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font,afcdfa050626bb7eb05ee693df8997020db9ff2e,CSS|Properties
 web/css/reference/properties/font-family,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-feature-settings,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-kerning,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/font-kerning,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-language-override,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-optical-sizing,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/font-optical-sizing,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-palette,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-palette/palette-mix,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Properties
 web/css/reference/properties/font-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10876,15 +10876,15 @@ web/css/reference/properties/font-size-adjust,82eeb8918aee4fe017a6ef1cb286bfd0a8
 web/css/reference/properties/font-smooth,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-stretch,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-synthesis,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-synthesis-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-synthesis-small-caps,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-synthesis-style,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
-web/css/reference/properties/font-synthesis-weight,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/font-synthesis,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/font-synthesis-position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/font-synthesis-small-caps,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/font-synthesis-style,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/font-synthesis-weight,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-variant,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-variant-alternates,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-variant-caps,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-variant-east-asian,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/font-variant-east-asian,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-variant-emoji,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-variant-ligatures,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Properties
 web/css/reference/properties/font-variant-numeric,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
@@ -10915,8 +10915,8 @@ web/css/reference/properties/height,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS
 web/css/reference/properties/hyphenate-character,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/hyphenate-limit-chars,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/hyphens,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/image-orientation,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/image-rendering,d314d089e9be9ac78a91ba95ee80cad7d3cbe8c2,CSS|Properties
+web/css/reference/properties/image-orientation,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/image-rendering,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/image-resolution,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/initial-letter,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/inline-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10927,18 +10927,18 @@ web/css/reference/properties/inset-block-start,bcbb4bd6a80292c0663b723d5466759cf
 web/css/reference/properties/inset-inline,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/inset-inline-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/inset-inline-start,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/interactivity,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/interactivity,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/interest-delay,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/interest-delay-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/interest-delay-start,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/interpolate-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/interest-delay-end,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/interest-delay-start,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/interpolate-size,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/isolation,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/justify-content,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/justify-content,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/justify-items,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/justify-self,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/letter-spacing,d62aeb53943b4861f18a3e895d32b020e09ce0aa,CSS|Properties
-web/css/reference/properties/lighting-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/lighting-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/line-break,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/line-clamp,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/line-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10959,14 +10959,14 @@ web/css/reference/properties/margin-inline-start,bcbb4bd6a80292c0663b723d5466759
 web/css/reference/properties/margin-left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/margin-right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/margin-top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/margin-trim,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/margin-trim,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/marker,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/marker-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/marker-mid,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/marker-start,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/mask,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/mask-border,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/mask-border-mode,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/mask-border-mode,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/mask-border-outset,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/mask-border-repeat,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/mask-border-slice,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10982,8 +10982,8 @@ web/css/reference/properties/mask-repeat,bcbb4bd6a80292c0663b723d5466759cfaaa831
 web/css/reference/properties/mask-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/mask-type,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/math-depth,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/math-shift,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/math-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/math-shift,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/math-style,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/max-block-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/max-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/max-inline-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11011,14 +11011,14 @@ web/css/reference/properties/outline-offset,bcbb4bd6a80292c0663b723d5466759cfaaa
 web/css/reference/properties/outline-style,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/outline-width,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
 web/css/reference/properties/overflow,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/overflow-anchor,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/overflow-anchor,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/overflow-block,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/overflow-clip-margin,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
 web/css/reference/properties/overflow-inline,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/overflow-wrap,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/overflow-x,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/overflow-y,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/overlay,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/overlay,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/overscroll-behavior,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/overscroll-behavior-block,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/overscroll-behavior-inline,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
@@ -11037,23 +11037,23 @@ web/css/reference/properties/padding-right,0c62b082755017d0773ecaaee7e74efd5e066
 web/css/reference/properties/padding-top,0c62b082755017d0773ecaaee7e74efd5e066d0b,CSS|Properties
 web/css/reference/properties/page,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/page-break-after,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/page-break-before,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/page-break-inside,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/page-break-before,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/page-break-inside,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/paint-order,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/path-length,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/perspective,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/perspective-origin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/place-content,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/place-items,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/place-self,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/place-self,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/pointer-events,54363b174e87f0d2af789266d78eda0e9934bdbd,CSS|Properties
-web/css/reference/properties/position,14a91e1ff94b106c2e2a83ce252dbd380c38d7ff,CSS|Properties
+web/css/reference/properties/position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/position-anchor,31086145b865d6c5c2fec3ba700fd424d57fdf42,CSS|Properties
 web/css/reference/properties/position-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/position-try,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/position-try-fallbacks,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/position-try-order,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/position-visibility,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/position-visibility,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/print-color-adjust,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/quotes,652d220f00bede14baef1fc755003a3bcfd2573c,CSS|Properties
 web/css/reference/properties/r,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11066,17 +11066,17 @@ web/css/reference/properties/row-gap,53745a2089268ce62bf79695d7d347bcbd0abe57,CS
 web/css/reference/properties/row-rule,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/row-rule-color,9cf3002bd29376c15d49df6fab2e6a264285abf6,CSS|Properties
 web/css/reference/properties/row-rule-style,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
-web/css/reference/properties/row-rule-visibility-items,afcdfa050626bb7eb05ee693df8997020db9ff2e,CSS|Properties
+web/css/reference/properties/row-rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/row-rule-width,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
-web/css/reference/properties/ruby-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/ruby-overhang,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/ruby-position,a52a9cd2b661e6e51e4b600c848207140265d362,CSS|Properties
-web/css/reference/properties/rule-visibility-items,7f138099644a02640a903b2abc39e685ca8ca7cd,CSS|Properties
+web/css/reference/properties/ruby-align,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/ruby-overhang,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/rx,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ry,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scale,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-behavior,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/scroll-initial-target,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
+web/css/reference/properties/scroll-initial-target,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/scroll-margin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-margin-block,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-margin-block-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11088,7 +11088,7 @@ web/css/reference/properties/scroll-margin-inline-start,bcbb4bd6a80292c0663b723d
 web/css/reference/properties/scroll-margin-left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-margin-right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-margin-top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/scroll-marker-group,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/scroll-marker-group,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/scroll-padding,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-padding-block,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-padding-block-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11101,8 +11101,8 @@ web/css/reference/properties/scroll-padding-left,bcbb4bd6a80292c0663b723d5466759
 web/css/reference/properties/scroll-padding-right,ab63f9fa055a0d5b1b4eeac21e9a1e98c4f62c82,CSS|Properties
 web/css/reference/properties/scroll-padding-top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-snap-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/scroll-snap-stop,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/scroll-snap-type,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/scroll-snap-stop,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/scroll-snap-type,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/scroll-target-group,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-timeline,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/scroll-timeline-axis,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
@@ -11120,35 +11120,35 @@ web/css/reference/properties/stop-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa83
 web/css/reference/properties/stroke,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/stroke-dasharray,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/stroke-dashoffset,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/stroke-linecap,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/stroke-linecap,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/stroke-linejoin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/stroke-miterlimit,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/stroke-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/stroke-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/tab-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/table-layout,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/table-layout,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-align,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/text-align-last,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/text-anchor,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/text-align-last,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/text-anchor,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-autospace,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-box,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-box-edge,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-box-trim,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/text-combine-upright,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/text-combine-upright,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-decoration,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/text-decoration-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/text-decoration-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-decoration-inset,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/text-decoration-line,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/text-decoration-skip,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/text-decoration-skip-ink,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/text-decoration-skip-ink,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-decoration-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-decoration-thickness,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-emphasis,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/text-emphasis-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/text-emphasis-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-emphasis-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-emphasis-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-indent,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/text-justify,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/text-justify,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-orientation,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/text-overflow,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/text-rendering,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11157,17 +11157,17 @@ web/css/reference/properties/text-size-adjust,c0c85c3dc0d6ff4247c85b0144149e584d
 web/css/reference/properties/text-spacing-trim,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-transform,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-underline-offset,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/text-underline-position,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Properties
+web/css/reference/properties/text-underline-position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-wrap,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/text-wrap-mode,7d82de65fb43700d2053f13d8344ec4a78759b2c,CSS|Properties
 web/css/reference/properties/text-wrap-style,7d82de65fb43700d2053f13d8344ec4a78759b2c,CSS|Properties
 web/css/reference/properties/timeline-scope,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/touch-action,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/transform,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
+web/css/reference/properties/transform,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/transform-box,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/transform-origin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/transform-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/transform-style,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/transition,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/transition-behavior,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/transition-delay,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11178,7 +11178,7 @@ web/css/reference/properties/translate,bcbb4bd6a80292c0663b723d5466759cfaaa8315,
 web/css/reference/properties/unicode-bidi,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/user-modify,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/user-select,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/vector-effect,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/vector-effect,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/vertical-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/view-timeline,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/view-timeline-axis,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
@@ -11186,15 +11186,15 @@ web/css/reference/properties/view-timeline-inset,bcbb4bd6a80292c0663b723d5466759
 web/css/reference/properties/view-timeline-name,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/view-transition-class,7447816a276e95c5b4c2ab2f6a1f80b081371de2,CSS|Properties
 web/css/reference/properties/view-transition-name,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/view-transition-scope,afcdfa050626bb7eb05ee693df8997020db9ff2e,CSS|Properties
+web/css/reference/properties/view-transition-scope,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/visibility,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/white-space,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/white-space-collapse,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/widows,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/widows,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/width,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/will-change,5362c0545d8dc2a859fd2f64de41d576931d6a2e,CSS|Properties
 web/css/reference/properties/word-break,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/word-spacing,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/word-spacing,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/writing-mode,d4dc9d899ebec0e9c22a5bb9229f39f33457d8df,CSS|Properties
 web/css/reference/properties/x,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/y,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11456,7 +11456,7 @@ web/css/reference/values/fit-content_function,5e4520f9cd84f65d470ec57efef7a73bbe
 web/css/reference/values/flex_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/frequency,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/frequency-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/functions,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Values
+web/css/reference/values/functions,d1745aaf15baa2b3d48f67a51eba881a9f4f2c33,CSS|Values
 web/css/reference/values/generic-family,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/gradient,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/gradient/conic-gradient,a1da408d85bfa1fc180d15fdc29746ad5f9e9cff,CSS|Values
@@ -14098,10 +14098,10 @@ web/webdriver/reference/bidi/modules/session/unsubscribe,9703f3f0a1ae56e4e40af55
 web/webdriver/reference/bidi/modules/storage,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/useragentclienthints,aea2d29336c910940abb1f8e71e02158ac51e7c4,WebDriver
 web/webdriver/reference/bidi/modules/webextension,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
-web/webdriver/reference/capabilities,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
-web/webdriver/reference/capabilities/acceptinsecurecerts,676631fd27c8096c3ae3ceb2a6b4ffd6f687055f,WebDriver
-web/webdriver/reference/capabilities/firefoxoptions,676631fd27c8096c3ae3ceb2a6b4ffd6f687055f,WebDriver
-web/webdriver/reference/capabilities/websocketurl,676631fd27c8096c3ae3ceb2a6b4ffd6f687055f,WebDriver
+web/webdriver/reference/capabilities,fb6aa6056407ba69d96da0fe140a1ae2320f0fb2,WebDriver
+web/webdriver/reference/capabilities/acceptinsecurecerts,fb6aa6056407ba69d96da0fe140a1ae2320f0fb2,WebDriver
+web/webdriver/reference/capabilities/firefoxoptions,fb6aa6056407ba69d96da0fe140a1ae2320f0fb2,WebDriver
+web/webdriver/reference/capabilities/websocketurl,fb6aa6056407ba69d96da0fe140a1ae2320f0fb2,WebDriver
 web/webdriver/reference/classic,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/classic/commands,62b11997b60e0193008b0aacf24195eba83d94d5,WebDriver|Classic Commands
 web/webdriver/reference/classic/commands/back,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
@@ -14110,22 +14110,22 @@ web/webdriver/reference/classic/commands/forward,421a9c26127cf11e33e72184b14656c
 web/webdriver/reference/classic/commands/getelementattribute,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
 web/webdriver/reference/classic/commands/getelementproperty,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
 web/webdriver/reference/classic/commands/getelementtagname,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
-web/webdriver/reference/classic/commands/gettimeouts,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
+web/webdriver/reference/classic/commands/gettimeouts,fb6aa6056407ba69d96da0fe140a1ae2320f0fb2,WebDriver|Classic Commands
 web/webdriver/reference/classic/commands/gettitle,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
 web/webdriver/reference/classic/commands/getwindowhandles,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
 web/webdriver/reference/classic/commands/getwindowrect,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
 web/webdriver/reference/classic/commands/newsession,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
 web/webdriver/reference/classic/commands/newwindow,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
 web/webdriver/reference/classic/commands/refresh,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
-web/webdriver/reference/classic/commands/settimeouts,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
+web/webdriver/reference/classic/commands/settimeouts,fb6aa6056407ba69d96da0fe140a1ae2320f0fb2,WebDriver|Classic Commands
 web/webdriver/reference/classic/commands/setwindowrect,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Classic Commands
-web/webdriver/reference/classic/timeouts,676631fd27c8096c3ae3ceb2a6b4ffd6f687055f,WebDriver
+web/webdriver/reference/classic/timeouts,fb6aa6056407ba69d96da0fe140a1ae2320f0fb2,WebDriver
 web/webdriver/reference/errors,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Errors
 web/webdriver/reference/errors/insecurecertificate,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Errors
 web/webdriver/reference/errors/invalidargument,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Errors
 web/webdriver/reference/errors/invalidcookiedomain,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Errors
 web/webdriver/reference/errors/invalidselector,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Errors
-web/webdriver/reference/errors/invalidsessionid,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Errors
+web/webdriver/reference/errors/invalidsessionid,fb6aa6056407ba69d96da0fe140a1ae2320f0fb2,WebDriver|Errors
 web/webdriver/reference/errors/javascripterror,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Errors
 web/webdriver/reference/errors/scripttimeout,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Errors
 web/webdriver/reference/errors/staleelementreference,421a9c26127cf11e33e72184b14656c9d406294d,WebDriver|Errors
@@ -14335,7 +14335,7 @@ webassembly/reference/javascript_interface/table/grow,006c05b688814b45a01ad965bb
 webassembly/reference/javascript_interface/table/length,006c05b688814b45a01ad965bbe4ebfc15513e74,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/table/set,006c05b688814b45a01ad965bbe4ebfc15513e74,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/table/table,b5a6d8bc5fd751032f70b88e7ec1ec61339937de,WebAssembly|JavaScript Interface
-webassembly/reference/javascript_interface/tag,afcdfa050626bb7eb05ee693df8997020db9ff2e,WebAssembly|JavaScript Interface
+webassembly/reference/javascript_interface/tag,fb6aa6056407ba69d96da0fe140a1ae2320f0fb2,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/tag/tag,48b0dc43b7c13a2c9a5d2c56f110444d2550b90e,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/tag/type,afcdfa050626bb7eb05ee693df8997020db9ff2e,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/validate_static,006c05b688814b45a01ad965bbe4ebfc15513e74,WebAssembly|JavaScript Interface
@@ -14469,32 +14469,32 @@ webassembly/reference/simd/conversion/trunc_sat_f32x4_u,139b03cac9d143948f9073ed
 webassembly/reference/simd/conversion/trunc_sat_f64x2_s_zero,139b03cac9d143948f9073edb507edec7b45d3d6,WebAssembly
 webassembly/reference/simd/conversion/trunc_sat_f64x2_u_zero,139b03cac9d143948f9073edb507edec7b45d3d6,WebAssembly
 webassembly/reference/simd/extract,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/extract/extract_lane,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/extract/extract_lane_s,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/extract/extract_lane_u,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
+webassembly/reference/simd/extract/extract_lane,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/extract/extract_lane_s,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/extract/extract_lane_u,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
 webassembly/reference/simd/load_store,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load16_lane,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load16_splat,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load16x4_s,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load16x4_u,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load32_lane,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load32_splat,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load32_zero,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load32x2_s,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load32x2_u,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load64_lane,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load64_splat,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load64_zero,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load8_lane,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load8_splat,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load8x8_s,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/load8x8_u,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/store,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/store16_lane,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/store32_lane,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/store64_lane,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/simd/load_store/store8_lane,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
+webassembly/reference/simd/load_store/load,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load16_lane,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load16_splat,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load16x4_s,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load16x4_u,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load32_lane,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load32_splat,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load32_zero,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load32x2_s,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load32x2_u,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load64_lane,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load64_splat,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load64_zero,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load8_lane,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load8_splat,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load8x8_s,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/load8x8_u,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/store,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/store16_lane,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/store32_lane,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/store64_lane,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
+webassembly/reference/simd/load_store/store8_lane,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
 webassembly/reference/table,581f82a63c000aa702c51f17f610fcd8e4f97ca8,WebAssembly|Table
 webassembly/reference/table/fill,581f82a63c000aa702c51f17f610fcd8e4f97ca8,WebAssembly|Table
 webassembly/reference/table/get,581f82a63c000aa702c51f17f610fcd8e4f97ca8,WebAssembly|Table
