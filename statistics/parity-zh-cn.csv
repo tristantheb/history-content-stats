@@ -10660,7 +10660,7 @@ web/css/reference/properties/-webkit-text-stroke,null
 web/css/reference/properties/-webkit-text-stroke-color,null
 web/css/reference/properties/-webkit-text-stroke-width,2
 web/css/reference/properties/-webkit-touch-callout,2
-web/css/reference/properties/accent-color,4
+web/css/reference/properties/accent-color,5
 web/css/reference/properties/align-content,null
 web/css/reference/properties/align-items,null
 web/css/reference/properties/align-self,null
@@ -10916,7 +10916,7 @@ web/css/reference/properties/hyphenate-character,null
 web/css/reference/properties/hyphenate-limit-chars,null
 web/css/reference/properties/hyphens,null
 web/css/reference/properties/image-orientation,null
-web/css/reference/properties/image-rendering,0
+web/css/reference/properties/image-rendering,1
 web/css/reference/properties/image-resolution,null
 web/css/reference/properties/initial-letter,2
 web/css/reference/properties/inline-size,null
@@ -11047,7 +11047,7 @@ web/css/reference/properties/place-content,null
 web/css/reference/properties/place-items,null
 web/css/reference/properties/place-self,null
 web/css/reference/properties/pointer-events,null
-web/css/reference/properties/position,7
+web/css/reference/properties/position,8
 web/css/reference/properties/position-anchor,null
 web/css/reference/properties/position-area,null
 web/css/reference/properties/position-try,null
@@ -11144,7 +11144,7 @@ web/css/reference/properties/text-decoration-skip-ink,null
 web/css/reference/properties/text-decoration-style,null
 web/css/reference/properties/text-decoration-thickness,2
 web/css/reference/properties/text-emphasis,6
-web/css/reference/properties/text-emphasis-color,2
+web/css/reference/properties/text-emphasis-color,3
 web/css/reference/properties/text-emphasis-position,2
 web/css/reference/properties/text-emphasis-style,2
 web/css/reference/properties/text-indent,9
@@ -11164,7 +11164,7 @@ web/css/reference/properties/text-wrap-style,null
 web/css/reference/properties/timeline-scope,null
 web/css/reference/properties/top,null
 web/css/reference/properties/touch-action,null
-web/css/reference/properties/transform,6
+web/css/reference/properties/transform,7
 web/css/reference/properties/transform-box,null
 web/css/reference/properties/transform-origin,null
 web/css/reference/properties/transform-style,null
@@ -11194,7 +11194,7 @@ web/css/reference/properties/widows,null
 web/css/reference/properties/width,null
 web/css/reference/properties/will-change,1
 web/css/reference/properties/word-break,null
-web/css/reference/properties/word-spacing,4
+web/css/reference/properties/word-spacing,5
 web/css/reference/properties/writing-mode,null
 web/css/reference/properties/x,null
 web/css/reference/properties/y,null

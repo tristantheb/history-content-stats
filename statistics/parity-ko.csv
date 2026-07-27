@@ -10660,9 +10660,9 @@ web/css/reference/properties/-webkit-text-stroke,null
 web/css/reference/properties/-webkit-text-stroke-color,null
 web/css/reference/properties/-webkit-text-stroke-width,null
 web/css/reference/properties/-webkit-touch-callout,null
-web/css/reference/properties/accent-color,4
+web/css/reference/properties/accent-color,5
 web/css/reference/properties/align-content,null
-web/css/reference/properties/align-items,4
+web/css/reference/properties/align-items,5
 web/css/reference/properties/align-self,null
 web/css/reference/properties/alignment-baseline,null
 web/css/reference/properties/all,null
@@ -10818,7 +10818,7 @@ web/css/reference/properties/container,4
 web/css/reference/properties/container-name,6
 web/css/reference/properties/container-type,6
 web/css/reference/properties/content,null
-web/css/reference/properties/content-visibility,8
+web/css/reference/properties/content-visibility,9
 web/css/reference/properties/corner-block-end-shape,null
 web/css/reference/properties/corner-block-start-shape,null
 web/css/reference/properties/corner-bottom-left-shape,null
@@ -10933,7 +10933,7 @@ web/css/reference/properties/interest-delay-end,null
 web/css/reference/properties/interest-delay-start,null
 web/css/reference/properties/interpolate-size,null
 web/css/reference/properties/isolation,null
-web/css/reference/properties/justify-content,6
+web/css/reference/properties/justify-content,7
 web/css/reference/properties/justify-items,null
 web/css/reference/properties/justify-self,null
 web/css/reference/properties/left,null
@@ -11011,7 +11011,7 @@ web/css/reference/properties/outline-offset,null
 web/css/reference/properties/outline-style,null
 web/css/reference/properties/outline-width,null
 web/css/reference/properties/overflow,null
-web/css/reference/properties/overflow-anchor,3
+web/css/reference/properties/overflow-anchor,4
 web/css/reference/properties/overflow-block,null
 web/css/reference/properties/overflow-clip-margin,null
 web/css/reference/properties/overflow-inline,4
@@ -11045,7 +11045,7 @@ web/css/reference/properties/perspective,null
 web/css/reference/properties/perspective-origin,null
 web/css/reference/properties/place-content,6
 web/css/reference/properties/place-items,6
-web/css/reference/properties/place-self,6
+web/css/reference/properties/place-self,7
 web/css/reference/properties/pointer-events,4
 web/css/reference/properties/position,null
 web/css/reference/properties/position-anchor,null
