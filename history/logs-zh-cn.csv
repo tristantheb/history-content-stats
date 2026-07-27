@@ -3229,7 +3229,7 @@ web/api/htmlmediaelement/loadstart_event,no_hash_commit
 web/api/htmlmediaelement/loop,no_hash_commit
 web/api/htmlmediaelement/mediagroup,8beb479c558d4220932721e61b6a334d5b5c274a
 web/api/htmlmediaelement/mediakeys,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
-web/api/htmlmediaelement/muted,no_hash_commit
+web/api/htmlmediaelement/muted,595cba0e07c70eda7f08a12890e00ea0281933d3
 web/api/htmlmediaelement/networkstate,no_hash_commit
 web/api/htmlmediaelement/pause,no_hash_commit
 web/api/htmlmediaelement/pause_event,no_hash_commit
@@ -3995,7 +3995,7 @@ web/api/range/extractcontents,987c56d6f54bba1bf0430abf06b9a5573c8c289a
 web/api/range/getboundingclientrect,no_hash_commit
 web/api/range/getclientrects,no_hash_commit
 web/api/range,no_hash_commit
-web/api/range/insertnode,no_hash_commit
+web/api/range/insertnode,c58e8c1dd6ecbcb63894c7dd17fb9495b9511b4e
 web/api/range/intersectsnode,acfe8c9f1f4145f77653a2bc64a9744b001358dc
 web/api/range/range,c58e8c1dd6ecbcb63894c7dd17fb9495b9511b4e
 web/api/range/selectnode,no_hash_commit
@@ -4703,7 +4703,7 @@ web/api/webrtc_api/using_dtmf,f92df19cdf44d4352b89e446dc1b9d1e5addcbe1
 web/api/webrtc_api/using_encoded_transforms,4799bed9382147f0b0ff642a130a1c12ed59a28e
 web/api/websocket/binarytype,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websocket/bufferedamount,fb311d7305937497570966f015d8cc0eb1a0c29c
-web/api/websocket/close,no_hash_commit
+web/api/websocket/close,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26
 web/api/websocket/close_event,no_hash_commit
 web/api/websocket/error_event,no_hash_commit
 web/api/websocket/extensions,fb311d7305937497570966f015d8cc0eb1a0c29c
@@ -5997,7 +5997,7 @@ web/html/reference/elements/output,no_hash_commit
 web/html/reference/elements/p,736fa0e485243ef1f07395811a9bf397c6509316
 web/html/reference/elements/param,0af6781c93ffe3d011a060b4e517187cf780e93a
 web/html/reference/elements/picture,no_hash_commit
-web/html/reference/elements/plaintext,0754cd805a8e010d2e3a2a065f634a3bcf358252
+web/html/reference/elements/plaintext,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/pre,no_hash_commit
 web/html/reference/elements/progress,no_hash_commit
 web/html/reference/elements/q,no_hash_commit
@@ -7416,7 +7416,7 @@ web/svg/reference/element/animatetransform,no_hash_commit
 web/svg/reference/element/circle,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/clippath,no_hash_commit
 web/svg/reference/element/defs,no_hash_commit
-web/svg/reference/element/desc,no_hash_commit
+web/svg/reference/element/desc,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/ellipse,no_hash_commit
 web/svg/reference/element/feblend,3a1ef2abc8233835f0b0cc73afaf36e44edaf4a1
 web/svg/reference/element/fecolormatrix,no_hash_commit
