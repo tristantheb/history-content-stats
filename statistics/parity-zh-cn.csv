@@ -359,7 +359,7 @@ glossary/isp,2
 glossary/itu,1
 glossary/jank,2
 glossary/java,1
-glossary/javascript,6
+glossary/javascript,7
 glossary/jitter,2
 glossary/jpeg,2
 glossary/json,2
@@ -2712,8 +2712,8 @@ web/api/broadcast_channel_api,1
 web/api/broadcastchannel,0
 web/api/broadcastchannel/broadcastchannel,0
 web/api/broadcastchannel/close,1
-web/api/broadcastchannel/message_event,2
-web/api/broadcastchannel/messageerror_event,3
+web/api/broadcastchannel/message_event,3
+web/api/broadcastchannel/messageerror_event,4
 web/api/broadcastchannel/name,0
 web/api/broadcastchannel/postmessage,1
 web/api/browsercapturemediastreamtrack,0
@@ -3405,7 +3405,7 @@ web/api/datatransfer/types,0
 web/api/datatransferitem,0
 web/api/datatransferitem/getasfile,0
 web/api/datatransferitem/getasfilesystemhandle,2
-web/api/datatransferitem/getasstring,null
+web/api/datatransferitem/getasstring,0
 web/api/datatransferitem/kind,0
 web/api/datatransferitem/type,2
 web/api/datatransferitem/webkitgetasentry,null
@@ -3901,7 +3901,7 @@ web/api/element/compositionstart_event,null
 web/api/element/compositionupdate_event,null
 web/api/element/computedstylemap,null
 web/api/element/contentvisibilityautostatechange_event,null
-web/api/element/contextmenu_event,5
+web/api/element/contextmenu_event,6
 web/api/element/copy_event,null
 web/api/element/currentcsszoom,null
 web/api/element/customelementregistry,null
@@ -4019,7 +4019,7 @@ web/api/element/startviewtransition,null
 web/api/element/tagname,null
 web/api/element/toggleattribute,1
 web/api/element/touchcancel_event,null
-web/api/element/touchend_event,2
+web/api/element/touchend_event,3
 web/api/element/touchmove_event,null
 web/api/element/touchstart_event,null
 web/api/element/transitioncancel_event,null
@@ -4247,14 +4247,14 @@ web/api/filelist/item,0
 web/api/filelist/length,0
 web/api/filereader,1
 web/api/filereader/abort,0
-web/api/filereader/abort_event,1
+web/api/filereader/abort_event,2
 web/api/filereader/error,0
-web/api/filereader/error_event,1
+web/api/filereader/error_event,2
 web/api/filereader/filereader,0
-web/api/filereader/load_event,1
-web/api/filereader/loadend_event,1
-web/api/filereader/loadstart_event,1
-web/api/filereader/progress_event,1
+web/api/filereader/load_event,2
+web/api/filereader/loadend_event,2
+web/api/filereader/loadstart_event,2
+web/api/filereader/progress_event,2
 web/api/filereader/readasarraybuffer,0
 web/api/filereader/readasbinarystring,1
 web/api/filereader/readasdataurl,3
@@ -4677,8 +4677,8 @@ web/api/headers/keys,null
 web/api/headers/set,2
 web/api/headers/values,0
 web/api/hid,0
-web/api/hid/connect_event,1
-web/api/hid/disconnect_event,1
+web/api/hid/connect_event,2
+web/api/hid/disconnect_event,2
 web/api/hid/getdevices,1
 web/api/hid/requestdevice,4
 web/api/hidconnectionevent,0
@@ -4688,7 +4688,7 @@ web/api/hiddevice,1
 web/api/hiddevice/close,0
 web/api/hiddevice/collections,3
 web/api/hiddevice/forget,0
-web/api/hiddevice/inputreport_event,1
+web/api/hiddevice/inputreport_event,2
 web/api/hiddevice/open,0
 web/api/hiddevice/opened,1
 web/api/hiddevice/productid,1
@@ -5493,10 +5493,10 @@ web/api/htmlunknownelement,0
 web/api/htmlvideoelement,null
 web/api/htmlvideoelement/cancelvideoframecallback,null
 web/api/htmlvideoelement/disablepictureinpicture,0
-web/api/htmlvideoelement/enterpictureinpicture_event,2
+web/api/htmlvideoelement/enterpictureinpicture_event,3
 web/api/htmlvideoelement/getvideoplaybackquality,null
 web/api/htmlvideoelement/height,null
-web/api/htmlvideoelement/leavepictureinpicture_event,2
+web/api/htmlvideoelement/leavepictureinpicture_event,3
 web/api/htmlvideoelement/poster,null
 web/api/htmlvideoelement/requestpictureinpicture,3
 web/api/htmlvideoelement/requestvideoframecallback,null
@@ -6122,8 +6122,8 @@ web/api/messageevent/ports,null
 web/api/messageevent/source,null
 web/api/messageport,0
 web/api/messageport/close,1
-web/api/messageport/message_event,3
-web/api/messageport/messageerror_event,3
+web/api/messageport/message_event,4
+web/api/messageport/messageerror_event,4
 web/api/messageport/postmessage,3
 web/api/messageport/start,1
 web/api/metadata,null
@@ -6864,7 +6864,7 @@ web/api/pictureinpictureevent/pictureinpictureevent,0
 web/api/pictureinpictureevent/pictureinpicturewindow,0
 web/api/pictureinpicturewindow,0
 web/api/pictureinpicturewindow/height,0
-web/api/pictureinpicturewindow/resize_event,1
+web/api/pictureinpicturewindow/resize_event,2
 web/api/pictureinpicturewindow/width,0
 web/api/plugin,0
 web/api/pluginarray,null
@@ -7459,7 +7459,7 @@ web/api/rtcpeerconnection/close,null
 web/api/rtcpeerconnection/connectionstate,null
 web/api/rtcpeerconnection/connectionstatechange_event,null
 web/api/rtcpeerconnection/createanswer,null
-web/api/rtcpeerconnection/createdatachannel,null
+web/api/rtcpeerconnection/createdatachannel,0
 web/api/rtcpeerconnection/createdtmfsender,null
 web/api/rtcpeerconnection/createoffer,1
 web/api/rtcpeerconnection/currentlocaldescription,null
@@ -7809,8 +7809,8 @@ web/api/serviceworkerglobalscope/fetch_event,null
 web/api/serviceworkerglobalscope/install_event,null
 web/api/serviceworkerglobalscope/message_event,null
 web/api/serviceworkerglobalscope/messageerror_event,null
-web/api/serviceworkerglobalscope/notificationclick_event,2
-web/api/serviceworkerglobalscope/notificationclose_event,1
+web/api/serviceworkerglobalscope/notificationclick_event,3
+web/api/serviceworkerglobalscope/notificationclose_event,2
 web/api/serviceworkerglobalscope/paymentrequest_event,null
 web/api/serviceworkerglobalscope/periodicsync_event,null
 web/api/serviceworkerglobalscope/push_event,null
@@ -7818,7 +7818,7 @@ web/api/serviceworkerglobalscope/pushsubscriptionchange_event,null
 web/api/serviceworkerglobalscope/registration,0
 web/api/serviceworkerglobalscope/serviceworker,0
 web/api/serviceworkerglobalscope/skipwaiting,null
-web/api/serviceworkerglobalscope/sync_event,3
+web/api/serviceworkerglobalscope/sync_event,4
 web/api/serviceworkerregistration,null
 web/api/serviceworkerregistration/active,null
 web/api/serviceworkerregistration/backgroundfetch,null
@@ -9743,7 +9743,7 @@ web/api/window/credentialless,null
 web/api/window/crossoriginisolated,3
 web/api/window/crypto,1
 web/api/window/customelements,null
-web/api/window/devicemotion_event,4
+web/api/window/devicemotion_event,5
 web/api/window/deviceorientation_event,null
 web/api/window/deviceorientationabsolute_event,null
 web/api/window/devicepixelratio,null
@@ -9758,7 +9758,7 @@ web/api/window/fetch,11
 web/api/window/fetchlater,null
 web/api/window/find,2
 web/api/window/focus,0
-web/api/window/focus_event,3
+web/api/window/focus_event,4
 web/api/window/frameelement,1
 web/api/window/frames,null
 web/api/window/fullscreen,null
@@ -9768,7 +9768,7 @@ web/api/window/getcomputedstyle,null
 web/api/window/getdefaultcomputedstyle,null
 web/api/window/getscreendetails,null
 web/api/window/getselection,null
-web/api/window/hashchange_event,3
+web/api/window/hashchange_event,4
 web/api/window/history,null
 web/api/window/indexeddb,null
 web/api/window/innerheight,null
@@ -9784,7 +9784,7 @@ web/api/window/locationbar,0
 web/api/window/matchmedia,null
 web/api/window/menubar,0
 web/api/window/message_event,null
-web/api/window/messageerror_event,0
+web/api/window/messageerror_event,1
 web/api/window/moveby,0
 web/api/window/moveto,0
 web/api/window/mozinnerscreenx,0
@@ -9802,7 +9802,7 @@ web/api/window/origin,2
 web/api/window/originagentcluster,0
 web/api/window/outerheight,null
 web/api/window/outerwidth,null
-web/api/window/pagehide_event,3
+web/api/window/pagehide_event,4
 web/api/window/pagereveal_event,null
 web/api/window/pageshow_event,null
 web/api/window/pageswap_event,null
@@ -14039,7 +14039,7 @@ web/svg/tutorials/svg_from_scratch/svg_and_css,null
 web/svg/tutorials/svg_from_scratch/texts,null
 web/svg/tutorials/svg_from_scratch/tools_for_svg,null
 web/svg/tutorials/svg_from_scratch/using_fonts,null
-web/uri,5
+web/uri,0
 web/uri/guides,1
 web/uri/guides/choosing_between_www_and_non-www_urls,null
 web/uri/reference,1

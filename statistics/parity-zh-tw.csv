@@ -4982,7 +4982,7 @@ web/api/htmlformelement/requestsubmit,null
 web/api/htmlformelement/reset,null
 web/api/htmlformelement/reset_event,null
 web/api/htmlformelement/submit,null
-web/api/htmlformelement/submit_event,0
+web/api/htmlformelement/submit_event,1
 web/api/htmlformelement/target,null
 web/api/htmlframesetelement,null
 web/api/htmlgeolocationelement,null
@@ -10418,7 +10418,7 @@ web/css/guides/grid_layout/relationship_with_other_layout_methods,null
 web/css/guides/grid_layout/subgrid,null
 web/css/guides/images,null
 web/css/guides/images/implementing_image_sprites,null
-web/css/guides/images/replaced_element_properties,1
+web/css/guides/images/replaced_element_properties,2
 web/css/guides/images/using_gradients,null
 web/css/guides/images/using_object-view-box,null
 web/css/guides/inline_layout,2
