@@ -359,7 +359,7 @@ glossary/isp,2
 glossary/itu,1
 glossary/jank,2
 glossary/java,1
-glossary/javascript,8
+glossary/javascript,9
 glossary/jitter,null
 glossary/jpeg,2
 glossary/json,2
@@ -2712,8 +2712,8 @@ web/api/broadcast_channel_api,5
 web/api/broadcastchannel,2
 web/api/broadcastchannel/broadcastchannel,2
 web/api/broadcastchannel/close,3
-web/api/broadcastchannel/message_event,3
-web/api/broadcastchannel/messageerror_event,4
+web/api/broadcastchannel/message_event,4
+web/api/broadcastchannel/messageerror_event,5
 web/api/broadcastchannel/name,2
 web/api/broadcastchannel/postmessage,3
 web/api/browsercapturemediastreamtrack,null
@@ -3890,7 +3890,7 @@ web/api/element/childelementcount,null
 web/api/element/children,0
 web/api/element/classlist,null
 web/api/element/classname,null
-web/api/element/click_event,16
+web/api/element/click_event,17
 web/api/element/clientheight,null
 web/api/element/clientleft,null
 web/api/element/clienttop,null
@@ -3949,7 +3949,7 @@ web/api/element/lastelementchild,null
 web/api/element/localname,null
 web/api/element/lostpointercapture_event,null
 web/api/element/matches,null
-web/api/element/mousedown_event,7
+web/api/element/mousedown_event,8
 web/api/element/mouseenter_event,null
 web/api/element/mouseleave_event,null
 web/api/element/mousemove_event,null
@@ -4146,7 +4146,7 @@ web/api/eventsource,null
 web/api/eventsource/close,0
 web/api/eventsource/error_event,0
 web/api/eventsource/eventsource,null
-web/api/eventsource/message_event,0
+web/api/eventsource/message_event,1
 web/api/eventsource/open_event,0
 web/api/eventsource/readystate,null
 web/api/eventsource/url,0
@@ -9724,7 +9724,7 @@ web/api/window/beforeinstallprompt_event,null
 web/api/window/beforeprint_event,null
 web/api/window/beforeunload_event,16
 web/api/window/blur,null
-web/api/window/blur_event,3
+web/api/window/blur_event,4
 web/api/window/btoa,6
 web/api/window/caches,1
 web/api/window/cancelanimationframe,null
@@ -9758,7 +9758,7 @@ web/api/window/fetch,12
 web/api/window/fetchlater,null
 web/api/window/find,null
 web/api/window/focus,null
-web/api/window/focus_event,3
+web/api/window/focus_event,4
 web/api/window/frameelement,null
 web/api/window/frames,null
 web/api/window/fullscreen,null
@@ -9783,7 +9783,7 @@ web/api/window/location,5
 web/api/window/locationbar,null
 web/api/window/matchmedia,null
 web/api/window/menubar,null
-web/api/window/message_event,3
+web/api/window/message_event,4
 web/api/window/messageerror_event,null
 web/api/window/moveby,null
 web/api/window/moveto,null

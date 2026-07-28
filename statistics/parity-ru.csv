@@ -3955,7 +3955,7 @@ web/api/element/mouseleave_event,null
 web/api/element/mousemove_event,null
 web/api/element/mouseout_event,null
 web/api/element/mouseover_event,null
-web/api/element/mouseup_event,9
+web/api/element/mouseup_event,10
 web/api/element/mousewheel_event,null
 web/api/element/movebefore,null
 web/api/element/mozmousepixelscroll_event,null
@@ -7749,7 +7749,7 @@ web/api/selection_api,null
 web/api/sensor,2
 web/api/sensor/activate_event,3
 web/api/sensor/activated,2
-web/api/sensor/error_event,2
+web/api/sensor/error_event,3
 web/api/sensor/hasreading,2
 web/api/sensor/reading_event,3
 web/api/sensor/start,2
@@ -9768,7 +9768,7 @@ web/api/window/getcomputedstyle,null
 web/api/window/getdefaultcomputedstyle,null
 web/api/window/getscreendetails,null
 web/api/window/getselection,null
-web/api/window/hashchange_event,3
+web/api/window/hashchange_event,4
 web/api/window/history,null
 web/api/window/indexeddb,null
 web/api/window/innerheight,null
@@ -9802,9 +9802,9 @@ web/api/window/origin,2
 web/api/window/originagentcluster,null
 web/api/window/outerheight,null
 web/api/window/outerwidth,null
-web/api/window/pagehide_event,14
+web/api/window/pagehide_event,15
 web/api/window/pagereveal_event,null
-web/api/window/pageshow_event,13
+web/api/window/pageshow_event,14
 web/api/window/pageswap_event,null
 web/api/window/parent,null
 web/api/window/performance,null

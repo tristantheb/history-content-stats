@@ -3819,7 +3819,7 @@ web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
 web/api/element/animate,null
 web/api/element/animationcancel_event,null
-web/api/element/animationend_event,6
+web/api/element/animationend_event,7
 web/api/element/animationiteration_event,null
 web/api/element/animationstart_event,null
 web/api/element/append,2
@@ -3890,7 +3890,7 @@ web/api/element/childelementcount,null
 web/api/element/children,null
 web/api/element/classlist,null
 web/api/element/classname,null
-web/api/element/click_event,14
+web/api/element/click_event,15
 web/api/element/clientheight,null
 web/api/element/clientleft,null
 web/api/element/clienttop,null
@@ -3942,9 +3942,9 @@ web/api/element/input_event,null
 web/api/element/insertadjacentelement,null
 web/api/element/insertadjacenthtml,null
 web/api/element/insertadjacenttext,null
-web/api/element/keydown_event,20
+web/api/element/keydown_event,21
 web/api/element/keypress_event,null
-web/api/element/keyup_event,15
+web/api/element/keyup_event,16
 web/api/element/lastelementchild,null
 web/api/element/localname,null
 web/api/element/lostpointercapture_event,null
