@@ -2312,7 +2312,7 @@ web/api/datatransfer/setdragimage,8285d415db211ae9efe04752d9dab1b574450ee8
 web/api/datatransfer/types,f336c5b6795a562c64fe859aa9ee2becf223ad8a
 web/api/datatransferitem/getasfile,754b68246f4e69e404309fee4a1699e047e43994
 web/api/datatransferitem/getasfilesystemhandle,2b6bddfe281c0179fbde9c870f9de7c0dc3829e8
-web/api/datatransferitem/getasstring,no_hash_commit
+web/api/datatransferitem/getasstring,b5437b737639d6952d18b95ebd1045ed73e4bfa7
 web/api/datatransferitem,59d87e8756161420f3f40dc554562858f4427e72
 web/api/datatransferitem/kind,8285d415db211ae9efe04752d9dab1b574450ee8
 web/api/datatransferitem/type,f75b2c86ae4168e59416aed4c7121f222afc201d
@@ -4144,7 +4144,7 @@ web/api/rtcpeerconnection/addstream_event,no_hash_commit
 web/api/rtcpeerconnection/addtrack,9f18116c362265a3dfb65185728548ec43cd12f4
 web/api/rtcpeerconnection/cantrickleicecandidates,no_hash_commit
 web/api/rtcpeerconnection/connectionstate,no_hash_commit
-web/api/rtcpeerconnection/createdatachannel,no_hash_commit
+web/api/rtcpeerconnection/createdatachannel,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/rtcpeerconnection/createoffer,7336c394a1406850b293f743c7dcb3f2ee661952
 web/api/rtcpeerconnection/currentlocaldescription,no_hash_commit
 web/api/rtcpeerconnection/datachannel_event,no_hash_commit
@@ -7495,7 +7495,7 @@ web/svg/tutorials/svg_from_scratch/tools_for_svg,no_hash_commit
 web/svg/tutorials/svg_from_scratch/using_fonts,no_hash_commit
 web/uri/guides/choosing_between_www_and_non-www_urls,no_hash_commit
 web/uri/guides,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd
-web/uri,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd
+web/uri,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26
 web/uri/reference/authority,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/uri/reference/fragment/text_fragments,no_hash_commit
 web/uri/reference,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd
