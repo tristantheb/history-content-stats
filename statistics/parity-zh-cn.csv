@@ -117,7 +117,7 @@ glossary/block/scripting,1
 glossary/block_cipher_mode_of_operation,1
 glossary/boolean,2
 glossary/boolean/aria,2
-glossary/boolean/html,5
+glossary/boolean/html,6
 glossary/boolean/javascript,2
 glossary/bounding_box,3
 glossary/breadcrumb,3
@@ -162,7 +162,7 @@ glossary/code_unit,null
 glossary/codec,2
 glossary/color_space,8
 glossary/color_wheel,4
-glossary/compile,2
+glossary/compile,3
 glossary/compile_time,1
 glossary/composite_operation,5
 glossary/compression_dictionary_transport,1
@@ -390,7 +390,7 @@ glossary/lossy_compression,4
 glossary/ltr,5
 glossary/main_axis,5
 glossary/main_thread,3
-glossary/markup,2
+glossary/markup,3
 glossary/mathml,2
 glossary/media,1
 glossary/media/audio-visual_presentation,2
@@ -680,7 +680,7 @@ glossary/windowproxy,2
 glossary/world_wide_web,2
 glossary/wrapper,1
 glossary/xforms,3
-glossary/xhtml,3
+glossary/xhtml,4
 glossary/xinclude,2
 glossary/xlink,3
 glossary/xml,2
@@ -1932,7 +1932,7 @@ mozilla/firefox/releases/115,null
 mozilla/firefox/releases/116,null
 mozilla/firefox/releases/117,null
 mozilla/firefox/releases/118,null
-mozilla/firefox/releases/119,15
+mozilla/firefox/releases/119,16
 mozilla/firefox/releases/12,null
 mozilla/firefox/releases/120,15
 mozilla/firefox/releases/121,13
@@ -2366,7 +2366,7 @@ web/api/animationplaybackevent/timelinetime,0
 web/api/animationtimeline,null
 web/api/animationtimeline/currenttime,null
 web/api/animationtimeline/duration,null
-web/api/attr,0
+web/api/attr,1
 web/api/attr/localname,null
 web/api/attr/name,null
 web/api/attr/namespaceuri,null
@@ -11329,7 +11329,7 @@ web/css/reference/selectors/_doublecolon_column,null
 web/css/reference/selectors/_doublecolon_cue,null
 web/css/reference/selectors/_doublecolon_details-content,null
 web/css/reference/selectors/_doublecolon_file-selector-button,null
-web/css/reference/selectors/_doublecolon_first-letter,3
+web/css/reference/selectors/_doublecolon_first-letter,4
 web/css/reference/selectors/_doublecolon_first-line,null
 web/css/reference/selectors/_doublecolon_grammar-error,null
 web/css/reference/selectors/_doublecolon_highlight,4
@@ -11853,12 +11853,12 @@ web/http/guides/messages,null
 web/http/guides/mime_types,null
 web/http/guides/mime_types/common_types,null
 web/http/guides/network_error_logging,null
-web/http/guides/overview,5
+web/http/guides/overview,6
 web/http/guides/permissions_policy,null
 web/http/guides/protocol_upgrade_mechanism,null
 web/http/guides/proxy_servers_and_tunneling,4
 web/http/guides/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file,2
-web/http/guides/range_requests,3
+web/http/guides/range_requests,4
 web/http/guides/redirections,5
 web/http/guides/session,null
 web/http/guides/user-agent_reduction,null
@@ -11892,7 +11892,7 @@ web/http/reference/headers/available-dictionary,null
 web/http/reference/headers/cache-control,null
 web/http/reference/headers/clear-site-data,null
 web/http/reference/headers/connection,null
-web/http/reference/headers/content-digest,5
+web/http/reference/headers/content-digest,6
 web/http/reference/headers/content-disposition,null
 web/http/reference/headers/content-dpr,5
 web/http/reference/headers/content-encoding,6
@@ -12377,7 +12377,7 @@ web/javascript/reference/global_objects,null
 web/javascript/reference/global_objects/aggregateerror,null
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,null
 web/javascript/reference/global_objects/aggregateerror/errors,0
-web/javascript/reference/global_objects/array,12
+web/javascript/reference/global_objects/array,13
 web/javascript/reference/global_objects/array/array,null
 web/javascript/reference/global_objects/array/at,null
 web/javascript/reference/global_objects/array/concat,6
@@ -12723,7 +12723,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,null
 web/javascript/reference/global_objects/isfinite,null
 web/javascript/reference/global_objects/isnan,6
-web/javascript/reference/global_objects/iterator,19
+web/javascript/reference/global_objects/iterator,20
 web/javascript/reference/global_objects/iterator/concat,null
 web/javascript/reference/global_objects/iterator/drop,5
 web/javascript/reference/global_objects/iterator/every,7
@@ -12734,6 +12734,7 @@ web/javascript/reference/global_objects/iterator/foreach,5
 web/javascript/reference/global_objects/iterator/from,7
 web/javascript/reference/global_objects/iterator/includes,null
 web/javascript/reference/global_objects/iterator/iterator,10
+web/javascript/reference/global_objects/iterator/join,null
 web/javascript/reference/global_objects/iterator/map,6
 web/javascript/reference/global_objects/iterator/reduce,4
 web/javascript/reference/global_objects/iterator/some,8
@@ -13980,7 +13981,7 @@ web/svg/reference/element/fefunca,1
 web/svg/reference/element/fefuncb,1
 web/svg/reference/element/fefuncg,1
 web/svg/reference/element/fefuncr,1
-web/svg/reference/element/fegaussianblur,2
+web/svg/reference/element/fegaussianblur,3
 web/svg/reference/element/feimage,6
 web/svg/reference/element/femerge,0
 web/svg/reference/element/femergenode,null
@@ -14160,7 +14161,7 @@ web/xml/exslt/reference/str/concat,null
 web/xml/exslt/reference/str/split,null
 web/xml/exslt/reference/str/tokenize,null
 web/xml/guides,null
-web/xml/guides/opensearch,4
+web/xml/guides/opensearch,5
 web/xml/guides/parsing_and_serializing_xml,null
 web/xml/guides/xml_introduction,0
 web/xml/xpath,null
@@ -14250,7 +14251,7 @@ web/xml/xslt/reference/element/value-of,null
 web/xml/xslt/reference/element/variable,null
 web/xml/xslt/reference/element/when,null
 web/xml/xslt/reference/element/with-param,null
-webassembly,6
+webassembly,7
 webassembly/guides,1
 webassembly/guides/c_to_wasm,null
 webassembly/guides/concepts,null

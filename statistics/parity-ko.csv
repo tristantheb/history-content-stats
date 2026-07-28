@@ -117,7 +117,7 @@ glossary/block/scripting,2
 glossary/block_cipher_mode_of_operation,2
 glossary/boolean,2
 glossary/boolean/aria,4
-glossary/boolean/html,10
+glossary/boolean/html,11
 glossary/boolean/javascript,2
 glossary/bounding_box,4
 glossary/breadcrumb,4
@@ -162,7 +162,7 @@ glossary/code_unit,2
 glossary/codec,2
 glossary/color_space,null
 glossary/color_wheel,9
-glossary/compile,3
+glossary/compile,4
 glossary/compile_time,2
 glossary/composite_operation,6
 glossary/compression_dictionary_transport,null
@@ -390,7 +390,7 @@ glossary/lossy_compression,5
 glossary/ltr,5
 glossary/main_axis,5
 glossary/main_thread,3
-glossary/markup,2
+glossary/markup,3
 glossary/mathml,2
 glossary/media,1
 glossary/media/audio-visual_presentation,2
@@ -680,7 +680,7 @@ glossary/windowproxy,2
 glossary/world_wide_web,2
 glossary/wrapper,2
 glossary/xforms,3
-glossary/xhtml,3
+glossary/xhtml,4
 glossary/xinclude,2
 glossary/xlink,3
 glossary/xml,2
@@ -11329,7 +11329,7 @@ web/css/reference/selectors/_doublecolon_column,null
 web/css/reference/selectors/_doublecolon_cue,null
 web/css/reference/selectors/_doublecolon_details-content,null
 web/css/reference/selectors/_doublecolon_file-selector-button,null
-web/css/reference/selectors/_doublecolon_first-letter,3
+web/css/reference/selectors/_doublecolon_first-letter,4
 web/css/reference/selectors/_doublecolon_first-line,null
 web/css/reference/selectors/_doublecolon_grammar-error,2
 web/css/reference/selectors/_doublecolon_highlight,4
@@ -11812,7 +11812,7 @@ web/html/reference/global_attributes/title,null
 web/html/reference/global_attributes/translate,null
 web/html/reference/global_attributes/virtualkeyboardpolicy,null
 web/html/reference/global_attributes/writingsuggestions,null
-web/http,13
+web/http,14
 web/http/guides,0
 web/http/guides/authentication,4
 web/http/guides/browser_detection_using_the_user_agent,11
@@ -11849,7 +11849,7 @@ web/http/guides/csp/errors/cspviolation,null
 web/http/guides/evolution_of_http,7
 web/http/guides/fetch_metadata,null
 web/http/guides/iframe_credentialless,2
-web/http/guides/messages,5
+web/http/guides/messages,6
 web/http/guides/mime_types,9
 web/http/guides/mime_types/common_types,7
 web/http/guides/network_error_logging,null
@@ -12075,7 +12075,7 @@ web/http/reference/headers/sec-websocket-key,null
 web/http/reference/headers/sec-websocket-protocol,null
 web/http/reference/headers/sec-websocket-version,null
 web/http/reference/headers/server,null
-web/http/reference/headers/server-timing,4
+web/http/reference/headers/server-timing,5
 web/http/reference/headers/service-worker,null
 web/http/reference/headers/service-worker-allowed,null
 web/http/reference/headers/service-worker-navigation-preload,null
@@ -12377,7 +12377,7 @@ web/javascript/reference/global_objects,null
 web/javascript/reference/global_objects/aggregateerror,4
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,6
 web/javascript/reference/global_objects/aggregateerror/errors,3
-web/javascript/reference/global_objects/array,17
+web/javascript/reference/global_objects/array,18
 web/javascript/reference/global_objects/array/array,7
 web/javascript/reference/global_objects/array/at,7
 web/javascript/reference/global_objects/array/concat,10
@@ -12398,7 +12398,7 @@ web/javascript/reference/global_objects/array/fromasync,5
 web/javascript/reference/global_objects/array/includes,9
 web/javascript/reference/global_objects/array/indexof,6
 web/javascript/reference/global_objects/array/isarray,7
-web/javascript/reference/global_objects/array/join,6
+web/javascript/reference/global_objects/array/join,7
 web/javascript/reference/global_objects/array/keys,6
 web/javascript/reference/global_objects/array/lastindexof,7
 web/javascript/reference/global_objects/array/length,6
@@ -12734,6 +12734,7 @@ web/javascript/reference/global_objects/iterator/foreach,null
 web/javascript/reference/global_objects/iterator/from,null
 web/javascript/reference/global_objects/iterator/includes,null
 web/javascript/reference/global_objects/iterator/iterator,null
+web/javascript/reference/global_objects/iterator/join,null
 web/javascript/reference/global_objects/iterator/map,null
 web/javascript/reference/global_objects/iterator/reduce,null
 web/javascript/reference/global_objects/iterator/some,5
@@ -13324,7 +13325,7 @@ web/javascript/reference/global_objects/typedarray/foreach,10
 web/javascript/reference/global_objects/typedarray/from,3
 web/javascript/reference/global_objects/typedarray/includes,null
 web/javascript/reference/global_objects/typedarray/indexof,null
-web/javascript/reference/global_objects/typedarray/join,8
+web/javascript/reference/global_objects/typedarray/join,9
 web/javascript/reference/global_objects/typedarray/keys,13
 web/javascript/reference/global_objects/typedarray/lastindexof,null
 web/javascript/reference/global_objects/typedarray/length,5
@@ -14250,7 +14251,7 @@ web/xml/xslt/reference/element/value-of,null
 web/xml/xslt/reference/element/variable,null
 web/xml/xslt/reference/element/when,null
 web/xml/xslt/reference/element/with-param,null
-webassembly,13
+webassembly,14
 webassembly/guides,null
 webassembly/guides/c_to_wasm,8
 webassembly/guides/concepts,null

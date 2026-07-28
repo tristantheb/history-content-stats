@@ -162,7 +162,7 @@ glossary/code_unit,null
 glossary/codec,null
 glossary/color_space,null
 glossary/color_wheel,null
-glossary/compile,7
+glossary/compile,8
 glossary/compile_time,null
 glossary/composite_operation,null
 glossary/compression_dictionary_transport,null
@@ -903,7 +903,7 @@ learn_web_development/extensions/forms/basic_native_form_controls,null
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
 learn_web_development/extensions/forms/form_validation,null
-learn_web_development/extensions/forms/how_to_build_custom_form_controls,null
+learn_web_development/extensions/forms/how_to_build_custom_form_controls,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_3,null
@@ -1010,7 +1010,7 @@ learn_web_development/getting_started/web_standards/the_web_standards_model,null
 learn_web_development/getting_started/your_first_website,null
 learn_web_development/getting_started/your_first_website/adding_interactivity,null
 learn_web_development/getting_started/your_first_website/creating_the_content,null
-learn_web_development/getting_started/your_first_website/publishing_your_website,9
+learn_web_development/getting_started/your_first_website/publishing_your_website,0
 learn_web_development/getting_started/your_first_website/styling_the_content,null
 learn_web_development/getting_started/your_first_website/what_will_your_website_look_like,null
 learn_web_development/howto,0
@@ -1105,14 +1105,14 @@ mdn/writing_guidelines/page_structures/live_samples,0
 mdn/writing_guidelines/page_structures/macros,0
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,0
 mdn/writing_guidelines/page_structures/macros/other,0
-mdn/writing_guidelines/page_structures/page_types,0
+mdn/writing_guidelines/page_structures/page_types,1
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,null
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,null
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,null
 mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,0
-mdn/writing_guidelines/page_structures/page_types/aria_page_template,9
+mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_property_page_template,0
@@ -12734,6 +12734,7 @@ web/javascript/reference/global_objects/iterator/foreach,null
 web/javascript/reference/global_objects/iterator/from,null
 web/javascript/reference/global_objects/iterator/includes,null
 web/javascript/reference/global_objects/iterator/iterator,null
+web/javascript/reference/global_objects/iterator/join,null
 web/javascript/reference/global_objects/iterator/map,null
 web/javascript/reference/global_objects/iterator/reduce,null
 web/javascript/reference/global_objects/iterator/some,null

@@ -9778,7 +9778,7 @@ web/api/window/languagechange_event,null
 web/api/window/launchqueue,null
 web/api/window/length,null
 web/api/window/load_event,null
-web/api/window/localstorage,1
+web/api/window/localstorage,2
 web/api/window/location,null
 web/api/window/locationbar,null
 web/api/window/matchmedia,null
@@ -11329,7 +11329,7 @@ web/css/reference/selectors/_doublecolon_column,null
 web/css/reference/selectors/_doublecolon_cue,null
 web/css/reference/selectors/_doublecolon_details-content,null
 web/css/reference/selectors/_doublecolon_file-selector-button,null
-web/css/reference/selectors/_doublecolon_first-letter,3
+web/css/reference/selectors/_doublecolon_first-letter,4
 web/css/reference/selectors/_doublecolon_first-line,null
 web/css/reference/selectors/_doublecolon_grammar-error,null
 web/css/reference/selectors/_doublecolon_highlight,null
@@ -12734,6 +12734,7 @@ web/javascript/reference/global_objects/iterator/foreach,null
 web/javascript/reference/global_objects/iterator/from,null
 web/javascript/reference/global_objects/iterator/includes,null
 web/javascript/reference/global_objects/iterator/iterator,null
+web/javascript/reference/global_objects/iterator/join,null
 web/javascript/reference/global_objects/iterator/map,null
 web/javascript/reference/global_objects/iterator/reduce,null
 web/javascript/reference/global_objects/iterator/some,null
@@ -14160,7 +14161,7 @@ web/xml/exslt/reference/str/concat,null
 web/xml/exslt/reference/str/split,null
 web/xml/exslt/reference/str/tokenize,null
 web/xml/guides,null
-web/xml/guides/opensearch,3
+web/xml/guides/opensearch,4
 web/xml/guides/parsing_and_serializing_xml,null
 web/xml/guides/xml_introduction,null
 web/xml/xpath,null
