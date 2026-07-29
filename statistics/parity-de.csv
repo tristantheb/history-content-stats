@@ -9778,7 +9778,7 @@ web/api/window/languagechange_event,0
 web/api/window/launchqueue,0
 web/api/window/length,0
 web/api/window/load_event,0
-web/api/window/localstorage,1
+web/api/window/localstorage,0
 web/api/window/location,0
 web/api/window/locationbar,0
 web/api/window/matchmedia,0
@@ -14100,7 +14100,7 @@ web/webdriver/reference/bidi/modules/session/unsubscribe,0
 web/webdriver/reference/bidi/modules/storage,0
 web/webdriver/reference/bidi/modules/useragentclienthints,0
 web/webdriver/reference/bidi/modules/webextension,0
-web/webdriver/reference/capabilities,1
+web/webdriver/reference/capabilities,0
 web/webdriver/reference/capabilities/acceptinsecurecerts,0
 web/webdriver/reference/capabilities/firefoxoptions,0
 web/webdriver/reference/capabilities/websocketurl,0
@@ -14127,7 +14127,7 @@ web/webdriver/reference/errors/insecurecertificate,0
 web/webdriver/reference/errors/invalidargument,0
 web/webdriver/reference/errors/invalidcookiedomain,0
 web/webdriver/reference/errors/invalidselector,0
-web/webdriver/reference/errors/invalidsessionid,1
+web/webdriver/reference/errors/invalidsessionid,0
 web/webdriver/reference/errors/javascripterror,0
 web/webdriver/reference/errors/scripttimeout,0
 web/webdriver/reference/errors/staleelementreference,0
