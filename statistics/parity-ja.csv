@@ -1008,10 +1008,10 @@ learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
 learn_web_development/getting_started/web_standards/how_the_web_works,1
 learn_web_development/getting_started/web_standards/the_web_standards_model,0
 learn_web_development/getting_started/your_first_website,0
-learn_web_development/getting_started/your_first_website/adding_interactivity,14
+learn_web_development/getting_started/your_first_website/adding_interactivity,0
 learn_web_development/getting_started/your_first_website/creating_the_content,14
-learn_web_development/getting_started/your_first_website/publishing_your_website,10
-learn_web_development/getting_started/your_first_website/styling_the_content,14
+learn_web_development/getting_started/your_first_website/publishing_your_website,0
+learn_web_development/getting_started/your_first_website/styling_the_content,0
 learn_web_development/getting_started/your_first_website/what_will_your_website_look_like,0
 learn_web_development/howto,3
 learn_web_development/howto/design_and_accessibility,0
@@ -1094,7 +1094,7 @@ mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,3
 mdn/writing_guidelines/howto/write_an_api_reference,13
 mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,1
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,5
-mdn/writing_guidelines/learning_content,5
+mdn/writing_guidelines/learning_content,0
 mdn/writing_guidelines/page_structures,0
 mdn/writing_guidelines/page_structures/banners_and_notices,6
 mdn/writing_guidelines/page_structures/code_examples,1
@@ -1970,7 +1970,7 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,2
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,null
+mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,null
 mozilla/firefox/releases/155,null
 mozilla/firefox/releases/16,0
