@@ -2595,7 +2595,7 @@ web/api/baseaudiocontext/createbuffer,0
 web/api/baseaudiocontext/createbuffersource,null
 web/api/baseaudiocontext/createchannelmerger,null
 web/api/baseaudiocontext/createchannelsplitter,null
-web/api/baseaudiocontext/createconstantsource,null
+web/api/baseaudiocontext/createconstantsource,0
 web/api/baseaudiocontext/createconvolver,null
 web/api/baseaudiocontext/createdelay,null
 web/api/baseaudiocontext/createdynamicscompressor,null
@@ -9812,7 +9812,7 @@ web/api/window/personalbar,0
 web/api/window/popstate_event,null
 web/api/window/postmessage,null
 web/api/window/print,null
-web/api/window/prompt,null
+web/api/window/prompt,0
 web/api/window/querylocalfonts,1
 web/api/window/queuemicrotask,1
 web/api/window/rejectionhandled_event,null
@@ -13503,7 +13503,7 @@ web/javascript/reference/statements/function,4
 web/javascript/reference/statements/function_star_,13
 web/javascript/reference/statements/if...else,4
 web/javascript/reference/statements/import,12
-web/javascript/reference/statements/import/with,null
+web/javascript/reference/statements/import/with,0
 web/javascript/reference/statements/label,5
 web/javascript/reference/statements/let,7
 web/javascript/reference/statements/return,4
