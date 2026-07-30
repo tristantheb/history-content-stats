@@ -11072,6 +11072,7 @@ web/css/reference/properties/row-rule-width,null
 web/css/reference/properties/ruby-align,1
 web/css/reference/properties/ruby-overhang,1
 web/css/reference/properties/ruby-position,2
+web/css/reference/properties/rule,null
 web/css/reference/properties/rule-visibility-items,null
 web/css/reference/properties/rx,0
 web/css/reference/properties/ry,0
@@ -13743,15 +13744,15 @@ web/security/threat_modeling/pwa_threat_model,null
 web/svg,0
 web/svg/guides,0
 web/svg/guides/applying_svg_effects_to_html_content,0
-web/svg/guides/content_type,0
+web/svg/guides/content_type,1
 web/svg/guides/linking,0
 web/svg/guides/namespaces_crash_course,0
 web/svg/guides/namespaces_crash_course/example,0
 web/svg/guides/scripting,0
-web/svg/guides/svg_animation_with_smil,1
+web/svg/guides/svg_animation_with_smil,2
 web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,1
-web/svg/guides/svg_in_html,0
+web/svg/guides/svg_in_html,1
 web/svg/reference,0
 web/svg/reference/attribute,4
 web/svg/reference/attribute/accumulate,null
