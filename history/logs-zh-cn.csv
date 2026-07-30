@@ -1744,7 +1744,7 @@ web/api/audiocontext/createmediaelementsource,no_hash_commit
 web/api/audiocontext/createmediastreamsource,no_hash_commit
 web/api/audiocontext,no_hash_commit
 web/api/audiocontext/resume,no_hash_commit
-web/api/audiocontext/suspend,no_hash_commit
+web/api/audiocontext/suspend,f3c4fc42e8817d0b8f703cf83957c33cd5342019
 web/api/audiodata/duration,06b418a190b8e4a46682ab706d14984e7db34862
 web/api/audiodata/numberofchannels,06b418a190b8e4a46682ab706d14984e7db34862
 web/api/audiodata/numberofframes,06b418a190b8e4a46682ab706d14984e7db34862
