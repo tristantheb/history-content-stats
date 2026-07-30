@@ -11072,6 +11072,7 @@ web/css/reference/properties/row-rule-width,a9dc3374034d357cbfea717fd5d641605359
 web/css/reference/properties/ruby-align,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/ruby-overhang,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/rule,f4d39e4f5a6f426bff5f91cccb5b6fadff094e27,CSS|Properties
 web/css/reference/properties/rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/rx,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ry,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -13743,15 +13744,15 @@ web/security/threat_modeling/pwa_threat_model,f0cf64861b7e582007f7df3cdf2ed876d9
 web/svg,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,SVG
 web/svg/guides,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,SVG|Guides
 web/svg/guides/applying_svg_effects_to_html_content,3ee333bf5e414ac81c452ec10fed7af645c96740,SVG|Guides
-web/svg/guides/content_type,f69b6693212029ce4b9fa0c753729044577af548,SVG|Guides
+web/svg/guides/content_type,69ff5fe627a17cf397ebd7b0f88a83c272c0bce5,SVG|Guides
 web/svg/guides/linking,874ad29df9150037acb8a4a3e7550a302c90a080,SVG|Guides
 web/svg/guides/namespaces_crash_course,0c81cbce5f95a0be935724bcd936f5592774eb3a,SVG|Guides
 web/svg/guides/namespaces_crash_course/example,f2d281d86396bcd2dcecfdabd5837b1590132aa6,SVG|Guides
 web/svg/guides/scripting,0c81cbce5f95a0be935724bcd936f5592774eb3a,SVG|Guides
-web/svg/guides/svg_animation_with_smil,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Guides
+web/svg/guides/svg_animation_with_smil,69ff5fe627a17cf397ebd7b0f88a83c272c0bce5,SVG|Guides
 web/svg/guides/svg_as_an_image,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,SVG|Guides
 web/svg/guides/svg_filters,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Guides
-web/svg/guides/svg_in_html,a1765c2cad20118be0dad322d3548908787b5791,SVG|Guides
+web/svg/guides/svg_in_html,69ff5fe627a17cf397ebd7b0f88a83c272c0bce5,SVG|Guides
 web/svg/reference,c2fd97474834e061404b992c8397d4ccc4439a71,SVG
 web/svg/reference/attribute,28f2781de2dbb8e81be94c87ff81fd0442cb4736,SVG|Attribute
 web/svg/reference/attribute/accumulate,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
