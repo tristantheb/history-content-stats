@@ -2413,7 +2413,7 @@ web/api/audiocontext/resume,null
 web/api/audiocontext/setsinkid,null
 web/api/audiocontext/sinkchange_event,null
 web/api/audiocontext/sinkid,null
-web/api/audiocontext/suspend,null
+web/api/audiocontext/suspend,0
 web/api/audiodata,null
 web/api/audiodata/allocationsize,null
 web/api/audiodata/audiodata,null

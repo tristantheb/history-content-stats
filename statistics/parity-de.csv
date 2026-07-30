@@ -10401,7 +10401,7 @@ web/css/guides/fonts/opentype_fonts,0
 web/css/guides/fonts/variable_fonts,0
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
-web/css/guides/gaps,0
+web/css/guides/gaps,1
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,0
 web/css/guides/grid_layout/accessibility,0

@@ -10401,7 +10401,7 @@ web/css/guides/fonts/opentype_fonts,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS
 web/css/guides/fonts/variable_fonts,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5,CSS|Guides
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/gaps,34838ae7d32e78bfe01dbf2c266257ef0f8305c4,CSS|Guides
+web/css/guides/gaps,b5c3edee358451f960799810aaed0749e5f1b2be,CSS|Guides
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/grid_layout,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Guides
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
