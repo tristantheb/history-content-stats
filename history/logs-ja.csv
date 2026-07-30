@@ -4244,6 +4244,7 @@ web/api/largestcontentfulpaint,c46f0b3d68f5b4ed87a571bbdbce75244c5fe333
 web/api/largestcontentfulpaint/loadtime,92eab76b7686dadbce22affd372889bc2154f4ef
 web/api/largestcontentfulpaint/painttime,c46f0b3d68f5b4ed87a571bbdbce75244c5fe333
 web/api/largestcontentfulpaint/presentationtime,1ddd95504b4507beeda0f08bd772eb167922b86a
+web/api/largestcontentfulpaint/rendertime,2e427c5c185433c5a6612c63bf877753a5fedc99
 web/api/largestcontentfulpaint/size,92eab76b7686dadbce22affd372889bc2154f4ef
 web/api/largestcontentfulpaint/tojson,92eab76b7686dadbce22affd372889bc2154f4ef
 web/api/largestcontentfulpaint/url,92eab76b7686dadbce22affd372889bc2154f4ef
@@ -5226,6 +5227,8 @@ web/api/selection/getcomposedranges,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/selection/getrangeat,7a9bb2446815454a7f905e17e6f4d652c891316a
 web/api/selection,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
 web/api/selection/iscollapsed,1a91b0b63f0cbaca9125bd48d4e5bc8afed2a7a3
+web/api/selection/modify,b25d8774aa7bcc6a053e26cf804ad454f51e134b
+web/api/selection/rangecount,0b5859108411e47d228a4bb9f30a5556ab17f63c
 web/api/selection/removeallranges,4f35a8237ee0842beb9cfef3354e05464ad7ce1a
 web/api/selection/removerange,29601e9dc567c497143866aa9c2eca9358e9f449
 web/api/selection/selectallchildren,f2f9346c0c0e9f6676f2df9f1850933e274401de
@@ -6830,6 +6833,7 @@ web/css/guides/fonts/opentype_fonts,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/fonts/variable_fonts,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/guides/gaps,34838ae7d32e78bfe01dbf2c266257ef0f8305c4
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/grid_layout/auto-placement,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7223,10 +7227,11 @@ web/css/reference/properties/column-count,bcbb4bd6a80292c0663b723d5466759cfaaa83
 web/css/reference/properties/column-fill,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/column-gap,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/column-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/column-rule-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/column-rule-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/column-rule-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/column-rule,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/column-rule-color,5cf8432d980cbe9b7e5611d647d8566b5c4ff3ed
+web/css/reference/properties/column-rule-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83
+web/css/reference/properties/column-rule-visibility-items,7f138099644a02640a903b2abc39e685ca8ca7cd
+web/css/reference/properties/column-rule-width,e9c03ba87f9ff4123150d8f7dc457bd546bdab83
+web/css/reference/properties/column-rule,5cf8432d980cbe9b7e5611d647d8566b5c4ff3ed
 web/css/reference/properties/column-span,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/column-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/column-wrap,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -7478,6 +7483,11 @@ web/css/reference/properties/resize,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/right,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/rotate,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/row-gap,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/row-rule-color,9cf3002bd29376c15d49df6fab2e6a264285abf6
+web/css/reference/properties/row-rule-style,a9dc3374034d357cbfea717fd5d641605359e3c7
+web/css/reference/properties/row-rule-visibility-items,afcdfa050626bb7eb05ee693df8997020db9ff2e
+web/css/reference/properties/row-rule-width,a9dc3374034d357cbfea717fd5d641605359e3c7
+web/css/reference/properties/row-rule,a9dc3374034d357cbfea717fd5d641605359e3c7
 web/css/reference/properties/ruby-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/ruby-overhang,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/ruby-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -7861,6 +7871,7 @@ web/css/reference/values/integer,f69b6693212029ce4b9fa0c753729044577af548
 web/css/reference/values/length-percentage,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/length,81e6735431b50ded681b760b702e68b80000b58c
 web/css/reference/values/line-style,c88e03530319b73272fd4f9a9f6ebe878f026004
+web/css/reference/values/line-width,a9dc3374034d357cbfea717fd5d641605359e3c7
 web/css/reference/values/log,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/max-content,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/values/max,33094d735e90b4dcae5733331b79c51fee997410
