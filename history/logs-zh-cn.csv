@@ -1815,7 +1815,7 @@ web/api/baseaudiocontext/createbuffer,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
 web/api/baseaudiocontext/createbuffersource,no_hash_commit
 web/api/baseaudiocontext/createchannelmerger,no_hash_commit
 web/api/baseaudiocontext/createchannelsplitter,no_hash_commit
-web/api/baseaudiocontext/createconstantsource,no_hash_commit
+web/api/baseaudiocontext/createconstantsource,be8f7f155a48e11b30c240f8731afb1845f85378
 web/api/baseaudiocontext/createconvolver,no_hash_commit
 web/api/baseaudiocontext/createdelay,no_hash_commit
 web/api/baseaudiocontext/createoscillator,no_hash_commit
@@ -4829,7 +4829,7 @@ web/api/window/personalbar,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/popstate_event,no_hash_commit
 web/api/window/postmessage,no_hash_commit
 web/api/window/print,no_hash_commit
-web/api/window/prompt,no_hash_commit
+web/api/window/prompt,79fdc26fea835d65c9361541bb8ab1896f307475
 web/api/window/querylocalfonts,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/api/window/queuemicrotask,5fc275a2cb01ea3c361d6a0af057e96a00122984
 web/api/window/rejectionhandled_event,no_hash_commit
@@ -7172,6 +7172,7 @@ web/javascript/reference/statements/function,4f86aad2b0b66c0d2041354ec81400c574a
 web/javascript/reference/statements/function_star_,4f86aad2b0b66c0d2041354ec81400c574ab56ca
 web/javascript/reference/statements/if...else,fb85334ffa4a2c88d209b1074909bee0e0abd57a
 web/javascript/reference/statements/import,4f86aad2b0b66c0d2041354ec81400c574ab56ca
+web/javascript/reference/statements/import/with,27a436c26d8c0ff74bc38bea990465be3cf80021
 web/javascript/reference/statements,e3faa375b0179de77a5eff00074e3d168a0a904c
 web/javascript/reference/statements/label,c6f0f106b9083984dbf597678def6561729bb459
 web/javascript/reference/statements/let,66149c2238e1beb7fc65dd998968aa0638c874a3
