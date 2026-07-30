@@ -3925,10 +3925,10 @@ web/api/element/getattributenames,0
 web/api/element/getattributenode,0
 web/api/element/getattributenodens,0
 web/api/element/getattributens,0
-web/api/element/getboundingclientrect,null
-web/api/element/getclientrects,null
-web/api/element/getelementsbyclassname,null
-web/api/element/getelementsbytagname,null
+web/api/element/getboundingclientrect,0
+web/api/element/getclientrects,0
+web/api/element/getelementsbyclassname,0
+web/api/element/getelementsbytagname,0
 web/api/element/getelementsbytagnamens,null
 web/api/element/gethtml,null
 web/api/element/gotpointercapture_event,null
