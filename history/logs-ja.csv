@@ -73,7 +73,7 @@ glossary/baseline/typography,243e5eabfe95971f2850fcfdf2a7b2f210c85532
 glossary/bcp_47_language_tag,e7bc0ed5466f5834641d75d416fa81886cf6b37e
 glossary/beacon,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/bezier_curve,a1596fe065b9c726f9412999d2218b7b6e256e30
-glossary/bfcache,no_hash_commit
+glossary/bfcache,7f138099644a02640a903b2abc39e685ca8ca7cd
 glossary/bidi,no_hash_commit
 glossary/bigint,no_hash_commit
 glossary/binding,1c4869cdb1a9a9c3cafba87a2cd9469591f7aa47
@@ -282,7 +282,7 @@ glossary/http_content,ae86913908651e6008079242691e06b5e01d1c78
 glossary/http_header,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/https,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 glossary/hyperlink,no_hash_commit
-glossary/hypertext,no_hash_commit
+glossary/hypertext,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/iana,no_hash_commit
 glossary/icann,no_hash_commit
 glossary/ice,no_hash_commit
@@ -387,7 +387,7 @@ glossary/null,8a3cafa914478bb274d649a95325c4b2dacd07cc
 glossary/nullish,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/number,no_hash_commit
 glossary/object,no_hash_commit
-glossary/object_reference,no_hash_commit
+glossary/object_reference,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/oop,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
 glossary/opengl,no_hash_commit
 glossary/openssl,no_hash_commit
@@ -415,7 +415,7 @@ glossary/php,no_hash_commit
 glossary/physical_properties,50e5edd07155de2eec2a8b6b2ad95820748cfec7
 glossary/pixel,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/plaintext,ada5fa5ef15eadd44b549ecf906423b4a2092f34
-glossary/plugin,no_hash_commit
+glossary/plugin,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/png,no_hash_commit
 glossary/polyfill,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/polymorphism,no_hash_commit
@@ -531,7 +531,7 @@ glossary/sql,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/sql_injection,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/sri,no_hash_commit
 glossary/ssg,2547f622337d6cbf8c3794776b17ed377d6aad57
-glossary/ssl,no_hash_commit
+glossary/ssl,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 glossary/ssr,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/stacking_context,no_hash_commit
 glossary/state_machine,2547f622337d6cbf8c3794776b17ed377d6aad57
@@ -8832,12 +8832,12 @@ web/javascript/reference/global_objects/finalizationregistry/finalizationregistr
 web/javascript/reference/global_objects/finalizationregistry,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/finalizationregistry/register,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/finalizationregistry/unregister,544b843570cb08d1474cfc5ec03ffb9f4edc0166
-web/javascript/reference/global_objects/float16array/float16array,dd339290fa3a42d9a7f079e17a62e1df1206f29d
-web/javascript/reference/global_objects/float16array,dd339290fa3a42d9a7f079e17a62e1df1206f29d
-web/javascript/reference/global_objects/float32array/float32array,no_hash_commit
-web/javascript/reference/global_objects/float32array,no_hash_commit
-web/javascript/reference/global_objects/float64array/float64array,no_hash_commit
-web/javascript/reference/global_objects/float64array,no_hash_commit
+web/javascript/reference/global_objects/float16array/float16array,544b843570cb08d1474cfc5ec03ffb9f4edc0166
+web/javascript/reference/global_objects/float16array,544b843570cb08d1474cfc5ec03ffb9f4edc0166
+web/javascript/reference/global_objects/float32array/float32array,544b843570cb08d1474cfc5ec03ffb9f4edc0166
+web/javascript/reference/global_objects/float32array,544b843570cb08d1474cfc5ec03ffb9f4edc0166
+web/javascript/reference/global_objects/float64array/float64array,544b843570cb08d1474cfc5ec03ffb9f4edc0166
+web/javascript/reference/global_objects/float64array,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/function/apply,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/function/arguments,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/function/bind,544b843570cb08d1474cfc5ec03ffb9f4edc0166
@@ -9718,6 +9718,7 @@ web/svg/reference/attribute/baseprofile,06e6e54baef7032c4e81ca93291fde0a0585de8b
 web/svg/reference/attribute/begin,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/attribute/by,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/calcmode,702cd9e4d2834e13aea345943efc8d0c03d92ec9
+web/svg/reference/attribute/class,c1564acf160ef4b320fb7b89ab65211b9c50cf1b
 web/svg/reference/attribute/clip-path,1c24dd81053cd34f393ce2c4b2ac071886007625
 web/svg/reference/attribute/clip-rule,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/clip,c2fd97474834e061404b992c8397d4ccc4439a71
@@ -9736,6 +9737,7 @@ web/svg/reference/attribute/dur,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/dx,d559e66723de93ce6c59eb5d22a29afca7265c2a
 web/svg/reference/attribute/dy,d559e66723de93ce6c59eb5d22a29afca7265c2a
 web/svg/reference/attribute/end,a9063bb88f28dc2a9b32e39f060ab6930663da52
+web/svg/reference/attribute/exponent,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
 web/svg/reference/attribute/fill-opacity,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/fill-rule,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/fill,9944f7b12ef1a6aecd54d4b2f0c188a82fdeaaf0
@@ -9768,6 +9770,7 @@ web/svg/reference/attribute/k4,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/attribute/keypoints,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/svg/reference/attribute/keysplines,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/svg/reference/attribute/keytimes,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/lang,e7bc0ed5466f5834641d75d416fa81886cf6b37e
 web/svg/reference/attribute/lengthadjust,7c03abf6c6abaf0013f6606cae9cb97717415cce
 web/svg/reference/attribute/letter-spacing,da8c3171b7a7ea6694af71fac7a3194d8e9ba869
 web/svg/reference/attribute/marker-mid,f2d281d86396bcd2dcecfdabd5837b1590132aa6
@@ -9815,6 +9818,7 @@ web/svg/reference/attribute/stroke-linejoin,3c83d88f02f33f4066224e9f624a17dd2a0b
 web/svg/reference/attribute/stroke-miterlimit,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/stroke-width,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/stroke,9944f7b12ef1a6aecd54d4b2f0c188a82fdeaaf0
+web/svg/reference/attribute/style,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/svg/reference/attribute/tabindex,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/svg/reference/attribute/text-anchor,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/textlength,6036cd414b2214f85901158bdf3e3a96123d4553
@@ -9835,6 +9839,7 @@ web/svg/reference/attribute/x1,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/x2,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/xchannelselector,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/xlink_colon_href,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
+web/svg/reference/attribute/xml_colon_lang,e7bc0ed5466f5834641d75d416fa81886cf6b37e
 web/svg/reference/attribute/y,d559e66723de93ce6c59eb5d22a29afca7265c2a
 web/svg/reference/attribute/y1,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/y2,c2fd97474834e061404b992c8397d4ccc4439a71
@@ -9861,6 +9866,7 @@ web/svg/reference/element/fefuncg,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/fefuncr,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/fegaussianblur,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/feimage,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
+web/svg/reference/element/femerge,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/femorphology,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/feoffset,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/fespecularlighting,62476ac3c21417ad3a07e12c9f8eaf92cea8311d

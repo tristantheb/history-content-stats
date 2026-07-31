@@ -103,7 +103,7 @@ glossary/baseline/typography,2
 glossary/bcp_47_language_tag,0
 glossary/beacon,2
 glossary/bezier_curve,4
-glossary/bfcache,null
+glossary/bfcache,0
 glossary/bidi,null
 glossary/bigint,null
 glossary/binding,3
@@ -323,7 +323,7 @@ glossary/http_header,10
 glossary/https,0
 glossary/https_rr,null
 glossary/hyperlink,null
-glossary/hypertext,null
+glossary/hypertext,0
 glossary/iana,null
 glossary/icann,null
 glossary/ice,null
@@ -432,7 +432,7 @@ glossary/null,4
 glossary/nullish,0
 glossary/number,null
 glossary/object,null
-glossary/object_reference,null
+glossary/object_reference,0
 glossary/oop,2
 glossary/opengl,null
 glossary/openssl,null
@@ -461,7 +461,7 @@ glossary/physical_properties,2
 glossary/pixel,1
 glossary/placeholder_names,null
 glossary/plaintext,1
-glossary/plugin,null
+glossary/plugin,0
 glossary/png,null
 glossary/polyfill,0
 glossary/polymorphism,null
@@ -584,7 +584,7 @@ glossary/sql,0
 glossary/sql_injection,4
 glossary/sri,null
 glossary/ssg,1
-glossary/ssl,null
+glossary/ssl,0
 glossary/ssr,0
 glossary/stacking_context,null
 glossary/state_machine,0
@@ -3319,6 +3319,7 @@ web/api/cssstylesheet/rules,1
 web/api/cssstylevalue,0
 web/api/cssstylevalue/parse_static,0
 web/api/cssstylevalue/parseall_static,0
+web/api/cssstylevalue/tostring,null
 web/api/csssupportsrule,0
 web/api/csstransformcomponent,0
 web/api/csstransformcomponent/is2d,0
@@ -10854,7 +10855,7 @@ web/css/reference/properties/fill,1
 web/css/reference/properties/fill-opacity,null
 web/css/reference/properties/fill-rule,1
 web/css/reference/properties/filter,1
-web/css/reference/properties/flex,2
+web/css/reference/properties/flex,3
 web/css/reference/properties/flex-basis,2
 web/css/reference/properties/flex-direction,1
 web/css/reference/properties/flex-flow,1
@@ -12602,12 +12603,12 @@ web/javascript/reference/global_objects/finalizationregistry,0
 web/javascript/reference/global_objects/finalizationregistry/finalizationregistry,0
 web/javascript/reference/global_objects/finalizationregistry/register,1
 web/javascript/reference/global_objects/finalizationregistry/unregister,0
-web/javascript/reference/global_objects/float16array,2
-web/javascript/reference/global_objects/float16array/float16array,3
-web/javascript/reference/global_objects/float32array,null
-web/javascript/reference/global_objects/float32array/float32array,null
-web/javascript/reference/global_objects/float64array,null
-web/javascript/reference/global_objects/float64array/float64array,null
+web/javascript/reference/global_objects/float16array,0
+web/javascript/reference/global_objects/float16array/float16array,0
+web/javascript/reference/global_objects/float32array,0
+web/javascript/reference/global_objects/float32array/float32array,0
+web/javascript/reference/global_objects/float64array,0
+web/javascript/reference/global_objects/float64array/float64array,0
 web/javascript/reference/global_objects/function,0
 web/javascript/reference/global_objects/function/apply,0
 web/javascript/reference/global_objects/function/arguments,1
@@ -13636,6 +13637,7 @@ web/privacy/guides/storage_access_policy/errors/cookieblockedtracker,null
 web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,1
 web/privacy/guides/third-party_cookies,4
 web/privacy/guides/third-party_cookies/partitioned_cookies,0
+web/privacy/privacy_primer,null
 web/progressive_web_apps,4
 web/progressive_web_apps/guides,1
 web/progressive_web_apps/guides/best_practices,5
@@ -13770,7 +13772,7 @@ web/svg/reference/attribute/begin,0
 web/svg/reference/attribute/bias,null
 web/svg/reference/attribute/by,0
 web/svg/reference/attribute/calcmode,0
-web/svg/reference/attribute/class,null
+web/svg/reference/attribute/class,0
 web/svg/reference/attribute/clip,0
 web/svg/reference/attribute/clip-path,1
 web/svg/reference/attribute/clip-rule,0
@@ -13797,7 +13799,7 @@ web/svg/reference/attribute/dy,0
 web/svg/reference/attribute/edgemode,null
 web/svg/reference/attribute/elevation,null
 web/svg/reference/attribute/end,0
-web/svg/reference/attribute/exponent,null
+web/svg/reference/attribute/exponent,0
 web/svg/reference/attribute/fetchpriority,null
 web/svg/reference/attribute/fill,0
 web/svg/reference/attribute/fill-opacity,1
@@ -13838,7 +13840,7 @@ web/svg/reference/attribute/kernelunitlength,null
 web/svg/reference/attribute/keypoints,1
 web/svg/reference/attribute/keysplines,0
 web/svg/reference/attribute/keytimes,0
-web/svg/reference/attribute/lang,null
+web/svg/reference/attribute/lang,0
 web/svg/reference/attribute/lengthadjust,0
 web/svg/reference/attribute/letter-spacing,1
 web/svg/reference/attribute/lighting-color,null
@@ -13914,7 +13916,7 @@ web/svg/reference/attribute/stroke-linejoin,0
 web/svg/reference/attribute/stroke-miterlimit,1
 web/svg/reference/attribute/stroke-opacity,null
 web/svg/reference/attribute/stroke-width,0
-web/svg/reference/attribute/style,null
+web/svg/reference/attribute/style,0
 web/svg/reference/attribute/surfacescale,null
 web/svg/reference/attribute/systemlanguage,null
 web/svg/reference/attribute/tabindex,0
@@ -13950,7 +13952,7 @@ web/svg/reference/attribute/xlink_colon_href,0
 web/svg/reference/attribute/xlink_colon_show,null
 web/svg/reference/attribute/xlink_colon_title,null
 web/svg/reference/attribute/xlink_colon_type,null
-web/svg/reference/attribute/xml_colon_lang,null
+web/svg/reference/attribute/xml_colon_lang,0
 web/svg/reference/attribute/xml_colon_space,null
 web/svg/reference/attribute/y,0
 web/svg/reference/attribute/y1,0
@@ -13984,7 +13986,7 @@ web/svg/reference/element/fefuncg,0
 web/svg/reference/element/fefuncr,0
 web/svg/reference/element/fegaussianblur,2
 web/svg/reference/element/feimage,0
-web/svg/reference/element/femerge,null
+web/svg/reference/element/femerge,0
 web/svg/reference/element/femergenode,null
 web/svg/reference/element/femorphology,3
 web/svg/reference/element/feoffset,2

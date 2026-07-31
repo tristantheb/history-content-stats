@@ -3319,6 +3319,7 @@ web/api/cssstylesheet/rules,null
 web/api/cssstylevalue,null
 web/api/cssstylevalue/parse_static,null
 web/api/cssstylevalue/parseall_static,null
+web/api/cssstylevalue/tostring,null
 web/api/csssupportsrule,null
 web/api/csstransformcomponent,null
 web/api/csstransformcomponent/is2d,null
@@ -13636,6 +13637,7 @@ web/privacy/guides/storage_access_policy/errors/cookieblockedtracker,null
 web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,null
 web/privacy/guides/third-party_cookies,null
 web/privacy/guides/third-party_cookies/partitioned_cookies,null
+web/privacy/privacy_primer,null
 web/progressive_web_apps,null
 web/progressive_web_apps/guides,1
 web/progressive_web_apps/guides/best_practices,null

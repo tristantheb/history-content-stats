@@ -3319,6 +3319,7 @@ web/api/cssstylesheet/rules,null
 web/api/cssstylevalue,0
 web/api/cssstylevalue/parse_static,1
 web/api/cssstylevalue/parseall_static,0
+web/api/cssstylevalue/tostring,null
 web/api/csssupportsrule,4
 web/api/csstransformcomponent,2
 web/api/csstransformcomponent/is2d,0
@@ -13636,6 +13637,7 @@ web/privacy/guides/storage_access_policy/errors/cookieblockedtracker,0
 web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,1
 web/privacy/guides/third-party_cookies,5
 web/privacy/guides/third-party_cookies/partitioned_cookies,1
+web/privacy/privacy_primer,null
 web/progressive_web_apps,null
 web/progressive_web_apps/guides,0
 web/progressive_web_apps/guides/best_practices,null
