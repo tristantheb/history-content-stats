@@ -1814,7 +1814,7 @@ web/api/baseaudiocontext/createbiquadfilter,no_hash_commit
 web/api/baseaudiocontext/createbuffer,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
 web/api/baseaudiocontext/createbuffersource,no_hash_commit
 web/api/baseaudiocontext/createchannelmerger,no_hash_commit
-web/api/baseaudiocontext/createchannelsplitter,no_hash_commit
+web/api/baseaudiocontext/createchannelsplitter,be8f7f155a48e11b30c240f8731afb1845f85378
 web/api/baseaudiocontext/createconstantsource,be8f7f155a48e11b30c240f8731afb1845f85378
 web/api/baseaudiocontext/createconvolver,no_hash_commit
 web/api/baseaudiocontext/createdelay,no_hash_commit
@@ -2589,7 +2589,7 @@ web/api/element/childelementcount,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/children,no_hash_commit
 web/api/element/classlist,no_hash_commit
 web/api/element/classname,no_hash_commit
-web/api/element/click_event,no_hash_commit
+web/api/element/click_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/clientheight,no_hash_commit
 web/api/element/clientleft,d0b23f3f26637aa405ee9ee0a0892fc6e9b742ef
 web/api/element/clienttop,no_hash_commit
@@ -3054,7 +3054,7 @@ web/api/htmlcanvaselement/transfercontroltooffscreen,no_hash_commit
 web/api/htmlcanvaselement/webglcontextlost_event,no_hash_commit
 web/api/htmlcanvaselement/width,c16ab7959173ec929df57d3916f8f4dbce485709
 web/api/htmlcollection,no_hash_commit
-web/api/htmlcollection/item,no_hash_commit
+web/api/htmlcollection/item,b25d8774aa7bcc6a053e26cf804ad454f51e134b
 web/api/htmlcollection/length,no_hash_commit
 web/api/htmlcollection/nameditem,no_hash_commit
 web/api/htmldataelement,7e6e5f5d4c1c984af3d4ebf9399042d19eccea1e
@@ -3095,7 +3095,7 @@ web/api/htmlelement/lang,e7bc0ed5466f5834641d75d416fa81886cf6b37e
 web/api/htmlelement/nonce,no_hash_commit
 web/api/htmlelement/offsetheight,no_hash_commit
 web/api/htmlelement/offsetleft,no_hash_commit
-web/api/htmlelement/offsetparent,no_hash_commit
+web/api/htmlelement/offsetparent,678f7ed93e03b90cae88e9a3c7e4b81b0f969664
 web/api/htmlelement/offsettop,no_hash_commit
 web/api/htmlelement/offsetwidth,0916e1754652f3a7c663ef031faa26c98f492023
 web/api/htmlelement/outertext,no_hash_commit
@@ -4959,7 +4959,7 @@ web/api/xmlhttprequest/getallresponseheaders,99b2676da42700bafbb3189449a30b00e72
 web/api/xmlhttprequest/getresponseheader,no_hash_commit
 web/api/xmlhttprequest,no_hash_commit
 web/api/xmlhttprequest/open,no_hash_commit
-web/api/xmlhttprequest/overridemimetype,no_hash_commit
+web/api/xmlhttprequest/overridemimetype,2ccbd062264d0a2a34f185a3386cb272f42c50f5
 web/api/xmlhttprequest/readystate,no_hash_commit
 web/api/xmlhttprequest/readystatechange_event,no_hash_commit
 web/api/xmlhttprequest/response,no_hash_commit
@@ -6163,7 +6163,7 @@ web/http/reference/headers/content-security-policy,4d9320f9857fb80fef5f3fe78e3d0
 web/http/reference/headers/content-security-policy/report-to,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/content-security-policy/sandbox,no_hash_commit
 web/http/reference/headers/content-security-policy/script-src-elem,no_hash_commit
-web/http/reference/headers/content-security-policy/upgrade-insecure-requests,no_hash_commit
+web/http/reference/headers/content-security-policy/upgrade-insecure-requests,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 web/http/reference/headers/content-security-policy/worker-src,no_hash_commit
 web/http/reference/headers/content-type,27ed2557b2d3f07807b2f662dc2cf13208406eb9
 web/http/reference/headers/cookie,no_hash_commit
@@ -7367,7 +7367,7 @@ web/svg/reference/attribute/keytimes,no_hash_commit
 web/svg/reference/attribute/marker-end,no_hash_commit
 web/svg/reference/attribute/marker-start,no_hash_commit
 web/svg/reference/attribute/mask,no_hash_commit
-web/svg/reference/attribute/media,no_hash_commit
+web/svg/reference/attribute/media,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/attribute/mode,no_hash_commit
 web/svg/reference/attribute/opacity,no_hash_commit
 web/svg/reference/attribute/order,no_hash_commit
