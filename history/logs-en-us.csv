@@ -10855,7 +10855,7 @@ web/css/reference/properties/fill,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|P
 web/css/reference/properties/fill-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/fill-rule,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/filter,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/flex,ddf85bfec1b6e43cdacb404de0c38a801c561640,CSS|Properties
+web/css/reference/properties/flex,28839be2d5cdb1235fdd75b873c90cf491e93367,CSS|Properties
 web/css/reference/properties/flex-basis,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/flex-direction,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/flex-flow,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -13637,6 +13637,7 @@ web/privacy/guides/storage_access_policy/errors/cookieblockedtracker,ab458cefeb4
 web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,fc801f51100908ad3f4471918cc634d767898874,Privacy|Guides
 web/privacy/guides/third-party_cookies,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Privacy|Guides
 web/privacy/guides/third-party_cookies/partitioned_cookies,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Privacy|Guides
+web/privacy/privacy_primer,c9a52b432ec4063da2d0a1c06f4b8a363843e7b7,Privacy
 web/progressive_web_apps,81715a83bdb5d71cdceaf32d1e40a3edfc986a12,PWAs
 web/progressive_web_apps/guides,628b29f53d15f203c4a6b33c1d0303f864f6af63,PWAs|Guides
 web/progressive_web_apps/guides/best_practices,26f9fbee05fb92b584d44fba4359e86796484aa6,PWAs|Guides
