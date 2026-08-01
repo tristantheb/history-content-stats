@@ -12482,10 +12482,10 @@ web/javascript/reference/global_objects/bigint/bigint,1
 web/javascript/reference/global_objects/bigint/tolocalestring,0
 web/javascript/reference/global_objects/bigint/tostring,0
 web/javascript/reference/global_objects/bigint/valueof,0
-web/javascript/reference/global_objects/bigint64array,null
-web/javascript/reference/global_objects/bigint64array/bigint64array,null
-web/javascript/reference/global_objects/biguint64array,null
-web/javascript/reference/global_objects/biguint64array/biguint64array,null
+web/javascript/reference/global_objects/bigint64array,0
+web/javascript/reference/global_objects/bigint64array/bigint64array,0
+web/javascript/reference/global_objects/biguint64array,0
+web/javascript/reference/global_objects/biguint64array/biguint64array,0
 web/javascript/reference/global_objects/boolean,0
 web/javascript/reference/global_objects/boolean/boolean,0
 web/javascript/reference/global_objects/boolean/tostring,0
