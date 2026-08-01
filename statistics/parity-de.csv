@@ -10855,7 +10855,7 @@ web/css/reference/properties/fill,0
 web/css/reference/properties/fill-opacity,0
 web/css/reference/properties/fill-rule,0
 web/css/reference/properties/filter,0
-web/css/reference/properties/flex,1
+web/css/reference/properties/flex,0
 web/css/reference/properties/flex-basis,0
 web/css/reference/properties/flex-direction,0
 web/css/reference/properties/flex-flow,0
@@ -13637,7 +13637,7 @@ web/privacy/guides/storage_access_policy/errors/cookieblockedtracker,0
 web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,0
 web/privacy/guides/third-party_cookies,0
 web/privacy/guides/third-party_cookies/partitioned_cookies,0
-web/privacy/privacy_primer,null
+web/privacy/privacy_primer,0
 web/progressive_web_apps,0
 web/progressive_web_apps/guides,0
 web/progressive_web_apps/guides/best_practices,0
