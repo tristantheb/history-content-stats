@@ -11611,7 +11611,7 @@ web/html/reference/attributes/rel/noopener,0
 web/html/reference/attributes/rel/noreferrer,0
 web/html/reference/attributes/rel/preconnect,5
 web/html/reference/attributes/rel/prefetch,null
-web/html/reference/attributes/rel/preload,null
+web/html/reference/attributes/rel/preload,0
 web/html/reference/attributes/rel/prerender,3
 web/html/reference/attributes/required,4
 web/html/reference/attributes/size,3
