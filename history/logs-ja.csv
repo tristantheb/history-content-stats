@@ -1476,7 +1476,7 @@ web/accessibility/aria/reference/roles,4a39dedf2c57c6947339a63a8de0e18a7abe8e2c
 web/accessibility/aria/reference/roles/input_role,22cf84fc5704222a2e2e5ac67b95b02dcfea08ff
 web/accessibility/aria/reference/roles/landmark_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/link_role,no_hash_commit
-web/accessibility/aria/reference/roles/list_role,no_hash_commit
+web/accessibility/aria/reference/roles/list_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/listbox_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/accessibility/aria/reference/roles/listitem_role,no_hash_commit
 web/accessibility/aria/reference/roles/log_role,no_hash_commit
@@ -2821,7 +2821,7 @@ web/api/element/ariavaluemin,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/ariavaluenow,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/ariavaluetext,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/assignedslot,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
-web/api/element/attachshadow,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
+web/api/element/attachshadow,afcdfa050626bb7eb05ee693df8997020db9ff2e
 web/api/element/attributes,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/auxclick_event,ab65140829d7c4df540fd859c0a97a78b3b1fd33
 web/api/element/before,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf

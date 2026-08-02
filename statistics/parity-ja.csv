@@ -2200,7 +2200,7 @@ web/accessibility/aria/reference/roles/img_role,4
 web/accessibility/aria/reference/roles/input_role,0
 web/accessibility/aria/reference/roles/landmark_role,1
 web/accessibility/aria/reference/roles/link_role,null
-web/accessibility/aria/reference/roles/list_role,null
+web/accessibility/aria/reference/roles/list_role,0
 web/accessibility/aria/reference/roles/listbox_role,0
 web/accessibility/aria/reference/roles/listitem_role,null
 web/accessibility/aria/reference/roles/log_role,null
@@ -3877,7 +3877,7 @@ web/api/element/ariavaluemin,2
 web/api/element/ariavaluenow,2
 web/api/element/ariavaluetext,2
 web/api/element/assignedslot,1
-web/api/element/attachshadow,16
+web/api/element/attachshadow,0
 web/api/element/attributes,2
 web/api/element/auxclick_event,5
 web/api/element/before,3
