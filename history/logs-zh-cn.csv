@@ -5884,7 +5884,7 @@ web/html/reference/attributes/rel/noopener,bf5017c389132af39b50106cf1763fa7106e8
 web/html/reference/attributes/rel/noreferrer,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/attributes/rel/preconnect,922c2b0f37e2f13887c50efe47e62bc23d94c3aa
 web/html/reference/attributes/rel/prefetch,no_hash_commit
-web/html/reference/attributes/rel/preload,no_hash_commit
+web/html/reference/attributes/rel/preload,fc7c0c6df803d5ce26e7b2a72725a7d021ed0694
 web/html/reference/attributes/rel/prerender,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/html/reference/attributes/required,c66d3e5e446bf5ebfcef528c4a766bea6a08c879
 web/html/reference/attributes/size,a78cecea4f3b1a7f35564a547052e163911ac491
