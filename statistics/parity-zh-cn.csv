@@ -10395,7 +10395,7 @@ web/css/guides/flexible_box_layout/aligning_items,null
 web/css/guides/flexible_box_layout/basic_concepts,null
 web/css/guides/flexible_box_layout/controlling_flex_item_ratios,null
 web/css/guides/flexible_box_layout/ordering_items,null
-web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,2
+web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,3
 web/css/guides/flexible_box_layout/use_cases,5
 web/css/guides/flexible_box_layout/wrapping_items,null
 web/css/guides/font_loading,null
@@ -11758,7 +11758,7 @@ web/html/reference/elements/source,7
 web/html/reference/elements/span,5
 web/html/reference/elements/strike,3
 web/html/reference/elements/strong,null
-web/html/reference/elements/style,12
+web/html/reference/elements/style,13
 web/html/reference/elements/sub,4
 web/html/reference/elements/summary,null
 web/html/reference/elements/sup,3
