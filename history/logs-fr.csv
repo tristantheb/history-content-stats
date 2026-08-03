@@ -2459,11 +2459,12 @@ web/api/element/input_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/insertadjacentelement,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/element/insertadjacenthtml,65cbd4ff030e6763d6868917137d728c3ec29288
 web/api/element/insertadjacenttext,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
-web/api/element/keydown_event,no_hash_commit
-web/api/element/keypress_event,no_hash_commit
-web/api/element/keyup_event,no_hash_commit
-web/api/element/lastelementchild,no_hash_commit
-web/api/element/localname,no_hash_commit
+web/api/element/keydown_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
+web/api/element/keypress_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
+web/api/element/keyup_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
+web/api/element/lastelementchild,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b
+web/api/element/localname,bc9f7bec1ab48f29d241e38a9f1598f783f6b60a
+web/api/element/lostpointercapture_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/matches,no_hash_commit
 web/api/element/mousedown_event,no_hash_commit
 web/api/element/mouseenter_event,no_hash_commit
