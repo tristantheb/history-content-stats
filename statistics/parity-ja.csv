@@ -1009,7 +1009,7 @@ learn_web_development/getting_started/web_standards/how_the_web_works,1
 learn_web_development/getting_started/web_standards/the_web_standards_model,0
 learn_web_development/getting_started/your_first_website,0
 learn_web_development/getting_started/your_first_website/adding_interactivity,0
-learn_web_development/getting_started/your_first_website/creating_the_content,14
+learn_web_development/getting_started/your_first_website/creating_the_content,0
 learn_web_development/getting_started/your_first_website/publishing_your_website,0
 learn_web_development/getting_started/your_first_website/styling_the_content,0
 learn_web_development/getting_started/your_first_website/what_will_your_website_look_like,0
@@ -2287,7 +2287,7 @@ web/api/abortsignal/aborted,0
 web/api/abortsignal/any_static,0
 web/api/abortsignal/reason,0
 web/api/abortsignal/throwifaborted,0
-web/api/abortsignal/timeout_static,3
+web/api/abortsignal/timeout_static,0
 web/api/absoluteorientationsensor,3
 web/api/absoluteorientationsensor/absoluteorientationsensor,2
 web/api/abstractrange,0
@@ -3369,7 +3369,7 @@ web/api/customelementregistry,0
 web/api/customelementregistry/customelementregistry,0
 web/api/customelementregistry/define,0
 web/api/customelementregistry/get,0
-web/api/customelementregistry/getname,null
+web/api/customelementregistry/getname,0
 web/api/customelementregistry/initialize,0
 web/api/customelementregistry/upgrade,0
 web/api/customelementregistry/whendefined,0
@@ -3443,7 +3443,7 @@ web/api/device_orientation_events/detecting_device_orientation,0
 web/api/device_orientation_events/orientation_and_motion_data_explained,0
 web/api/device_orientation_events/using_device_orientation_with_3d_transforms,0
 web/api/device_posture_api,0
-web/api/devicemotionevent,6
+web/api/devicemotionevent,7
 web/api/devicemotionevent/acceleration,4
 web/api/devicemotionevent/accelerationincludinggravity,3
 web/api/devicemotionevent/devicemotionevent,0
@@ -3458,7 +3458,7 @@ web/api/devicemotioneventrotationrate,1
 web/api/devicemotioneventrotationrate/alpha,1
 web/api/devicemotioneventrotationrate/beta,1
 web/api/devicemotioneventrotationrate/gamma,1
-web/api/deviceorientationevent,2
+web/api/deviceorientationevent,3
 web/api/deviceorientationevent/absolute,2
 web/api/deviceorientationevent/alpha,2
 web/api/deviceorientationevent/beta,2
@@ -9163,7 +9163,7 @@ web/api/virtualkeyboard/geometrychange_event,null
 web/api/virtualkeyboard/hide,null
 web/api/virtualkeyboard/overlayscontent,null
 web/api/virtualkeyboard/show,null
-web/api/virtualkeyboard_api,null
+web/api/virtualkeyboard_api,0
 web/api/visibilitystateentry,null
 web/api/visualviewport,4
 web/api/visualviewport/height,1
@@ -11076,7 +11076,10 @@ web/css/reference/properties/ruby-align,1
 web/css/reference/properties/ruby-overhang,1
 web/css/reference/properties/ruby-position,2
 web/css/reference/properties/rule,null
+web/css/reference/properties/rule-color,null
+web/css/reference/properties/rule-style,null
 web/css/reference/properties/rule-visibility-items,null
+web/css/reference/properties/rule-width,null
 web/css/reference/properties/rx,null
 web/css/reference/properties/ry,null
 web/css/reference/properties/scale,1
@@ -11200,7 +11203,7 @@ web/css/reference/properties/width,4
 web/css/reference/properties/will-change,2
 web/css/reference/properties/word-break,1
 web/css/reference/properties/word-spacing,4
-web/css/reference/properties/writing-mode,3
+web/css/reference/properties/writing-mode,5
 web/css/reference/properties/x,1
 web/css/reference/properties/y,1
 web/css/reference/properties/z-index,2
@@ -11873,7 +11876,7 @@ web/http/reference/headers/accept-ch,null
 web/http/reference/headers/accept-encoding,0
 web/http/reference/headers/accept-language,0
 web/http/reference/headers/accept-patch,0
-web/http/reference/headers/accept-post,null
+web/http/reference/headers/accept-post,0
 web/http/reference/headers/accept-ranges,null
 web/http/reference/headers/access-control-allow-credentials,0
 web/http/reference/headers/access-control-allow-headers,0
@@ -11884,7 +11887,7 @@ web/http/reference/headers/access-control-max-age,0
 web/http/reference/headers/access-control-request-headers,0
 web/http/reference/headers/access-control-request-method,0
 web/http/reference/headers/activate-storage-access,null
-web/http/reference/headers/age,null
+web/http/reference/headers/age,0
 web/http/reference/headers/allow,null
 web/http/reference/headers/alt-svc,0
 web/http/reference/headers/alt-used,null
@@ -11896,11 +11899,11 @@ web/http/reference/headers/available-dictionary,null
 web/http/reference/headers/cache-control,3
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
-web/http/reference/headers/content-digest,null
+web/http/reference/headers/content-digest,0
 web/http/reference/headers/content-disposition,2
 web/http/reference/headers/content-dpr,null
 web/http/reference/headers/content-encoding,0
-web/http/reference/headers/content-language,null
+web/http/reference/headers/content-language,0
 web/http/reference/headers/content-length,0
 web/http/reference/headers/content-location,0
 web/http/reference/headers/content-range,null
@@ -11915,7 +11918,7 @@ web/http/reference/headers/content-security-policy/fenced-frame-src,3
 web/http/reference/headers/content-security-policy/font-src,3
 web/http/reference/headers/content-security-policy/form-action,4
 web/http/reference/headers/content-security-policy/frame-ancestors,0
-web/http/reference/headers/content-security-policy/frame-src,4
+web/http/reference/headers/content-security-policy/frame-src,0
 web/http/reference/headers/content-security-policy/img-src,3
 web/http/reference/headers/content-security-policy/manifest-src,4
 web/http/reference/headers/content-security-policy/media-src,3
@@ -11925,7 +11928,7 @@ web/http/reference/headers/content-security-policy/report-to,3
 web/http/reference/headers/content-security-policy/report-uri,7
 web/http/reference/headers/content-security-policy/require-trusted-types-for,4
 web/http/reference/headers/content-security-policy/sandbox,5
-web/http/reference/headers/content-security-policy/script-src,6
+web/http/reference/headers/content-security-policy/script-src,0
 web/http/reference/headers/content-security-policy/script-src-attr,4
 web/http/reference/headers/content-security-policy/script-src-elem,3
 web/http/reference/headers/content-security-policy/style-src,6
@@ -11961,7 +11964,7 @@ web/http/reference/headers/if-match,0
 web/http/reference/headers/if-modified-since,0
 web/http/reference/headers/if-none-match,0
 web/http/reference/headers/if-range,0
-web/http/reference/headers/if-unmodified-since,null
+web/http/reference/headers/if-unmodified-since,0
 web/http/reference/headers/integrity-policy,null
 web/http/reference/headers/integrity-policy-report-only,null
 web/http/reference/headers/keep-alive,0
@@ -11969,7 +11972,7 @@ web/http/reference/headers/last-modified,0
 web/http/reference/headers/link,1
 web/http/reference/headers/location,0
 web/http/reference/headers/max-forwards,null
-web/http/reference/headers/nel,null
+web/http/reference/headers/nel,0
 web/http/reference/headers/no-vary-search,null
 web/http/reference/headers/observe-browsing-topics,null
 web/http/reference/headers/origin,0
@@ -12028,7 +12031,7 @@ web/http/reference/headers/permissions-policy/xr-spatial-tracking,2
 web/http/reference/headers/pragma,0
 web/http/reference/headers/prefer,null
 web/http/reference/headers/preference-applied,null
-web/http/reference/headers/priority,null
+web/http/reference/headers/priority,0
 web/http/reference/headers/proxy-authenticate,null
 web/http/reference/headers/proxy-authorization,null
 web/http/reference/headers/range,0
@@ -12036,7 +12039,7 @@ web/http/reference/headers/referer,0
 web/http/reference/headers/referrer-policy,2
 web/http/reference/headers/refresh,null
 web/http/reference/headers/report-to,null
-web/http/reference/headers/reporting-endpoints,null
+web/http/reference/headers/reporting-endpoints,0
 web/http/reference/headers/repr-digest,null
 web/http/reference/headers/retry-after,0
 web/http/reference/headers/rtt,null
@@ -12076,7 +12079,7 @@ web/http/reference/headers/sec-speculation-tags,null
 web/http/reference/headers/sec-websocket-accept,null
 web/http/reference/headers/sec-websocket-extensions,null
 web/http/reference/headers/sec-websocket-key,null
-web/http/reference/headers/sec-websocket-protocol,null
+web/http/reference/headers/sec-websocket-protocol,0
 web/http/reference/headers/sec-websocket-version,null
 web/http/reference/headers/server,0
 web/http/reference/headers/server-timing,1
@@ -12114,7 +12117,7 @@ web/http/reference/headers/x-forwarded-host,0
 web/http/reference/headers/x-forwarded-proto,0
 web/http/reference/headers/x-frame-options,5
 web/http/reference/headers/x-permitted-cross-domain-policies,null
-web/http/reference/headers/x-powered-by,null
+web/http/reference/headers/x-powered-by,0
 web/http/reference/headers/x-robots-tag,0
 web/http/reference/headers/x-xss-protection,0
 web/http/reference/methods,0
@@ -12727,7 +12730,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,6
 web/javascript/reference/global_objects/isfinite,0
 web/javascript/reference/global_objects/isnan,0
-web/javascript/reference/global_objects/iterator,4
+web/javascript/reference/global_objects/iterator,5
 web/javascript/reference/global_objects/iterator/concat,0
 web/javascript/reference/global_objects/iterator/drop,0
 web/javascript/reference/global_objects/iterator/every,2
@@ -13710,7 +13713,7 @@ web/security/attacks/prototype_pollution,0
 web/security/attacks/ssrf,0
 web/security/attacks/subdomain_takeover,0
 web/security/attacks/supply_chain_attacks,null
-web/security/attacks/xs-leaks,null
+web/security/attacks/xs-leaks,0
 web/security/attacks/xss,3
 web/security/authentication,0
 web/security/authentication/federated_identity,null
@@ -13733,9 +13736,9 @@ web/security/defenses/user_activation,1
 web/security/practical_implementation_guides,0
 web/security/practical_implementation_guides/cookies,0
 web/security/practical_implementation_guides/corp,null
-web/security/practical_implementation_guides/cors,null
+web/security/practical_implementation_guides/cors,0
 web/security/practical_implementation_guides/csp,0
-web/security/practical_implementation_guides/mime_types,null
+web/security/practical_implementation_guides/mime_types,0
 web/security/practical_implementation_guides/referrer_policy,null
 web/security/practical_implementation_guides/robots_txt,0
 web/security/practical_implementation_guides/sri,null
@@ -13764,7 +13767,7 @@ web/svg/reference/attribute/additive,0
 web/svg/reference/attribute/alignment-baseline,1
 web/svg/reference/attribute/amplitude,null
 web/svg/reference/attribute/attributename,0
-web/svg/reference/attribute/attributetype,null
+web/svg/reference/attribute/attributetype,0
 web/svg/reference/attribute/autofocus,null
 web/svg/reference/attribute/azimuth,null
 web/svg/reference/attribute/basefrequency,0
@@ -13949,7 +13952,7 @@ web/svg/reference/attribute/x,0
 web/svg/reference/attribute/x1,0
 web/svg/reference/attribute/x2,0
 web/svg/reference/attribute/xchannelselector,0
-web/svg/reference/attribute/xlink_colon_arcrole,null
+web/svg/reference/attribute/xlink_colon_arcrole,0
 web/svg/reference/attribute/xlink_colon_href,0
 web/svg/reference/attribute/xlink_colon_show,null
 web/svg/reference/attribute/xlink_colon_title,null
@@ -14214,7 +14217,7 @@ web/xml/xpath/reference/functions/system-property,1
 web/xml/xpath/reference/functions/translate,2
 web/xml/xpath/reference/functions/true,1
 web/xml/xpath/reference/functions/unparsed-entity-url,1
-web/xml/xslt,null
+web/xml/xslt,0
 web/xml/xslt/guides,0
 web/xml/xslt/guides/common_errors,1
 web/xml/xslt/guides/pi_parameters,3
