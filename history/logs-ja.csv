@@ -902,7 +902,7 @@ learn_web_development/getting_started/web_standards/how_the_web_works,19cee96ad4
 learn_web_development/getting_started/web_standards,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0
 learn_web_development/getting_started/web_standards/the_web_standards_model,fd2083c0166280bd96e1ab5f0a96fc8f90ceb3eb
 learn_web_development/getting_started/your_first_website/adding_interactivity,b5a6d8bc5fd751032f70b88e7ec1ec61339937de
-learn_web_development/getting_started/your_first_website/creating_the_content,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
+learn_web_development/getting_started/your_first_website/creating_the_content,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 learn_web_development/getting_started/your_first_website,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 learn_web_development/getting_started/your_first_website/publishing_your_website,06e6e54baef7032c4e81ca93291fde0a0585de8b
 learn_web_development/getting_started/your_first_website/styling_the_content,b5ee197a87ea18acbc4dd9544efa8c0e46253785
@@ -1558,7 +1558,7 @@ web/api/abortsignal/any_static,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/api/abortsignal,9187ced76026d7784a8600296c4e04b0e6f72382
 web/api/abortsignal/reason,15f0b5552bc9c2ea1f32b0cd5ee840a7d43c887e
 web/api/abortsignal/throwifaborted,bc7e82aa6db60568d7146ee285918550bbe4b8ce
-web/api/abortsignal/timeout_static,15f0b5552bc9c2ea1f32b0cd5ee840a7d43c887e
+web/api/abortsignal/timeout_static,58163fc9e99e2ea7eb6c2b698f02343009351dd9
 web/api/absoluteorientationsensor/absoluteorientationsensor,135b8311a5e3d12789e8421845be3ce026ef72b8
 web/api/absoluteorientationsensor,bca8d1ab2bc4f5a1ef6b39c454b0229539178e98
 web/api/abstractrange/collapsed,f314991b236fce81b712a6df59e4643de0f98449
@@ -2367,6 +2367,7 @@ web/api/cssviewtransitionrule/types,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca
 web/api/customelementregistry/customelementregistry,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12
 web/api/customelementregistry/define,ff9dd829bb17d272b7d14c41a442f2c2e3680521
 web/api/customelementregistry/get,730741c750cc299b85798f1adbaf7adbd6e2016d
+web/api/customelementregistry/getname,730741c750cc299b85798f1adbaf7adbd6e2016d
 web/api/customelementregistry,9c4d4cb78a55340b46855e47aba76729a59e11ce
 web/api/customelementregistry/initialize,9c4d4cb78a55340b46855e47aba76729a59e11ce
 web/api/customelementregistry/upgrade,9c4d4cb78a55340b46855e47aba76729a59e11ce
@@ -6141,6 +6142,7 @@ web/api/viewtransition/skiptransition,3a95c239db50c88fdde48daacb6c279006a422b9
 web/api/viewtransition/types,8f7fa9e7aef0399c7a7f8e5a20476a0c2f287640
 web/api/viewtransition/updatecallbackdone,3a95c239db50c88fdde48daacb6c279006a422b9
 web/api/viewtransitiontypeset,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca
+web/api/virtualkeyboard_api,f69b6693212029ce4b9fa0c753729044577af548
 web/api/visualviewport/height,04b91d4a12bec8c3adad0de48a030f6b6c4e4d1e
 web/api/visualviewport,93b34fcdb9cf91ff44f5dfe7f4dcd13e961962da
 web/api/visualviewport/offsetleft,04b91d4a12bec8c3adad0de48a030f6b6c4e4d1e
@@ -7920,7 +7922,7 @@ web/css/reference/values/transform-function,c88e03530319b73272fd4f9a9f6ebe878f02
 web/css/reference/values/transform-function/matrix,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/transform-function/matrix3d,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/transform-function/perspective,b760560abe30bd69ca968dac38528102f423b5ea
-web/css/reference/values/transform-function/rotate,b760560abe30bd69ca968dac38528102f423b5ea
+web/css/reference/values/transform-function/rotate,80ab11f9d757b49325122071a8a6210440ec6551
 web/css/reference/values/transform-function/rotate3d,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/transform-function/rotatex,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/transform-function/rotatey,b760560abe30bd69ca968dac38528102f423b5ea
@@ -8251,6 +8253,7 @@ web/http/reference/headers/accept-ch,no_hash_commit
 web/http/reference/headers/accept-encoding,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/accept-language,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/accept-patch,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26
+web/http/reference/headers/accept-post,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/accept-ranges,no_hash_commit
 web/http/reference/headers/accept,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/access-control-allow-credentials,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
@@ -8261,16 +8264,17 @@ web/http/reference/headers/access-control-expose-headers,ad5b5e31f81795d692e66da
 web/http/reference/headers/access-control-max-age,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/access-control-request-headers,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/access-control-request-method,ad5b5e31f81795d692e66dadb7818ba8b220ad15
-web/http/reference/headers/age,no_hash_commit
+web/http/reference/headers/age,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/allow,no_hash_commit
 web/http/reference/headers/alt-svc,c53bfa01f3bf436d486f4032c16f592855a2af2c
 web/http/reference/headers/authorization,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/cache-control,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/clear-site-data,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/connection,0e40ec22841891d42376ad8a6d29135953c5106c
+web/http/reference/headers/content-digest,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f
 web/http/reference/headers/content-disposition,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 web/http/reference/headers/content-encoding,ad5b5e31f81795d692e66dadb7818ba8b220ad15
-web/http/reference/headers/content-language,no_hash_commit
+web/http/reference/headers/content-language,e7bc0ed5466f5834641d75d416fa81886cf6b37e
 web/http/reference/headers/content-length,89835e4310224a4b87d97ed2214556aa5d5ccb1e
 web/http/reference/headers/content-location,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/content-range,no_hash_commit
@@ -8284,7 +8288,7 @@ web/http/reference/headers/content-security-policy/fenced-frame-src,4d929bb0a021
 web/http/reference/headers/content-security-policy/font-src,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/content-security-policy/form-action,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/content-security-policy/frame-ancestors,a2b29d9159294f1437e0adf49cdf3019e9c1c24b
-web/http/reference/headers/content-security-policy/frame-src,4d929bb0a021c7130d5a71a4bf505bcb8070378d
+web/http/reference/headers/content-security-policy/frame-src,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/content-security-policy/img-src,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/content-security-policy,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/content-security-policy/manifest-src,4d929bb0a021c7130d5a71a4bf505bcb8070378d
@@ -8297,7 +8301,7 @@ web/http/reference/headers/content-security-policy/require-trusted-types-for,4d9
 web/http/reference/headers/content-security-policy/sandbox,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/http/reference/headers/content-security-policy/script-src-attr,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/content-security-policy/script-src-elem,4d929bb0a021c7130d5a71a4bf505bcb8070378d
-web/http/reference/headers/content-security-policy/script-src,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
+web/http/reference/headers/content-security-policy/script-src,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0
 web/http/reference/headers/content-security-policy/style-src-attr,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/content-security-policy/style-src-elem,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/content-security-policy/style-src,4d929bb0a021c7130d5a71a4bf505bcb8070378d
@@ -8326,13 +8330,13 @@ web/http/reference/headers/if-match,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/if-modified-since,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/if-none-match,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/if-range,ad5b5e31f81795d692e66dadb7818ba8b220ad15
-web/http/reference/headers/if-unmodified-since,no_hash_commit
+web/http/reference/headers/if-unmodified-since,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/keep-alive,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/last-modified,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/link,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/location,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
-web/http/reference/headers/nel,no_hash_commit
+web/http/reference/headers/nel,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/origin,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 web/http/reference/headers/permissions-policy/accelerometer,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/permissions-policy/ambient-light-sensor,4d929bb0a021c7130d5a71a4bf505bcb8070378d
@@ -8373,17 +8377,20 @@ web/http/reference/headers/permissions-policy/web-share,4d929bb0a021c7130d5a71a4
 web/http/reference/headers/permissions-policy/window-management,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/permissions-policy/xr-spatial-tracking,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/pragma,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/priority,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/proxy-authenticate,no_hash_commit
 web/http/reference/headers/proxy-authorization,no_hash_commit
 web/http/reference/headers/range,ca1647a3e2b77cdf9df220244998f25b86629048
 web/http/reference/headers/referer,dd868507df863ab4f37d53c960c76e20e9ee365f
 web/http/reference/headers/referrer-policy,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
+web/http/reference/headers/reporting-endpoints,a019b326a3ad0c16d78d236582927a38ccaea8b4
 web/http/reference/headers/retry-after,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/sec-ch-ua,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-fetch-dest,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-fetch-mode,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-fetch-site,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-fetch-user,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/sec-websocket-protocol,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/server-timing,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/server,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/set-cookie,ac513ee8e865b8de037adee906d10fd888004cce
@@ -8408,6 +8415,7 @@ web/http/reference/headers/x-forwarded-for,ad5b5e31f81795d692e66dadb7818ba8b220a
 web/http/reference/headers/x-forwarded-host,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/x-forwarded-proto,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/x-frame-options,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/x-powered-by,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/x-robots-tag,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/x-xss-protection,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference,4d929bb0a021c7130d5a71a4bf505bcb8070378d
@@ -9674,6 +9682,7 @@ web/security/attacks,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/security/attacks/prototype_pollution,00c3b9fb6ead031e43863460add87321f262696c
 web/security/attacks/ssrf,2290fdbf9d5cf68482245d07d388b883156058ac
 web/security/attacks/subdomain_takeover,df8445288d6a7c39ef7d7c711af2189790b23831
+web/security/attacks/xs-leaks,81bf621759d3a52fdf737c2d75f186a0073d1406
 web/security/attacks/xss,b07e3b87504a8984cf31d7a735ec373d33a11cd5
 web/security/authentication,a516a9818e8cef06c626d436ee1d73fc6d87ec51
 web/security/authentication/otp,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9
@@ -9691,8 +9700,10 @@ web/security/defenses/transport_layer_security,ca26363fcc6fc861103d40ac0205e5c5b
 web/security/defenses/user_activation,0521262f24b89d6eec3199af0389147bec63d563
 web/security,dd868507df863ab4f37d53c960c76e20e9ee365f
 web/security/practical_implementation_guides/cookies,c8b9fe22c3f68116dd3aaf4ae9e7b88709c7830d
+web/security/practical_implementation_guides/cors,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 web/security/practical_implementation_guides/csp,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0
 web/security/practical_implementation_guides,86fa532a00024e7c85a4c0d6339adce8b1bd9f61
+web/security/practical_implementation_guides/mime_types,ade8d870ed7e18a71dc51fe25aa13d812fb82558
 web/security/practical_implementation_guides/robots_txt,a3693d282028046f4e0dadf0b1aa068b407d1158
 web/security/practical_implementation_guides/tls,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 web/security/practical_implementation_guides/turning_off_form_autocompletion,ade8d870ed7e18a71dc51fe25aa13d812fb82558
@@ -9712,6 +9723,7 @@ web/svg/reference/attribute/accumulate,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/additive,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/alignment-baseline,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/attribute/attributename,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/attributetype,db01d0c8b4cbf8a4467b1db65e17f6724d0ce710
 web/svg/reference/attribute/basefrequency,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/attribute/baseline-shift,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/baseprofile,06e6e54baef7032c4e81ca93291fde0a0585de8b
@@ -9838,6 +9850,7 @@ web/svg/reference/attribute/x,d559e66723de93ce6c59eb5d22a29afca7265c2a
 web/svg/reference/attribute/x1,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/x2,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/xchannelselector,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/xlink_colon_arcrole,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/xlink_colon_href,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/xml_colon_lang,e7bc0ed5466f5834641d75d416fa81886cf6b37e
 web/svg/reference/attribute/y,d559e66723de93ce6c59eb5d22a29afca7265c2a
@@ -10008,7 +10021,7 @@ web/xml/xslt/guides/common_errors,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
 web/xml/xslt/guides,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
 web/xml/xslt/guides/pi_parameters,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
 web/xml/xslt/guides/transforming_xml_with_xslt,19bf2ac9d21bb9c97591c226d68edfbc0363a237
-web/xml/xslt,no_hash_commit
+web/xml/xslt,2d19a88d0cc560f031a07585bf57f005fec02670
 web/xml/xslt/reference/element/apply-imports,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
 web/xml/xslt/reference/element/apply-templates,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
 web/xml/xslt/reference/element/attribute-set,3e1b5277c6451e7d27ab628f23fb9702947a7a7b

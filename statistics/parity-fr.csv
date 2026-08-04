@@ -11076,7 +11076,10 @@ web/css/reference/properties/ruby-align,1
 web/css/reference/properties/ruby-overhang,1
 web/css/reference/properties/ruby-position,2
 web/css/reference/properties/rule,null
+web/css/reference/properties/rule-color,null
+web/css/reference/properties/rule-style,null
 web/css/reference/properties/rule-visibility-items,null
+web/css/reference/properties/rule-width,null
 web/css/reference/properties/rx,0
 web/css/reference/properties/ry,0
 web/css/reference/properties/scale,0
@@ -11200,7 +11203,7 @@ web/css/reference/properties/width,0
 web/css/reference/properties/will-change,1
 web/css/reference/properties/word-break,0
 web/css/reference/properties/word-spacing,1
-web/css/reference/properties/writing-mode,1
+web/css/reference/properties/writing-mode,3
 web/css/reference/properties/x,0
 web/css/reference/properties/y,0
 web/css/reference/properties/z-index,1
@@ -12727,7 +12730,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,0
 web/javascript/reference/global_objects/isfinite,0
 web/javascript/reference/global_objects/isnan,0
-web/javascript/reference/global_objects/iterator,3
+web/javascript/reference/global_objects/iterator,4
 web/javascript/reference/global_objects/iterator/concat,0
 web/javascript/reference/global_objects/iterator/drop,0
 web/javascript/reference/global_objects/iterator/every,1

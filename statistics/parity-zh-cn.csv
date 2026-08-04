@@ -4003,7 +4003,7 @@ web/api/element/scrollsnapchange_event,null
 web/api/element/scrollsnapchanging_event,null
 web/api/element/scrollto,null
 web/api/element/scrolltop,3
-web/api/element/scrolltopmax,null
+web/api/element/scrolltopmax,0
 web/api/element/scrollwidth,1
 web/api/element/securitypolicyviolation_event,null
 web/api/element/setattribute,null
@@ -7298,7 +7298,7 @@ web/api/rtcicecandidate/tcptype,0
 web/api/rtcicecandidate/tojson,3
 web/api/rtcicecandidate/type,1
 web/api/rtcicecandidate/usernamefragment,3
-web/api/rtcicecandidatepair,0
+web/api/rtcicecandidatepair,1
 web/api/rtcicecandidatepair/local,null
 web/api/rtcicecandidatepair/remote,null
 web/api/rtcicecandidatepairstats,null
@@ -7623,8 +7623,8 @@ web/api/rtctransportstats/icerole,1
 web/api/rtctransportstats/icestate,1
 web/api/rtctransportstats/id,0
 web/api/rtctransportstats/localcertificateid,0
-web/api/rtctransportstats/packetsreceived,0
-web/api/rtctransportstats/packetssent,0
+web/api/rtctransportstats/packetsreceived,1
+web/api/rtctransportstats/packetssent,1
 web/api/rtctransportstats/remotecertificateid,0
 web/api/rtctransportstats/selectedcandidatepairchanges,0
 web/api/rtctransportstats/selectedcandidatepairid,0
@@ -11076,7 +11076,10 @@ web/css/reference/properties/ruby-align,null
 web/css/reference/properties/ruby-overhang,null
 web/css/reference/properties/ruby-position,null
 web/css/reference/properties/rule,null
+web/css/reference/properties/rule-color,null
+web/css/reference/properties/rule-style,null
 web/css/reference/properties/rule-visibility-items,null
+web/css/reference/properties/rule-width,null
 web/css/reference/properties/rx,null
 web/css/reference/properties/ry,null
 web/css/reference/properties/scale,null
@@ -11620,7 +11623,7 @@ web/html/reference/attributes/size,3
 web/html/reference/attributes/step,4
 web/html/reference/elements,1
 web/html/reference/elements/a,2
-web/html/reference/elements/abbr,3
+web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,3
 web/html/reference/elements/address,3
 web/html/reference/elements/area,8
@@ -11771,7 +11774,7 @@ web/html/reference/elements/tfoot,null
 web/html/reference/elements/th,null
 web/html/reference/elements/thead,null
 web/html/reference/elements/time,4
-web/html/reference/elements/title,null
+web/html/reference/elements/title,0
 web/html/reference/elements/tr,10
 web/html/reference/elements/track,8
 web/html/reference/elements/tt,4
@@ -11779,8 +11782,8 @@ web/html/reference/elements/u,4
 web/html/reference/elements/ul,6
 web/html/reference/elements/var,4
 web/html/reference/elements/video,10
-web/html/reference/elements/wbr,6
-web/html/reference/elements/xmp,1
+web/html/reference/elements/wbr,0
+web/html/reference/elements/xmp,0
 web/html/reference/global_attributes,null
 web/html/reference/global_attributes/accesskey,null
 web/html/reference/global_attributes/anchor,2
@@ -11790,7 +11793,7 @@ web/html/reference/global_attributes/autofocus,5
 web/html/reference/global_attributes/class,null
 web/html/reference/global_attributes/contenteditable,null
 web/html/reference/global_attributes/data-_star_,12
-web/html/reference/global_attributes/dir,null
+web/html/reference/global_attributes/dir,0
 web/html/reference/global_attributes/draggable,null
 web/html/reference/global_attributes/enterkeyhint,5
 web/html/reference/global_attributes/exportparts,3
@@ -12727,7 +12730,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,null
 web/javascript/reference/global_objects/isfinite,null
 web/javascript/reference/global_objects/isnan,6
-web/javascript/reference/global_objects/iterator,20
+web/javascript/reference/global_objects/iterator,21
 web/javascript/reference/global_objects/iterator/concat,null
 web/javascript/reference/global_objects/iterator/drop,5
 web/javascript/reference/global_objects/iterator/every,7
