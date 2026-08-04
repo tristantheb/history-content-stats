@@ -3027,7 +3027,7 @@ web/api/crashreportcontext,c53bfa01f3bf436d486f4032c16f592855a2af2c,Web APIs
 web/api/crashreportcontext/delete,c53bfa01f3bf436d486f4032c16f592855a2af2c,Web APIs
 web/api/crashreportcontext/initialize,c9773fc1268b974b6c009208b259c53954c839ef,Web APIs
 web/api/crashreportcontext/set,c53bfa01f3bf436d486f4032c16f592855a2af2c,Web APIs
-web/api/createmonitor,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web APIs
+web/api/createmonitor,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
 web/api/createmonitor/downloadprogress_event,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web APIs
 web/api/credential,0266df57cb5eb52a057e305ba12d49c93f0edb7e,Web APIs
 web/api/credential/id,952db471d65c30302c44388edf3c0aa094874319,Web APIs
@@ -5777,6 +5777,18 @@ web/api/languagedetector/detect,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web API
 web/api/languagedetector/expectedinputlanguages,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
 web/api/languagedetector/inputquota,613cb65038a6b572f78ce5f83c711ec2611599fb,Web APIs
 web/api/languagedetector/measureinputusage,613cb65038a6b572f78ce5f83c711ec2611599fb,Web APIs
+web/api/languagemodel,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel/append,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel/availability_static,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel/clone,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel/contextoverflow_event,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel/contextusage,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel/contextwindow,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel/create_static,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel/destroy,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel/measurecontextusage,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel/prompt,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel/promptstreaming,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
 web/api/largestcontentfulpaint,c46f0b3d68f5b4ed87a571bbdbce75244c5fe333,Web APIs
 web/api/largestcontentfulpaint/element,92eab76b7686dadbce22affd372889bc2154f4ef,Web APIs
 web/api/largestcontentfulpaint/id,92eab76b7686dadbce22affd372889bc2154f4ef,Web APIs
@@ -6973,6 +6985,11 @@ web/api/promiserejectionevent,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
 web/api/promiserejectionevent/promise,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
 web/api/promiserejectionevent/promiserejectionevent,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
 web/api/promiserejectionevent/reason,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
+web/api/prompt_api,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/prompt_api/adding_context,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/prompt_api/multimodal,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/prompt_api/preserving_sessions,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/prompt_api/using,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
 web/api/publickeycredential,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,Web APIs
 web/api/publickeycredential/authenticatorattachment,eb18c44b6758003b85228455e54c491bc98ef0c3,Web APIs
 web/api/publickeycredential/getclientcapabilities_static,a060aa315813bd1e69e4a43d7aed241f649e7e0d,Web APIs
@@ -8113,7 +8130,7 @@ web/api/summarizer/sharedcontext,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web AP
 web/api/summarizer/summarize,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
 web/api/summarizer/summarizestreaming,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
 web/api/summarizer/type,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web APIs
-web/api/summarizer_api,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
+web/api/summarizer_api,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
 web/api/summarizer_api/using,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
 web/api/svg_api,d559e66723de93ce6c59eb5d22a29afca7265c2a,Web APIs
 web/api/svgaelement,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
@@ -8888,7 +8905,7 @@ web/api/translator/sourcelanguage,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web A
 web/api/translator/targetlanguage,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
 web/api/translator/translate,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
 web/api/translator/translatestreaming,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
-web/api/translator_and_language_detector_apis,8cae6b8c772e3f9ce2fbd73cad17fcb0adda966f,Web APIs
+web/api/translator_and_language_detector_apis,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
 web/api/translator_and_language_detector_apis/using,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
 web/api/treewalker,30ae43a0c98ab92f750fd571d7a3a8ee8b15b4c0,Web APIs
 web/api/treewalker/currentnode,732ac4c3e442b1b5ddc5f08ec83d69dead2a04e8,Web APIs
@@ -11977,7 +11994,7 @@ web/http/reference/headers/no-vary-search,87ca9db1ebe56eb20c1f20b91fca43955d8f0e
 web/http/reference/headers/observe-browsing-topics,c807b72777506cd8aaa8d888b7a187dbc6079ca1,HTTP|Headers
 web/http/reference/headers/origin,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,HTTP|Headers
 web/http/reference/headers/origin-agent-cluster,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
-web/http/reference/headers/permissions-policy,75016e5d37ecff3b11de4c2ef6665178f654797e,HTTP|Headers
+web/http/reference/headers/permissions-policy,7a2016c1eec26048dce86e8af0b2127395db7f46,HTTP|Headers
 web/http/reference/headers/permissions-policy-report-only,dd1e8282ab6621b62399d65cad46177d426d1d93,HTTP|Headers
 web/http/reference/headers/permissions-policy/accelerometer,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/permissions-policy/ambient-light-sensor,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -12003,6 +12020,7 @@ web/http/reference/headers/permissions-policy/hid,ad5b5e31f81795d692e66dadb7818b
 web/http/reference/headers/permissions-policy/identity-credentials-get,8cd7f0fdcb2ea8d53ec7dae071eb2eb76bf5bfaf,HTTP|Headers
 web/http/reference/headers/permissions-policy/idle-detection,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/permissions-policy/language-detector,8cae6b8c772e3f9ce2fbd73cad17fcb0adda966f,HTTP|Headers
+web/http/reference/headers/permissions-policy/language-model,7a2016c1eec26048dce86e8af0b2127395db7f46,HTTP|Headers
 web/http/reference/headers/permissions-policy/local-fonts,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/permissions-policy/local-network,75016e5d37ecff3b11de4c2ef6665178f654797e,HTTP|Headers
 web/http/reference/headers/permissions-policy/local-network-access,75016e5d37ecff3b11de4c2ef6665178f654797e,HTTP|Headers
@@ -13732,7 +13750,7 @@ web/security/defenses/secure_contexts,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,S
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Security|Defenses
 web/security/defenses/subresource_integrity,fef6630e9b90f9794d3194ea8389ff70599c6884,Security|Defenses
 web/security/defenses/transport_layer_security,c49748a0ce4fdf77427e29cb6edbca8953a514e7,Security|Defenses
-web/security/defenses/user_activation,6f8aa84681bf6f94fd93f5d3f999a4d4c0764344,Security|Defenses
+web/security/defenses/user_activation,7a2016c1eec26048dce86e8af0b2127395db7f46,Security|Defenses
 web/security/practical_implementation_guides,86fa532a00024e7c85a4c0d6339adce8b1bd9f61,Security|Practical Implementation Guides
 web/security/practical_implementation_guides/cookies,c8b9fe22c3f68116dd3aaf4ae9e7b88709c7830d,Security|Practical Implementation Guides
 web/security/practical_implementation_guides/corp,ade8d870ed7e18a71dc51fe25aa13d812fb82558,Security|Practical Implementation Guides

@@ -5777,6 +5777,18 @@ web/api/languagedetector/detect,null
 web/api/languagedetector/expectedinputlanguages,null
 web/api/languagedetector/inputquota,null
 web/api/languagedetector/measureinputusage,null
+web/api/languagemodel,null
+web/api/languagemodel/append,null
+web/api/languagemodel/availability_static,null
+web/api/languagemodel/clone,null
+web/api/languagemodel/contextoverflow_event,null
+web/api/languagemodel/contextusage,null
+web/api/languagemodel/contextwindow,null
+web/api/languagemodel/create_static,null
+web/api/languagemodel/destroy,null
+web/api/languagemodel/measurecontextusage,null
+web/api/languagemodel/prompt,null
+web/api/languagemodel/promptstreaming,null
 web/api/largestcontentfulpaint,2
 web/api/largestcontentfulpaint/element,null
 web/api/largestcontentfulpaint/id,null
@@ -6973,6 +6985,11 @@ web/api/promiserejectionevent,null
 web/api/promiserejectionevent/promise,null
 web/api/promiserejectionevent/promiserejectionevent,null
 web/api/promiserejectionevent/reason,null
+web/api/prompt_api,null
+web/api/prompt_api/adding_context,null
+web/api/prompt_api/multimodal,null
+web/api/prompt_api/preserving_sessions,null
+web/api/prompt_api/using,null
 web/api/publickeycredential,null
 web/api/publickeycredential/authenticatorattachment,null
 web/api/publickeycredential/getclientcapabilities_static,null
@@ -8113,7 +8130,7 @@ web/api/summarizer/sharedcontext,null
 web/api/summarizer/summarize,null
 web/api/summarizer/summarizestreaming,null
 web/api/summarizer/type,null
-web/api/summarizer_api,2
+web/api/summarizer_api,3
 web/api/summarizer_api/using,null
 web/api/svg_api,1
 web/api/svgaelement,null
@@ -11977,7 +11994,7 @@ web/http/reference/headers/no-vary-search,null
 web/http/reference/headers/observe-browsing-topics,null
 web/http/reference/headers/origin,null
 web/http/reference/headers/origin-agent-cluster,null
-web/http/reference/headers/permissions-policy,1
+web/http/reference/headers/permissions-policy,2
 web/http/reference/headers/permissions-policy-report-only,null
 web/http/reference/headers/permissions-policy/accelerometer,3
 web/http/reference/headers/permissions-policy/ambient-light-sensor,3
@@ -12003,6 +12020,7 @@ web/http/reference/headers/permissions-policy/hid,null
 web/http/reference/headers/permissions-policy/identity-credentials-get,null
 web/http/reference/headers/permissions-policy/idle-detection,null
 web/http/reference/headers/permissions-policy/language-detector,null
+web/http/reference/headers/permissions-policy/language-model,null
 web/http/reference/headers/permissions-policy/local-fonts,2
 web/http/reference/headers/permissions-policy/local-network,null
 web/http/reference/headers/permissions-policy/local-network-access,null
