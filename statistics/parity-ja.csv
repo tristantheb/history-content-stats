@@ -5777,6 +5777,18 @@ web/api/languagedetector/detect,null
 web/api/languagedetector/expectedinputlanguages,null
 web/api/languagedetector/inputquota,null
 web/api/languagedetector/measureinputusage,null
+web/api/languagemodel,null
+web/api/languagemodel/append,null
+web/api/languagemodel/availability_static,null
+web/api/languagemodel/clone,null
+web/api/languagemodel/contextoverflow_event,null
+web/api/languagemodel/contextusage,null
+web/api/languagemodel/contextwindow,null
+web/api/languagemodel/create_static,null
+web/api/languagemodel/destroy,null
+web/api/languagemodel/measurecontextusage,null
+web/api/languagemodel/prompt,null
+web/api/languagemodel/promptstreaming,null
 web/api/largestcontentfulpaint,0
 web/api/largestcontentfulpaint/element,0
 web/api/largestcontentfulpaint/id,0
@@ -6973,6 +6985,11 @@ web/api/promiserejectionevent,5
 web/api/promiserejectionevent/promise,5
 web/api/promiserejectionevent/promiserejectionevent,5
 web/api/promiserejectionevent/reason,4
+web/api/prompt_api,null
+web/api/prompt_api/adding_context,null
+web/api/prompt_api/multimodal,null
+web/api/prompt_api/preserving_sessions,null
+web/api/prompt_api/using,null
 web/api/publickeycredential,0
 web/api/publickeycredential/authenticatorattachment,0
 web/api/publickeycredential/getclientcapabilities_static,0
@@ -11977,7 +11994,7 @@ web/http/reference/headers/no-vary-search,null
 web/http/reference/headers/observe-browsing-topics,null
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,null
-web/http/reference/headers/permissions-policy,2
+web/http/reference/headers/permissions-policy,3
 web/http/reference/headers/permissions-policy-report-only,null
 web/http/reference/headers/permissions-policy/accelerometer,2
 web/http/reference/headers/permissions-policy/ambient-light-sensor,2
@@ -12003,6 +12020,7 @@ web/http/reference/headers/permissions-policy/hid,2
 web/http/reference/headers/permissions-policy/identity-credentials-get,3
 web/http/reference/headers/permissions-policy/idle-detection,2
 web/http/reference/headers/permissions-policy/language-detector,null
+web/http/reference/headers/permissions-policy/language-model,null
 web/http/reference/headers/permissions-policy/local-fonts,2
 web/http/reference/headers/permissions-policy/local-network,null
 web/http/reference/headers/permissions-policy/local-network-access,null
@@ -13732,7 +13750,7 @@ web/security/defenses/secure_contexts,0
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,1
 web/security/defenses/subresource_integrity,2
 web/security/defenses/transport_layer_security,2
-web/security/defenses/user_activation,1
+web/security/defenses/user_activation,2
 web/security/practical_implementation_guides,0
 web/security/practical_implementation_guides/cookies,0
 web/security/practical_implementation_guides/corp,null

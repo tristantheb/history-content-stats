@@ -5777,6 +5777,18 @@ web/api/languagedetector/detect,null
 web/api/languagedetector/expectedinputlanguages,null
 web/api/languagedetector/inputquota,null
 web/api/languagedetector/measureinputusage,null
+web/api/languagemodel,null
+web/api/languagemodel/append,null
+web/api/languagemodel/availability_static,null
+web/api/languagemodel/clone,null
+web/api/languagemodel/contextoverflow_event,null
+web/api/languagemodel/contextusage,null
+web/api/languagemodel/contextwindow,null
+web/api/languagemodel/create_static,null
+web/api/languagemodel/destroy,null
+web/api/languagemodel/measurecontextusage,null
+web/api/languagemodel/prompt,null
+web/api/languagemodel/promptstreaming,null
 web/api/largestcontentfulpaint,null
 web/api/largestcontentfulpaint/element,null
 web/api/largestcontentfulpaint/id,null
@@ -6973,6 +6985,11 @@ web/api/promiserejectionevent,null
 web/api/promiserejectionevent/promise,null
 web/api/promiserejectionevent/promiserejectionevent,null
 web/api/promiserejectionevent/reason,null
+web/api/prompt_api,null
+web/api/prompt_api/adding_context,null
+web/api/prompt_api/multimodal,null
+web/api/prompt_api/preserving_sessions,null
+web/api/prompt_api/using,null
 web/api/publickeycredential,null
 web/api/publickeycredential/authenticatorattachment,null
 web/api/publickeycredential/getclientcapabilities_static,null
@@ -12003,6 +12020,7 @@ web/http/reference/headers/permissions-policy/hid,null
 web/http/reference/headers/permissions-policy/identity-credentials-get,null
 web/http/reference/headers/permissions-policy/idle-detection,null
 web/http/reference/headers/permissions-policy/language-detector,null
+web/http/reference/headers/permissions-policy/language-model,null
 web/http/reference/headers/permissions-policy/local-fonts,null
 web/http/reference/headers/permissions-policy/local-network,null
 web/http/reference/headers/permissions-policy/local-network-access,null
@@ -13732,7 +13750,7 @@ web/security/defenses/secure_contexts,2
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,3
 web/security/defenses/subresource_integrity,4
 web/security/defenses/transport_layer_security,4
-web/security/defenses/user_activation,4
+web/security/defenses/user_activation,5
 web/security/practical_implementation_guides,6
 web/security/practical_implementation_guides/cookies,null
 web/security/practical_implementation_guides/corp,null
