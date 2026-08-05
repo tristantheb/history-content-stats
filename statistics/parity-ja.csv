@@ -211,7 +211,7 @@ glossary/digital_certificate,2
 glossary/digital_signature,2
 glossary/distributed_denial_of_service,null
 glossary/dmz,1
-glossary/dns,null
+glossary/dns,0
 glossary/doctype,0
 glossary/document_directive,null
 glossary/document_environment,2
@@ -284,7 +284,7 @@ glossary/global_object,0
 glossary/global_scope,1
 glossary/global_variable,null
 glossary/glyph,null
-glossary/google_chrome,null
+glossary/google_chrome,0
 glossary/gpl,null
 glossary/gpu,null
 glossary/graceful_degradation,null
@@ -350,7 +350,7 @@ glossary/internet,null
 glossary/interpolation,4
 glossary/intrinsic_size,0
 glossary/invariant,null
-glossary/ip_address,null
+glossary/ip_address,0
 glossary/ipv4,null
 glossary/ipv6,null
 glossary/irc,0
@@ -680,7 +680,7 @@ glossary/windowproxy,5
 glossary/world_wide_web,2
 glossary/wrapper,2
 glossary/xforms,null
-glossary/xhtml,null
+glossary/xhtml,0
 glossary/xinclude,6
 glossary/xlink,3
 glossary/xml,null
@@ -1904,7 +1904,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,7
+mozilla/firefox/experimental_features,8
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -3881,7 +3881,7 @@ web/api/element/attachshadow,0
 web/api/element/attributes,2
 web/api/element/auxclick_event,5
 web/api/element/before,3
-web/api/element/beforeinput_event,null
+web/api/element/beforeinput_event,0
 web/api/element/beforematch_event,6
 web/api/element/beforescriptexecute_event,4
 web/api/element/beforexrselect_event,4
@@ -9798,7 +9798,7 @@ web/api/window/languagechange_event,null
 web/api/window/launchqueue,1
 web/api/window/length,0
 web/api/window/load_event,9
-web/api/window/localstorage,1
+web/api/window/localstorage,0
 web/api/window/location,1
 web/api/window/locationbar,0
 web/api/window/matchmedia,0
@@ -11798,7 +11798,7 @@ web/html/reference/elements/tt,0
 web/html/reference/elements/u,0
 web/html/reference/elements/ul,2
 web/html/reference/elements/var,0
-web/html/reference/elements/video,1
+web/html/reference/elements/video,0
 web/html/reference/elements/wbr,0
 web/html/reference/elements/xmp,0
 web/html/reference/global_attributes,0
@@ -12402,7 +12402,7 @@ web/javascript/reference/global_objects,0
 web/javascript/reference/global_objects/aggregateerror,0
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,1
 web/javascript/reference/global_objects/aggregateerror/errors,0
-web/javascript/reference/global_objects/array,1
+web/javascript/reference/global_objects/array,0
 web/javascript/reference/global_objects/array/array,0
 web/javascript/reference/global_objects/array/at,1
 web/javascript/reference/global_objects/array/concat,0
@@ -13734,7 +13734,7 @@ web/security/attacks/supply_chain_attacks,null
 web/security/attacks/xs-leaks,0
 web/security/attacks/xss,3
 web/security/authentication,0
-web/security/authentication/federated_identity,null
+web/security/authentication/federated_identity,0
 web/security/authentication/otp,1
 web/security/authentication/passkeys,0
 web/security/authentication/passwords,0
@@ -13757,7 +13757,7 @@ web/security/practical_implementation_guides/corp,null
 web/security/practical_implementation_guides/cors,0
 web/security/practical_implementation_guides/csp,0
 web/security/practical_implementation_guides/mime_types,0
-web/security/practical_implementation_guides/referrer_policy,null
+web/security/practical_implementation_guides/referrer_policy,0
 web/security/practical_implementation_guides/robots_txt,0
 web/security/practical_implementation_guides/sri,null
 web/security/practical_implementation_guides/tls,0

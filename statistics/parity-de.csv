@@ -17,7 +17,7 @@ games/techniques/3d_on_the_web/building_up_a_basic_demo_with_babylon.js,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/editor,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/engine,0
-games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,0
+games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,1
 games/techniques/3d_on_the_web/glsl_shaders,0
 games/techniques/3d_on_the_web/webxr,0
 games/techniques/async_scripts,0
@@ -1904,7 +1904,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
-mozilla/firefox/releases/154,0
+mozilla/firefox/releases/154,1
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
