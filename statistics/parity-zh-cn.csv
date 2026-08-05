@@ -267,7 +267,7 @@ glossary/flexbox,5
 glossary/flow_relative_values,2
 glossary/forbidden_request_header,8
 glossary/forbidden_response_header_name,4
-glossary/fork,4
+glossary/fork,5
 glossary/fps,2
 glossary/fragmentainer,4
 glossary/ftp,2
@@ -1084,7 +1084,7 @@ mdn/writing_guidelines/howto/creating_moving_deleting,null
 mdn/writing_guidelines/howto/document_a_css_property,null
 mdn/writing_guidelines/howto/document_an_http_header,null
 mdn/writing_guidelines/howto/document_web_errors,null
-mdn/writing_guidelines/howto/images_media,11
+mdn/writing_guidelines/howto/images_media,12
 mdn/writing_guidelines/howto/json_structured_data,null
 mdn/writing_guidelines/howto/markdown_in_mdn,0
 mdn/writing_guidelines/howto/research_technology,null
@@ -1773,7 +1773,7 @@ mozilla/add-ons/webextensions/api/webrequest/httpheaders,2
 mozilla/add-ons/webextensions/api/webrequest/max_handler_behavior_changed_calls_per_10_minutes,3
 mozilla/add-ons/webextensions/api/webrequest/onauthrequired,8
 mozilla/add-ons/webextensions/api/webrequest/onbeforeredirect,6
-mozilla/add-ons/webextensions/api/webrequest/onbeforerequest,7
+mozilla/add-ons/webextensions/api/webrequest/onbeforerequest,8
 mozilla/add-ons/webextensions/api/webrequest/onbeforesendheaders,6
 mozilla/add-ons/webextensions/api/webrequest/oncompleted,6
 mozilla/add-ons/webextensions/api/webrequest/onerroroccurred,6
@@ -10417,7 +10417,7 @@ web/css/guides/flexible_box_layout/use_cases,5
 web/css/guides/flexible_box_layout/wrapping_items,null
 web/css/guides/font_loading,null
 web/css/guides/fonts,null
-web/css/guides/fonts/opentype_fonts,1
+web/css/guides/fonts/opentype_fonts,2
 web/css/guides/fonts/variable_fonts,null
 web/css/guides/fonts/woff,null
 web/css/guides/fragmentation,null
@@ -11217,7 +11217,7 @@ web/css/reference/properties/white-space,7
 web/css/reference/properties/white-space-collapse,null
 web/css/reference/properties/widows,null
 web/css/reference/properties/width,null
-web/css/reference/properties/will-change,2
+web/css/reference/properties/will-change,3
 web/css/reference/properties/word-break,null
 web/css/reference/properties/word-spacing,5
 web/css/reference/properties/writing-mode,null
@@ -11693,7 +11693,7 @@ web/html/reference/elements/hgroup,null
 web/html/reference/elements/hr,null
 web/html/reference/elements/html,5
 web/html/reference/elements/i,1
-web/html/reference/elements/iframe,19
+web/html/reference/elements/iframe,20
 web/html/reference/elements/img,15
 web/html/reference/elements/input,4
 web/html/reference/elements/input/button,null
@@ -11778,7 +11778,7 @@ web/html/reference/elements/source,7
 web/html/reference/elements/span,5
 web/html/reference/elements/strike,3
 web/html/reference/elements/strong,null
-web/html/reference/elements/style,14
+web/html/reference/elements/style,15
 web/html/reference/elements/sub,4
 web/html/reference/elements/summary,null
 web/html/reference/elements/sup,3

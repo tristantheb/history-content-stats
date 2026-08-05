@@ -267,7 +267,7 @@ glossary/flexbox,5
 glossary/flow_relative_values,null
 glossary/forbidden_request_header,8
 glossary/forbidden_response_header_name,4
-glossary/fork,5
+glossary/fork,6
 glossary/fps,3
 glossary/fragmentainer,4
 glossary/ftp,2
@@ -1057,7 +1057,7 @@ mdn/community/communication_channels,3
 mdn/community/community_participation_guidelines,null
 mdn/community/discussions,null
 mdn/community/discussions/managing_and_resolving_discussions,null
-mdn/community/getting_started,7
+mdn/community/getting_started,8
 mdn/community/issues,null
 mdn/community/issues/content_suggestions_feature_proposals,null
 mdn/community/learn_forum,null
@@ -11463,7 +11463,7 @@ web/css/reference/values/easing-function/cubic-bezier,null
 web/css/reference/values/easing-function/linear,null
 web/css/reference/values/easing-function/steps,null
 web/css/reference/values/element,null
-web/css/reference/values/env,5
+web/css/reference/values/env,6
 web/css/reference/values/exp,null
 web/css/reference/values/filter-function,null
 web/css/reference/values/filter-function/blur,null
