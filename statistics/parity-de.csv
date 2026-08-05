@@ -1904,7 +1904,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,1
+mozilla/firefox/experimental_features,2
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1971,7 +1971,7 @@ mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
-mozilla/firefox/releases/154,1
+mozilla/firefox/releases/154,2
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -14134,12 +14134,17 @@ web/webdriver/reference/classic,0
 web/webdriver/reference/classic/commands,0
 web/webdriver/reference/classic/commands/back,0
 web/webdriver/reference/classic/commands/closewindow,0
+web/webdriver/reference/classic/commands/createvirtualpressuresource,null
+web/webdriver/reference/classic/commands/createvirtualsensor,null
+web/webdriver/reference/classic/commands/deletevirtualpressuresource,null
+web/webdriver/reference/classic/commands/deletevirtualsensor,null
 web/webdriver/reference/classic/commands/forward,0
 web/webdriver/reference/classic/commands/getelementattribute,0
 web/webdriver/reference/classic/commands/getelementproperty,0
 web/webdriver/reference/classic/commands/getelementtagname,0
 web/webdriver/reference/classic/commands/gettimeouts,0
 web/webdriver/reference/classic/commands/gettitle,0
+web/webdriver/reference/classic/commands/getvirtualsensorinformation,null
 web/webdriver/reference/classic/commands/getwindowhandles,0
 web/webdriver/reference/classic/commands/getwindowrect,0
 web/webdriver/reference/classic/commands/newsession,0
@@ -14147,6 +14152,8 @@ web/webdriver/reference/classic/commands/newwindow,0
 web/webdriver/reference/classic/commands/refresh,0
 web/webdriver/reference/classic/commands/settimeouts,0
 web/webdriver/reference/classic/commands/setwindowrect,0
+web/webdriver/reference/classic/commands/updatevirtualpressuresource,null
+web/webdriver/reference/classic/commands/updatevirtualsensorreading,null
 web/webdriver/reference/classic/timeouts,0
 web/webdriver/reference/errors,0
 web/webdriver/reference/errors/insecurecertificate,0

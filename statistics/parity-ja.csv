@@ -1904,7 +1904,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,8
+mozilla/firefox/experimental_features,9
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -14134,12 +14134,17 @@ web/webdriver/reference/classic,0
 web/webdriver/reference/classic/commands,0
 web/webdriver/reference/classic/commands/back,null
 web/webdriver/reference/classic/commands/closewindow,null
+web/webdriver/reference/classic/commands/createvirtualpressuresource,null
+web/webdriver/reference/classic/commands/createvirtualsensor,null
+web/webdriver/reference/classic/commands/deletevirtualpressuresource,null
+web/webdriver/reference/classic/commands/deletevirtualsensor,null
 web/webdriver/reference/classic/commands/forward,null
 web/webdriver/reference/classic/commands/getelementattribute,null
 web/webdriver/reference/classic/commands/getelementproperty,null
 web/webdriver/reference/classic/commands/getelementtagname,null
 web/webdriver/reference/classic/commands/gettimeouts,null
 web/webdriver/reference/classic/commands/gettitle,null
+web/webdriver/reference/classic/commands/getvirtualsensorinformation,null
 web/webdriver/reference/classic/commands/getwindowhandles,null
 web/webdriver/reference/classic/commands/getwindowrect,null
 web/webdriver/reference/classic/commands/newsession,null
@@ -14147,6 +14152,8 @@ web/webdriver/reference/classic/commands/newwindow,null
 web/webdriver/reference/classic/commands/refresh,null
 web/webdriver/reference/classic/commands/settimeouts,null
 web/webdriver/reference/classic/commands/setwindowrect,null
+web/webdriver/reference/classic/commands/updatevirtualpressuresource,null
+web/webdriver/reference/classic/commands/updatevirtualsensorreading,null
 web/webdriver/reference/classic/timeouts,null
 web/webdriver/reference/errors,1
 web/webdriver/reference/errors/insecurecertificate,null
