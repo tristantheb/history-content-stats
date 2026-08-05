@@ -17,7 +17,7 @@ games/techniques/3d_on_the_web/building_up_a_basic_demo_with_babylon.js,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas,1
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/editor,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/engine,null
-games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,2
+games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,3
 games/techniques/3d_on_the_web/glsl_shaders,null
 games/techniques/3d_on_the_web/webxr,null
 games/techniques/async_scripts,null
@@ -14059,7 +14059,7 @@ web/svg/tutorials/svg_from_scratch/gradients,null
 web/svg/tutorials/svg_from_scratch/image_element,null
 web/svg/tutorials/svg_from_scratch/introduction,null
 web/svg/tutorials/svg_from_scratch/other_content_in_svg,null
-web/svg/tutorials/svg_from_scratch/paths,null
+web/svg/tutorials/svg_from_scratch/paths,0
 web/svg/tutorials/svg_from_scratch/patterns,null
 web/svg/tutorials/svg_from_scratch/positions,null
 web/svg/tutorials/svg_from_scratch/svg_and_css,null
