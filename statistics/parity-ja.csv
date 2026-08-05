@@ -690,7 +690,7 @@ glossary/xquery,null
 glossary/xslt,2
 glossary/zstandard_compression,null
 learn_web_development,3
-learn_web_development/about,0
+learn_web_development/about,1
 learn_web_development/changelog,2
 learn_web_development/core,8
 learn_web_development/core/accessibility,3
@@ -869,7 +869,7 @@ learn_web_development/core/text_styling/styling_links,5
 learn_web_development/core/text_styling/styling_lists,6
 learn_web_development/core/text_styling/typesetting_a_homepage,8
 learn_web_development/core/text_styling/web_fonts,10
-learn_web_development/core/version_control,7
+learn_web_development/core/version_control,8
 learn_web_development/educators,3
 learn_web_development/extensions,0
 learn_web_development/extensions/advanced_javascript_objects,0
@@ -1057,13 +1057,13 @@ mdn/community/communication_channels,5
 mdn/community/community_participation_guidelines,3
 mdn/community/discussions,1
 mdn/community/discussions/managing_and_resolving_discussions,1
-mdn/community/getting_started,5
+mdn/community/getting_started,6
 mdn/community/issues,11
 mdn/community/issues/content_suggestions_feature_proposals,0
 mdn/community/learn_forum,0
 mdn/community/open_source_etiquette,0
 mdn/community/our_repositories,1
-mdn/community/pull_requests,6
+mdn/community/pull_requests,7
 mdn/community/roles_teams,7
 mdn/community/translated_content,3
 mdn/guides,1
@@ -1084,7 +1084,7 @@ mdn/writing_guidelines/howto/creating_moving_deleting,1
 mdn/writing_guidelines/howto/document_a_css_property,2
 mdn/writing_guidelines/howto/document_an_http_header,6
 mdn/writing_guidelines/howto/document_web_errors,3
-mdn/writing_guidelines/howto/images_media,0
+mdn/writing_guidelines/howto/images_media,1
 mdn/writing_guidelines/howto/json_structured_data,8
 mdn/writing_guidelines/howto/markdown_in_mdn,9
 mdn/writing_guidelines/howto/research_technology,5
@@ -1830,7 +1830,7 @@ mozilla/add-ons/webextensions/implement_a_settings_page,null
 mozilla/add-ons/webextensions/interact_with_the_clipboard,14
 mozilla/add-ons/webextensions/intercept_http_requests,6
 mozilla/add-ons/webextensions/internationalization,0
-mozilla/add-ons/webextensions/manifest.json,2
+mozilla/add-ons/webextensions/manifest.json,3
 mozilla/add-ons/webextensions/manifest.json/action,null
 mozilla/add-ons/webextensions/manifest.json/author,null
 mozilla/add-ons/webextensions/manifest.json/background,null
@@ -1993,7 +1993,7 @@ mozilla/firefox/releases/28,null
 mozilla/firefox/releases/29,null
 mozilla/firefox/releases/3,0
 mozilla/firefox/releases/3.5,0
-mozilla/firefox/releases/3.5/icc_color_correction_in_firefox,0
+mozilla/firefox/releases/3.5/icc_color_correction_in_firefox,1
 mozilla/firefox/releases/3.5/security_changes,0
 mozilla/firefox/releases/3.5/updating_extensions,0
 mozilla/firefox/releases/3.6,0
@@ -3421,7 +3421,7 @@ web/api/decompressionstream/readable,6
 web/api/decompressionstream/writable,6
 web/api/dedicatedworkerglobalscope,0
 web/api/dedicatedworkerglobalscope/cancelanimationframe,0
-web/api/dedicatedworkerglobalscope/close,4
+web/api/dedicatedworkerglobalscope/close,5
 web/api/dedicatedworkerglobalscope/message_event,7
 web/api/dedicatedworkerglobalscope/messageerror_event,8
 web/api/dedicatedworkerglobalscope/name,4
@@ -3920,7 +3920,7 @@ web/api/element/fullscreenerror_event,2
 web/api/element/gesturechange_event,2
 web/api/element/gestureend_event,2
 web/api/element/gesturestart_event,2
-web/api/element/getanimations,6
+web/api/element/getanimations,7
 web/api/element/getattribute,4
 web/api/element/getattributenames,0
 web/api/element/getattributenode,2
@@ -3952,7 +3952,7 @@ web/api/element/lostpointercapture_event,7
 web/api/element/matches,1
 web/api/element/mousedown_event,7
 web/api/element/mouseenter_event,8
-web/api/element/mouseleave_event,8
+web/api/element/mouseleave_event,9
 web/api/element/mousemove_event,7
 web/api/element/mouseout_event,8
 web/api/element/mouseover_event,8
@@ -5354,7 +5354,7 @@ web/api/htmlslotelement/assign,4
 web/api/htmlslotelement/assignedelements,1
 web/api/htmlslotelement/assignednodes,1
 web/api/htmlslotelement/name,0
-web/api/htmlslotelement/slotchange_event,5
+web/api/htmlslotelement/slotchange_event,6
 web/api/htmlsourceelement,4
 web/api/htmlsourceelement/height,null
 web/api/htmlsourceelement/media,null
@@ -6296,8 +6296,8 @@ web/api/navigationprecommitcontroller,null
 web/api/navigationprecommitcontroller/addhandler,null
 web/api/navigationprecommitcontroller/redirect,null
 web/api/navigationpreloadmanager,0
-web/api/navigationpreloadmanager/disable,0
-web/api/navigationpreloadmanager/enable,0
+web/api/navigationpreloadmanager/disable,1
+web/api/navigationpreloadmanager/enable,1
 web/api/navigationpreloadmanager/getstate,0
 web/api/navigationpreloadmanager/setheadervalue,0
 web/api/navigationtransition,null
@@ -7899,7 +7899,7 @@ web/api/sharedworker/error_event,4
 web/api/sharedworker/port,3
 web/api/sharedworker/sharedworker,11
 web/api/sharedworkerglobalscope,10
-web/api/sharedworkerglobalscope/close,3
+web/api/sharedworkerglobalscope/close,4
 web/api/sharedworkerglobalscope/connect_event,8
 web/api/sharedworkerglobalscope/name,3
 web/api/snapevent,1
@@ -9941,8 +9941,8 @@ web/api/workerglobalscope/importscripts,2
 web/api/workerglobalscope/indexeddb,1
 web/api/workerglobalscope/issecurecontext,2
 web/api/workerglobalscope/languagechange_event,3
-web/api/workerglobalscope/location,3
-web/api/workerglobalscope/navigator,2
+web/api/workerglobalscope/location,4
+web/api/workerglobalscope/navigator,3
 web/api/workerglobalscope/offline_event,2
 web/api/workerglobalscope/online_event,2
 web/api/workerglobalscope/origin,3
@@ -9952,7 +9952,7 @@ web/api/workerglobalscope/rejectionhandled_event,4
 web/api/workerglobalscope/reporterror,1
 web/api/workerglobalscope/scheduler,2
 web/api/workerglobalscope/securitypolicyviolation_event,4
-web/api/workerglobalscope/self,1
+web/api/workerglobalscope/self,2
 web/api/workerglobalscope/setinterval,2
 web/api/workerglobalscope/settimeout,2
 web/api/workerglobalscope/structuredclone,0
@@ -10417,11 +10417,11 @@ web/css/guides/flexible_box_layout/use_cases,2
 web/css/guides/flexible_box_layout/wrapping_items,0
 web/css/guides/font_loading,0
 web/css/guides/fonts,2
-web/css/guides/fonts/opentype_fonts,0
+web/css/guides/fonts/opentype_fonts,1
 web/css/guides/fonts/variable_fonts,2
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
-web/css/guides/gaps,1
+web/css/guides/gaps,2
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,4
 web/css/guides/grid_layout/accessibility,0
@@ -10494,7 +10494,7 @@ web/css/guides/round_display,null
 web/css/guides/ruby_layout,0
 web/css/guides/scoping,0
 web/css/guides/scroll-driven_animations,0
-web/css/guides/scroll-driven_animations/timeline_insets,0
+web/css/guides/scroll-driven_animations/timeline_insets,1
 web/css/guides/scroll-driven_animations/timeline_range_names,null
 web/css/guides/scroll-driven_animations/timelines,2
 web/css/guides/scroll_anchoring,0
@@ -10631,7 +10631,7 @@ web/css/reference/at-rules/@media/orientation,1
 web/css/reference/at-rules/@media/overflow-block,1
 web/css/reference/at-rules/@media/overflow-inline,1
 web/css/reference/at-rules/@media/pointer,1
-web/css/reference/at-rules/@media/prefers-color-scheme,1
+web/css/reference/at-rules/@media/prefers-color-scheme,2
 web/css/reference/at-rules/@media/prefers-contrast,1
 web/css/reference/at-rules/@media/prefers-reduced-data,2
 web/css/reference/at-rules/@media/prefers-reduced-motion,2
@@ -10670,10 +10670,10 @@ web/css/reference/properties/-webkit-border-before,0
 web/css/reference/properties/-webkit-box-reflect,0
 web/css/reference/properties/-webkit-mask-box-image,null
 web/css/reference/properties/-webkit-mask-composite,0
-web/css/reference/properties/-webkit-mask-position-x,0
-web/css/reference/properties/-webkit-mask-position-y,0
-web/css/reference/properties/-webkit-mask-repeat-x,0
-web/css/reference/properties/-webkit-mask-repeat-y,0
+web/css/reference/properties/-webkit-mask-position-x,1
+web/css/reference/properties/-webkit-mask-position-y,1
+web/css/reference/properties/-webkit-mask-repeat-x,1
+web/css/reference/properties/-webkit-mask-repeat-y,1
 web/css/reference/properties/-webkit-tap-highlight-color,0
 web/css/reference/properties/-webkit-text-fill-color,1
 web/css/reference/properties/-webkit-text-security,0
@@ -10776,7 +10776,7 @@ web/css/reference/properties/border-right,2
 web/css/reference/properties/border-right-color,2
 web/css/reference/properties/border-right-style,1
 web/css/reference/properties/border-right-width,4
-web/css/reference/properties/border-shape,0
+web/css/reference/properties/border-shape,1
 web/css/reference/properties/border-spacing,1
 web/css/reference/properties/border-start-end-radius,1
 web/css/reference/properties/border-start-start-radius,1
@@ -10821,7 +10821,7 @@ web/css/reference/properties/column-fill,0
 web/css/reference/properties/column-gap,1
 web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,0
-web/css/reference/properties/column-rule-color,0
+web/css/reference/properties/column-rule-color,1
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,1
 web/css/reference/properties/column-rule-width,0
@@ -10838,7 +10838,7 @@ web/css/reference/properties/contain-intrinsic-width,1
 web/css/reference/properties/container,2
 web/css/reference/properties/container-name,3
 web/css/reference/properties/container-type,3
-web/css/reference/properties/content,3
+web/css/reference/properties/content,4
 web/css/reference/properties/content-visibility,2
 web/css/reference/properties/corner-block-end-shape,2
 web/css/reference/properties/corner-block-start-shape,2
@@ -11084,7 +11084,7 @@ web/css/reference/properties/resize,2
 web/css/reference/properties/right,1
 web/css/reference/properties/rotate,1
 web/css/reference/properties/row-gap,2
-web/css/reference/properties/row-rule,0
+web/css/reference/properties/row-rule,1
 web/css/reference/properties/row-rule-color,0
 web/css/reference/properties/row-rule-style,0
 web/css/reference/properties/row-rule-visibility-items,1
@@ -11217,7 +11217,7 @@ web/css/reference/properties/white-space,0
 web/css/reference/properties/white-space-collapse,0
 web/css/reference/properties/widows,2
 web/css/reference/properties/width,4
-web/css/reference/properties/will-change,3
+web/css/reference/properties/will-change,4
 web/css/reference/properties/word-break,1
 web/css/reference/properties/word-spacing,4
 web/css/reference/properties/writing-mode,5
@@ -11463,7 +11463,7 @@ web/css/reference/values/easing-function/cubic-bezier,0
 web/css/reference/values/easing-function/linear,0
 web/css/reference/values/easing-function/steps,0
 web/css/reference/values/element,0
-web/css/reference/values/env,2
+web/css/reference/values/env,3
 web/css/reference/values/exp,0
 web/css/reference/values/filter-function,0
 web/css/reference/values/filter-function/blur,0
@@ -11481,7 +11481,7 @@ web/css/reference/values/fit-content_function,1
 web/css/reference/values/flex_value,1
 web/css/reference/values/frequency,1
 web/css/reference/values/frequency-percentage,0
-web/css/reference/values/functions,5
+web/css/reference/values/functions,6
 web/css/reference/values/generic-family,1
 web/css/reference/values/gradient,0
 web/css/reference/values/gradient/conic-gradient,1
@@ -11530,11 +11530,11 @@ web/css/reference/values/ratio,1
 web/css/reference/values/ray,0
 web/css/reference/values/relative-size,1
 web/css/reference/values/rem,0
-web/css/reference/values/repeat,4
+web/css/reference/values/repeat,5
 web/css/reference/values/resolution,1
 web/css/reference/values/revert,2
 web/css/reference/values/revert-layer,2
-web/css/reference/values/revert-rule,0
+web/css/reference/values/revert-rule,1
 web/css/reference/values/round,0
 web/css/reference/values/rule-list,0
 web/css/reference/values/self-position,1
@@ -11693,7 +11693,7 @@ web/html/reference/elements/hgroup,0
 web/html/reference/elements/hr,2
 web/html/reference/elements/html,1
 web/html/reference/elements/i,0
-web/html/reference/elements/iframe,3
+web/html/reference/elements/iframe,4
 web/html/reference/elements/img,1
 web/html/reference/elements/input,0
 web/html/reference/elements/input/button,1
@@ -11778,7 +11778,7 @@ web/html/reference/elements/source,0
 web/html/reference/elements/span,1
 web/html/reference/elements/strike,0
 web/html/reference/elements/strong,0
-web/html/reference/elements/style,2
+web/html/reference/elements/style,3
 web/html/reference/elements/sub,0
 web/html/reference/elements/summary,0
 web/html/reference/elements/sup,0
@@ -13674,7 +13674,7 @@ web/progressive_web_apps/how_to/associate_files_with_your_pwa,2
 web/progressive_web_apps/how_to/create_a_standalone_app,1
 web/progressive_web_apps/how_to/customize_your_app_colors,4
 web/progressive_web_apps/how_to/define_app_icons,2
-web/progressive_web_apps/how_to/display_badge_on_app_icon,2
+web/progressive_web_apps/how_to/display_badge_on_app_icon,3
 web/progressive_web_apps/how_to/expose_common_actions_as_shortcuts,4
 web/progressive_web_apps/how_to/localize_an_app_manifest,null
 web/progressive_web_apps/how_to/share_data_between_apps,3
