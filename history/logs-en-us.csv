@@ -6985,7 +6985,7 @@ web/api/promiserejectionevent,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
 web/api/promiserejectionevent/promise,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
 web/api/promiserejectionevent/promiserejectionevent,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
 web/api/promiserejectionevent/reason,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
-web/api/prompt_api,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/prompt_api,4ffb7c4d246f8f5dac5f4829b3f5b8789a62f143,Web APIs
 web/api/prompt_api/adding_context,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
 web/api/prompt_api/multimodal,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
 web/api/prompt_api/preserving_sessions,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
