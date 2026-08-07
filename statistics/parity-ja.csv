@@ -10439,7 +10439,7 @@ web/css/guides/grid_layout/relationship_with_other_layout_methods,3
 web/css/guides/grid_layout/subgrid,0
 web/css/guides/images,1
 web/css/guides/images/implementing_image_sprites,0
-web/css/guides/images/replaced_element_properties,1
+web/css/guides/images/replaced_element_properties,2
 web/css/guides/images/using_gradients,2
 web/css/guides/images/using_object-view-box,2
 web/css/guides/inline_layout,0
@@ -10535,7 +10535,7 @@ web/css/guides/values_and_units,1
 web/css/guides/values_and_units/numeric_data_types,0
 web/css/guides/values_and_units/textual_data_types,0
 web/css/guides/values_and_units/using_math_functions,0
-web/css/guides/values_and_units/using_typed_arithmetic,0
+web/css/guides/values_and_units/using_typed_arithmetic,1
 web/css/guides/values_and_units/value_definition_syntax,0
 web/css/guides/view_transitions,1
 web/css/guides/viewport,0
@@ -13780,7 +13780,7 @@ web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,3
 web/svg/guides/svg_in_html,3
 web/svg/reference,0
-web/svg/reference/attribute,4
+web/svg/reference/attribute,5
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,0
 web/svg/reference/attribute/alignment-baseline,1

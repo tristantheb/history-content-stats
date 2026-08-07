@@ -61,7 +61,7 @@ games/tutorials/2d_breakout_game_pure_javascript/create_the_canvas_and_draw_on_i
 games/tutorials/2d_breakout_game_pure_javascript/finishing_up,null
 games/tutorials/2d_breakout_game_pure_javascript/game_over,null
 games/tutorials/2d_breakout_game_pure_javascript/mouse_controls,0
-games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,null
+games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,0
 games/tutorials/2d_breakout_game_pure_javascript/paddle_and_keyboard_controls,null
 games/tutorials/2d_breakout_game_pure_javascript/track_the_score_and_win,0
 games/tutorials/html5_gamedev_phaser_device_orientation,null
@@ -3178,7 +3178,7 @@ web/api/cssmathclamp/upper,null
 web/api/cssmathclamp/value,null
 web/api/cssmathinvert,null
 web/api/cssmathinvert/cssmathinvert,null
-web/api/cssmathinvert/value,3
+web/api/cssmathinvert/value,4
 web/api/cssmathmax,null
 web/api/cssmathmax/cssmathmax,null
 web/api/cssmathmax/values,3
@@ -3993,7 +3993,7 @@ web/api/element/requestpointerlock,2
 web/api/element/role,null
 web/api/element/scroll,null
 web/api/element/scroll_event,null
-web/api/element/scrollby,null
+web/api/element/scrollby,0
 web/api/element/scrollend_event,null
 web/api/element/scrollheight,null
 web/api/element/scrollintoview,2
@@ -13780,7 +13780,7 @@ web/svg/guides/svg_as_an_image,3
 web/svg/guides/svg_filters,null
 web/svg/guides/svg_in_html,null
 web/svg/reference,0
-web/svg/reference/attribute,15
+web/svg/reference/attribute,16
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,1
 web/svg/reference/attribute/alignment-baseline,5
@@ -13798,7 +13798,7 @@ web/svg/reference/attribute/by,null
 web/svg/reference/attribute/calcmode,null
 web/svg/reference/attribute/class,null
 web/svg/reference/attribute/clip,null
-web/svg/reference/attribute/clip-path,null
+web/svg/reference/attribute/clip-path,0
 web/svg/reference/attribute/clip-rule,null
 web/svg/reference/attribute/clippathunits,null
 web/svg/reference/attribute/color,null

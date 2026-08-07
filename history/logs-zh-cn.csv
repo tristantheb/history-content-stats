@@ -46,7 +46,7 @@ games/tutorials/2d_breakout_game_pure_javascript/finishing_up,no_hash_commit
 games/tutorials/2d_breakout_game_pure_javascript/game_over,no_hash_commit
 games/tutorials/2d_breakout_game_pure_javascript,4483da6501d1c735a0e1ac1e95775e2fe1766dc3
 games/tutorials/2d_breakout_game_pure_javascript/mouse_controls,1a0be468b9e7c88a09ea3438a81341c4f6a619a6
-games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,no_hash_commit
+games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,2530db14de9ac226cf06f84540fa0101e804ca9b
 games/tutorials/2d_breakout_game_pure_javascript/paddle_and_keyboard_controls,no_hash_commit
 games/tutorials/2d_breakout_game_pure_javascript/track_the_score_and_win,6036cd414b2214f85901158bdf3e3a96123d4553
 games/tutorials,no_hash_commit
@@ -2672,7 +2672,7 @@ web/api/element/requestfullscreen,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/api/element/requestpointerlock,d0b23f3f26637aa405ee9ee0a0892fc6e9b742ef
 web/api/element/scroll,no_hash_commit
 web/api/element/scroll_event,no_hash_commit
-web/api/element/scrollby,no_hash_commit
+web/api/element/scrollby,afcdfa050626bb7eb05ee693df8997020db9ff2e
 web/api/element/scrollheight,no_hash_commit
 web/api/element/scrollintoview,e4ac7f209c4066e17b645535d9b6f726aae01b63
 web/api/element/scrollintoviewifneeded,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
@@ -7334,7 +7334,7 @@ web/svg/reference/attribute/basefrequency,829db137a01feb14af7beaec178a3ea0118b47
 web/svg/reference/attribute/baseline-shift,a7615ee2f9e22946edff7633962bc1d9eee9e0ad
 web/svg/reference/attribute/baseprofile,no_hash_commit
 web/svg/reference/attribute/begin,no_hash_commit
-web/svg/reference/attribute/clip-path,no_hash_commit
+web/svg/reference/attribute/clip-path,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/attribute/clip,no_hash_commit
 web/svg/reference/attribute/color,no_hash_commit
 web/svg/reference/attribute/cx,no_hash_commit
