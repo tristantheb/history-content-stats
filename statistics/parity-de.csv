@@ -17,7 +17,7 @@ games/techniques/3d_on_the_web/building_up_a_basic_demo_with_babylon.js,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/editor,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/engine,0
-games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,1
+games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,0
 games/techniques/3d_on_the_web/glsl_shaders,0
 games/techniques/3d_on_the_web/webxr,0
 games/techniques/async_scripts,0
@@ -1522,7 +1522,7 @@ mozilla/add-ons/webextensions/api/privacy,0
 mozilla/add-ons/webextensions/api/privacy/network,0
 mozilla/add-ons/webextensions/api/privacy/services,0
 mozilla/add-ons/webextensions/api/privacy/websites,0
-mozilla/add-ons/webextensions/api/proxy,0
+mozilla/add-ons/webextensions/api/proxy,1
 mozilla/add-ons/webextensions/api/proxy/onerror,0
 mozilla/add-ons/webextensions/api/proxy/onrequest,0
 mozilla/add-ons/webextensions/api/proxy/proxyinfo,0
@@ -1821,7 +1821,7 @@ mozilla/add-ons/webextensions/chrome_incompatibilities,0
 mozilla/add-ons/webextensions/content_scripts,0
 mozilla/add-ons/webextensions/content_scripts/cloneinto,0
 mozilla/add-ons/webextensions/content_scripts/exportfunction,0
-mozilla/add-ons/webextensions/content_security_policy,0
+mozilla/add-ons/webextensions/content_security_policy,1
 mozilla/add-ons/webextensions/developing_webextensions_for_thunderbird,0
 mozilla/add-ons/webextensions/differences_between_api_implementations,0
 mozilla/add-ons/webextensions/examples,0
@@ -1830,7 +1830,7 @@ mozilla/add-ons/webextensions/implement_a_settings_page,0
 mozilla/add-ons/webextensions/interact_with_the_clipboard,0
 mozilla/add-ons/webextensions/intercept_http_requests,0
 mozilla/add-ons/webextensions/internationalization,0
-mozilla/add-ons/webextensions/manifest.json,0
+mozilla/add-ons/webextensions/manifest.json,1
 mozilla/add-ons/webextensions/manifest.json/action,0
 mozilla/add-ons/webextensions/manifest.json/author,0
 mozilla/add-ons/webextensions/manifest.json/background,0
@@ -1840,7 +1840,7 @@ mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,0
 mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,0
 mozilla/add-ons/webextensions/manifest.json/commands,0
 mozilla/add-ons/webextensions/manifest.json/content_scripts,0
-mozilla/add-ons/webextensions/manifest.json/content_security_policy,0
+mozilla/add-ons/webextensions/manifest.json/content_security_policy,1
 mozilla/add-ons/webextensions/manifest.json/dark_theme,0
 mozilla/add-ons/webextensions/manifest.json/declarative_net_request,0
 mozilla/add-ons/webextensions/manifest.json/default_locale,0
@@ -1852,7 +1852,7 @@ mozilla/add-ons/webextensions/manifest.json/externally_connectable,0
 mozilla/add-ons/webextensions/manifest.json/homepage_url,0
 mozilla/add-ons/webextensions/manifest.json/host_permissions,0
 mozilla/add-ons/webextensions/manifest.json/icons,0
-mozilla/add-ons/webextensions/manifest.json/incognito,0
+mozilla/add-ons/webextensions/manifest.json/incognito,1
 mozilla/add-ons/webextensions/manifest.json/manifest_version,0
 mozilla/add-ons/webextensions/manifest.json/name,0
 mozilla/add-ons/webextensions/manifest.json/omnibox,0
@@ -1863,6 +1863,7 @@ mozilla/add-ons/webextensions/manifest.json/options_ui,0
 mozilla/add-ons/webextensions/manifest.json/page_action,0
 mozilla/add-ons/webextensions/manifest.json/permissions,0
 mozilla/add-ons/webextensions/manifest.json/protocol_handlers,0
+mozilla/add-ons/webextensions/manifest.json/sandbox,null
 mozilla/add-ons/webextensions/manifest.json/short_name,0
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,0
 mozilla/add-ons/webextensions/manifest.json/storage,0
@@ -1904,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,2
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1971,7 +1972,7 @@ mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
-mozilla/firefox/releases/154,2
+mozilla/firefox/releases/154,1
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -6985,7 +6986,7 @@ web/api/promiserejectionevent,0
 web/api/promiserejectionevent/promise,0
 web/api/promiserejectionevent/promiserejectionevent,0
 web/api/promiserejectionevent/reason,0
-web/api/prompt_api,1
+web/api/prompt_api,0
 web/api/prompt_api/adding_context,0
 web/api/prompt_api/multimodal,0
 web/api/prompt_api/preserving_sessions,0
@@ -14134,17 +14135,17 @@ web/webdriver/reference/classic,0
 web/webdriver/reference/classic/commands,0
 web/webdriver/reference/classic/commands/back,0
 web/webdriver/reference/classic/commands/closewindow,0
-web/webdriver/reference/classic/commands/createvirtualpressuresource,null
-web/webdriver/reference/classic/commands/createvirtualsensor,null
-web/webdriver/reference/classic/commands/deletevirtualpressuresource,null
-web/webdriver/reference/classic/commands/deletevirtualsensor,null
+web/webdriver/reference/classic/commands/createvirtualpressuresource,0
+web/webdriver/reference/classic/commands/createvirtualsensor,0
+web/webdriver/reference/classic/commands/deletevirtualpressuresource,0
+web/webdriver/reference/classic/commands/deletevirtualsensor,0
 web/webdriver/reference/classic/commands/forward,0
 web/webdriver/reference/classic/commands/getelementattribute,0
 web/webdriver/reference/classic/commands/getelementproperty,0
 web/webdriver/reference/classic/commands/getelementtagname,0
 web/webdriver/reference/classic/commands/gettimeouts,0
 web/webdriver/reference/classic/commands/gettitle,0
-web/webdriver/reference/classic/commands/getvirtualsensorinformation,null
+web/webdriver/reference/classic/commands/getvirtualsensorinformation,0
 web/webdriver/reference/classic/commands/getwindowhandles,0
 web/webdriver/reference/classic/commands/getwindowrect,0
 web/webdriver/reference/classic/commands/newsession,0
@@ -14152,8 +14153,8 @@ web/webdriver/reference/classic/commands/newwindow,0
 web/webdriver/reference/classic/commands/refresh,0
 web/webdriver/reference/classic/commands/settimeouts,0
 web/webdriver/reference/classic/commands/setwindowrect,0
-web/webdriver/reference/classic/commands/updatevirtualpressuresource,null
-web/webdriver/reference/classic/commands/updatevirtualsensorreading,null
+web/webdriver/reference/classic/commands/updatevirtualpressuresource,0
+web/webdriver/reference/classic/commands/updatevirtualsensorreading,0
 web/webdriver/reference/classic/timeouts,0
 web/webdriver/reference/errors,0
 web/webdriver/reference/errors/insecurecertificate,0
