@@ -10877,7 +10877,7 @@ web/css/reference/properties/fill-rule,1
 web/css/reference/properties/filter,1
 web/css/reference/properties/flex,3
 web/css/reference/properties/flex-basis,2
-web/css/reference/properties/flex-direction,1
+web/css/reference/properties/flex-direction,2
 web/css/reference/properties/flex-flow,1
 web/css/reference/properties/flex-grow,2
 web/css/reference/properties/flex-shrink,2
@@ -14009,7 +14009,7 @@ web/svg/reference/element/fefuncb,0
 web/svg/reference/element/fefuncg,0
 web/svg/reference/element/fefuncr,0
 web/svg/reference/element/fegaussianblur,2
-web/svg/reference/element/feimage,0
+web/svg/reference/element/feimage,1
 web/svg/reference/element/femerge,0
 web/svg/reference/element/femergenode,null
 web/svg/reference/element/femorphology,3
@@ -14028,7 +14028,7 @@ web/svg/reference/element/lineargradient,0
 web/svg/reference/element/marker,0
 web/svg/reference/element/mask,1
 web/svg/reference/element/metadata,0
-web/svg/reference/element/mpath,0
+web/svg/reference/element/mpath,1
 web/svg/reference/element/path,0
 web/svg/reference/element/pattern,0
 web/svg/reference/element/polygon,0
@@ -14040,7 +14040,7 @@ web/svg/reference/element/set,0
 web/svg/reference/element/stop,1
 web/svg/reference/element/style,2
 web/svg/reference/element/svg,1
-web/svg/reference/element/switch,2
+web/svg/reference/element/switch,3
 web/svg/reference/element/symbol,0
 web/svg/reference/element/text,0
 web/svg/reference/element/textpath,0

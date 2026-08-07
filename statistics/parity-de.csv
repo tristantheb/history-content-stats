@@ -1873,7 +1873,7 @@ mozilla/add-ons/webextensions/manifest.json/user_scripts,0
 mozilla/add-ons/webextensions/manifest.json/version,0
 mozilla/add-ons/webextensions/manifest.json/version/format,0
 mozilla/add-ons/webextensions/manifest.json/version_name,0
-mozilla/add-ons/webextensions/manifest.json/web_accessible_resources,0
+mozilla/add-ons/webextensions/manifest.json/web_accessible_resources,1
 mozilla/add-ons/webextensions/match_patterns,0
 mozilla/add-ons/webextensions/modify_a_web_page,0
 mozilla/add-ons/webextensions/native_manifests,0
@@ -10877,7 +10877,7 @@ web/css/reference/properties/fill-rule,0
 web/css/reference/properties/filter,0
 web/css/reference/properties/flex,0
 web/css/reference/properties/flex-basis,0
-web/css/reference/properties/flex-direction,0
+web/css/reference/properties/flex-direction,1
 web/css/reference/properties/flex-flow,0
 web/css/reference/properties/flex-grow,0
 web/css/reference/properties/flex-shrink,0
@@ -14009,7 +14009,7 @@ web/svg/reference/element/fefuncb,0
 web/svg/reference/element/fefuncg,0
 web/svg/reference/element/fefuncr,0
 web/svg/reference/element/fegaussianblur,0
-web/svg/reference/element/feimage,0
+web/svg/reference/element/feimage,1
 web/svg/reference/element/femerge,0
 web/svg/reference/element/femergenode,0
 web/svg/reference/element/femorphology,0
@@ -14028,7 +14028,7 @@ web/svg/reference/element/lineargradient,0
 web/svg/reference/element/marker,0
 web/svg/reference/element/mask,0
 web/svg/reference/element/metadata,0
-web/svg/reference/element/mpath,0
+web/svg/reference/element/mpath,1
 web/svg/reference/element/path,0
 web/svg/reference/element/pattern,0
 web/svg/reference/element/polygon,0
@@ -14040,7 +14040,7 @@ web/svg/reference/element/set,0
 web/svg/reference/element/stop,0
 web/svg/reference/element/style,0
 web/svg/reference/element/svg,0
-web/svg/reference/element/switch,0
+web/svg/reference/element/switch,1
 web/svg/reference/element/symbol,0
 web/svg/reference/element/text,0
 web/svg/reference/element/textpath,0

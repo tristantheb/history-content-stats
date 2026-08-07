@@ -10877,7 +10877,7 @@ web/css/reference/properties/fill-rule,0
 web/css/reference/properties/filter,0
 web/css/reference/properties/flex,1
 web/css/reference/properties/flex-basis,0
-web/css/reference/properties/flex-direction,0
+web/css/reference/properties/flex-direction,1
 web/css/reference/properties/flex-flow,0
 web/css/reference/properties/flex-grow,1
 web/css/reference/properties/flex-shrink,0

@@ -14009,7 +14009,7 @@ web/svg/reference/element/fefuncb,1
 web/svg/reference/element/fefuncg,1
 web/svg/reference/element/fefuncr,1
 web/svg/reference/element/fegaussianblur,3
-web/svg/reference/element/feimage,6
+web/svg/reference/element/feimage,7
 web/svg/reference/element/femerge,0
 web/svg/reference/element/femergenode,null
 web/svg/reference/element/femorphology,4
@@ -14028,7 +14028,7 @@ web/svg/reference/element/lineargradient,null
 web/svg/reference/element/marker,null
 web/svg/reference/element/mask,null
 web/svg/reference/element/metadata,null
-web/svg/reference/element/mpath,1
+web/svg/reference/element/mpath,2
 web/svg/reference/element/path,null
 web/svg/reference/element/pattern,null
 web/svg/reference/element/polygon,0
