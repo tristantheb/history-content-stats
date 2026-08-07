@@ -14405,6 +14405,9 @@ webassembly/reference/numeric/div,null
 webassembly/reference/numeric/eq,null
 webassembly/reference/numeric/eqz,null
 webassembly/reference/numeric/extend,null
+webassembly/reference/numeric/extend16_s,null
+webassembly/reference/numeric/extend32_s,null
+webassembly/reference/numeric/extend8_s,null
 webassembly/reference/numeric/floor,null
 webassembly/reference/numeric/ge,null
 webassembly/reference/numeric/ge_s,null

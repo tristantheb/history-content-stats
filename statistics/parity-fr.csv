@@ -1905,7 +1905,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,3
 mozilla/firefox,0
-mozilla/firefox/experimental_features,2
+mozilla/firefox/experimental_features,3
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -11993,7 +11993,7 @@ web/http/reference/headers/max-forwards,0
 web/http/reference/headers/nel,0
 web/http/reference/headers/no-vary-search,1
 web/http/reference/headers/observe-browsing-topics,1
-web/http/reference/headers/origin,0
+web/http/reference/headers/origin,1
 web/http/reference/headers/origin-agent-cluster,0
 web/http/reference/headers/permissions-policy,2
 web/http/reference/headers/permissions-policy-report-only,0
@@ -12055,7 +12055,7 @@ web/http/reference/headers/proxy-authenticate,0
 web/http/reference/headers/proxy-authorization,0
 web/http/reference/headers/range,0
 web/http/reference/headers/referer,0
-web/http/reference/headers/referrer-policy,0
+web/http/reference/headers/referrer-policy,1
 web/http/reference/headers/refresh,0
 web/http/reference/headers/report-to,0
 web/http/reference/headers/reporting-endpoints,0
@@ -14050,12 +14050,12 @@ web/svg/reference/element/use,null
 web/svg/reference/element/view,null
 web/svg/tutorials,0
 web/svg/tutorials/svg_from_scratch,0
-web/svg/tutorials/svg_from_scratch/basic_shapes,0
+web/svg/tutorials/svg_from_scratch/basic_shapes,1
 web/svg/tutorials/svg_from_scratch/basic_transformations,null
 web/svg/tutorials/svg_from_scratch/clipping_and_masking,null
 web/svg/tutorials/svg_from_scratch/fills_and_strokes,null
 web/svg/tutorials/svg_from_scratch/filter_effects,null
-web/svg/tutorials/svg_from_scratch/getting_started,0
+web/svg/tutorials/svg_from_scratch/getting_started,1
 web/svg/tutorials/svg_from_scratch/gradients,null
 web/svg/tutorials/svg_from_scratch/image_element,null
 web/svg/tutorials/svg_from_scratch/introduction,1
@@ -14405,6 +14405,9 @@ webassembly/reference/numeric/div,null
 webassembly/reference/numeric/eq,null
 webassembly/reference/numeric/eqz,null
 webassembly/reference/numeric/extend,null
+webassembly/reference/numeric/extend16_s,null
+webassembly/reference/numeric/extend32_s,null
+webassembly/reference/numeric/extend8_s,null
 webassembly/reference/numeric/floor,null
 webassembly/reference/numeric/ge,null
 webassembly/reference/numeric/ge_s,null

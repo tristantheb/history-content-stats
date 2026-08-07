@@ -916,7 +916,7 @@ learn_web_development/extensions/forms/html_forms_in_legacy_browsers,null
 learn_web_development/extensions/forms/other_form_controls,null
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,null
 learn_web_development/extensions/forms/sending_forms_through_javascript,4
-learn_web_development/extensions/forms/styling_web_forms,17
+learn_web_development/extensions/forms/styling_web_forms,18
 learn_web_development/extensions/forms/ui_pseudo-classes,null
 learn_web_development/extensions/forms/user_input_methods,null
 learn_web_development/extensions/forms/your_first_form,null
@@ -14050,7 +14050,7 @@ web/svg/reference/element/use,11
 web/svg/reference/element/view,5
 web/svg/tutorials,0
 web/svg/tutorials/svg_from_scratch,null
-web/svg/tutorials/svg_from_scratch/basic_shapes,0
+web/svg/tutorials/svg_from_scratch/basic_shapes,1
 web/svg/tutorials/svg_from_scratch/basic_transformations,null
 web/svg/tutorials/svg_from_scratch/clipping_and_masking,null
 web/svg/tutorials/svg_from_scratch/fills_and_strokes,null
@@ -14405,6 +14405,9 @@ webassembly/reference/numeric/div,null
 webassembly/reference/numeric/eq,null
 webassembly/reference/numeric/eqz,null
 webassembly/reference/numeric/extend,null
+webassembly/reference/numeric/extend16_s,null
+webassembly/reference/numeric/extend32_s,null
+webassembly/reference/numeric/extend8_s,null
 webassembly/reference/numeric/floor,null
 webassembly/reference/numeric/ge,null
 webassembly/reference/numeric/ge_s,null
