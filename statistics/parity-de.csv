@@ -1867,7 +1867,7 @@ mozilla/add-ons/webextensions/manifest.json/sandbox,null
 mozilla/add-ons/webextensions/manifest.json/short_name,0
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,0
 mozilla/add-ons/webextensions/manifest.json/storage,0
-mozilla/add-ons/webextensions/manifest.json/theme,0
+mozilla/add-ons/webextensions/manifest.json/theme,1
 mozilla/add-ons/webextensions/manifest.json/theme_experiment,0
 mozilla/add-ons/webextensions/manifest.json/user_scripts,0
 mozilla/add-ons/webextensions/manifest.json/version,0
@@ -3176,9 +3176,9 @@ web/api/cssmathclamp/cssmathclamp,0
 web/api/cssmathclamp/lower,0
 web/api/cssmathclamp/upper,0
 web/api/cssmathclamp/value,0
-web/api/cssmathinvert,0
-web/api/cssmathinvert/cssmathinvert,0
-web/api/cssmathinvert/value,0
+web/api/cssmathinvert,1
+web/api/cssmathinvert/cssmathinvert,1
+web/api/cssmathinvert/value,1
 web/api/cssmathmax,0
 web/api/cssmathmax/cssmathmax,0
 web/api/cssmathmax/values,0
@@ -3210,7 +3210,7 @@ web/api/cssnumericarray,0
 web/api/cssnumericarray/length,0
 web/api/cssnumericvalue,0
 web/api/cssnumericvalue/add,0
-web/api/cssnumericvalue/div,0
+web/api/cssnumericvalue/div,1
 web/api/cssnumericvalue/equals,0
 web/api/cssnumericvalue/max,0
 web/api/cssnumericvalue/min,0
@@ -5778,7 +5778,7 @@ web/api/languagedetector/detect,0
 web/api/languagedetector/expectedinputlanguages,0
 web/api/languagedetector/inputquota,0
 web/api/languagedetector/measureinputusage,0
-web/api/languagemodel,0
+web/api/languagemodel,1
 web/api/languagemodel/append,0
 web/api/languagemodel/availability_static,0
 web/api/languagemodel/clone,0
@@ -6053,7 +6053,7 @@ web/api/mediastreamtrackevent/track,0
 web/api/mediastreamtrackgenerator,0
 web/api/mediastreamtrackgenerator/mediastreamtrackgenerator,0
 web/api/mediastreamtrackgenerator/writable,0
-web/api/mediastreamtrackprocessor,0
+web/api/mediastreamtrackprocessor,1
 web/api/mediastreamtrackprocessor/discardedframes,0
 web/api/mediastreamtrackprocessor/mediastreamtrackprocessor,0
 web/api/mediastreamtrackprocessor/readable,0
@@ -6986,7 +6986,7 @@ web/api/promiserejectionevent,0
 web/api/promiserejectionevent/promise,0
 web/api/promiserejectionevent/promiserejectionevent,0
 web/api/promiserejectionevent/reason,0
-web/api/prompt_api,0
+web/api/prompt_api,1
 web/api/prompt_api/adding_context,0
 web/api/prompt_api/multimodal,0
 web/api/prompt_api/preserving_sessions,0
@@ -10439,7 +10439,7 @@ web/css/guides/grid_layout/relationship_with_other_layout_methods,0
 web/css/guides/grid_layout/subgrid,0
 web/css/guides/images,0
 web/css/guides/images/implementing_image_sprites,0
-web/css/guides/images/replaced_element_properties,0
+web/css/guides/images/replaced_element_properties,1
 web/css/guides/images/using_gradients,0
 web/css/guides/images/using_object-view-box,0
 web/css/guides/inline_layout,0
@@ -10535,7 +10535,7 @@ web/css/guides/values_and_units,0
 web/css/guides/values_and_units/numeric_data_types,0
 web/css/guides/values_and_units/textual_data_types,0
 web/css/guides/values_and_units/using_math_functions,0
-web/css/guides/values_and_units/using_typed_arithmetic,0
+web/css/guides/values_and_units/using_typed_arithmetic,1
 web/css/guides/values_and_units/value_definition_syntax,0
 web/css/guides/view_transitions,0
 web/css/guides/viewport,0
@@ -11094,10 +11094,10 @@ web/css/reference/properties/ruby-align,0
 web/css/reference/properties/ruby-overhang,0
 web/css/reference/properties/ruby-position,0
 web/css/reference/properties/rule,0
-web/css/reference/properties/rule-color,0
-web/css/reference/properties/rule-style,0
+web/css/reference/properties/rule-color,1
+web/css/reference/properties/rule-style,1
 web/css/reference/properties/rule-visibility-items,0
-web/css/reference/properties/rule-width,0
+web/css/reference/properties/rule-width,1
 web/css/reference/properties/rx,0
 web/css/reference/properties/ry,0
 web/css/reference/properties/scale,0
@@ -13780,7 +13780,7 @@ web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,0
 web/svg/guides/svg_in_html,1
 web/svg/reference,0
-web/svg/reference/attribute,0
+web/svg/reference/attribute,1
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,0
 web/svg/reference/attribute/alignment-baseline,0
