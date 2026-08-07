@@ -1873,7 +1873,7 @@ mozilla/add-ons/webextensions/manifest.json/user_scripts,0
 mozilla/add-ons/webextensions/manifest.json/version,0
 mozilla/add-ons/webextensions/manifest.json/version/format,0
 mozilla/add-ons/webextensions/manifest.json/version_name,0
-mozilla/add-ons/webextensions/manifest.json/web_accessible_resources,1
+mozilla/add-ons/webextensions/manifest.json/web_accessible_resources,0
 mozilla/add-ons/webextensions/match_patterns,0
 mozilla/add-ons/webextensions/modify_a_web_page,0
 mozilla/add-ons/webextensions/native_manifests,0
@@ -10433,7 +10433,7 @@ web/css/guides/grid_layout/common_grid_layouts,0
 web/css/guides/grid_layout/grid_template_areas,0
 web/css/guides/grid_layout/line-based_placement,0
 web/css/guides/grid_layout/logical_values_and_writing_modes,0
-web/css/guides/grid_layout/masonry_layout,1
+web/css/guides/grid_layout/masonry_layout,0
 web/css/guides/grid_layout/named_grid_lines,0
 web/css/guides/grid_layout/relationship_with_other_layout_methods,0
 web/css/guides/grid_layout/subgrid,0
@@ -10866,7 +10866,7 @@ web/css/reference/properties/cx,0
 web/css/reference/properties/cy,0
 web/css/reference/properties/d,0
 web/css/reference/properties/direction,0
-web/css/reference/properties/display,1
+web/css/reference/properties/display,0
 web/css/reference/properties/dominant-baseline,0
 web/css/reference/properties/dynamic-range-limit,0
 web/css/reference/properties/empty-cells,0
@@ -10877,7 +10877,7 @@ web/css/reference/properties/fill-rule,0
 web/css/reference/properties/filter,0
 web/css/reference/properties/flex,0
 web/css/reference/properties/flex-basis,0
-web/css/reference/properties/flex-direction,1
+web/css/reference/properties/flex-direction,0
 web/css/reference/properties/flex-flow,0
 web/css/reference/properties/flex-grow,0
 web/css/reference/properties/flex-shrink,0
@@ -13769,7 +13769,7 @@ web/security/threat_modeling/frameworks,0
 web/security/threat_modeling/pwa_threat_model,0
 web/svg,0
 web/svg/guides,0
-web/svg/guides/applying_svg_effects_to_html_content,1
+web/svg/guides/applying_svg_effects_to_html_content,0
 web/svg/guides/content_type,1
 web/svg/guides/linking,0
 web/svg/guides/namespaces_crash_course,0
@@ -13803,13 +13803,13 @@ web/svg/reference/attribute/clip-rule,0
 web/svg/reference/attribute/clippathunits,0
 web/svg/reference/attribute/color,0
 web/svg/reference/attribute/color-interpolation,0
-web/svg/reference/attribute/color-interpolation-filters,1
+web/svg/reference/attribute/color-interpolation-filters,0
 web/svg/reference/attribute/crossorigin,0
 web/svg/reference/attribute/cursor,0
 web/svg/reference/attribute/cx,0
 web/svg/reference/attribute/cy,0
 web/svg/reference/attribute/d,0
-web/svg/reference/attribute/data-_star_,1
+web/svg/reference/attribute/data-_star_,0
 web/svg/reference/attribute/decoding,0
 web/svg/reference/attribute/diffuseconstant,0
 web/svg/reference/attribute/direction,0
@@ -13912,7 +13912,7 @@ web/svg/reference/attribute/refy,0
 web/svg/reference/attribute/repeatcount,0
 web/svg/reference/attribute/repeatdur,0
 web/svg/reference/attribute/requiredextensions,0
-web/svg/reference/attribute/requiredfeatures,1
+web/svg/reference/attribute/requiredfeatures,0
 web/svg/reference/attribute/restart,0
 web/svg/reference/attribute/result,0
 web/svg/reference/attribute/rotate,0
@@ -13942,7 +13942,7 @@ web/svg/reference/attribute/stroke-opacity,0
 web/svg/reference/attribute/stroke-width,0
 web/svg/reference/attribute/style,0
 web/svg/reference/attribute/surfacescale,0
-web/svg/reference/attribute/systemlanguage,1
+web/svg/reference/attribute/systemlanguage,0
 web/svg/reference/attribute/tabindex,0
 web/svg/reference/attribute/tablevalues,0
 web/svg/reference/attribute/target,0
@@ -13971,11 +13971,11 @@ web/svg/reference/attribute/x,0
 web/svg/reference/attribute/x1,0
 web/svg/reference/attribute/x2,0
 web/svg/reference/attribute/xchannelselector,0
-web/svg/reference/attribute/xlink_colon_arcrole,1
+web/svg/reference/attribute/xlink_colon_arcrole,0
 web/svg/reference/attribute/xlink_colon_href,0
 web/svg/reference/attribute/xlink_colon_show,0
-web/svg/reference/attribute/xlink_colon_title,1
-web/svg/reference/attribute/xlink_colon_type,1
+web/svg/reference/attribute/xlink_colon_title,0
+web/svg/reference/attribute/xlink_colon_type,0
 web/svg/reference/attribute/xml_colon_lang,0
 web/svg/reference/attribute/xml_colon_space,0
 web/svg/reference/attribute/y,0
@@ -14009,7 +14009,7 @@ web/svg/reference/element/fefuncb,0
 web/svg/reference/element/fefuncg,0
 web/svg/reference/element/fefuncr,0
 web/svg/reference/element/fegaussianblur,0
-web/svg/reference/element/feimage,1
+web/svg/reference/element/feimage,0
 web/svg/reference/element/femerge,0
 web/svg/reference/element/femergenode,0
 web/svg/reference/element/femorphology,0
@@ -14028,7 +14028,7 @@ web/svg/reference/element/lineargradient,0
 web/svg/reference/element/marker,0
 web/svg/reference/element/mask,0
 web/svg/reference/element/metadata,0
-web/svg/reference/element/mpath,1
+web/svg/reference/element/mpath,0
 web/svg/reference/element/path,0
 web/svg/reference/element/pattern,0
 web/svg/reference/element/polygon,0
@@ -14040,7 +14040,7 @@ web/svg/reference/element/set,0
 web/svg/reference/element/stop,0
 web/svg/reference/element/style,0
 web/svg/reference/element/svg,0
-web/svg/reference/element/switch,1
+web/svg/reference/element/switch,0
 web/svg/reference/element/symbol,0
 web/svg/reference/element/text,0
 web/svg/reference/element/textpath,0
@@ -14054,7 +14054,7 @@ web/svg/tutorials/svg_from_scratch/basic_shapes,0
 web/svg/tutorials/svg_from_scratch/basic_transformations,0
 web/svg/tutorials/svg_from_scratch/clipping_and_masking,0
 web/svg/tutorials/svg_from_scratch/fills_and_strokes,0
-web/svg/tutorials/svg_from_scratch/filter_effects,1
+web/svg/tutorials/svg_from_scratch/filter_effects,0
 web/svg/tutorials/svg_from_scratch/getting_started,0
 web/svg/tutorials/svg_from_scratch/gradients,0
 web/svg/tutorials/svg_from_scratch/image_element,0

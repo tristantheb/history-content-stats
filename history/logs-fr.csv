@@ -4629,6 +4629,7 @@ web/css/reference/properties/border-right-color,bcbb4bd6a80292c0663b723d5466759c
 web/css/reference/properties/border-right-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/border-right-width,0c62b082755017d0773ecaaee7e74efd5e066d0b
 web/css/reference/properties/border-right,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/border-shape,c655f38c10ba17b853b0e66b43cf4cf2b176e424
 web/css/reference/properties/border-spacing,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/border-start-end-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/border-start-start-radius,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -4675,6 +4676,7 @@ web/css/reference/properties/column-gap,53745a2089268ce62bf79695d7d347bcbd0abe57
 web/css/reference/properties/column-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/column-rule-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/column-rule-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/column-rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/column-rule-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/column-rule,53745a2089268ce62bf79695d7d347bcbd0abe57
 web/css/reference/properties/column-span,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -4766,6 +4768,7 @@ web/css/reference/properties/font-weight,bcbb4bd6a80292c0663b723d5466759cfaaa831
 web/css/reference/properties/font-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/font,afcdfa050626bb7eb05ee693df8997020db9ff2e
 web/css/reference/properties/forced-color-adjust,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/frame-sizing,9cf3002bd29376c15d49df6fab2e6a264285abf6
 web/css/reference/properties/gap,7f138099644a02640a903b2abc39e685ca8ca7cd
 web/css/reference/properties/grid-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/grid-auto-columns,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -4816,6 +4819,7 @@ web/css/reference/properties/line-break,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/line-clamp,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/line-height-step,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/line-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/link-parameters,a9dc3374034d357cbfea717fd5d641605359e3c7
 web/css/reference/properties/list-style-image,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/list-style-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/list-style-type,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -4912,6 +4916,7 @@ web/css/reference/properties/page-break-before,071fd0613b1b5728d2d83845ea11512cb
 web/css/reference/properties/page-break-inside,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/page,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/paint-order,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/path-length,a9dc3374034d357cbfea717fd5d641605359e3c7
 web/css/reference/properties/perspective-origin,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/perspective,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/place-content,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -4934,9 +4939,16 @@ web/css/reference/properties/resize,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/right,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/rotate,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/row-gap,53745a2089268ce62bf79695d7d347bcbd0abe57
+web/css/reference/properties/row-rule-color,9cf3002bd29376c15d49df6fab2e6a264285abf6
+web/css/reference/properties/row-rule-style,a9dc3374034d357cbfea717fd5d641605359e3c7
+web/css/reference/properties/row-rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a
+web/css/reference/properties/row-rule-width,a9dc3374034d357cbfea717fd5d641605359e3c7
+web/css/reference/properties/row-rule,c655f38c10ba17b853b0e66b43cf4cf2b176e424
 web/css/reference/properties/ruby-align,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/ruby-overhang,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb615067a
+web/css/reference/properties/rule-color,343ab51426f9279175b8f71fff911621d0a7da20
+web/css/reference/properties/rule,f4d39e4f5a6f426bff5f91cccb5b6fadff094e27
 web/css/reference/properties/rx,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/ry,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/scale,bcbb4bd6a80292c0663b723d5466759cfaaa8315
