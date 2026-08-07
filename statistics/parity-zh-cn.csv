@@ -10433,7 +10433,7 @@ web/css/guides/grid_layout/common_grid_layouts,null
 web/css/guides/grid_layout/grid_template_areas,null
 web/css/guides/grid_layout/line-based_placement,null
 web/css/guides/grid_layout/logical_values_and_writing_modes,null
-web/css/guides/grid_layout/masonry_layout,1
+web/css/guides/grid_layout/masonry_layout,2
 web/css/guides/grid_layout/named_grid_lines,null
 web/css/guides/grid_layout/relationship_with_other_layout_methods,null
 web/css/guides/grid_layout/subgrid,0
@@ -10866,7 +10866,7 @@ web/css/reference/properties/cx,null
 web/css/reference/properties/cy,null
 web/css/reference/properties/d,null
 web/css/reference/properties/direction,null
-web/css/reference/properties/display,8
+web/css/reference/properties/display,9
 web/css/reference/properties/dominant-baseline,null
 web/css/reference/properties/dynamic-range-limit,null
 web/css/reference/properties/empty-cells,null

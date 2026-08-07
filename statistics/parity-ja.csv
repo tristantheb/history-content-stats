@@ -2857,7 +2857,7 @@ web/api/caretposition/getclientrect,null
 web/api/caretposition/offset,null
 web/api/caretposition/offsetnode,null
 web/api/cdatasection,3
-web/api/channel_messaging_api,null
+web/api/channel_messaging_api,0
 web/api/channel_messaging_api/using_channel_messaging,null
 web/api/channelmergernode,null
 web/api/channelmergernode/channelmergernode,null
@@ -10433,7 +10433,7 @@ web/css/guides/grid_layout/common_grid_layouts,2
 web/css/guides/grid_layout/grid_template_areas,1
 web/css/guides/grid_layout/line-based_placement,0
 web/css/guides/grid_layout/logical_values_and_writing_modes,0
-web/css/guides/grid_layout/masonry_layout,1
+web/css/guides/grid_layout/masonry_layout,2
 web/css/guides/grid_layout/named_grid_lines,0
 web/css/guides/grid_layout/relationship_with_other_layout_methods,3
 web/css/guides/grid_layout/subgrid,0
@@ -10866,7 +10866,7 @@ web/css/reference/properties/cx,1
 web/css/reference/properties/cy,0
 web/css/reference/properties/d,1
 web/css/reference/properties/direction,2
-web/css/reference/properties/display,0
+web/css/reference/properties/display,1
 web/css/reference/properties/dominant-baseline,1
 web/css/reference/properties/dynamic-range-limit,null
 web/css/reference/properties/empty-cells,2
@@ -12092,7 +12092,7 @@ web/http/reference/headers/sec-gpc,null
 web/http/reference/headers/sec-private-state-token,null
 web/http/reference/headers/sec-private-state-token-crypto-version,null
 web/http/reference/headers/sec-private-state-token-lifetime,null
-web/http/reference/headers/sec-purpose,null
+web/http/reference/headers/sec-purpose,0
 web/http/reference/headers/sec-redemption-record,null
 web/http/reference/headers/sec-speculation-tags,null
 web/http/reference/headers/sec-websocket-accept,null
@@ -13769,7 +13769,7 @@ web/security/threat_modeling/frameworks,null
 web/security/threat_modeling/pwa_threat_model,null
 web/svg,0
 web/svg/guides,0
-web/svg/guides/applying_svg_effects_to_html_content,8
+web/svg/guides/applying_svg_effects_to_html_content,9
 web/svg/guides/content_type,2
 web/svg/guides/linking,0
 web/svg/guides/namespaces_crash_course,6
@@ -13803,7 +13803,7 @@ web/svg/reference/attribute/clip-rule,1
 web/svg/reference/attribute/clippathunits,0
 web/svg/reference/attribute/color,0
 web/svg/reference/attribute/color-interpolation,1
-web/svg/reference/attribute/color-interpolation-filters,0
+web/svg/reference/attribute/color-interpolation-filters,1
 web/svg/reference/attribute/crossorigin,null
 web/svg/reference/attribute/cursor,3
 web/svg/reference/attribute/cx,0
@@ -13971,7 +13971,7 @@ web/svg/reference/attribute/x,0
 web/svg/reference/attribute/x1,0
 web/svg/reference/attribute/x2,0
 web/svg/reference/attribute/xchannelselector,0
-web/svg/reference/attribute/xlink_colon_arcrole,0
+web/svg/reference/attribute/xlink_colon_arcrole,1
 web/svg/reference/attribute/xlink_colon_href,0
 web/svg/reference/attribute/xlink_colon_show,null
 web/svg/reference/attribute/xlink_colon_title,null
@@ -14054,7 +14054,7 @@ web/svg/tutorials/svg_from_scratch/basic_shapes,1
 web/svg/tutorials/svg_from_scratch/basic_transformations,5
 web/svg/tutorials/svg_from_scratch/clipping_and_masking,3
 web/svg/tutorials/svg_from_scratch/fills_and_strokes,3
-web/svg/tutorials/svg_from_scratch/filter_effects,2
+web/svg/tutorials/svg_from_scratch/filter_effects,3
 web/svg/tutorials/svg_from_scratch/getting_started,3
 web/svg/tutorials/svg_from_scratch/gradients,3
 web/svg/tutorials/svg_from_scratch/image_element,3
@@ -14356,10 +14356,10 @@ webassembly/reference/javascript_interface/instantiatestreaming_static,null
 webassembly/reference/javascript_interface/jstag_static,null
 webassembly/reference/javascript_interface/linkerror,null
 webassembly/reference/javascript_interface/linkerror/linkerror,null
-webassembly/reference/javascript_interface/memory,null
-webassembly/reference/javascript_interface/memory/buffer,null
-webassembly/reference/javascript_interface/memory/grow,null
-webassembly/reference/javascript_interface/memory/memory,null
+webassembly/reference/javascript_interface/memory,0
+webassembly/reference/javascript_interface/memory/buffer,0
+webassembly/reference/javascript_interface/memory/grow,0
+webassembly/reference/javascript_interface/memory/memory,0
 webassembly/reference/javascript_interface/module,null
 webassembly/reference/javascript_interface/module/customsections_static,null
 webassembly/reference/javascript_interface/module/exports_static,null
