@@ -10433,7 +10433,7 @@ web/css/guides/grid_layout/common_grid_layouts,483ce811e1ea52cb2d9d2a5af0c4d1c4d
 web/css/guides/grid_layout/grid_template_areas,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
 web/css/guides/grid_layout/line-based_placement,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/grid_layout/logical_values_and_writing_modes,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/grid_layout/masonry_layout,457178413ad5be46d6ad346845908dd919eb37fc,CSS|Guides
+web/css/guides/grid_layout/masonry_layout,24cdca6f7927df0c49c00d272f68d4a25c817af3,CSS|Guides
 web/css/guides/grid_layout/named_grid_lines,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/grid_layout/relationship_with_other_layout_methods,98066c71788a31f0f8726f5bf3d4a2acf4a6ff88,CSS|Guides
 web/css/guides/grid_layout/subgrid,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10866,7 +10866,7 @@ web/css/reference/properties/cx,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Pro
 web/css/reference/properties/cy,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/d,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/direction,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/display,afcdfa050626bb7eb05ee693df8997020db9ff2e,CSS|Properties
+web/css/reference/properties/display,24cdca6f7927df0c49c00d272f68d4a25c817af3,CSS|Properties
 web/css/reference/properties/dominant-baseline,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/dynamic-range-limit,468c261821b7443db6fdb748f733f21186597501,CSS|Properties
 web/css/reference/properties/empty-cells,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
@@ -13769,7 +13769,7 @@ web/security/threat_modeling/frameworks,c53bfa01f3bf436d486f4032c16f592855a2af2c
 web/security/threat_modeling/pwa_threat_model,f0cf64861b7e582007f7df3cdf2ed876d95de73f,Security
 web/svg,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,SVG
 web/svg/guides,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,SVG|Guides
-web/svg/guides/applying_svg_effects_to_html_content,3ee333bf5e414ac81c452ec10fed7af645c96740,SVG|Guides
+web/svg/guides/applying_svg_effects_to_html_content,5fbc600ce5903c85daac8ec7408527a2b2ea81da,SVG|Guides
 web/svg/guides/content_type,69ff5fe627a17cf397ebd7b0f88a83c272c0bce5,SVG|Guides
 web/svg/guides/linking,874ad29df9150037acb8a4a3e7550a302c90a080,SVG|Guides
 web/svg/guides/namespaces_crash_course,0c81cbce5f95a0be935724bcd936f5592774eb3a,SVG|Guides
@@ -13803,13 +13803,13 @@ web/svg/reference/attribute/clip-rule,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,S
 web/svg/reference/attribute/clippathunits,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/color,f69b6693212029ce4b9fa0c753729044577af548,SVG|Attribute
 web/svg/reference/attribute/color-interpolation,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
-web/svg/reference/attribute/color-interpolation-filters,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
+web/svg/reference/attribute/color-interpolation-filters,5fbc600ce5903c85daac8ec7408527a2b2ea81da,SVG|Attribute
 web/svg/reference/attribute/crossorigin,367c50159a45a513a77bd3941a4fac4bb83d6934,SVG|Attribute
 web/svg/reference/attribute/cursor,c1564acf160ef4b320fb7b89ab65211b9c50cf1b,SVG|Attribute
 web/svg/reference/attribute/cx,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/cy,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/d,3ee333bf5e414ac81c452ec10fed7af645c96740,SVG|Attribute
-web/svg/reference/attribute/data-_star_,cac79d099b0a4e48456cb53eb2435f6acf03e188,SVG|Attribute
+web/svg/reference/attribute/data-_star_,9ac8d4f4ed0eb2f329e605329afeb51754c7fa79,SVG|Attribute
 web/svg/reference/attribute/decoding,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/diffuseconstant,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/direction,594ae0d4ffb6326a9529fe366d30ca633309ee30,SVG|Attribute
@@ -13912,7 +13912,7 @@ web/svg/reference/attribute/refy,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|At
 web/svg/reference/attribute/repeatcount,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
 web/svg/reference/attribute/repeatdur,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
 web/svg/reference/attribute/requiredextensions,1db55979ae2b6ed7abb484b74e70809d66fa7637,SVG|Attribute
-web/svg/reference/attribute/requiredfeatures,a1765c2cad20118be0dad322d3548908787b5791,SVG|Attribute
+web/svg/reference/attribute/requiredfeatures,9ac8d4f4ed0eb2f329e605329afeb51754c7fa79,SVG|Attribute
 web/svg/reference/attribute/restart,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
 web/svg/reference/attribute/result,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/rotate,78b4b9da712e8189c735f4c0ca4ef443dd626be6,SVG|Attribute
@@ -13942,7 +13942,7 @@ web/svg/reference/attribute/stroke-opacity,3c83d88f02f33f4066224e9f624a17dd2a0b0
 web/svg/reference/attribute/stroke-width,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
 web/svg/reference/attribute/style,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
 web/svg/reference/attribute/surfacescale,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
-web/svg/reference/attribute/systemlanguage,1db55979ae2b6ed7abb484b74e70809d66fa7637,SVG|Attribute
+web/svg/reference/attribute/systemlanguage,9ac8d4f4ed0eb2f329e605329afeb51754c7fa79,SVG|Attribute
 web/svg/reference/attribute/tabindex,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Attribute
 web/svg/reference/attribute/tablevalues,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/target,7615562a3689a3e23a2b6b623597f4391740a53e,SVG|Attribute
@@ -13971,11 +13971,11 @@ web/svg/reference/attribute/x,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attri
 web/svg/reference/attribute/x1,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/x2,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/xchannelselector,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/xlink_colon_arcrole,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
+web/svg/reference/attribute/xlink_colon_arcrole,9ac8d4f4ed0eb2f329e605329afeb51754c7fa79,SVG|Attribute
 web/svg/reference/attribute/xlink_colon_href,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
 web/svg/reference/attribute/xlink_colon_show,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,SVG|Attribute
-web/svg/reference/attribute/xlink_colon_title,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
-web/svg/reference/attribute/xlink_colon_type,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
+web/svg/reference/attribute/xlink_colon_title,9ac8d4f4ed0eb2f329e605329afeb51754c7fa79,SVG|Attribute
+web/svg/reference/attribute/xlink_colon_type,9ac8d4f4ed0eb2f329e605329afeb51754c7fa79,SVG|Attribute
 web/svg/reference/attribute/xml_colon_lang,e7bc0ed5466f5834641d75d416fa81886cf6b37e,SVG|Attribute
 web/svg/reference/attribute/xml_colon_space,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
 web/svg/reference/attribute/y,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
@@ -14054,7 +14054,7 @@ web/svg/tutorials/svg_from_scratch/basic_shapes,8d0c8728f49f2a0577ca17910f2149d6
 web/svg/tutorials/svg_from_scratch/basic_transformations,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/clipping_and_masking,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/fills_and_strokes,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Tutorials
-web/svg/tutorials/svg_from_scratch/filter_effects,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Tutorials
+web/svg/tutorials/svg_from_scratch/filter_effects,5fbc600ce5903c85daac8ec7408527a2b2ea81da,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/getting_started,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/gradients,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/image_element,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Tutorials
