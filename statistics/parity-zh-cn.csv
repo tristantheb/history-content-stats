@@ -41,7 +41,7 @@ games/tutorials/2d_breakout_game_phaser/animations_and_tweens,null
 games/tutorials/2d_breakout_game_phaser/bounce_off_the_walls,0
 games/tutorials/2d_breakout_game_phaser/build_the_brick_field,null
 games/tutorials/2d_breakout_game_phaser/buttons,0
-games/tutorials/2d_breakout_game_phaser/collision_detection,null
+games/tutorials/2d_breakout_game_phaser/collision_detection,0
 games/tutorials/2d_breakout_game_phaser/extra_lives,null
 games/tutorials/2d_breakout_game_phaser/game_over,0
 games/tutorials/2d_breakout_game_phaser/initialize_the_framework,0
@@ -49,7 +49,7 @@ games/tutorials/2d_breakout_game_phaser/load_the_assets_and_print_them_on_screen
 games/tutorials/2d_breakout_game_phaser/move_the_ball,0
 games/tutorials/2d_breakout_game_phaser/physics,0
 games/tutorials/2d_breakout_game_phaser/player_paddle_and_controls,null
-games/tutorials/2d_breakout_game_phaser/randomizing_gameplay,null
+games/tutorials/2d_breakout_game_phaser/randomizing_gameplay,0
 games/tutorials/2d_breakout_game_phaser/scaling,0
 games/tutorials/2d_breakout_game_phaser/the_score,0
 games/tutorials/2d_breakout_game_phaser/win_the_game,0
@@ -60,7 +60,7 @@ games/tutorials/2d_breakout_game_pure_javascript/collision_detection,null
 games/tutorials/2d_breakout_game_pure_javascript/create_the_canvas_and_draw_on_it,1
 games/tutorials/2d_breakout_game_pure_javascript/finishing_up,null
 games/tutorials/2d_breakout_game_pure_javascript/game_over,null
-games/tutorials/2d_breakout_game_pure_javascript/mouse_controls,null
+games/tutorials/2d_breakout_game_pure_javascript/mouse_controls,0
 games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,null
 games/tutorials/2d_breakout_game_pure_javascript/paddle_and_keyboard_controls,null
 games/tutorials/2d_breakout_game_pure_javascript/track_the_score_and_win,0
@@ -1863,6 +1863,7 @@ mozilla/add-ons/webextensions/manifest.json/options_ui,null
 mozilla/add-ons/webextensions/manifest.json/page_action,null
 mozilla/add-ons/webextensions/manifest.json/permissions,null
 mozilla/add-ons/webextensions/manifest.json/protocol_handlers,null
+mozilla/add-ons/webextensions/manifest.json/sandbox,null
 mozilla/add-ons/webextensions/manifest.json/short_name,1
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,null
 mozilla/add-ons/webextensions/manifest.json/storage,null
