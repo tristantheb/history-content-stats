@@ -1867,7 +1867,7 @@ mozilla/add-ons/webextensions/manifest.json/sandbox,ef11240e109e4b39ff9e8cac248d
 mozilla/add-ons/webextensions/manifest.json/short_name,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/storage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/theme,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/theme,f49f1d49a7ea045dd1365834d8931721894c1aaf,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/theme_experiment,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/user_scripts,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/version,9a1a8665d37c3b75f9d9a545c4c2407296615a41,Mozilla|Firefox Add-ons
@@ -3176,9 +3176,9 @@ web/api/cssmathclamp/cssmathclamp,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web A
 web/api/cssmathclamp/lower,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssmathclamp/upper,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssmathclamp/value,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathinvert,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathinvert/cssmathinvert,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssmathinvert/value,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
+web/api/cssmathinvert,542f8a0bccdf6258fb687ee878b87513e4fd1711,Web APIs
+web/api/cssmathinvert/cssmathinvert,542f8a0bccdf6258fb687ee878b87513e4fd1711,Web APIs
+web/api/cssmathinvert/value,542f8a0bccdf6258fb687ee878b87513e4fd1711,Web APIs
 web/api/cssmathmax,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssmathmax/cssmathmax,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssmathmax/values,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
@@ -3210,7 +3210,7 @@ web/api/cssnumericarray,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssnumericarray/length,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssnumericvalue,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssnumericvalue/add,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssnumericvalue/div,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
+web/api/cssnumericvalue/div,542f8a0bccdf6258fb687ee878b87513e4fd1711,Web APIs
 web/api/cssnumericvalue/equals,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssnumericvalue/max,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssnumericvalue/min,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
@@ -5778,7 +5778,7 @@ web/api/languagedetector/detect,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web API
 web/api/languagedetector/expectedinputlanguages,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
 web/api/languagedetector/inputquota,613cb65038a6b572f78ce5f83c711ec2611599fb,Web APIs
 web/api/languagedetector/measureinputusage,613cb65038a6b572f78ce5f83c711ec2611599fb,Web APIs
-web/api/languagemodel,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
+web/api/languagemodel,343ab51426f9279175b8f71fff911621d0a7da20,Web APIs
 web/api/languagemodel/append,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
 web/api/languagemodel/availability_static,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
 web/api/languagemodel/clone,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
@@ -6053,7 +6053,7 @@ web/api/mediastreamtrackevent/track,ac67e6f05d337e52e39f02a978b8c00bc43d583b,Web
 web/api/mediastreamtrackgenerator,62e6088450ab10db4697d190dd54d09dd9a0791a,Web APIs
 web/api/mediastreamtrackgenerator/mediastreamtrackgenerator,62e6088450ab10db4697d190dd54d09dd9a0791a,Web APIs
 web/api/mediastreamtrackgenerator/writable,84f8672adab0fdb783d02676c42a2b7ae16b3606,Web APIs
-web/api/mediastreamtrackprocessor,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
+web/api/mediastreamtrackprocessor,343ab51426f9279175b8f71fff911621d0a7da20,Web APIs
 web/api/mediastreamtrackprocessor/discardedframes,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
 web/api/mediastreamtrackprocessor/mediastreamtrackprocessor,a61be259435257328a25c462cb0f42bc91981a6f,Web APIs
 web/api/mediastreamtrackprocessor/readable,a61be259435257328a25c462cb0f42bc91981a6f,Web APIs
@@ -6986,7 +6986,7 @@ web/api/promiserejectionevent,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
 web/api/promiserejectionevent/promise,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
 web/api/promiserejectionevent/promiserejectionevent,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
 web/api/promiserejectionevent/reason,bcb3ff5a0fd5080c2ce109d0eb17831b6ef57a2d,Web APIs
-web/api/prompt_api,4ffb7c4d246f8f5dac5f4829b3f5b8789a62f143,Web APIs
+web/api/prompt_api,343ab51426f9279175b8f71fff911621d0a7da20,Web APIs
 web/api/prompt_api/adding_context,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
 web/api/prompt_api/multimodal,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
 web/api/prompt_api/preserving_sessions,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
@@ -10439,7 +10439,7 @@ web/css/guides/grid_layout/relationship_with_other_layout_methods,98066c71788a31
 web/css/guides/grid_layout/subgrid,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/images,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/images/implementing_image_sprites,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/images/replaced_element_properties,7b47c1b23681675bdaaa3788d1c177ac92eb925f,CSS|Guides
+web/css/guides/images/replaced_element_properties,f49f1d49a7ea045dd1365834d8931721894c1aaf,CSS|Guides
 web/css/guides/images/using_gradients,4f1188d6d007e5f57aa62326f89a849aa4cae707,CSS|Guides
 web/css/guides/images/using_object-view-box,ef62db148244eb03c862aa7f1b3865a3f727deaf,CSS|Guides
 web/css/guides/inline_layout,caab35a9191642d8d0362bba385f260b40683ccf,CSS|Guides
@@ -10535,7 +10535,7 @@ web/css/guides/values_and_units,c8522f47d8123fe529f39851b13b9fc01345ffbf,CSS|Gui
 web/css/guides/values_and_units/numeric_data_types,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/values_and_units/textual_data_types,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/values_and_units/using_math_functions,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/values_and_units/using_typed_arithmetic,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/values_and_units/using_typed_arithmetic,f49f1d49a7ea045dd1365834d8931721894c1aaf,CSS|Guides
 web/css/guides/values_and_units/value_definition_syntax,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/view_transitions,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,CSS|Guides
 web/css/guides/viewport,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -11094,10 +11094,10 @@ web/css/reference/properties/ruby-align,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/ruby-overhang,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/rule,f4d39e4f5a6f426bff5f91cccb5b6fadff094e27,CSS|Properties
-web/css/reference/properties/rule-color,c655f38c10ba17b853b0e66b43cf4cf2b176e424,CSS|Properties
-web/css/reference/properties/rule-style,e08f8e5467c3af416ca82f00bfbf19d718d6fbab,CSS|Properties
+web/css/reference/properties/rule-color,343ab51426f9279175b8f71fff911621d0a7da20,CSS|Properties
+web/css/reference/properties/rule-style,343ab51426f9279175b8f71fff911621d0a7da20,CSS|Properties
 web/css/reference/properties/rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/rule-width,e08f8e5467c3af416ca82f00bfbf19d718d6fbab,CSS|Properties
+web/css/reference/properties/rule-width,343ab51426f9279175b8f71fff911621d0a7da20,CSS|Properties
 web/css/reference/properties/rx,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ry,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scale,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -13780,7 +13780,7 @@ web/svg/guides/svg_as_an_image,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,SVG|Guid
 web/svg/guides/svg_filters,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Guides
 web/svg/guides/svg_in_html,69ff5fe627a17cf397ebd7b0f88a83c272c0bce5,SVG|Guides
 web/svg/reference,c2fd97474834e061404b992c8397d4ccc4439a71,SVG
-web/svg/reference/attribute,28f2781de2dbb8e81be94c87ff81fd0442cb4736,SVG|Attribute
+web/svg/reference/attribute,f49f1d49a7ea045dd1365834d8931721894c1aaf,SVG|Attribute
 web/svg/reference/attribute/accumulate,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/additive,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/alignment-baseline,a516a9818e8cef06c626d436ee1d73fc6d87ec51,SVG|Attribute
