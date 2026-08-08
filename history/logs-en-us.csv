@@ -6426,7 +6426,7 @@ web/api/node,5cfd038b0d37452042461cfe169c0c9ab87be94d,Web APIs
 web/api/node/appendchild,79fdc26fea835d65c9361541bb8ab1896f307475,Web APIs
 web/api/node/baseuri,b7c9a25bc747b8a4a3dfd91a37ac1b2193414c3a,Web APIs
 web/api/node/childnodes,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/node/clonenode,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
+web/api/node/clonenode,11ec5c2a7635fd5a724abf59e4088075a940bdb6,Web APIs
 web/api/node/comparedocumentposition,59f510e3cca77e928a0300b61a5112386a990046,Web APIs
 web/api/node/contains,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
 web/api/node/firstchild,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
