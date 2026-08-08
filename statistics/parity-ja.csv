@@ -316,7 +316,7 @@ glossary/html,1
 glossary/html5,0
 glossary/html_color_codes,0
 glossary/http,0
-glossary/http_2,null
+glossary/http_2,0
 glossary/http_3,null
 glossary/http_content,2
 glossary/http_header,10
@@ -336,7 +336,7 @@ glossary/ietf,null
 glossary/iife,0
 glossary/imap,3
 glossary/immutable,3
-glossary/indexeddb,null
+glossary/indexeddb,0
 glossary/information_architecture,null
 glossary/inheritance,null
 glossary/ink_overflow,6
@@ -464,7 +464,7 @@ glossary/plaintext,1
 glossary/plugin,0
 glossary/png,null
 glossary/polyfill,0
-glossary/polymorphism,null
+glossary/polymorphism,0
 glossary/pop,0
 glossary/port,1
 glossary/prefetch,5
@@ -488,7 +488,7 @@ glossary/proxy_server,2
 glossary/pseudo-class,null
 glossary/pseudo-element,3
 glossary/pseudocode,null
-glossary/public-key_cryptography,null
+glossary/public-key_cryptography,1
 glossary/python,0
 glossary/quality_values,3
 glossary/quaternion,null
@@ -647,7 +647,7 @@ glossary/usenet,null
 glossary/user_agent,0
 glossary/utf-16,0
 glossary/utf-8,0
-glossary/uuid,null
+glossary/uuid,0
 glossary/ux,null
 glossary/validator,null
 glossary/value,12
@@ -1933,7 +1933,7 @@ mozilla/firefox/releases/115,13
 mozilla/firefox/releases/116,15
 mozilla/firefox/releases/117,12
 mozilla/firefox/releases/118,13
-mozilla/firefox/releases/119,16
+mozilla/firefox/releases/119,0
 mozilla/firefox/releases/12,null
 mozilla/firefox/releases/120,15
 mozilla/firefox/releases/121,12
@@ -2174,7 +2174,7 @@ web/accessibility/aria/reference/roles/alert_role,6
 web/accessibility/aria/reference/roles/alertdialog_role,null
 web/accessibility/aria/reference/roles/application_role,0
 web/accessibility/aria/reference/roles/article_role,null
-web/accessibility/aria/reference/roles/banner_role,null
+web/accessibility/aria/reference/roles/banner_role,0
 web/accessibility/aria/reference/roles/button_role,10
 web/accessibility/aria/reference/roles/cell_role,5
 web/accessibility/aria/reference/roles/checkbox_role,null
@@ -2196,7 +2196,7 @@ web/accessibility/aria/reference/roles/generic_role,2
 web/accessibility/aria/reference/roles/grid_role,null
 web/accessibility/aria/reference/roles/gridcell_role,null
 web/accessibility/aria/reference/roles/group_role,0
-web/accessibility/aria/reference/roles/heading_role,null
+web/accessibility/aria/reference/roles/heading_role,0
 web/accessibility/aria/reference/roles/img_role,4
 web/accessibility/aria/reference/roles/input_role,0
 web/accessibility/aria/reference/roles/landmark_role,1
@@ -2215,7 +2215,7 @@ web/accessibility/aria/reference/roles/menuitem_role,0
 web/accessibility/aria/reference/roles/menuitemcheckbox_role,3
 web/accessibility/aria/reference/roles/menuitemradio_role,5
 web/accessibility/aria/reference/roles/meter_role,0
-web/accessibility/aria/reference/roles/navigation_role,null
+web/accessibility/aria/reference/roles/navigation_role,0
 web/accessibility/aria/reference/roles/none_role,2
 web/accessibility/aria/reference/roles/note_role,null
 web/accessibility/aria/reference/roles/option_role,0
@@ -4634,7 +4634,7 @@ web/api/gpusampler/label,null
 web/api/gpushadermodule,null
 web/api/gpushadermodule/getcompilationinfo,null
 web/api/gpushadermodule/label,null
-web/api/gpusupportedfeatures,16
+web/api/gpusupportedfeatures,0
 web/api/gpusupportedlimits,6
 web/api/gputexture,null
 web/api/gputexture/createview,null
