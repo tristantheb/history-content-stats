@@ -4948,6 +4948,9 @@ web/css/reference/properties/ruby-align,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/ruby-overhang,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/rule-color,343ab51426f9279175b8f71fff911621d0a7da20
+web/css/reference/properties/rule-style,343ab51426f9279175b8f71fff911621d0a7da20
+web/css/reference/properties/rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a
+web/css/reference/properties/rule-width,343ab51426f9279175b8f71fff911621d0a7da20
 web/css/reference/properties/rule,f4d39e4f5a6f426bff5f91cccb5b6fadff094e27
 web/css/reference/properties/rx,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/ry,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -5063,6 +5066,7 @@ web/css/reference/properties/view-timeline-name,a8b7faffbd3fdeae5c0be97793d963d8
 web/css/reference/properties/view-timeline,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf
 web/css/reference/properties/view-transition-class,7447816a276e95c5b4c2ab2f6a1f80b081371de2
 web/css/reference/properties/view-transition-name,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/view-transition-scope,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/visibility,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/white-space-collapse,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/white-space,bcbb4bd6a80292c0663b723d5466759cfaaa8315
