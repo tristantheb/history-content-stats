@@ -6424,7 +6424,7 @@ web/api/networkinformation/type,5671055d63552c5a4dc22ce7f6bea408afa1521a
 web/api/node/appendchild,79fdc26fea835d65c9361541bb8ab1896f307475
 web/api/node/baseuri,b7c9a25bc747b8a4a3dfd91a37ac1b2193414c3a
 web/api/node/childnodes,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/api/node/clonenode,730741c750cc299b85798f1adbaf7adbd6e2016d
+web/api/node/clonenode,11ec5c2a7635fd5a724abf59e4088075a940bdb6
 web/api/node/comparedocumentposition,59f510e3cca77e928a0300b61a5112386a990046
 web/api/node/contains,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
 web/api/node/firstchild,85fccefc8066bd49af4ddafc12c77f35265c7e2d
