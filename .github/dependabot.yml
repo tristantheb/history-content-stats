@@ -7,3 +7,7 @@ updates:
       interval: "daily"
     labels:
       - "dependencies:ci"
+    groups:
+      codeql-action:
+        patterns:
+          - "github/codeql-action/*"
