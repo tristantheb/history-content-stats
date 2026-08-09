@@ -6426,7 +6426,7 @@ web/api/node,0
 web/api/node/appendchild,0
 web/api/node/baseuri,0
 web/api/node/childnodes,0
-web/api/node/clonenode,1
+web/api/node/clonenode,0
 web/api/node/comparedocumentposition,0
 web/api/node/contains,0
 web/api/node/firstchild,0
