@@ -9709,7 +9709,7 @@ web/api/webtransportsendstream/sendorder,null
 web/api/webusb_api,9
 web/api/webvr_api,11
 web/api/webvr_api/concepts,10
-web/api/webvr_api/using_the_webvr_api,16
+web/api/webvr_api/using_the_webvr_api,0
 web/api/webvr_api/using_vr_controllers_with_webvr,13
 web/api/webvtt_api,7
 web/api/webvtt_api/web_video_text_tracks_format,8
@@ -12432,7 +12432,7 @@ web/javascript/reference/global_objects/array/map,3
 web/javascript/reference/global_objects/array/of,0
 web/javascript/reference/global_objects/array/pop,0
 web/javascript/reference/global_objects/array/push,1
-web/javascript/reference/global_objects/array/reduce,1
+web/javascript/reference/global_objects/array/reduce,0
 web/javascript/reference/global_objects/array/reduceright,1
 web/javascript/reference/global_objects/array/reverse,1
 web/javascript/reference/global_objects/array/shift,1
@@ -14003,7 +14003,7 @@ web/svg/reference/element/fediffuselighting,0
 web/svg/reference/element/fedisplacementmap,0
 web/svg/reference/element/fedistantlight,null
 web/svg/reference/element/fedropshadow,0
-web/svg/reference/element/feflood,null
+web/svg/reference/element/feflood,0
 web/svg/reference/element/fefunca,0
 web/svg/reference/element/fefuncb,0
 web/svg/reference/element/fefuncg,0
