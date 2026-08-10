@@ -14103,8 +14103,16 @@ web/webdriver/reference/bidi/modules/browsingcontext/close,null
 web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,null
 web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,null
 web/webdriver/reference/bidi/modules/browsingcontext/create,null
+web/webdriver/reference/bidi/modules/browsingcontext/domcontentloaded,null
+web/webdriver/reference/bidi/modules/browsingcontext/fragmentnavigated,null
 web/webdriver/reference/bidi/modules/browsingcontext/gettree,null
+web/webdriver/reference/bidi/modules/browsingcontext/historyupdated,null
+web/webdriver/reference/bidi/modules/browsingcontext/load,null
+web/webdriver/reference/bidi/modules/browsingcontext/locatenodes,null
 web/webdriver/reference/bidi/modules/browsingcontext/navigate,null
+web/webdriver/reference/bidi/modules/browsingcontext/navigationcommitted,null
+web/webdriver/reference/bidi/modules/browsingcontext/navigationfailed,null
+web/webdriver/reference/bidi/modules/browsingcontext/navigationstarted,null
 web/webdriver/reference/bidi/modules/browsingcontext/reload,null
 web/webdriver/reference/bidi/modules/browsingcontext/traversehistory,null
 web/webdriver/reference/bidi/modules/emulation,null
