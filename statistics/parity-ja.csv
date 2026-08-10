@@ -414,7 +414,7 @@ glossary/multi-factor_authentication,0
 glossary/mutable,null
 glossary/mvc,1
 glossary/namespace,null
-glossary/nan,null
+glossary/nan,0
 glossary/nat,null
 glossary/native,1
 glossary/navigation_directive,null
@@ -8945,7 +8945,7 @@ web/api/trustedtypepolicyfactory/getpropertytype,0
 web/api/trustedtypepolicyfactory/ishtml,1
 web/api/trustedtypepolicyfactory/isscript,1
 web/api/trustedtypepolicyfactory/isscripturl,1
-web/api/ui_events,1
+web/api/ui_events,0
 web/api/ui_events/keyboard_event_code_values,1
 web/api/ui_events/keyboard_event_key_values,15
 web/api/uievent,2
@@ -10896,7 +10896,7 @@ web/css/reference/properties/font-palette/palette-mix,0
 web/css/reference/properties/font-size,1
 web/css/reference/properties/font-size-adjust,2
 web/css/reference/properties/font-smooth,1
-web/css/reference/properties/font-stretch,4
+web/css/reference/properties/font-stretch,1
 web/css/reference/properties/font-style,1
 web/css/reference/properties/font-synthesis,2
 web/css/reference/properties/font-synthesis-position,2
@@ -14001,7 +14001,7 @@ web/svg/reference/element/fecomposite,0
 web/svg/reference/element/feconvolvematrix,0
 web/svg/reference/element/fediffuselighting,0
 web/svg/reference/element/fedisplacementmap,0
-web/svg/reference/element/fedistantlight,null
+web/svg/reference/element/fedistantlight,0
 web/svg/reference/element/fedropshadow,0
 web/svg/reference/element/feflood,0
 web/svg/reference/element/fefunca,0
@@ -14011,10 +14011,10 @@ web/svg/reference/element/fefuncr,0
 web/svg/reference/element/fegaussianblur,2
 web/svg/reference/element/feimage,1
 web/svg/reference/element/femerge,0
-web/svg/reference/element/femergenode,null
+web/svg/reference/element/femergenode,0
 web/svg/reference/element/femorphology,3
 web/svg/reference/element/feoffset,2
-web/svg/reference/element/fepointlight,null
+web/svg/reference/element/fepointlight,0
 web/svg/reference/element/fespecularlighting,0
 web/svg/reference/element/fespotlight,0
 web/svg/reference/element/fetile,0
