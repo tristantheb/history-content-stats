@@ -2574,10 +2574,12 @@ web/api/element/animationend_event,no_hash_commit
 web/api/element/animationiteration_event,no_hash_commit
 web/api/element/animationstart_event,no_hash_commit
 web/api/element/append,542ef6cfd82288925e0a9238b47933f03e2dddca
+web/api/element/ariaactivedescendantelement,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1
 web/api/element/arialabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/arialive,no_hash_commit
 web/api/element/ariaposinset,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
+web/api/element/assignedslot,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/api/element/attachshadow,no_hash_commit
 web/api/element/attributes,no_hash_commit
 web/api/element/auxclick_event,no_hash_commit

@@ -6615,7 +6615,7 @@ web/api/path2d,daeff1a2efaae366bcc8b6d911d86985646e665e,Web APIs
 web/api/path2d/addpath,bee00a5446184d5ef1cd338b980210c676186a30,Web APIs
 web/api/path2d/path2d,df440f2a6c405f27bfa4c0d0960f2c02ff217d67,Web APIs
 web/api/payment_request_api,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
-web/api/payment_request_api/concepts,483ce811e1ea52cb2d9d2a5af0c4d1c4d591ea4a,Web APIs
+web/api/payment_request_api/concepts,e9a9a55d62ddcc2917c509df4845e16ed4ffb2cb,Web APIs
 web/api/payment_request_api/using_secure_payment_confirmation,43875884a5ebc2c7de4702c31a9bdc3ecbeed610,Web APIs
 web/api/payment_request_api/using_the_payment_request_api,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,Web APIs
 web/api/paymentaddress,aa8fa82a902746b0bd97839180fc2b5397088140,Web APIs
