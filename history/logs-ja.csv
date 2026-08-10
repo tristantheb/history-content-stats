@@ -369,7 +369,7 @@ glossary/multi-factor_authentication,79f65d8322a4e55e9f3f4c91441c9188dbe670e0
 glossary/mutable,no_hash_commit
 glossary/mvc,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/namespace,no_hash_commit
-glossary/nan,no_hash_commit
+glossary/nan,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/nat,no_hash_commit
 glossary/native,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/navigation_directive,no_hash_commit
@@ -5974,7 +5974,7 @@ web/api/trustedtypepolicyfactory,c7d5004cd6c5d5b1318f626425fcb06cb2c6a509
 web/api/trustedtypepolicyfactory/ishtml,22080a7cc403f7f45c8e85065b182c9f0d4d383c
 web/api/trustedtypepolicyfactory/isscript,22080a7cc403f7f45c8e85065b182c9f0d4d383c
 web/api/trustedtypepolicyfactory/isscripturl,bb48907e64eb4bf60f17efd7d39b46c771d220a0
-web/api/ui_events,8c60ba86d4c10250eb80265a3be59add51540a82
+web/api/ui_events,be1922d62a0d31e4e3441db0e943aed8df736481
 web/api/ui_events/keyboard_event_code_values,b2a5f62d66b4e3d71704017d0fab7ad710e68057
 web/api/ui_events/keyboard_event_key_values,c6dbc4ff96451887b908b46c8e70bcfec1c2c48c
 web/api/uievent/detail,0c8a320b035cf625c1df67713a94ead2e7f3aec6
@@ -7314,7 +7314,7 @@ web/css/reference/properties/font-palette/palette-mix,b760560abe30bd69ca968dac38
 web/css/reference/properties/font-size-adjust,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/font-size,f69b6693212029ce4b9fa0c753729044577af548
 web/css/reference/properties/font-smooth,2d78abb3e793352e24e976ce0e68c08d817bd7f3
-web/css/reference/properties/font-stretch,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/font-stretch,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5
 web/css/reference/properties/font-style,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/font-synthesis-position,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/font-synthesis-small-caps,2d78abb3e793352e24e976ce0e68c08d817bd7f3
@@ -9889,6 +9889,7 @@ web/svg/reference/element/fecomposite,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/feconvolvematrix,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/fediffuselighting,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/fedisplacementmap,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
+web/svg/reference/element/fedistantlight,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/fedropshadow,f8939dd06d7b120f77c4b4c70cac591d0eb20beb
 web/svg/reference/element/feflood,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/fefunca,c2fd97474834e061404b992c8397d4ccc4439a71
@@ -9898,8 +9899,10 @@ web/svg/reference/element/fefuncr,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/fegaussianblur,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/feimage,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/femerge,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
+web/svg/reference/element/femergenode,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/femorphology,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/element/feoffset,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/element/fepointlight,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/fespecularlighting,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/fespotlight,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
 web/svg/reference/element/fetile,62476ac3c21417ad3a07e12c9f8eaf92cea8311d
