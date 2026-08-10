@@ -3825,7 +3825,7 @@ web/api/element/animationend_event,null
 web/api/element/animationiteration_event,null
 web/api/element/animationstart_event,null
 web/api/element/append,1
-web/api/element/ariaactivedescendantelement,null
+web/api/element/ariaactivedescendantelement,0
 web/api/element/ariaatomic,null
 web/api/element/ariaautocomplete,null
 web/api/element/ariabraillelabel,null
@@ -3877,7 +3877,7 @@ web/api/element/ariavaluemax,null
 web/api/element/ariavaluemin,null
 web/api/element/ariavaluenow,null
 web/api/element/ariavaluetext,null
-web/api/element/assignedslot,null
+web/api/element/assignedslot,0
 web/api/element/attachshadow,null
 web/api/element/attributes,null
 web/api/element/auxclick_event,null
