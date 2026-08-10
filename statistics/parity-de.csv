@@ -6615,7 +6615,7 @@ web/api/path2d,0
 web/api/path2d/addpath,0
 web/api/path2d/path2d,0
 web/api/payment_request_api,0
-web/api/payment_request_api/concepts,1
+web/api/payment_request_api/concepts,0
 web/api/payment_request_api/using_secure_payment_confirmation,0
 web/api/payment_request_api/using_the_payment_request_api,0
 web/api/paymentaddress,0
