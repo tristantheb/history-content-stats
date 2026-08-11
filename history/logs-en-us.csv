@@ -10920,7 +10920,7 @@ web/css/reference/properties/gap,7f138099644a02640a903b2abc39e685ca8ca7cd,CSS|Pr
 web/css/reference/properties/grid,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-auto-columns,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/grid-auto-flow,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/grid-auto-flow,2f710bc43d966483d0204330b14f841b440a6b60,CSS|Properties
 web/css/reference/properties/grid-auto-rows,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-column,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-column-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10930,8 +10930,8 @@ web/css/reference/properties/grid-row-end,bcbb4bd6a80292c0663b723d5466759cfaaa83
 web/css/reference/properties/grid-row-start,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-template,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-template-areas,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/grid-template-columns,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/grid-template-rows,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/grid-template-columns,2f710bc43d966483d0204330b14f841b440a6b60,CSS|Properties
+web/css/reference/properties/grid-template-rows,2f710bc43d966483d0204330b14f841b440a6b60,CSS|Properties
 web/css/reference/properties/hanging-punctuation,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/height,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/hyphenate-character,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
