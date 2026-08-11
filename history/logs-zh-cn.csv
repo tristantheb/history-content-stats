@@ -4856,7 +4856,7 @@ web/api/window/scrollmaxx,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/scrollmaxy,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/scrollto,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/scrollx,no_hash_commit
-web/api/window/scrolly,no_hash_commit
+web/api/window/scrolly,896a41d7d9832367a1e24af567fb419e9d4182f8
 web/api/window/self,no_hash_commit
 web/api/window/sessionstorage,no_hash_commit
 web/api/window/setimmediate,no_hash_commit
@@ -5182,10 +5182,10 @@ web/css/reference/at-rules/@font-face/font-style,418b3ebf6464716649125199385c39d
 web/css/reference/at-rules/@font-face,no_hash_commit
 web/css/reference/at-rules/@font-face/line-gap-override,7e1296fc0722c86fb7e15487b5e9626597c7a2a0
 web/css/reference/at-rules/@font-face/src,8d4fb1e2934111a13989d2796152dc601468e7b5
-web/css/reference/at-rules/@font-feature-values,no_hash_commit
+web/css/reference/at-rules/@font-feature-values,e328268bb418551ab451881845881b5837c9da83
 web/css/reference/at-rules/@import,no_hash_commit
 web/css/reference/at-rules/@keyframes,no_hash_commit
-web/css/reference/at-rules/@layer,no_hash_commit
+web/css/reference/at-rules/@layer,e328268bb418551ab451881845881b5837c9da83
 web/css/reference/at-rules/@media/-webkit-device-pixel-ratio,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/at-rules/@media/any-hover,no_hash_commit
 web/css/reference/at-rules/@media/any-pointer,no_hash_commit
@@ -5495,7 +5495,7 @@ web/css/reference/properties/padding-left,fab1f9cef824066b3ce6a5b25f6c6db539f5d0
 web/css/reference/properties/padding-right,fab1f9cef824066b3ce6a5b25f6c6db539f5d042
 web/css/reference/properties/padding-top,fab1f9cef824066b3ce6a5b25f6c6db539f5d042
 web/css/reference/properties/padding,fab1f9cef824066b3ce6a5b25f6c6db539f5d042
-web/css/reference/properties/page-break-after,no_hash_commit
+web/css/reference/properties/page-break-after,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/paint-order,no_hash_commit
 web/css/reference/properties/perspective-origin,no_hash_commit
 web/css/reference/properties/perspective,no_hash_commit
@@ -7412,6 +7412,7 @@ web/svg/reference/attribute/visibility,no_hash_commit
 web/svg/reference/attribute/width,no_hash_commit
 web/svg/reference/attribute/x,no_hash_commit
 web/svg/reference/attribute/y,no_hash_commit
+web/svg/reference/attribute/zoomandpan,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/element/a,94a841dba1498c685a18e72d041fd9057f302d6c
 web/svg/reference/element/animate,no_hash_commit
 web/svg/reference/element/animatemotion,no_hash_commit
