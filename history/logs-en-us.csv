@@ -3171,33 +3171,33 @@ web/api/csslayerblockrule,d7e665f6202179fcccbe753a1bfd358c224c3928,Web APIs
 web/api/csslayerblockrule/name,d7e665f6202179fcccbe753a1bfd358c224c3928,Web APIs
 web/api/csslayerstatementrule,d7e665f6202179fcccbe753a1bfd358c224c3928,Web APIs
 web/api/csslayerstatementrule/namelist,729c5842f64e8049ddab60bf7653bbad5e1f4f7f,Web APIs
-web/api/cssmathclamp,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathclamp/cssmathclamp,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
+web/api/cssmathclamp,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathclamp/cssmathclamp,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/cssmathclamp/lower,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssmathclamp/upper,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssmathclamp/value,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssmathinvert,542f8a0bccdf6258fb687ee878b87513e4fd1711,Web APIs
 web/api/cssmathinvert/cssmathinvert,542f8a0bccdf6258fb687ee878b87513e4fd1711,Web APIs
 web/api/cssmathinvert/value,542f8a0bccdf6258fb687ee878b87513e4fd1711,Web APIs
-web/api/cssmathmax,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathmax/cssmathmax,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssmathmax/values,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathmin,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathmin/cssmathmin,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssmathmin/values,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathnegate,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathnegate/cssmathnegate,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssmathnegate/value,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathproduct,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathproduct/cssmathproduct,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssmathproduct/values,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathsum,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathsum/cssmathsum,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssmathsum/values,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathvalue,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmathvalue/operator,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
+web/api/cssmathmax,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathmax/cssmathmax,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathmax/values,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathmin,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathmin/cssmathmin,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathmin/values,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathnegate,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathnegate/cssmathnegate,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathnegate/value,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathproduct,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathproduct/cssmathproduct,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathproduct/values,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathsum,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathsum/cssmathsum,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathsum/values,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathvalue,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssmathvalue/operator,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/cssmatrixcomponent,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssmatrixcomponent/cssmatrixcomponent,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
+web/api/cssmatrixcomponent/cssmatrixcomponent,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/cssmatrixcomponent/matrix,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssmediarule,56bbf59f4ea2566d64ad2e5c669a7a597626b7f3,Web APIs
 web/api/cssmediarule/media,c053b4b3bb0f34736e9f4402d4254830670af723,Web APIs
@@ -3209,16 +3209,16 @@ web/api/cssnesteddeclarations/style,c053b4b3bb0f34736e9f4402d4254830670af723,Web
 web/api/cssnumericarray,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssnumericarray/length,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssnumericvalue,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssnumericvalue/add,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssnumericvalue/div,542f8a0bccdf6258fb687ee878b87513e4fd1711,Web APIs
-web/api/cssnumericvalue/equals,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssnumericvalue/max,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssnumericvalue/min,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssnumericvalue/mul,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
+web/api/cssnumericvalue/add,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssnumericvalue/div,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssnumericvalue/equals,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssnumericvalue/max,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssnumericvalue/min,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/cssnumericvalue/mul,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/cssnumericvalue/parse_static,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssnumericvalue/sub,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
+web/api/cssnumericvalue/sub,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/cssnumericvalue/to,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssnumericvalue/tosum,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
+web/api/cssnumericvalue/tosum,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/cssnumericvalue/type,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssom_view_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/cssom_view_api/coordinate_systems,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
@@ -3258,7 +3258,7 @@ web/api/csspseudoelement/pseudo,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web API
 web/api/csspseudoelement/type,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
 web/api/cssrotate,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssrotate/angle,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssrotate/cssrotate,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
+web/api/cssrotate/cssrotate,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/cssrotate/x,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssrotate/y,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssrotate/z,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
@@ -3322,8 +3322,8 @@ web/api/cssstylevalue/parse_static,285179734bb0505a755c76aa556b6cb12d81b643,Web 
 web/api/cssstylevalue/parseall_static,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssstylevalue/tostring,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/csssupportsrule,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/csstransformcomponent,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/csstransformcomponent/is2d,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
+web/api/csstransformcomponent,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/csstransformcomponent/is2d,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/csstransformcomponent/tomatrix,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/csstransformcomponent/tostring,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/csstransformvalue,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
@@ -3342,11 +3342,11 @@ web/api/csstranslate/csstranslate,285179734bb0505a755c76aa556b6cb12d81b643,Web A
 web/api/csstranslate/x,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/csstranslate/y,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/csstranslate/z,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssunitvalue,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
+web/api/cssunitvalue,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/cssunitvalue/cssunitvalue,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssunitvalue/unit,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssunitvalue/value,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssunparsedvalue,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
+web/api/cssunparsedvalue,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/cssunparsedvalue/cssunparsedvalue,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssunparsedvalue/entries,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssunparsedvalue/foreach,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
@@ -8076,14 +8076,14 @@ web/api/streams_api/using_readable_byte_streams,f336c5b6795a562c64fe859aa9ee2bec
 web/api/streams_api/using_readable_streams,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
 web/api/streams_api/using_writable_streams,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/stylepropertymap,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/stylepropertymap/append,ebb9a6421c24c4aff2fef3913527571441361cf0,Web APIs
+web/api/stylepropertymap/append,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/stylepropertymap/clear,ebb9a6421c24c4aff2fef3913527571441361cf0,Web APIs
 web/api/stylepropertymap/delete,ebb9a6421c24c4aff2fef3913527571441361cf0,Web APIs
-web/api/stylepropertymap/set,ebb9a6421c24c4aff2fef3913527571441361cf0,Web APIs
-web/api/stylepropertymapreadonly,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
+web/api/stylepropertymap/set,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/stylepropertymapreadonly,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/stylepropertymapreadonly/entries,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/stylepropertymapreadonly/foreach,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/stylepropertymapreadonly/get,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
+web/api/stylepropertymapreadonly/get,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/stylepropertymapreadonly/getall,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/stylepropertymapreadonly/has,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/stylepropertymapreadonly/keys,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
@@ -10818,7 +10818,7 @@ web/css/reference/properties/color-interpolation,071fd0613b1b5728d2d83845ea11512
 web/css/reference/properties/color-interpolation-filters,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/color-scheme,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/column-count,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/column-fill,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/column-fill,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/column-gap,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Properties
 web/css/reference/properties/column-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/column-rule,5cf8432d980cbe9b7e5611d647d8566b5c4ff3ed,CSS|Properties
@@ -10893,29 +10893,29 @@ web/css/reference/properties/font-language-override,bcbb4bd6a80292c0663b723d5466
 web/css/reference/properties/font-optical-sizing,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-palette,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-palette/palette-mix,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Properties
-web/css/reference/properties/font-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/font-size,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-size-adjust,82eeb8918aee4fe017a6ef1cb286bfd0a8a0ff43,CSS|Properties
 web/css/reference/properties/font-smooth,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-stretch,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/font-stretch,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/font-style,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-synthesis,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-synthesis-position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-synthesis-small-caps,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-synthesis-style,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-synthesis-weight,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/font-variant,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-variant-alternates,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-variant-caps,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/font-variant,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/font-variant-alternates,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/font-variant-caps,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-variant-east-asian,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/font-variant-emoji,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-variant-ligatures,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Properties
+web/css/reference/properties/font-variant-emoji,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/font-variant-ligatures,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-variant-numeric,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/font-variant-position,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/font-variation-settings,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-weight,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/font-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/font-variation-settings,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/font-weight,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/font-width,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/forced-color-adjust,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/frame-sizing,9cf3002bd29376c15d49df6fab2e6a264285abf6,CSS|Properties
+web/css/reference/properties/frame-sizing,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/gap,7f138099644a02640a903b2abc39e685ca8ca7cd,CSS|Properties
 web/css/reference/properties/grid,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10935,12 +10935,12 @@ web/css/reference/properties/grid-template-rows,2f710bc43d966483d0204330b14f841b
 web/css/reference/properties/hanging-punctuation,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/height,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/hyphenate-character,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/hyphenate-limit-chars,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/hyphenate-limit-chars,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/hyphens,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/image-orientation,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/image-rendering,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/image-resolution,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/initial-letter,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/image-resolution,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/initial-letter,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/inline-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/inset,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/inset-block,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10959,15 +10959,15 @@ web/css/reference/properties/justify-content,071fd0613b1b5728d2d83845ea11512cb61
 web/css/reference/properties/justify-items,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/justify-self,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/letter-spacing,d62aeb53943b4861f18a3e895d32b020e09ce0aa,CSS|Properties
+web/css/reference/properties/letter-spacing,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/lighting-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/line-break,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/line-clamp,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/line-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/line-height-step,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/line-break,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/line-clamp,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/line-height,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/line-height-step,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/link-parameters,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/list-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/list-style-image,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/list-style-image,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/list-style-position,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/list-style-type,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/margin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11265,7 +11265,7 @@ web/css/reference/selectors/_colon_focus-visible,bf90d24ddf56e3f60df25fcbc0d4e3e
 web/css/reference/selectors/_colon_focus-within,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_fullscreen,8fa3309a76fe8dc4cf5e8eed97ef596a91513fbd,CSS|Selectors
 web/css/reference/selectors/_colon_future,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
-web/css/reference/selectors/_colon_has,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
+web/css/reference/selectors/_colon_has,ebc0a01b494e58ada6d89a5f94141cdcba7efbc7,CSS|Selectors
 web/css/reference/selectors/_colon_has-slotted,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_heading,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_heading_function,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
