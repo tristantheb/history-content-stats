@@ -10920,7 +10920,7 @@ web/css/reference/properties/gap,0
 web/css/reference/properties/grid,0
 web/css/reference/properties/grid-area,0
 web/css/reference/properties/grid-auto-columns,0
-web/css/reference/properties/grid-auto-flow,0
+web/css/reference/properties/grid-auto-flow,1
 web/css/reference/properties/grid-auto-rows,0
 web/css/reference/properties/grid-column,0
 web/css/reference/properties/grid-column-end,0
@@ -10930,8 +10930,8 @@ web/css/reference/properties/grid-row-end,0
 web/css/reference/properties/grid-row-start,0
 web/css/reference/properties/grid-template,0
 web/css/reference/properties/grid-template-areas,0
-web/css/reference/properties/grid-template-columns,0
-web/css/reference/properties/grid-template-rows,0
+web/css/reference/properties/grid-template-columns,1
+web/css/reference/properties/grid-template-rows,1
 web/css/reference/properties/hanging-punctuation,0
 web/css/reference/properties/height,0
 web/css/reference/properties/hyphenate-character,0
