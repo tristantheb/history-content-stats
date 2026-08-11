@@ -9835,7 +9835,7 @@ web/api/window/postmessage,0
 web/api/window/print,0
 web/api/window/prompt,0
 web/api/window/querylocalfonts,0
-web/api/window/queuemicrotask,0
+web/api/window/queuemicrotask,1
 web/api/window/rejectionhandled_event,0
 web/api/window/releaseevents,0
 web/api/window/reporterror,0
@@ -11917,7 +11917,7 @@ web/http/reference/headers/available-dictionary,0
 web/http/reference/headers/cache-control,1
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
-web/http/reference/headers/content-digest,2
+web/http/reference/headers/content-digest,3
 web/http/reference/headers/content-disposition,1
 web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
@@ -12059,7 +12059,7 @@ web/http/reference/headers/referrer-policy,1
 web/http/reference/headers/refresh,0
 web/http/reference/headers/report-to,0
 web/http/reference/headers/reporting-endpoints,0
-web/http/reference/headers/repr-digest,2
+web/http/reference/headers/repr-digest,4
 web/http/reference/headers/retry-after,0
 web/http/reference/headers/rtt,0
 web/http/reference/headers/save-data,0
@@ -12749,7 +12749,8 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,0
 web/javascript/reference/global_objects/isfinite,0
 web/javascript/reference/global_objects/isnan,0
-web/javascript/reference/global_objects/iterator,4
+web/javascript/reference/global_objects/iterator,5
+web/javascript/reference/global_objects/iterator/chunks,null
 web/javascript/reference/global_objects/iterator/concat,0
 web/javascript/reference/global_objects/iterator/drop,0
 web/javascript/reference/global_objects/iterator/every,1
@@ -12768,6 +12769,7 @@ web/javascript/reference/global_objects/iterator/symbol.dispose,0
 web/javascript/reference/global_objects/iterator/symbol.iterator,0
 web/javascript/reference/global_objects/iterator/take,0
 web/javascript/reference/global_objects/iterator/toarray,0
+web/javascript/reference/global_objects/iterator/windows,null
 web/javascript/reference/global_objects/iterator/zip,0
 web/javascript/reference/global_objects/iterator/zipkeyed,0
 web/javascript/reference/global_objects/json,0
@@ -13281,7 +13283,7 @@ web/javascript/reference/global_objects/temporal/plainyearmonth/valueof,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/with,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/year,0
 web/javascript/reference/global_objects/temporal/zoneddatetime,1
-web/javascript/reference/global_objects/temporal/zoneddatetime/add,0
+web/javascript/reference/global_objects/temporal/zoneddatetime/add,1
 web/javascript/reference/global_objects/temporal/zoneddatetime/calendarid,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/compare,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/day,0

@@ -2351,7 +2351,7 @@ web/api/animation/starttime,291a8c75ed553e807895225d51dff7ac24ad1f05,Web APIs
 web/api/animation/timeline,135b8311a5e3d12789e8421845be3ce026ef72b8,Web APIs
 web/api/animation/updateplaybackrate,0a881eea07f0cec6ca4ed85a24af43b367a9f80d,Web APIs
 web/api/animationeffect,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/animationeffect/getcomputedtiming,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/animationeffect/getcomputedtiming,3f149768ce7981a70761db588fa792aea6f1afa2,Web APIs
 web/api/animationeffect/gettiming,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/animationeffect/updatetiming,135b8311a5e3d12789e8421845be3ce026ef72b8,Web APIs
 web/api/animationevent,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
@@ -9316,7 +9316,7 @@ web/api/web_authentication_api/authenticator_data,0184c0811f65e8ff7c24990c32bc83
 web/api/web_authentication_api/webauthn_extensions,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/web_bluetooth_api,ffa6f5871f50856c60983a125cef7de267be7aeb,Web APIs
 web/api/web_components,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
-web/api/web_components/using_custom_elements,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
+web/api/web_components/using_custom_elements,27ce46c588f6f1746adccfae333f543dcaf4996c,Web APIs
 web/api/web_components/using_shadow_dom,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/web_components/using_templates_and_slots,f77236a72e479b61c6b1cb6059c9ae1e90f4c7cd,Web APIs
 web/api/web_crypto_api,f430d277573ba0b06b1ac33ae8017fd90f170bef,Web APIs
@@ -9835,7 +9835,7 @@ web/api/window/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e,Web APIs
 web/api/window/print,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/window/prompt,79fdc26fea835d65c9361541bb8ab1896f307475,Web APIs
 web/api/window/querylocalfonts,6855bf0bdd644345f66b88b477fd219a5e7f866e,Web APIs
-web/api/window/queuemicrotask,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc,Web APIs
+web/api/window/queuemicrotask,3b7310aac5ffd95db697bf136b7323cffc7e5bd2,Web APIs
 web/api/window/rejectionhandled_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/window/releaseevents,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/window/reporterror,4f90930051faa1ff1f4278068885e59c5bbb0069,Web APIs
@@ -9867,9 +9867,9 @@ web/api/window/scrolly,896a41d7d9832367a1e24af567fb419e9d4182f8,Web APIs
 web/api/window/self,cc070123f72376faec06e36622c4fc723a75325f,Web APIs
 web/api/window/sessionstorage,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/window/setimmediate,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/window/setinterval,6ee50f37f78b647f2d61741e94d0792098d8af88,Web APIs
+web/api/window/setinterval,3b7310aac5ffd95db697bf136b7323cffc7e5bd2,Web APIs
 web/api/window/setresizable,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
-web/api/window/settimeout,9e226fd3896df83ea12d0c013b5a3b50bcd4183c,Web APIs
+web/api/window/settimeout,3b7310aac5ffd95db697bf136b7323cffc7e5bd2,Web APIs
 web/api/window/sharedstorage,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/window/showdirectorypicker,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/window/showopenfilepicker,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
@@ -9948,14 +9948,14 @@ web/api/workerglobalscope/offline_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec
 web/api/workerglobalscope/online_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/workerglobalscope/origin,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/workerglobalscope/performance,e8fe043f7d2ad7cd9804d1bf96e0310949f1dac7,Web APIs
-web/api/workerglobalscope/queuemicrotask,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc,Web APIs
+web/api/workerglobalscope/queuemicrotask,3b7310aac5ffd95db697bf136b7323cffc7e5bd2,Web APIs
 web/api/workerglobalscope/rejectionhandled_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/workerglobalscope/reporterror,4f90930051faa1ff1f4278068885e59c5bbb0069,Web APIs
 web/api/workerglobalscope/scheduler,3c359c63c1b58e10bdfe3bec2c245ea626560427,Web APIs
 web/api/workerglobalscope/securitypolicyviolation_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/workerglobalscope/self,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
-web/api/workerglobalscope/setinterval,21ed9a1338b207e8a39064583c19d9f720235235,Web APIs
-web/api/workerglobalscope/settimeout,21ed9a1338b207e8a39064583c19d9f720235235,Web APIs
+web/api/workerglobalscope/setinterval,3b7310aac5ffd95db697bf136b7323cffc7e5bd2,Web APIs
+web/api/workerglobalscope/settimeout,3b7310aac5ffd95db697bf136b7323cffc7e5bd2,Web APIs
 web/api/workerglobalscope/structuredclone,8b6cec0ceff01e7a9d6865cf5306788e15cce4b8,Web APIs
 web/api/workerglobalscope/trustedtypes,e8fe043f7d2ad7cd9804d1bf96e0310949f1dac7,Web APIs
 web/api/workerglobalscope/unhandledrejection_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
@@ -11917,7 +11917,7 @@ web/http/reference/headers/available-dictionary,ad5b5e31f81795d692e66dadb7818ba8
 web/http/reference/headers/cache-control,eff8aa047157f1bd4b1066cae7cc07eab2dcc0dd,HTTP|Headers
 web/http/reference/headers/clear-site-data,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/connection,0e40ec22841891d42376ad8a6d29135953c5106c,HTTP|Headers
-web/http/reference/headers/content-digest,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,HTTP|Headers
+web/http/reference/headers/content-digest,88870465bb9a7c6692ec06652f7df7c029b95a21,HTTP|Headers
 web/http/reference/headers/content-disposition,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
 web/http/reference/headers/content-dpr,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
 web/http/reference/headers/content-encoding,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -12059,7 +12059,7 @@ web/http/reference/headers/referrer-policy,4db27688840b67e416373ea571d9e3a17bafa
 web/http/reference/headers/refresh,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/report-to,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/reporting-endpoints,a019b326a3ad0c16d78d236582927a38ccaea8b4,HTTP|Headers
-web/http/reference/headers/repr-digest,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,HTTP|Headers
+web/http/reference/headers/repr-digest,88870465bb9a7c6692ec06652f7df7c029b95a21,HTTP|Headers
 web/http/reference/headers/retry-after,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/rtt,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/save-data,6c43d5c2607cbc84c8ec488400ebb66448992958,HTTP|Headers
@@ -12124,8 +12124,8 @@ web/http/reference/headers/user-agent/firefox,0bd99260a605fec40b453f2e6178f15b0b
 web/http/reference/headers/vary,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/via,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/viewport-width,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
-web/http/reference/headers/want-content-digest,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
-web/http/reference/headers/want-repr-digest,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
+web/http/reference/headers/want-content-digest,879be34803b4be7357ed5607ac90a7be413fb969,HTTP|Headers
+web/http/reference/headers/want-repr-digest,879be34803b4be7357ed5607ac90a7be413fb969,HTTP|Headers
 web/http/reference/headers/warning,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
 web/http/reference/headers/width,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
 web/http/reference/headers/www-authenticate,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,HTTP|Headers
@@ -12749,7 +12749,8 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,e7bc0e
 web/javascript/reference/global_objects/intl/supportedvaluesof,9b917afdc7307c3ad951cb031ca802cbc9fbc373,JavaScript|Global Objects
 web/javascript/reference/global_objects/isfinite,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Global Objects
 web/javascript/reference/global_objects/isnan,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Global Objects
-web/javascript/reference/global_objects/iterator,e57e3fdd4ab6fb372ddc3d78e5b428f318202426,JavaScript|Global Objects
+web/javascript/reference/global_objects/iterator,d43ba33e72afa135ce782e2c0ca19fe32a93bb13,JavaScript|Global Objects
+web/javascript/reference/global_objects/iterator/chunks,d43ba33e72afa135ce782e2c0ca19fe32a93bb13,JavaScript|Global Objects
 web/javascript/reference/global_objects/iterator/concat,dc02b8a490ea0ff4ac1236546f32270ca0cc0aa5,JavaScript|Global Objects
 web/javascript/reference/global_objects/iterator/drop,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/iterator/every,76972cdb4d87dd72e0a2a3146af07d82c7ef7d67,JavaScript|Global Objects
@@ -12768,6 +12769,7 @@ web/javascript/reference/global_objects/iterator/symbol.dispose,99e4e41ce89ef69d
 web/javascript/reference/global_objects/iterator/symbol.iterator,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/iterator/take,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/iterator/toarray,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/iterator/windows,d43ba33e72afa135ce782e2c0ca19fe32a93bb13,JavaScript|Global Objects
 web/javascript/reference/global_objects/iterator/zip,38c09bffe4654e74bfd225d28575afe42d4fe344,JavaScript|Global Objects
 web/javascript/reference/global_objects/iterator/zipkeyed,c534ba0cb925657de5e99ab8c540eae31afd9382,JavaScript|Global Objects
 web/javascript/reference/global_objects/json,ab03131120acd9e210a5da979d685457e0762d2b,JavaScript|Global Objects
@@ -12906,7 +12908,7 @@ web/javascript/reference/global_objects/promise/allsettled,544b843570cb08d1474cf
 web/javascript/reference/global_objects/promise/any,b4239bf3b36fea3f76e8d64bf362ef18bfa652b0,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/catch,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/finally,a99bc85f30c0c5a8dc5c85b7b552b442d411a082,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise/promise,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/promise,3b7310aac5ffd95db697bf136b7323cffc7e5bd2,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/race,b4239bf3b36fea3f76e8d64bf362ef18bfa652b0,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/reject,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/resolve,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
@@ -12968,12 +12970,12 @@ web/javascript/reference/global_objects/regexp/regexp,544b843570cb08d1474cfc5ec0
 web/javascript/reference/global_objects/regexp/rightcontext,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/source,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/sticky,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
-web/javascript/reference/global_objects/regexp/symbol.match,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/regexp/symbol.matchall,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/regexp/symbol.replace,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/regexp/symbol.search,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/regexp/symbol.match,5b3aa7e4e8cd54f1b662534d8c97074e522b7fc4,JavaScript|Global Objects
+web/javascript/reference/global_objects/regexp/symbol.matchall,5b3aa7e4e8cd54f1b662534d8c97074e522b7fc4,JavaScript|Global Objects
+web/javascript/reference/global_objects/regexp/symbol.replace,5b3aa7e4e8cd54f1b662534d8c97074e522b7fc4,JavaScript|Global Objects
+web/javascript/reference/global_objects/regexp/symbol.search,5b3aa7e4e8cd54f1b662534d8c97074e522b7fc4,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/symbol.species,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,JavaScript|Global Objects
-web/javascript/reference/global_objects/regexp/symbol.split,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/regexp/symbol.split,5b3aa7e4e8cd54f1b662534d8c97074e522b7fc4,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/test,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/tostring,939067a53bb5bb3787f2d536b83df2252d4e838e,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/unicode,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
@@ -13281,7 +13283,7 @@ web/javascript/reference/global_objects/temporal/plainyearmonth/valueof,7e14795a
 web/javascript/reference/global_objects/temporal/plainyearmonth/with,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/plainyearmonth/year,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/zoneddatetime,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,JavaScript|Global Objects
-web/javascript/reference/global_objects/temporal/zoneddatetime/add,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
+web/javascript/reference/global_objects/temporal/zoneddatetime/add,3ece7b308e5d180ab8fe53d2e86605fabe03dfe9,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/zoneddatetime/calendarid,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/zoneddatetime/compare,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/zoneddatetime/day,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
@@ -13431,7 +13433,7 @@ web/javascript/reference/operators/comma_operator,fad67be4431d8e6c2a89ac88073523
 web/javascript/reference/operators/conditional_operator,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/decrement,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/delete,03d5115691a7a9fa3df3b6ebd20a0c7eed213252,JavaScript|Operators
-web/javascript/reference/operators/destructuring,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
+web/javascript/reference/operators/destructuring,09893e6f9a71c5955c038aa43e47d446dd92f855,JavaScript|Operators
 web/javascript/reference/operators/division,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/division_assignment,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/equality,1133f9e054bad2340b98a608b7894fd7daa62af6,JavaScript|Operators
