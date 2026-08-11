@@ -9863,7 +9863,7 @@ web/api/window/scrollsnapchange_event,null
 web/api/window/scrollsnapchanging_event,null
 web/api/window/scrollto,4
 web/api/window/scrollx,null
-web/api/window/scrolly,null
+web/api/window/scrolly,0
 web/api/window/self,null
 web/api/window/sessionstorage,null
 web/api/window/setimmediate,null
@@ -10591,7 +10591,7 @@ web/css/reference/at-rules/@font-face/line-gap-override,2
 web/css/reference/at-rules/@font-face/size-adjust,null
 web/css/reference/at-rules/@font-face/src,2
 web/css/reference/at-rules/@font-face/unicode-range,null
-web/css/reference/at-rules/@font-feature-values,null
+web/css/reference/at-rules/@font-feature-values,0
 web/css/reference/at-rules/@font-feature-values/font-display,null
 web/css/reference/at-rules/@font-palette-values,null
 web/css/reference/at-rules/@font-palette-values/base-palette,null
@@ -10601,7 +10601,7 @@ web/css/reference/at-rules/@function,null
 web/css/reference/at-rules/@import,null
 web/css/reference/at-rules/@import/layer_function,null
 web/css/reference/at-rules/@keyframes,null
-web/css/reference/at-rules/@layer,null
+web/css/reference/at-rules/@layer,0
 web/css/reference/at-rules/@media,null
 web/css/reference/at-rules/@media/-moz-device-pixel-ratio,null
 web/css/reference/at-rules/@media/-webkit-animation,null
@@ -11058,7 +11058,7 @@ web/css/reference/properties/padding-left,4
 web/css/reference/properties/padding-right,4
 web/css/reference/properties/padding-top,4
 web/css/reference/properties/page,null
-web/css/reference/properties/page-break-after,null
+web/css/reference/properties/page-break-after,0
 web/css/reference/properties/page-break-before,null
 web/css/reference/properties/page-break-inside,null
 web/css/reference/properties/paint-order,null
@@ -12227,7 +12227,7 @@ web/javascript/guide/inheritance_and_the_prototype_chain,6
 web/javascript/guide/internationalization,null
 web/javascript/guide/introduction,9
 web/javascript/guide/iterators_and_generators,null
-web/javascript/guide/keyed_collections,7
+web/javascript/guide/keyed_collections,8
 web/javascript/guide/language_overview,6
 web/javascript/guide/loops_and_iteration,null
 web/javascript/guide/memory_management,8
@@ -13985,7 +13985,7 @@ web/svg/reference/attribute/y1,null
 web/svg/reference/attribute/y2,null
 web/svg/reference/attribute/ychannelselector,null
 web/svg/reference/attribute/z,null
-web/svg/reference/attribute/zoomandpan,null
+web/svg/reference/attribute/zoomandpan,0
 web/svg/reference/element,2
 web/svg/reference/element/a,0
 web/svg/reference/element/animate,null
