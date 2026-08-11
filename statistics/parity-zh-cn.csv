@@ -9835,7 +9835,7 @@ web/api/window/postmessage,null
 web/api/window/print,null
 web/api/window/prompt,0
 web/api/window/querylocalfonts,1
-web/api/window/queuemicrotask,1
+web/api/window/queuemicrotask,2
 web/api/window/rejectionhandled_event,null
 web/api/window/releaseevents,null
 web/api/window/reporterror,1
@@ -9867,9 +9867,9 @@ web/api/window/scrolly,null
 web/api/window/self,null
 web/api/window/sessionstorage,null
 web/api/window/setimmediate,null
-web/api/window/setinterval,6
+web/api/window/setinterval,7
 web/api/window/setresizable,0
-web/api/window/settimeout,10
+web/api/window/settimeout,11
 web/api/window/sharedstorage,null
 web/api/window/showdirectorypicker,2
 web/api/window/showopenfilepicker,2
@@ -9948,14 +9948,14 @@ web/api/workerglobalscope/offline_event,null
 web/api/workerglobalscope/online_event,null
 web/api/workerglobalscope/origin,3
 web/api/workerglobalscope/performance,1
-web/api/workerglobalscope/queuemicrotask,1
+web/api/workerglobalscope/queuemicrotask,2
 web/api/workerglobalscope/rejectionhandled_event,null
 web/api/workerglobalscope/reporterror,null
 web/api/workerglobalscope/scheduler,null
 web/api/workerglobalscope/securitypolicyviolation_event,null
 web/api/workerglobalscope/self,null
-web/api/workerglobalscope/setinterval,3
-web/api/workerglobalscope/settimeout,3
+web/api/workerglobalscope/setinterval,4
+web/api/workerglobalscope/settimeout,4
 web/api/workerglobalscope/structuredclone,0
 web/api/workerglobalscope/trustedtypes,0
 web/api/workerglobalscope/unhandledrejection_event,null
@@ -11917,7 +11917,7 @@ web/http/reference/headers/available-dictionary,null
 web/http/reference/headers/cache-control,null
 web/http/reference/headers/clear-site-data,null
 web/http/reference/headers/connection,null
-web/http/reference/headers/content-digest,6
+web/http/reference/headers/content-digest,7
 web/http/reference/headers/content-disposition,null
 web/http/reference/headers/content-dpr,5
 web/http/reference/headers/content-encoding,6
@@ -12749,7 +12749,8 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,null
 web/javascript/reference/global_objects/isfinite,null
 web/javascript/reference/global_objects/isnan,6
-web/javascript/reference/global_objects/iterator,21
+web/javascript/reference/global_objects/iterator,22
+web/javascript/reference/global_objects/iterator/chunks,null
 web/javascript/reference/global_objects/iterator/concat,null
 web/javascript/reference/global_objects/iterator/drop,5
 web/javascript/reference/global_objects/iterator/every,7
@@ -12768,6 +12769,7 @@ web/javascript/reference/global_objects/iterator/symbol.dispose,null
 web/javascript/reference/global_objects/iterator/symbol.iterator,2
 web/javascript/reference/global_objects/iterator/take,6
 web/javascript/reference/global_objects/iterator/toarray,4
+web/javascript/reference/global_objects/iterator/windows,null
 web/javascript/reference/global_objects/iterator/zip,null
 web/javascript/reference/global_objects/iterator/zipkeyed,null
 web/javascript/reference/global_objects/json,9
@@ -12906,7 +12908,7 @@ web/javascript/reference/global_objects/promise/allsettled,null
 web/javascript/reference/global_objects/promise/any,null
 web/javascript/reference/global_objects/promise/catch,10
 web/javascript/reference/global_objects/promise/finally,10
-web/javascript/reference/global_objects/promise/promise,8
+web/javascript/reference/global_objects/promise/promise,9
 web/javascript/reference/global_objects/promise/race,null
 web/javascript/reference/global_objects/promise/reject,null
 web/javascript/reference/global_objects/promise/resolve,4
@@ -12973,7 +12975,7 @@ web/javascript/reference/global_objects/regexp/symbol.matchall,null
 web/javascript/reference/global_objects/regexp/symbol.replace,null
 web/javascript/reference/global_objects/regexp/symbol.search,null
 web/javascript/reference/global_objects/regexp/symbol.species,null
-web/javascript/reference/global_objects/regexp/symbol.split,2
+web/javascript/reference/global_objects/regexp/symbol.split,3
 web/javascript/reference/global_objects/regexp/test,null
 web/javascript/reference/global_objects/regexp/tostring,null
 web/javascript/reference/global_objects/regexp/unicode,null

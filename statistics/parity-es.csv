@@ -9867,9 +9867,9 @@ web/api/window/scrolly,null
 web/api/window/self,null
 web/api/window/sessionstorage,null
 web/api/window/setimmediate,null
-web/api/window/setinterval,9
+web/api/window/setinterval,10
 web/api/window/setresizable,null
-web/api/window/settimeout,11
+web/api/window/settimeout,12
 web/api/window/sharedstorage,null
 web/api/window/showdirectorypicker,null
 web/api/window/showopenfilepicker,null
@@ -12750,6 +12750,7 @@ web/javascript/reference/global_objects/intl/supportedvaluesof,null
 web/javascript/reference/global_objects/isfinite,null
 web/javascript/reference/global_objects/isnan,null
 web/javascript/reference/global_objects/iterator,null
+web/javascript/reference/global_objects/iterator/chunks,null
 web/javascript/reference/global_objects/iterator/concat,null
 web/javascript/reference/global_objects/iterator/drop,null
 web/javascript/reference/global_objects/iterator/every,null
@@ -12768,6 +12769,7 @@ web/javascript/reference/global_objects/iterator/symbol.dispose,null
 web/javascript/reference/global_objects/iterator/symbol.iterator,null
 web/javascript/reference/global_objects/iterator/take,null
 web/javascript/reference/global_objects/iterator/toarray,null
+web/javascript/reference/global_objects/iterator/windows,null
 web/javascript/reference/global_objects/iterator/zip,null
 web/javascript/reference/global_objects/iterator/zipkeyed,null
 web/javascript/reference/global_objects/json,null
