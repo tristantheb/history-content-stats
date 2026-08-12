@@ -616,7 +616,7 @@ glossary/tcp,4
 glossary/tcp_handshake,5
 glossary/tcp_slow_start,4
 glossary/telnet,1
-glossary/texel,1
+glossary/texel,2
 glossary/thread,3
 glossary/three_js,1
 glossary/throttle,1
@@ -782,7 +782,7 @@ learn_web_development/core/scripting/house_data_ui,null
 learn_web_development/core/scripting/image_gallery,null
 learn_web_development/core/scripting/json,null
 learn_web_development/core/scripting/loops,null
-learn_web_development/core/scripting/math,14
+learn_web_development/core/scripting/math,15
 learn_web_development/core/scripting/network_requests,8
 learn_web_development/core/scripting/object_basics,null
 learn_web_development/core/scripting/return_values,null
@@ -2752,7 +2752,7 @@ web/api/canvas_api,null
 web/api/canvas_api/manipulating_video_using_canvas,null
 web/api/canvas_api/tutorial,null
 web/api/canvas_api/tutorial/advanced_animations,null
-web/api/canvas_api/tutorial/applying_styles_and_colors,14
+web/api/canvas_api/tutorial/applying_styles_and_colors,15
 web/api/canvas_api/tutorial/basic_animations,null
 web/api/canvas_api/tutorial/basic_usage,null
 web/api/canvas_api/tutorial/compositing,null
@@ -10539,7 +10539,7 @@ web/css/guides/syntax/introduction,null
 web/css/guides/table,null
 web/css/guides/text,2
 web/css/guides/text/whitespace,null
-web/css/guides/text/wrapping_breaking_text,2
+web/css/guides/text/wrapping_breaking_text,3
 web/css/guides/text_decoration,null
 web/css/guides/text_decoration/text_shadows,null
 web/css/guides/transforms,null
