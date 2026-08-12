@@ -623,7 +623,7 @@ glossary/time_to_interactive,10
 glossary/tld,null
 glossary/tls,1
 glossary/tofu,1
-glossary/top_layer,4
+glossary/top_layer,5
 glossary/transient_activation,8
 glossary/tree_shaking,0
 glossary/trident,7
@@ -900,7 +900,7 @@ learn_web_development/extensions/client-side_tools/package_management,4
 learn_web_development/extensions/forms,0
 learn_web_development/extensions/forms/advanced_form_styling,0
 learn_web_development/extensions/forms/basic_native_form_controls,0
-learn_web_development/extensions/forms/customizable_select,0
+learn_web_development/extensions/forms/customizable_select,1
 learn_web_development/extensions/forms/customizable_select_listboxes,0
 learn_web_development/extensions/forms/form_validation,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,0
@@ -5047,7 +5047,7 @@ web/api/htmlimageelement/name,4
 web/api/htmlimageelement/naturalheight,3
 web/api/htmlimageelement/naturalwidth,2
 web/api/htmlimageelement/referrerpolicy,3
-web/api/htmlimageelement/sizes,15
+web/api/htmlimageelement/sizes,0
 web/api/htmlimageelement/src,2
 web/api/htmlimageelement/srcset,2
 web/api/htmlimageelement/usemap,8
@@ -11387,7 +11387,7 @@ web/css/reference/selectors/keyframe_selectors,1
 web/css/reference/selectors/namespace_separator,0
 web/css/reference/selectors/nesting_selector,0
 web/css/reference/selectors/next-sibling_combinator,0
-web/css/reference/selectors/pseudo-classes,1
+web/css/reference/selectors/pseudo-classes,2
 web/css/reference/selectors/pseudo-elements,1
 web/css/reference/selectors/selector_list,0
 web/css/reference/selectors/subsequent-sibling_combinator,0
@@ -11720,7 +11720,7 @@ web/html/reference/elements/input/time,1
 web/html/reference/elements/input/url,1
 web/html/reference/elements/input/week,1
 web/html/reference/elements/ins,0
-web/html/reference/elements/kbd,0
+web/html/reference/elements/kbd,1
 web/html/reference/elements/label,1
 web/html/reference/elements/legend,0
 web/html/reference/elements/li,2
@@ -11914,7 +11914,7 @@ web/http/reference/headers/attribution-reporting-register-source,null
 web/http/reference/headers/attribution-reporting-register-trigger,null
 web/http/reference/headers/authorization,1
 web/http/reference/headers/available-dictionary,null
-web/http/reference/headers/cache-control,3
+web/http/reference/headers/cache-control,4
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
 web/http/reference/headers/content-digest,1

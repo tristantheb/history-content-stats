@@ -623,7 +623,7 @@ glossary/time_to_interactive,3
 glossary/tld,1
 glossary/tls,3
 glossary/tofu,1
-glossary/top_layer,4
+glossary/top_layer,5
 glossary/transient_activation,4
 glossary/tree_shaking,1
 glossary/trident,2
@@ -7174,7 +7174,7 @@ web/api/response,null
 web/api/response/arraybuffer,null
 web/api/response/blob,null
 web/api/response/body,null
-web/api/response/bodyused,null
+web/api/response/bodyused,0
 web/api/response/bytes,null
 web/api/response/clone,null
 web/api/response/error_static,null
@@ -11387,7 +11387,7 @@ web/css/reference/selectors/keyframe_selectors,null
 web/css/reference/selectors/namespace_separator,0
 web/css/reference/selectors/nesting_selector,4
 web/css/reference/selectors/next-sibling_combinator,null
-web/css/reference/selectors/pseudo-classes,4
+web/css/reference/selectors/pseudo-classes,5
 web/css/reference/selectors/pseudo-elements,null
 web/css/reference/selectors/selector_list,null
 web/css/reference/selectors/subsequent-sibling_combinator,null
@@ -11666,7 +11666,7 @@ web/html/reference/elements/col,9
 web/html/reference/elements/colgroup,10
 web/html/reference/elements/data,null
 web/html/reference/elements/datalist,null
-web/html/reference/elements/dd,null
+web/html/reference/elements/dd,0
 web/html/reference/elements/del,null
 web/html/reference/elements/details,null
 web/html/reference/elements/dfn,null

@@ -623,7 +623,7 @@ glossary/time_to_interactive,0
 glossary/tld,0
 glossary/tls,0
 glossary/tofu,0
-glossary/top_layer,0
+glossary/top_layer,1
 glossary/transient_activation,0
 glossary/tree_shaking,0
 glossary/trident,0
@@ -900,7 +900,7 @@ learn_web_development/extensions/client-side_tools/package_management,0
 learn_web_development/extensions/forms,0
 learn_web_development/extensions/forms/advanced_form_styling,0
 learn_web_development/extensions/forms/basic_native_form_controls,0
-learn_web_development/extensions/forms/customizable_select,0
+learn_web_development/extensions/forms/customizable_select,1
 learn_web_development/extensions/forms/customizable_select_listboxes,0
 learn_web_development/extensions/forms/form_validation,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,0
@@ -11387,7 +11387,7 @@ web/css/reference/selectors/keyframe_selectors,0
 web/css/reference/selectors/namespace_separator,0
 web/css/reference/selectors/nesting_selector,0
 web/css/reference/selectors/next-sibling_combinator,0
-web/css/reference/selectors/pseudo-classes,0
+web/css/reference/selectors/pseudo-classes,1
 web/css/reference/selectors/pseudo-elements,0
 web/css/reference/selectors/selector_list,0
 web/css/reference/selectors/subsequent-sibling_combinator,0
@@ -11720,7 +11720,7 @@ web/html/reference/elements/input/time,0
 web/html/reference/elements/input/url,0
 web/html/reference/elements/input/week,0
 web/html/reference/elements/ins,0
-web/html/reference/elements/kbd,0
+web/html/reference/elements/kbd,1
 web/html/reference/elements/label,0
 web/html/reference/elements/legend,0
 web/html/reference/elements/li,0
@@ -11914,7 +11914,7 @@ web/http/reference/headers/attribution-reporting-register-source,0
 web/http/reference/headers/attribution-reporting-register-trigger,0
 web/http/reference/headers/authorization,0
 web/http/reference/headers/available-dictionary,0
-web/http/reference/headers/cache-control,0
+web/http/reference/headers/cache-control,1
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
 web/http/reference/headers/content-digest,0
