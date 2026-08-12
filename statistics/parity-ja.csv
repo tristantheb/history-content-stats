@@ -2796,7 +2796,7 @@ web/api/canvasrenderingcontext2d/fontkerning,3
 web/api/canvasrenderingcontext2d/fontstretch,0
 web/api/canvasrenderingcontext2d/fontvariantcaps,0
 web/api/canvasrenderingcontext2d/getcontextattributes,0
-web/api/canvasrenderingcontext2d/getimagedata,4
+web/api/canvasrenderingcontext2d/getimagedata,6
 web/api/canvasrenderingcontext2d/getlinedash,0
 web/api/canvasrenderingcontext2d/gettransform,0
 web/api/canvasrenderingcontext2d/globalalpha,4
@@ -3530,7 +3530,7 @@ web/api/document/elementsfrompoint,1
 web/api/document/embeds,1
 web/api/document/enablestylesheetsforset,1
 web/api/document/evaluate,8
-web/api/document/execcommand,0
+web/api/document/execcommand,1
 web/api/document/exitfullscreen,2
 web/api/document/exitpictureinpicture,1
 web/api/document/exitpointerlock,1
@@ -3939,7 +3939,7 @@ web/api/element/hasattributens,2
 web/api/element/hasattributes,1
 web/api/element/haspointercapture,1
 web/api/element/id,4
-web/api/element/innerhtml,12
+web/api/element/innerhtml,13
 web/api/element/input_event,4
 web/api/element/insertadjacentelement,5
 web/api/element/insertadjacenthtml,5
@@ -3996,7 +3996,7 @@ web/api/element/scroll_event,3
 web/api/element/scrollby,5
 web/api/element/scrollend_event,5
 web/api/element/scrollheight,7
-web/api/element/scrollintoview,4
+web/api/element/scrollintoview,5
 web/api/element/scrollintoviewifneeded,1
 web/api/element/scrollleft,4
 web/api/element/scrollleftmax,0
@@ -4381,7 +4381,7 @@ web/api/formdata,0
 web/api/formdata/append,0
 web/api/formdata/delete,0
 web/api/formdata/entries,4
-web/api/formdata/formdata,7
+web/api/formdata/formdata,8
 web/api/formdata/get,2
 web/api/formdata/getall,2
 web/api/formdata/has,2
@@ -5024,7 +5024,7 @@ web/api/htmliframeelement/privatetoken,null
 web/api/htmliframeelement/referrerpolicy,4
 web/api/htmliframeelement/sandbox,1
 web/api/htmliframeelement/src,4
-web/api/htmliframeelement/srcdoc,5
+web/api/htmliframeelement/srcdoc,6
 web/api/htmliframeelement/width,0
 web/api/htmlimageelement,8
 web/api/htmlimageelement/align,2
@@ -5053,8 +5053,8 @@ web/api/htmlimageelement/srcset,2
 web/api/htmlimageelement/usemap,8
 web/api/htmlimageelement/vspace,2
 web/api/htmlimageelement/width,3
-web/api/htmlimageelement/x,7
-web/api/htmlimageelement/y,3
+web/api/htmlimageelement/x,8
+web/api/htmlimageelement/y,4
 web/api/htmlinputelement,0
 web/api/htmlinputelement/accept,1
 web/api/htmlinputelement/alpha,0
@@ -5224,7 +5224,7 @@ web/api/htmlmediaelement/waiting_event,1
 web/api/htmlmediaelement/waitingforkey_event,0
 web/api/htmlmenuelement,2
 web/api/htmlmenuelement/compact,null
-web/api/htmlmetaelement,6
+web/api/htmlmetaelement,7
 web/api/htmlmetaelement/content,4
 web/api/htmlmetaelement/httpequiv,3
 web/api/htmlmetaelement/media,7
@@ -6687,9 +6687,9 @@ web/api/performance/eventcounts,1
 web/api/performance/getentries,2
 web/api/performance/getentriesbyname,3
 web/api/performance/getentriesbytype,3
-web/api/performance/interactioncount,0
+web/api/performance/interactioncount,1
 web/api/performance/mark,2
-web/api/performance/measure,4
+web/api/performance/measure,5
 web/api/performance/measureuseragentspecificmemory,7
 web/api/performance/memory,3
 web/api/performance/navigation,2
@@ -9183,7 +9183,7 @@ web/api/virtualkeyboard/overlayscontent,null
 web/api/virtualkeyboard/show,null
 web/api/virtualkeyboard_api,0
 web/api/visibilitystateentry,null
-web/api/visualviewport,4
+web/api/visualviewport,5
 web/api/visualviewport/height,1
 web/api/visualviewport/offsetleft,1
 web/api/visualviewport/offsettop,1
@@ -9336,8 +9336,8 @@ web/api/web_workers_api/functions_and_classes_available_to_workers,2
 web/api/web_workers_api/structured_clone_algorithm,14
 web/api/web_workers_api/transferable_objects,11
 web/api/web_workers_api/using_web_workers,8
-web/api/webcodecs_api,0
-web/api/webcodecs_api/codec_selection,0
+web/api/webcodecs_api,1
+web/api/webcodecs_api/codec_selection,1
 web/api/webcodecs_api/using_the_webcodecs_api,0
 web/api/webcodecs_api/video_processing_concepts,0
 web/api/webgl2renderingcontext,0
@@ -10424,16 +10424,16 @@ web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
 web/css/guides/gaps,2
 web/css/guides/generated_content,0
-web/css/guides/grid_layout,4
+web/css/guides/grid_layout,5
 web/css/guides/grid_layout/accessibility,0
 web/css/guides/grid_layout/auto-placement,0
 web/css/guides/grid_layout/basic_concepts,1
 web/css/guides/grid_layout/box_alignment,0
 web/css/guides/grid_layout/common_grid_layouts,2
+web/css/guides/grid_layout/grid_lanes,null
 web/css/guides/grid_layout/grid_template_areas,1
 web/css/guides/grid_layout/line-based_placement,0
 web/css/guides/grid_layout/logical_values_and_writing_modes,0
-web/css/guides/grid_layout/masonry_layout,2
 web/css/guides/grid_layout/named_grid_lines,0
 web/css/guides/grid_layout/relationship_with_other_layout_methods,3
 web/css/guides/grid_layout/subgrid,0
@@ -10682,7 +10682,7 @@ web/css/reference/properties/-webkit-text-stroke,0
 web/css/reference/properties/-webkit-text-stroke-color,1
 web/css/reference/properties/-webkit-text-stroke-width,0
 web/css/reference/properties/-webkit-touch-callout,0
-web/css/reference/properties/accent-color,2
+web/css/reference/properties/accent-color,3
 web/css/reference/properties/align-content,2
 web/css/reference/properties/align-items,2
 web/css/reference/properties/align-self,2
@@ -10866,7 +10866,7 @@ web/css/reference/properties/cx,1
 web/css/reference/properties/cy,0
 web/css/reference/properties/d,1
 web/css/reference/properties/direction,2
-web/css/reference/properties/display,1
+web/css/reference/properties/display,2
 web/css/reference/properties/dominant-baseline,1
 web/css/reference/properties/dynamic-range-limit,null
 web/css/reference/properties/empty-cells,2
@@ -11308,7 +11308,7 @@ web/css/reference/selectors/_colon_read-write,1
 web/css/reference/selectors/_colon_required,0
 web/css/reference/selectors/_colon_right,1
 web/css/reference/selectors/_colon_root,0
-web/css/reference/selectors/_colon_scope,0
+web/css/reference/selectors/_colon_scope,1
 web/css/reference/selectors/_colon_seeking,0
 web/css/reference/selectors/_colon_stalled,null
 web/css/reference/selectors/_colon_state,0
@@ -11424,7 +11424,7 @@ web/css/reference/values/calc,3
 web/css/reference/values/calc-keyword,0
 web/css/reference/values/calc-size,0
 web/css/reference/values/calc-sum,1
-web/css/reference/values/clamp,2
+web/css/reference/values/clamp,3
 web/css/reference/values/color-interpolation-method,0
 web/css/reference/values/color_value,0
 web/css/reference/values/color_value/alpha,null
@@ -11510,9 +11510,9 @@ web/css/reference/values/length-percentage,1
 web/css/reference/values/line-style,3
 web/css/reference/values/line-width,0
 web/css/reference/values/log,0
-web/css/reference/values/max,2
+web/css/reference/values/max,3
 web/css/reference/values/max-content,1
-web/css/reference/values/min,2
+web/css/reference/values/min,3
 web/css/reference/values/min-content,1
 web/css/reference/values/minmax,0
 web/css/reference/values/mod,0
@@ -11548,7 +11548,7 @@ web/css/reference/values/sqrt,0
 web/css/reference/values/string,1
 web/css/reference/values/superellipse,0
 web/css/reference/values/symbols,0
-web/css/reference/values/system-color,0
+web/css/reference/values/system-color,1
 web/css/reference/values/tan,0
 web/css/reference/values/text-edge,1
 web/css/reference/values/time,1
@@ -11771,7 +11771,7 @@ web/html/reference/elements/script/type/importmap,0
 web/html/reference/elements/script/type/speculationrules,1
 web/html/reference/elements/search,0
 web/html/reference/elements/section,1
-web/html/reference/elements/select,1
+web/html/reference/elements/select,2
 web/html/reference/elements/selectedcontent,2
 web/html/reference/elements/slot,1
 web/html/reference/elements/small,0
@@ -11882,7 +11882,7 @@ web/http/guides/overview,2
 web/http/guides/permissions_policy,3
 web/http/guides/protocol_upgrade_mechanism,1
 web/http/guides/proxy_servers_and_tunneling,1
-web/http/guides/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file,0
+web/http/guides/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file,1
 web/http/guides/range_requests,1
 web/http/guides/redirections,0
 web/http/guides/session,2
@@ -11946,7 +11946,7 @@ web/http/reference/headers/content-security-policy/report-to,3
 web/http/reference/headers/content-security-policy/report-uri,7
 web/http/reference/headers/content-security-policy/require-trusted-types-for,4
 web/http/reference/headers/content-security-policy/sandbox,5
-web/http/reference/headers/content-security-policy/script-src,0
+web/http/reference/headers/content-security-policy/script-src,1
 web/http/reference/headers/content-security-policy/script-src-attr,4
 web/http/reference/headers/content-security-policy/script-src-elem,3
 web/http/reference/headers/content-security-policy/style-src,6
@@ -13531,7 +13531,7 @@ web/javascript/reference/statements/function,0
 web/javascript/reference/statements/function_star_,1
 web/javascript/reference/statements/if...else,1
 web/javascript/reference/statements/import,0
-web/javascript/reference/statements/import/with,11
+web/javascript/reference/statements/import/with,12
 web/javascript/reference/statements/label,9
 web/javascript/reference/statements/let,0
 web/javascript/reference/statements/return,0
@@ -13547,9 +13547,9 @@ web/javascript/reference/template_literals,1
 web/javascript/reference/trailing_commas,0
 web/mathml,0
 web/mathml/guides,2
-web/mathml/guides/authoring,1
+web/mathml/guides/authoring,2
 web/mathml/guides/deriving_the_quadratic_formula,null
-web/mathml/guides/fonts,1
+web/mathml/guides/fonts,2
 web/mathml/guides/proving_the_pythagorean_theorem,null
 web/mathml/reference,0
 web/mathml/reference/attribute,1
@@ -13599,7 +13599,7 @@ web/mathml/reference/values,2
 web/mathml/tutorials,0
 web/mathml/tutorials/for_beginners,0
 web/mathml/tutorials/for_beginners/fractions_and_roots,0
-web/mathml/tutorials/for_beginners/getting_started,0
+web/mathml/tutorials/for_beginners/getting_started,1
 web/mathml/tutorials/for_beginners/scripts,0
 web/mathml/tutorials/for_beginners/tables,0
 web/mathml/tutorials/for_beginners/text_containers,0
@@ -14255,7 +14255,7 @@ web/xml/xpath/reference/functions/true,1
 web/xml/xpath/reference/functions/unparsed-entity-url,1
 web/xml/xslt,0
 web/xml/xslt/guides,0
-web/xml/xslt/guides/common_errors,1
+web/xml/xslt/guides/common_errors,2
 web/xml/xslt/guides/pi_parameters,3
 web/xml/xslt/guides/transforming_xml_with_xslt,1
 web/xml/xslt/reference,0
@@ -14304,7 +14304,7 @@ webassembly/guides/exported_functions,1
 webassembly/guides/imported_string_constants,null
 webassembly/guides/javascript_builtins,null
 webassembly/guides/loading_and_running,0
-webassembly/guides/rust_to_wasm,2
+webassembly/guides/rust_to_wasm,3
 webassembly/guides/text_format_to_wasm,0
 webassembly/guides/understanding_the_text_format,4
 webassembly/guides/using_the_javascript_api,2

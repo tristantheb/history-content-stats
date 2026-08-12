@@ -2796,7 +2796,7 @@ web/api/canvasrenderingcontext2d/fontkerning,3
 web/api/canvasrenderingcontext2d/fontstretch,4
 web/api/canvasrenderingcontext2d/fontvariantcaps,4
 web/api/canvasrenderingcontext2d/getcontextattributes,2
-web/api/canvasrenderingcontext2d/getimagedata,3
+web/api/canvasrenderingcontext2d/getimagedata,5
 web/api/canvasrenderingcontext2d/getlinedash,1
 web/api/canvasrenderingcontext2d/gettransform,1
 web/api/canvasrenderingcontext2d/globalalpha,4
@@ -3996,7 +3996,7 @@ web/api/element/scroll_event,null
 web/api/element/scrollby,0
 web/api/element/scrollend_event,null
 web/api/element/scrollheight,null
-web/api/element/scrollintoview,2
+web/api/element/scrollintoview,3
 web/api/element/scrollintoviewifneeded,1
 web/api/element/scrollleft,null
 web/api/element/scrollleftmax,null
@@ -4026,7 +4026,7 @@ web/api/element/touchmove_event,null
 web/api/element/touchstart_event,null
 web/api/element/transitioncancel_event,null
 web/api/element/transitionend_event,null
-web/api/element/transitionrun_event,null
+web/api/element/transitionrun_event,0
 web/api/element/transitionstart_event,null
 web/api/element/webkitmouseforcechanged_event,null
 web/api/element/webkitmouseforcedown_event,null
@@ -5024,7 +5024,7 @@ web/api/htmliframeelement/privatetoken,null
 web/api/htmliframeelement/referrerpolicy,5
 web/api/htmliframeelement/sandbox,1
 web/api/htmliframeelement/src,5
-web/api/htmliframeelement/srcdoc,5
+web/api/htmliframeelement/srcdoc,6
 web/api/htmliframeelement/width,0
 web/api/htmlimageelement,null
 web/api/htmlimageelement/align,null
@@ -5224,7 +5224,7 @@ web/api/htmlmediaelement/waiting_event,null
 web/api/htmlmediaelement/waitingforkey_event,null
 web/api/htmlmenuelement,1
 web/api/htmlmenuelement/compact,0
-web/api/htmlmetaelement,4
+web/api/htmlmetaelement,5
 web/api/htmlmetaelement/content,3
 web/api/htmlmetaelement/httpequiv,2
 web/api/htmlmetaelement/media,5
@@ -10430,10 +10430,10 @@ web/css/guides/grid_layout/auto-placement,null
 web/css/guides/grid_layout/basic_concepts,2
 web/css/guides/grid_layout/box_alignment,null
 web/css/guides/grid_layout/common_grid_layouts,null
+web/css/guides/grid_layout/grid_lanes,1
 web/css/guides/grid_layout/grid_template_areas,null
 web/css/guides/grid_layout/line-based_placement,null
 web/css/guides/grid_layout/logical_values_and_writing_modes,null
-web/css/guides/grid_layout/masonry_layout,2
 web/css/guides/grid_layout/named_grid_lines,null
 web/css/guides/grid_layout/relationship_with_other_layout_methods,null
 web/css/guides/grid_layout/subgrid,0
@@ -10682,7 +10682,7 @@ web/css/reference/properties/-webkit-text-stroke,null
 web/css/reference/properties/-webkit-text-stroke-color,null
 web/css/reference/properties/-webkit-text-stroke-width,2
 web/css/reference/properties/-webkit-touch-callout,2
-web/css/reference/properties/accent-color,5
+web/css/reference/properties/accent-color,6
 web/css/reference/properties/align-content,null
 web/css/reference/properties/align-items,null
 web/css/reference/properties/align-self,null
@@ -10866,7 +10866,7 @@ web/css/reference/properties/cx,null
 web/css/reference/properties/cy,null
 web/css/reference/properties/d,null
 web/css/reference/properties/direction,null
-web/css/reference/properties/display,9
+web/css/reference/properties/display,10
 web/css/reference/properties/dominant-baseline,null
 web/css/reference/properties/dynamic-range-limit,null
 web/css/reference/properties/empty-cells,null
@@ -11308,7 +11308,7 @@ web/css/reference/selectors/_colon_read-write,null
 web/css/reference/selectors/_colon_required,null
 web/css/reference/selectors/_colon_right,null
 web/css/reference/selectors/_colon_root,null
-web/css/reference/selectors/_colon_scope,6
+web/css/reference/selectors/_colon_scope,7
 web/css/reference/selectors/_colon_seeking,3
 web/css/reference/selectors/_colon_stalled,null
 web/css/reference/selectors/_colon_state,null
@@ -11633,7 +11633,7 @@ web/html/reference/attributes/rel/modulepreload,null
 web/html/reference/attributes/rel/noopener,0
 web/html/reference/attributes/rel/noreferrer,0
 web/html/reference/attributes/rel/preconnect,5
-web/html/reference/attributes/rel/prefetch,null
+web/html/reference/attributes/rel/prefetch,0
 web/html/reference/attributes/rel/preload,0
 web/html/reference/attributes/rel/prerender,3
 web/html/reference/attributes/required,4
@@ -11882,7 +11882,7 @@ web/http/guides/overview,6
 web/http/guides/permissions_policy,null
 web/http/guides/protocol_upgrade_mechanism,null
 web/http/guides/proxy_servers_and_tunneling,4
-web/http/guides/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file,2
+web/http/guides/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file,3
 web/http/guides/range_requests,4
 web/http/guides/redirections,5
 web/http/guides/session,null
@@ -13531,7 +13531,7 @@ web/javascript/reference/statements/function,4
 web/javascript/reference/statements/function_star_,13
 web/javascript/reference/statements/if...else,4
 web/javascript/reference/statements/import,12
-web/javascript/reference/statements/import/with,0
+web/javascript/reference/statements/import/with,1
 web/javascript/reference/statements/label,5
 web/javascript/reference/statements/let,7
 web/javascript/reference/statements/return,4
@@ -13547,9 +13547,9 @@ web/javascript/reference/template_literals,null
 web/javascript/reference/trailing_commas,null
 web/mathml,11
 web/mathml/guides,null
-web/mathml/guides/authoring,7
+web/mathml/guides/authoring,8
 web/mathml/guides/deriving_the_quadratic_formula,null
-web/mathml/guides/fonts,4
+web/mathml/guides/fonts,5
 web/mathml/guides/proving_the_pythagorean_theorem,1
 web/mathml/reference,0
 web/mathml/reference/attribute,2
@@ -14350,7 +14350,7 @@ webassembly/reference/javascript_interface/compileerror,1
 webassembly/reference/javascript_interface/compileerror/compileerror,1
 webassembly/reference/javascript_interface/compilestreaming_static,0
 webassembly/reference/javascript_interface/exception,-1
-webassembly/reference/javascript_interface/exception/exception,4
+webassembly/reference/javascript_interface/exception/exception,5
 webassembly/reference/javascript_interface/exception/getarg,1
 webassembly/reference/javascript_interface/exception/is,2
 webassembly/reference/javascript_interface/exception/stack,2

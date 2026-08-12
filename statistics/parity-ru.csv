@@ -10430,10 +10430,10 @@ web/css/guides/grid_layout/auto-placement,null
 web/css/guides/grid_layout/basic_concepts,null
 web/css/guides/grid_layout/box_alignment,null
 web/css/guides/grid_layout/common_grid_layouts,null
+web/css/guides/grid_layout/grid_lanes,null
 web/css/guides/grid_layout/grid_template_areas,null
 web/css/guides/grid_layout/line-based_placement,null
 web/css/guides/grid_layout/logical_values_and_writing_modes,null
-web/css/guides/grid_layout/masonry_layout,null
 web/css/guides/grid_layout/named_grid_lines,null
 web/css/guides/grid_layout/relationship_with_other_layout_methods,null
 web/css/guides/grid_layout/subgrid,null
@@ -10682,7 +10682,7 @@ web/css/reference/properties/-webkit-text-stroke,null
 web/css/reference/properties/-webkit-text-stroke-color,null
 web/css/reference/properties/-webkit-text-stroke-width,null
 web/css/reference/properties/-webkit-touch-callout,null
-web/css/reference/properties/accent-color,5
+web/css/reference/properties/accent-color,6
 web/css/reference/properties/align-content,null
 web/css/reference/properties/align-items,null
 web/css/reference/properties/align-self,null

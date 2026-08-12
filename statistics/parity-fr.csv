@@ -1130,9 +1130,9 @@ mdn/writing_guidelines/page_structures/syntax_sections,0
 mdn/writing_guidelines/what_we_write,0
 mdn/writing_guidelines/writing_style_guide,0
 mozilla,1
-mozilla/add-ons,null
-mozilla/add-ons/contact_us,null
-mozilla/add-ons/webextensions,null
+mozilla/add-ons,0
+mozilla/add-ons/contact_us,0
+mozilla/add-ons/webextensions,0
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,null
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,null
 mozilla/add-ons/webextensions/api,null
@@ -3530,7 +3530,7 @@ web/api/document/elementsfrompoint,0
 web/api/document/embeds,0
 web/api/document/enablestylesheetsforset,0
 web/api/document/evaluate,0
-web/api/document/execcommand,0
+web/api/document/execcommand,1
 web/api/document/exitfullscreen,0
 web/api/document/exitpictureinpicture,0
 web/api/document/exitpointerlock,0
@@ -3939,7 +3939,7 @@ web/api/element/hasattributens,0
 web/api/element/hasattributes,0
 web/api/element/haspointercapture,0
 web/api/element/id,0
-web/api/element/innerhtml,0
+web/api/element/innerhtml,1
 web/api/element/input_event,0
 web/api/element/insertadjacentelement,0
 web/api/element/insertadjacenthtml,0
@@ -3996,7 +3996,7 @@ web/api/element/scroll_event,0
 web/api/element/scrollby,0
 web/api/element/scrollend_event,0
 web/api/element/scrollheight,0
-web/api/element/scrollintoview,0
+web/api/element/scrollintoview,1
 web/api/element/scrollintoviewifneeded,0
 web/api/element/scrollleft,0
 web/api/element/scrollleftmax,0
@@ -4381,7 +4381,7 @@ web/api/formdata,0
 web/api/formdata/append,0
 web/api/formdata/delete,0
 web/api/formdata/entries,0
-web/api/formdata/formdata,0
+web/api/formdata/formdata,1
 web/api/formdata/get,0
 web/api/formdata/getall,0
 web/api/formdata/has,0
@@ -5024,7 +5024,7 @@ web/api/htmliframeelement/privatetoken,0
 web/api/htmliframeelement/referrerpolicy,0
 web/api/htmliframeelement/sandbox,0
 web/api/htmliframeelement/src,0
-web/api/htmliframeelement/srcdoc,0
+web/api/htmliframeelement/srcdoc,1
 web/api/htmliframeelement/width,0
 web/api/htmlimageelement,0
 web/api/htmlimageelement/align,0
@@ -5053,8 +5053,8 @@ web/api/htmlimageelement/srcset,0
 web/api/htmlimageelement/usemap,0
 web/api/htmlimageelement/vspace,0
 web/api/htmlimageelement/width,0
-web/api/htmlimageelement/x,0
-web/api/htmlimageelement/y,0
+web/api/htmlimageelement/x,1
+web/api/htmlimageelement/y,1
 web/api/htmlinputelement,0
 web/api/htmlinputelement/accept,0
 web/api/htmlinputelement/alpha,0
@@ -5224,7 +5224,7 @@ web/api/htmlmediaelement/waiting_event,0
 web/api/htmlmediaelement/waitingforkey_event,0
 web/api/htmlmenuelement,0
 web/api/htmlmenuelement/compact,0
-web/api/htmlmetaelement,0
+web/api/htmlmetaelement,1
 web/api/htmlmetaelement/content,0
 web/api/htmlmetaelement/httpequiv,0
 web/api/htmlmetaelement/media,0
@@ -6884,7 +6884,7 @@ web/api/pictureinpicturewindow/resize_event,null
 web/api/pictureinpicturewindow/width,null
 web/api/plugin,null
 web/api/pluginarray,null
-web/api/pointer_events,null
+web/api/pointer_events,0
 web/api/pointer_events/multi-touch_interaction,null
 web/api/pointer_events/pinch_zoom_gestures,null
 web/api/pointer_events/using_pointer_events,null
@@ -10430,10 +10430,10 @@ web/css/guides/grid_layout/auto-placement,1
 web/css/guides/grid_layout/basic_concepts,2
 web/css/guides/grid_layout/box_alignment,null
 web/css/guides/grid_layout/common_grid_layouts,3
+web/css/guides/grid_layout/grid_lanes,0
 web/css/guides/grid_layout/grid_template_areas,null
 web/css/guides/grid_layout/line-based_placement,null
 web/css/guides/grid_layout/logical_values_and_writing_modes,1
-web/css/guides/grid_layout/masonry_layout,3
 web/css/guides/grid_layout/named_grid_lines,null
 web/css/guides/grid_layout/relationship_with_other_layout_methods,null
 web/css/guides/grid_layout/subgrid,null
@@ -10682,7 +10682,7 @@ web/css/reference/properties/-webkit-text-stroke,0
 web/css/reference/properties/-webkit-text-stroke-color,0
 web/css/reference/properties/-webkit-text-stroke-width,0
 web/css/reference/properties/-webkit-touch-callout,0
-web/css/reference/properties/accent-color,0
+web/css/reference/properties/accent-color,1
 web/css/reference/properties/align-content,0
 web/css/reference/properties/align-items,0
 web/css/reference/properties/align-self,0
@@ -10866,7 +10866,7 @@ web/css/reference/properties/cx,0
 web/css/reference/properties/cy,0
 web/css/reference/properties/d,0
 web/css/reference/properties/direction,0
-web/css/reference/properties/display,1
+web/css/reference/properties/display,2
 web/css/reference/properties/dominant-baseline,0
 web/css/reference/properties/dynamic-range-limit,0
 web/css/reference/properties/empty-cells,0
@@ -11308,7 +11308,7 @@ web/css/reference/selectors/_colon_read-write,0
 web/css/reference/selectors/_colon_required,0
 web/css/reference/selectors/_colon_right,0
 web/css/reference/selectors/_colon_root,0
-web/css/reference/selectors/_colon_scope,0
+web/css/reference/selectors/_colon_scope,1
 web/css/reference/selectors/_colon_seeking,0
 web/css/reference/selectors/_colon_stalled,0
 web/css/reference/selectors/_colon_state,0
@@ -11424,7 +11424,7 @@ web/css/reference/values/calc,0
 web/css/reference/values/calc-keyword,0
 web/css/reference/values/calc-size,0
 web/css/reference/values/calc-sum,0
-web/css/reference/values/clamp,0
+web/css/reference/values/clamp,1
 web/css/reference/values/color-interpolation-method,0
 web/css/reference/values/color_value,0
 web/css/reference/values/color_value/alpha,null
@@ -11510,9 +11510,9 @@ web/css/reference/values/length-percentage,0
 web/css/reference/values/line-style,0
 web/css/reference/values/line-width,null
 web/css/reference/values/log,0
-web/css/reference/values/max,0
+web/css/reference/values/max,1
 web/css/reference/values/max-content,0
-web/css/reference/values/min,0
+web/css/reference/values/min,1
 web/css/reference/values/min-content,0
 web/css/reference/values/minmax,0
 web/css/reference/values/mod,0
@@ -11548,7 +11548,7 @@ web/css/reference/values/sqrt,0
 web/css/reference/values/string,0
 web/css/reference/values/superellipse,0
 web/css/reference/values/symbols,0
-web/css/reference/values/system-color,0
+web/css/reference/values/system-color,1
 web/css/reference/values/tan,0
 web/css/reference/values/text-edge,0
 web/css/reference/values/time,0
@@ -11771,7 +11771,7 @@ web/html/reference/elements/script/type/importmap,0
 web/html/reference/elements/script/type/speculationrules,0
 web/html/reference/elements/search,0
 web/html/reference/elements/section,0
-web/html/reference/elements/select,0
+web/html/reference/elements/select,1
 web/html/reference/elements/selectedcontent,0
 web/html/reference/elements/slot,0
 web/html/reference/elements/small,0
@@ -11946,7 +11946,7 @@ web/http/reference/headers/content-security-policy/report-to,0
 web/http/reference/headers/content-security-policy/report-uri,0
 web/http/reference/headers/content-security-policy/require-trusted-types-for,0
 web/http/reference/headers/content-security-policy/sandbox,0
-web/http/reference/headers/content-security-policy/script-src,0
+web/http/reference/headers/content-security-policy/script-src,1
 web/http/reference/headers/content-security-policy/script-src-attr,0
 web/http/reference/headers/content-security-policy/script-src-elem,0
 web/http/reference/headers/content-security-policy/style-src,0
