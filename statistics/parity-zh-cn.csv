@@ -616,7 +616,7 @@ glossary/tcp,3
 glossary/tcp_handshake,2
 glossary/tcp_slow_start,4
 glossary/telnet,1
-glossary/texel,1
+glossary/texel,2
 glossary/thread,3
 glossary/three_js,1
 glossary/throttle,1
@@ -782,7 +782,7 @@ learn_web_development/core/scripting/house_data_ui,null
 learn_web_development/core/scripting/image_gallery,null
 learn_web_development/core/scripting/json,null
 learn_web_development/core/scripting/loops,null
-learn_web_development/core/scripting/math,2
+learn_web_development/core/scripting/math,3
 learn_web_development/core/scripting/network_requests,8
 learn_web_development/core/scripting/object_basics,null
 learn_web_development/core/scripting/return_values,4
@@ -2757,7 +2757,7 @@ web/api/canvas_api/tutorial/basic_animations,null
 web/api/canvas_api/tutorial/basic_usage,null
 web/api/canvas_api/tutorial/compositing,null
 web/api/canvas_api/tutorial/drawing_shapes,null
-web/api/canvas_api/tutorial/drawing_text,0
+web/api/canvas_api/tutorial/drawing_text,1
 web/api/canvas_api/tutorial/finale,null
 web/api/canvas_api/tutorial/optimizing_canvas,null
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,null
@@ -2790,7 +2790,7 @@ web/api/canvasrenderingcontext2d/drawimage,3
 web/api/canvasrenderingcontext2d/ellipse,3
 web/api/canvasrenderingcontext2d/fill,2
 web/api/canvasrenderingcontext2d/fillrect,1
-web/api/canvasrenderingcontext2d/fillstyle,4
+web/api/canvasrenderingcontext2d/fillstyle,5
 web/api/canvasrenderingcontext2d/filltext,1
 web/api/canvasrenderingcontext2d/filter,6
 web/api/canvasrenderingcontext2d/font,2
@@ -2801,7 +2801,7 @@ web/api/canvasrenderingcontext2d/getcontextattributes,2
 web/api/canvasrenderingcontext2d/getimagedata,5
 web/api/canvasrenderingcontext2d/getlinedash,1
 web/api/canvasrenderingcontext2d/gettransform,1
-web/api/canvasrenderingcontext2d/globalalpha,4
+web/api/canvasrenderingcontext2d/globalalpha,5
 web/api/canvasrenderingcontext2d/globalcompositeoperation,11
 web/api/canvasrenderingcontext2d/imagesmoothingenabled,3
 web/api/canvasrenderingcontext2d/imagesmoothingquality,3
@@ -2810,9 +2810,9 @@ web/api/canvasrenderingcontext2d/ispointinpath,3
 web/api/canvasrenderingcontext2d/ispointinstroke,2
 web/api/canvasrenderingcontext2d/lang,null
 web/api/canvasrenderingcontext2d/letterspacing,3
-web/api/canvasrenderingcontext2d/linecap,2
-web/api/canvasrenderingcontext2d/linedashoffset,2
-web/api/canvasrenderingcontext2d/linejoin,1
+web/api/canvasrenderingcontext2d/linecap,3
+web/api/canvasrenderingcontext2d/linedashoffset,3
+web/api/canvasrenderingcontext2d/linejoin,2
 web/api/canvasrenderingcontext2d/lineto,1
 web/api/canvasrenderingcontext2d/linewidth,2
 web/api/canvasrenderingcontext2d/measuretext,1
@@ -2836,7 +2836,7 @@ web/api/canvasrenderingcontext2d/shadowoffsetx,1
 web/api/canvasrenderingcontext2d/shadowoffsety,2
 web/api/canvasrenderingcontext2d/stroke,1
 web/api/canvasrenderingcontext2d/strokerect,2
-web/api/canvasrenderingcontext2d/strokestyle,2
+web/api/canvasrenderingcontext2d/strokestyle,3
 web/api/canvasrenderingcontext2d/stroketext,1
 web/api/canvasrenderingcontext2d/textalign,1
 web/api/canvasrenderingcontext2d/textbaseline,3
@@ -11433,7 +11433,7 @@ web/css/reference/values/basic-shape/polygon,7
 web/css/reference/values/basic-shape/rect,8
 web/css/reference/values/basic-shape/shape,8
 web/css/reference/values/basic-shape/xywh,8
-web/css/reference/values/blend-mode,3
+web/css/reference/values/blend-mode,4
 web/css/reference/values/box-edge,4
 web/css/reference/values/calc,null
 web/css/reference/values/calc-keyword,null

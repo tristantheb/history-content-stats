@@ -616,7 +616,7 @@ glossary/tcp,0
 glossary/tcp_handshake,0
 glossary/tcp_slow_start,0
 glossary/telnet,0
-glossary/texel,0
+glossary/texel,1
 glossary/thread,0
 glossary/three_js,0
 glossary/throttle,0
@@ -782,7 +782,7 @@ learn_web_development/core/scripting/house_data_ui,0
 learn_web_development/core/scripting/image_gallery,0
 learn_web_development/core/scripting/json,0
 learn_web_development/core/scripting/loops,0
-learn_web_development/core/scripting/math,0
+learn_web_development/core/scripting/math,1
 learn_web_development/core/scripting/network_requests,0
 learn_web_development/core/scripting/object_basics,0
 learn_web_development/core/scripting/return_values,0
@@ -2752,17 +2752,17 @@ web/api/canvas_api,0
 web/api/canvas_api/manipulating_video_using_canvas,0
 web/api/canvas_api/tutorial,0
 web/api/canvas_api/tutorial/advanced_animations,0
-web/api/canvas_api/tutorial/applying_styles_and_colors,0
+web/api/canvas_api/tutorial/applying_styles_and_colors,1
 web/api/canvas_api/tutorial/basic_animations,0
-web/api/canvas_api/tutorial/basic_usage,0
-web/api/canvas_api/tutorial/compositing,0
-web/api/canvas_api/tutorial/drawing_shapes,0
-web/api/canvas_api/tutorial/drawing_text,0
+web/api/canvas_api/tutorial/basic_usage,1
+web/api/canvas_api/tutorial/compositing,1
+web/api/canvas_api/tutorial/drawing_shapes,1
+web/api/canvas_api/tutorial/drawing_text,1
 web/api/canvas_api/tutorial/finale,0
 web/api/canvas_api/tutorial/optimizing_canvas,0
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,0
-web/api/canvas_api/tutorial/transformations,0
-web/api/canvas_api/tutorial/using_images,0
+web/api/canvas_api/tutorial/transformations,1
+web/api/canvas_api/tutorial/using_images,1
 web/api/canvascapturemediastreamtrack,0
 web/api/canvascapturemediastreamtrack/canvas,0
 web/api/canvascapturemediastreamtrack/requestframe,0
@@ -2790,7 +2790,7 @@ web/api/canvasrenderingcontext2d/drawimage,0
 web/api/canvasrenderingcontext2d/ellipse,0
 web/api/canvasrenderingcontext2d/fill,0
 web/api/canvasrenderingcontext2d/fillrect,0
-web/api/canvasrenderingcontext2d/fillstyle,0
+web/api/canvasrenderingcontext2d/fillstyle,1
 web/api/canvasrenderingcontext2d/filltext,0
 web/api/canvasrenderingcontext2d/filter,0
 web/api/canvasrenderingcontext2d/font,0
@@ -2801,7 +2801,7 @@ web/api/canvasrenderingcontext2d/getcontextattributes,0
 web/api/canvasrenderingcontext2d/getimagedata,0
 web/api/canvasrenderingcontext2d/getlinedash,0
 web/api/canvasrenderingcontext2d/gettransform,0
-web/api/canvasrenderingcontext2d/globalalpha,0
+web/api/canvasrenderingcontext2d/globalalpha,1
 web/api/canvasrenderingcontext2d/globalcompositeoperation,0
 web/api/canvasrenderingcontext2d/imagesmoothingenabled,0
 web/api/canvasrenderingcontext2d/imagesmoothingquality,0
@@ -2810,9 +2810,9 @@ web/api/canvasrenderingcontext2d/ispointinpath,0
 web/api/canvasrenderingcontext2d/ispointinstroke,0
 web/api/canvasrenderingcontext2d/lang,0
 web/api/canvasrenderingcontext2d/letterspacing,0
-web/api/canvasrenderingcontext2d/linecap,0
-web/api/canvasrenderingcontext2d/linedashoffset,0
-web/api/canvasrenderingcontext2d/linejoin,0
+web/api/canvasrenderingcontext2d/linecap,1
+web/api/canvasrenderingcontext2d/linedashoffset,1
+web/api/canvasrenderingcontext2d/linejoin,1
 web/api/canvasrenderingcontext2d/lineto,0
 web/api/canvasrenderingcontext2d/linewidth,0
 web/api/canvasrenderingcontext2d/measuretext,0
@@ -2836,7 +2836,7 @@ web/api/canvasrenderingcontext2d/shadowoffsetx,0
 web/api/canvasrenderingcontext2d/shadowoffsety,0
 web/api/canvasrenderingcontext2d/stroke,0
 web/api/canvasrenderingcontext2d/strokerect,0
-web/api/canvasrenderingcontext2d/strokestyle,0
+web/api/canvasrenderingcontext2d/strokestyle,1
 web/api/canvasrenderingcontext2d/stroketext,0
 web/api/canvasrenderingcontext2d/textalign,0
 web/api/canvasrenderingcontext2d/textbaseline,0
@@ -5873,7 +5873,7 @@ web/api/mathmlelement/tabindex,0
 web/api/media_capabilities_api,0
 web/api/media_capabilities_api/using_the_media_capabilities_api,0
 web/api/media_capture_and_streams_api,0
-web/api/media_capture_and_streams_api/constraints,0
+web/api/media_capture_and_streams_api/constraints,1
 web/api/media_capture_and_streams_api/taking_still_photos,0
 web/api/media_session_api,0
 web/api/media_source_extensions_api,0
@@ -6621,7 +6621,7 @@ web/api/passwordcredential/passwordcredential,0
 web/api/passwordcredentialinit,0
 web/api/path2d,0
 web/api/path2d/addpath,0
-web/api/path2d/path2d,0
+web/api/path2d/path2d,1
 web/api/payment_request_api,0
 web/api/payment_request_api/concepts,0
 web/api/payment_request_api/using_secure_payment_confirmation,0
@@ -9462,7 +9462,7 @@ web/api/webgl_api/tutorial/using_textures_in_webgl,0
 web/api/webgl_api/types,0
 web/api/webgl_api/using_extensions,0
 web/api/webgl_api/webgl_best_practices,0
-web/api/webgl_api/webgl_model_view_projection,0
+web/api/webgl_api/webgl_model_view_projection,1
 web/api/webgl_color_buffer_float,0
 web/api/webgl_compressed_texture_astc,0
 web/api/webgl_compressed_texture_astc/getsupportedprofiles,0
@@ -10539,7 +10539,7 @@ web/css/guides/syntax/introduction,0
 web/css/guides/table,0
 web/css/guides/text,0
 web/css/guides/text/whitespace,0
-web/css/guides/text/wrapping_breaking_text,0
+web/css/guides/text/wrapping_breaking_text,1
 web/css/guides/text_decoration,0
 web/css/guides/text_decoration/text_shadows,0
 web/css/guides/transforms,0
@@ -11433,7 +11433,7 @@ web/css/reference/values/basic-shape/polygon,0
 web/css/reference/values/basic-shape/rect,0
 web/css/reference/values/basic-shape/shape,0
 web/css/reference/values/basic-shape/xywh,0
-web/css/reference/values/blend-mode,0
+web/css/reference/values/blend-mode,1
 web/css/reference/values/box-edge,0
 web/css/reference/values/calc,0
 web/css/reference/values/calc-keyword,0

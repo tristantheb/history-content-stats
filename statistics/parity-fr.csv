@@ -616,7 +616,7 @@ glossary/tcp,0
 glossary/tcp_handshake,0
 glossary/tcp_slow_start,0
 glossary/telnet,0
-glossary/texel,0
+glossary/texel,1
 glossary/thread,0
 glossary/three_js,0
 glossary/throttle,0
@@ -2755,7 +2755,7 @@ web/api/canvas_api/tutorial/advanced_animations,null
 web/api/canvas_api/tutorial/applying_styles_and_colors,null
 web/api/canvas_api/tutorial/basic_animations,null
 web/api/canvas_api/tutorial/basic_usage,null
-web/api/canvas_api/tutorial/compositing,11
+web/api/canvas_api/tutorial/compositing,12
 web/api/canvas_api/tutorial/drawing_shapes,null
 web/api/canvas_api/tutorial/drawing_text,null
 web/api/canvas_api/tutorial/finale,null
@@ -11433,7 +11433,7 @@ web/css/reference/values/basic-shape/polygon,0
 web/css/reference/values/basic-shape/rect,0
 web/css/reference/values/basic-shape/shape,0
 web/css/reference/values/basic-shape/xywh,0
-web/css/reference/values/blend-mode,0
+web/css/reference/values/blend-mode,1
 web/css/reference/values/box-edge,0
 web/css/reference/values/calc,0
 web/css/reference/values/calc-keyword,0
@@ -13740,11 +13740,11 @@ web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,9
 web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,3
 web/security,null
 web/security/attacks,0
-web/security/attacks/clickjacking,null
-web/security/attacks/csrf,3
-web/security/attacks/idor,null
-web/security/attacks/mitm,null
-web/security/attacks/phishing,null
+web/security/attacks/clickjacking,0
+web/security/attacks/csrf,0
+web/security/attacks/idor,0
+web/security/attacks/mitm,0
+web/security/attacks/phishing,0
 web/security/attacks/prototype_pollution,null
 web/security/attacks/ssrf,null
 web/security/attacks/subdomain_takeover,null
