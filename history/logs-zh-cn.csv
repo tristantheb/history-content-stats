@@ -4060,7 +4060,7 @@ web/api/resizeobserverentry/target,no_hash_commit
 web/api/response/arraybuffer,no_hash_commit
 web/api/response/blob,no_hash_commit
 web/api/response/body,no_hash_commit
-web/api/response/bodyused,no_hash_commit
+web/api/response/bodyused,77fd649b791632aec695c5c4c7ca5bc726f4d1e9
 web/api/response/clone,no_hash_commit
 web/api/response/error_static,no_hash_commit
 web/api/response/formdata,4d929bb0a021c7130d5a71a4bf505bcb8070378d
@@ -5918,7 +5918,7 @@ web/html/reference/elements/col,aa55b6b6768e0250b52703f26d44ea3291f725f3
 web/html/reference/elements/colgroup,aa55b6b6768e0250b52703f26d44ea3291f725f3
 web/html/reference/elements/data,no_hash_commit
 web/html/reference/elements/datalist,no_hash_commit
-web/html/reference/elements/dd,no_hash_commit
+web/html/reference/elements/dd,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/del,no_hash_commit
 web/html/reference/elements/details,no_hash_commit
 web/html/reference/elements/dfn,no_hash_commit
