@@ -171,6 +171,7 @@ glossary/conditional,null
 glossary/constant,null
 glossary/constructor,null
 glossary/content_header,null
+glossary/contentful_paint,null
 glossary/continuous_integration,null
 glossary/continuous_media,null
 glossary/control_flow,null
@@ -575,6 +576,7 @@ glossary/snake_case,null
 glossary/snap_positions,null
 glossary/soap,null
 glossary/social_engineering,null
+glossary/soft_navigation,null
 glossary/source_map,null
 glossary/spa,null
 glossary/specification,null
@@ -5702,6 +5704,12 @@ web/api/installevent,null
 web/api/installevent/addroutes,null
 web/api/installevent/installevent,null
 web/api/integrityviolationreport,null
+web/api/interactioncontentfulpaint,null
+web/api/interactioncontentfulpaint/interactionid,null
+web/api/interactioncontentfulpaint/largestcontentfulpaint,null
+web/api/interactioncontentfulpaint/navigationid,null
+web/api/interactioncontentfulpaint/painttime,null
+web/api/interactioncontentfulpaint/presentationtime,null
 web/api/interestevent,null
 web/api/interestevent/interestevent,null
 web/api/interestevent/source,null
@@ -6828,6 +6836,13 @@ web/api/performanceservertiming/description,null
 web/api/performanceservertiming/duration,null
 web/api/performanceservertiming/name,null
 web/api/performanceservertiming/tojson,null
+web/api/performancesoftnavigation,null
+web/api/performancesoftnavigation/getlargestinteractioncontentfulpaint,null
+web/api/performancesoftnavigation/interactionid,null
+web/api/performancesoftnavigation/navigationid,null
+web/api/performancesoftnavigation/navigationtype,null
+web/api/performancesoftnavigation/painttime,null
+web/api/performancesoftnavigation/presentationtime,null
 web/api/performancetiming,null
 web/api/performancetiming/connectend,null
 web/api/performancetiming/connectstart,null

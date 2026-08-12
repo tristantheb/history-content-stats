@@ -171,6 +171,7 @@ glossary/conditional,null
 glossary/constant,null
 glossary/constructor,2
 glossary/content_header,2
+glossary/contentful_paint,null
 glossary/continuous_integration,null
 glossary/continuous_media,3
 glossary/control_flow,null
@@ -369,7 +370,7 @@ glossary/kebab_case,4
 glossary/key,null
 glossary/keyword,1
 glossary/khronos,6
-glossary/largest_contentful_paint,4
+glossary/largest_contentful_paint,5
 glossary/latency,0
 glossary/layout_mode,null
 glossary/layout_viewport,0
@@ -575,6 +576,7 @@ glossary/snake_case,2
 glossary/snap_positions,null
 glossary/soap,1
 glossary/social_engineering,0
+glossary/soft_navigation,null
 glossary/source_map,0
 glossary/spa,1
 glossary/specification,null
@@ -5702,6 +5704,12 @@ web/api/installevent,13
 web/api/installevent/addroutes,null
 web/api/installevent/installevent,6
 web/api/integrityviolationreport,null
+web/api/interactioncontentfulpaint,null
+web/api/interactioncontentfulpaint/interactionid,null
+web/api/interactioncontentfulpaint/largestcontentfulpaint,null
+web/api/interactioncontentfulpaint/navigationid,null
+web/api/interactioncontentfulpaint/painttime,null
+web/api/interactioncontentfulpaint/presentationtime,null
 web/api/interestevent,null
 web/api/interestevent/interestevent,null
 web/api/interestevent/source,null
@@ -5790,7 +5798,7 @@ web/api/languagemodel/destroy,null
 web/api/languagemodel/measurecontextusage,null
 web/api/languagemodel/prompt,null
 web/api/languagemodel/promptstreaming,null
-web/api/largestcontentfulpaint,0
+web/api/largestcontentfulpaint,1
 web/api/largestcontentfulpaint/element,0
 web/api/largestcontentfulpaint/id,0
 web/api/largestcontentfulpaint/loadtime,0
@@ -6723,8 +6731,8 @@ web/api/performanceelementtiming/tojson,0
 web/api/performanceelementtiming/url,1
 web/api/performanceentry,4
 web/api/performanceentry/duration,1
-web/api/performanceentry/entrytype,4
-web/api/performanceentry/name,3
+web/api/performanceentry/entrytype,5
+web/api/performanceentry/name,4
 web/api/performanceentry/starttime,3
 web/api/performanceentry/tojson,1
 web/api/performanceeventtiming,0
@@ -6781,7 +6789,7 @@ web/api/performanceobserverentrylist,1
 web/api/performanceobserverentrylist/getentries,2
 web/api/performanceobserverentrylist/getentriesbyname,1
 web/api/performanceobserverentrylist/getentriesbytype,1
-web/api/performancepainttiming,4
+web/api/performancepainttiming,5
 web/api/performancepainttiming/painttime,null
 web/api/performancepainttiming/presentationtime,null
 web/api/performancepainttiming/tojson,null
@@ -6828,6 +6836,13 @@ web/api/performanceservertiming/description,null
 web/api/performanceservertiming/duration,null
 web/api/performanceservertiming/name,null
 web/api/performanceservertiming/tojson,null
+web/api/performancesoftnavigation,null
+web/api/performancesoftnavigation/getlargestinteractioncontentfulpaint,null
+web/api/performancesoftnavigation/interactionid,null
+web/api/performancesoftnavigation/navigationid,null
+web/api/performancesoftnavigation/navigationtype,null
+web/api/performancesoftnavigation/painttime,null
+web/api/performancesoftnavigation/presentationtime,null
 web/api/performancetiming,null
 web/api/performancetiming/connectend,null
 web/api/performancetiming/connectstart,null
@@ -11906,7 +11921,7 @@ web/http/reference/headers/access-control-request-headers,0
 web/http/reference/headers/access-control-request-method,0
 web/http/reference/headers/activate-storage-access,null
 web/http/reference/headers/age,0
-web/http/reference/headers/allow,null
+web/http/reference/headers/allow,0
 web/http/reference/headers/alt-svc,0
 web/http/reference/headers/alt-used,null
 web/http/reference/headers/attribution-reporting-eligible,null
@@ -11918,13 +11933,13 @@ web/http/reference/headers/cache-control,4
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
 web/http/reference/headers/content-digest,1
-web/http/reference/headers/content-disposition,2
-web/http/reference/headers/content-dpr,null
+web/http/reference/headers/content-disposition,0
+web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
 web/http/reference/headers/content-language,0
 web/http/reference/headers/content-length,0
 web/http/reference/headers/content-location,0
-web/http/reference/headers/content-range,null
+web/http/reference/headers/content-range,0
 web/http/reference/headers/content-security-policy,4
 web/http/reference/headers/content-security-policy-report-only,1
 web/http/reference/headers/content-security-policy/base-uri,3
