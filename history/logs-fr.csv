@@ -971,7 +971,8 @@ mdn/writing_guidelines/page_structures/specification_tables,f65f7f6e4fda2cb1bd0e
 mdn/writing_guidelines/page_structures/syntax_sections,14acf1aa7885157debdf1b6111f4bd10c064ec60
 mdn/writing_guidelines/what_we_write,de5b264fa7bf6bb49811bf79f8f28f10835bfb79
 mdn/writing_guidelines/writing_style_guide,c53bfa01f3bf436d486f4032c16f592855a2af2c
-mozilla/add-ons,no_hash_commit
+mozilla/add-ons/contact_us,0c81cbce5f95a0be935724bcd936f5592774eb3a
+mozilla/add-ons,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,no_hash_commit
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,no_hash_commit
 mozilla/add-ons/webextensions/api/alarms/alarm,no_hash_commit
@@ -1519,7 +1520,7 @@ mozilla/add-ons/webextensions/differences_between_api_implementations,no_hash_co
 mozilla/add-ons/webextensions/examples,no_hash_commit
 mozilla/add-ons/webextensions/extending_the_developer_tools,no_hash_commit
 mozilla/add-ons/webextensions/implement_a_settings_page,no_hash_commit
-mozilla/add-ons/webextensions,no_hash_commit
+mozilla/add-ons/webextensions,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/interact_with_the_clipboard,no_hash_commit
 mozilla/add-ons/webextensions/intercept_http_requests,no_hash_commit
 mozilla/add-ons/webextensions/internationalization,16d1903feb387e054a502c20f35ccb12d823dedb
@@ -3784,7 +3785,7 @@ web/api/performancetiming/unloadeventstart,no_hash_commit
 web/api/periodicwave,no_hash_commit
 web/api/permissions_api,no_hash_commit
 web/api/plugin,no_hash_commit
-web/api/pointer_events,no_hash_commit
+web/api/pointer_events,f336c5b6795a562c64fe859aa9ee2becf223ad8a
 web/api/pointer_events/pinch_zoom_gestures,no_hash_commit
 web/api/pointer_lock_api,no_hash_commit
 web/api/pointerevent,no_hash_commit
@@ -4345,11 +4346,11 @@ web/css/guides/grid_layout/auto-placement,b906098e63b1eb3512b4381fe7c105b67037af
 web/css/guides/grid_layout/basic_concepts,3a22bb59de072d368ad47cf36f8c385f1f3494fe
 web/css/guides/grid_layout/box_alignment,no_hash_commit
 web/css/guides/grid_layout/common_grid_layouts,72304bf90ccd530ff9dc9e5ff12397b2600248ed
+web/css/guides/grid_layout/grid_lanes,b02c4fe0f8c485fa3fd0af10005310aaecef64ca
 web/css/guides/grid_layout/grid_template_areas,no_hash_commit
 web/css/guides/grid_layout,no_hash_commit
 web/css/guides/grid_layout/line-based_placement,no_hash_commit
 web/css/guides/grid_layout/logical_values_and_writing_modes,f224dbe80c60289cd8b7d2bf92871d091e0f5d0d
-web/css/guides/grid_layout/masonry_layout,72a2f0fa7f25ba32ab8e07447a8d4bbc2f936b85
 web/css/guides/grid_layout/named_grid_lines,no_hash_commit
 web/css/guides/grid_layout/relationship_with_other_layout_methods,no_hash_commit
 web/css/guides/grid_layout/subgrid,no_hash_commit
