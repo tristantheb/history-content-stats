@@ -171,6 +171,7 @@ glossary/conditional,3
 glossary/constant,2
 glossary/constructor,null
 glossary/content_header,2
+glossary/contentful_paint,null
 glossary/continuous_integration,0
 glossary/continuous_media,2
 glossary/control_flow,1
@@ -255,7 +256,7 @@ glossary/fingerprinting,3
 glossary/firefox_os,1
 glossary/firewall,1
 glossary/first-class_function,5
-glossary/first_contentful_paint,4
+glossary/first_contentful_paint,5
 glossary/first_cpu_idle,2
 glossary/first_input_delay,2
 glossary/first_meaningful_paint,4
@@ -369,7 +370,7 @@ glossary/kebab_case,4
 glossary/key,4
 glossary/keyword,1
 glossary/khronos,2
-glossary/largest_contentful_paint,5
+glossary/largest_contentful_paint,6
 glossary/latency,2
 glossary/layout_mode,null
 glossary/layout_viewport,0
@@ -575,6 +576,7 @@ glossary/snake_case,2
 glossary/snap_positions,4
 glossary/soap,1
 glossary/social_engineering,0
+glossary/soft_navigation,null
 glossary/source_map,null
 glossary/spa,4
 glossary/specification,1
@@ -5702,6 +5704,12 @@ web/api/installevent,null
 web/api/installevent/addroutes,null
 web/api/installevent/installevent,null
 web/api/integrityviolationreport,null
+web/api/interactioncontentfulpaint,null
+web/api/interactioncontentfulpaint/interactionid,null
+web/api/interactioncontentfulpaint/largestcontentfulpaint,null
+web/api/interactioncontentfulpaint/navigationid,null
+web/api/interactioncontentfulpaint/painttime,null
+web/api/interactioncontentfulpaint/presentationtime,null
 web/api/interestevent,null
 web/api/interestevent/interestevent,null
 web/api/interestevent/source,null
@@ -5790,7 +5798,7 @@ web/api/languagemodel/destroy,null
 web/api/languagemodel/measurecontextusage,null
 web/api/languagemodel/prompt,null
 web/api/languagemodel/promptstreaming,null
-web/api/largestcontentfulpaint,2
+web/api/largestcontentfulpaint,3
 web/api/largestcontentfulpaint/element,null
 web/api/largestcontentfulpaint/id,null
 web/api/largestcontentfulpaint/loadtime,null
@@ -6828,6 +6836,13 @@ web/api/performanceservertiming/description,null
 web/api/performanceservertiming/duration,null
 web/api/performanceservertiming/name,null
 web/api/performanceservertiming/tojson,null
+web/api/performancesoftnavigation,null
+web/api/performancesoftnavigation/getlargestinteractioncontentfulpaint,null
+web/api/performancesoftnavigation/interactionid,null
+web/api/performancesoftnavigation/navigationid,null
+web/api/performancesoftnavigation/navigationtype,null
+web/api/performancesoftnavigation/painttime,null
+web/api/performancesoftnavigation/presentationtime,null
 web/api/performancetiming,null
 web/api/performancetiming/connectend,null
 web/api/performancetiming/connectstart,null

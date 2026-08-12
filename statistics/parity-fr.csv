@@ -171,6 +171,7 @@ glossary/conditional,0
 glossary/constant,0
 glossary/constructor,0
 glossary/content_header,0
+glossary/contentful_paint,null
 glossary/continuous_integration,0
 glossary/continuous_media,0
 glossary/control_flow,0
@@ -255,7 +256,7 @@ glossary/fingerprinting,0
 glossary/firefox_os,0
 glossary/firewall,0
 glossary/first-class_function,0
-glossary/first_contentful_paint,0
+glossary/first_contentful_paint,1
 glossary/first_cpu_idle,0
 glossary/first_input_delay,0
 glossary/first_meaningful_paint,0
@@ -369,7 +370,7 @@ glossary/kebab_case,0
 glossary/key,0
 glossary/keyword,0
 glossary/khronos,0
-glossary/largest_contentful_paint,0
+glossary/largest_contentful_paint,1
 glossary/latency,0
 glossary/layout_mode,0
 glossary/layout_viewport,0
@@ -575,6 +576,7 @@ glossary/snake_case,0
 glossary/snap_positions,0
 glossary/soap,0
 glossary/social_engineering,0
+glossary/soft_navigation,null
 glossary/source_map,0
 glossary/spa,0
 glossary/specification,0
@@ -5702,6 +5704,12 @@ web/api/installevent,null
 web/api/installevent/addroutes,null
 web/api/installevent/installevent,null
 web/api/integrityviolationreport,null
+web/api/interactioncontentfulpaint,null
+web/api/interactioncontentfulpaint/interactionid,null
+web/api/interactioncontentfulpaint/largestcontentfulpaint,null
+web/api/interactioncontentfulpaint/navigationid,null
+web/api/interactioncontentfulpaint/painttime,null
+web/api/interactioncontentfulpaint/presentationtime,null
 web/api/interestevent,0
 web/api/interestevent/interestevent,0
 web/api/interestevent/source,0
@@ -6828,6 +6836,13 @@ web/api/performanceservertiming/description,null
 web/api/performanceservertiming/duration,null
 web/api/performanceservertiming/name,null
 web/api/performanceservertiming/tojson,null
+web/api/performancesoftnavigation,null
+web/api/performancesoftnavigation/getlargestinteractioncontentfulpaint,null
+web/api/performancesoftnavigation/interactionid,null
+web/api/performancesoftnavigation/navigationid,null
+web/api/performancesoftnavigation/navigationtype,null
+web/api/performancesoftnavigation/painttime,null
+web/api/performancesoftnavigation/presentationtime,null
 web/api/performancetiming,null
 web/api/performancetiming/connectend,null
 web/api/performancetiming/connectstart,null
