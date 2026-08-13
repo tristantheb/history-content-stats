@@ -2327,7 +2327,7 @@ web/api/angle_instanced_arrays,dcbb1d99185118360cc84b3a0e935e77fe0a03e3,Web APIs
 web/api/angle_instanced_arrays/drawarraysinstancedangle,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/angle_instanced_arrays/drawelementsinstancedangle,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/angle_instanced_arrays/vertexattribdivisorangle,ec1006afdf68a5808a48ab6301f9ccff3cd7ecc2,Web APIs
-web/api/animation,ad9776a6cf53eaf570ac0515402247e82ecefcfe,Web APIs
+web/api/animation,8a10694edf44bde124fa8f18af65651855f632dc,Web APIs
 web/api/animation/animation,291a8c75ed553e807895225d51dff7ac24ad1f05,Web APIs
 web/api/animation/cancel,ee20ce74eefdb7612f16c575667ad6a3b17b7d9e,Web APIs
 web/api/animation/cancel_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
@@ -2748,7 +2748,7 @@ web/api/cachestorage/open,c7edf2734fccb185c5e93ee114ea3d5edc0177b5,Web APIs
 web/api/canmakepaymentevent,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
 web/api/canmakepaymentevent/canmakepaymentevent,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
 web/api/canmakepaymentevent/respondwith,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
-web/api/canvas_api,03d5115691a7a9fa3df3b6ebd20a0c7eed213252,Web APIs
+web/api/canvas_api,8a10694edf44bde124fa8f18af65651855f632dc,Web APIs
 web/api/canvas_api/manipulating_video_using_canvas,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
 web/api/canvas_api/tutorial,b4d7275e992575d765bd1f504c28c0a64e1d0632,Web APIs
 web/api/canvas_api/tutorial/advanced_animations,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
@@ -2757,7 +2757,7 @@ web/api/canvas_api/tutorial/basic_animations,5f2a755c4fa7d126f85b56fbca90b15c5f0
 web/api/canvas_api/tutorial/basic_usage,6f1b699dd8891431bbfe0bc3bb803f929fa6032e,Web APIs
 web/api/canvas_api/tutorial/compositing,6f1b699dd8891431bbfe0bc3bb803f929fa6032e,Web APIs
 web/api/canvas_api/tutorial/drawing_shapes,6f1b699dd8891431bbfe0bc3bb803f929fa6032e,Web APIs
-web/api/canvas_api/tutorial/drawing_text,6f1b699dd8891431bbfe0bc3bb803f929fa6032e,Web APIs
+web/api/canvas_api/tutorial/drawing_text,8a10694edf44bde124fa8f18af65651855f632dc,Web APIs
 web/api/canvas_api/tutorial/finale,a52689c74c6c89f45c54447bb148e54ed320db62,Web APIs
 web/api/canvas_api/tutorial/optimizing_canvas,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
@@ -3074,7 +3074,7 @@ web/api/css/highlights_static,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/css/paintworklet_static,3b39e41fb9393a13b16aaf58ba25174a62205041,Web APIs
 web/api/css/registerproperty_static,15573306c0527f203ba3ddbfcad2ae7be0e9d73a,Web APIs
 web/api/css/supports_static,4ab235391977478a8a5e56405138392c531e1ad7,Web APIs
-web/api/css_custom_highlight_api,25a72b4fcc8808d3943ae9d0642d4a16086df4a2,Web APIs
+web/api/css_custom_highlight_api,8a10694edf44bde124fa8f18af65651855f632dc,Web APIs
 web/api/css_font_loading_api,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/css_object_model,8446f51f9a446af6a9ed878ff8f9515d60d28ed5,Web APIs
 web/api/css_object_model/css_declaration,b07efa13f8459a44a2cbc7b6cdb3279967565e63,Web APIs
@@ -9309,7 +9309,7 @@ web/api/waveshapernode/curve,216794e76611c18e53222bb8efa570e898e990de,Web APIs
 web/api/waveshapernode/oversample,532ecbca7b68e7defa4612bc7b00885a13163641,Web APIs
 web/api/waveshapernode/waveshapernode,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/web-based_payment_handler_api,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
-web/api/web_animations_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
+web/api/web_animations_api,8a10694edf44bde124fa8f18af65651855f632dc,Web APIs
 web/api/web_animations_api/keyframe_formats,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/web_animations_api/tips,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/web_animations_api/using_the_web_animations_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
