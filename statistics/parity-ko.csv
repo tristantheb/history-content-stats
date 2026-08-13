@@ -9309,7 +9309,7 @@ web/api/waveshapernode/curve,null
 web/api/waveshapernode/oversample,null
 web/api/waveshapernode/waveshapernode,null
 web/api/web-based_payment_handler_api,null
-web/api/web_animations_api,4
+web/api/web_animations_api,5
 web/api/web_animations_api/keyframe_formats,null
 web/api/web_animations_api/tips,null
 web/api/web_animations_api/using_the_web_animations_api,null
