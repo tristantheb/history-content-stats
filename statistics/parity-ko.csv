@@ -6619,6 +6619,7 @@ web/api/paymentmethodchangeevent/paymentmethodchangeevent,null
 web/api/paymentrequest,null
 web/api/paymentrequest/abort,null
 web/api/paymentrequest/canmakepayment,null
+web/api/paymentrequest/getsecurepaymentconfirmationcapabilities_static,null
 web/api/paymentrequest/id,null
 web/api/paymentrequest/merchantvalidation_event,null
 web/api/paymentrequest/paymentmethodchange_event,null
@@ -6957,8 +6958,16 @@ web/api/prioritized_task_scheduling_api,null
 web/api/private_state_token_api,null
 web/api/private_state_token_api/using,null
 web/api/processinginstruction,null
+web/api/processinginstruction/getattribute,null
+web/api/processinginstruction/getattributenames,null
+web/api/processinginstruction/hasattribute,null
+web/api/processinginstruction/hasattributes,null
+web/api/processinginstruction/processinginstruction,null
+web/api/processinginstruction/removeattribute,null
+web/api/processinginstruction/setattribute,null
 web/api/processinginstruction/sheet,null
 web/api/processinginstruction/target,null
+web/api/processinginstruction/toggleattribute,null
 web/api/profiler,null
 web/api/profiler/profiler,null
 web/api/profiler/samplebufferfull_event,null
@@ -12966,7 +12975,7 @@ web/javascript/reference/global_objects/regexp/test,null
 web/javascript/reference/global_objects/regexp/tostring,null
 web/javascript/reference/global_objects/regexp/unicode,5
 web/javascript/reference/global_objects/regexp/unicodesets,4
-web/javascript/reference/global_objects/set,2
+web/javascript/reference/global_objects/set,3
 web/javascript/reference/global_objects/set/add,5
 web/javascript/reference/global_objects/set/clear,4
 web/javascript/reference/global_objects/set/delete,5

@@ -3481,7 +3481,7 @@ web/api/document/createevent,0
 web/api/document/createexpression,0
 web/api/document/createnodeiterator,0
 web/api/document/creatensresolver,0
-web/api/document/createprocessinginstruction,0
+web/api/document/createprocessinginstruction,1
 web/api/document/createrange,0
 web/api/document/createtextnode,0
 web/api/document/createtouch,0
@@ -6619,6 +6619,7 @@ web/api/paymentmethodchangeevent/paymentmethodchangeevent,null
 web/api/paymentrequest,null
 web/api/paymentrequest/abort,null
 web/api/paymentrequest/canmakepayment,null
+web/api/paymentrequest/getsecurepaymentconfirmationcapabilities_static,null
 web/api/paymentrequest/id,null
 web/api/paymentrequest/merchantvalidation_event,null
 web/api/paymentrequest/paymentmethodchange_event,null
@@ -6957,8 +6958,16 @@ web/api/prioritized_task_scheduling_api,null
 web/api/private_state_token_api,null
 web/api/private_state_token_api/using,null
 web/api/processinginstruction,null
+web/api/processinginstruction/getattribute,null
+web/api/processinginstruction/getattributenames,null
+web/api/processinginstruction/hasattribute,null
+web/api/processinginstruction/hasattributes,null
+web/api/processinginstruction/processinginstruction,null
+web/api/processinginstruction/removeattribute,null
+web/api/processinginstruction/setattribute,null
 web/api/processinginstruction/sheet,null
 web/api/processinginstruction/target,null
+web/api/processinginstruction/toggleattribute,null
 web/api/profiler,null
 web/api/profiler/profiler,null
 web/api/profiler/samplebufferfull_event,null
@@ -12763,7 +12772,7 @@ web/javascript/reference/global_objects/json/israwjson,0
 web/javascript/reference/global_objects/json/parse,0
 web/javascript/reference/global_objects/json/rawjson,0
 web/javascript/reference/global_objects/json/stringify,0
-web/javascript/reference/global_objects/map,0
+web/javascript/reference/global_objects/map,1
 web/javascript/reference/global_objects/map/clear,0
 web/javascript/reference/global_objects/map/delete,0
 web/javascript/reference/global_objects/map/entries,0
