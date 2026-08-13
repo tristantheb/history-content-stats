@@ -54,7 +54,7 @@ games/tutorials/2d_breakout_game_phaser/scaling,0
 games/tutorials/2d_breakout_game_phaser/the_score,0
 games/tutorials/2d_breakout_game_phaser/win_the_game,0
 games/tutorials/2d_breakout_game_pure_javascript,0
-games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,null
+games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,0
 games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,null
 games/tutorials/2d_breakout_game_pure_javascript/collision_detection,null
 games/tutorials/2d_breakout_game_pure_javascript/create_the_canvas_and_draw_on_it,1
@@ -9643,7 +9643,7 @@ web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/get_microphone_permis
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/show_hide_html,1
 web/api/webrtc_api/build_a_phone_with_peerjs/setup,1
 web/api/webrtc_api/connectivity,null
-web/api/webrtc_api/intro_to_rtp,null
+web/api/webrtc_api/intro_to_rtp,0
 web/api/webrtc_api/perfect_negotiation,4
 web/api/webrtc_api/protocols,null
 web/api/webrtc_api/session_lifetime,null
