@@ -3481,7 +3481,7 @@ web/api/document/createevent,4
 web/api/document/createexpression,null
 web/api/document/createnodeiterator,5
 web/api/document/creatensresolver,5
-web/api/document/createprocessinginstruction,3
+web/api/document/createprocessinginstruction,4
 web/api/document/createrange,1
 web/api/document/createtextnode,2
 web/api/document/createtouch,1
@@ -6619,6 +6619,7 @@ web/api/paymentmethodchangeevent/paymentmethodchangeevent,null
 web/api/paymentrequest,null
 web/api/paymentrequest/abort,null
 web/api/paymentrequest/canmakepayment,null
+web/api/paymentrequest/getsecurepaymentconfirmationcapabilities_static,null
 web/api/paymentrequest/id,null
 web/api/paymentrequest/merchantvalidation_event,null
 web/api/paymentrequest/paymentmethodchange_event,null
@@ -6956,9 +6957,17 @@ web/api/pressurerecord/tojson,null
 web/api/prioritized_task_scheduling_api,null
 web/api/private_state_token_api,null
 web/api/private_state_token_api/using,null
-web/api/processinginstruction,5
+web/api/processinginstruction,6
+web/api/processinginstruction/getattribute,null
+web/api/processinginstruction/getattributenames,null
+web/api/processinginstruction/hasattribute,null
+web/api/processinginstruction/hasattributes,null
+web/api/processinginstruction/processinginstruction,null
+web/api/processinginstruction/removeattribute,null
+web/api/processinginstruction/setattribute,null
 web/api/processinginstruction/sheet,0
 web/api/processinginstruction/target,0
+web/api/processinginstruction/toggleattribute,null
 web/api/profiler,null
 web/api/profiler/profiler,null
 web/api/profiler/samplebufferfull_event,null
@@ -8220,7 +8229,7 @@ web/api/svgcomponenttransferfunctionelement/type,null
 web/api/svgdefselement,null
 web/api/svgdescelement,null
 web/api/svgdiscardelement,null
-web/api/svgelement,9
+web/api/svgelement,10
 web/api/svgelement/attributestylemap,null
 web/api/svgelement/autofocus,null
 web/api/svgelement/blur,null
@@ -12763,7 +12772,7 @@ web/javascript/reference/global_objects/json/israwjson,null
 web/javascript/reference/global_objects/json/parse,2
 web/javascript/reference/global_objects/json/rawjson,null
 web/javascript/reference/global_objects/json/stringify,null
-web/javascript/reference/global_objects/map,0
+web/javascript/reference/global_objects/map,1
 web/javascript/reference/global_objects/map/clear,null
 web/javascript/reference/global_objects/map/delete,null
 web/javascript/reference/global_objects/map/entries,0
@@ -12966,7 +12975,7 @@ web/javascript/reference/global_objects/regexp/test,null
 web/javascript/reference/global_objects/regexp/tostring,null
 web/javascript/reference/global_objects/regexp/unicode,null
 web/javascript/reference/global_objects/regexp/unicodesets,null
-web/javascript/reference/global_objects/set,8
+web/javascript/reference/global_objects/set,9
 web/javascript/reference/global_objects/set/add,null
 web/javascript/reference/global_objects/set/clear,null
 web/javascript/reference/global_objects/set/delete,null

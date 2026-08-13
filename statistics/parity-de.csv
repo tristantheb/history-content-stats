@@ -3481,7 +3481,7 @@ web/api/document/createevent,0
 web/api/document/createexpression,0
 web/api/document/createnodeiterator,0
 web/api/document/creatensresolver,0
-web/api/document/createprocessinginstruction,0
+web/api/document/createprocessinginstruction,1
 web/api/document/createrange,0
 web/api/document/createtextnode,0
 web/api/document/createtouch,0
@@ -6616,9 +6616,10 @@ web/api/paymentmethodchangeevent,0
 web/api/paymentmethodchangeevent/methoddetails,0
 web/api/paymentmethodchangeevent/methodname,0
 web/api/paymentmethodchangeevent/paymentmethodchangeevent,0
-web/api/paymentrequest,0
+web/api/paymentrequest,1
 web/api/paymentrequest/abort,0
 web/api/paymentrequest/canmakepayment,0
+web/api/paymentrequest/getsecurepaymentconfirmationcapabilities_static,null
 web/api/paymentrequest/id,0
 web/api/paymentrequest/merchantvalidation_event,0
 web/api/paymentrequest/paymentmethodchange_event,0
@@ -6956,9 +6957,17 @@ web/api/pressurerecord/tojson,0
 web/api/prioritized_task_scheduling_api,0
 web/api/private_state_token_api,0
 web/api/private_state_token_api/using,0
-web/api/processinginstruction,0
+web/api/processinginstruction,1
+web/api/processinginstruction/getattribute,null
+web/api/processinginstruction/getattributenames,null
+web/api/processinginstruction/hasattribute,null
+web/api/processinginstruction/hasattributes,null
+web/api/processinginstruction/processinginstruction,null
+web/api/processinginstruction/removeattribute,null
+web/api/processinginstruction/setattribute,null
 web/api/processinginstruction/sheet,0
 web/api/processinginstruction/target,0
+web/api/processinginstruction/toggleattribute,null
 web/api/profiler,0
 web/api/profiler/profiler,0
 web/api/profiler/samplebufferfull_event,0
@@ -8220,7 +8229,7 @@ web/api/svgcomponenttransferfunctionelement/type,0
 web/api/svgdefselement,0
 web/api/svgdescelement,0
 web/api/svgdiscardelement,0
-web/api/svgelement,0
+web/api/svgelement,1
 web/api/svgelement/attributestylemap,0
 web/api/svgelement/autofocus,0
 web/api/svgelement/blur,0
@@ -9700,7 +9709,7 @@ web/api/webvr_api/using_vr_controllers_with_webvr,0
 web/api/webvtt_api,0
 web/api/webvtt_api/web_video_text_tracks_format,0
 web/api/webxr_device_api,0
-web/api/webxr_device_api/bounded_reference_spaces,1
+web/api/webxr_device_api/bounded_reference_spaces,2
 web/api/webxr_device_api/cameras,0
 web/api/webxr_device_api/fundamentals,0
 web/api/webxr_device_api/geometry,0
@@ -12763,7 +12772,7 @@ web/javascript/reference/global_objects/json/israwjson,0
 web/javascript/reference/global_objects/json/parse,0
 web/javascript/reference/global_objects/json/rawjson,0
 web/javascript/reference/global_objects/json/stringify,0
-web/javascript/reference/global_objects/map,0
+web/javascript/reference/global_objects/map,1
 web/javascript/reference/global_objects/map/clear,0
 web/javascript/reference/global_objects/map/delete,0
 web/javascript/reference/global_objects/map/entries,0
@@ -12966,7 +12975,7 @@ web/javascript/reference/global_objects/regexp/test,0
 web/javascript/reference/global_objects/regexp/tostring,0
 web/javascript/reference/global_objects/regexp/unicode,0
 web/javascript/reference/global_objects/regexp/unicodesets,0
-web/javascript/reference/global_objects/set,0
+web/javascript/reference/global_objects/set,1
 web/javascript/reference/global_objects/set/add,0
 web/javascript/reference/global_objects/set/clear,0
 web/javascript/reference/global_objects/set/delete,0
