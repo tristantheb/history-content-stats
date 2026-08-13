@@ -2748,7 +2748,7 @@ web/api/cachestorage/open,null
 web/api/canmakepaymentevent,null
 web/api/canmakepaymentevent/canmakepaymentevent,null
 web/api/canmakepaymentevent/respondwith,null
-web/api/canvas_api,6
+web/api/canvas_api,7
 web/api/canvas_api/manipulating_video_using_canvas,null
 web/api/canvas_api/tutorial,null
 web/api/canvas_api/tutorial/advanced_animations,null
@@ -2757,7 +2757,7 @@ web/api/canvas_api/tutorial/basic_animations,null
 web/api/canvas_api/tutorial/basic_usage,null
 web/api/canvas_api/tutorial/compositing,null
 web/api/canvas_api/tutorial/drawing_shapes,null
-web/api/canvas_api/tutorial/drawing_text,1
+web/api/canvas_api/tutorial/drawing_text,2
 web/api/canvas_api/tutorial/finale,null
 web/api/canvas_api/tutorial/optimizing_canvas,null
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,null
@@ -3823,7 +3823,7 @@ web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
 web/api/element/animate,null
 web/api/element/animationcancel_event,null
-web/api/element/animationend_event,null
+web/api/element/animationend_event,0
 web/api/element/animationiteration_event,null
 web/api/element/animationstart_event,null
 web/api/element/append,1
@@ -7913,7 +7913,7 @@ web/api/sharedstorageworkletglobalscope/sharedstorage,null
 web/api/sharedworker,null
 web/api/sharedworker/error_event,null
 web/api/sharedworker/port,null
-web/api/sharedworker/sharedworker,null
+web/api/sharedworker/sharedworker,0
 web/api/sharedworkerglobalscope,null
 web/api/sharedworkerglobalscope/close,null
 web/api/sharedworkerglobalscope/connect_event,null
@@ -9309,7 +9309,7 @@ web/api/waveshapernode/curve,null
 web/api/waveshapernode/oversample,null
 web/api/waveshapernode/waveshapernode,null
 web/api/web-based_payment_handler_api,null
-web/api/web_animations_api,0
+web/api/web_animations_api,1
 web/api/web_animations_api/keyframe_formats,null
 web/api/web_animations_api/tips,4
 web/api/web_animations_api/using_the_web_animations_api,null
@@ -9623,7 +9623,7 @@ web/api/webglshaderprecisionformat/precision,null
 web/api/webglshaderprecisionformat/rangemax,null
 web/api/webglshaderprecisionformat/rangemin,null
 web/api/webglsync,null
-web/api/webgltexture,null
+web/api/webgltexture,0
 web/api/webgltransformfeedback,null
 web/api/webgluniformlocation,null
 web/api/webglvertexarrayobject,null

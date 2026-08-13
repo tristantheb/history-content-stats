@@ -2748,7 +2748,7 @@ web/api/cachestorage/open,null
 web/api/canmakepaymentevent,null
 web/api/canmakepaymentevent/canmakepaymentevent,null
 web/api/canmakepaymentevent/respondwith,null
-web/api/canvas_api,2
+web/api/canvas_api,3
 web/api/canvas_api/manipulating_video_using_canvas,null
 web/api/canvas_api/tutorial,null
 web/api/canvas_api/tutorial/advanced_animations,1

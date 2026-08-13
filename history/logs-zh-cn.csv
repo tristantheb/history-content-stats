@@ -2570,7 +2570,7 @@ web/api/element/after,no_hash_commit
 web/api/element/afterscriptexecute_event,no_hash_commit
 web/api/element/animate,no_hash_commit
 web/api/element/animationcancel_event,no_hash_commit
-web/api/element/animationend_event,no_hash_commit
+web/api/element/animationend_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/animationiteration_event,no_hash_commit
 web/api/element/animationstart_event,no_hash_commit
 web/api/element/append,542ef6cfd82288925e0a9238b47933f03e2dddca
@@ -4295,7 +4295,7 @@ web/api/shadowroot/mode,no_hash_commit
 web/api/shadowroot/pictureinpictureelement,bb4d21e3c6e71db4e0ba983a450d6ed628e82670
 web/api/shadowroot/pointerlockelement,c99ff93a1b71e7d664509fdd3e0c168920be967a
 web/api/sharedworker,no_hash_commit
-web/api/sharedworker/sharedworker,no_hash_commit
+web/api/sharedworker/sharedworker,03e3379cbad4f98a74021ad0753a41cd38d547fd
 web/api/sourcebuffer/appendbuffer,no_hash_commit
 web/api/sourcebuffer/buffered,no_hash_commit
 web/api/sourcebuffer,no_hash_commit
@@ -4678,7 +4678,7 @@ web/api/webglrenderingcontext/viewport,no_hash_commit
 web/api/webglsampler,no_hash_commit
 web/api/webglshader,no_hash_commit
 web/api/webglshaderprecisionformat,no_hash_commit
-web/api/webgltexture,no_hash_commit
+web/api/webgltexture,2b942f0d8f84641c233d701cb5d1f4e6c23120ff
 web/api/webgluniformlocation,no_hash_commit
 web/api/webglvertexarrayobject,no_hash_commit
 web/api/webgpu_api,no_hash_commit
