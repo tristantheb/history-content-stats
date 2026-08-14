@@ -772,7 +772,7 @@ learn_web_development/core/scripting/test_your_skills/strings,null
 learn_web_development/core/scripting/test_your_skills/variables,null
 learn_web_development/core/scripting/useful_string_methods,null
 learn_web_development/core/scripting/variables,null
-learn_web_development/core/scripting/what_is_javascript,4
+learn_web_development/core/scripting/what_is_javascript,5
 learn_web_development/core/scripting/what_went_wrong,null
 learn_web_development/core/structuring_content,null
 learn_web_development/core/structuring_content/advanced_text_features,null
@@ -10571,7 +10571,7 @@ web/css/reference/at-rules/@counter-style/symbols,null
 web/css/reference/at-rules/@counter-style/system,null
 web/css/reference/at-rules/@custom-media,null
 web/css/reference/at-rules/@document,null
-web/css/reference/at-rules/@font-face,4
+web/css/reference/at-rules/@font-face,5
 web/css/reference/at-rules/@font-face/ascent-override,null
 web/css/reference/at-rules/@font-face/descent-override,null
 web/css/reference/at-rules/@font-face/font-display,null

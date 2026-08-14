@@ -772,7 +772,7 @@ learn_web_development/core/scripting/test_your_skills/strings,null
 learn_web_development/core/scripting/test_your_skills/variables,null
 learn_web_development/core/scripting/useful_string_methods,null
 learn_web_development/core/scripting/variables,7
-learn_web_development/core/scripting/what_is_javascript,15
+learn_web_development/core/scripting/what_is_javascript,16
 learn_web_development/core/scripting/what_went_wrong,9
 learn_web_development/core/structuring_content,null
 learn_web_development/core/structuring_content/advanced_text_features,9
@@ -11405,7 +11405,7 @@ web/css/reference/values/attr,null
 web/css/reference/values/axis,null
 web/css/reference/values/baseline-position,null
 web/css/reference/values/basic-shape,null
-web/css/reference/values/basic-shape/circle,6
+web/css/reference/values/basic-shape/circle,7
 web/css/reference/values/basic-shape/ellipse,null
 web/css/reference/values/basic-shape/inset,null
 web/css/reference/values/basic-shape/path,null
@@ -11834,7 +11834,7 @@ web/html/reference/global_attributes/virtualkeyboardpolicy,null
 web/html/reference/global_attributes/writingsuggestions,null
 web/http,14
 web/http/guides,0
-web/http/guides/authentication,4
+web/http/guides/authentication,5
 web/http/guides/browser_detection_using_the_user_agent,11
 web/http/guides/caching,null
 web/http/guides/client_hints,null
@@ -13718,7 +13718,7 @@ web/progressive_web_apps/tutorials/js13kgames/installable_pwas,null
 web/progressive_web_apps/tutorials/js13kgames/loading,null
 web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,null
 web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,null
-web/security,33
+web/security,34
 web/security/attacks,15
 web/security/attacks/clickjacking,5
 web/security/attacks/csrf,null

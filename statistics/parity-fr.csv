@@ -189,7 +189,7 @@ glossary/crud,0
 glossary/cryptanalysis,0
 glossary/cryptography,0
 glossary/csp,0
-glossary/csr,0
+glossary/csr,1
 glossary/csrf,0
 glossary/css,0
 glossary/css_descriptor,0
@@ -1962,7 +1962,7 @@ mozilla/firefox/releases/23,0
 mozilla/firefox/releases/24,0
 mozilla/firefox/releases/25,0
 mozilla/firefox/releases/26,0
-mozilla/firefox/releases/27,0
+mozilla/firefox/releases/27,1
 mozilla/firefox/releases/28,0
 mozilla/firefox/releases/29,0
 mozilla/firefox/releases/3,0
@@ -3948,7 +3948,7 @@ web/api/element/pointerout_event,0
 web/api/element/pointerover_event,0
 web/api/element/pointerrawupdate_event,0
 web/api/element/pointerup_event,0
-web/api/element/prefix,0
+web/api/element/prefix,1
 web/api/element/prepend,0
 web/api/element/previouselementsibling,0
 web/api/element/pseudo,0
@@ -10571,7 +10571,7 @@ web/css/reference/at-rules/@counter-style/symbols,0
 web/css/reference/at-rules/@counter-style/system,0
 web/css/reference/at-rules/@custom-media,0
 web/css/reference/at-rules/@document,0
-web/css/reference/at-rules/@font-face,0
+web/css/reference/at-rules/@font-face,1
 web/css/reference/at-rules/@font-face/ascent-override,0
 web/css/reference/at-rules/@font-face/descent-override,0
 web/css/reference/at-rules/@font-face/font-display,0
@@ -10817,7 +10817,7 @@ web/css/reference/properties/column-fill,1
 web/css/reference/properties/column-gap,0
 web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,1
-web/css/reference/properties/column-rule-color,2
+web/css/reference/properties/column-rule-color,3
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,0
 web/css/reference/properties/column-rule-width,0
@@ -11081,7 +11081,7 @@ web/css/reference/properties/right,0
 web/css/reference/properties/rotate,0
 web/css/reference/properties/row-gap,0
 web/css/reference/properties/row-rule,0
-web/css/reference/properties/row-rule-color,0
+web/css/reference/properties/row-rule-color,1
 web/css/reference/properties/row-rule-style,0
 web/css/reference/properties/row-rule-visibility-items,0
 web/css/reference/properties/row-rule-width,0
@@ -11089,8 +11089,8 @@ web/css/reference/properties/ruby-align,0
 web/css/reference/properties/ruby-overhang,0
 web/css/reference/properties/ruby-position,0
 web/css/reference/properties/rule,0
-web/css/reference/properties/rule-color,0
-web/css/reference/properties/rule-style,0
+web/css/reference/properties/rule-color,1
+web/css/reference/properties/rule-style,1
 web/css/reference/properties/rule-visibility-items,0
 web/css/reference/properties/rule-width,0
 web/css/reference/properties/rx,0
@@ -11207,7 +11207,7 @@ web/css/reference/properties/view-timeline-inset,0
 web/css/reference/properties/view-timeline-name,0
 web/css/reference/properties/view-transition-class,0
 web/css/reference/properties/view-transition-name,0
-web/css/reference/properties/view-transition-scope,0
+web/css/reference/properties/view-transition-scope,1
 web/css/reference/properties/visibility,0
 web/css/reference/properties/white-space,0
 web/css/reference/properties/white-space-collapse,0
@@ -11241,7 +11241,7 @@ web/css/reference/selectors/_colon_active,0
 web/css/reference/selectors/_colon_active-view-transition,0
 web/css/reference/selectors/_colon_active-view-transition-type,0
 web/css/reference/selectors/_colon_any-link,0
-web/css/reference/selectors/_colon_autofill,0
+web/css/reference/selectors/_colon_autofill,1
 web/css/reference/selectors/_colon_blank,0
 web/css/reference/selectors/_colon_buffering,0
 web/css/reference/selectors/_colon_checked,0
@@ -11405,8 +11405,8 @@ web/css/reference/values/attr,0
 web/css/reference/values/axis,0
 web/css/reference/values/baseline-position,0
 web/css/reference/values/basic-shape,0
-web/css/reference/values/basic-shape/circle,0
-web/css/reference/values/basic-shape/ellipse,0
+web/css/reference/values/basic-shape/circle,1
+web/css/reference/values/basic-shape/ellipse,1
 web/css/reference/values/basic-shape/inset,0
 web/css/reference/values/basic-shape/path,0
 web/css/reference/values/basic-shape/polygon,0
@@ -11834,7 +11834,7 @@ web/html/reference/global_attributes/virtualkeyboardpolicy,0
 web/html/reference/global_attributes/writingsuggestions,0
 web/http,1
 web/http/guides,0
-web/http/guides/authentication,0
+web/http/guides/authentication,1
 web/http/guides/browser_detection_using_the_user_agent,0
 web/http/guides/caching,3
 web/http/guides/client_hints,0
@@ -11912,7 +11912,7 @@ web/http/reference/headers/available-dictionary,0
 web/http/reference/headers/cache-control,2
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
-web/http/reference/headers/content-digest,5
+web/http/reference/headers/content-digest,6
 web/http/reference/headers/content-disposition,1
 web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
@@ -12054,7 +12054,7 @@ web/http/reference/headers/referrer-policy,1
 web/http/reference/headers/refresh,0
 web/http/reference/headers/report-to,0
 web/http/reference/headers/reporting-endpoints,0
-web/http/reference/headers/repr-digest,6
+web/http/reference/headers/repr-digest,7
 web/http/reference/headers/retry-after,0
 web/http/reference/headers/rtt,0
 web/http/reference/headers/save-data,0
@@ -13777,7 +13777,7 @@ web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,1
 web/svg/guides/svg_in_html,1
 web/svg/reference,0
-web/svg/reference/attribute,5
+web/svg/reference/attribute,6
 web/svg/reference/attribute/accumulate,null
 web/svg/reference/attribute/additive,null
 web/svg/reference/attribute/alignment-baseline,null
@@ -14047,7 +14047,7 @@ web/svg/reference/element/use,null
 web/svg/reference/element/view,null
 web/svg/tutorials,0
 web/svg/tutorials/svg_from_scratch,0
-web/svg/tutorials/svg_from_scratch/basic_shapes,1
+web/svg/tutorials/svg_from_scratch/basic_shapes,2
 web/svg/tutorials/svg_from_scratch/basic_transformations,null
 web/svg/tutorials/svg_from_scratch/clipping_and_masking,null
 web/svg/tutorials/svg_from_scratch/fills_and_strokes,null
