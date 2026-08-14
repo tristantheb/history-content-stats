@@ -4478,7 +4478,7 @@ web/api/gpucommandencoder/clearbuffer,0
 web/api/gpucommandencoder/copybuffertobuffer,0
 web/api/gpucommandencoder/copybuffertotexture,0
 web/api/gpucommandencoder/copytexturetobuffer,0
-web/api/gpucommandencoder/copytexturetotexture,0
+web/api/gpucommandencoder/copytexturetotexture,1
 web/api/gpucommandencoder/finish,0
 web/api/gpucommandencoder/insertdebugmarker,0
 web/api/gpucommandencoder/label,0
@@ -6224,7 +6224,7 @@ web/api/navigateevent/formdata,0
 web/api/navigateevent/hashchange,0
 web/api/navigateevent/hasuavisualtransition,0
 web/api/navigateevent/info,0
-web/api/navigateevent/intercept,0
+web/api/navigateevent/intercept,1
 web/api/navigateevent/navigateevent,0
 web/api/navigateevent/navigationtype,0
 web/api/navigateevent/scroll,0
@@ -12236,7 +12236,7 @@ web/javascript/guide/regular_expressions/cheatsheet,0
 web/javascript/guide/regular_expressions/groups_and_backreferences,0
 web/javascript/guide/regular_expressions/quantifiers,0
 web/javascript/guide/representing_dates_times,0
-web/javascript/guide/resource_management,0
+web/javascript/guide/resource_management,1
 web/javascript/guide/typed_arrays,0
 web/javascript/guide/using_classes,0
 web/javascript/guide/using_promises,0

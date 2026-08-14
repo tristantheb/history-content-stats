@@ -6224,7 +6224,7 @@ web/api/navigateevent/formdata,2
 web/api/navigateevent/hashchange,3
 web/api/navigateevent/hasuavisualtransition,2
 web/api/navigateevent/info,3
-web/api/navigateevent/intercept,8
+web/api/navigateevent/intercept,9
 web/api/navigateevent/navigateevent,4
 web/api/navigateevent/navigationtype,4
 web/api/navigateevent/scroll,2
