@@ -13725,9 +13725,9 @@ web/security/attacks/csrf,0
 web/security/attacks/idor,0
 web/security/attacks/mitm,0
 web/security/attacks/phishing,0
-web/security/attacks/prototype_pollution,null
-web/security/attacks/ssrf,null
-web/security/attacks/subdomain_takeover,null
+web/security/attacks/prototype_pollution,0
+web/security/attacks/ssrf,0
+web/security/attacks/subdomain_takeover,0
 web/security/attacks/supply_chain_attacks,null
 web/security/attacks/xs-leaks,null
 web/security/attacks/xss,null
