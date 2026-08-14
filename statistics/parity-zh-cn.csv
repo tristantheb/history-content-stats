@@ -189,7 +189,7 @@ glossary/crud,1
 glossary/cryptanalysis,1
 glossary/cryptography,2
 glossary/csp,2
-glossary/csr,1
+glossary/csr,2
 glossary/csrf,2
 glossary/css,2
 glossary/css_descriptor,4
@@ -772,7 +772,7 @@ learn_web_development/core/scripting/test_your_skills/strings,null
 learn_web_development/core/scripting/test_your_skills/variables,null
 learn_web_development/core/scripting/useful_string_methods,0
 learn_web_development/core/scripting/variables,null
-learn_web_development/core/scripting/what_is_javascript,0
+learn_web_development/core/scripting/what_is_javascript,1
 learn_web_development/core/scripting/what_went_wrong,null
 learn_web_development/core/structuring_content,14
 learn_web_development/core/structuring_content/advanced_text_features,8
@@ -889,7 +889,7 @@ learn_web_development/extensions/forms/html_forms_in_legacy_browsers,null
 learn_web_development/extensions/forms/other_form_controls,null
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,null
 learn_web_development/extensions/forms/sending_forms_through_javascript,4
-learn_web_development/extensions/forms/styling_web_forms,18
+learn_web_development/extensions/forms/styling_web_forms,19
 learn_web_development/extensions/forms/ui_pseudo-classes,null
 learn_web_development/extensions/forms/user_input_methods,null
 learn_web_development/extensions/forms/your_first_form,null
@@ -3948,7 +3948,7 @@ web/api/element/pointerout_event,null
 web/api/element/pointerover_event,null
 web/api/element/pointerrawupdate_event,null
 web/api/element/pointerup_event,null
-web/api/element/prefix,1
+web/api/element/prefix,2
 web/api/element/prepend,0
 web/api/element/previouselementsibling,null
 web/api/element/pseudo,null
@@ -6957,7 +6957,7 @@ web/api/pressurerecord/tojson,null
 web/api/prioritized_task_scheduling_api,null
 web/api/private_state_token_api,null
 web/api/private_state_token_api/using,null
-web/api/processinginstruction,6
+web/api/processinginstruction,7
 web/api/processinginstruction/getattribute,null
 web/api/processinginstruction/getattributenames,null
 web/api/processinginstruction/hasattribute,null
@@ -11405,8 +11405,8 @@ web/css/reference/values/attr,7
 web/css/reference/values/axis,null
 web/css/reference/values/baseline-position,1
 web/css/reference/values/basic-shape,9
-web/css/reference/values/basic-shape/circle,6
-web/css/reference/values/basic-shape/ellipse,6
+web/css/reference/values/basic-shape/circle,7
+web/css/reference/values/basic-shape/ellipse,7
 web/css/reference/values/basic-shape/inset,5
 web/css/reference/values/basic-shape/path,9
 web/css/reference/values/basic-shape/polygon,7
@@ -11912,7 +11912,7 @@ web/http/reference/headers/available-dictionary,null
 web/http/reference/headers/cache-control,null
 web/http/reference/headers/clear-site-data,null
 web/http/reference/headers/connection,null
-web/http/reference/headers/content-digest,9
+web/http/reference/headers/content-digest,10
 web/http/reference/headers/content-disposition,null
 web/http/reference/headers/content-dpr,5
 web/http/reference/headers/content-encoding,6
@@ -13718,7 +13718,7 @@ web/progressive_web_apps/tutorials/js13kgames/installable_pwas,null
 web/progressive_web_apps/tutorials/js13kgames/loading,null
 web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,null
 web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,null
-web/security,7
+web/security,8
 web/security/attacks,9
 web/security/attacks/clickjacking,2
 web/security/attacks/csrf,null
@@ -13777,7 +13777,7 @@ web/svg/guides/svg_as_an_image,3
 web/svg/guides/svg_filters,null
 web/svg/guides/svg_in_html,null
 web/svg/reference,0
-web/svg/reference/attribute,16
+web/svg/reference/attribute,17
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,1
 web/svg/reference/attribute/alignment-baseline,5
@@ -14019,7 +14019,7 @@ web/svg/reference/element/feturbulence,null
 web/svg/reference/element/filter,null
 web/svg/reference/element/foreignobject,null
 web/svg/reference/element/g,4
-web/svg/reference/element/image,7
+web/svg/reference/element/image,8
 web/svg/reference/element/line,null
 web/svg/reference/element/lineargradient,null
 web/svg/reference/element/marker,null
@@ -14043,11 +14043,11 @@ web/svg/reference/element/text,null
 web/svg/reference/element/textpath,null
 web/svg/reference/element/title,0
 web/svg/reference/element/tspan,0
-web/svg/reference/element/use,11
-web/svg/reference/element/view,5
+web/svg/reference/element/use,12
+web/svg/reference/element/view,6
 web/svg/tutorials,0
 web/svg/tutorials/svg_from_scratch,null
-web/svg/tutorials/svg_from_scratch/basic_shapes,1
+web/svg/tutorials/svg_from_scratch/basic_shapes,2
 web/svg/tutorials/svg_from_scratch/basic_transformations,null
 web/svg/tutorials/svg_from_scratch/clipping_and_masking,null
 web/svg/tutorials/svg_from_scratch/fills_and_strokes,null
@@ -14057,7 +14057,7 @@ web/svg/tutorials/svg_from_scratch/gradients,null
 web/svg/tutorials/svg_from_scratch/image_element,null
 web/svg/tutorials/svg_from_scratch/introduction,null
 web/svg/tutorials/svg_from_scratch/other_content_in_svg,null
-web/svg/tutorials/svg_from_scratch/paths,0
+web/svg/tutorials/svg_from_scratch/paths,1
 web/svg/tutorials/svg_from_scratch/patterns,null
 web/svg/tutorials/svg_from_scratch/positions,null
 web/svg/tutorials/svg_from_scratch/svg_and_css,null

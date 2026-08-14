@@ -189,7 +189,7 @@ glossary/crud,null
 glossary/cryptanalysis,null
 glossary/cryptography,0
 glossary/csp,null
-glossary/csr,1
+glossary/csr,2
 glossary/csrf,null
 glossary/css,1
 glossary/css_descriptor,null
@@ -772,7 +772,7 @@ learn_web_development/core/scripting/test_your_skills/strings,0
 learn_web_development/core/scripting/test_your_skills/variables,0
 learn_web_development/core/scripting/useful_string_methods,0
 learn_web_development/core/scripting/variables,0
-learn_web_development/core/scripting/what_is_javascript,1
+learn_web_development/core/scripting/what_is_javascript,2
 learn_web_development/core/scripting/what_went_wrong,1
 learn_web_development/core/structuring_content,0
 learn_web_development/core/structuring_content/advanced_text_features,0
@@ -889,7 +889,7 @@ learn_web_development/extensions/forms/html_forms_in_legacy_browsers,0
 learn_web_development/extensions/forms/other_form_controls,0
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,0
 learn_web_development/extensions/forms/sending_forms_through_javascript,0
-learn_web_development/extensions/forms/styling_web_forms,1
+learn_web_development/extensions/forms/styling_web_forms,2
 learn_web_development/extensions/forms/ui_pseudo-classes,1
 learn_web_development/extensions/forms/user_input_methods,0
 learn_web_development/extensions/forms/your_first_form,0
@@ -1893,7 +1893,7 @@ mozilla/firefox/releases/103,null
 mozilla/firefox/releases/104,null
 mozilla/firefox/releases/105,13
 mozilla/firefox/releases/106,0
-mozilla/firefox/releases/107,0
+mozilla/firefox/releases/107,1
 mozilla/firefox/releases/108,0
 mozilla/firefox/releases/109,0
 mozilla/firefox/releases/11,0
@@ -1931,7 +1931,7 @@ mozilla/firefox/releases/138,6
 mozilla/firefox/releases/139,6
 mozilla/firefox/releases/14,0
 mozilla/firefox/releases/140,7
-mozilla/firefox/releases/141,2
+mozilla/firefox/releases/141,3
 mozilla/firefox/releases/142,11
 mozilla/firefox/releases/143,5
 mozilla/firefox/releases/144,3
@@ -3948,7 +3948,7 @@ web/api/element/pointerout_event,8
 web/api/element/pointerover_event,9
 web/api/element/pointerrawupdate_event,10
 web/api/element/pointerup_event,8
-web/api/element/prefix,1
+web/api/element/prefix,2
 web/api/element/prepend,1
 web/api/element/previouselementsibling,4
 web/api/element/pseudo,null
@@ -6957,7 +6957,7 @@ web/api/pressurerecord/tojson,null
 web/api/prioritized_task_scheduling_api,null
 web/api/private_state_token_api,null
 web/api/private_state_token_api/using,null
-web/api/processinginstruction,7
+web/api/processinginstruction,8
 web/api/processinginstruction/getattribute,null
 web/api/processinginstruction/getattributenames,null
 web/api/processinginstruction/hasattribute,null
@@ -10571,7 +10571,7 @@ web/css/reference/at-rules/@counter-style/symbols,1
 web/css/reference/at-rules/@counter-style/system,1
 web/css/reference/at-rules/@custom-media,3
 web/css/reference/at-rules/@document,0
-web/css/reference/at-rules/@font-face,2
+web/css/reference/at-rules/@font-face,3
 web/css/reference/at-rules/@font-face/ascent-override,1
 web/css/reference/at-rules/@font-face/descent-override,1
 web/css/reference/at-rules/@font-face/font-display,1
@@ -10817,7 +10817,7 @@ web/css/reference/properties/column-fill,1
 web/css/reference/properties/column-gap,1
 web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,0
-web/css/reference/properties/column-rule-color,1
+web/css/reference/properties/column-rule-color,2
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,1
 web/css/reference/properties/column-rule-width,0
@@ -11081,7 +11081,7 @@ web/css/reference/properties/right,1
 web/css/reference/properties/rotate,1
 web/css/reference/properties/row-gap,2
 web/css/reference/properties/row-rule,1
-web/css/reference/properties/row-rule-color,0
+web/css/reference/properties/row-rule-color,1
 web/css/reference/properties/row-rule-style,0
 web/css/reference/properties/row-rule-visibility-items,1
 web/css/reference/properties/row-rule-width,0
@@ -11241,7 +11241,7 @@ web/css/reference/selectors/_colon_active,1
 web/css/reference/selectors/_colon_active-view-transition,1
 web/css/reference/selectors/_colon_active-view-transition-type,1
 web/css/reference/selectors/_colon_any-link,0
-web/css/reference/selectors/_colon_autofill,0
+web/css/reference/selectors/_colon_autofill,1
 web/css/reference/selectors/_colon_blank,1
 web/css/reference/selectors/_colon_buffering,0
 web/css/reference/selectors/_colon_checked,0
@@ -11405,8 +11405,8 @@ web/css/reference/values/attr,5
 web/css/reference/values/axis,1
 web/css/reference/values/baseline-position,1
 web/css/reference/values/basic-shape,3
-web/css/reference/values/basic-shape/circle,2
-web/css/reference/values/basic-shape/ellipse,2
+web/css/reference/values/basic-shape/circle,3
+web/css/reference/values/basic-shape/ellipse,3
 web/css/reference/values/basic-shape/inset,1
 web/css/reference/values/basic-shape/path,1
 web/css/reference/values/basic-shape/polygon,1
@@ -11834,7 +11834,7 @@ web/html/reference/global_attributes/virtualkeyboardpolicy,1
 web/html/reference/global_attributes/writingsuggestions,1
 web/http,1
 web/http/guides,0
-web/http/guides/authentication,0
+web/http/guides/authentication,1
 web/http/guides/browser_detection_using_the_user_agent,5
 web/http/guides/caching,5
 web/http/guides/client_hints,4
@@ -11912,7 +11912,7 @@ web/http/reference/headers/available-dictionary,null
 web/http/reference/headers/cache-control,4
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
-web/http/reference/headers/content-digest,3
+web/http/reference/headers/content-digest,4
 web/http/reference/headers/content-disposition,0
 web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
@@ -13718,7 +13718,7 @@ web/progressive_web_apps/tutorials/js13kgames/installable_pwas,2
 web/progressive_web_apps/tutorials/js13kgames/loading,3
 web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,6
 web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,3
-web/security,2
+web/security,3
 web/security/attacks,0
 web/security/attacks/clickjacking,0
 web/security/attacks/csrf,1
@@ -13777,7 +13777,7 @@ web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,3
 web/svg/guides/svg_in_html,3
 web/svg/reference,0
-web/svg/reference/attribute,5
+web/svg/reference/attribute,6
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,0
 web/svg/reference/attribute/alignment-baseline,1
@@ -13918,7 +13918,7 @@ web/svg/reference/attribute/ry,1
 web/svg/reference/attribute/scale,2
 web/svg/reference/attribute/seed,0
 web/svg/reference/attribute/shape-rendering,0
-web/svg/reference/attribute/side,1
+web/svg/reference/attribute/side,2
 web/svg/reference/attribute/slope,null
 web/svg/reference/attribute/spacing,1
 web/svg/reference/attribute/specularconstant,null
@@ -13959,7 +13959,7 @@ web/svg/reference/attribute/values,0
 web/svg/reference/attribute/vector-effect,1
 web/svg/reference/attribute/version,0
 web/svg/reference/attribute/viewbox,1
-web/svg/reference/attribute/visibility,0
+web/svg/reference/attribute/visibility,1
 web/svg/reference/attribute/white-space,null
 web/svg/reference/attribute/width,1
 web/svg/reference/attribute/word-spacing,null
@@ -14019,7 +14019,7 @@ web/svg/reference/element/feturbulence,0
 web/svg/reference/element/filter,0
 web/svg/reference/element/foreignobject,0
 web/svg/reference/element/g,2
-web/svg/reference/element/image,1
+web/svg/reference/element/image,2
 web/svg/reference/element/line,0
 web/svg/reference/element/lineargradient,0
 web/svg/reference/element/marker,0
@@ -14043,25 +14043,25 @@ web/svg/reference/element/text,0
 web/svg/reference/element/textpath,0
 web/svg/reference/element/title,0
 web/svg/reference/element/tspan,0
-web/svg/reference/element/use,1
-web/svg/reference/element/view,0
+web/svg/reference/element/use,2
+web/svg/reference/element/view,1
 web/svg/tutorials,0
 web/svg/tutorials/svg_from_scratch,0
-web/svg/tutorials/svg_from_scratch/basic_shapes,1
+web/svg/tutorials/svg_from_scratch/basic_shapes,2
 web/svg/tutorials/svg_from_scratch/basic_transformations,5
 web/svg/tutorials/svg_from_scratch/clipping_and_masking,3
 web/svg/tutorials/svg_from_scratch/fills_and_strokes,3
 web/svg/tutorials/svg_from_scratch/filter_effects,3
 web/svg/tutorials/svg_from_scratch/getting_started,4
-web/svg/tutorials/svg_from_scratch/gradients,4
+web/svg/tutorials/svg_from_scratch/gradients,5
 web/svg/tutorials/svg_from_scratch/image_element,3
 web/svg/tutorials/svg_from_scratch/introduction,3
 web/svg/tutorials/svg_from_scratch/other_content_in_svg,5
-web/svg/tutorials/svg_from_scratch/paths,5
+web/svg/tutorials/svg_from_scratch/paths,6
 web/svg/tutorials/svg_from_scratch/patterns,1
 web/svg/tutorials/svg_from_scratch/positions,1
 web/svg/tutorials/svg_from_scratch/svg_and_css,7
-web/svg/tutorials/svg_from_scratch/texts,3
+web/svg/tutorials/svg_from_scratch/texts,4
 web/svg/tutorials/svg_from_scratch/tools_for_svg,3
 web/svg/tutorials/svg_from_scratch/using_fonts,2
 web/uri,2
