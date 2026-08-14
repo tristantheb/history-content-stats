@@ -500,7 +500,7 @@ glossary/rate_limit,3
 glossary/rdf,1
 glossary/reading_order,null
 glossary/real_user_monitoring,4
-glossary/recursion,null
+glossary/recursion,0
 glossary/reflow,3
 glossary/registrable_domain,null
 glossary/regular_expression,1
@@ -12236,7 +12236,7 @@ web/javascript/guide/regular_expressions/cheatsheet,1
 web/javascript/guide/regular_expressions/groups_and_backreferences,0
 web/javascript/guide/regular_expressions/quantifiers,1
 web/javascript/guide/representing_dates_times,0
-web/javascript/guide/resource_management,0
+web/javascript/guide/resource_management,1
 web/javascript/guide/typed_arrays,0
 web/javascript/guide/using_classes,0
 web/javascript/guide/using_promises,0
