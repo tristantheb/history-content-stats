@@ -189,7 +189,7 @@ glossary/crud,0
 glossary/cryptanalysis,0
 glossary/cryptography,0
 glossary/csp,0
-glossary/csr,1
+glossary/csr,0
 glossary/csrf,0
 glossary/css,0
 glossary/css_descriptor,0
@@ -729,7 +729,7 @@ learn_web_development/core/css_layout/test_your_skills/grid,0
 learn_web_development/core/css_layout/test_your_skills/position,null
 learn_web_development/core/css_layout/test_your_skills/responsive_design,null
 learn_web_development/core/design_for_developers,null
-learn_web_development/core/frameworks_libraries,1
+learn_web_development/core/frameworks_libraries,0
 learn_web_development/core/frameworks_libraries/introduction,null
 learn_web_development/core/frameworks_libraries/main_features,null
 learn_web_development/core/frameworks_libraries/react_accessibility,null
@@ -873,7 +873,7 @@ learn_web_development/extensions/client-side_tools/package_management,null
 learn_web_development/extensions/forms,8
 learn_web_development/extensions/forms/advanced_form_styling,null
 learn_web_development/extensions/forms/basic_native_form_controls,null
-learn_web_development/extensions/forms/customizable_select,5
+learn_web_development/extensions/forms/customizable_select,6
 learn_web_development/extensions/forms/customizable_select_listboxes,null
 learn_web_development/extensions/forms/form_validation,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,null
@@ -11063,7 +11063,7 @@ web/css/reference/properties/perspective-origin,0
 web/css/reference/properties/place-content,0
 web/css/reference/properties/place-items,0
 web/css/reference/properties/place-self,0
-web/css/reference/properties/pointer-events,1
+web/css/reference/properties/pointer-events,2
 web/css/reference/properties/position,0
 web/css/reference/properties/position-anchor,0
 web/css/reference/properties/position-area,0
@@ -11836,7 +11836,7 @@ web/http,1
 web/http/guides,0
 web/http/guides/authentication,0
 web/http/guides/browser_detection_using_the_user_agent,0
-web/http/guides/caching,2
+web/http/guides/caching,3
 web/http/guides/client_hints,0
 web/http/guides/compression,0
 web/http/guides/compression_dictionary_transport,1
@@ -11912,7 +11912,7 @@ web/http/reference/headers/available-dictionary,0
 web/http/reference/headers/cache-control,2
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
-web/http/reference/headers/content-digest,3
+web/http/reference/headers/content-digest,5
 web/http/reference/headers/content-disposition,1
 web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
@@ -12045,7 +12045,7 @@ web/http/reference/headers/permissions-policy/xr-spatial-tracking,0
 web/http/reference/headers/pragma,0
 web/http/reference/headers/prefer,1
 web/http/reference/headers/preference-applied,1
-web/http/reference/headers/priority,0
+web/http/reference/headers/priority,1
 web/http/reference/headers/proxy-authenticate,0
 web/http/reference/headers/proxy-authorization,0
 web/http/reference/headers/range,0
@@ -12054,7 +12054,7 @@ web/http/reference/headers/referrer-policy,1
 web/http/reference/headers/refresh,0
 web/http/reference/headers/report-to,0
 web/http/reference/headers/reporting-endpoints,0
-web/http/reference/headers/repr-digest,4
+web/http/reference/headers/repr-digest,6
 web/http/reference/headers/retry-after,0
 web/http/reference/headers/rtt,0
 web/http/reference/headers/save-data,0
