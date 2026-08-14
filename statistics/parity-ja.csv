@@ -873,7 +873,7 @@ learn_web_development/extensions/client-side_tools/package_management,4
 learn_web_development/extensions/forms,0
 learn_web_development/extensions/forms/advanced_form_styling,0
 learn_web_development/extensions/forms/basic_native_form_controls,0
-learn_web_development/extensions/forms/customizable_select,1
+learn_web_development/extensions/forms/customizable_select,2
 learn_web_development/extensions/forms/customizable_select_listboxes,0
 learn_web_development/extensions/forms/form_validation,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,0
@@ -11063,7 +11063,7 @@ web/css/reference/properties/perspective-origin,1
 web/css/reference/properties/place-content,1
 web/css/reference/properties/place-items,1
 web/css/reference/properties/place-self,2
-web/css/reference/properties/pointer-events,2
+web/css/reference/properties/pointer-events,3
 web/css/reference/properties/position,3
 web/css/reference/properties/position-anchor,2
 web/css/reference/properties/position-area,1
@@ -11836,7 +11836,7 @@ web/http,1
 web/http/guides,0
 web/http/guides/authentication,0
 web/http/guides/browser_detection_using_the_user_agent,5
-web/http/guides/caching,4
+web/http/guides/caching,5
 web/http/guides/client_hints,4
 web/http/guides/compression,0
 web/http/guides/compression_dictionary_transport,4
@@ -11912,7 +11912,7 @@ web/http/reference/headers/available-dictionary,null
 web/http/reference/headers/cache-control,4
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
-web/http/reference/headers/content-digest,1
+web/http/reference/headers/content-digest,3
 web/http/reference/headers/content-disposition,0
 web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
@@ -12045,7 +12045,7 @@ web/http/reference/headers/permissions-policy/xr-spatial-tracking,2
 web/http/reference/headers/pragma,0
 web/http/reference/headers/prefer,null
 web/http/reference/headers/preference-applied,null
-web/http/reference/headers/priority,0
+web/http/reference/headers/priority,1
 web/http/reference/headers/proxy-authenticate,0
 web/http/reference/headers/proxy-authorization,0
 web/http/reference/headers/range,0

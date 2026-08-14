@@ -873,7 +873,7 @@ learn_web_development/extensions/client-side_tools/package_management,94e900db86
 learn_web_development/extensions/forms,76936e1d9ff271ac59307a0f858d0d7b57f3866a,Learn|Extensions
 learn_web_development/extensions/forms/advanced_form_styling,2b4a2ad5d9ba084a9eaa2f9204102655e7b575c4,Learn|Extensions
 learn_web_development/extensions/forms/basic_native_form_controls,cc7f29133a331628d623e8cd705394b538d4368c,Learn|Extensions
-learn_web_development/extensions/forms/customizable_select,c62181855c91ac0435dea5fa759a250e1dea4f8b,Learn|Extensions
+learn_web_development/extensions/forms/customizable_select,a25c283c3fe8986e9d31f0bb64b345ad1bb7b64d,Learn|Extensions
 learn_web_development/extensions/forms/customizable_select_listboxes,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Learn|Extensions
 learn_web_development/extensions/forms/form_validation,2290fdbf9d5cf68482245d07d388b883156058ac,Learn|Extensions
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,c52ed787442db9d65b21f5c2874fa6bfd08a253a,Learn|Extensions
@@ -11063,7 +11063,7 @@ web/css/reference/properties/perspective-origin,bcbb4bd6a80292c0663b723d5466759c
 web/css/reference/properties/place-content,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/place-items,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/place-self,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/pointer-events,54363b174e87f0d2af789266d78eda0e9934bdbd,CSS|Properties
+web/css/reference/properties/pointer-events,b9c07e549a6e66272c589a254ebcd5a8c91f37a5,CSS|Properties
 web/css/reference/properties/position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/position-anchor,31086145b865d6c5c2fec3ba700fd424d57fdf42,CSS|Properties
 web/css/reference/properties/position-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11836,7 +11836,7 @@ web/http,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,HTTP
 web/http/guides,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/authentication,3a50bf634f24f832d97e3e2add4a4633ab255217,HTTP|Guides
 web/http/guides/browser_detection_using_the_user_agent,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a,HTTP|Guides
-web/http/guides/caching,f4393b25c74ce73882236df6807ba8d97255269e,HTTP|Guides
+web/http/guides/caching,b13e73fdf1fedcb837aebdd842f1a9a6adc76e10,HTTP|Guides
 web/http/guides/client_hints,53d1a4810a69dc436badd5b73c1a66c8764c835b,HTTP|Guides
 web/http/guides/compression,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/compression_dictionary_transport,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Guides
@@ -11912,7 +11912,7 @@ web/http/reference/headers/available-dictionary,ad5b5e31f81795d692e66dadb7818ba8
 web/http/reference/headers/cache-control,50da788b972b99730b4aeb8fec8fde3bde10975d,HTTP|Headers
 web/http/reference/headers/clear-site-data,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/connection,0e40ec22841891d42376ad8a6d29135953c5106c,HTTP|Headers
-web/http/reference/headers/content-digest,88870465bb9a7c6692ec06652f7df7c029b95a21,HTTP|Headers
+web/http/reference/headers/content-digest,dd39d03a75c11908c2b62c7b20f7c2f87a83d78d,HTTP|Headers
 web/http/reference/headers/content-disposition,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
 web/http/reference/headers/content-dpr,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
 web/http/reference/headers/content-encoding,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -12045,7 +12045,7 @@ web/http/reference/headers/permissions-policy/xr-spatial-tracking,ad5b5e31f81795
 web/http/reference/headers/pragma,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/prefer,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
 web/http/reference/headers/preference-applied,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
-web/http/reference/headers/priority,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
+web/http/reference/headers/priority,5ada695d77acd2bab29ecb003effc563e5bab691,HTTP|Headers
 web/http/reference/headers/proxy-authenticate,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/proxy-authorization,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/range,ca1647a3e2b77cdf9df220244998f25b86629048,HTTP|Headers
@@ -12054,7 +12054,7 @@ web/http/reference/headers/referrer-policy,4db27688840b67e416373ea571d9e3a17bafa
 web/http/reference/headers/refresh,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/report-to,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/reporting-endpoints,a019b326a3ad0c16d78d236582927a38ccaea8b4,HTTP|Headers
-web/http/reference/headers/repr-digest,88870465bb9a7c6692ec06652f7df7c029b95a21,HTTP|Headers
+web/http/reference/headers/repr-digest,dd39d03a75c11908c2b62c7b20f7c2f87a83d78d,HTTP|Headers
 web/http/reference/headers/retry-after,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/rtt,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/save-data,6c43d5c2607cbc84c8ec488400ebb66448992958,HTTP|Headers

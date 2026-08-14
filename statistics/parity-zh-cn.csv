@@ -11836,7 +11836,7 @@ web/http,null
 web/http/guides,1
 web/http/guides/authentication,null
 web/http/guides/browser_detection_using_the_user_agent,null
-web/http/guides/caching,2
+web/http/guides/caching,3
 web/http/guides/client_hints,null
 web/http/guides/compression,3
 web/http/guides/compression_dictionary_transport,null
@@ -11912,7 +11912,7 @@ web/http/reference/headers/available-dictionary,null
 web/http/reference/headers/cache-control,null
 web/http/reference/headers/clear-site-data,null
 web/http/reference/headers/connection,null
-web/http/reference/headers/content-digest,7
+web/http/reference/headers/content-digest,9
 web/http/reference/headers/content-disposition,null
 web/http/reference/headers/content-dpr,5
 web/http/reference/headers/content-encoding,6
