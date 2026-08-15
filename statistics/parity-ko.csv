@@ -12901,7 +12901,7 @@ web/javascript/reference/global_objects/object/valueof,null
 web/javascript/reference/global_objects/object/values,null
 web/javascript/reference/global_objects/parsefloat,null
 web/javascript/reference/global_objects/parseint,null
-web/javascript/reference/global_objects/promise,30
+web/javascript/reference/global_objects/promise,31
 web/javascript/reference/global_objects/promise/all,null
 web/javascript/reference/global_objects/promise/allsettled,null
 web/javascript/reference/global_objects/promise/any,7

@@ -11703,7 +11703,7 @@ web/html/reference/elements/input/date,1
 web/html/reference/elements/input/datetime-local,1
 web/html/reference/elements/input/email,1
 web/html/reference/elements/input/file,1
-web/html/reference/elements/input/hidden,1
+web/html/reference/elements/input/hidden,2
 web/html/reference/elements/input/image,2
 web/html/reference/elements/input/month,1
 web/html/reference/elements/input/number,1
@@ -12901,7 +12901,7 @@ web/javascript/reference/global_objects/object/valueof,1
 web/javascript/reference/global_objects/object/values,1
 web/javascript/reference/global_objects/parsefloat,0
 web/javascript/reference/global_objects/parseint,0
-web/javascript/reference/global_objects/promise,4
+web/javascript/reference/global_objects/promise,5
 web/javascript/reference/global_objects/promise/all,2
 web/javascript/reference/global_objects/promise/allsettled,0
 web/javascript/reference/global_objects/promise/any,1
