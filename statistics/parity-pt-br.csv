@@ -3180,7 +3180,11 @@ web/api/cssnamespacerule/prefix,null
 web/api/cssnesteddeclarations,null
 web/api/cssnesteddeclarations/style,null
 web/api/cssnumericarray,null
+web/api/cssnumericarray/entries,null
+web/api/cssnumericarray/foreach,null
+web/api/cssnumericarray/keys,null
 web/api/cssnumericarray/length,null
+web/api/cssnumericarray/values,null
 web/api/cssnumericvalue,null
 web/api/cssnumericvalue/add,null
 web/api/cssnumericvalue/div,null

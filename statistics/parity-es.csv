@@ -3180,7 +3180,11 @@ web/api/cssnamespacerule/prefix,null
 web/api/cssnesteddeclarations,null
 web/api/cssnesteddeclarations/style,null
 web/api/cssnumericarray,null
+web/api/cssnumericarray/entries,null
+web/api/cssnumericarray/foreach,null
+web/api/cssnumericarray/keys,null
 web/api/cssnumericarray/length,null
+web/api/cssnumericarray/values,null
 web/api/cssnumericvalue,null
 web/api/cssnumericvalue/add,null
 web/api/cssnumericvalue/div,null
@@ -7792,7 +7796,7 @@ web/api/serialport/setsignals,null
 web/api/serialport/writable,null
 web/api/server-sent_events,11
 web/api/server-sent_events/using_server-sent_events,null
-web/api/service_worker_api,1
+web/api/service_worker_api,2
 web/api/service_worker_api/using_service_workers,1
 web/api/serviceworker,0
 web/api/serviceworker/error_event,0

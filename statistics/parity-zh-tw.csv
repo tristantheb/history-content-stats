@@ -3180,7 +3180,11 @@ web/api/cssnamespacerule/prefix,null
 web/api/cssnesteddeclarations,null
 web/api/cssnesteddeclarations/style,null
 web/api/cssnumericarray,null
+web/api/cssnumericarray/entries,null
+web/api/cssnumericarray/foreach,null
+web/api/cssnumericarray/keys,null
 web/api/cssnumericarray/length,null
+web/api/cssnumericarray/values,null
 web/api/cssnumericvalue,null
 web/api/cssnumericvalue/add,null
 web/api/cssnumericvalue/div,null
@@ -11844,7 +11848,7 @@ web/http/guides/conditional_requests,null
 web/http/guides/connection_management_in_http_1.x,null
 web/http/guides/content_negotiation,null
 web/http/guides/content_negotiation/list_of_default_accept_values,null
-web/http/guides/cookies,7
+web/http/guides/cookies,8
 web/http/guides/cors,12
 web/http/guides/cors/errors,null
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,null
@@ -12104,7 +12108,7 @@ web/http/reference/headers/set-cookie,null
 web/http/reference/headers/set-login,null
 web/http/reference/headers/sourcemap,null
 web/http/reference/headers/speculation-rules,null
-web/http/reference/headers/strict-transport-security,7
+web/http/reference/headers/strict-transport-security,8
 web/http/reference/headers/supports-loading-mode,null
 web/http/reference/headers/te,null
 web/http/reference/headers/timing-allow-origin,null
