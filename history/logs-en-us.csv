@@ -11703,7 +11703,7 @@ web/html/reference/elements/input/date,3944506d4afeeed774687cf3fd950878c6229bbc,
 web/html/reference/elements/input/datetime-local,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/email,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/file,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/input/hidden,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/hidden,659af2b5da3a3bf4064e75c3e4b7624386bec54b,HTML|Elements
 web/html/reference/elements/input/image,3a814443b0b97b9334811b7b1406cae3a009d487,HTML|Elements
 web/html/reference/elements/input/month,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/number,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
@@ -12901,7 +12901,7 @@ web/javascript/reference/global_objects/object/valueof,79fdc26fea835d65c9361541b
 web/javascript/reference/global_objects/object/values,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/parsefloat,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Global Objects
 web/javascript/reference/global_objects/parseint,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise,afcdfa050626bb7eb05ee693df8997020db9ff2e,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise,d14bee540b5305ddeb93969618ba05102b648bb6,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/all,b4239bf3b36fea3f76e8d64bf362ef18bfa652b0,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/allsettled,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/any,b4239bf3b36fea3f76e8d64bf362ef18bfa652b0,JavaScript|Global Objects
