@@ -311,7 +311,7 @@ glossary/hoisting,2
 glossary/host,1
 glossary/hotlink,2
 glossary/houdini,3
-glossary/hpkp,1
+glossary/hpkp,2
 glossary/hsts,1
 glossary/html,3
 glossary/html5,4
@@ -405,7 +405,7 @@ glossary/middleware,1
 glossary/mime,2
 glossary/mime_type,4
 glossary/minification,1
-glossary/mitm,2
+glossary/mitm,3
 glossary/mixin,1
 glossary/mobile_first,2
 glossary/modem,1
@@ -460,7 +460,7 @@ glossary/percent-encoding,2
 glossary/php,3
 glossary/physical_properties,2
 glossary/pixel,1
-glossary/placeholder_names,1
+glossary/placeholder_names,2
 glossary/plaintext,1
 glossary/plugin,1
 glossary/png,2
@@ -554,7 +554,7 @@ glossary/serializable_object,null
 glossary/serialization,2
 glossary/server,2
 glossary/server_timing,3
-glossary/session_hijacking,3
+glossary/session_hijacking,4
 glossary/sgml,2
 glossary/shadow_tree,5
 glossary/shallow_copy,2
@@ -3179,8 +3179,12 @@ web/api/cssnamespacerule/namespaceuri,0
 web/api/cssnamespacerule/prefix,2
 web/api/cssnesteddeclarations,null
 web/api/cssnesteddeclarations/style,null
-web/api/cssnumericarray,1
-web/api/cssnumericarray/length,3
+web/api/cssnumericarray,2
+web/api/cssnumericarray/entries,null
+web/api/cssnumericarray/foreach,null
+web/api/cssnumericarray/keys,null
+web/api/cssnumericarray/length,4
+web/api/cssnumericarray/values,null
 web/api/cssnumericvalue,null
 web/api/cssnumericvalue/add,null
 web/api/cssnumericvalue/div,null
@@ -12100,7 +12104,7 @@ web/http/reference/headers/server-timing,null
 web/http/reference/headers/service-worker,null
 web/http/reference/headers/service-worker-allowed,null
 web/http/reference/headers/service-worker-navigation-preload,null
-web/http/reference/headers/set-cookie,11
+web/http/reference/headers/set-cookie,12
 web/http/reference/headers/set-login,null
 web/http/reference/headers/sourcemap,null
 web/http/reference/headers/speculation-rules,null

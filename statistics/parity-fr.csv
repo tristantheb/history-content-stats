@@ -311,7 +311,7 @@ glossary/hoisting,0
 glossary/host,0
 glossary/hotlink,0
 glossary/houdini,0
-glossary/hpkp,0
+glossary/hpkp,1
 glossary/hsts,0
 glossary/html,0
 glossary/html5,0
@@ -405,7 +405,7 @@ glossary/middleware,0
 glossary/mime,0
 glossary/mime_type,0
 glossary/minification,0
-glossary/mitm,0
+glossary/mitm,1
 glossary/mixin,0
 glossary/mobile_first,0
 glossary/modem,0
@@ -460,7 +460,7 @@ glossary/percent-encoding,0
 glossary/php,0
 glossary/physical_properties,0
 glossary/pixel,0
-glossary/placeholder_names,0
+glossary/placeholder_names,1
 glossary/plaintext,0
 glossary/plugin,0
 glossary/png,0
@@ -554,7 +554,7 @@ glossary/serializable_object,0
 glossary/serialization,0
 glossary/server,0
 glossary/server_timing,0
-glossary/session_hijacking,0
+glossary/session_hijacking,1
 glossary/sgml,0
 glossary/shadow_tree,0
 glossary/shallow_copy,0
@@ -3180,7 +3180,11 @@ web/api/cssnamespacerule/prefix,null
 web/api/cssnesteddeclarations,null
 web/api/cssnesteddeclarations/style,null
 web/api/cssnumericarray,null
+web/api/cssnumericarray/entries,null
+web/api/cssnumericarray/foreach,null
+web/api/cssnumericarray/keys,null
 web/api/cssnumericarray/length,null
+web/api/cssnumericarray/values,null
 web/api/cssnumericvalue,null
 web/api/cssnumericvalue/add,null
 web/api/cssnumericvalue/div,null
@@ -3853,7 +3857,7 @@ web/api/element/ariavaluetext,0
 web/api/element/assignedslot,0
 web/api/element/attachshadow,0
 web/api/element/attributes,0
-web/api/element/auxclick_event,0
+web/api/element/auxclick_event,1
 web/api/element/before,0
 web/api/element/beforeinput_event,0
 web/api/element/beforematch_event,0
@@ -7792,7 +7796,7 @@ web/api/serialport/setsignals,null
 web/api/serialport/writable,null
 web/api/server-sent_events,null
 web/api/server-sent_events/using_server-sent_events,null
-web/api/service_worker_api,1
+web/api/service_worker_api,2
 web/api/service_worker_api/using_service_workers,2
 web/api/serviceworker,null
 web/api/serviceworker/error_event,null
@@ -11844,7 +11848,7 @@ web/http/guides/conditional_requests,0
 web/http/guides/connection_management_in_http_1.x,0
 web/http/guides/content_negotiation,0
 web/http/guides/content_negotiation/list_of_default_accept_values,0
-web/http/guides/cookies,0
+web/http/guides/cookies,1
 web/http/guides/cors,0
 web/http/guides/cors/errors,null
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,null
@@ -12144,7 +12148,7 @@ web/http/reference/methods/patch,0
 web/http/reference/methods/post,0
 web/http/reference/methods/put,0
 web/http/reference/methods/trace,0
-web/http/reference/resources_and_specifications,1
+web/http/reference/resources_and_specifications,2
 web/http/reference/status,0
 web/http/reference/status/100,0
 web/http/reference/status/101,0
@@ -13741,10 +13745,10 @@ web/security/defenses,4
 web/security/defenses/certificate_transparency,3
 web/security/defenses/input_validation,null
 web/security/defenses/local_network_access,null
-web/security/defenses/mixed_content,0
+web/security/defenses/mixed_content,1
 web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,0
-web/security/defenses/secure_contexts,0
+web/security/defenses/secure_contexts,1
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,null
 web/security/defenses/subresource_integrity,3
 web/security/defenses/transport_layer_security,null
