@@ -5287,7 +5287,7 @@ web/api/htmlquoteelement/cite,null
 web/api/htmlscriptelement,13
 web/api/htmlscriptelement/async,0
 web/api/htmlscriptelement/attributionsrc,8
-web/api/htmlscriptelement/blocking,4
+web/api/htmlscriptelement/blocking,5
 web/api/htmlscriptelement/crossorigin,2
 web/api/htmlscriptelement/defer,0
 web/api/htmlscriptelement/fetchpriority,4
