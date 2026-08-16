@@ -13732,7 +13732,7 @@ web/security/attacks/phishing,0
 web/security/attacks/prototype_pollution,0
 web/security/attacks/ssrf,0
 web/security/attacks/subdomain_takeover,0
-web/security/attacks/supply_chain_attacks,null
+web/security/attacks/supply_chain_attacks,0
 web/security/attacks/xs-leaks,null
 web/security/attacks/xss,null
 web/security/authentication,null
