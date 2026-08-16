@@ -5262,7 +5262,7 @@ web/api/htmloutputelement,0
 web/api/htmloutputelement/checkvalidity,0
 web/api/htmloutputelement/defaultvalue,0
 web/api/htmloutputelement/form,0
-web/api/htmloutputelement/htmlfor,0
+web/api/htmloutputelement/htmlfor,1
 web/api/htmloutputelement/htmloutputelement,0
 web/api/htmloutputelement/labels,0
 web/api/htmloutputelement/name,0
@@ -5287,7 +5287,7 @@ web/api/htmlquoteelement/cite,0
 web/api/htmlscriptelement,0
 web/api/htmlscriptelement/async,0
 web/api/htmlscriptelement/attributionsrc,0
-web/api/htmlscriptelement/blocking,0
+web/api/htmlscriptelement/blocking,1
 web/api/htmlscriptelement/crossorigin,0
 web/api/htmlscriptelement/defer,0
 web/api/htmlscriptelement/fetchpriority,0
