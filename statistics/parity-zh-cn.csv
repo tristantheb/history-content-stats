@@ -213,6 +213,7 @@ glossary/digital_signature,1
 glossary/distributed_denial_of_service,1
 glossary/dmz,1
 glossary/dns,3
+glossary/dns_over_https,null
 glossary/doctype,3
 glossary/document_directive,4
 glossary/document_environment,1
@@ -790,7 +791,7 @@ learn_web_development/core/structuring_content/html_video_and_audio,13
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,11
 learn_web_development/core/structuring_content/lists,5
 learn_web_development/core/structuring_content/marking_up_a_letter,0
-learn_web_development/core/structuring_content/planet_data_table,null
+learn_web_development/core/structuring_content/planet_data_table,0
 learn_web_development/core/structuring_content/splash_page,7
 learn_web_development/core/structuring_content/structuring_a_page_of_content,null
 learn_web_development/core/structuring_content/structuring_documents,0
@@ -3803,7 +3804,7 @@ web/api/element/animationiteration_event,null
 web/api/element/animationstart_event,null
 web/api/element/append,1
 web/api/element/ariaactivedescendantelement,0
-web/api/element/ariaatomic,null
+web/api/element/ariaatomic,0
 web/api/element/ariaautocomplete,null
 web/api/element/ariabraillelabel,null
 web/api/element/ariabrailleroledescription,null
@@ -10558,7 +10559,7 @@ web/css/how_to/layout_cookbook/pagination,null
 web/css/how_to/layout_cookbook/split_navigation,null
 web/css/how_to/layout_cookbook/sticky_footers,null
 web/css/reference,null
-web/css/reference/at-rules,null
+web/css/reference/at-rules,0
 web/css/reference/at-rules/@charset,null
 web/css/reference/at-rules/@color-profile,null
 web/css/reference/at-rules/@container,null
@@ -11922,7 +11923,7 @@ web/http/reference/headers/content-dpr,5
 web/http/reference/headers/content-encoding,6
 web/http/reference/headers/content-language,5
 web/http/reference/headers/content-length,4
-web/http/reference/headers/content-location,4
+web/http/reference/headers/content-location,5
 web/http/reference/headers/content-range,3
 web/http/reference/headers/content-security-policy,13
 web/http/reference/headers/content-security-policy-report-only,null

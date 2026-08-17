@@ -213,6 +213,7 @@ glossary/digital_signature,null
 glossary/distributed_denial_of_service,3
 glossary/dmz,1
 glossary/dns,3
+glossary/dns_over_https,null
 glossary/doctype,4
 glossary/document_directive,5
 glossary/document_environment,2
@@ -10478,7 +10479,7 @@ web/css/guides/overflow/carousels,null
 web/css/guides/overscroll_behavior,null
 web/css/guides/paged_media,2
 web/css/guides/positioned_layout,1
-web/css/guides/positioned_layout/stacking_context,6
+web/css/guides/positioned_layout/stacking_context,7
 web/css/guides/positioned_layout/stacking_context/example_1,null
 web/css/guides/positioned_layout/stacking_context/example_2,null
 web/css/guides/positioned_layout/stacking_context/example_3,null
