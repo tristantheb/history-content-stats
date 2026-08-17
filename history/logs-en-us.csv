@@ -98,7 +98,7 @@ glossary/authenticator,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/bandwidth,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/base64,8e832fce3360267f296722dfd6dd87d1c547b1bf,Glossary
 glossary/baseline,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
-glossary/baseline/compatibility,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
+glossary/baseline/compatibility,a53d32241d95d687865c6eaaf71a066eb7208faf,Glossary
 glossary/baseline/typography,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
 glossary/bcp_47_language_tag,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Glossary
 glossary/beacon,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
@@ -1879,7 +1879,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,c162145d8f5bfb8d3555acc49a0a74bf8cd7088d,Mozilla|Firefox
+mozilla/firefox/experimental_features,2cd2b1303d15452b977a309a9d4e6618d20fc0c0,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1945,9 +1945,10 @@ mozilla/firefox/releases/15,83f4e64da466670c3700110da364546253eae127,Mozilla|Fir
 mozilla/firefox/releases/150,35be74828a1a06cdd0a1bf0a20c16d29b8adb11f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Firefox|Versions
-mozilla/firefox/releases/153,3b763f8f076c053b7a44e261c3a19a1879bc11ff,Mozilla|Firefox|Versions
-mozilla/firefox/releases/154,6bf9a27ef6e63f86ad71db7d6f46308f69ec24b6,Mozilla|Firefox|Versions
-mozilla/firefox/releases/155,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Firefox|Versions
+mozilla/firefox/releases/153,2ad62b2e8cb4dbd6305f23fda33d800e218d8aef,Mozilla|Firefox|Versions
+mozilla/firefox/releases/154,2ad62b2e8cb4dbd6305f23fda33d800e218d8aef,Mozilla|Firefox|Versions
+mozilla/firefox/releases/155,2ad62b2e8cb4dbd6305f23fda33d800e218d8aef,Mozilla|Firefox|Versions
+mozilla/firefox/releases/156,2ad62b2e8cb4dbd6305f23fda33d800e218d8aef,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -6919,7 +6920,7 @@ web/api/preferenceobject,cef391e51005fcc0716545cc6629e5f6d6223225,Web APIs
 web/api/preferenceobject/change_event,ac0fef0566bfd672c44644a95240b8e1407277bd,Web APIs
 web/api/preferenceobject/clearoverride,46a755ea71206e4512e3639596e6f68f4e71f041,Web APIs
 web/api/preferenceobject/override,5e815d522e796fb2209fa8470616b37e31c572b4,Web APIs
-web/api/preferenceobject/requestoverride,cef391e51005fcc0716545cc6629e5f6d6223225,Web APIs
+web/api/preferenceobject/requestoverride,e5a63f8d002dcac9654be79bd03bfda262dd4d89,Web APIs
 web/api/preferenceobject/validvalues,ac0fef0566bfd672c44644a95240b8e1407277bd,Web APIs
 web/api/preferenceobject/value,ac0fef0566bfd672c44644a95240b8e1407277bd,Web APIs
 web/api/presentation,95dff5ec1195f072b8e48a2273294933670b1e99,Web APIs
@@ -11525,7 +11526,7 @@ web/css/reference/values/percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS
 web/css/reference/values/position-area_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/position_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/pow,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/progress,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/progress,2cd2b1303d15452b977a309a9d4e6618d20fc0c0,CSS|Values
 web/css/reference/values/random,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Values
 web/css/reference/values/ratio,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/ray,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
@@ -11917,7 +11918,7 @@ web/http/reference/headers/available-dictionary,ad5b5e31f81795d692e66dadb7818ba8
 web/http/reference/headers/cache-control,50da788b972b99730b4aeb8fec8fde3bde10975d,HTTP|Headers
 web/http/reference/headers/clear-site-data,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/connection,0e40ec22841891d42376ad8a6d29135953c5106c,HTTP|Headers
-web/http/reference/headers/content-digest,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,HTTP|Headers
+web/http/reference/headers/content-digest,e5a63f8d002dcac9654be79bd03bfda262dd4d89,HTTP|Headers
 web/http/reference/headers/content-disposition,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Headers
 web/http/reference/headers/content-dpr,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
 web/http/reference/headers/content-encoding,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -12059,7 +12060,7 @@ web/http/reference/headers/referrer-policy,4db27688840b67e416373ea571d9e3a17bafa
 web/http/reference/headers/refresh,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/report-to,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/reporting-endpoints,a019b326a3ad0c16d78d236582927a38ccaea8b4,HTTP|Headers
-web/http/reference/headers/repr-digest,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,HTTP|Headers
+web/http/reference/headers/repr-digest,e5a63f8d002dcac9654be79bd03bfda262dd4d89,HTTP|Headers
 web/http/reference/headers/retry-after,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/rtt,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/save-data,6c43d5c2607cbc84c8ec488400ebb66448992958,HTTP|Headers
