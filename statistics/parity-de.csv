@@ -5262,7 +5262,7 @@ web/api/htmloutputelement,0
 web/api/htmloutputelement/checkvalidity,0
 web/api/htmloutputelement/defaultvalue,0
 web/api/htmloutputelement/form,0
-web/api/htmloutputelement/htmlfor,1
+web/api/htmloutputelement/htmlfor,0
 web/api/htmloutputelement/htmloutputelement,0
 web/api/htmloutputelement/labels,0
 web/api/htmloutputelement/name,0
@@ -5287,7 +5287,7 @@ web/api/htmlquoteelement/cite,0
 web/api/htmlscriptelement,0
 web/api/htmlscriptelement/async,0
 web/api/htmlscriptelement/attributionsrc,0
-web/api/htmlscriptelement/blocking,1
+web/api/htmlscriptelement/blocking,0
 web/api/htmlscriptelement/crossorigin,0
 web/api/htmlscriptelement/defer,0
 web/api/htmlscriptelement/fetchpriority,0
@@ -11742,7 +11742,7 @@ web/html/reference/elements/meta/name/viewport,0
 web/html/reference/elements/meter,0
 web/html/reference/elements/nav,0
 web/html/reference/elements/nobr,0
-web/html/reference/elements/noembed,0
+web/html/reference/elements/noembed,1
 web/html/reference/elements/noframes,0
 web/html/reference/elements/noscript,0
 web/html/reference/elements/object,0
@@ -11848,7 +11848,7 @@ web/http/guides/conditional_requests,0
 web/http/guides/connection_management_in_http_1.x,0
 web/http/guides/content_negotiation,0
 web/http/guides/content_negotiation/list_of_default_accept_values,0
-web/http/guides/cookies,0
+web/http/guides/cookies,1
 web/http/guides/cors,0
 web/http/guides/cors/errors,0
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,0
@@ -12498,9 +12498,9 @@ web/javascript/reference/global_objects/atomics/sub,0
 web/javascript/reference/global_objects/atomics/wait,0
 web/javascript/reference/global_objects/atomics/waitasync,0
 web/javascript/reference/global_objects/atomics/xor,0
-web/javascript/reference/global_objects/bigint,0
-web/javascript/reference/global_objects/bigint/asintn,0
-web/javascript/reference/global_objects/bigint/asuintn,0
+web/javascript/reference/global_objects/bigint,1
+web/javascript/reference/global_objects/bigint/asintn,1
+web/javascript/reference/global_objects/bigint/asuintn,1
 web/javascript/reference/global_objects/bigint/bigint,0
 web/javascript/reference/global_objects/bigint/tolocalestring,0
 web/javascript/reference/global_objects/bigint/tostring,0

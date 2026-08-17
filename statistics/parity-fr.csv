@@ -11742,7 +11742,7 @@ web/html/reference/elements/meta/name/viewport,0
 web/html/reference/elements/meter,0
 web/html/reference/elements/nav,0
 web/html/reference/elements/nobr,0
-web/html/reference/elements/noembed,0
+web/html/reference/elements/noembed,1
 web/html/reference/elements/noframes,0
 web/html/reference/elements/noscript,0
 web/html/reference/elements/object,0
@@ -11848,7 +11848,7 @@ web/http/guides/conditional_requests,0
 web/http/guides/connection_management_in_http_1.x,0
 web/http/guides/content_negotiation,0
 web/http/guides/content_negotiation/list_of_default_accept_values,0
-web/http/guides/cookies,1
+web/http/guides/cookies,2
 web/http/guides/cors,0
 web/http/guides/cors/errors,null
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,null
@@ -12498,9 +12498,9 @@ web/javascript/reference/global_objects/atomics/sub,0
 web/javascript/reference/global_objects/atomics/wait,0
 web/javascript/reference/global_objects/atomics/waitasync,0
 web/javascript/reference/global_objects/atomics/xor,0
-web/javascript/reference/global_objects/bigint,0
-web/javascript/reference/global_objects/bigint/asintn,0
-web/javascript/reference/global_objects/bigint/asuintn,0
+web/javascript/reference/global_objects/bigint,1
+web/javascript/reference/global_objects/bigint/asintn,1
+web/javascript/reference/global_objects/bigint/asuintn,1
 web/javascript/reference/global_objects/bigint/bigint,1
 web/javascript/reference/global_objects/bigint/tolocalestring,0
 web/javascript/reference/global_objects/bigint/tostring,0
@@ -13733,7 +13733,7 @@ web/security/attacks/prototype_pollution,0
 web/security/attacks/ssrf,0
 web/security/attacks/subdomain_takeover,0
 web/security/attacks/supply_chain_attacks,0
-web/security/attacks/xs-leaks,null
+web/security/attacks/xs-leaks,0
 web/security/attacks/xss,null
 web/security/authentication,null
 web/security/authentication/federated_identity,null
