@@ -98,7 +98,7 @@ glossary/authenticator,0
 glossary/bandwidth,null
 glossary/base64,0
 glossary/baseline,3
-glossary/baseline/compatibility,0
+glossary/baseline/compatibility,1
 glossary/baseline/typography,2
 glossary/bcp_47_language_tag,0
 glossary/beacon,2
@@ -1879,7 +1879,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,7
 mozilla/firefox,0
-mozilla/firefox/experimental_features,10
+mozilla/firefox/experimental_features,13
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -1945,9 +1945,10 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,2
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,0
+mozilla/firefox/releases/153,1
 mozilla/firefox/releases/154,null
 mozilla/firefox/releases/155,null
+mozilla/firefox/releases/156,null
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -4237,7 +4238,7 @@ web/api/filereader/loadstart_event,0
 web/api/filereader/progress_event,0
 web/api/filereader/readasarraybuffer,0
 web/api/filereader/readasbinarystring,0
-web/api/filereader/readasdataurl,16
+web/api/filereader/readasdataurl,0
 web/api/filereader/readastext,0
 web/api/filereader/readystate,0
 web/api/filereader/result,7
@@ -11525,7 +11526,7 @@ web/css/reference/values/percentage,1
 web/css/reference/values/position-area_value,0
 web/css/reference/values/position_value,1
 web/css/reference/values/pow,0
-web/css/reference/values/progress,1
+web/css/reference/values/progress,3
 web/css/reference/values/random,1
 web/css/reference/values/ratio,1
 web/css/reference/values/ray,0
@@ -11917,7 +11918,7 @@ web/http/reference/headers/available-dictionary,null
 web/http/reference/headers/cache-control,4
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
-web/http/reference/headers/content-digest,4
+web/http/reference/headers/content-digest,5
 web/http/reference/headers/content-disposition,0
 web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
@@ -13979,7 +13980,7 @@ web/svg/reference/attribute/xlink_colon_show,null
 web/svg/reference/attribute/xlink_colon_title,null
 web/svg/reference/attribute/xlink_colon_type,null
 web/svg/reference/attribute/xml_colon_lang,0
-web/svg/reference/attribute/xml_colon_space,null
+web/svg/reference/attribute/xml_colon_space,0
 web/svg/reference/attribute/y,0
 web/svg/reference/attribute/y1,0
 web/svg/reference/attribute/y2,0

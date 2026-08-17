@@ -98,7 +98,7 @@ glossary/authenticator,0
 glossary/bandwidth,0
 glossary/base64,0
 glossary/baseline,0
-glossary/baseline/compatibility,0
+glossary/baseline/compatibility,1
 glossary/baseline/typography,0
 glossary/bcp_47_language_tag,0
 glossary/beacon,0
@@ -213,7 +213,7 @@ glossary/digital_signature,0
 glossary/distributed_denial_of_service,0
 glossary/dmz,0
 glossary/dns,0
-glossary/dns_over_https,null
+glossary/dns_over_https,0
 glossary/doctype,0
 glossary/document_directive,0
 glossary/document_environment,0
@@ -1879,7 +1879,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,3
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1945,9 +1945,10 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,0
-mozilla/firefox/releases/154,0
-mozilla/firefox/releases/155,0
+mozilla/firefox/releases/153,1
+mozilla/firefox/releases/154,10
+mozilla/firefox/releases/155,1
+mozilla/firefox/releases/156,null
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -6919,7 +6920,7 @@ web/api/preferenceobject,0
 web/api/preferenceobject/change_event,0
 web/api/preferenceobject/clearoverride,0
 web/api/preferenceobject/override,0
-web/api/preferenceobject/requestoverride,0
+web/api/preferenceobject/requestoverride,1
 web/api/preferenceobject/validvalues,0
 web/api/preferenceobject/value,0
 web/api/presentation,0
@@ -10479,7 +10480,7 @@ web/css/guides/overflow/carousels,0
 web/css/guides/overscroll_behavior,0
 web/css/guides/paged_media,0
 web/css/guides/positioned_layout,0
-web/css/guides/positioned_layout/stacking_context,1
+web/css/guides/positioned_layout/stacking_context,0
 web/css/guides/positioned_layout/stacking_context/example_1,0
 web/css/guides/positioned_layout/stacking_context/example_2,0
 web/css/guides/positioned_layout/stacking_context/example_3,0
@@ -11525,7 +11526,7 @@ web/css/reference/values/percentage,0
 web/css/reference/values/position-area_value,0
 web/css/reference/values/position_value,0
 web/css/reference/values/pow,0
-web/css/reference/values/progress,0
+web/css/reference/values/progress,1
 web/css/reference/values/random,0
 web/css/reference/values/ratio,0
 web/css/reference/values/ray,0
@@ -11743,7 +11744,7 @@ web/html/reference/elements/meta/name/viewport,0
 web/html/reference/elements/meter,0
 web/html/reference/elements/nav,0
 web/html/reference/elements/nobr,0
-web/html/reference/elements/noembed,1
+web/html/reference/elements/noembed,0
 web/html/reference/elements/noframes,0
 web/html/reference/elements/noscript,0
 web/html/reference/elements/object,0
@@ -11849,7 +11850,7 @@ web/http/guides/conditional_requests,0
 web/http/guides/connection_management_in_http_1.x,0
 web/http/guides/content_negotiation,0
 web/http/guides/content_negotiation/list_of_default_accept_values,0
-web/http/guides/cookies,1
+web/http/guides/cookies,0
 web/http/guides/cors,0
 web/http/guides/cors/errors,0
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,0
@@ -11917,13 +11918,13 @@ web/http/reference/headers/available-dictionary,0
 web/http/reference/headers/cache-control,0
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
-web/http/reference/headers/content-digest,0
+web/http/reference/headers/content-digest,1
 web/http/reference/headers/content-disposition,0
 web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
 web/http/reference/headers/content-language,0
 web/http/reference/headers/content-length,0
-web/http/reference/headers/content-location,1
+web/http/reference/headers/content-location,0
 web/http/reference/headers/content-range,0
 web/http/reference/headers/content-security-policy,0
 web/http/reference/headers/content-security-policy-report-only,0
@@ -12059,7 +12060,7 @@ web/http/reference/headers/referrer-policy,0
 web/http/reference/headers/refresh,0
 web/http/reference/headers/report-to,0
 web/http/reference/headers/reporting-endpoints,0
-web/http/reference/headers/repr-digest,0
+web/http/reference/headers/repr-digest,1
 web/http/reference/headers/retry-after,0
 web/http/reference/headers/rtt,0
 web/http/reference/headers/save-data,0
@@ -12499,9 +12500,9 @@ web/javascript/reference/global_objects/atomics/sub,0
 web/javascript/reference/global_objects/atomics/wait,0
 web/javascript/reference/global_objects/atomics/waitasync,0
 web/javascript/reference/global_objects/atomics/xor,0
-web/javascript/reference/global_objects/bigint,1
-web/javascript/reference/global_objects/bigint/asintn,1
-web/javascript/reference/global_objects/bigint/asuintn,1
+web/javascript/reference/global_objects/bigint,0
+web/javascript/reference/global_objects/bigint/asintn,0
+web/javascript/reference/global_objects/bigint/asuintn,0
 web/javascript/reference/global_objects/bigint/bigint,0
 web/javascript/reference/global_objects/bigint/tolocalestring,0
 web/javascript/reference/global_objects/bigint/tostring,0
