@@ -98,7 +98,7 @@ glossary/authenticator,null
 glossary/bandwidth,2
 glossary/base64,13
 glossary/baseline,2
-glossary/baseline/compatibility,9
+glossary/baseline/compatibility,10
 glossary/baseline/typography,5
 glossary/bcp_47_language_tag,null
 glossary/beacon,2
@@ -1948,6 +1948,7 @@ mozilla/firefox/releases/152,null
 mozilla/firefox/releases/153,null
 mozilla/firefox/releases/154,null
 mozilla/firefox/releases/155,null
+mozilla/firefox/releases/156,null
 mozilla/firefox/releases/16,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null

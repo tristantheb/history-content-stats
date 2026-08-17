@@ -98,7 +98,7 @@ glossary/authenticator,2
 glossary/bandwidth,2
 glossary/base64,7
 glossary/baseline,1
-glossary/baseline/compatibility,3
+glossary/baseline/compatibility,4
 glossary/baseline/typography,5
 glossary/bcp_47_language_tag,null
 glossary/beacon,2
@@ -1948,6 +1948,7 @@ mozilla/firefox/releases/152,null
 mozilla/firefox/releases/153,null
 mozilla/firefox/releases/154,null
 mozilla/firefox/releases/155,null
+mozilla/firefox/releases/156,null
 mozilla/firefox/releases/16,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
@@ -11917,7 +11918,7 @@ web/http/reference/headers/available-dictionary,null
 web/http/reference/headers/cache-control,null
 web/http/reference/headers/clear-site-data,null
 web/http/reference/headers/connection,null
-web/http/reference/headers/content-digest,10
+web/http/reference/headers/content-digest,11
 web/http/reference/headers/content-disposition,null
 web/http/reference/headers/content-dpr,5
 web/http/reference/headers/content-encoding,6
