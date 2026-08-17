@@ -750,7 +750,7 @@ learn_web_development/core/structuring_content/including_vector_graphics_in_html
 learn_web_development/core/structuring_content,26e2f9883e0e73def04c0e86fec6da3ec42e66b3
 learn_web_development/core/structuring_content/lists,a92e10b293358bc796c43d5872a8981fd988a005
 learn_web_development/core/structuring_content/marking_up_a_letter,39b59de03c08a5de12ce99a217988f6a0756407d
-learn_web_development/core/structuring_content/planet_data_table,no_hash_commit
+learn_web_development/core/structuring_content/planet_data_table,ee677b2c4d4a226fe4aedf05b2b156cae8a2bb95
 learn_web_development/core/structuring_content/splash_page,c64e813d8ab9dbe22cbc049c26f7c6703370a2b7
 learn_web_development/core/structuring_content/structuring_a_page_of_content,no_hash_commit
 learn_web_development/core/structuring_content/structuring_documents,65c873fda639b035b94db77dd0f9373f38549aa0
@@ -2557,6 +2557,7 @@ web/api/element/animationiteration_event,no_hash_commit
 web/api/element/animationstart_event,no_hash_commit
 web/api/element/append,542ef6cfd82288925e0a9238b47933f03e2dddca
 web/api/element/ariaactivedescendantelement,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
+web/api/element/ariaatomic,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1
 web/api/element/arialabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/arialive,no_hash_commit
@@ -5195,6 +5196,7 @@ web/css/reference/at-rules/@property/syntax,no_hash_commit
 web/css/reference/at-rules/@scope,f28085e76dfe4ef1987473b101db1338b41ed27f
 web/css/reference/at-rules/@supports,no_hash_commit
 web/css/reference/at-rules/@view-transition,d50c6b04f0e0cb20eca8a5f0e643e435ee8ac6ff
+web/css/reference/at-rules,3ee2355c3c90cf92c3119b82f8ebfa5d16c91c53
 web/css/reference,no_hash_commit
 web/css/reference/mozilla_extensions,d36cd679498a75dccf51685d8e178994a0df585e
 web/css/reference/properties/--_star_,no_hash_commit
