@@ -11848,7 +11848,7 @@ web/http/guides/conditional_requests,null
 web/http/guides/connection_management_in_http_1.x,null
 web/http/guides/content_negotiation,null
 web/http/guides/content_negotiation/list_of_default_accept_values,null
-web/http/guides/cookies,8
+web/http/guides/cookies,9
 web/http/guides/cors,12
 web/http/guides/cors/errors,null
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,null

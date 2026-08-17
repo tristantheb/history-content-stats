@@ -11742,7 +11742,7 @@ web/html/reference/elements/meta/name/viewport,bf5017c389132af39b50106cf1763fa71
 web/html/reference/elements/meter,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/nav,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/nobr,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/noembed,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/noembed,d7240a6c8942ba8255527cd1c6e9265a35913590,HTML|Elements
 web/html/reference/elements/noframes,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/noscript,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/object,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11848,7 +11848,7 @@ web/http/guides/conditional_requests,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HT
 web/http/guides/connection_management_in_http_1.x,bc45e7d6005f231e1f18c8cec29ca0b7c1e694bb,HTTP|Guides
 web/http/guides/content_negotiation,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Guides
 web/http/guides/content_negotiation/list_of_default_accept_values,886f2641ae90a70858c5e7d0d20959c70ee44d9d,HTTP|Guides
-web/http/guides/cookies,972c6cc542e271e4c00def9465d7a0cc81011378,HTTP|Guides
+web/http/guides/cookies,487e626006534b7f5ddcecb833f5a5aa007c3059,HTTP|Guides
 web/http/guides/cors,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,HTTP|Guides
 web/http/guides/cors/errors,92396cf8979e107c3ac42c2b9fc382013ea1c234,HTTP|Guides
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
@@ -12498,9 +12498,9 @@ web/javascript/reference/global_objects/atomics/sub,48f29758dbe9036bd04baf519b8e
 web/javascript/reference/global_objects/atomics/wait,48f29758dbe9036bd04baf519b8e35d1f989e532,JavaScript|Global Objects
 web/javascript/reference/global_objects/atomics/waitasync,48f29758dbe9036bd04baf519b8e35d1f989e532,JavaScript|Global Objects
 web/javascript/reference/global_objects/atomics/xor,48f29758dbe9036bd04baf519b8e35d1f989e532,JavaScript|Global Objects
-web/javascript/reference/global_objects/bigint,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/bigint/asintn,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/bigint/asuintn,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/bigint,e142519e137b3a2ce99d5820c3f2049b6d83113d,JavaScript|Global Objects
+web/javascript/reference/global_objects/bigint/asintn,e142519e137b3a2ce99d5820c3f2049b6d83113d,JavaScript|Global Objects
+web/javascript/reference/global_objects/bigint/asuintn,e142519e137b3a2ce99d5820c3f2049b6d83113d,JavaScript|Global Objects
 web/javascript/reference/global_objects/bigint/bigint,1ddd95504b4507beeda0f08bd772eb167922b86a,JavaScript|Global Objects
 web/javascript/reference/global_objects/bigint/tolocalestring,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,JavaScript|Global Objects
 web/javascript/reference/global_objects/bigint/tostring,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects

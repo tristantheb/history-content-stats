@@ -12498,7 +12498,7 @@ web/javascript/reference/global_objects/atomics/sub,null
 web/javascript/reference/global_objects/atomics/wait,null
 web/javascript/reference/global_objects/atomics/waitasync,null
 web/javascript/reference/global_objects/atomics/xor,null
-web/javascript/reference/global_objects/bigint,9
+web/javascript/reference/global_objects/bigint,10
 web/javascript/reference/global_objects/bigint/asintn,null
 web/javascript/reference/global_objects/bigint/asuintn,null
 web/javascript/reference/global_objects/bigint/bigint,null

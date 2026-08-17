@@ -3930,7 +3930,7 @@ web/api/element/lostpointercapture_event,null
 web/api/element/matches,null
 web/api/element/mousedown_event,null
 web/api/element/mouseenter_event,null
-web/api/element/mouseleave_event,null
+web/api/element/mouseleave_event,0
 web/api/element/mousemove_event,null
 web/api/element/mouseout_event,null
 web/api/element/mouseover_event,null
@@ -9598,7 +9598,7 @@ web/api/webglrenderingcontext/unpackcolorspace,null
 web/api/webglrenderingcontext/useprogram,null
 web/api/webglrenderingcontext/validateprogram,null
 web/api/webglrenderingcontext/vertexattrib,null
-web/api/webglrenderingcontext/vertexattribpointer,null
+web/api/webglrenderingcontext/vertexattribpointer,0
 web/api/webglrenderingcontext/viewport,null
 web/api/webglsampler,null
 web/api/webglshader,null

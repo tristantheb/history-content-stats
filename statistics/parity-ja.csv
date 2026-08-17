@@ -11742,7 +11742,7 @@ web/html/reference/elements/meta/name/viewport,0
 web/html/reference/elements/meter,0
 web/html/reference/elements/nav,1
 web/html/reference/elements/nobr,0
-web/html/reference/elements/noembed,0
+web/html/reference/elements/noembed,1
 web/html/reference/elements/noframes,0
 web/html/reference/elements/noscript,0
 web/html/reference/elements/object,0
@@ -11848,7 +11848,7 @@ web/http/guides/conditional_requests,0
 web/http/guides/connection_management_in_http_1.x,1
 web/http/guides/content_negotiation,1
 web/http/guides/content_negotiation/list_of_default_accept_values,1
-web/http/guides/cookies,3
+web/http/guides/cookies,4
 web/http/guides/cors,0
 web/http/guides/cors/errors,1
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,1
@@ -12498,9 +12498,9 @@ web/javascript/reference/global_objects/atomics/sub,1
 web/javascript/reference/global_objects/atomics/wait,1
 web/javascript/reference/global_objects/atomics/waitasync,1
 web/javascript/reference/global_objects/atomics/xor,1
-web/javascript/reference/global_objects/bigint,0
-web/javascript/reference/global_objects/bigint/asintn,0
-web/javascript/reference/global_objects/bigint/asuintn,0
+web/javascript/reference/global_objects/bigint,1
+web/javascript/reference/global_objects/bigint/asintn,1
+web/javascript/reference/global_objects/bigint/asuintn,1
 web/javascript/reference/global_objects/bigint/bigint,1
 web/javascript/reference/global_objects/bigint/tolocalestring,0
 web/javascript/reference/global_objects/bigint/tostring,0
@@ -13950,9 +13950,9 @@ web/svg/reference/attribute/target,null
 web/svg/reference/attribute/targetx,null
 web/svg/reference/attribute/targety,null
 web/svg/reference/attribute/text-anchor,0
-web/svg/reference/attribute/text-decoration,null
-web/svg/reference/attribute/text-overflow,null
-web/svg/reference/attribute/text-rendering,null
+web/svg/reference/attribute/text-decoration,0
+web/svg/reference/attribute/text-overflow,0
+web/svg/reference/attribute/text-rendering,0
 web/svg/reference/attribute/textlength,0
 web/svg/reference/attribute/to,0
 web/svg/reference/attribute/transform,2
