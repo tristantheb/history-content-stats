@@ -213,6 +213,7 @@ glossary/digital_signature,0
 glossary/distributed_denial_of_service,0
 glossary/dmz,0
 glossary/dns,0
+glossary/dns_over_https,null
 glossary/doctype,0
 glossary/document_directive,0
 glossary/document_environment,0
@@ -11922,7 +11923,7 @@ web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
 web/http/reference/headers/content-language,0
 web/http/reference/headers/content-length,0
-web/http/reference/headers/content-location,0
+web/http/reference/headers/content-location,1
 web/http/reference/headers/content-range,0
 web/http/reference/headers/content-security-policy,0
 web/http/reference/headers/content-security-policy-report-only,0
