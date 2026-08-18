@@ -189,7 +189,7 @@ glossary/crud,1
 glossary/cryptanalysis,1
 glossary/cryptography,2
 glossary/csp,2
-glossary/csr,2
+glossary/csr,0
 glossary/csrf,2
 glossary/css,2
 glossary/css_descriptor,4
@@ -3877,7 +3877,7 @@ web/api/element/clientleft,2
 web/api/element/clienttop,null
 web/api/element/clientwidth,null
 web/api/element/closest,null
-web/api/element/compositionend_event,null
+web/api/element/compositionend_event,0
 web/api/element/compositionstart_event,null
 web/api/element/compositionupdate_event,null
 web/api/element/computedstylemap,null
@@ -10887,7 +10887,7 @@ web/css/reference/properties/float,null
 web/css/reference/properties/flood-color,null
 web/css/reference/properties/flood-opacity,null
 web/css/reference/properties/font,7
-web/css/reference/properties/font-family,4
+web/css/reference/properties/font-family,5
 web/css/reference/properties/font-feature-settings,null
 web/css/reference/properties/font-kerning,null
 web/css/reference/properties/font-language-override,null

@@ -10575,7 +10575,7 @@ web/css/reference/at-rules/@counter-style/speak-as,f0094356d3acb19475dde45508dfe
 web/css/reference/at-rules/@counter-style/suffix,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@counter-style/symbols,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@counter-style/system,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
-web/css/reference/at-rules/@custom-media,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
+web/css/reference/at-rules/@custom-media,d9ed0d5c39f33dcc48cd7b5710ab59a9701bafd9,CSS|At-rules
 web/css/reference/at-rules/@document,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@font-face,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|At-rules
 web/css/reference/at-rules/@font-face/ascent-override,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
@@ -10887,7 +10887,7 @@ web/css/reference/properties/float,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|
 web/css/reference/properties/flood-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/flood-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font,afcdfa050626bb7eb05ee693df8997020db9ff2e,CSS|Properties
-web/css/reference/properties/font-family,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/font-family,0631b5e26979eca4d1505d4762fd3ad77fb329de,CSS|Properties
 web/css/reference/properties/font-feature-settings,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-kerning,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-language-override,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11430,7 +11430,7 @@ web/css/reference/values/color-interpolation-method,c88e03530319b73272fd4f9a9f6e
 web/css/reference/values/color_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/color_value/alpha,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|Values
 web/css/reference/values/color_value/color,99251a2a7cc534462d5c0ad6fbcb17905e4df826,CSS|Values
-web/css/reference/values/color_value/color-mix,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/color_value/color-mix,138b6273756ffe17de769b760cd2dd23e1301c7d,CSS|Values
 web/css/reference/values/color_value/contrast-color,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Values
 web/css/reference/values/color_value/device-cmyk,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/color_value/hsl,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
@@ -11734,7 +11734,7 @@ web/html/reference/elements/menu,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|E
 web/html/reference/elements/meta,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/meta/http-equiv,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Elements
 web/html/reference/elements/meta/name,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,HTML|Elements
-web/html/reference/elements/meta/name/color-scheme,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Elements
+web/html/reference/elements/meta/name/color-scheme,3a7da595860e07c871e243e58a8fe8b7043e305a,HTML|Elements
 web/html/reference/elements/meta/name/referrer,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Elements
 web/html/reference/elements/meta/name/responsive-embedded-sizing,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,HTML|Elements
 web/html/reference/elements/meta/name/robots,c53bfa01f3bf436d486f4032c16f592855a2af2c,HTML|Elements
