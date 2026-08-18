@@ -189,7 +189,7 @@ glossary/crud,null
 glossary/cryptanalysis,null
 glossary/cryptography,0
 glossary/csp,null
-glossary/csr,2
+glossary/csr,1
 glossary/csrf,null
 glossary/css,1
 glossary/css_descriptor,null
@@ -730,8 +730,8 @@ learn_web_development/core/css_layout/test_your_skills/grid,3
 learn_web_development/core/css_layout/test_your_skills/position,1
 learn_web_development/core/css_layout/test_your_skills/responsive_design,0
 learn_web_development/core/design_for_developers,8
-learn_web_development/core/frameworks_libraries,7
-learn_web_development/core/frameworks_libraries/introduction,9
+learn_web_development/core/frameworks_libraries,0
+learn_web_development/core/frameworks_libraries/introduction,0
 learn_web_development/core/frameworks_libraries/main_features,5
 learn_web_development/core/frameworks_libraries/react_accessibility,0
 learn_web_development/core/frameworks_libraries/react_components,5
@@ -10575,7 +10575,7 @@ web/css/reference/at-rules/@counter-style/speak-as,1
 web/css/reference/at-rules/@counter-style/suffix,1
 web/css/reference/at-rules/@counter-style/symbols,1
 web/css/reference/at-rules/@counter-style/system,1
-web/css/reference/at-rules/@custom-media,3
+web/css/reference/at-rules/@custom-media,4
 web/css/reference/at-rules/@document,0
 web/css/reference/at-rules/@font-face,3
 web/css/reference/at-rules/@font-face/ascent-override,1
@@ -10887,7 +10887,7 @@ web/css/reference/properties/float,2
 web/css/reference/properties/flood-color,1
 web/css/reference/properties/flood-opacity,0
 web/css/reference/properties/font,4
-web/css/reference/properties/font-family,2
+web/css/reference/properties/font-family,3
 web/css/reference/properties/font-feature-settings,3
 web/css/reference/properties/font-kerning,3
 web/css/reference/properties/font-language-override,1
@@ -11430,7 +11430,7 @@ web/css/reference/values/color-interpolation-method,0
 web/css/reference/values/color_value,0
 web/css/reference/values/color_value/alpha,null
 web/css/reference/values/color_value/color,1
-web/css/reference/values/color_value/color-mix,0
+web/css/reference/values/color_value/color-mix,1
 web/css/reference/values/color_value/contrast-color,0
 web/css/reference/values/color_value/device-cmyk,0
 web/css/reference/values/color_value/hsl,0
@@ -11734,7 +11734,7 @@ web/html/reference/elements/menu,0
 web/html/reference/elements/meta,1
 web/html/reference/elements/meta/http-equiv,1
 web/html/reference/elements/meta/name,2
-web/html/reference/elements/meta/name/color-scheme,0
+web/html/reference/elements/meta/name/color-scheme,1
 web/html/reference/elements/meta/name/referrer,1
 web/html/reference/elements/meta/name/responsive-embedded-sizing,null
 web/html/reference/elements/meta/name/robots,0

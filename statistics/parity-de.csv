@@ -10575,7 +10575,7 @@ web/css/reference/at-rules/@counter-style/speak-as,0
 web/css/reference/at-rules/@counter-style/suffix,0
 web/css/reference/at-rules/@counter-style/symbols,0
 web/css/reference/at-rules/@counter-style/system,0
-web/css/reference/at-rules/@custom-media,0
+web/css/reference/at-rules/@custom-media,1
 web/css/reference/at-rules/@document,0
 web/css/reference/at-rules/@font-face,0
 web/css/reference/at-rules/@font-face/ascent-override,0
@@ -10887,7 +10887,7 @@ web/css/reference/properties/float,0
 web/css/reference/properties/flood-color,0
 web/css/reference/properties/flood-opacity,0
 web/css/reference/properties/font,0
-web/css/reference/properties/font-family,0
+web/css/reference/properties/font-family,1
 web/css/reference/properties/font-feature-settings,0
 web/css/reference/properties/font-kerning,0
 web/css/reference/properties/font-language-override,0
@@ -11430,7 +11430,7 @@ web/css/reference/values/color-interpolation-method,0
 web/css/reference/values/color_value,0
 web/css/reference/values/color_value/alpha,0
 web/css/reference/values/color_value/color,0
-web/css/reference/values/color_value/color-mix,0
+web/css/reference/values/color_value/color-mix,1
 web/css/reference/values/color_value/contrast-color,0
 web/css/reference/values/color_value/device-cmyk,0
 web/css/reference/values/color_value/hsl,0
@@ -11734,7 +11734,7 @@ web/html/reference/elements/menu,0
 web/html/reference/elements/meta,0
 web/html/reference/elements/meta/http-equiv,0
 web/html/reference/elements/meta/name,0
-web/html/reference/elements/meta/name/color-scheme,0
+web/html/reference/elements/meta/name/color-scheme,1
 web/html/reference/elements/meta/name/referrer,0
 web/html/reference/elements/meta/name/responsive-embedded-sizing,0
 web/html/reference/elements/meta/name/robots,0
