@@ -10754,7 +10754,7 @@ web/css/reference/properties/border-end-start-radius,null
 web/css/reference/properties/border-image,8
 web/css/reference/properties/border-image-outset,null
 web/css/reference/properties/border-image-repeat,null
-web/css/reference/properties/border-image-slice,7
+web/css/reference/properties/border-image-slice,8
 web/css/reference/properties/border-image-source,4
 web/css/reference/properties/border-image-width,null
 web/css/reference/properties/border-inline,null
@@ -10823,6 +10823,7 @@ web/css/reference/properties/column-fill,4
 web/css/reference/properties/column-gap,null
 web/css/reference/properties/column-height,null
 web/css/reference/properties/column-rule,null
+web/css/reference/properties/column-rule-break,null
 web/css/reference/properties/column-rule-color,null
 web/css/reference/properties/column-rule-style,4
 web/css/reference/properties/column-rule-visibility-items,null
@@ -10881,6 +10882,7 @@ web/css/reference/properties/flex-basis,null
 web/css/reference/properties/flex-direction,null
 web/css/reference/properties/flex-flow,null
 web/css/reference/properties/flex-grow,null
+web/css/reference/properties/flex-line-count,null
 web/css/reference/properties/flex-shrink,null
 web/css/reference/properties/flex-wrap,null
 web/css/reference/properties/float,null
@@ -11087,6 +11089,7 @@ web/css/reference/properties/right,null
 web/css/reference/properties/rotate,null
 web/css/reference/properties/row-gap,4
 web/css/reference/properties/row-rule,null
+web/css/reference/properties/row-rule-break,null
 web/css/reference/properties/row-rule-color,null
 web/css/reference/properties/row-rule-style,null
 web/css/reference/properties/row-rule-visibility-items,null
@@ -11095,6 +11098,7 @@ web/css/reference/properties/ruby-align,null
 web/css/reference/properties/ruby-overhang,null
 web/css/reference/properties/ruby-position,null
 web/css/reference/properties/rule,null
+web/css/reference/properties/rule-break,null
 web/css/reference/properties/rule-color,null
 web/css/reference/properties/rule-style,null
 web/css/reference/properties/rule-visibility-items,null
