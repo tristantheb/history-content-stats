@@ -707,7 +707,7 @@ learn_web_development/core/accessibility/test_your_skills/css_and_javascript,nul
 learn_web_development/core/accessibility/test_your_skills/html,null
 learn_web_development/core/accessibility/test_your_skills/wai-aria,null
 learn_web_development/core/accessibility/tooling,3
-learn_web_development/core/accessibility/wai-aria_basics,19
+learn_web_development/core/accessibility/wai-aria_basics,20
 learn_web_development/core/accessibility/what_is_accessibility,null
 learn_web_development/core/css_layout,null
 learn_web_development/core/css_layout/flexbox,4
@@ -719,7 +719,7 @@ learn_web_development/core/css_layout/legacy_layout_methods,null
 learn_web_development/core/css_layout/media_queries,null
 learn_web_development/core/css_layout/mobile-first_challenge,null
 learn_web_development/core/css_layout/multiple-column_layout,null
-learn_web_development/core/css_layout/positioning,1
+learn_web_development/core/css_layout/positioning,2
 learn_web_development/core/css_layout/practical_positioning_examples,null
 learn_web_development/core/css_layout/responsive_design,19
 learn_web_development/core/css_layout/supporting_older_browsers,null
@@ -807,7 +807,7 @@ learn_web_development/core/structuring_content/webpage_metadata,0
 learn_web_development/core/styling_basics,0
 learn_web_development/core/styling_basics/advanced_styling_effects,null
 learn_web_development/core/styling_basics/attribute_selectors,0
-learn_web_development/core/styling_basics/backgrounds_and_borders,0
+learn_web_development/core/styling_basics/backgrounds_and_borders,1
 learn_web_development/core/styling_basics/basic_selectors,0
 learn_web_development/core/styling_basics/box_model,0
 learn_web_development/core/styling_basics/cascade_layers,null
@@ -825,7 +825,7 @@ learn_web_development/core/styling_basics/pseudo_classes_and_elements,0
 learn_web_development/core/styling_basics/size_decorate_content_panel,0
 learn_web_development/core/styling_basics/sizing,0
 learn_web_development/core/styling_basics/styling_a_bio_page,0
-learn_web_development/core/styling_basics/tables,0
+learn_web_development/core/styling_basics/tables,1
 learn_web_development/core/styling_basics/test_your_skills,0
 learn_web_development/core/styling_basics/test_your_skills/backgrounds_and_borders,0
 learn_web_development/core/styling_basics/test_your_skills/box_model,0
@@ -1071,7 +1071,7 @@ mdn/writing_guidelines/howto/write_an_api_reference/sidebars,0
 mdn/writing_guidelines/learning_content,0
 mdn/writing_guidelines/page_structures,0
 mdn/writing_guidelines/page_structures/banners_and_notices,0
-mdn/writing_guidelines/page_structures/code_examples,0
+mdn/writing_guidelines/page_structures/code_examples,1
 mdn/writing_guidelines/page_structures/compatibility_tables,0
 mdn/writing_guidelines/page_structures/feature_status,0
 mdn/writing_guidelines/page_structures/links,0
@@ -11713,7 +11713,7 @@ web/html/reference/elements/input/password,0
 web/html/reference/elements/input/radio,0
 web/html/reference/elements/input/range,0
 web/html/reference/elements/input/reset,0
-web/html/reference/elements/input/search,0
+web/html/reference/elements/input/search,1
 web/html/reference/elements/input/submit,0
 web/html/reference/elements/input/tel,0
 web/html/reference/elements/input/text,0
