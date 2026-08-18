@@ -1088,7 +1088,7 @@ mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,6a
 mdn/writing_guidelines/page_structures/page_types/aria_page_template,da12dd76d4c9863ce4f9c436f5e2373fe541e1c7
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,754b68246f4e69e404309fee4a1699e047e43994
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
-mdn/writing_guidelines/page_structures/page_types/css_property_page_template,d2fb8cdc9422dd2b68ff23f616d70811729f1fbd
+mdn/writing_guidelines/page_structures/page_types/css_property_page_template,e99e4f05057841b04c00142900d6aae1b61d77ba
 mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,8d9cda4e9080e9c324a521f40c7e0704ef94ce07
 mdn/writing_guidelines/page_structures/page_types/glossary_page_template,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,8d9cda4e9080e9c324a521f40c7e0704ef94ce07
@@ -1100,7 +1100,7 @@ mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,8d9c
 mdn/writing_guidelines/page_structures/polyfills,15be229ea1379b99a02f0c8b102f2acb5c3d6633
 mdn/writing_guidelines/page_structures/sidebars,0ff7ba5177bf2e66214bd90b58590c6bf3acb758
 mdn/writing_guidelines/page_structures/specification_tables,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
-mdn/writing_guidelines/page_structures/syntax_sections,14acf1aa7885157debdf1b6111f4bd10c064ec60
+mdn/writing_guidelines/page_structures/syntax_sections,c6e5080f41fc8ef79e487e01c6978069b7819423
 mdn/writing_guidelines/what_we_write,de5b264fa7bf6bb49811bf79f8f28f10835bfb79
 mdn/writing_guidelines/writing_style_guide,c53bfa01f3bf436d486f4032c16f592855a2af2c
 mozilla/add-ons/contact_us,0c81cbce5f95a0be935724bcd936f5592774eb3a
@@ -10572,7 +10572,7 @@ web/css/reference/at-rules/@counter-style/speak-as,f0094356d3acb19475dde45508dfe
 web/css/reference/at-rules/@counter-style/suffix,f0094356d3acb19475dde45508dfeac6abf596db
 web/css/reference/at-rules/@counter-style/symbols,f0094356d3acb19475dde45508dfeac6abf596db
 web/css/reference/at-rules/@counter-style/system,f0094356d3acb19475dde45508dfeac6abf596db
-web/css/reference/at-rules/@custom-media,e328268bb418551ab451881845881b5837c9da83
+web/css/reference/at-rules/@custom-media,d9ed0d5c39f33dcc48cd7b5710ab59a9701bafd9
 web/css/reference/at-rules/@document,e328268bb418551ab451881845881b5837c9da83
 web/css/reference/at-rules/@font-face/ascent-override,f0094356d3acb19475dde45508dfeac6abf596db
 web/css/reference/at-rules/@font-face/descent-override,f0094356d3acb19475dde45508dfeac6abf596db
@@ -10884,7 +10884,7 @@ web/css/reference/properties/flex,28839be2d5cdb1235fdd75b873c90cf491e93367
 web/css/reference/properties/float,c0c85c3dc0d6ff4247c85b0144149e584d74b625
 web/css/reference/properties/flood-color,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/flood-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/font-family,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/font-family,0631b5e26979eca4d1505d4762fd3ad77fb329de
 web/css/reference/properties/font-feature-settings,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/font-kerning,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/font-language-override,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -11426,7 +11426,7 @@ web/css/reference/values/calc,ddf85bfec1b6e43cdacb404de0c38a801c561640
 web/css/reference/values/clamp,11c522da37b7469cbce26bbe220936aec1d372d0
 web/css/reference/values/color-interpolation-method,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/color_value/alpha,b6de98eb9cd52ce7e37f22a340352f0af4c9d597
-web/css/reference/values/color_value/color-mix,b760560abe30bd69ca968dac38528102f423b5ea
+web/css/reference/values/color_value/color-mix,138b6273756ffe17de769b760cd2dd23e1301c7d
 web/css/reference/values/color_value/color,99251a2a7cc534462d5c0ad6fbcb17905e4df826
 web/css/reference/values/color_value/contrast-color,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf
 web/css/reference/values/color_value/device-cmyk,b760560abe30bd69ca968dac38528102f423b5ea
@@ -11731,7 +11731,7 @@ web/html/reference/elements/marquee,44a5fa2aace490e0114349d9d683675b2f5cacce
 web/html/reference/elements/menu,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/meta/http-equiv,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2
 web/html/reference/elements/meta,599ae8b7ad414e91df473d91983f4ffc5cafabb3
-web/html/reference/elements/meta/name/color-scheme,bf5017c389132af39b50106cf1763fa7106e87b4
+web/html/reference/elements/meta/name/color-scheme,3a7da595860e07c871e243e58a8fe8b7043e305a
 web/html/reference/elements/meta/name,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a
 web/html/reference/elements/meta/name/referrer,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/meta/name/responsive-embedded-sizing,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a
