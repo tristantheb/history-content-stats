@@ -10416,7 +10416,7 @@ web/css/guides/flexible_box_layout/controlling_flex_item_ratios,null
 web/css/guides/flexible_box_layout/ordering_items,1
 web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,null
 web/css/guides/flexible_box_layout/use_cases,5
-web/css/guides/flexible_box_layout/wrapping_items,1
+web/css/guides/flexible_box_layout/wrapping_items,2
 web/css/guides/font_loading,null
 web/css/guides/fonts,null
 web/css/guides/fonts/opentype_fonts,null
@@ -10754,7 +10754,7 @@ web/css/reference/properties/border-end-start-radius,0
 web/css/reference/properties/border-image,0
 web/css/reference/properties/border-image-outset,0
 web/css/reference/properties/border-image-repeat,0
-web/css/reference/properties/border-image-slice,0
+web/css/reference/properties/border-image-slice,1
 web/css/reference/properties/border-image-source,0
 web/css/reference/properties/border-image-width,0
 web/css/reference/properties/border-inline,0
@@ -10823,6 +10823,7 @@ web/css/reference/properties/column-fill,0
 web/css/reference/properties/column-gap,0
 web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,0
+web/css/reference/properties/column-rule-break,null
 web/css/reference/properties/column-rule-color,0
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,0
@@ -10831,7 +10832,7 @@ web/css/reference/properties/column-span,0
 web/css/reference/properties/column-width,0
 web/css/reference/properties/column-wrap,0
 web/css/reference/properties/columns,0
-web/css/reference/properties/contain,0
+web/css/reference/properties/contain,1
 web/css/reference/properties/contain-intrinsic-block-size,0
 web/css/reference/properties/contain-intrinsic-height,0
 web/css/reference/properties/contain-intrinsic-inline-size,0
@@ -10879,10 +10880,11 @@ web/css/reference/properties/filter,0
 web/css/reference/properties/flex,0
 web/css/reference/properties/flex-basis,0
 web/css/reference/properties/flex-direction,0
-web/css/reference/properties/flex-flow,0
+web/css/reference/properties/flex-flow,1
 web/css/reference/properties/flex-grow,1
+web/css/reference/properties/flex-line-count,null
 web/css/reference/properties/flex-shrink,0
-web/css/reference/properties/flex-wrap,0
+web/css/reference/properties/flex-wrap,1
 web/css/reference/properties/float,0
 web/css/reference/properties/flood-color,0
 web/css/reference/properties/flood-opacity,0
@@ -11087,6 +11089,7 @@ web/css/reference/properties/right,0
 web/css/reference/properties/rotate,0
 web/css/reference/properties/row-gap,0
 web/css/reference/properties/row-rule,0
+web/css/reference/properties/row-rule-break,null
 web/css/reference/properties/row-rule-color,1
 web/css/reference/properties/row-rule-style,0
 web/css/reference/properties/row-rule-visibility-items,0
@@ -11095,6 +11098,7 @@ web/css/reference/properties/ruby-align,0
 web/css/reference/properties/ruby-overhang,0
 web/css/reference/properties/ruby-position,0
 web/css/reference/properties/rule,0
+web/css/reference/properties/rule-break,null
 web/css/reference/properties/rule-color,1
 web/css/reference/properties/rule-style,1
 web/css/reference/properties/rule-visibility-items,0
@@ -11692,7 +11696,7 @@ web/html/reference/elements/head,0
 web/html/reference/elements/header,0
 web/html/reference/elements/heading_elements,0
 web/html/reference/elements/hgroup,0
-web/html/reference/elements/hr,0
+web/html/reference/elements/hr,1
 web/html/reference/elements/html,0
 web/html/reference/elements/i,0
 web/html/reference/elements/iframe,1
