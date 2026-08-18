@@ -171,7 +171,7 @@ glossary/crud,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/cryptanalysis,0025477aa4af0321b4c1e3e60c8f6bca08983a60
 glossary/cryptography,0025477aa4af0321b4c1e3e60c8f6bca08983a60
 glossary/csp,9c09d1ce824bd5e6ef879094428879c476ccbace
-glossary/csr,2547f622337d6cbf8c3794776b17ed377d6aad57
+glossary/csr,b6de98eb9cd52ce7e37f22a340352f0af4c9d597
 glossary/csrf,ada5fa5ef15eadd44b549ecf906423b4a2092f34
 glossary/css,7a551aaa034fbada3eb99e6fc924a0313b78307f
 glossary/css_descriptor,ada5fa5ef15eadd44b549ecf906423b4a2092f34
@@ -2580,7 +2580,7 @@ web/api/element/clientleft,d0b23f3f26637aa405ee9ee0a0892fc6e9b742ef
 web/api/element/clienttop,no_hash_commit
 web/api/element/clientwidth,no_hash_commit
 web/api/element/closest,no_hash_commit
-web/api/element/compositionend_event,no_hash_commit
+web/api/element/compositionend_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/compositionstart_event,no_hash_commit
 web/api/element/compositionupdate_event,no_hash_commit
 web/api/element/contentvisibilityautostatechange_event,no_hash_commit
