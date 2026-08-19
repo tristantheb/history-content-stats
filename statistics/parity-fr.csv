@@ -10578,7 +10578,7 @@ web/css/reference/at-rules/@counter-style/speak-as,0
 web/css/reference/at-rules/@counter-style/suffix,0
 web/css/reference/at-rules/@counter-style/symbols,0
 web/css/reference/at-rules/@counter-style/system,0
-web/css/reference/at-rules/@custom-media,1
+web/css/reference/at-rules/@custom-media,2
 web/css/reference/at-rules/@document,0
 web/css/reference/at-rules/@font-face,1
 web/css/reference/at-rules/@font-face/ascent-override,0
@@ -11320,7 +11320,7 @@ web/css/reference/selectors/_colon_scope,1
 web/css/reference/selectors/_colon_seeking,0
 web/css/reference/selectors/_colon_stalled,0
 web/css/reference/selectors/_colon_state,0
-web/css/reference/selectors/_colon_target,0
+web/css/reference/selectors/_colon_target,1
 web/css/reference/selectors/_colon_target-after,0
 web/css/reference/selectors/_colon_target-before,0
 web/css/reference/selectors/_colon_target-current,0
