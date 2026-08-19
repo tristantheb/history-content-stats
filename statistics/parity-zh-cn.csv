@@ -3905,8 +3905,8 @@ web/api/element/gesturestart_event,null
 web/api/element/getanimations,null
 web/api/element/getattribute,null
 web/api/element/getattributenames,null
-web/api/element/getattributenode,1
-web/api/element/getattributenodens,1
+web/api/element/getattributenode,2
+web/api/element/getattributenodens,2
 web/api/element/getattributens,null
 web/api/element/getboundingclientrect,null
 web/api/element/getclientrects,null
@@ -5373,7 +5373,7 @@ web/api/htmltablecolelement/ch,0
 web/api/htmltablecolelement/choff,0
 web/api/htmltablecolelement/span,4
 web/api/htmltablecolelement/valign,2
-web/api/htmltableelement,2
+web/api/htmltableelement,3
 web/api/htmltableelement/align,null
 web/api/htmltableelement/bgcolor,null
 web/api/htmltableelement/border,null
@@ -5403,8 +5403,8 @@ web/api/htmltablerowelement/bgcolor,3
 web/api/htmltablerowelement/cells,0
 web/api/htmltablerowelement/ch,0
 web/api/htmltablerowelement/choff,0
-web/api/htmltablerowelement/deletecell,0
-web/api/htmltablerowelement/insertcell,1
+web/api/htmltablerowelement/deletecell,1
+web/api/htmltablerowelement/insertcell,2
 web/api/htmltablerowelement/rowindex,0
 web/api/htmltablerowelement/sectionrowindex,0
 web/api/htmltablerowelement/valign,2
@@ -5412,8 +5412,8 @@ web/api/htmltablesectionelement,3
 web/api/htmltablesectionelement/align,2
 web/api/htmltablesectionelement/ch,0
 web/api/htmltablesectionelement/choff,0
-web/api/htmltablesectionelement/deleterow,2
-web/api/htmltablesectionelement/insertrow,3
+web/api/htmltablesectionelement/deleterow,3
+web/api/htmltablesectionelement/insertrow,4
 web/api/htmltablesectionelement/rows,2
 web/api/htmltablesectionelement/valign,2
 web/api/htmltemplateelement,null
@@ -14112,6 +14112,7 @@ web/webdriver/reference/bidi/modules/browser/removeusercontext,null
 web/webdriver/reference/bidi/modules/browser/setdownloadbehavior,null
 web/webdriver/reference/bidi/modules/browsingcontext,null
 web/webdriver/reference/bidi/modules/browsingcontext/activate,null
+web/webdriver/reference/bidi/modules/browsingcontext/capturescreenshot,null
 web/webdriver/reference/bidi/modules/browsingcontext/close,null
 web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,null
 web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,null
@@ -14119,6 +14120,7 @@ web/webdriver/reference/bidi/modules/browsingcontext/create,null
 web/webdriver/reference/bidi/modules/browsingcontext/domcontentloaded,null
 web/webdriver/reference/bidi/modules/browsingcontext/fragmentnavigated,null
 web/webdriver/reference/bidi/modules/browsingcontext/gettree,null
+web/webdriver/reference/bidi/modules/browsingcontext/handleuserprompt,null
 web/webdriver/reference/bidi/modules/browsingcontext/historyupdated,null
 web/webdriver/reference/bidi/modules/browsingcontext/load,null
 web/webdriver/reference/bidi/modules/browsingcontext/locatenodes,null
@@ -14126,7 +14128,9 @@ web/webdriver/reference/bidi/modules/browsingcontext/navigate,null
 web/webdriver/reference/bidi/modules/browsingcontext/navigationcommitted,null
 web/webdriver/reference/bidi/modules/browsingcontext/navigationfailed,null
 web/webdriver/reference/bidi/modules/browsingcontext/navigationstarted,null
+web/webdriver/reference/bidi/modules/browsingcontext/print,null
 web/webdriver/reference/bidi/modules/browsingcontext/reload,null
+web/webdriver/reference/bidi/modules/browsingcontext/setviewport,null
 web/webdriver/reference/bidi/modules/browsingcontext/traversehistory,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
