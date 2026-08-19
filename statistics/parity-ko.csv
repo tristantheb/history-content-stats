@@ -2480,6 +2480,8 @@ web/api/audioscheduledsourcenode/ended_event,null
 web/api/audioscheduledsourcenode/start,null
 web/api/audioscheduledsourcenode/stop,null
 web/api/audiosession,null
+web/api/audiosession/state,null
+web/api/audiosession/statechange_event,null
 web/api/audiosession/type,null
 web/api/audiosinkinfo,null
 web/api/audiosinkinfo/type,null
