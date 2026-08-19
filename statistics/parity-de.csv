@@ -891,7 +891,7 @@ learn_web_development/extensions/forms/other_form_controls,0
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,0
 learn_web_development/extensions/forms/sending_forms_through_javascript,0
 learn_web_development/extensions/forms/styling_web_forms,0
-learn_web_development/extensions/forms/ui_pseudo-classes,1
+learn_web_development/extensions/forms/ui_pseudo-classes,0
 learn_web_development/extensions/forms/user_input_methods,0
 learn_web_development/extensions/forms/your_first_form,0
 learn_web_development/extensions/performance,0
@@ -2355,7 +2355,7 @@ web/api/attribution_reporting_api/generating_reports,0
 web/api/attribution_reporting_api/registering_sources,0
 web/api/attribution_reporting_api/registering_triggers,0
 web/api/audio_output_devices_api,0
-web/api/audio_session_api,1
+web/api/audio_session_api,0
 web/api/audiobuffer,0
 web/api/audiobuffer/audiobuffer,0
 web/api/audiobuffer/copyfromchannel,0
@@ -2479,10 +2479,10 @@ web/api/audioscheduledsourcenode,0
 web/api/audioscheduledsourcenode/ended_event,0
 web/api/audioscheduledsourcenode/start,0
 web/api/audioscheduledsourcenode/stop,0
-web/api/audiosession,1
-web/api/audiosession/state,null
-web/api/audiosession/statechange_event,null
-web/api/audiosession/type,1
+web/api/audiosession,0
+web/api/audiosession/state,0
+web/api/audiosession/statechange_event,0
+web/api/audiosession/type,0
 web/api/audiosinkinfo,0
 web/api/audiosinkinfo/type,0
 web/api/audiotrack,0
@@ -6684,13 +6684,13 @@ web/api/performance/navigation,0
 web/api/performance/now,0
 web/api/performance/resourcetimingbufferfull_event,0
 web/api/performance/setresourcetimingbuffersize,0
-web/api/performance/timeorigin,1
+web/api/performance/timeorigin,0
 web/api/performance/timing,0
 web/api/performance/tojson,0
 web/api/performance_api,0
 web/api/performance_api/high_precision_timing,0
 web/api/performance_api/long_animation_frame_timing,0
-web/api/performance_api/monitoring_bfcache_blocking_reasons,1
+web/api/performance_api/monitoring_bfcache_blocking_reasons,0
 web/api/performance_api/navigation_timing,0
 web/api/performance_api/performance_data,0
 web/api/performance_api/resource_timing,0
@@ -6753,7 +6753,7 @@ web/api/performancenavigationtiming/domcontentloadedeventstart,0
 web/api/performancenavigationtiming/dominteractive,0
 web/api/performancenavigationtiming/loadeventend,0
 web/api/performancenavigationtiming/loadeventstart,0
-web/api/performancenavigationtiming/notrestoredreasons,1
+web/api/performancenavigationtiming/notrestoredreasons,0
 web/api/performancenavigationtiming/redirectcount,0
 web/api/performancenavigationtiming/tojson,0
 web/api/performancenavigationtiming/type,0
@@ -7944,7 +7944,7 @@ web/api/speechgrammarlist/addfromuri,0
 web/api/speechgrammarlist/item,0
 web/api/speechgrammarlist/length,0
 web/api/speechgrammarlist/speechgrammarlist,0
-web/api/speechrecognition,1
+web/api/speechrecognition,0
 web/api/speechrecognition/abort,0
 web/api/speechrecognition/audioend_event,0
 web/api/speechrecognition/audiostart_event,0
@@ -7969,7 +7969,7 @@ web/api/speechrecognition/speechstart_event,0
 web/api/speechrecognition/start,0
 web/api/speechrecognition/start_event,0
 web/api/speechrecognition/stop,0
-web/api/speechrecognition/unspokenpunctuation,null
+web/api/speechrecognition/unspokenpunctuation,0
 web/api/speechrecognitionalternative,0
 web/api/speechrecognitionalternative/confidence,0
 web/api/speechrecognitionalternative/transcript,0
@@ -9319,7 +9319,7 @@ web/api/web_authentication_api/attestation_and_assertion,0
 web/api/web_authentication_api/authenticator_data,0
 web/api/web_authentication_api/webauthn_extensions,0
 web/api/web_bluetooth_api,0
-web/api/web_components,1
+web/api/web_components,0
 web/api/web_components/using_custom_elements,0
 web/api/web_components/using_shadow_dom,0
 web/api/web_components/using_templates_and_slots,0
@@ -9331,7 +9331,7 @@ web/api/web_nfc_api,0
 web/api/web_periodic_background_synchronization_api,0
 web/api/web_serial_api,0
 web/api/web_share_api,0
-web/api/web_speech_api,1
+web/api/web_speech_api,0
 web/api/web_speech_api/using_the_web_speech_api,0
 web/api/web_storage_api,0
 web/api/web_storage_api/using_the_web_storage_api,0
@@ -9733,7 +9733,7 @@ web/api/webxr_device_api/rendering,0
 web/api/webxr_device_api/spatial_tracking,0
 web/api/webxr_device_api/startup_and_shutdown,0
 web/api/webxr_device_api/targeting,0
-web/api/wgsllanguagefeatures,1
+web/api/wgsllanguagefeatures,0
 web/api/wheelevent,0
 web/api/wheelevent/deltamode,0
 web/api/wheelevent/deltax,0
@@ -10578,7 +10578,7 @@ web/css/reference/at-rules/@counter-style/speak-as,0
 web/css/reference/at-rules/@counter-style/suffix,0
 web/css/reference/at-rules/@counter-style/symbols,0
 web/css/reference/at-rules/@counter-style/system,0
-web/css/reference/at-rules/@custom-media,0
+web/css/reference/at-rules/@custom-media,1
 web/css/reference/at-rules/@document,0
 web/css/reference/at-rules/@font-face,0
 web/css/reference/at-rules/@font-face/ascent-override,0
@@ -11320,7 +11320,7 @@ web/css/reference/selectors/_colon_scope,0
 web/css/reference/selectors/_colon_seeking,0
 web/css/reference/selectors/_colon_stalled,0
 web/css/reference/selectors/_colon_state,0
-web/css/reference/selectors/_colon_target,0
+web/css/reference/selectors/_colon_target,1
 web/css/reference/selectors/_colon_target-after,0
 web/css/reference/selectors/_colon_target-before,0
 web/css/reference/selectors/_colon_target-current,0
@@ -13672,9 +13672,9 @@ web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,0
 web/privacy/guides/third-party_cookies,0
 web/privacy/guides/third-party_cookies/partitioned_cookies,0
 web/privacy/privacy_primer,0
-web/privacy/regulations,null
-web/privacy/regulations/ccpa,null
-web/privacy/regulations/gdpr,null
+web/privacy/regulations,0
+web/privacy/regulations/ccpa,0
+web/privacy/regulations/gdpr,0
 web/progressive_web_apps,0
 web/progressive_web_apps/guides,0
 web/progressive_web_apps/guides/best_practices,0
