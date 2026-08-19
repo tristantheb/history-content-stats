@@ -43,7 +43,7 @@ games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,no_hash_c
 games/tutorials/2d_breakout_game_pure_javascript/collision_detection,no_hash_commit
 games/tutorials/2d_breakout_game_pure_javascript/create_the_canvas_and_draw_on_it,2530db14de9ac226cf06f84540fa0101e804ca9b
 games/tutorials/2d_breakout_game_pure_javascript/finishing_up,no_hash_commit
-games/tutorials/2d_breakout_game_pure_javascript/game_over,no_hash_commit
+games/tutorials/2d_breakout_game_pure_javascript/game_over,6036cd414b2214f85901158bdf3e3a96123d4553
 games/tutorials/2d_breakout_game_pure_javascript,4483da6501d1c735a0e1ac1e95775e2fe1766dc3
 games/tutorials/2d_breakout_game_pure_javascript/mouse_controls,1a0be468b9e7c88a09ea3438a81341c4f6a619a6
 games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,2530db14de9ac226cf06f84540fa0101e804ca9b
@@ -2843,7 +2843,9 @@ web/api/filesystemwritablefilestream,f10fbe2d2dc4857bf29ce955689a7ba7c1ffac8b
 web/api/filesystemwritablefilestream/seek,f10fbe2d2dc4857bf29ce955689a7ba7c1ffac8b
 web/api/filesystemwritablefilestream/truncate,f10fbe2d2dc4857bf29ce955689a7ba7c1ffac8b
 web/api/filesystemwritablefilestream/write,f10fbe2d2dc4857bf29ce955689a7ba7c1ffac8b
+web/api/focusevent/focusevent,ce85e3fb7865330e4ac2a6dad25db5cf5d27ea74
 web/api/focusevent,no_hash_commit
+web/api/focusevent/relatedtarget,c20c12fab32381b983b4148d712fda227d34e2bd
 web/api/fontdata/blob,d7143e171b5f18fb37a686a7d4947db417fd74f3
 web/api/fontdata/family,4458494807b6f4898d504b6c0af0a45f8031cbf3
 web/api/fontdata/fullname,4458494807b6f4898d504b6c0af0a45f8031cbf3
@@ -5954,7 +5956,7 @@ web/html/reference/elements/input/submit,no_hash_commit
 web/html/reference/elements/input/tel,no_hash_commit
 web/html/reference/elements/input/text,no_hash_commit
 web/html/reference/elements/input/time,no_hash_commit
-web/html/reference/elements/input/url,no_hash_commit
+web/html/reference/elements/input/url,3944506d4afeeed774687cf3fd950878c6229bbc
 web/html/reference/elements/input/week,no_hash_commit
 web/html/reference/elements/ins,no_hash_commit
 web/html/reference/elements/kbd,no_hash_commit
