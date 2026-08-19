@@ -2355,7 +2355,7 @@ web/api/attribution_reporting_api/generating_reports,0
 web/api/attribution_reporting_api/registering_sources,0
 web/api/attribution_reporting_api/registering_triggers,0
 web/api/audio_output_devices_api,0
-web/api/audio_session_api,0
+web/api/audio_session_api,1
 web/api/audiobuffer,0
 web/api/audiobuffer/audiobuffer,0
 web/api/audiobuffer/copyfromchannel,0
@@ -2479,8 +2479,10 @@ web/api/audioscheduledsourcenode,0
 web/api/audioscheduledsourcenode/ended_event,0
 web/api/audioscheduledsourcenode/start,0
 web/api/audioscheduledsourcenode/stop,0
-web/api/audiosession,0
-web/api/audiosession/type,0
+web/api/audiosession,1
+web/api/audiosession/state,null
+web/api/audiosession/statechange_event,null
+web/api/audiosession/type,1
 web/api/audiosinkinfo,0
 web/api/audiosinkinfo/type,0
 web/api/audiotrack,0
@@ -6682,13 +6684,13 @@ web/api/performance/navigation,0
 web/api/performance/now,0
 web/api/performance/resourcetimingbufferfull_event,0
 web/api/performance/setresourcetimingbuffersize,0
-web/api/performance/timeorigin,0
+web/api/performance/timeorigin,1
 web/api/performance/timing,0
 web/api/performance/tojson,0
 web/api/performance_api,0
 web/api/performance_api/high_precision_timing,0
 web/api/performance_api/long_animation_frame_timing,0
-web/api/performance_api/monitoring_bfcache_blocking_reasons,0
+web/api/performance_api/monitoring_bfcache_blocking_reasons,1
 web/api/performance_api/navigation_timing,0
 web/api/performance_api/performance_data,0
 web/api/performance_api/resource_timing,0
@@ -6751,7 +6753,7 @@ web/api/performancenavigationtiming/domcontentloadedeventstart,0
 web/api/performancenavigationtiming/dominteractive,0
 web/api/performancenavigationtiming/loadeventend,0
 web/api/performancenavigationtiming/loadeventstart,0
-web/api/performancenavigationtiming/notrestoredreasons,0
+web/api/performancenavigationtiming/notrestoredreasons,1
 web/api/performancenavigationtiming/redirectcount,0
 web/api/performancenavigationtiming/tojson,0
 web/api/performancenavigationtiming/type,0
@@ -9316,7 +9318,7 @@ web/api/web_authentication_api/attestation_and_assertion,0
 web/api/web_authentication_api/authenticator_data,0
 web/api/web_authentication_api/webauthn_extensions,0
 web/api/web_bluetooth_api,0
-web/api/web_components,0
+web/api/web_components,1
 web/api/web_components/using_custom_elements,0
 web/api/web_components/using_shadow_dom,0
 web/api/web_components/using_templates_and_slots,0
@@ -9730,7 +9732,7 @@ web/api/webxr_device_api/rendering,0
 web/api/webxr_device_api/spatial_tracking,0
 web/api/webxr_device_api/startup_and_shutdown,0
 web/api/webxr_device_api/targeting,0
-web/api/wgsllanguagefeatures,0
+web/api/wgsllanguagefeatures,1
 web/api/wheelevent,0
 web/api/wheelevent/deltamode,0
 web/api/wheelevent/deltax,0

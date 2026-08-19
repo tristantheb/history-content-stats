@@ -59,7 +59,7 @@ games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,null
 games/tutorials/2d_breakout_game_pure_javascript/collision_detection,null
 games/tutorials/2d_breakout_game_pure_javascript/create_the_canvas_and_draw_on_it,1
 games/tutorials/2d_breakout_game_pure_javascript/finishing_up,null
-games/tutorials/2d_breakout_game_pure_javascript/game_over,null
+games/tutorials/2d_breakout_game_pure_javascript/game_over,0
 games/tutorials/2d_breakout_game_pure_javascript/mouse_controls,0
 games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,0
 games/tutorials/2d_breakout_game_pure_javascript/paddle_and_keyboard_controls,null
@@ -2480,6 +2480,8 @@ web/api/audioscheduledsourcenode/ended_event,null
 web/api/audioscheduledsourcenode/start,null
 web/api/audioscheduledsourcenode/stop,null
 web/api/audiosession,null
+web/api/audiosession/state,null
+web/api/audiosession/statechange_event,null
 web/api/audiosession/type,null
 web/api/audiosinkinfo,null
 web/api/audiosinkinfo/type,0
@@ -4310,8 +4312,8 @@ web/api/filesystemwritablefilestream/seek,0
 web/api/filesystemwritablefilestream/truncate,1
 web/api/filesystemwritablefilestream/write,2
 web/api/focusevent,null
-web/api/focusevent/focusevent,null
-web/api/focusevent/relatedtarget,null
+web/api/focusevent/focusevent,0
+web/api/focusevent/relatedtarget,0
 web/api/fontdata,1
 web/api/fontdata/blob,0
 web/api/fontdata/family,0
@@ -9316,7 +9318,7 @@ web/api/web_authentication_api/attestation_and_assertion,null
 web/api/web_authentication_api/authenticator_data,null
 web/api/web_authentication_api/webauthn_extensions,null
 web/api/web_bluetooth_api,3
-web/api/web_components,0
+web/api/web_components,1
 web/api/web_components/using_custom_elements,null
 web/api/web_components/using_shadow_dom,9
 web/api/web_components/using_templates_and_slots,13
@@ -9730,7 +9732,7 @@ web/api/webxr_device_api/rendering,null
 web/api/webxr_device_api/spatial_tracking,null
 web/api/webxr_device_api/startup_and_shutdown,null
 web/api/webxr_device_api/targeting,0
-web/api/wgsllanguagefeatures,16
+web/api/wgsllanguagefeatures,17
 web/api/wheelevent,null
 web/api/wheelevent/deltamode,2
 web/api/wheelevent/deltax,2
@@ -11722,7 +11724,7 @@ web/html/reference/elements/input/submit,null
 web/html/reference/elements/input/tel,null
 web/html/reference/elements/input/text,null
 web/html/reference/elements/input/time,null
-web/html/reference/elements/input/url,null
+web/html/reference/elements/input/url,0
 web/html/reference/elements/input/week,null
 web/html/reference/elements/ins,null
 web/html/reference/elements/kbd,null

@@ -2355,7 +2355,7 @@ web/api/attribution_reporting_api/generating_reports,3
 web/api/attribution_reporting_api/registering_sources,2
 web/api/attribution_reporting_api/registering_triggers,4
 web/api/audio_output_devices_api,7
-web/api/audio_session_api,1
+web/api/audio_session_api,2
 web/api/audiobuffer,2
 web/api/audiobuffer/audiobuffer,2
 web/api/audiobuffer/copyfromchannel,1
@@ -2480,6 +2480,8 @@ web/api/audioscheduledsourcenode/ended_event,2
 web/api/audioscheduledsourcenode/start,0
 web/api/audioscheduledsourcenode/stop,1
 web/api/audiosession,null
+web/api/audiosession/state,null
+web/api/audiosession/statechange_event,null
 web/api/audiosession/type,null
 web/api/audiosinkinfo,3
 web/api/audiosinkinfo/type,1
@@ -6682,7 +6684,7 @@ web/api/performance/navigation,2
 web/api/performance/now,5
 web/api/performance/resourcetimingbufferfull_event,3
 web/api/performance/setresourcetimingbuffersize,3
-web/api/performance/timeorigin,4
+web/api/performance/timeorigin,5
 web/api/performance/timing,2
 web/api/performance/tojson,2
 web/api/performance_api,0
@@ -9316,7 +9318,7 @@ web/api/web_authentication_api/attestation_and_assertion,0
 web/api/web_authentication_api/authenticator_data,2
 web/api/web_authentication_api/webauthn_extensions,0
 web/api/web_bluetooth_api,4
-web/api/web_components,1
+web/api/web_components,2
 web/api/web_components/using_custom_elements,6
 web/api/web_components/using_shadow_dom,3
 web/api/web_components/using_templates_and_slots,4
@@ -9730,7 +9732,7 @@ web/api/webxr_device_api/rendering,3
 web/api/webxr_device_api/spatial_tracking,null
 web/api/webxr_device_api/startup_and_shutdown,null
 web/api/webxr_device_api/targeting,null
-web/api/wgsllanguagefeatures,0
+web/api/wgsllanguagefeatures,1
 web/api/wheelevent,6
 web/api/wheelevent/deltamode,2
 web/api/wheelevent/deltax,2
