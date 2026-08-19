@@ -3903,7 +3903,7 @@ web/api/element/gesturechange_event,null
 web/api/element/gestureend_event,null
 web/api/element/gesturestart_event,null
 web/api/element/getanimations,null
-web/api/element/getattribute,7
+web/api/element/getattribute,8
 web/api/element/getattributenames,null
 web/api/element/getattributenode,null
 web/api/element/getattributenodens,null
@@ -14112,6 +14112,7 @@ web/webdriver/reference/bidi/modules/browser/removeusercontext,null
 web/webdriver/reference/bidi/modules/browser/setdownloadbehavior,null
 web/webdriver/reference/bidi/modules/browsingcontext,null
 web/webdriver/reference/bidi/modules/browsingcontext/activate,null
+web/webdriver/reference/bidi/modules/browsingcontext/capturescreenshot,null
 web/webdriver/reference/bidi/modules/browsingcontext/close,null
 web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,null
 web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,null
@@ -14119,6 +14120,7 @@ web/webdriver/reference/bidi/modules/browsingcontext/create,null
 web/webdriver/reference/bidi/modules/browsingcontext/domcontentloaded,null
 web/webdriver/reference/bidi/modules/browsingcontext/fragmentnavigated,null
 web/webdriver/reference/bidi/modules/browsingcontext/gettree,null
+web/webdriver/reference/bidi/modules/browsingcontext/handleuserprompt,null
 web/webdriver/reference/bidi/modules/browsingcontext/historyupdated,null
 web/webdriver/reference/bidi/modules/browsingcontext/load,null
 web/webdriver/reference/bidi/modules/browsingcontext/locatenodes,null
@@ -14126,7 +14128,9 @@ web/webdriver/reference/bidi/modules/browsingcontext/navigate,null
 web/webdriver/reference/bidi/modules/browsingcontext/navigationcommitted,null
 web/webdriver/reference/bidi/modules/browsingcontext/navigationfailed,null
 web/webdriver/reference/bidi/modules/browsingcontext/navigationstarted,null
+web/webdriver/reference/bidi/modules/browsingcontext/print,null
 web/webdriver/reference/bidi/modules/browsingcontext/reload,null
+web/webdriver/reference/bidi/modules/browsingcontext/setviewport,null
 web/webdriver/reference/bidi/modules/browsingcontext/traversehistory,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
