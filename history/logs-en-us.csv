@@ -10578,7 +10578,7 @@ web/css/reference/at-rules/@counter-style/speak-as,f0094356d3acb19475dde45508dfe
 web/css/reference/at-rules/@counter-style/suffix,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@counter-style/symbols,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@counter-style/system,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
-web/css/reference/at-rules/@custom-media,d9ed0d5c39f33dcc48cd7b5710ab59a9701bafd9,CSS|At-rules
+web/css/reference/at-rules/@custom-media,6b0dc010f6c32a23b54aef95094cee9ec0e1b7b5,CSS|At-rules
 web/css/reference/at-rules/@document,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@font-face,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|At-rules
 web/css/reference/at-rules/@font-face/ascent-override,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
@@ -11320,7 +11320,7 @@ web/css/reference/selectors/_colon_scope,e8310a9d2806a4aebf457f75eec4671e14e47e4
 web/css/reference/selectors/_colon_seeking,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_stalled,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_state,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
-web/css/reference/selectors/_colon_target,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
+web/css/reference/selectors/_colon_target,42f8ef9d26f9a76723a0379a2e7c946db496f27e,CSS|Selectors
 web/css/reference/selectors/_colon_target-after,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_target-before,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_target-current,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
