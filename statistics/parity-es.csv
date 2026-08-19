@@ -7969,6 +7969,7 @@ web/api/speechrecognition/speechstart_event,null
 web/api/speechrecognition/start,null
 web/api/speechrecognition/start_event,null
 web/api/speechrecognition/stop,null
+web/api/speechrecognition/unspokenpunctuation,null
 web/api/speechrecognitionalternative,null
 web/api/speechrecognitionalternative/confidence,null
 web/api/speechrecognitionalternative/transcript,null
@@ -9330,7 +9331,7 @@ web/api/web_nfc_api,null
 web/api/web_periodic_background_synchronization_api,null
 web/api/web_serial_api,null
 web/api/web_share_api,null
-web/api/web_speech_api,3
+web/api/web_speech_api,4
 web/api/web_speech_api/using_the_web_speech_api,null
 web/api/web_storage_api,null
 web/api/web_storage_api/using_the_web_storage_api,null
@@ -13671,6 +13672,9 @@ web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,null
 web/privacy/guides/third-party_cookies,null
 web/privacy/guides/third-party_cookies/partitioned_cookies,null
 web/privacy/privacy_primer,null
+web/privacy/regulations,null
+web/privacy/regulations/ccpa,null
+web/privacy/regulations/gdpr,null
 web/progressive_web_apps,null
 web/progressive_web_apps/guides,1
 web/progressive_web_apps/guides/best_practices,null
