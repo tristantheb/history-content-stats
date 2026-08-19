@@ -891,7 +891,7 @@ learn_web_development/extensions/forms/other_form_controls,0
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,0
 learn_web_development/extensions/forms/sending_forms_through_javascript,0
 learn_web_development/extensions/forms/styling_web_forms,0
-learn_web_development/extensions/forms/ui_pseudo-classes,0
+learn_web_development/extensions/forms/ui_pseudo-classes,1
 learn_web_development/extensions/forms/user_input_methods,0
 learn_web_development/extensions/forms/your_first_form,0
 learn_web_development/extensions/performance,0
@@ -7944,7 +7944,7 @@ web/api/speechgrammarlist/addfromuri,0
 web/api/speechgrammarlist/item,0
 web/api/speechgrammarlist/length,0
 web/api/speechgrammarlist/speechgrammarlist,0
-web/api/speechrecognition,0
+web/api/speechrecognition,1
 web/api/speechrecognition/abort,0
 web/api/speechrecognition/audioend_event,0
 web/api/speechrecognition/audiostart_event,0
@@ -7969,6 +7969,7 @@ web/api/speechrecognition/speechstart_event,0
 web/api/speechrecognition/start,0
 web/api/speechrecognition/start_event,0
 web/api/speechrecognition/stop,0
+web/api/speechrecognition/unspokenpunctuation,null
 web/api/speechrecognitionalternative,0
 web/api/speechrecognitionalternative/confidence,0
 web/api/speechrecognitionalternative/transcript,0
@@ -9330,7 +9331,7 @@ web/api/web_nfc_api,0
 web/api/web_periodic_background_synchronization_api,0
 web/api/web_serial_api,0
 web/api/web_share_api,0
-web/api/web_speech_api,0
+web/api/web_speech_api,1
 web/api/web_speech_api/using_the_web_speech_api,0
 web/api/web_storage_api,0
 web/api/web_storage_api/using_the_web_storage_api,0
@@ -13671,6 +13672,9 @@ web/privacy/guides/storage_access_policy/errors/cookiepartitionedforeign,0
 web/privacy/guides/third-party_cookies,0
 web/privacy/guides/third-party_cookies/partitioned_cookies,0
 web/privacy/privacy_primer,0
+web/privacy/regulations,null
+web/privacy/regulations/ccpa,null
+web/privacy/regulations/gdpr,null
 web/progressive_web_apps,0
 web/progressive_web_apps/guides,0
 web/progressive_web_apps/guides/best_practices,0
