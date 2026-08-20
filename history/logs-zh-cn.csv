@@ -2558,6 +2558,7 @@ web/api/element/animationstart_event,no_hash_commit
 web/api/element/append,542ef6cfd82288925e0a9238b47933f03e2dddca
 web/api/element/ariaactivedescendantelement,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/api/element/ariaatomic,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
+web/api/element/ariabusy,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1
 web/api/element/arialabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/arialive,no_hash_commit
@@ -2684,7 +2685,7 @@ web/api/element/touchstart_event,no_hash_commit
 web/api/element/transitioncancel_event,no_hash_commit
 web/api/element/transitionend_event,no_hash_commit
 web/api/element/transitionrun_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
-web/api/element/transitionstart_event,no_hash_commit
+web/api/element/transitionstart_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/wheel_event,no_hash_commit
 web/api/elementinternals/ariaactivedescendantelement,6bed868c7b75c4c3ca3721fa8ed6c6ad2f41262b
 web/api/elementinternals/ariakeyshortcuts,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
@@ -5998,7 +5999,7 @@ web/html/reference/elements/rtc,no_hash_commit
 web/html/reference/elements/ruby,no_hash_commit
 web/html/reference/elements/s,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/elements/samp,no_hash_commit
-web/html/reference/elements/script,no_hash_commit
+web/html/reference/elements/script,44a5fa2aace490e0114349d9d683675b2f5cacce
 web/html/reference/elements/script/type/importmap,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/search,fdd3ac5598c3ddceb71e59949b003936ae99f647
 web/html/reference/elements/section,no_hash_commit
