@@ -969,7 +969,7 @@ learn_web_development/getting_started,5
 learn_web_development/getting_started/environment_setup,4
 learn_web_development/getting_started/environment_setup/browsing_the_web,10
 learn_web_development/getting_started/environment_setup/code_editors,4
-learn_web_development/getting_started/environment_setup/command_line,null
+learn_web_development/getting_started/environment_setup/command_line,0
 learn_web_development/getting_started/environment_setup/dealing_with_files,11
 learn_web_development/getting_started/environment_setup/installing_software,14
 learn_web_development/getting_started/soft_skills,0
@@ -3819,7 +3819,7 @@ web/api/element/ariacolindextext,null
 web/api/element/ariacolspan,null
 web/api/element/ariacontrolselements,null
 web/api/element/ariacurrent,null
-web/api/element/ariadescribedbyelements,null
+web/api/element/ariadescribedbyelements,0
 web/api/element/ariadescription,null
 web/api/element/ariadetailselements,null
 web/api/element/ariadisabled,null
@@ -3856,7 +3856,7 @@ web/api/element/ariasetsize,null
 web/api/element/ariasort,null
 web/api/element/ariavaluemax,null
 web/api/element/ariavaluemin,null
-web/api/element/ariavaluenow,null
+web/api/element/ariavaluenow,0
 web/api/element/ariavaluetext,null
 web/api/element/assignedslot,0
 web/api/element/attachshadow,null
@@ -11875,7 +11875,7 @@ web/http/guides/cors/errors/corsnotsupportingcredentials,null
 web/http/guides/cors/errors/corsoriginheadernotadded,null
 web/http/guides/cors/errors/corspreflightdidnotsucceed,null
 web/http/guides/cors/errors/corsrequestnothttp,null
-web/http/guides/cross-origin_resource_policy,null
+web/http/guides/cross-origin_resource_policy,0
 web/http/guides/csp,null
 web/http/guides/csp/errors,null
 web/http/guides/csp/errors/cspviolation,null
