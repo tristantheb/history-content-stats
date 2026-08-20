@@ -3811,7 +3811,7 @@ web/api/element/ariaatomic,0
 web/api/element/ariaautocomplete,null
 web/api/element/ariabraillelabel,null
 web/api/element/ariabrailleroledescription,null
-web/api/element/ariabusy,null
+web/api/element/ariabusy,0
 web/api/element/ariachecked,null
 web/api/element/ariacolcount,null
 web/api/element/ariacolindex,null
@@ -4008,7 +4008,7 @@ web/api/element/touchstart_event,null
 web/api/element/transitioncancel_event,null
 web/api/element/transitionend_event,null
 web/api/element/transitionrun_event,0
-web/api/element/transitionstart_event,null
+web/api/element/transitionstart_event,0
 web/api/element/webkitmouseforcechanged_event,null
 web/api/element/webkitmouseforcedown_event,null
 web/api/element/webkitmouseforceup_event,null
@@ -11773,7 +11773,7 @@ web/html/reference/elements/rtc,null
 web/html/reference/elements/ruby,null
 web/html/reference/elements/s,3
 web/html/reference/elements/samp,null
-web/html/reference/elements/script,null
+web/html/reference/elements/script,0
 web/html/reference/elements/script/type,null
 web/html/reference/elements/script/type/importmap,0
 web/html/reference/elements/script/type/speculationrules,null
