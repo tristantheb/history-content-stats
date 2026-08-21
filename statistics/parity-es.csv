@@ -11760,7 +11760,7 @@ web/html/reference/elements/optgroup,null
 web/html/reference/elements/option,null
 web/html/reference/elements/output,null
 web/html/reference/elements/p,null
-web/html/reference/elements/param,6
+web/html/reference/elements/param,7
 web/html/reference/elements/picture,null
 web/html/reference/elements/plaintext,null
 web/html/reference/elements/pre,null
@@ -12643,7 +12643,7 @@ web/javascript/reference/global_objects/float64array,null
 web/javascript/reference/global_objects/float64array/float64array,null
 web/javascript/reference/global_objects/function,null
 web/javascript/reference/global_objects/function/apply,null
-web/javascript/reference/global_objects/function/arguments,5
+web/javascript/reference/global_objects/function/arguments,6
 web/javascript/reference/global_objects/function/bind,null
 web/javascript/reference/global_objects/function/call,null
 web/javascript/reference/global_objects/function/caller,null
@@ -13400,7 +13400,7 @@ web/javascript/reference/global_objects/uint8array/uint8array,null
 web/javascript/reference/global_objects/uint8clampedarray,null
 web/javascript/reference/global_objects/uint8clampedarray/uint8clampedarray,null
 web/javascript/reference/global_objects/undefined,null
-web/javascript/reference/global_objects/unescape,8
+web/javascript/reference/global_objects/unescape,9
 web/javascript/reference/global_objects/urierror,null
 web/javascript/reference/global_objects/urierror/urierror,null
 web/javascript/reference/global_objects/weakmap,null
