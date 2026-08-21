@@ -9818,7 +9818,7 @@ web/api/window/name,null
 web/api/window/navigation,3
 web/api/window/navigator,null
 web/api/window/offline_event,null
-web/api/window/online_event,2
+web/api/window/online_event,3
 web/api/window/open,null
 web/api/window/opener,null
 web/api/window/orientation,null
