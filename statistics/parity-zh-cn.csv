@@ -3808,7 +3808,7 @@ web/api/element/animationstart_event,null
 web/api/element/append,1
 web/api/element/ariaactivedescendantelement,0
 web/api/element/ariaatomic,0
-web/api/element/ariaautocomplete,null
+web/api/element/ariaautocomplete,0
 web/api/element/ariabraillelabel,null
 web/api/element/ariabrailleroledescription,null
 web/api/element/ariabusy,0
@@ -4009,10 +4009,10 @@ web/api/element/transitioncancel_event,null
 web/api/element/transitionend_event,null
 web/api/element/transitionrun_event,0
 web/api/element/transitionstart_event,0
-web/api/element/webkitmouseforcechanged_event,null
-web/api/element/webkitmouseforcedown_event,null
-web/api/element/webkitmouseforceup_event,null
-web/api/element/webkitmouseforcewillbegin_event,null
+web/api/element/webkitmouseforcechanged_event,0
+web/api/element/webkitmouseforcedown_event,0
+web/api/element/webkitmouseforceup_event,0
+web/api/element/webkitmouseforcewillbegin_event,0
 web/api/element/wheel_event,null
 web/api/elementinternals,null
 web/api/elementinternals/ariaactivedescendantelement,1
@@ -13675,6 +13675,7 @@ web/privacy/privacy_primer,null
 web/privacy/regulations,null
 web/privacy/regulations/ccpa,null
 web/privacy/regulations/gdpr,null
+web/privacy/threat_modeling,null
 web/progressive_web_apps,null
 web/progressive_web_apps/guides,0
 web/progressive_web_apps/guides/best_practices,null

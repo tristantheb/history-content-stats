@@ -13675,6 +13675,7 @@ web/privacy/privacy_primer,0
 web/privacy/regulations,0
 web/privacy/regulations/ccpa,0
 web/privacy/regulations/gdpr,0
+web/privacy/threat_modeling,null
 web/progressive_web_apps,0
 web/progressive_web_apps/guides,0
 web/progressive_web_apps/guides/best_practices,0
@@ -13778,7 +13779,7 @@ web/security/practical_implementation_guides/tls,0
 web/security/practical_implementation_guides/turning_off_form_autocompletion,0
 web/security/threat_modeling,0
 web/security/threat_modeling/example_threat_model,0
-web/security/threat_modeling/frameworks,0
+web/security/threat_modeling/frameworks,1
 web/security/threat_modeling/pwa_threat_model,0
 web/svg,0
 web/svg/guides,0
