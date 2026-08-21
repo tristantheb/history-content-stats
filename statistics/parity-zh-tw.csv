@@ -1043,7 +1043,7 @@ mdn/community/translated_content,2
 mdn/guides,null
 mdn/kitchensink,null
 mdn/tutorials,null
-mdn/writing_guidelines,1
+mdn/writing_guidelines,2
 mdn/writing_guidelines/attrib_copyright_license,0
 mdn/writing_guidelines/changelog,null
 mdn/writing_guidelines/code_style_guide,null
@@ -12145,10 +12145,10 @@ web/http/reference/headers/x-forwarded-proto,null
 web/http/reference/headers/x-frame-options,null
 web/http/reference/headers/x-permitted-cross-domain-policies,null
 web/http/reference/headers/x-powered-by,null
-web/http/reference/headers/x-robots-tag,2
+web/http/reference/headers/x-robots-tag,3
 web/http/reference/headers/x-xss-protection,null
 web/http/reference/methods,0
-web/http/reference/methods/connect,3
+web/http/reference/methods/connect,4
 web/http/reference/methods/delete,4
 web/http/reference/methods/get,3
 web/http/reference/methods/head,3
@@ -12318,7 +12318,7 @@ web/javascript/reference/errors/identifier_after_number,null
 web/javascript/reference/errors/illegal_character,null
 web/javascript/reference/errors/import_decl_module_top_level,null
 web/javascript/reference/errors/in_operator_no_object,null
-web/javascript/reference/errors/invalid_array_length,0
+web/javascript/reference/errors/invalid_array_length,1
 web/javascript/reference/errors/invalid_assignment_left-hand_side,null
 web/javascript/reference/errors/invalid_bigint_syntax,null
 web/javascript/reference/errors/invalid_const_assignment,null

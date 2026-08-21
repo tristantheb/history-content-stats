@@ -1,6 +1,6 @@
 Path,ParityCount
 games,1
-games/anatomy,3
+games/anatomy,4
 games/introduction,0
 games/publishing_games,null
 games/publishing_games/game_distribution,null
@@ -78,7 +78,7 @@ glossary/ajax,2
 glossary/algorithm,3
 glossary/alignment_container,2
 glossary/alignment_subject,2
-glossary/alpha,4
+glossary/alpha,5
 glossary/alpn,2
 glossary/api,2
 glossary/apple_safari,2
@@ -961,10 +961,10 @@ learn_web_development/extensions/server-side/node_server_without_framework,null
 learn_web_development/extensions/testing,3
 learn_web_development/extensions/testing/automated_testing,10
 learn_web_development/extensions/testing/feature_detection,13
-learn_web_development/extensions/testing/html_and_css,18
+learn_web_development/extensions/testing/html_and_css,19
 learn_web_development/extensions/testing/introduction,9
 learn_web_development/extensions/testing/testing_strategies,11
-learn_web_development/extensions/testing/your_own_automation_environment,13
+learn_web_development/extensions/testing/your_own_automation_environment,14
 learn_web_development/getting_started,5
 learn_web_development/getting_started/environment_setup,4
 learn_web_development/getting_started/environment_setup/browsing_the_web,10
@@ -1016,7 +1016,7 @@ learn_web_development/howto/tools_and_setup/how_much_does_it_cost,null
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,null
 learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,null
 learn_web_development/howto/tools_and_setup/using_github_pages,6
-learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,0
+learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,1
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,13
 learn_web_development/howto/web_mechanics,null
 learn_web_development/howto/web_mechanics/file_browser_bugs,3
@@ -1073,7 +1073,7 @@ mdn/writing_guidelines/page_structures,1
 mdn/writing_guidelines/page_structures/banners_and_notices,null
 mdn/writing_guidelines/page_structures/code_examples,null
 mdn/writing_guidelines/page_structures/compatibility_tables,null
-mdn/writing_guidelines/page_structures/feature_status,12
+mdn/writing_guidelines/page_structures/feature_status,13
 mdn/writing_guidelines/page_structures/links,null
 mdn/writing_guidelines/page_structures/live_samples,null
 mdn/writing_guidelines/page_structures/macros,null
@@ -1286,7 +1286,7 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/max_number_of_static_rul
 mozilla/add-ons/webextensions/api/declarativenetrequest/modifyheaderinfo,3
 mozilla/add-ons/webextensions/api/declarativenetrequest/onrulematcheddebug,3
 mozilla/add-ons/webextensions/api/declarativenetrequest/redirect,3
-mozilla/add-ons/webextensions/api/declarativenetrequest/resourcetype,6
+mozilla/add-ons/webextensions/api/declarativenetrequest/resourcetype,7
 mozilla/add-ons/webextensions/api/declarativenetrequest/rule,2
 mozilla/add-ons/webextensions/api/declarativenetrequest/ruleaction,2
 mozilla/add-ons/webextensions/api/declarativenetrequest/rulecondition,7
@@ -1690,7 +1690,7 @@ mozilla/add-ons/webextensions/api/tabs/zoomsettingsscope,5
 mozilla/add-ons/webextensions/api/theme,1
 mozilla/add-ons/webextensions/api/theme/getcurrent,1
 mozilla/add-ons/webextensions/api/theme/onupdated,2
-mozilla/add-ons/webextensions/api/theme/reset,1
+mozilla/add-ons/webextensions/api/theme/reset,2
 mozilla/add-ons/webextensions/api/theme/theme,1
 mozilla/add-ons/webextensions/api/theme/update,3
 mozilla/add-ons/webextensions/api/topsites,2
@@ -1755,7 +1755,7 @@ mozilla/add-ons/webextensions/api/webrequest/onheadersreceived,6
 mozilla/add-ons/webextensions/api/webrequest/onresponsestarted,6
 mozilla/add-ons/webextensions/api/webrequest/onsendheaders,6
 mozilla/add-ons/webextensions/api/webrequest/requestfilter,2
-mozilla/add-ons/webextensions/api/webrequest/resourcetype,4
+mozilla/add-ons/webextensions/api/webrequest/resourcetype,5
 mozilla/add-ons/webextensions/api/webrequest/securityinfo,3
 mozilla/add-ons/webextensions/api/webrequest/streamfilter,3
 mozilla/add-ons/webextensions/api/webrequest/streamfilter/close,2
@@ -1877,7 +1877,7 @@ mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,9
 mozilla/add-ons/webextensions/your_first_webextension,1
-mozilla/add-ons/webextensions/your_second_webextension,0
+mozilla/add-ons/webextensions/your_second_webextension,1
 mozilla/firefox,5
 mozilla/firefox/experimental_features,null
 mozilla/firefox/releases,2
@@ -2150,7 +2150,7 @@ web/accessibility/aria/reference/roles/alertdialog_role,null
 web/accessibility/aria/reference/roles/application_role,null
 web/accessibility/aria/reference/roles/article_role,null
 web/accessibility/aria/reference/roles/banner_role,null
-web/accessibility/aria/reference/roles/button_role,10
+web/accessibility/aria/reference/roles/button_role,11
 web/accessibility/aria/reference/roles/cell_role,null
 web/accessibility/aria/reference/roles/checkbox_role,null
 web/accessibility/aria/reference/roles/columnheader_role,null
@@ -11886,7 +11886,7 @@ web/http/guides/messages,null
 web/http/guides/mime_types,null
 web/http/guides/mime_types/common_types,null
 web/http/guides/network_error_logging,null
-web/http/guides/overview,6
+web/http/guides/overview,7
 web/http/guides/permissions_policy,null
 web/http/guides/protocol_upgrade_mechanism,null
 web/http/guides/proxy_servers_and_tunneling,4
@@ -12240,7 +12240,7 @@ web/javascript/guide/language_overview,6
 web/javascript/guide/loops_and_iteration,null
 web/javascript/guide/memory_management,8
 web/javascript/guide/meta_programming,null
-web/javascript/guide/modules,14
+web/javascript/guide/modules,15
 web/javascript/guide/numbers_and_strings,0
 web/javascript/guide/regular_expressions,null
 web/javascript/guide/regular_expressions/assertions,0
@@ -13420,7 +13420,7 @@ web/javascript/reference/global_objects/weakset/delete,null
 web/javascript/reference/global_objects/weakset/has,null
 web/javascript/reference/global_objects/weakset/weakset,null
 web/javascript/reference/iteration_protocols,null
-web/javascript/reference/javascript_technologies_overview,7
+web/javascript/reference/javascript_technologies_overview,8
 web/javascript/reference/lexical_grammar,null
 web/javascript/reference/operators,5
 web/javascript/reference/operators/addition,null
@@ -13539,7 +13539,7 @@ web/javascript/reference/statements/function,4
 web/javascript/reference/statements/function_star_,13
 web/javascript/reference/statements/if...else,4
 web/javascript/reference/statements/import,12
-web/javascript/reference/statements/import/with,1
+web/javascript/reference/statements/import/with,2
 web/javascript/reference/statements/label,5
 web/javascript/reference/statements/let,7
 web/javascript/reference/statements/return,4
@@ -13637,7 +13637,7 @@ web/media/guides/formats/video_codecs,null
 web/media/guides/formats/video_concepts,null
 web/media/guides/formats/webrtc_codecs,null
 web/media/guides/images,3
-web/media/guides/streaming,0
+web/media/guides/streaming,1
 web/performance,8
 web/performance/guides,0
 web/performance/guides/animation_performance_and_frame_rate,null
@@ -13822,7 +13822,7 @@ web/svg/reference/attribute/crossorigin,null
 web/svg/reference/attribute/cursor,null
 web/svg/reference/attribute/cx,null
 web/svg/reference/attribute/cy,null
-web/svg/reference/attribute/d,5
+web/svg/reference/attribute/d,6
 web/svg/reference/attribute/data-_star_,null
 web/svg/reference/attribute/decoding,null
 web/svg/reference/attribute/diffuseconstant,null

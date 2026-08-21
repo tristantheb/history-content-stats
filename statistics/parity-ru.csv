@@ -11886,7 +11886,7 @@ web/http/guides/messages,null
 web/http/guides/mime_types,null
 web/http/guides/mime_types/common_types,null
 web/http/guides/network_error_logging,null
-web/http/guides/overview,6
+web/http/guides/overview,7
 web/http/guides/permissions_policy,null
 web/http/guides/protocol_upgrade_mechanism,null
 web/http/guides/proxy_servers_and_tunneling,null
@@ -12391,7 +12391,7 @@ web/javascript/reference/errors/super_not_called,null
 web/javascript/reference/errors/too_much_recursion,null
 web/javascript/reference/errors/undeclared_private_field_or_method,null
 web/javascript/reference/errors/undeclared_var,null
-web/javascript/reference/errors/unexpected_token,4
+web/javascript/reference/errors/unexpected_token,5
 web/javascript/reference/errors/unexpected_type,null
 web/javascript/reference/errors/unnamed_function_statement,null
 web/javascript/reference/errors/unparenthesized_unary_expr_lhs_exponentiation,null
