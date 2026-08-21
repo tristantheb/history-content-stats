@@ -1,6 +1,6 @@
 Path,ParityCount
 games,null
-games/anatomy,12
+games/anatomy,13
 games/introduction,null
 games/publishing_games,null
 games/publishing_games/game_distribution,null
@@ -976,7 +976,7 @@ learn_web_development/getting_started/soft_skills,1
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,null
 learn_web_development/getting_started/soft_skills/finding_a_job,null
 learn_web_development/getting_started/soft_skills/research_and_learning,null
-learn_web_development/getting_started/soft_skills/workflows_and_processes,3
+learn_web_development/getting_started/soft_skills/workflows_and_processes,4
 learn_web_development/getting_started/web_standards,1
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,4
 learn_web_development/getting_started/web_standards/how_the_web_works,null
@@ -1043,7 +1043,7 @@ mdn/community/translated_content,5
 mdn/guides,null
 mdn/kitchensink,null
 mdn/tutorials,5
-mdn/writing_guidelines,0
+mdn/writing_guidelines,1
 mdn/writing_guidelines/attrib_copyright_license,0
 mdn/writing_guidelines/changelog,0
 mdn/writing_guidelines/code_style_guide,0
@@ -1071,9 +1071,9 @@ mdn/writing_guidelines/howto/write_an_api_reference/sidebars,0
 mdn/writing_guidelines/learning_content,0
 mdn/writing_guidelines/page_structures,0
 mdn/writing_guidelines/page_structures/banners_and_notices,0
-mdn/writing_guidelines/page_structures/code_examples,1
+mdn/writing_guidelines/page_structures/code_examples,2
 mdn/writing_guidelines/page_structures/compatibility_tables,0
-mdn/writing_guidelines/page_structures/feature_status,0
+mdn/writing_guidelines/page_structures/feature_status,1
 mdn/writing_guidelines/page_structures/links,0
 mdn/writing_guidelines/page_structures/live_samples,0
 mdn/writing_guidelines/page_structures/macros,0
@@ -1877,7 +1877,7 @@ mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
-mozilla/add-ons/webextensions/your_second_webextension,3
+mozilla/add-ons/webextensions/your_second_webextension,4
 mozilla/firefox,null
 mozilla/firefox/experimental_features,null
 mozilla/firefox/releases,null
@@ -13082,7 +13082,7 @@ web/javascript/reference/global_objects/symbol/description,12
 web/javascript/reference/global_objects/symbol/dispose,null
 web/javascript/reference/global_objects/symbol/for,9
 web/javascript/reference/global_objects/symbol/hasinstance,14
-web/javascript/reference/global_objects/symbol/isconcatspreadable,13
+web/javascript/reference/global_objects/symbol/isconcatspreadable,14
 web/javascript/reference/global_objects/symbol/iterator,17
 web/javascript/reference/global_objects/symbol/keyfor,9
 web/javascript/reference/global_objects/symbol/match,14

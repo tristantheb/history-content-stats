@@ -78,7 +78,7 @@ glossary/ajax,7
 glossary/algorithm,3
 glossary/alignment_container,5
 glossary/alignment_subject,4
-glossary/alpha,5
+glossary/alpha,6
 glossary/alpn,2
 glossary/api,3
 glossary/apple_safari,7
@@ -885,7 +885,7 @@ learn_web_development/extensions/forms/how_to_build_custom_form_controls/example
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_5,null
 learn_web_development/extensions/forms/how_to_structure_a_web_form,16
 learn_web_development/extensions/forms/how_to_structure_a_web_form/example,6
-learn_web_development/extensions/forms/html5_input_types,8
+learn_web_development/extensions/forms/html5_input_types,9
 learn_web_development/extensions/forms/html_forms_in_legacy_browsers,null
 learn_web_development/extensions/forms/other_form_controls,null
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,null
@@ -1043,7 +1043,7 @@ mdn/community/translated_content,5
 mdn/guides,null
 mdn/kitchensink,null
 mdn/tutorials,null
-mdn/writing_guidelines,6
+mdn/writing_guidelines,7
 mdn/writing_guidelines/attrib_copyright_license,4
 mdn/writing_guidelines/changelog,null
 mdn/writing_guidelines/code_style_guide,null
@@ -10688,7 +10688,7 @@ web/css/reference/properties/-webkit-text-stroke-width,null
 web/css/reference/properties/-webkit-touch-callout,null
 web/css/reference/properties/accent-color,6
 web/css/reference/properties/align-content,null
-web/css/reference/properties/align-items,5
+web/css/reference/properties/align-items,6
 web/css/reference/properties/align-self,null
 web/css/reference/properties/alignment-baseline,null
 web/css/reference/properties/all,null
@@ -12124,7 +12124,7 @@ web/http/reference/headers/timing-allow-origin,null
 web/http/reference/headers/tk,null
 web/http/reference/headers/trailer,null
 web/http/reference/headers/transfer-encoding,null
-web/http/reference/headers/upgrade,4
+web/http/reference/headers/upgrade,5
 web/http/reference/headers/upgrade-insecure-requests,null
 web/http/reference/headers/use-as-dictionary,null
 web/http/reference/headers/user-agent,4
@@ -12741,7 +12741,7 @@ web/javascript/reference/global_objects/intl/pluralrules/select,null
 web/javascript/reference/global_objects/intl/pluralrules/selectrange,null
 web/javascript/reference/global_objects/intl/pluralrules/supportedlocalesof,5
 web/javascript/reference/global_objects/intl/relativetimeformat,4
-web/javascript/reference/global_objects/intl/relativetimeformat/format,7
+web/javascript/reference/global_objects/intl/relativetimeformat/format,8
 web/javascript/reference/global_objects/intl/relativetimeformat/formattoparts,6
 web/javascript/reference/global_objects/intl/relativetimeformat/relativetimeformat,8
 web/javascript/reference/global_objects/intl/relativetimeformat/resolvedoptions,7
@@ -13082,7 +13082,7 @@ web/javascript/reference/global_objects/symbol/description,4
 web/javascript/reference/global_objects/symbol/dispose,null
 web/javascript/reference/global_objects/symbol/for,3
 web/javascript/reference/global_objects/symbol/hasinstance,6
-web/javascript/reference/global_objects/symbol/isconcatspreadable,5
+web/javascript/reference/global_objects/symbol/isconcatspreadable,6
 web/javascript/reference/global_objects/symbol/iterator,null
 web/javascript/reference/global_objects/symbol/keyfor,3
 web/javascript/reference/global_objects/symbol/match,6
@@ -13420,7 +13420,7 @@ web/javascript/reference/global_objects/weakset/delete,5
 web/javascript/reference/global_objects/weakset/has,5
 web/javascript/reference/global_objects/weakset/weakset,3
 web/javascript/reference/iteration_protocols,30
-web/javascript/reference/javascript_technologies_overview,7
+web/javascript/reference/javascript_technologies_overview,8
 web/javascript/reference/lexical_grammar,null
 web/javascript/reference/operators,null
 web/javascript/reference/operators/addition,11
