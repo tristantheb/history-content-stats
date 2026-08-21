@@ -9836,7 +9836,7 @@ web/api/window/performance,null
 web/api/window/personalbar,null
 web/api/window/popstate_event,null
 web/api/window/postmessage,null
-web/api/window/print,1
+web/api/window/print,2
 web/api/window/prompt,null
 web/api/window/querylocalfonts,null
 web/api/window/queuemicrotask,null
