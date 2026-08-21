@@ -3485,7 +3485,7 @@ web/api/document/createcomment,null
 web/api/document/createdocumentfragment,0
 web/api/document/createelement,4
 web/api/document/createelementns,null
-web/api/document/createevent,2
+web/api/document/createevent,3
 web/api/document/createexpression,null
 web/api/document/createnodeiterator,null
 web/api/document/creatensresolver,null
@@ -3511,7 +3511,7 @@ web/api/document/elementsfrompoint,null
 web/api/document/embeds,null
 web/api/document/enablestylesheetsforset,null
 web/api/document/evaluate,null
-web/api/document/execcommand,5
+web/api/document/execcommand,6
 web/api/document/exitfullscreen,null
 web/api/document/exitpictureinpicture,null
 web/api/document/exitpointerlock,null
@@ -6685,7 +6685,7 @@ web/api/performance/now,null
 web/api/performance/resourcetimingbufferfull_event,null
 web/api/performance/setresourcetimingbuffersize,null
 web/api/performance/timeorigin,null
-web/api/performance/timing,0
+web/api/performance/timing,1
 web/api/performance/tojson,null
 web/api/performance_api,null
 web/api/performance_api/high_precision_timing,null
@@ -9822,7 +9822,7 @@ web/api/window/online_event,null
 web/api/window/open,null
 web/api/window/opener,0
 web/api/window/orientation,null
-web/api/window/orientationchange_event,0
+web/api/window/orientationchange_event,1
 web/api/window/origin,null
 web/api/window/originagentcluster,null
 web/api/window/outerheight,null
@@ -10814,7 +10814,7 @@ web/css/reference/properties/caret-animation,null
 web/css/reference/properties/caret-color,null
 web/css/reference/properties/caret-shape,null
 web/css/reference/properties/clear,null
-web/css/reference/properties/clip,2
+web/css/reference/properties/clip,3
 web/css/reference/properties/clip-path,null
 web/css/reference/properties/clip-rule,null
 web/css/reference/properties/color,null
