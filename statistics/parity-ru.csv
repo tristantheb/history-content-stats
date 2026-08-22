@@ -7773,7 +7773,7 @@ web/api/selection_api,null
 web/api/sensor,2
 web/api/sensor/activate_event,3
 web/api/sensor/activated,2
-web/api/sensor/error_event,3
+web/api/sensor/error_event,4
 web/api/sensor/hasreading,2
 web/api/sensor/reading_event,3
 web/api/sensor/start,2
