@@ -4733,7 +4733,7 @@ web/api/html_dom_api/microtask_guide/in_depth,0
 web/api/html_drag_and_drop_api,0
 web/api/html_drag_and_drop_api/drag_data_store,0
 web/api/html_drag_and_drop_api/drag_operations,0
-web/api/html_drag_and_drop_api/file_drag_and_drop,0
+web/api/html_drag_and_drop_api/file_drag_and_drop,1
 web/api/html_drag_and_drop_api/kanban_board,0
 web/api/html_sanitizer_api,0
 web/api/html_sanitizer_api/default_sanitizer_configuration,null
@@ -4817,7 +4817,7 @@ web/api/htmlbuttonelement/reportvalidity,0
 web/api/htmlbuttonelement/setcustomvalidity,0
 web/api/htmlbuttonelement/type,0
 web/api/htmlbuttonelement/validationmessage,0
-web/api/htmlbuttonelement/validity,0
+web/api/htmlbuttonelement/validity,1
 web/api/htmlbuttonelement/value,0
 web/api/htmlbuttonelement/willvalidate,0
 web/api/htmlcanvaselement,0
@@ -4843,7 +4843,7 @@ web/api/htmldataelement/value,0
 web/api/htmldatalistelement,0
 web/api/htmldatalistelement/options,0
 web/api/htmldetailselement,0
-web/api/htmldetailselement/name,0
+web/api/htmldetailselement/name,1
 web/api/htmldetailselement/open,0
 web/api/htmldialogelement,0
 web/api/htmldialogelement/cancel_event,1
@@ -4937,7 +4937,7 @@ web/api/htmlfieldsetelement/reportvalidity,0
 web/api/htmlfieldsetelement/setcustomvalidity,0
 web/api/htmlfieldsetelement/type,0
 web/api/htmlfieldsetelement/validationmessage,0
-web/api/htmlfieldsetelement/validity,0
+web/api/htmlfieldsetelement/validity,1
 web/api/htmlfieldsetelement/willvalidate,0
 web/api/htmlfontelement,0
 web/api/htmlfontelement/color,0
@@ -4949,7 +4949,7 @@ web/api/htmlformelement,0
 web/api/htmlformelement/acceptcharset,0
 web/api/htmlformelement/action,0
 web/api/htmlformelement/autocomplete,0
-web/api/htmlformelement/checkvalidity,0
+web/api/htmlformelement/checkvalidity,1
 web/api/htmlformelement/elements,0
 web/api/htmlformelement/encoding,0
 web/api/htmlformelement/enctype,0
@@ -5236,7 +5236,7 @@ web/api/htmlobjectelement/setcustomvalidity,0
 web/api/htmlobjectelement/type,0
 web/api/htmlobjectelement/usemap,0
 web/api/htmlobjectelement/validationmessage,0
-web/api/htmlobjectelement/validity,0
+web/api/htmlobjectelement/validity,1
 web/api/htmlobjectelement/width,0
 web/api/htmlobjectelement/willvalidate,0
 web/api/htmlolistelement,0
@@ -5274,7 +5274,7 @@ web/api/htmloutputelement/reportvalidity,0
 web/api/htmloutputelement/setcustomvalidity,0
 web/api/htmloutputelement/type,0
 web/api/htmloutputelement/validationmessage,0
-web/api/htmloutputelement/validity,0
+web/api/htmloutputelement/validity,1
 web/api/htmloutputelement/value,0
 web/api/htmloutputelement/willvalidate,0
 web/api/htmlparagraphelement,0
@@ -5346,7 +5346,7 @@ web/api/htmlsourceelement/srcset,0
 web/api/htmlsourceelement/type,0
 web/api/htmlsourceelement/width,0
 web/api/htmlspanelement,0
-web/api/htmlstyleelement,0
+web/api/htmlstyleelement,1
 web/api/htmlstyleelement/blocking,0
 web/api/htmlstyleelement/disabled,0
 web/api/htmlstyleelement/media,0
@@ -5446,7 +5446,7 @@ web/api/htmltextareaelement/select_event,0
 web/api/htmltextareaelement/selectionchange_event,0
 web/api/htmltextareaelement/selectiondirection,0
 web/api/htmltextareaelement/selectionend,0
-web/api/htmltextareaelement/selectionstart,0
+web/api/htmltextareaelement/selectionstart,1
 web/api/htmltextareaelement/setcustomvalidity,0
 web/api/htmltextareaelement/setrangetext,0
 web/api/htmltextareaelement/setselectionrange,0
@@ -9780,7 +9780,7 @@ web/api/window/event,1
 web/api/window/external,2
 web/api/window/fence,0
 web/api/window/fetch,0
-web/api/window/fetchlater,0
+web/api/window/fetchlater,1
 web/api/window/find,0
 web/api/window/focus,1
 web/api/window/focus_event,1
@@ -12849,11 +12849,11 @@ web/javascript/reference/global_objects/math/tan,0
 web/javascript/reference/global_objects/math/tanh,0
 web/javascript/reference/global_objects/math/trunc,0
 web/javascript/reference/global_objects/nan,0
-web/javascript/reference/global_objects/number,9
-web/javascript/reference/global_objects/number/epsilon,null
-web/javascript/reference/global_objects/number/isfinite,null
-web/javascript/reference/global_objects/number/isinteger,null
-web/javascript/reference/global_objects/number/isnan,null
+web/javascript/reference/global_objects/number,0
+web/javascript/reference/global_objects/number/epsilon,0
+web/javascript/reference/global_objects/number/isfinite,0
+web/javascript/reference/global_objects/number/isinteger,0
+web/javascript/reference/global_objects/number/isnan,0
 web/javascript/reference/global_objects/number/issafeinteger,null
 web/javascript/reference/global_objects/number/max_safe_integer,null
 web/javascript/reference/global_objects/number/max_value,null

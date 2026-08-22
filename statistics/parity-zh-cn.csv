@@ -2315,7 +2315,7 @@ web/api/animation/overallprogress,null
 web/api/animation/pause,null
 web/api/animation/pending,0
 web/api/animation/persist,null
-web/api/animation/play,1
+web/api/animation/play,2
 web/api/animation/playbackrate,null
 web/api/animation/playstate,null
 web/api/animation/ready,null
@@ -2351,9 +2351,9 @@ web/api/attr/prefix,null
 web/api/attr/specified,1
 web/api/attr/value,null
 web/api/attribution_reporting_api,11
-web/api/attribution_reporting_api/generating_reports,12
+web/api/attribution_reporting_api/generating_reports,13
 web/api/attribution_reporting_api/registering_sources,10
-web/api/attribution_reporting_api/registering_triggers,13
+web/api/attribution_reporting_api/registering_triggers,14
 web/api/audio_output_devices_api,4
 web/api/audio_session_api,null
 web/api/audiobuffer,null
@@ -2877,7 +2877,7 @@ web/api/clipboard,3
 web/api/clipboard/clipboardchange_event,null
 web/api/clipboard/read,3
 web/api/clipboard/readtext,1
-web/api/clipboard/write,1
+web/api/clipboard/write,2
 web/api/clipboard/writetext,1
 web/api/clipboard_api,null
 web/api/clipboardchangeevent,null
@@ -2906,7 +2906,7 @@ web/api/closewatcher/closewatcher,null
 web/api/closewatcher/destroy,null
 web/api/closewatcher/requestclose,null
 web/api/coepviolationreport,null
-web/api/commandevent,0
+web/api/commandevent,1
 web/api/commandevent/command,0
 web/api/commandevent/commandevent,0
 web/api/commandevent/source,0
@@ -3180,7 +3180,7 @@ web/api/cssmediarule,1
 web/api/cssmediarule/media,null
 web/api/cssnamespacerule,null
 web/api/cssnamespacerule/namespaceuri,0
-web/api/cssnamespacerule/prefix,2
+web/api/cssnamespacerule/prefix,3
 web/api/cssnesteddeclarations,null
 web/api/cssnesteddeclarations/style,null
 web/api/cssnumericarray,2
@@ -3204,7 +3204,7 @@ web/api/cssnumericvalue/type,null
 web/api/cssom_view_api,0
 web/api/cssom_view_api/coordinate_systems,2
 web/api/csspagedescriptors,null
-web/api/csspagerule,2
+web/api/csspagerule,3
 web/api/csspagerule/selectortext,null
 web/api/csspagerule/style,null
 web/api/cssperspective,null
@@ -4843,7 +4843,7 @@ web/api/htmldataelement/value,1
 web/api/htmldatalistelement,0
 web/api/htmldatalistelement/options,0
 web/api/htmldetailselement,null
-web/api/htmldetailselement/name,0
+web/api/htmldetailselement/name,1
 web/api/htmldetailselement/open,null
 web/api/htmldialogelement,null
 web/api/htmldialogelement/cancel_event,null
@@ -5236,7 +5236,7 @@ web/api/htmlobjectelement/setcustomvalidity,1
 web/api/htmlobjectelement/type,1
 web/api/htmlobjectelement/usemap,2
 web/api/htmlobjectelement/validationmessage,0
-web/api/htmlobjectelement/validity,4
+web/api/htmlobjectelement/validity,5
 web/api/htmlobjectelement/width,1
 web/api/htmlobjectelement/willvalidate,3
 web/api/htmlolistelement,2
@@ -5719,11 +5719,11 @@ web/api/interventionreport,null
 web/api/invoker_commands_api,1
 web/api/js_self-profiling_api,null
 web/api/js_self-profiling_api/profile_content_and_format,null
-web/api/keyboard,2
+web/api/keyboard,3
 web/api/keyboard/getlayoutmap,0
-web/api/keyboard/lock,4
+web/api/keyboard/lock,5
 web/api/keyboard/unlock,0
-web/api/keyboard_api,1
+web/api/keyboard_api,2
 web/api/keyboardevent,7
 web/api/keyboardevent/altkey,null
 web/api/keyboardevent/charcode,1
@@ -6230,7 +6230,7 @@ web/api/navigateevent/destination,2
 web/api/navigateevent/downloadrequest,3
 web/api/navigateevent/formdata,2
 web/api/navigateevent/hashchange,3
-web/api/navigateevent/hasuavisualtransition,2
+web/api/navigateevent/hasuavisualtransition,3
 web/api/navigateevent/info,3
 web/api/navigateevent/intercept,9
 web/api/navigateevent/navigateevent,4
@@ -6965,7 +6965,7 @@ web/api/pressurerecord/tojson,null
 web/api/prioritized_task_scheduling_api,null
 web/api/private_state_token_api,null
 web/api/private_state_token_api/using,null
-web/api/processinginstruction,7
+web/api/processinginstruction,8
 web/api/processinginstruction/getattribute,null
 web/api/processinginstruction/getattributenames,null
 web/api/processinginstruction/hasattribute,null

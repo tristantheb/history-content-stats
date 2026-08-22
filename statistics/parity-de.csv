@@ -2285,7 +2285,7 @@ web/api/aeskeygenparams,0
 web/api/ambientlightsensor,0
 web/api/ambientlightsensor/ambientlightsensor,0
 web/api/ambientlightsensor/illuminance,0
-web/api/analysernode,0
+web/api/analysernode,1
 web/api/analysernode/analysernode,0
 web/api/analysernode/fftsize,0
 web/api/analysernode/frequencybincount,0
@@ -2315,7 +2315,7 @@ web/api/animation/overallprogress,0
 web/api/animation/pause,0
 web/api/animation/pending,0
 web/api/animation/persist,0
-web/api/animation/play,0
+web/api/animation/play,1
 web/api/animation/playbackrate,0
 web/api/animation/playstate,0
 web/api/animation/ready,0
@@ -2351,9 +2351,9 @@ web/api/attr/prefix,0
 web/api/attr/specified,0
 web/api/attr/value,0
 web/api/attribution_reporting_api,0
-web/api/attribution_reporting_api/generating_reports,0
+web/api/attribution_reporting_api/generating_reports,1
 web/api/attribution_reporting_api/registering_sources,0
-web/api/attribution_reporting_api/registering_triggers,0
+web/api/attribution_reporting_api/registering_triggers,1
 web/api/audio_output_devices_api,0
 web/api/audio_session_api,0
 web/api/audiobuffer,0
@@ -2511,8 +2511,8 @@ web/api/audioworkletnode/audioworkletnode,0
 web/api/audioworkletnode/parameters,0
 web/api/audioworkletnode/port,0
 web/api/audioworkletnode/processorerror_event,0
-web/api/audioworkletprocessor,0
-web/api/audioworkletprocessor/audioworkletprocessor,0
+web/api/audioworkletprocessor,1
+web/api/audioworkletprocessor/audioworkletprocessor,1
 web/api/audioworkletprocessor/parameterdescriptors_static,0
 web/api/audioworkletprocessor/port,0
 web/api/audioworkletprocessor/process,0
@@ -2536,8 +2536,8 @@ web/api/backgroundfetchevent/backgroundfetchevent,0
 web/api/backgroundfetchevent/registration,0
 web/api/backgroundfetchmanager,0
 web/api/backgroundfetchmanager/fetch,0
-web/api/backgroundfetchmanager/get,0
-web/api/backgroundfetchmanager/getids,0
+web/api/backgroundfetchmanager/get,1
+web/api/backgroundfetchmanager/getids,1
 web/api/backgroundfetchrecord,0
 web/api/backgroundfetchrecord/request,0
 web/api/backgroundfetchrecord/responseready,0
@@ -2632,7 +2632,7 @@ web/api/blobevent/blobevent,0
 web/api/blobevent/data,0
 web/api/blobevent/timecode,0
 web/api/bluetooth,0
-web/api/bluetooth/getavailability,0
+web/api/bluetooth/getavailability,1
 web/api/bluetooth/getdevices,0
 web/api/bluetooth/requestdevice,0
 web/api/bluetoothcharacteristicproperties,0
@@ -2737,7 +2737,7 @@ web/api/canvas_api/tutorial/finale,0
 web/api/canvas_api/tutorial/optimizing_canvas,0
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,0
 web/api/canvas_api/tutorial/transformations,0
-web/api/canvas_api/tutorial/using_images,0
+web/api/canvas_api/tutorial/using_images,1
 web/api/canvascapturemediastreamtrack,0
 web/api/canvascapturemediastreamtrack/canvas,0
 web/api/canvascapturemediastreamtrack/requestframe,0
@@ -2877,7 +2877,7 @@ web/api/clipboard,0
 web/api/clipboard/clipboardchange_event,0
 web/api/clipboard/read,0
 web/api/clipboard/readtext,0
-web/api/clipboard/write,0
+web/api/clipboard/write,1
 web/api/clipboard/writetext,0
 web/api/clipboard_api,0
 web/api/clipboardchangeevent,0
@@ -2906,7 +2906,7 @@ web/api/closewatcher/closewatcher,0
 web/api/closewatcher/destroy,0
 web/api/closewatcher/requestclose,0
 web/api/coepviolationreport,0
-web/api/commandevent,0
+web/api/commandevent,1
 web/api/commandevent/command,0
 web/api/commandevent/commandevent,0
 web/api/commandevent/source,0
@@ -2950,8 +2950,8 @@ web/api/console_api,0
 web/api/constantsourcenode,0
 web/api/constantsourcenode/constantsourcenode,0
 web/api/constantsourcenode/offset,0
-web/api/contact_picker_api,0
-web/api/contactaddress,0
+web/api/contact_picker_api,1
+web/api/contactaddress,1
 web/api/contactaddress/addressline,0
 web/api/contactaddress/city,0
 web/api/contactaddress/country,0
@@ -2965,7 +2965,7 @@ web/api/contactaddress/sortingcode,0
 web/api/contactaddress/tojson,0
 web/api/contactsmanager,0
 web/api/contactsmanager/getproperties,0
-web/api/contactsmanager/select,0
+web/api/contactsmanager/select,1
 web/api/content_index_api,0
 web/api/contentindex,0
 web/api/contentindex/add,0
@@ -3048,7 +3048,7 @@ web/api/css/factory_functions_static,0
 web/api/css/highlights_static,0
 web/api/css/paintworklet_static,0
 web/api/css/registerproperty_static,0
-web/api/css/supports_static,0
+web/api/css/supports_static,1
 web/api/css_custom_highlight_api,0
 web/api/css_font_loading_api,0
 web/api/css_object_model,0
@@ -3063,7 +3063,7 @@ web/api/css_painting_api/guide,0
 web/api/css_properties_and_values_api,0
 web/api/css_properties_and_values_api/guide,0
 web/api/css_typed_om_api,0
-web/api/css_typed_om_api/guide,0
+web/api/css_typed_om_api/guide,1
 web/api/cssanimation,0
 web/api/cssanimation/animationname,0
 web/api/cssconditionrule,0
@@ -3099,7 +3099,7 @@ web/api/cssfontfeaturevaluesmap/set,0
 web/api/cssfontfeaturevaluesmap/size,0
 web/api/cssfontfeaturevaluesmap/symbol.iterator,0
 web/api/cssfontfeaturevaluesmap/values,0
-web/api/cssfontfeaturevaluesrule,0
+web/api/cssfontfeaturevaluesrule,1
 web/api/cssfontfeaturevaluesrule/annotation,0
 web/api/cssfontfeaturevaluesrule/charactervariant,0
 web/api/cssfontfeaturevaluesrule/fontfamily,0
@@ -3180,8 +3180,8 @@ web/api/cssmediarule,0
 web/api/cssmediarule/media,0
 web/api/cssnamespacerule,0
 web/api/cssnamespacerule/namespaceuri,0
-web/api/cssnamespacerule/prefix,0
-web/api/cssnesteddeclarations,0
+web/api/cssnamespacerule/prefix,1
+web/api/cssnesteddeclarations,1
 web/api/cssnesteddeclarations/style,0
 web/api/cssnumericarray,0
 web/api/cssnumericarray/entries,0
@@ -3204,7 +3204,7 @@ web/api/cssnumericvalue/type,0
 web/api/cssom_view_api,0
 web/api/cssom_view_api/coordinate_systems,0
 web/api/csspagedescriptors,0
-web/api/csspagerule,0
+web/api/csspagerule,1
 web/api/csspagerule/selectortext,0
 web/api/csspagerule/style,0
 web/api/cssperspective,0
@@ -4152,7 +4152,7 @@ web/api/ext_disjoint_timer_query/getqueryobjectext,0
 web/api/ext_disjoint_timer_query/isqueryext,0
 web/api/ext_disjoint_timer_query/querycounterext,0
 web/api/ext_float_blend,0
-web/api/ext_frag_depth,0
+web/api/ext_frag_depth,1
 web/api/ext_shader_texture_lod,0
 web/api/ext_srgb,0
 web/api/ext_texture_compression_bptc,0
@@ -4688,8 +4688,8 @@ web/api/highlight,0
 web/api/highlight/add,0
 web/api/highlight/clear,0
 web/api/highlight/delete,0
-web/api/highlight/entries,0
-web/api/highlight/foreach,0
+web/api/highlight/entries,1
+web/api/highlight/foreach,1
 web/api/highlight/has,0
 web/api/highlight/highlight,0
 web/api/highlight/keys,0
@@ -4701,7 +4701,7 @@ web/api/highlightregistry,0
 web/api/highlightregistry/clear,0
 web/api/highlightregistry/delete,0
 web/api/highlightregistry/entries,0
-web/api/highlightregistry/foreach,0
+web/api/highlightregistry/foreach,1
 web/api/highlightregistry/get,0
 web/api/highlightregistry/has,0
 web/api/highlightregistry/highlightsfrompoint,0
@@ -4733,7 +4733,7 @@ web/api/html_dom_api/microtask_guide/in_depth,0
 web/api/html_drag_and_drop_api,0
 web/api/html_drag_and_drop_api/drag_data_store,0
 web/api/html_drag_and_drop_api/drag_operations,0
-web/api/html_drag_and_drop_api/file_drag_and_drop,0
+web/api/html_drag_and_drop_api/file_drag_and_drop,1
 web/api/html_drag_and_drop_api/kanban_board,0
 web/api/html_sanitizer_api,0
 web/api/html_sanitizer_api/default_sanitizer_configuration,0
@@ -4817,7 +4817,7 @@ web/api/htmlbuttonelement/reportvalidity,0
 web/api/htmlbuttonelement/setcustomvalidity,0
 web/api/htmlbuttonelement/type,0
 web/api/htmlbuttonelement/validationmessage,0
-web/api/htmlbuttonelement/validity,0
+web/api/htmlbuttonelement/validity,1
 web/api/htmlbuttonelement/value,0
 web/api/htmlbuttonelement/willvalidate,0
 web/api/htmlcanvaselement,0
@@ -4843,7 +4843,7 @@ web/api/htmldataelement/value,0
 web/api/htmldatalistelement,0
 web/api/htmldatalistelement/options,0
 web/api/htmldetailselement,0
-web/api/htmldetailselement/name,0
+web/api/htmldetailselement/name,1
 web/api/htmldetailselement/open,0
 web/api/htmldialogelement,0
 web/api/htmldialogelement/cancel_event,0
@@ -4937,7 +4937,7 @@ web/api/htmlfieldsetelement/reportvalidity,0
 web/api/htmlfieldsetelement/setcustomvalidity,0
 web/api/htmlfieldsetelement/type,0
 web/api/htmlfieldsetelement/validationmessage,0
-web/api/htmlfieldsetelement/validity,0
+web/api/htmlfieldsetelement/validity,1
 web/api/htmlfieldsetelement/willvalidate,0
 web/api/htmlfontelement,0
 web/api/htmlfontelement/color,0
@@ -4949,7 +4949,7 @@ web/api/htmlformelement,0
 web/api/htmlformelement/acceptcharset,0
 web/api/htmlformelement/action,0
 web/api/htmlformelement/autocomplete,0
-web/api/htmlformelement/checkvalidity,0
+web/api/htmlformelement/checkvalidity,1
 web/api/htmlformelement/elements,0
 web/api/htmlformelement/encoding,0
 web/api/htmlformelement/enctype,0
@@ -5236,7 +5236,7 @@ web/api/htmlobjectelement/setcustomvalidity,0
 web/api/htmlobjectelement/type,0
 web/api/htmlobjectelement/usemap,0
 web/api/htmlobjectelement/validationmessage,0
-web/api/htmlobjectelement/validity,0
+web/api/htmlobjectelement/validity,1
 web/api/htmlobjectelement/width,0
 web/api/htmlobjectelement/willvalidate,0
 web/api/htmlolistelement,0
@@ -5274,7 +5274,7 @@ web/api/htmloutputelement/reportvalidity,0
 web/api/htmloutputelement/setcustomvalidity,0
 web/api/htmloutputelement/type,0
 web/api/htmloutputelement/validationmessage,0
-web/api/htmloutputelement/validity,0
+web/api/htmloutputelement/validity,1
 web/api/htmloutputelement/value,0
 web/api/htmloutputelement/willvalidate,0
 web/api/htmlparagraphelement,0
@@ -5346,7 +5346,7 @@ web/api/htmlsourceelement/srcset,0
 web/api/htmlsourceelement/type,0
 web/api/htmlsourceelement/width,0
 web/api/htmlspanelement,0
-web/api/htmlstyleelement,0
+web/api/htmlstyleelement,1
 web/api/htmlstyleelement/blocking,0
 web/api/htmlstyleelement/disabled,0
 web/api/htmlstyleelement/media,0
@@ -5446,7 +5446,7 @@ web/api/htmltextareaelement/select_event,0
 web/api/htmltextareaelement/selectionchange_event,0
 web/api/htmltextareaelement/selectiondirection,0
 web/api/htmltextareaelement/selectionend,0
-web/api/htmltextareaelement/selectionstart,0
+web/api/htmltextareaelement/selectionstart,1
 web/api/htmltextareaelement/setcustomvalidity,0
 web/api/htmltextareaelement/setrangetext,0
 web/api/htmltextareaelement/setselectionrange,0
@@ -5642,7 +5642,7 @@ web/api/imagedecoder,0
 web/api/imagedecoder/close,0
 web/api/imagedecoder/complete,0
 web/api/imagedecoder/completed,0
-web/api/imagedecoder/decode,0
+web/api/imagedecoder/decode,1
 web/api/imagedecoder/imagedecoder,0
 web/api/imagedecoder/istypesupported_static,0
 web/api/imagedecoder/reset,0
@@ -5719,11 +5719,11 @@ web/api/interventionreport,0
 web/api/invoker_commands_api,0
 web/api/js_self-profiling_api,0
 web/api/js_self-profiling_api/profile_content_and_format,0
-web/api/keyboard,0
+web/api/keyboard,1
 web/api/keyboard/getlayoutmap,0
-web/api/keyboard/lock,0
+web/api/keyboard/lock,1
 web/api/keyboard/unlock,0
-web/api/keyboard_api,0
+web/api/keyboard_api,1
 web/api/keyboardevent,0
 web/api/keyboardevent/altkey,0
 web/api/keyboardevent/charcode,0
@@ -5775,7 +5775,7 @@ web/api/languagemodel/contextwindow,0
 web/api/languagemodel/create_static,0
 web/api/languagemodel/destroy,0
 web/api/languagemodel/measurecontextusage,0
-web/api/languagemodel/prompt,0
+web/api/languagemodel/prompt,1
 web/api/languagemodel/promptstreaming,0
 web/api/largestcontentfulpaint,0
 web/api/largestcontentfulpaint/element,0
@@ -5798,7 +5798,7 @@ web/api/layoutshift/hadrecentinput,0
 web/api/layoutshift/lastinputtime,0
 web/api/layoutshift/sources,0
 web/api/layoutshift/tojson,0
-web/api/layoutshift/value,0
+web/api/layoutshift/value,1
 web/api/layoutshiftattribution,0
 web/api/layoutshiftattribution/currentrect,0
 web/api/layoutshiftattribution/node,0
@@ -6230,7 +6230,7 @@ web/api/navigateevent/destination,0
 web/api/navigateevent/downloadrequest,0
 web/api/navigateevent/formdata,0
 web/api/navigateevent/hashchange,0
-web/api/navigateevent/hasuavisualtransition,0
+web/api/navigateevent/hasuavisualtransition,1
 web/api/navigateevent/info,0
 web/api/navigateevent/intercept,0
 web/api/navigateevent/navigateevent,0
@@ -6838,7 +6838,7 @@ web/api/performancetiming/loadeventend,0
 web/api/performancetiming/loadeventstart,0
 web/api/performancetiming/navigationstart,0
 web/api/performancetiming/redirectend,0
-web/api/performancetiming/redirectstart,0
+web/api/performancetiming/redirectstart,1
 web/api/performancetiming/requeststart,0
 web/api/performancetiming/responseend,0
 web/api/performancetiming/responsestart,0
@@ -6965,7 +6965,7 @@ web/api/pressurerecord/tojson,0
 web/api/prioritized_task_scheduling_api,0
 web/api/private_state_token_api,0
 web/api/private_state_token_api/using,0
-web/api/processinginstruction,0
+web/api/processinginstruction,1
 web/api/processinginstruction/getattribute,0
 web/api/processinginstruction/getattributenames,0
 web/api/processinginstruction/hasattribute,0
@@ -7084,7 +7084,7 @@ web/api/readablebytestreamcontroller/enqueue,0
 web/api/readablebytestreamcontroller/error,0
 web/api/readablestream,0
 web/api/readablestream/cancel,0
-web/api/readablestream/from_static,0
+web/api/readablestream/from_static,1
 web/api/readablestream/getreader,0
 web/api/readablestream/locked,0
 web/api/readablestream/pipethrough,0
@@ -7200,7 +7200,7 @@ web/api/rsahashedimportparams,0
 web/api/rsahashedkeygenparams,0
 web/api/rsaoaepparams,0
 web/api/rsapssparams,0
-web/api/rtcaudiosourcestats,0
+web/api/rtcaudiosourcestats,1
 web/api/rtcaudiosourcestats/audiolevel,0
 web/api/rtcaudiosourcestats/id,0
 web/api/rtcaudiosourcestats/kind,0
@@ -7211,7 +7211,7 @@ web/api/rtcaudiosourcestats/trackidentifier,0
 web/api/rtcaudiosourcestats/type,0
 web/api/rtccertificate,0
 web/api/rtccertificate/expires,0
-web/api/rtccertificate/getfingerprints,0
+web/api/rtccertificate/getfingerprints,1
 web/api/rtccertificatestats,0
 web/api/rtccertificatestats/base64certificate,0
 web/api/rtccertificatestats/fingerprint,0
@@ -7653,16 +7653,16 @@ web/api/rtctransportstats/srtpcipher,0
 web/api/rtctransportstats/timestamp,0
 web/api/rtctransportstats/tlsversion,0
 web/api/rtctransportstats/type,0
-web/api/rtcvideosourcestats,0
-web/api/rtcvideosourcestats/frames,0
-web/api/rtcvideosourcestats/framespersecond,0
-web/api/rtcvideosourcestats/height,0
+web/api/rtcvideosourcestats,1
+web/api/rtcvideosourcestats/frames,1
+web/api/rtcvideosourcestats/framespersecond,1
+web/api/rtcvideosourcestats/height,1
 web/api/rtcvideosourcestats/id,0
 web/api/rtcvideosourcestats/kind,0
 web/api/rtcvideosourcestats/timestamp,0
 web/api/rtcvideosourcestats/trackidentifier,0
 web/api/rtcvideosourcestats/type,0
-web/api/rtcvideosourcestats/width,0
+web/api/rtcvideosourcestats/width,1
 web/api/sanitizer,0
 web/api/sanitizer/allowattribute,0
 web/api/sanitizer/allowelement,0
@@ -7773,7 +7773,7 @@ web/api/selection_api,0
 web/api/sensor,0
 web/api/sensor/activate_event,0
 web/api/sensor/activated,0
-web/api/sensor/error_event,0
+web/api/sensor/error_event,1
 web/api/sensor/hasreading,0
 web/api/sensor/reading_event,0
 web/api/sensor/start,0
@@ -8051,11 +8051,11 @@ web/api/storage_api,0
 web/api/storage_api/storage_quotas_and_eviction_criteria,0
 web/api/storageaccesshandle,0
 web/api/storageaccesshandle/broadcastchannel,0
-web/api/storageaccesshandle/caches,0
+web/api/storageaccesshandle/caches,1
 web/api/storageaccesshandle/createobjecturl,0
-web/api/storageaccesshandle/estimate,0
-web/api/storageaccesshandle/getdirectory,0
-web/api/storageaccesshandle/indexeddb,0
+web/api/storageaccesshandle/estimate,1
+web/api/storageaccesshandle/getdirectory,1
+web/api/storageaccesshandle/indexeddb,1
 web/api/storageaccesshandle/localstorage,0
 web/api/storageaccesshandle/locks,0
 web/api/storageaccesshandle/revokeobjecturl,0
@@ -9273,7 +9273,7 @@ web/api/vttcue/positionalign,0
 web/api/vttcue/region,0
 web/api/vttcue/size,0
 web/api/vttcue/snaptolines,0
-web/api/vttcue/text,0
+web/api/vttcue/text,1
 web/api/vttcue/vertical,0
 web/api/vttcue/vttcue,0
 web/api/vttregion,0
@@ -9707,7 +9707,7 @@ web/api/webtransportreceivestream/getstats,0
 web/api/webtransportsendgroup,0
 web/api/webtransportsendgroup/getstats,0
 web/api/webtransportsendstream,0
-web/api/webtransportsendstream/getstats,0
+web/api/webtransportsendstream/getstats,1
 web/api/webtransportsendstream/getwriter,0
 web/api/webtransportsendstream/sendorder,0
 web/api/webusb_api,0
@@ -9780,7 +9780,7 @@ web/api/window/event,0
 web/api/window/external,0
 web/api/window/fence,0
 web/api/window/fetch,0
-web/api/window/fetchlater,0
+web/api/window/fetchlater,1
 web/api/window/find,0
 web/api/window/focus,0
 web/api/window/focus_event,0
@@ -9920,7 +9920,7 @@ web/api/windowcontrolsoverlaygeometrychangeevent/visible,0
 web/api/windowcontrolsoverlaygeometrychangeevent/windowcontrolsoverlaygeometrychangeevent,0
 web/api/windowsharedstorage,0
 web/api/windowsharedstorage/run,0
-web/api/windowsharedstorage/selecturl,0
+web/api/windowsharedstorage/selecturl,1
 web/api/windowsharedstorage/worklet,0
 web/api/worker,0
 web/api/worker/error_event,0
@@ -10209,7 +10209,7 @@ web/api/xrray,0
 web/api/xrray/direction,0
 web/api/xrray/matrix,0
 web/api/xrray/origin,0
-web/api/xrray/xrray,0
+web/api/xrray/xrray,1
 web/api/xrreferencespace,0
 web/api/xrreferencespace/getoffsetreferencespace,0
 web/api/xrreferencespace/reset_event,0
