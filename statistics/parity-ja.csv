@@ -364,7 +364,7 @@ glossary/java,1
 glossary/javascript,1
 glossary/jitter,null
 glossary/jpeg,null
-glossary/json,2
+glossary/json,0
 glossary/json_type_representation,null
 glossary/just_in_time_compilation,0
 glossary/kebab_case,4
@@ -1801,7 +1801,7 @@ mozilla/add-ons/webextensions/differences_between_api_implementations,null
 mozilla/add-ons/webextensions/examples,null
 mozilla/add-ons/webextensions/extending_the_developer_tools,null
 mozilla/add-ons/webextensions/implement_a_settings_page,null
-mozilla/add-ons/webextensions/interact_with_the_clipboard,14
+mozilla/add-ons/webextensions/interact_with_the_clipboard,0
 mozilla/add-ons/webextensions/intercept_http_requests,6
 mozilla/add-ons/webextensions/internationalization,0
 mozilla/add-ons/webextensions/manifest.json,4
@@ -1879,7 +1879,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,8
 mozilla/firefox,0
-mozilla/firefox/experimental_features,14
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -1903,10 +1903,10 @@ mozilla/firefox/releases/111,0
 mozilla/firefox/releases/112,10
 mozilla/firefox/releases/113,0
 mozilla/firefox/releases/114,0
-mozilla/firefox/releases/115,13
+mozilla/firefox/releases/115,0
 mozilla/firefox/releases/116,0
 mozilla/firefox/releases/117,12
-mozilla/firefox/releases/118,13
+mozilla/firefox/releases/118,0
 mozilla/firefox/releases/119,0
 mozilla/firefox/releases/12,null
 mozilla/firefox/releases/120,0
@@ -1922,7 +1922,7 @@ mozilla/firefox/releases/129,8
 mozilla/firefox/releases/13,null
 mozilla/firefox/releases/130,11
 mozilla/firefox/releases/131,12
-mozilla/firefox/releases/132,13
+mozilla/firefox/releases/132,0
 mozilla/firefox/releases/133,11
 mozilla/firefox/releases/134,6
 mozilla/firefox/releases/135,9
