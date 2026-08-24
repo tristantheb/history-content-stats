@@ -4731,7 +4731,7 @@ web/api/html_dom_api,0
 web/api/html_dom_api/microtask_guide,0
 web/api/html_dom_api/microtask_guide/in_depth,0
 web/api/html_drag_and_drop_api,0
-web/api/html_drag_and_drop_api/drag_data_store,0
+web/api/html_drag_and_drop_api/drag_data_store,1
 web/api/html_drag_and_drop_api/drag_operations,0
 web/api/html_drag_and_drop_api/file_drag_and_drop,1
 web/api/html_drag_and_drop_api/kanban_board,0
@@ -4849,7 +4849,7 @@ web/api/htmldialogelement,0
 web/api/htmldialogelement/cancel_event,1
 web/api/htmldialogelement/close,0
 web/api/htmldialogelement/close_event,1
-web/api/htmldialogelement/closedby,0
+web/api/htmldialogelement/closedby,1
 web/api/htmldialogelement/open,0
 web/api/htmldialogelement/requestclose,1
 web/api/htmldialogelement/returnvalue,0
@@ -10397,7 +10397,7 @@ web/css/guides/custom_functions_and_mixins,0
 web/css/guides/custom_functions_and_mixins/using_custom_functions,0
 web/css/guides/custom_highlight_api,0
 web/css/guides/display,0
-web/css/guides/display/block_and_inline_layout,0
+web/css/guides/display/block_and_inline_layout,1
 web/css/guides/display/block_formatting_context,null
 web/css/guides/display/containing_block,null
 web/css/guides/display/flow_layout,0
