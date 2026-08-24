@@ -10804,7 +10804,7 @@ web/css/reference/properties/box-ordinal-group,null
 web/css/reference/properties/box-orient,null
 web/css/reference/properties/box-pack,null
 web/css/reference/properties/box-shadow,10
-web/css/reference/properties/box-sizing,4
+web/css/reference/properties/box-sizing,5
 web/css/reference/properties/break-after,null
 web/css/reference/properties/break-before,null
 web/css/reference/properties/break-inside,null
@@ -10814,7 +10814,7 @@ web/css/reference/properties/caret-animation,null
 web/css/reference/properties/caret-color,null
 web/css/reference/properties/caret-shape,null
 web/css/reference/properties/clear,null
-web/css/reference/properties/clip,3
+web/css/reference/properties/clip,4
 web/css/reference/properties/clip-path,null
 web/css/reference/properties/clip-rule,null
 web/css/reference/properties/color,null
