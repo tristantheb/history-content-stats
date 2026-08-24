@@ -10821,7 +10821,7 @@ web/css/reference/properties/color,null
 web/css/reference/properties/color-interpolation,null
 web/css/reference/properties/color-interpolation-filters,null
 web/css/reference/properties/color-scheme,null
-web/css/reference/properties/column-count,4
+web/css/reference/properties/column-count,5
 web/css/reference/properties/column-fill,4
 web/css/reference/properties/column-gap,null
 web/css/reference/properties/column-height,null
@@ -10863,7 +10863,7 @@ web/css/reference/properties/corner-start-start-shape,null
 web/css/reference/properties/corner-top-left-shape,null
 web/css/reference/properties/corner-top-right-shape,3
 web/css/reference/properties/corner-top-shape,null
-web/css/reference/properties/counter-increment,2
+web/css/reference/properties/counter-increment,3
 web/css/reference/properties/counter-reset,null
 web/css/reference/properties/counter-set,null
 web/css/reference/properties/cursor,null
@@ -11417,12 +11417,12 @@ web/css/reference/values/atan2,null
 web/css/reference/values/attr,7
 web/css/reference/values/axis,null
 web/css/reference/values/baseline-position,1
-web/css/reference/values/basic-shape,9
+web/css/reference/values/basic-shape,10
 web/css/reference/values/basic-shape/circle,7
 web/css/reference/values/basic-shape/ellipse,7
 web/css/reference/values/basic-shape/inset,5
 web/css/reference/values/basic-shape/path,9
-web/css/reference/values/basic-shape/polygon,7
+web/css/reference/values/basic-shape/polygon,8
 web/css/reference/values/basic-shape/rect,8
 web/css/reference/values/basic-shape/shape,8
 web/css/reference/values/basic-shape/xywh,8
