@@ -842,7 +842,7 @@ learn_web_development/core/text_styling/fundamentals,0
 learn_web_development/core/text_styling/styling_links,0
 learn_web_development/core/text_styling/styling_lists,0
 learn_web_development/core/text_styling/typesetting_a_homepage,0
-learn_web_development/core/text_styling/web_fonts,0
+learn_web_development/core/text_styling/web_fonts,1
 learn_web_development/core/version_control,0
 learn_web_development/educators,0
 learn_web_development/extensions,0
@@ -10580,7 +10580,7 @@ web/css/reference/at-rules/@counter-style/symbols,0
 web/css/reference/at-rules/@counter-style/system,0
 web/css/reference/at-rules/@custom-media,0
 web/css/reference/at-rules/@document,0
-web/css/reference/at-rules/@font-face,0
+web/css/reference/at-rules/@font-face,1
 web/css/reference/at-rules/@font-face/ascent-override,0
 web/css/reference/at-rules/@font-face/descent-override,0
 web/css/reference/at-rules/@font-face/font-display,0
