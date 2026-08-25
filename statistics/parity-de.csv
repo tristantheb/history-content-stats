@@ -3809,7 +3809,7 @@ web/api/element/append,0
 web/api/element/ariaactivedescendantelement,0
 web/api/element/ariaatomic,0
 web/api/element/ariaautocomplete,0
-web/api/element/ariabraillelabel,0
+web/api/element/ariabraillelabel,1
 web/api/element/ariabrailleroledescription,0
 web/api/element/ariabusy,0
 web/api/element/ariachecked,0
