@@ -842,7 +842,7 @@ learn_web_development/core/text_styling/fundamentals,2b4a2ad5d9ba084a9eaa2f92041
 learn_web_development/core/text_styling/styling_links,19c36d7464c349372e38f9b39bf3e7de73687397,Learn|Core Modules
 learn_web_development/core/text_styling/styling_lists,1b7c3c1e03f14c3878e4d8518b0f1a89bedfdc9c,Learn|Core Modules
 learn_web_development/core/text_styling/typesetting_a_homepage,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Learn|Core Modules
-learn_web_development/core/text_styling/web_fonts,1b7c3c1e03f14c3878e4d8518b0f1a89bedfdc9c,Learn|Core Modules
+learn_web_development/core/text_styling/web_fonts,916eb95f63de092d96ed1b1b13f3e2261739a8e2,Learn|Core Modules
 learn_web_development/core/version_control,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Learn|Core Modules
 learn_web_development/educators,974d1679140c0fe8051e468c63dd5ce4f76cd281,Learn
 learn_web_development/extensions,6f1b8165480af394b283e25a609d2eb176f8eb83,Learn|Extensions
@@ -10580,7 +10580,7 @@ web/css/reference/at-rules/@counter-style/symbols,f0094356d3acb19475dde45508dfea
 web/css/reference/at-rules/@counter-style/system,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@custom-media,6b0dc010f6c32a23b54aef95094cee9ec0e1b7b5,CSS|At-rules
 web/css/reference/at-rules/@document,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|At-rules
-web/css/reference/at-rules/@font-face,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|At-rules
+web/css/reference/at-rules/@font-face,916eb95f63de092d96ed1b1b13f3e2261739a8e2,CSS|At-rules
 web/css/reference/at-rules/@font-face/ascent-override,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/descent-override,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/font-display,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
