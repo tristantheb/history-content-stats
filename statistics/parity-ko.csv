@@ -708,7 +708,7 @@ learn_web_development/core/accessibility/test_your_skills/html,null
 learn_web_development/core/accessibility/test_your_skills/wai-aria,null
 learn_web_development/core/accessibility/tooling,null
 learn_web_development/core/accessibility/wai-aria_basics,null
-learn_web_development/core/accessibility/what_is_accessibility,14
+learn_web_development/core/accessibility/what_is_accessibility,15
 learn_web_development/core/css_layout,9
 learn_web_development/core/css_layout/flexbox,null
 learn_web_development/core/css_layout/floats,null
@@ -776,7 +776,7 @@ learn_web_development/core/scripting/variables,7
 learn_web_development/core/scripting/what_is_javascript,16
 learn_web_development/core/scripting/what_went_wrong,9
 learn_web_development/core/structuring_content,null
-learn_web_development/core/structuring_content/advanced_text_features,9
+learn_web_development/core/structuring_content/advanced_text_features,10
 learn_web_development/core/structuring_content/basic_html_syntax,null
 learn_web_development/core/structuring_content/creating_links,17
 learn_web_development/core/structuring_content/debugging_html,null
@@ -785,10 +785,10 @@ learn_web_development/core/structuring_content/forms_challenge,null
 learn_web_development/core/structuring_content/general_embedding_technologies,13
 learn_web_development/core/structuring_content/headings_and_paragraphs,null
 learn_web_development/core/structuring_content/html_forms,null
-learn_web_development/core/structuring_content/html_images,17
-learn_web_development/core/structuring_content/html_table_basics,14
+learn_web_development/core/structuring_content/html_images,18
+learn_web_development/core/structuring_content/html_table_basics,15
 learn_web_development/core/structuring_content/html_video_and_audio,null
-learn_web_development/core/structuring_content/including_vector_graphics_in_html,11
+learn_web_development/core/structuring_content/including_vector_graphics_in_html,12
 learn_web_development/core/structuring_content/lists,null
 learn_web_development/core/structuring_content/marking_up_a_letter,11
 learn_web_development/core/structuring_content/planet_data_table,10
@@ -873,7 +873,7 @@ learn_web_development/extensions/client-side_tools/overview,null
 learn_web_development/extensions/client-side_tools/package_management,null
 learn_web_development/extensions/forms,null
 learn_web_development/extensions/forms/advanced_form_styling,null
-learn_web_development/extensions/forms/basic_native_form_controls,10
+learn_web_development/extensions/forms/basic_native_form_controls,11
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
 learn_web_development/extensions/forms/form_validation,null
@@ -883,9 +883,9 @@ learn_web_development/extensions/forms/how_to_build_custom_form_controls/example
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_3,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_4,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_5,null
-learn_web_development/extensions/forms/how_to_structure_a_web_form,16
+learn_web_development/extensions/forms/how_to_structure_a_web_form,17
 learn_web_development/extensions/forms/how_to_structure_a_web_form/example,6
-learn_web_development/extensions/forms/html5_input_types,9
+learn_web_development/extensions/forms/html5_input_types,10
 learn_web_development/extensions/forms/html_forms_in_legacy_browsers,null
 learn_web_development/extensions/forms/other_form_controls,null
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,null
