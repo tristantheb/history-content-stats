@@ -801,7 +801,7 @@ learn_web_development/core/structuring_content/test_your_skills/advanced_html_te
 learn_web_development/core/structuring_content/test_your_skills/audio_and_video,null
 learn_web_development/core/structuring_content/test_your_skills/forms_and_buttons,null
 learn_web_development/core/structuring_content/test_your_skills/html_text_basics,null
-learn_web_development/core/structuring_content/test_your_skills/images,10
+learn_web_development/core/structuring_content/test_your_skills/images,11
 learn_web_development/core/structuring_content/test_your_skills/links,null
 learn_web_development/core/structuring_content/webpage_metadata,null
 learn_web_development/core/styling_basics,null
@@ -11711,7 +11711,7 @@ web/html/reference/elements/input/color,null
 web/html/reference/elements/input/date,null
 web/html/reference/elements/input/datetime-local,null
 web/html/reference/elements/input/email,null
-web/html/reference/elements/input/file,12
+web/html/reference/elements/input/file,13
 web/html/reference/elements/input/hidden,null
 web/html/reference/elements/input/image,null
 web/html/reference/elements/input/month,null
