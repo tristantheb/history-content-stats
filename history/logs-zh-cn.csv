@@ -2659,6 +2659,7 @@ web/api/element/replacechildren,no_hash_commit
 web/api/element/replacewith,no_hash_commit
 web/api/element/requestfullscreen,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/api/element/requestpointerlock,d0b23f3f26637aa405ee9ee0a0892fc6e9b742ef
+web/api/element/role,0b9c68dc63f9c6803cced8d9a76c31012d87b530
 web/api/element/scroll,no_hash_commit
 web/api/element/scroll_event,no_hash_commit
 web/api/element/scrollby,afcdfa050626bb7eb05ee693df8997020db9ff2e
