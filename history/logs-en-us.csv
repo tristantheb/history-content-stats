@@ -3809,7 +3809,7 @@ web/api/element/append,bd15d43260b7e72b1066c04d9d9f3b79129c619c,Web APIs
 web/api/element/ariaactivedescendantelement,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/element/ariaatomic,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/ariaautocomplete,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
-web/api/element/ariabraillelabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
+web/api/element/ariabraillelabel,913db38a206684e0e39db4b0443c62798be94e76,Web APIs
 web/api/element/ariabrailleroledescription,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/ariabusy,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/ariachecked,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
