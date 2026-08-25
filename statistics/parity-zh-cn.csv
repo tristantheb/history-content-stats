@@ -3971,7 +3971,7 @@ web/api/element/replacechildren,null
 web/api/element/replacewith,null
 web/api/element/requestfullscreen,9
 web/api/element/requestpointerlock,2
-web/api/element/role,null
+web/api/element/role,0
 web/api/element/scroll,null
 web/api/element/scroll_event,null
 web/api/element/scrollby,0
