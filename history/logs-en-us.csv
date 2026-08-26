@@ -11141,9 +11141,9 @@ web/css/reference/properties/scroll-target-group,bcbb4bd6a80292c0663b723d5466759
 web/css/reference/properties/scroll-timeline,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/scroll-timeline-axis,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/scroll-timeline-name,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/scrollbar-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/scrollbar-color,2e2dfb27a085911dd64aa4798d4a1071660c2397,CSS|Properties
 web/css/reference/properties/scrollbar-gutter,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/scrollbar-width,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/scrollbar-width,2e2dfb27a085911dd64aa4798d4a1071660c2397,CSS|Properties
 web/css/reference/properties/shape-image-threshold,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/shape-margin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/shape-outside,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11349,7 +11349,7 @@ web/css/reference/selectors/_doublecolon_-webkit-meter-suboptimum-value,6cf697a8
 web/css/reference/selectors/_doublecolon_-webkit-progress-bar,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-progress-inner-element,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-progress-value,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
-web/css/reference/selectors/_doublecolon_-webkit-scrollbar,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
+web/css/reference/selectors/_doublecolon_-webkit-scrollbar,2e2dfb27a085911dd64aa4798d4a1071660c2397,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-search-cancel-button,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-search-results-button,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-slider-runnable-track,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
