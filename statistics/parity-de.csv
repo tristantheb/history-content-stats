@@ -1947,7 +1947,7 @@ mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
-mozilla/firefox/releases/155,0
+mozilla/firefox/releases/155,1
 mozilla/firefox/releases/156,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -11141,9 +11141,9 @@ web/css/reference/properties/scroll-target-group,0
 web/css/reference/properties/scroll-timeline,0
 web/css/reference/properties/scroll-timeline-axis,0
 web/css/reference/properties/scroll-timeline-name,0
-web/css/reference/properties/scrollbar-color,1
+web/css/reference/properties/scrollbar-color,0
 web/css/reference/properties/scrollbar-gutter,0
-web/css/reference/properties/scrollbar-width,1
+web/css/reference/properties/scrollbar-width,0
 web/css/reference/properties/shape-image-threshold,0
 web/css/reference/properties/shape-margin,0
 web/css/reference/properties/shape-outside,0
@@ -11349,7 +11349,7 @@ web/css/reference/selectors/_doublecolon_-webkit-meter-suboptimum-value,0
 web/css/reference/selectors/_doublecolon_-webkit-progress-bar,0
 web/css/reference/selectors/_doublecolon_-webkit-progress-inner-element,0
 web/css/reference/selectors/_doublecolon_-webkit-progress-value,0
-web/css/reference/selectors/_doublecolon_-webkit-scrollbar,1
+web/css/reference/selectors/_doublecolon_-webkit-scrollbar,0
 web/css/reference/selectors/_doublecolon_-webkit-search-cancel-button,0
 web/css/reference/selectors/_doublecolon_-webkit-search-results-button,0
 web/css/reference/selectors/_doublecolon_-webkit-slider-runnable-track,0
