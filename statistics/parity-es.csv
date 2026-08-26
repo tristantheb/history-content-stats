@@ -11823,6 +11823,8 @@ web/html/reference/global_attributes/dir,null
 web/html/reference/global_attributes/draggable,null
 web/html/reference/global_attributes/enterkeyhint,null
 web/html/reference/global_attributes/exportparts,null
+web/html/reference/global_attributes/headingoffset,null
+web/html/reference/global_attributes/headingreset,null
 web/html/reference/global_attributes/hidden,null
 web/html/reference/global_attributes/id,null
 web/html/reference/global_attributes/inert,null
