@@ -1879,7 +1879,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,8
 mozilla/firefox,0
-mozilla/firefox/experimental_features,1
+mozilla/firefox/experimental_features,2
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -1945,7 +1945,7 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,2
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,2
+mozilla/firefox/releases/153,3
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,null
 mozilla/firefox/releases/156,null
@@ -11697,7 +11697,7 @@ web/html/reference/elements/frameset,1
 web/html/reference/elements/geolocation,0
 web/html/reference/elements/head,1
 web/html/reference/elements/header,1
-web/html/reference/elements/heading_elements,1
+web/html/reference/elements/heading_elements,2
 web/html/reference/elements/hgroup,0
 web/html/reference/elements/hr,1
 web/html/reference/elements/html,1
@@ -11810,7 +11810,7 @@ web/html/reference/elements/var,0
 web/html/reference/elements/video,0
 web/html/reference/elements/wbr,0
 web/html/reference/elements/xmp,1
-web/html/reference/global_attributes,0
+web/html/reference/global_attributes,1
 web/html/reference/global_attributes/accesskey,2
 web/html/reference/global_attributes/anchor,3
 web/html/reference/global_attributes/autocapitalize,1
@@ -11823,6 +11823,8 @@ web/html/reference/global_attributes/dir,1
 web/html/reference/global_attributes/draggable,1
 web/html/reference/global_attributes/enterkeyhint,1
 web/html/reference/global_attributes/exportparts,3
+web/html/reference/global_attributes/headingoffset,null
+web/html/reference/global_attributes/headingreset,null
 web/html/reference/global_attributes/hidden,3
 web/html/reference/global_attributes/id,4
 web/html/reference/global_attributes/inert,0
