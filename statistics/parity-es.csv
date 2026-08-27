@@ -443,6 +443,7 @@ glossary/operand,null
 glossary/operator,null
 glossary/origin,null
 glossary/ota,null
+glossary/out_of_order_patching,null
 glossary/owasp,null
 glossary/p2p,null
 glossary/pac,null
@@ -838,7 +839,7 @@ learn_web_development/core/styling_basics/test_your_skills/values,null
 learn_web_development/core/styling_basics/values_and_units,null
 learn_web_development/core/styling_basics/what_is_css,null
 learn_web_development/core/text_styling,null
-learn_web_development/core/text_styling/fundamentals,0
+learn_web_development/core/text_styling/fundamentals,1
 learn_web_development/core/text_styling/styling_links,null
 learn_web_development/core/text_styling/styling_lists,null
 learn_web_development/core/text_styling/typesetting_a_homepage,7
@@ -877,7 +878,7 @@ learn_web_development/extensions/forms/basic_native_form_controls,null
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
 learn_web_development/extensions/forms/form_validation,null
-learn_web_development/extensions/forms/how_to_build_custom_form_controls,0
+learn_web_development/extensions/forms/how_to_build_custom_form_controls,1
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_3,null
@@ -976,7 +977,7 @@ learn_web_development/getting_started/soft_skills,1
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,null
 learn_web_development/getting_started/soft_skills/finding_a_job,null
 learn_web_development/getting_started/soft_skills/research_and_learning,null
-learn_web_development/getting_started/soft_skills/workflows_and_processes,4
+learn_web_development/getting_started/soft_skills/workflows_and_processes,5
 learn_web_development/getting_started/web_standards,1
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,4
 learn_web_development/getting_started/web_standards/how_the_web_works,null
@@ -1047,11 +1048,11 @@ mdn/writing_guidelines,1
 mdn/writing_guidelines/attrib_copyright_license,0
 mdn/writing_guidelines/changelog,0
 mdn/writing_guidelines/code_style_guide,0
-mdn/writing_guidelines/code_style_guide/css,0
+mdn/writing_guidelines/code_style_guide/css,1
 mdn/writing_guidelines/code_style_guide/html,0
-mdn/writing_guidelines/code_style_guide/javascript,0
+mdn/writing_guidelines/code_style_guide/javascript,1
 mdn/writing_guidelines/code_style_guide/shell,0
-mdn/writing_guidelines/criteria_for_inclusion,0
+mdn/writing_guidelines/criteria_for_inclusion,1
 mdn/writing_guidelines/experimental_deprecated_obsolete,0
 mdn/writing_guidelines/howto,0
 mdn/writing_guidelines/howto/creating_moving_deleting,0
@@ -1066,9 +1067,9 @@ mdn/writing_guidelines/howto/retiring_content,0
 mdn/writing_guidelines/howto/retiring_content/retired_content,1
 mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,0
 mdn/writing_guidelines/howto/write_an_api_reference,0
-mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,0
+mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,1
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,0
-mdn/writing_guidelines/learning_content,0
+mdn/writing_guidelines/learning_content,1
 mdn/writing_guidelines/page_structures,0
 mdn/writing_guidelines/page_structures/banners_and_notices,0
 mdn/writing_guidelines/page_structures/code_examples,2
@@ -1077,7 +1078,7 @@ mdn/writing_guidelines/page_structures/feature_status,1
 mdn/writing_guidelines/page_structures/links,0
 mdn/writing_guidelines/page_structures/live_samples,0
 mdn/writing_guidelines/page_structures/macros,0
-mdn/writing_guidelines/page_structures/macros/commonly_used_macros,0
+mdn/writing_guidelines/page_structures/macros/commonly_used_macros,1
 mdn/writing_guidelines/page_structures/macros/other,0
 mdn/writing_guidelines/page_structures/page_types,0
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,0
@@ -1095,7 +1096,7 @@ mdn/writing_guidelines/page_structures/page_types/glossary_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,0
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,0
-mdn/writing_guidelines/page_structures/page_types/page_type_key,0
+mdn/writing_guidelines/page_structures/page_types/page_type_key,1
 mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,0
 mdn/writing_guidelines/page_structures/polyfills,0
 mdn/writing_guidelines/page_structures/sidebars,0
@@ -3885,7 +3886,7 @@ web/api/element/compositionupdate_event,null
 web/api/element/computedstylemap,null
 web/api/element/contentvisibilityautostatechange_event,null
 web/api/element/contextmenu_event,null
-web/api/element/copy_event,5
+web/api/element/copy_event,6
 web/api/element/currentcsszoom,null
 web/api/element/customelementregistry,null
 web/api/element/cut_event,null
@@ -4110,7 +4111,7 @@ web/api/event/composed,null
 web/api/event/composedpath,null
 web/api/event/currenttarget,null
 web/api/event/defaultprevented,null
-web/api/event/event,5
+web/api/event/event,6
 web/api/event/eventphase,null
 web/api/event/explicitoriginaltarget,null
 web/api/event/initevent,null
@@ -4647,7 +4648,7 @@ web/api/hashchangeevent,null
 web/api/hashchangeevent/hashchangeevent,null
 web/api/hashchangeevent/newurl,null
 web/api/hashchangeevent/oldurl,null
-web/api/headers,7
+web/api/headers,8
 web/api/headers/append,null
 web/api/headers/delete,null
 web/api/headers/entries,null
@@ -5418,6 +5419,7 @@ web/api/htmltablesectionelement/rows,null
 web/api/htmltablesectionelement/valign,null
 web/api/htmltemplateelement,null
 web/api/htmltemplateelement/content,null
+web/api/htmltemplateelement/htmlfor,null
 web/api/htmltemplateelement/shadowrootclonable,null
 web/api/htmltemplateelement/shadowrootcustomelementregistry,null
 web/api/htmltemplateelement/shadowrootdelegatesfocus,null
@@ -7472,7 +7474,7 @@ web/api/rtcoutboundrtpstreamstats/totalencodetime,null
 web/api/rtcoutboundrtpstreamstats/totalpacketsenddelay,null
 web/api/rtcoutboundrtpstreamstats/transportid,null
 web/api/rtcoutboundrtpstreamstats/type,null
-web/api/rtcpeerconnection,9
+web/api/rtcpeerconnection,10
 web/api/rtcpeerconnection/addicecandidate,null
 web/api/rtcpeerconnection/addstream,null
 web/api/rtcpeerconnection/addstream_event,null
@@ -10531,7 +10533,7 @@ web/css/guides/text/whitespace,null
 web/css/guides/text/wrapping_breaking_text,null
 web/css/guides/text_decoration,null
 web/css/guides/text_decoration/text_shadows,null
-web/css/guides/transforms,5
+web/css/guides/transforms,6
 web/css/guides/transforms/using,null
 web/css/guides/transitions,null
 web/css/guides/transitions/using,null
@@ -10879,7 +10881,7 @@ web/css/reference/properties/field-sizing,null
 web/css/reference/properties/fill,null
 web/css/reference/properties/fill-opacity,null
 web/css/reference/properties/fill-rule,null
-web/css/reference/properties/filter,3
+web/css/reference/properties/filter,4
 web/css/reference/properties/flex,null
 web/css/reference/properties/flex-basis,null
 web/css/reference/properties/flex-direction,null

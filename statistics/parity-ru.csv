@@ -443,6 +443,7 @@ glossary/operand,null
 glossary/operator,null
 glossary/origin,7
 glossary/ota,null
+glossary/out_of_order_patching,null
 glossary/owasp,null
 glossary/p2p,null
 glossary/pac,null
@@ -2302,7 +2303,7 @@ web/api/angle_instanced_arrays/drawelementsinstancedangle,null
 web/api/angle_instanced_arrays/vertexattribdivisorangle,null
 web/api/animation,null
 web/api/animation/animation,null
-web/api/animation/cancel,1
+web/api/animation/cancel,2
 web/api/animation/cancel_event,null
 web/api/animation/commitstyles,null
 web/api/animation/currenttime,null
@@ -2545,7 +2546,7 @@ web/api/backgroundfetchregistration,7
 web/api/backgroundfetchregistration/abort,4
 web/api/backgroundfetchregistration/downloaded,3
 web/api/backgroundfetchregistration/downloadtotal,3
-web/api/backgroundfetchregistration/failurereason,2
+web/api/backgroundfetchregistration/failurereason,3
 web/api/backgroundfetchregistration/id,2
 web/api/backgroundfetchregistration/match,9
 web/api/backgroundfetchregistration/matchall,8
@@ -2943,7 +2944,7 @@ web/api/console/table_static,null
 web/api/console/time_static,null
 web/api/console/timeend_static,null
 web/api/console/timelog_static,null
-web/api/console/timestamp_static,6
+web/api/console/timestamp_static,7
 web/api/console/trace_static,null
 web/api/console/warn_static,null
 web/api/console_api,null
@@ -5418,6 +5419,7 @@ web/api/htmltablesectionelement/rows,null
 web/api/htmltablesectionelement/valign,null
 web/api/htmltemplateelement,null
 web/api/htmltemplateelement/content,null
+web/api/htmltemplateelement/htmlfor,null
 web/api/htmltemplateelement/shadowrootclonable,null
 web/api/htmltemplateelement/shadowrootcustomelementregistry,null
 web/api/htmltemplateelement/shadowrootdelegatesfocus,null

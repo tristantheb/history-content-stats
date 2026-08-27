@@ -10,7 +10,7 @@ games/techniques,3
 games/techniques/2d_collision_detection,10
 games/techniques/3d_collision_detection,8
 games/techniques/3d_collision_detection/bounding_volume_collision_detection_with_three.js,null
-games/techniques/3d_on_the_web,5
+games/techniques/3d_on_the_web,6
 games/techniques/3d_on_the_web/basic_theory,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_a-frame,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_babylon.js,null
@@ -25,7 +25,7 @@ games/techniques/audio_for_web_games,null
 games/techniques/control_mechanisms,2
 games/techniques/control_mechanisms/desktop_with_gamepad,null
 games/techniques/control_mechanisms/desktop_with_mouse_and_keyboard,null
-games/techniques/control_mechanisms/mobile_touch,5
+games/techniques/control_mechanisms/mobile_touch,6
 games/techniques/control_mechanisms/other,null
 games/techniques/controls_gamepad_api,0
 games/techniques/crisp_pixel_art_look,null
@@ -49,7 +49,7 @@ games/tutorials/2d_breakout_game_phaser/load_the_assets_and_print_them_on_screen
 games/tutorials/2d_breakout_game_phaser/move_the_ball,0
 games/tutorials/2d_breakout_game_phaser/physics,0
 games/tutorials/2d_breakout_game_phaser/player_paddle_and_controls,null
-games/tutorials/2d_breakout_game_phaser/randomizing_gameplay,0
+games/tutorials/2d_breakout_game_phaser/randomizing_gameplay,1
 games/tutorials/2d_breakout_game_phaser/scaling,0
 games/tutorials/2d_breakout_game_phaser/the_score,0
 games/tutorials/2d_breakout_game_phaser/win_the_game,0
@@ -98,7 +98,7 @@ glossary/authenticator,2
 glossary/bandwidth,2
 glossary/base64,7
 glossary/baseline,1
-glossary/baseline/compatibility,4
+glossary/baseline/compatibility,5
 glossary/baseline/typography,5
 glossary/bcp_47_language_tag,null
 glossary/beacon,2
@@ -206,7 +206,7 @@ glossary/delta,1
 glossary/denial_of_service,2
 glossary/deno,1
 glossary/deserialization,2
-glossary/developer_tools,3
+glossary/developer_tools,4
 glossary/device_pixel,1
 glossary/digital_certificate,1
 glossary/digital_signature,1
@@ -443,6 +443,7 @@ glossary/operand,1
 glossary/operator,1
 glossary/origin,7
 glossary/ota,2
+glossary/out_of_order_patching,null
 glossary/owasp,1
 glossary/p2p,1
 glossary/pac,2
@@ -538,7 +539,7 @@ glossary/salt,1
 glossary/same-origin_policy,5
 glossary/scm,1
 glossary/scope,2
-glossary/screen_reader,4
+glossary/screen_reader,5
 glossary/script-supporting_element,2
 glossary/scroll_boundary,3
 glossary/scroll_chaining,3
@@ -574,7 +575,7 @@ glossary/smoke_test,2
 glossary/smpte,1
 glossary/smtp,2
 glossary/snake_case,2
-glossary/snap_positions,4
+glossary/snap_positions,5
 glossary/soap,1
 glossary/social_engineering,0
 glossary/soft_navigation,null
@@ -773,7 +774,7 @@ learn_web_development/core/scripting/test_your_skills/strings,null
 learn_web_development/core/scripting/test_your_skills/variables,null
 learn_web_development/core/scripting/useful_string_methods,0
 learn_web_development/core/scripting/variables,null
-learn_web_development/core/scripting/what_is_javascript,1
+learn_web_development/core/scripting/what_is_javascript,2
 learn_web_development/core/scripting/what_went_wrong,null
 learn_web_development/core/structuring_content,14
 learn_web_development/core/structuring_content/advanced_text_features,9
@@ -832,10 +833,10 @@ learn_web_development/core/styling_basics/test_your_skills/box_model,null
 learn_web_development/core/styling_basics/test_your_skills/cascade,null
 learn_web_development/core/styling_basics/test_your_skills/images,null
 learn_web_development/core/styling_basics/test_your_skills/overflow,null
-learn_web_development/core/styling_basics/test_your_skills/selectors,0
+learn_web_development/core/styling_basics/test_your_skills/selectors,1
 learn_web_development/core/styling_basics/test_your_skills/sizing,null
 learn_web_development/core/styling_basics/test_your_skills/values,null
-learn_web_development/core/styling_basics/values_and_units,16
+learn_web_development/core/styling_basics/values_and_units,17
 learn_web_development/core/styling_basics/what_is_css,6
 learn_web_development/core/text_styling,null
 learn_web_development/core/text_styling/fundamentals,null
@@ -860,13 +861,13 @@ learn_web_development/extensions/async_js/introducing,null
 learn_web_development/extensions/async_js/introducing_workers,null
 learn_web_development/extensions/async_js/promises,7
 learn_web_development/extensions/async_js/sequencing_animations,null
-learn_web_development/extensions/client-side_apis,4
+learn_web_development/extensions/client-side_apis,5
 learn_web_development/extensions/client-side_apis/client-side_storage,6
 learn_web_development/extensions/client-side_apis/drawing_graphics,14
 learn_web_development/extensions/client-side_apis/introduction,6
 learn_web_development/extensions/client-side_apis/third_party_apis,8
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,16
-learn_web_development/extensions/client-side_tools,2
+learn_web_development/extensions/client-side_tools,3
 learn_web_development/extensions/client-side_tools/deployment,1
 learn_web_development/extensions/client-side_tools/introducing_complete_toolchain,null
 learn_web_development/extensions/client-side_tools/overview,null
@@ -890,7 +891,7 @@ learn_web_development/extensions/forms/html_forms_in_legacy_browsers,null
 learn_web_development/extensions/forms/other_form_controls,null
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,null
 learn_web_development/extensions/forms/sending_forms_through_javascript,4
-learn_web_development/extensions/forms/styling_web_forms,19
+learn_web_development/extensions/forms/styling_web_forms,20
 learn_web_development/extensions/forms/ui_pseudo-classes,null
 learn_web_development/extensions/forms/user_input_methods,null
 learn_web_development/extensions/forms/your_first_form,null
@@ -935,7 +936,7 @@ learn_web_development/extensions/server-side/express_nodejs/displaying_data/book
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/book_list_page,null
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/bookinstance_detail_page_and_challenge,null
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/bookinstance_list_page,null
-learn_web_development/extensions/server-side/express_nodejs/displaying_data/date_formatting_using_moment,2
+learn_web_development/extensions/server-side/express_nodejs/displaying_data/date_formatting_using_moment,3
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/genre_detail_page,null
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/home_page,null
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/locallibrary_base_template,null
@@ -958,8 +959,8 @@ learn_web_development/extensions/server-side/first_steps/introduction,null
 learn_web_development/extensions/server-side/first_steps/web_frameworks,null
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
-learn_web_development/extensions/testing,3
-learn_web_development/extensions/testing/automated_testing,10
+learn_web_development/extensions/testing,4
+learn_web_development/extensions/testing/automated_testing,11
 learn_web_development/extensions/testing/feature_detection,13
 learn_web_development/extensions/testing/html_and_css,19
 learn_web_development/extensions/testing/introduction,9
@@ -1047,7 +1048,7 @@ mdn/writing_guidelines,null
 mdn/writing_guidelines/attrib_copyright_license,null
 mdn/writing_guidelines/changelog,null
 mdn/writing_guidelines/code_style_guide,8
-mdn/writing_guidelines/code_style_guide/css,9
+mdn/writing_guidelines/code_style_guide/css,10
 mdn/writing_guidelines/code_style_guide/html,null
 mdn/writing_guidelines/code_style_guide/javascript,null
 mdn/writing_guidelines/code_style_guide/shell,1
@@ -1066,7 +1067,7 @@ mdn/writing_guidelines/howto/retiring_content,null
 mdn/writing_guidelines/howto/retiring_content/retired_content,null
 mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,null
 mdn/writing_guidelines/howto/write_an_api_reference,null
-mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,18
+mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,19
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,8
 mdn/writing_guidelines/learning_content,null
 mdn/writing_guidelines/page_structures,1
@@ -1077,7 +1078,7 @@ mdn/writing_guidelines/page_structures/feature_status,13
 mdn/writing_guidelines/page_structures/links,null
 mdn/writing_guidelines/page_structures/live_samples,null
 mdn/writing_guidelines/page_structures/macros,null
-mdn/writing_guidelines/page_structures/macros/commonly_used_macros,2
+mdn/writing_guidelines/page_structures/macros/commonly_used_macros,3
 mdn/writing_guidelines/page_structures/macros/other,2
 mdn/writing_guidelines/page_structures/page_types,null
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,null
@@ -1460,7 +1461,7 @@ mozilla/add-ons/webextensions/api/notifications/templatetype,3
 mozilla/add-ons/webextensions/api/notifications/update,3
 mozilla/add-ons/webextensions/api/omnibox,1
 mozilla/add-ons/webextensions/api/omnibox/ondeletesuggestion,1
-mozilla/add-ons/webextensions/api/omnibox/oninputcancelled,2
+mozilla/add-ons/webextensions/api/omnibox/oninputcancelled,3
 mozilla/add-ons/webextensions/api/omnibox/oninputchanged,2
 mozilla/add-ons/webextensions/api/omnibox/oninputentered,3
 mozilla/add-ons/webextensions/api/omnibox/oninputentereddisposition,1
@@ -1738,7 +1739,7 @@ mozilla/add-ons/webextensions/api/webnavigation/ontabreplaced,4
 mozilla/add-ons/webextensions/api/webnavigation/transitionqualifier,2
 mozilla/add-ons/webextensions/api/webnavigation/transitiontype,2
 mozilla/add-ons/webextensions/api/webrequest,3
-mozilla/add-ons/webextensions/api/webrequest/blockingresponse,3
+mozilla/add-ons/webextensions/api/webrequest/blockingresponse,4
 mozilla/add-ons/webextensions/api/webrequest/certificateinfo,3
 mozilla/add-ons/webextensions/api/webrequest/filterresponsedata,1
 mozilla/add-ons/webextensions/api/webrequest/getsecurityinfo,3
@@ -1913,10 +1914,10 @@ mozilla/firefox/releases/120,15
 mozilla/firefox/releases/121,13
 mozilla/firefox/releases/122,10
 mozilla/firefox/releases/123,9
-mozilla/firefox/releases/124,5
-mozilla/firefox/releases/125,18
+mozilla/firefox/releases/124,6
+mozilla/firefox/releases/125,20
 mozilla/firefox/releases/126,13
-mozilla/firefox/releases/127,16
+mozilla/firefox/releases/127,17
 mozilla/firefox/releases/128,null
 mozilla/firefox/releases/129,null
 mozilla/firefox/releases/13,null
@@ -2178,7 +2179,7 @@ web/accessibility/aria/reference/roles/landmark_role,null
 web/accessibility/aria/reference/roles/link_role,null
 web/accessibility/aria/reference/roles/list_role,4
 web/accessibility/aria/reference/roles/listbox_role,6
-web/accessibility/aria/reference/roles/listitem_role,4
+web/accessibility/aria/reference/roles/listitem_role,5
 web/accessibility/aria/reference/roles/log_role,null
 web/accessibility/aria/reference/roles/main_role,null
 web/accessibility/aria/reference/roles/mark_role,null
@@ -2237,7 +2238,7 @@ web/accessibility/guides/accessibility_and_spatial_patterns,4
 web/accessibility/guides/accessible_web_applications_and_widgets,3
 web/accessibility/guides/browsing_safely,4
 web/accessibility/guides/cognitive_accessibility,6
-web/accessibility/guides/colors_and_luminance,15
+web/accessibility/guides/colors_and_luminance,16
 web/accessibility/guides/information_for_web_authors,3
 web/accessibility/guides/keyboard-navigable_javascript_widgets,5
 web/accessibility/guides/mobile_accessibility_checklist,6
@@ -2302,7 +2303,7 @@ web/api/angle_instanced_arrays/drawelementsinstancedangle,null
 web/api/angle_instanced_arrays/vertexattribdivisorangle,null
 web/api/animation,null
 web/api/animation/animation,0
-web/api/animation/cancel,1
+web/api/animation/cancel,2
 web/api/animation/cancel_event,null
 web/api/animation/commitstyles,null
 web/api/animation/currenttime,null
@@ -2448,7 +2449,7 @@ web/api/audionode/disconnect,null
 web/api/audionode/numberofinputs,null
 web/api/audionode/numberofoutputs,null
 web/api/audioparam,null
-web/api/audioparam/cancelandholdattime,0
+web/api/audioparam/cancelandholdattime,1
 web/api/audioparam/cancelscheduledvalues,null
 web/api/audioparam/defaultvalue,0
 web/api/audioparam/exponentialramptovalueattime,null
@@ -2780,7 +2781,7 @@ web/api/canvasrenderingcontext2d/globalalpha,5
 web/api/canvasrenderingcontext2d/globalcompositeoperation,11
 web/api/canvasrenderingcontext2d/imagesmoothingenabled,3
 web/api/canvasrenderingcontext2d/imagesmoothingquality,3
-web/api/canvasrenderingcontext2d/iscontextlost,1
+web/api/canvasrenderingcontext2d/iscontextlost,2
 web/api/canvasrenderingcontext2d/ispointinpath,3
 web/api/canvasrenderingcontext2d/ispointinstroke,2
 web/api/canvasrenderingcontext2d/lang,null
@@ -3602,7 +3603,7 @@ web/api/document/xmlversion,1
 web/api/document_object_model,6
 web/api/document_object_model/anatomy_of_the_dom,null
 web/api/document_object_model/building_and_updating_the_dom_tree,null
-web/api/document_object_model/events,0
+web/api/document_object_model/events,1
 web/api/document_object_model/reflected_attributes,null
 web/api/document_object_model/selection_and_traversal_on_the_dom_tree,null
 web/api/document_picture-in-picture_api,5
@@ -3796,7 +3797,7 @@ web/api/editcontext/updateselectionbounds,null
 web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,11
+web/api/element,13
 web/api/element/activeviewtransition,null
 web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
@@ -4094,7 +4095,7 @@ web/api/encodedvideochunk/timestamp,null
 web/api/encodedvideochunk/type,null
 web/api/encoding_api,null
 web/api/encoding_api/encodings,null
-web/api/encrypted_media_extensions_api,2
+web/api/encrypted_media_extensions_api,3
 web/api/errorevent,null
 web/api/errorevent/colno,1
 web/api/errorevent/error,1
@@ -4110,7 +4111,7 @@ web/api/event/composed,null
 web/api/event/composedpath,null
 web/api/event/currenttarget,2
 web/api/event/defaultprevented,null
-web/api/event/event,0
+web/api/event/event,1
 web/api/event/eventphase,null
 web/api/event/explicitoriginaltarget,0
 web/api/event/initevent,2
@@ -4190,14 +4191,14 @@ web/api/federatedcredential/federatedcredential,null
 web/api/federatedcredential/protocol,null
 web/api/federatedcredential/provider,null
 web/api/federatedcredentialinit,null
-web/api/fence,1
-web/api/fence/getnestedconfigs,1
-web/api/fence/reportevent,3
-web/api/fence/setreporteventdataforautomaticbeacons,3
-web/api/fenced_frame_api,12
+web/api/fence,2
+web/api/fence/getnestedconfigs,2
+web/api/fence/reportevent,4
+web/api/fence/setreporteventdataforautomaticbeacons,4
+web/api/fenced_frame_api,13
 web/api/fenced_frame_api/communication_with_embedded_frames,2
-web/api/fencedframeconfig,5
-web/api/fencedframeconfig/setsharedstoragecontext,2
+web/api/fencedframeconfig,6
+web/api/fencedframeconfig/setsharedstoragecontext,3
 web/api/fetch_api,1
 web/api/fetch_api/using_deferred_fetch,0
 web/api/fetch_api/using_fetch,null
@@ -4242,14 +4243,14 @@ web/api/filereader/readasarraybuffer,0
 web/api/filereader/readasbinarystring,2
 web/api/filereader/readasdataurl,3
 web/api/filereader/readastext,2
-web/api/filereader/readystate,0
+web/api/filereader/readystate,1
 web/api/filereader/result,1
-web/api/filereadersync,0
+web/api/filereadersync,1
 web/api/filereadersync/filereadersync,0
-web/api/filereadersync/readasarraybuffer,1
-web/api/filereadersync/readasbinarystring,2
-web/api/filereadersync/readasdataurl,2
-web/api/filereadersync/readastext,1
+web/api/filereadersync/readasarraybuffer,2
+web/api/filereadersync/readasbinarystring,3
+web/api/filereadersync/readasdataurl,3
+web/api/filereadersync/readastext,2
 web/api/filesystem,null
 web/api/filesystem/name,null
 web/api/filesystem/root,null
@@ -4289,7 +4290,7 @@ web/api/filesystemfilehandle/createsyncaccesshandle,3
 web/api/filesystemfilehandle/createwritable,3
 web/api/filesystemfilehandle/getfile,0
 web/api/filesystemhandle,0
-web/api/filesystemhandle/issameentry,0
+web/api/filesystemhandle/issameentry,1
 web/api/filesystemhandle/kind,0
 web/api/filesystemhandle/name,0
 web/api/filesystemhandle/querypermission,2
@@ -4658,7 +4659,7 @@ web/api/headers/has,1
 web/api/headers/headers,1
 web/api/headers/keys,null
 web/api/headers/set,2
-web/api/headers/values,0
+web/api/headers/values,1
 web/api/hid,0
 web/api/hid/connect_event,2
 web/api/hid/disconnect_event,2
@@ -4922,11 +4923,11 @@ web/api/htmlembedelement/height,1
 web/api/htmlembedelement/src,0
 web/api/htmlembedelement/type,2
 web/api/htmlembedelement/width,1
-web/api/htmlfencedframeelement,5
-web/api/htmlfencedframeelement/allow,3
-web/api/htmlfencedframeelement/config,4
-web/api/htmlfencedframeelement/height,2
-web/api/htmlfencedframeelement/width,2
+web/api/htmlfencedframeelement,6
+web/api/htmlfencedframeelement/allow,4
+web/api/htmlfencedframeelement/config,5
+web/api/htmlfencedframeelement/height,3
+web/api/htmlfencedframeelement/width,3
 web/api/htmlfieldsetelement,null
 web/api/htmlfieldsetelement/checkvalidity,null
 web/api/htmlfieldsetelement/disabled,null
@@ -5104,8 +5105,8 @@ web/api/htmlinputelement/willvalidate,null
 web/api/htmllabelelement,1
 web/api/htmllabelelement/control,1
 web/api/htmllabelelement/form,3
-web/api/htmllabelelement/htmlfor,2
-web/api/htmllegendelement,0
+web/api/htmllabelelement/htmlfor,3
+web/api/htmllegendelement,1
 web/api/htmllegendelement/form,null
 web/api/htmllielement,null
 web/api/htmllielement/value,0
@@ -5418,6 +5419,7 @@ web/api/htmltablesectionelement/rows,2
 web/api/htmltablesectionelement/valign,3
 web/api/htmltemplateelement,null
 web/api/htmltemplateelement/content,null
+web/api/htmltemplateelement/htmlfor,null
 web/api/htmltemplateelement/shadowrootclonable,null
 web/api/htmltemplateelement/shadowrootcustomelementregistry,null
 web/api/htmltemplateelement/shadowrootdelegatesfocus,null
@@ -5661,7 +5663,7 @@ web/api/imagetracklist/selectedtrack,null
 web/api/indexeddb_api,0
 web/api/indexeddb_api/basic_terminology,null
 web/api/indexeddb_api/checking_when_a_deadline_is_due,null
-web/api/indexeddb_api/using_indexeddb,0
+web/api/indexeddb_api/using_indexeddb,1
 web/api/ink,null
 web/api/ink/requestpresenter,null
 web/api/ink_api,null
@@ -6224,7 +6226,7 @@ web/api/namednodemap/removenameditem,null
 web/api/namednodemap/removenameditemns,null
 web/api/namednodemap/setnameditem,null
 web/api/namednodemap/setnameditemns,null
-web/api/navigateevent,6
+web/api/navigateevent,7
 web/api/navigateevent/canintercept,2
 web/api/navigateevent/destination,2
 web/api/navigateevent/downloadrequest,3
@@ -6232,11 +6234,11 @@ web/api/navigateevent/formdata,2
 web/api/navigateevent/hashchange,3
 web/api/navigateevent/hasuavisualtransition,3
 web/api/navigateevent/info,3
-web/api/navigateevent/intercept,9
-web/api/navigateevent/navigateevent,4
+web/api/navigateevent/intercept,10
+web/api/navigateevent/navigateevent,5
 web/api/navigateevent/navigationtype,4
-web/api/navigateevent/scroll,2
-web/api/navigateevent/signal,4
+web/api/navigateevent/scroll,3
+web/api/navigateevent/signal,5
 web/api/navigateevent/sourceelement,null
 web/api/navigateevent/userinitiated,4
 web/api/navigation,4
@@ -6385,7 +6387,7 @@ web/api/ndefreader,1
 web/api/ndefreader/ndefreader,1
 web/api/ndefreader/reading_event,null
 web/api/ndefreader/readingerror_event,null
-web/api/ndefreader/scan,2
+web/api/ndefreader/scan,3
 web/api/ndefreader/write,5
 web/api/ndefreadingevent,null
 web/api/ndefreadingevent/message,null
@@ -6455,7 +6457,7 @@ web/api/nodelist/foreach,null
 web/api/nodelist/item,null
 web/api/nodelist/keys,null
 web/api/nodelist/length,0
-web/api/nodelist/values,2
+web/api/nodelist/values,3
 web/api/notification,6
 web/api/notification/actions,2
 web/api/notification/badge,0
@@ -6965,7 +6967,7 @@ web/api/pressurerecord/tojson,null
 web/api/prioritized_task_scheduling_api,null
 web/api/private_state_token_api,null
 web/api/private_state_token_api/using,null
-web/api/processinginstruction,8
+web/api/processinginstruction,9
 web/api/processinginstruction/getattribute,null
 web/api/processinginstruction/getattributenames,null
 web/api/processinginstruction/hasattribute,null
@@ -7472,7 +7474,7 @@ web/api/rtcoutboundrtpstreamstats/totalencodetime,null
 web/api/rtcoutboundrtpstreamstats/totalpacketsenddelay,null
 web/api/rtcoutboundrtpstreamstats/transportid,null
 web/api/rtcoutboundrtpstreamstats/type,null
-web/api/rtcpeerconnection,6
+web/api/rtcpeerconnection,7
 web/api/rtcpeerconnection/addicecandidate,2
 web/api/rtcpeerconnection/addstream,null
 web/api/rtcpeerconnection/addstream_event,null
@@ -9621,8 +9623,8 @@ web/api/webhid_api,0
 web/api/webkitpoint,1
 web/api/webotp_api,null
 web/api/webrtc_api,4
-web/api/webrtc_api/build_a_phone_with_peerjs,9
-web/api/webrtc_api/build_a_phone_with_peerjs/build_the_server,1
+web/api/webrtc_api/build_a_phone_with_peerjs,10
+web/api/webrtc_api/build_a_phone_with_peerjs/build_the_server,2
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers,0
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/answer_a_call,2
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/create_a_peer_connection,0
@@ -9778,7 +9780,7 @@ web/api/window/dump,1
 web/api/window/error_event,null
 web/api/window/event,null
 web/api/window/external,6
-web/api/window/fence,1
+web/api/window/fence,2
 web/api/window/fetch,11
 web/api/window/fetchlater,null
 web/api/window/find,2
@@ -10378,7 +10380,7 @@ web/css/guides/colors,10
 web/css/guides/colors/applying_color,5
 web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,2
-web/css/guides/colors/color_values,0
+web/css/guides/colors/color_values,1
 web/css/guides/colors/using_color_wisely,0
 web/css/guides/colors/using_relative_colors,null
 web/css/guides/compositing_and_blending,null
@@ -10422,7 +10424,7 @@ web/css/guides/flexible_box_layout/use_cases,5
 web/css/guides/flexible_box_layout/wrapping_items,null
 web/css/guides/font_loading,null
 web/css/guides/fonts,null
-web/css/guides/fonts/opentype_fonts,2
+web/css/guides/fonts/opentype_fonts,3
 web/css/guides/fonts/variable_fonts,null
 web/css/guides/fonts/woff,null
 web/css/guides/fragmentation,null
@@ -10431,10 +10433,10 @@ web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
 web/css/guides/grid_layout/auto-placement,null
-web/css/guides/grid_layout/basic_concepts,2
+web/css/guides/grid_layout/basic_concepts,4
 web/css/guides/grid_layout/box_alignment,null
 web/css/guides/grid_layout/common_grid_layouts,null
-web/css/guides/grid_layout/grid_lanes,1
+web/css/guides/grid_layout/grid_lanes,2
 web/css/guides/grid_layout/grid_template_areas,null
 web/css/guides/grid_layout/line-based_placement,null
 web/css/guides/grid_layout/logical_values_and_writing_modes,null
@@ -10920,9 +10922,9 @@ web/css/reference/properties/font-variant-position,null
 web/css/reference/properties/font-variation-settings,4
 web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
-web/css/reference/properties/forced-color-adjust,4
+web/css/reference/properties/forced-color-adjust,5
 web/css/reference/properties/frame-sizing,null
-web/css/reference/properties/gap,7
+web/css/reference/properties/gap,8
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -11082,7 +11084,7 @@ web/css/reference/properties/position-try,null
 web/css/reference/properties/position-try-fallbacks,null
 web/css/reference/properties/position-try-order,null
 web/css/reference/properties/position-visibility,null
-web/css/reference/properties/print-color-adjust,5
+web/css/reference/properties/print-color-adjust,6
 web/css/reference/properties/quotes,null
 web/css/reference/properties/r,null
 web/css/reference/properties/reading-flow,null
@@ -11177,10 +11179,10 @@ web/css/reference/properties/text-decoration-skip,null
 web/css/reference/properties/text-decoration-skip-ink,null
 web/css/reference/properties/text-decoration-style,null
 web/css/reference/properties/text-decoration-thickness,2
-web/css/reference/properties/text-emphasis,6
+web/css/reference/properties/text-emphasis,7
 web/css/reference/properties/text-emphasis-color,3
 web/css/reference/properties/text-emphasis-position,2
-web/css/reference/properties/text-emphasis-style,2
+web/css/reference/properties/text-emphasis-style,3
 web/css/reference/properties/text-indent,9
 web/css/reference/properties/text-justify,null
 web/css/reference/properties/text-orientation,null
@@ -11596,7 +11598,7 @@ web/html/guides,1
 web/html/guides/cheatsheet,2
 web/html/guides/comments,2
 web/html/guides/constraint_validation,null
-web/html/guides/content_categories,5
+web/html/guides/content_categories,6
 web/html/guides/date_and_time_formats,null
 web/html/guides/microdata,null
 web/html/guides/microformats,4
@@ -11685,7 +11687,7 @@ web/html/reference/elements/dl,null
 web/html/reference/elements/dt,4
 web/html/reference/elements/em,null
 web/html/reference/elements/embed,null
-web/html/reference/elements/fencedframe,7
+web/html/reference/elements/fencedframe,8
 web/html/reference/elements/fieldset,null
 web/html/reference/elements/figcaption,7
 web/html/reference/elements/figure,null
@@ -11704,7 +11706,7 @@ web/html/reference/elements/html,5
 web/html/reference/elements/i,1
 web/html/reference/elements/iframe,20
 web/html/reference/elements/img,15
-web/html/reference/elements/input,4
+web/html/reference/elements/input,5
 web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,null
 web/html/reference/elements/input/color,null
@@ -11757,7 +11759,7 @@ web/html/reference/elements/noscript,5
 web/html/reference/elements/object,null
 web/html/reference/elements/ol,null
 web/html/reference/elements/optgroup,null
-web/html/reference/elements/option,1
+web/html/reference/elements/option,2
 web/html/reference/elements/output,null
 web/html/reference/elements/p,4
 web/html/reference/elements/param,7
@@ -11782,7 +11784,7 @@ web/html/reference/elements/section,null
 web/html/reference/elements/select,null
 web/html/reference/elements/selectedcontent,null
 web/html/reference/elements/slot,8
-web/html/reference/elements/small,6
+web/html/reference/elements/small,7
 web/html/reference/elements/source,7
 web/html/reference/elements/span,5
 web/html/reference/elements/strike,4
@@ -11799,7 +11801,7 @@ web/html/reference/elements/textarea,7
 web/html/reference/elements/tfoot,null
 web/html/reference/elements/th,null
 web/html/reference/elements/thead,null
-web/html/reference/elements/time,4
+web/html/reference/elements/time,5
 web/html/reference/elements/title,0
 web/html/reference/elements/tr,10
 web/html/reference/elements/track,8
@@ -11818,7 +11820,7 @@ web/html/reference/global_attributes/autocorrect,5
 web/html/reference/global_attributes/autofocus,5
 web/html/reference/global_attributes/class,null
 web/html/reference/global_attributes/contenteditable,null
-web/html/reference/global_attributes/data-_star_,12
+web/html/reference/global_attributes/data-_star_,13
 web/html/reference/global_attributes/dir,0
 web/html/reference/global_attributes/draggable,null
 web/html/reference/global_attributes/enterkeyhint,5
@@ -11853,7 +11855,7 @@ web/http/guides/authentication,null
 web/http/guides/browser_detection_using_the_user_agent,null
 web/http/guides/caching,3
 web/http/guides/client_hints,null
-web/http/guides/compression,3
+web/http/guides/compression,4
 web/http/guides/compression_dictionary_transport,null
 web/http/guides/conditional_requests,null
 web/http/guides/connection_management_in_http_1.x,null
@@ -11894,7 +11896,7 @@ web/http/guides/protocol_upgrade_mechanism,null
 web/http/guides/proxy_servers_and_tunneling,4
 web/http/guides/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file,3
 web/http/guides/range_requests,4
-web/http/guides/redirections,5
+web/http/guides/redirections,6
 web/http/guides/session,null
 web/http/guides/user-agent_reduction,null
 web/http/reference,1
@@ -12759,7 +12761,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,null
 web/javascript/reference/global_objects/isfinite,null
 web/javascript/reference/global_objects/isnan,6
-web/javascript/reference/global_objects/iterator,22
+web/javascript/reference/global_objects/iterator,23
 web/javascript/reference/global_objects/iterator/chunks,null
 web/javascript/reference/global_objects/iterator/concat,null
 web/javascript/reference/global_objects/iterator/drop,5
@@ -13533,7 +13535,7 @@ web/javascript/reference/statements/do...while,4
 web/javascript/reference/statements/empty,4
 web/javascript/reference/statements/export,9
 web/javascript/reference/statements/expression_statement,4
-web/javascript/reference/statements/for,8
+web/javascript/reference/statements/for,9
 web/javascript/reference/statements/for-await...of,12
 web/javascript/reference/statements/for...in,9
 web/javascript/reference/statements/for...of,14
@@ -13549,7 +13551,7 @@ web/javascript/reference/statements/switch,4
 web/javascript/reference/statements/throw,3
 web/javascript/reference/statements/try...catch,0
 web/javascript/reference/statements/using,0
-web/javascript/reference/statements/var,9
+web/javascript/reference/statements/var,10
 web/javascript/reference/statements/while,5
 web/javascript/reference/statements/with,null
 web/javascript/reference/strict_mode,null
@@ -13566,7 +13568,7 @@ web/mathml/reference/attribute,2
 web/mathml/reference/element,1
 web/mathml/reference/element/annotation,null
 web/mathml/reference/element/annotation-xml,null
-web/mathml/reference/element/maction,3
+web/mathml/reference/element/maction,4
 web/mathml/reference/element/math,null
 web/mathml/reference/element/menclose,2
 web/mathml/reference/element/merror,1
@@ -13618,7 +13620,7 @@ web/media,null
 web/media/guides,0
 web/media/guides/audio_and_video_delivery,null
 web/media/guides/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video,0
-web/media/guides/audio_and_video_delivery/buffering_seeking_time_ranges,6
+web/media/guides/audio_and_video_delivery/buffering_seeking_time_ranges,7
 web/media/guides/audio_and_video_delivery/cross-browser_audio_basics,null
 web/media/guides/audio_and_video_delivery/cross_browser_video_player,null
 web/media/guides/audio_and_video_delivery/live_streaming_web_audio_and_video,null
@@ -13824,7 +13826,7 @@ web/svg/reference/attribute/crossorigin,null
 web/svg/reference/attribute/cursor,null
 web/svg/reference/attribute/cx,null
 web/svg/reference/attribute/cy,null
-web/svg/reference/attribute/d,6
+web/svg/reference/attribute/d,7
 web/svg/reference/attribute/data-_star_,null
 web/svg/reference/attribute/decoding,null
 web/svg/reference/attribute/diffuseconstant,null
@@ -14033,7 +14035,7 @@ web/svg/reference/element/feoffset,null
 web/svg/reference/element/fepointlight,null
 web/svg/reference/element/fespecularlighting,null
 web/svg/reference/element/fespotlight,null
-web/svg/reference/element/fetile,3
+web/svg/reference/element/fetile,4
 web/svg/reference/element/feturbulence,null
 web/svg/reference/element/filter,null
 web/svg/reference/element/foreignobject,null
@@ -14066,7 +14068,7 @@ web/svg/reference/element/use,12
 web/svg/reference/element/view,6
 web/svg/tutorials,0
 web/svg/tutorials/svg_from_scratch,null
-web/svg/tutorials/svg_from_scratch/basic_shapes,2
+web/svg/tutorials/svg_from_scratch/basic_shapes,3
 web/svg/tutorials/svg_from_scratch/basic_transformations,null
 web/svg/tutorials/svg_from_scratch/clipping_and_masking,null
 web/svg/tutorials/svg_from_scratch/fills_and_strokes,null
@@ -14076,7 +14078,7 @@ web/svg/tutorials/svg_from_scratch/gradients,null
 web/svg/tutorials/svg_from_scratch/image_element,null
 web/svg/tutorials/svg_from_scratch/introduction,null
 web/svg/tutorials/svg_from_scratch/other_content_in_svg,null
-web/svg/tutorials/svg_from_scratch/paths,1
+web/svg/tutorials/svg_from_scratch/paths,2
 web/svg/tutorials/svg_from_scratch/patterns,null
 web/svg/tutorials/svg_from_scratch/positions,null
 web/svg/tutorials/svg_from_scratch/svg_and_css,null

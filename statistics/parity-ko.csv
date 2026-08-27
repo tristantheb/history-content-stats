@@ -98,7 +98,7 @@ glossary/authenticator,null
 glossary/bandwidth,2
 glossary/base64,13
 glossary/baseline,2
-glossary/baseline/compatibility,10
+glossary/baseline/compatibility,11
 glossary/baseline/typography,5
 glossary/bcp_47_language_tag,null
 glossary/beacon,2
@@ -206,7 +206,7 @@ glossary/delta,2
 glossary/denial_of_service,4
 glossary/deno,null
 glossary/deserialization,3
-glossary/developer_tools,5
+glossary/developer_tools,6
 glossary/device_pixel,null
 glossary/digital_certificate,2
 glossary/digital_signature,null
@@ -443,6 +443,7 @@ glossary/operand,1
 glossary/operator,1
 glossary/origin,7
 glossary/ota,2
+glossary/out_of_order_patching,null
 glossary/owasp,1
 glossary/p2p,null
 glossary/pac,2
@@ -538,7 +539,7 @@ glossary/salt,null
 glossary/same-origin_policy,5
 glossary/scm,1
 glossary/scope,2
-glossary/screen_reader,5
+glossary/screen_reader,6
 glossary/script-supporting_element,2
 glossary/scroll_boundary,null
 glossary/scroll_chaining,null
@@ -574,7 +575,7 @@ glossary/smoke_test,2
 glossary/smpte,1
 glossary/smtp,2
 glossary/snake_case,2
-glossary/snap_positions,4
+glossary/snap_positions,5
 glossary/soap,1
 glossary/social_engineering,null
 glossary/soft_navigation,null
@@ -733,7 +734,7 @@ learn_web_development/core/design_for_developers,null
 learn_web_development/core/frameworks_libraries,null
 learn_web_development/core/frameworks_libraries/introduction,10
 learn_web_development/core/frameworks_libraries/main_features,7
-learn_web_development/core/frameworks_libraries/react_accessibility,6
+learn_web_development/core/frameworks_libraries/react_accessibility,7
 learn_web_development/core/frameworks_libraries/react_components,6
 learn_web_development/core/frameworks_libraries/react_getting_started,null
 learn_web_development/core/frameworks_libraries/react_interactivity_events_state,10
@@ -773,7 +774,7 @@ learn_web_development/core/scripting/test_your_skills/strings,null
 learn_web_development/core/scripting/test_your_skills/variables,null
 learn_web_development/core/scripting/useful_string_methods,null
 learn_web_development/core/scripting/variables,7
-learn_web_development/core/scripting/what_is_javascript,16
+learn_web_development/core/scripting/what_is_javascript,17
 learn_web_development/core/scripting/what_went_wrong,9
 learn_web_development/core/structuring_content,null
 learn_web_development/core/structuring_content/advanced_text_features,10
@@ -808,7 +809,7 @@ learn_web_development/core/styling_basics,null
 learn_web_development/core/styling_basics/advanced_styling_effects,null
 learn_web_development/core/styling_basics/attribute_selectors,5
 learn_web_development/core/styling_basics/backgrounds_and_borders,null
-learn_web_development/core/styling_basics/basic_selectors,11
+learn_web_development/core/styling_basics/basic_selectors,12
 learn_web_development/core/styling_basics/box_model,null
 learn_web_development/core/styling_basics/cascade_layers,17
 learn_web_development/core/styling_basics/combinators,11
@@ -835,7 +836,7 @@ learn_web_development/core/styling_basics/test_your_skills/overflow,null
 learn_web_development/core/styling_basics/test_your_skills/selectors,null
 learn_web_development/core/styling_basics/test_your_skills/sizing,null
 learn_web_development/core/styling_basics/test_your_skills/values,null
-learn_web_development/core/styling_basics/values_and_units,23
+learn_web_development/core/styling_basics/values_and_units,24
 learn_web_development/core/styling_basics/what_is_css,15
 learn_web_development/core/text_styling,null
 learn_web_development/core/text_styling/fundamentals,null
@@ -866,14 +867,14 @@ learn_web_development/extensions/client-side_apis/drawing_graphics,null
 learn_web_development/extensions/client-side_apis/introduction,null
 learn_web_development/extensions/client-side_apis/third_party_apis,null
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,null
-learn_web_development/extensions/client-side_tools,2
+learn_web_development/extensions/client-side_tools,3
 learn_web_development/extensions/client-side_tools/deployment,null
 learn_web_development/extensions/client-side_tools/introducing_complete_toolchain,null
 learn_web_development/extensions/client-side_tools/overview,null
 learn_web_development/extensions/client-side_tools/package_management,null
 learn_web_development/extensions/forms,null
 learn_web_development/extensions/forms/advanced_form_styling,null
-learn_web_development/extensions/forms/basic_native_form_controls,11
+learn_web_development/extensions/forms/basic_native_form_controls,13
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
 learn_web_development/extensions/forms/form_validation,null
@@ -905,7 +906,7 @@ learn_web_development/extensions/performance/multimedia,12
 learn_web_development/extensions/performance/perceived_performance,4
 learn_web_development/extensions/performance/video,3
 learn_web_development/extensions/performance/what_is_web_performance,4
-learn_web_development/extensions/performance/why_web_performance,4
+learn_web_development/extensions/performance/why_web_performance,5
 learn_web_development/extensions/server-side,null
 learn_web_development/extensions/server-side/apache_configuration_htaccess,null
 learn_web_development/extensions/server-side/configuring_server_mime_types,null
@@ -958,7 +959,7 @@ learn_web_development/extensions/server-side/first_steps/introduction,null
 learn_web_development/extensions/server-side/first_steps/web_frameworks,null
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
-learn_web_development/extensions/testing,3
+learn_web_development/extensions/testing,4
 learn_web_development/extensions/testing/automated_testing,null
 learn_web_development/extensions/testing/feature_detection,null
 learn_web_development/extensions/testing/html_and_css,null
@@ -3602,7 +3603,7 @@ web/api/document/xmlversion,null
 web/api/document_object_model,6
 web/api/document_object_model/anatomy_of_the_dom,null
 web/api/document_object_model/building_and_updating_the_dom_tree,null
-web/api/document_object_model/events,4
+web/api/document_object_model/events,5
 web/api/document_object_model/reflected_attributes,null
 web/api/document_object_model/selection_and_traversal_on_the_dom_tree,null
 web/api/document_picture-in-picture_api,null
@@ -4647,7 +4648,7 @@ web/api/hashchangeevent,null
 web/api/hashchangeevent/hashchangeevent,null
 web/api/hashchangeevent/newurl,null
 web/api/hashchangeevent/oldurl,null
-web/api/headers,1
+web/api/headers,2
 web/api/headers/append,null
 web/api/headers/delete,null
 web/api/headers/entries,null
@@ -5104,7 +5105,7 @@ web/api/htmlinputelement/willvalidate,null
 web/api/htmllabelelement,2
 web/api/htmllabelelement/control,1
 web/api/htmllabelelement/form,3
-web/api/htmllabelelement/htmlfor,3
+web/api/htmllabelelement/htmlfor,4
 web/api/htmllegendelement,null
 web/api/htmllegendelement/form,null
 web/api/htmllielement,null
@@ -5418,6 +5419,7 @@ web/api/htmltablesectionelement/rows,null
 web/api/htmltablesectionelement/valign,null
 web/api/htmltemplateelement,null
 web/api/htmltemplateelement/content,null
+web/api/htmltemplateelement/htmlfor,null
 web/api/htmltemplateelement/shadowrootclonable,null
 web/api/htmltemplateelement/shadowrootcustomelementregistry,null
 web/api/htmltemplateelement/shadowrootdelegatesfocus,null
@@ -9740,7 +9742,7 @@ web/api/wheelevent/deltax,null
 web/api/wheelevent/deltay,null
 web/api/wheelevent/deltaz,null
 web/api/wheelevent/wheelevent,null
-web/api/window,75
+web/api/window,76
 web/api/window/afterprint_event,null
 web/api/window/alert,null
 web/api/window/appinstalled_event,null
@@ -10347,7 +10349,7 @@ web/css/guides/animations/using,null
 web/css/guides/backgrounds_and_borders,null
 web/css/guides/backgrounds_and_borders/border-image_generator,null
 web/css/guides/backgrounds_and_borders/border-radius_generator,null
-web/css/guides/backgrounds_and_borders/box-shadow_generator,2
+web/css/guides/backgrounds_and_borders/box-shadow_generator,3
 web/css/guides/backgrounds_and_borders/resizing_background_images,null
 web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,null
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,null
@@ -10452,7 +10454,7 @@ web/css/guides/lists,2
 web/css/guides/lists/indenting,null
 web/css/guides/logical_properties_and_values,3
 web/css/guides/logical_properties_and_values/basic_concepts,1
-web/css/guides/logical_properties_and_values/floating_and_positioning,1
+web/css/guides/logical_properties_and_values/floating_and_positioning,2
 web/css/guides/logical_properties_and_values/margins_borders_padding,1
 web/css/guides/logical_properties_and_values/sizing,1
 web/css/guides/masking,null
@@ -10922,7 +10924,7 @@ web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,null
 web/css/reference/properties/frame-sizing,null
-web/css/reference/properties/gap,7
+web/css/reference/properties/gap,8
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -11149,7 +11151,7 @@ web/css/reference/properties/shape-margin,null
 web/css/reference/properties/shape-outside,null
 web/css/reference/properties/shape-rendering,null
 web/css/reference/properties/speak-as,null
-web/css/reference/properties/stop-color,2
+web/css/reference/properties/stop-color,3
 web/css/reference/properties/stop-opacity,null
 web/css/reference/properties/stroke,null
 web/css/reference/properties/stroke-dasharray,null
@@ -11445,7 +11447,7 @@ web/css/reference/values/color_value/hwb,null
 web/css/reference/values/color_value/lab,null
 web/css/reference/values/color_value/lch,null
 web/css/reference/values/color_value/light-dark,null
-web/css/reference/values/color_value/oklab,2
+web/css/reference/values/color_value/oklab,4
 web/css/reference/values/color_value/oklch,null
 web/css/reference/values/color_value/rgb,null
 web/css/reference/values/content-distribution,null
@@ -11617,7 +11619,7 @@ web/html/reference/attributes/capture,null
 web/html/reference/attributes/content,null
 web/html/reference/attributes/crossorigin,null
 web/html/reference/attributes/dirname,null
-web/html/reference/attributes/disabled,3
+web/html/reference/attributes/disabled,4
 web/html/reference/attributes/elementtiming,4
 web/html/reference/attributes/fetchpriority,null
 web/html/reference/attributes/for,3
@@ -12648,7 +12650,7 @@ web/javascript/reference/global_objects/function/apply,null
 web/javascript/reference/global_objects/function/arguments,null
 web/javascript/reference/global_objects/function/bind,null
 web/javascript/reference/global_objects/function/call,null
-web/javascript/reference/global_objects/function/caller,6
+web/javascript/reference/global_objects/function/caller,7
 web/javascript/reference/global_objects/function/displayname,3
 web/javascript/reference/global_objects/function/function,9
 web/javascript/reference/global_objects/function/length,null
@@ -12743,7 +12745,7 @@ web/javascript/reference/global_objects/intl/pluralrules/select,null
 web/javascript/reference/global_objects/intl/pluralrules/selectrange,null
 web/javascript/reference/global_objects/intl/pluralrules/supportedlocalesof,5
 web/javascript/reference/global_objects/intl/relativetimeformat,4
-web/javascript/reference/global_objects/intl/relativetimeformat/format,8
+web/javascript/reference/global_objects/intl/relativetimeformat/format,9
 web/javascript/reference/global_objects/intl/relativetimeformat/formattoparts,6
 web/javascript/reference/global_objects/intl/relativetimeformat/relativetimeformat,8
 web/javascript/reference/global_objects/intl/relativetimeformat/resolvedoptions,7
@@ -12912,7 +12914,7 @@ web/javascript/reference/global_objects/object/valueof,null
 web/javascript/reference/global_objects/object/values,null
 web/javascript/reference/global_objects/parsefloat,null
 web/javascript/reference/global_objects/parseint,null
-web/javascript/reference/global_objects/promise,31
+web/javascript/reference/global_objects/promise,32
 web/javascript/reference/global_objects/promise/all,null
 web/javascript/reference/global_objects/promise/allsettled,null
 web/javascript/reference/global_objects/promise/any,7
@@ -13405,7 +13407,7 @@ web/javascript/reference/global_objects/undefined,null
 web/javascript/reference/global_objects/unescape,null
 web/javascript/reference/global_objects/urierror,null
 web/javascript/reference/global_objects/urierror/urierror,null
-web/javascript/reference/global_objects/weakmap,20
+web/javascript/reference/global_objects/weakmap,21
 web/javascript/reference/global_objects/weakmap/delete,null
 web/javascript/reference/global_objects/weakmap/get,null
 web/javascript/reference/global_objects/weakmap/getorinsert,null
@@ -13616,7 +13618,7 @@ web/mathml/tutorials/for_beginners/text_containers,null
 web/mathml/tutorials/for_beginners/three_famous_mathematical_formulas,null
 web/media,10
 web/media/guides,null
-web/media/guides/audio_and_video_delivery,17
+web/media/guides/audio_and_video_delivery,19
 web/media/guides/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video,null
 web/media/guides/audio_and_video_delivery/buffering_seeking_time_ranges,null
 web/media/guides/audio_and_video_delivery/cross-browser_audio_basics,null
