@@ -874,7 +874,7 @@ learn_web_development/extensions/client-side_tools/overview,null
 learn_web_development/extensions/client-side_tools/package_management,null
 learn_web_development/extensions/forms,null
 learn_web_development/extensions/forms/advanced_form_styling,null
-learn_web_development/extensions/forms/basic_native_form_controls,13
+learn_web_development/extensions/forms/basic_native_form_controls,14
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
 learn_web_development/extensions/forms/form_validation,null
@@ -10696,7 +10696,7 @@ web/css/reference/properties/alignment-baseline,null
 web/css/reference/properties/all,null
 web/css/reference/properties/anchor-name,null
 web/css/reference/properties/anchor-scope,null
-web/css/reference/properties/animation,9
+web/css/reference/properties/animation,10
 web/css/reference/properties/animation-composition,null
 web/css/reference/properties/animation-delay,null
 web/css/reference/properties/animation-direction,null
@@ -10924,7 +10924,7 @@ web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,null
 web/css/reference/properties/frame-sizing,null
-web/css/reference/properties/gap,8
+web/css/reference/properties/gap,9
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -11073,9 +11073,9 @@ web/css/reference/properties/paint-order,null
 web/css/reference/properties/path-length,null
 web/css/reference/properties/perspective,null
 web/css/reference/properties/perspective-origin,null
-web/css/reference/properties/place-content,6
-web/css/reference/properties/place-items,6
-web/css/reference/properties/place-self,7
+web/css/reference/properties/place-content,7
+web/css/reference/properties/place-items,7
+web/css/reference/properties/place-self,8
 web/css/reference/properties/pointer-events,5
 web/css/reference/properties/position,null
 web/css/reference/properties/position-anchor,null
@@ -11125,7 +11125,7 @@ web/css/reference/properties/scroll-margin-left,null
 web/css/reference/properties/scroll-margin-right,null
 web/css/reference/properties/scroll-margin-top,null
 web/css/reference/properties/scroll-marker-group,null
-web/css/reference/properties/scroll-padding,4
+web/css/reference/properties/scroll-padding,5
 web/css/reference/properties/scroll-padding-block,null
 web/css/reference/properties/scroll-padding-block-end,null
 web/css/reference/properties/scroll-padding-block-start,null
@@ -11194,7 +11194,7 @@ web/css/reference/properties/text-spacing-trim,null
 web/css/reference/properties/text-transform,null
 web/css/reference/properties/text-underline-offset,null
 web/css/reference/properties/text-underline-position,null
-web/css/reference/properties/text-wrap,8
+web/css/reference/properties/text-wrap,9
 web/css/reference/properties/text-wrap-mode,null
 web/css/reference/properties/text-wrap-style,null
 web/css/reference/properties/timeline-scope,null
@@ -11619,7 +11619,7 @@ web/html/reference/attributes/capture,null
 web/html/reference/attributes/content,null
 web/html/reference/attributes/crossorigin,null
 web/html/reference/attributes/dirname,null
-web/html/reference/attributes/disabled,4
+web/html/reference/attributes/disabled,5
 web/html/reference/attributes/elementtiming,4
 web/html/reference/attributes/fetchpriority,null
 web/html/reference/attributes/for,3
@@ -13954,7 +13954,7 @@ web/svg/reference/attribute/stroke,null
 web/svg/reference/attribute/stroke-dasharray,3
 web/svg/reference/attribute/stroke-dashoffset,null
 web/svg/reference/attribute/stroke-linecap,null
-web/svg/reference/attribute/stroke-linejoin,0
+web/svg/reference/attribute/stroke-linejoin,1
 web/svg/reference/attribute/stroke-miterlimit,null
 web/svg/reference/attribute/stroke-opacity,null
 web/svg/reference/attribute/stroke-width,null

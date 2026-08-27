@@ -106,7 +106,7 @@ glossary/bezier_curve,null
 glossary/bfcache,null
 glossary/bidi,null
 glossary/bigint,null
-glossary/binding,null
+glossary/binding,0
 glossary/bitwise_flags,null
 glossary/blink,null
 glossary/blink_element,null
@@ -736,7 +736,7 @@ learn_web_development/core/frameworks_libraries/introduction,null
 learn_web_development/core/frameworks_libraries/main_features,null
 learn_web_development/core/frameworks_libraries/react_accessibility,null
 learn_web_development/core/frameworks_libraries/react_components,6
-learn_web_development/core/frameworks_libraries/react_getting_started,null
+learn_web_development/core/frameworks_libraries/react_getting_started,0
 learn_web_development/core/frameworks_libraries/react_interactivity_events_state,null
 learn_web_development/core/frameworks_libraries/react_interactivity_filtering_conditional_rendering,null
 learn_web_development/core/frameworks_libraries/react_resources,null
@@ -745,7 +745,7 @@ learn_web_development/core/scripting,null
 learn_web_development/core/scripting/a_first_splash,null
 learn_web_development/core/scripting/arrays,null
 learn_web_development/core/scripting/build_your_own_function,null
-learn_web_development/core/scripting/conditionals,null
+learn_web_development/core/scripting/conditionals,0
 learn_web_development/core/scripting/debugging_javascript,null
 learn_web_development/core/scripting/dom_scripting,null
 learn_web_development/core/scripting/event_bubbling,null
@@ -778,7 +778,7 @@ learn_web_development/core/scripting/what_is_javascript,null
 learn_web_development/core/scripting/what_went_wrong,null
 learn_web_development/core/structuring_content,null
 learn_web_development/core/structuring_content/advanced_text_features,null
-learn_web_development/core/structuring_content/basic_html_syntax,12
+learn_web_development/core/structuring_content/basic_html_syntax,13
 learn_web_development/core/structuring_content/creating_links,null
 learn_web_development/core/structuring_content/debugging_html,null
 learn_web_development/core/structuring_content/emphasis_and_importance,null
@@ -922,7 +922,7 @@ learn_web_development/extensions/server-side/django/home_page,null
 learn_web_development/extensions/server-side/django/introduction,null
 learn_web_development/extensions/server-side/django/models,null
 learn_web_development/extensions/server-side/django/sessions,null
-learn_web_development/extensions/server-side/django/skeleton_website,null
+learn_web_development/extensions/server-side/django/skeleton_website,0
 learn_web_development/extensions/server-side/django/testing,null
 learn_web_development/extensions/server-side/django/tutorial_local_library_website,null
 learn_web_development/extensions/server-side/django/web_application_security,null
@@ -1090,7 +1090,7 @@ mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,0
 mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,0
-mdn/writing_guidelines/page_structures/page_types/css_property_page_template,1
+mdn/writing_guidelines/page_structures/page_types/css_property_page_template,2
 mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,0
 mdn/writing_guidelines/page_structures/page_types/glossary_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,0
@@ -2732,7 +2732,7 @@ web/api/canvas_api/tutorial/applying_styles_and_colors,null
 web/api/canvas_api/tutorial/basic_animations,null
 web/api/canvas_api/tutorial/basic_usage,null
 web/api/canvas_api/tutorial/compositing,null
-web/api/canvas_api/tutorial/drawing_shapes,19
+web/api/canvas_api/tutorial/drawing_shapes,20
 web/api/canvas_api/tutorial/drawing_text,null
 web/api/canvas_api/tutorial/finale,null
 web/api/canvas_api/tutorial/optimizing_canvas,null
@@ -5037,7 +5037,7 @@ web/api/htmlimageelement/vspace,null
 web/api/htmlimageelement/width,null
 web/api/htmlimageelement/x,null
 web/api/htmlimageelement/y,null
-web/api/htmlinputelement,11
+web/api/htmlinputelement,12
 web/api/htmlinputelement/accept,null
 web/api/htmlinputelement/alpha,null
 web/api/htmlinputelement/alt,null
@@ -10778,7 +10778,7 @@ web/css/reference/properties/border-left,null
 web/css/reference/properties/border-left-color,null
 web/css/reference/properties/border-left-style,null
 web/css/reference/properties/border-left-width,null
-web/css/reference/properties/border-radius,6
+web/css/reference/properties/border-radius,7
 web/css/reference/properties/border-right,null
 web/css/reference/properties/border-right-color,null
 web/css/reference/properties/border-right-style,null
@@ -10881,7 +10881,7 @@ web/css/reference/properties/field-sizing,null
 web/css/reference/properties/fill,null
 web/css/reference/properties/fill-opacity,null
 web/css/reference/properties/fill-rule,null
-web/css/reference/properties/filter,4
+web/css/reference/properties/filter,5
 web/css/reference/properties/flex,null
 web/css/reference/properties/flex-basis,null
 web/css/reference/properties/flex-direction,null
@@ -10983,7 +10983,7 @@ web/css/reference/properties/margin-block,null
 web/css/reference/properties/margin-block-end,null
 web/css/reference/properties/margin-block-start,null
 web/css/reference/properties/margin-bottom,null
-web/css/reference/properties/margin-inline,5
+web/css/reference/properties/margin-inline,6
 web/css/reference/properties/margin-inline-end,null
 web/css/reference/properties/margin-inline-start,null
 web/css/reference/properties/margin-left,null
@@ -11054,7 +11054,7 @@ web/css/reference/properties/overscroll-behavior-block,null
 web/css/reference/properties/overscroll-behavior-inline,null
 web/css/reference/properties/overscroll-behavior-x,null
 web/css/reference/properties/overscroll-behavior-y,null
-web/css/reference/properties/padding,3
+web/css/reference/properties/padding,4
 web/css/reference/properties/padding-block,null
 web/css/reference/properties/padding-block-end,null
 web/css/reference/properties/padding-block-start,null
@@ -11194,7 +11194,7 @@ web/css/reference/properties/text-spacing-trim,null
 web/css/reference/properties/text-transform,null
 web/css/reference/properties/text-underline-offset,null
 web/css/reference/properties/text-underline-position,null
-web/css/reference/properties/text-wrap,8
+web/css/reference/properties/text-wrap,9
 web/css/reference/properties/text-wrap-mode,null
 web/css/reference/properties/text-wrap-style,null
 web/css/reference/properties/timeline-scope,null
@@ -11711,7 +11711,7 @@ web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,null
 web/html/reference/elements/input/color,null
 web/html/reference/elements/input/date,null
-web/html/reference/elements/input/datetime-local,null
+web/html/reference/elements/input/datetime-local,0
 web/html/reference/elements/input/email,null
 web/html/reference/elements/input/file,13
 web/html/reference/elements/input/hidden,null
