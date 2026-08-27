@@ -443,6 +443,7 @@ glossary/operand,null
 glossary/operator,null
 glossary/origin,null
 glossary/ota,null
+glossary/out_of_order_patching,null
 glossary/owasp,null
 glossary/p2p,null
 glossary/pac,null
@@ -773,7 +774,7 @@ learn_web_development/core/scripting/test_your_skills/strings,null
 learn_web_development/core/scripting/test_your_skills/variables,null
 learn_web_development/core/scripting/useful_string_methods,null
 learn_web_development/core/scripting/variables,null
-learn_web_development/core/scripting/what_is_javascript,5
+learn_web_development/core/scripting/what_is_javascript,6
 learn_web_development/core/scripting/what_went_wrong,null
 learn_web_development/core/structuring_content,null
 learn_web_development/core/structuring_content/advanced_text_features,null
@@ -4094,7 +4095,7 @@ web/api/encodedvideochunk/timestamp,null
 web/api/encodedvideochunk/type,null
 web/api/encoding_api,null
 web/api/encoding_api/encodings,null
-web/api/encrypted_media_extensions_api,0
+web/api/encrypted_media_extensions_api,1
 web/api/errorevent,null
 web/api/errorevent/colno,null
 web/api/errorevent/error,null
@@ -5418,6 +5419,7 @@ web/api/htmltablesectionelement/rows,null
 web/api/htmltablesectionelement/valign,null
 web/api/htmltemplateelement,null
 web/api/htmltemplateelement/content,null
+web/api/htmltemplateelement/htmlfor,null
 web/api/htmltemplateelement/shadowrootclonable,null
 web/api/htmltemplateelement/shadowrootcustomelementregistry,null
 web/api/htmltemplateelement/shadowrootdelegatesfocus,null
@@ -9303,7 +9305,7 @@ web/api/web_animations_api/keyframe_formats,null
 web/api/web_animations_api/tips,null
 web/api/web_animations_api/using_the_web_animations_api,null
 web/api/web_animations_api/web_animations_api_concepts,null
-web/api/web_audio_api,3
+web/api/web_audio_api,4
 web/api/web_audio_api/advanced_techniques,null
 web/api/web_audio_api/basic_concepts_behind_web_audio_api,null
 web/api/web_audio_api/best_practices,null
@@ -10414,7 +10416,7 @@ web/css/guides/filter_effects,null
 web/css/guides/filter_effects/using,null
 web/css/guides/flexible_box_layout,3
 web/css/guides/flexible_box_layout/aligning_items,null
-web/css/guides/flexible_box_layout/basic_concepts,5
+web/css/guides/flexible_box_layout/basic_concepts,6
 web/css/guides/flexible_box_layout/controlling_flex_item_ratios,null
 web/css/guides/flexible_box_layout/ordering_items,null
 web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,null
@@ -10443,7 +10445,7 @@ web/css/guides/grid_layout/relationship_with_other_layout_methods,null
 web/css/guides/grid_layout/subgrid,null
 web/css/guides/images,null
 web/css/guides/images/implementing_image_sprites,null
-web/css/guides/images/replaced_element_properties,3
+web/css/guides/images/replaced_element_properties,4
 web/css/guides/images/using_gradients,null
 web/css/guides/images/using_object-view-box,null
 web/css/guides/inline_layout,2
@@ -11685,7 +11687,7 @@ web/html/reference/elements/dl,null
 web/html/reference/elements/dt,null
 web/html/reference/elements/em,null
 web/html/reference/elements/embed,null
-web/html/reference/elements/fencedframe,1
+web/html/reference/elements/fencedframe,2
 web/html/reference/elements/fieldset,null
 web/html/reference/elements/figcaption,null
 web/html/reference/elements/figure,null
