@@ -778,7 +778,7 @@ learn_web_development/core/scripting/what_is_javascript,2
 learn_web_development/core/scripting/what_went_wrong,null
 learn_web_development/core/structuring_content,14
 learn_web_development/core/structuring_content/advanced_text_features,9
-learn_web_development/core/structuring_content/basic_html_syntax,3
+learn_web_development/core/structuring_content/basic_html_syntax,4
 learn_web_development/core/structuring_content/creating_links,null
 learn_web_development/core/structuring_content/debugging_html,null
 learn_web_development/core/structuring_content/emphasis_and_importance,3
@@ -863,7 +863,7 @@ learn_web_development/extensions/async_js/promises,7
 learn_web_development/extensions/async_js/sequencing_animations,null
 learn_web_development/extensions/client-side_apis,5
 learn_web_development/extensions/client-side_apis/client-side_storage,6
-learn_web_development/extensions/client-side_apis/drawing_graphics,14
+learn_web_development/extensions/client-side_apis/drawing_graphics,15
 learn_web_development/extensions/client-side_apis/introduction,6
 learn_web_development/extensions/client-side_apis/third_party_apis,8
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,16
@@ -960,7 +960,7 @@ learn_web_development/extensions/server-side/first_steps/web_frameworks,null
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
 learn_web_development/extensions/testing,4
-learn_web_development/extensions/testing/automated_testing,11
+learn_web_development/extensions/testing/automated_testing,12
 learn_web_development/extensions/testing/feature_detection,13
 learn_web_development/extensions/testing/html_and_css,19
 learn_web_development/extensions/testing/introduction,9
@@ -981,7 +981,7 @@ learn_web_development/getting_started/soft_skills/workflows_and_processes,null
 learn_web_development/getting_started/web_standards,0
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
 learn_web_development/getting_started/web_standards/how_the_web_works,18
-learn_web_development/getting_started/web_standards/the_web_standards_model,11
+learn_web_development/getting_started/web_standards/the_web_standards_model,12
 learn_web_development/getting_started/your_first_website,0
 learn_web_development/getting_started/your_first_website/adding_interactivity,15
 learn_web_development/getting_started/your_first_website/creating_the_content,2
@@ -2763,7 +2763,7 @@ web/api/canvasrenderingcontext2d/createradialgradient,1
 web/api/canvasrenderingcontext2d/direction,1
 web/api/canvasrenderingcontext2d/drawfocusifneeded,2
 web/api/canvasrenderingcontext2d/drawimage,3
-web/api/canvasrenderingcontext2d/ellipse,3
+web/api/canvasrenderingcontext2d/ellipse,4
 web/api/canvasrenderingcontext2d/fill,2
 web/api/canvasrenderingcontext2d/fillrect,1
 web/api/canvasrenderingcontext2d/fillstyle,5
@@ -5037,7 +5037,7 @@ web/api/htmlimageelement/vspace,null
 web/api/htmlimageelement/width,null
 web/api/htmlimageelement/x,null
 web/api/htmlimageelement/y,null
-web/api/htmlinputelement,10
+web/api/htmlinputelement,11
 web/api/htmlinputelement/accept,null
 web/api/htmlinputelement/alpha,null
 web/api/htmlinputelement/alt,null
@@ -10381,7 +10381,7 @@ web/css/guides/colors/applying_color,5
 web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,2
 web/css/guides/colors/color_values,1
-web/css/guides/colors/using_color_wisely,0
+web/css/guides/colors/using_color_wisely,1
 web/css/guides/colors/using_relative_colors,null
 web/css/guides/compositing_and_blending,null
 web/css/guides/conditional_rules,null
@@ -10673,9 +10673,9 @@ web/css/reference/properties/-moz-force-broken-image-icon,3
 web/css/reference/properties/-moz-orient,2
 web/css/reference/properties/-moz-user-focus,3
 web/css/reference/properties/-moz-user-input,null
-web/css/reference/properties/-webkit-border-before,2
+web/css/reference/properties/-webkit-border-before,3
 web/css/reference/properties/-webkit-box-reflect,3
-web/css/reference/properties/-webkit-mask-box-image,0
+web/css/reference/properties/-webkit-mask-box-image,1
 web/css/reference/properties/-webkit-mask-composite,null
 web/css/reference/properties/-webkit-mask-position-x,null
 web/css/reference/properties/-webkit-mask-position-y,null
@@ -10693,7 +10693,7 @@ web/css/reference/properties/align-content,null
 web/css/reference/properties/align-items,null
 web/css/reference/properties/align-self,null
 web/css/reference/properties/alignment-baseline,null
-web/css/reference/properties/all,7
+web/css/reference/properties/all,8
 web/css/reference/properties/anchor-name,null
 web/css/reference/properties/anchor-scope,null
 web/css/reference/properties/animation,null
@@ -10756,7 +10756,7 @@ web/css/reference/properties/border-collapse,null
 web/css/reference/properties/border-color,null
 web/css/reference/properties/border-end-end-radius,null
 web/css/reference/properties/border-end-start-radius,null
-web/css/reference/properties/border-image,8
+web/css/reference/properties/border-image,9
 web/css/reference/properties/border-image-outset,null
 web/css/reference/properties/border-image-repeat,null
 web/css/reference/properties/border-image-slice,8
@@ -10779,7 +10779,7 @@ web/css/reference/properties/border-left-color,null
 web/css/reference/properties/border-left-style,0
 web/css/reference/properties/border-left-width,null
 web/css/reference/properties/border-radius,null
-web/css/reference/properties/border-right,4
+web/css/reference/properties/border-right,5
 web/css/reference/properties/border-right-color,null
 web/css/reference/properties/border-right-style,null
 web/css/reference/properties/border-right-width,5
@@ -10788,13 +10788,13 @@ web/css/reference/properties/border-spacing,null
 web/css/reference/properties/border-start-end-radius,null
 web/css/reference/properties/border-start-start-radius,null
 web/css/reference/properties/border-style,null
-web/css/reference/properties/border-top,7
+web/css/reference/properties/border-top,8
 web/css/reference/properties/border-top-color,null
 web/css/reference/properties/border-top-left-radius,null
 web/css/reference/properties/border-top-right-radius,null
 web/css/reference/properties/border-top-style,null
 web/css/reference/properties/border-top-width,null
-web/css/reference/properties/border-width,9
+web/css/reference/properties/border-width,10
 web/css/reference/properties/bottom,null
 web/css/reference/properties/box-align,null
 web/css/reference/properties/box-decoration-break,null
@@ -10848,7 +10848,7 @@ web/css/reference/properties/container-name,null
 web/css/reference/properties/container-type,null
 web/css/reference/properties/content,null
 web/css/reference/properties/content-visibility,null
-web/css/reference/properties/corner-block-end-shape,2
+web/css/reference/properties/corner-block-end-shape,3
 web/css/reference/properties/corner-block-start-shape,null
 web/css/reference/properties/corner-bottom-left-shape,null
 web/css/reference/properties/corner-bottom-right-shape,null
@@ -10865,7 +10865,7 @@ web/css/reference/properties/corner-start-start-shape,null
 web/css/reference/properties/corner-top-left-shape,null
 web/css/reference/properties/corner-top-right-shape,3
 web/css/reference/properties/corner-top-shape,null
-web/css/reference/properties/counter-increment,3
+web/css/reference/properties/counter-increment,4
 web/css/reference/properties/counter-reset,null
 web/css/reference/properties/counter-set,null
 web/css/reference/properties/cursor,null
@@ -10893,7 +10893,7 @@ web/css/reference/properties/flex-wrap,null
 web/css/reference/properties/float,null
 web/css/reference/properties/flood-color,null
 web/css/reference/properties/flood-opacity,null
-web/css/reference/properties/font,7
+web/css/reference/properties/font,8
 web/css/reference/properties/font-family,5
 web/css/reference/properties/font-feature-settings,null
 web/css/reference/properties/font-kerning,null
@@ -10924,7 +10924,7 @@ web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,5
 web/css/reference/properties/frame-sizing,null
-web/css/reference/properties/gap,8
+web/css/reference/properties/gap,9
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -10950,7 +10950,7 @@ web/css/reference/properties/image-rendering,1
 web/css/reference/properties/image-resolution,null
 web/css/reference/properties/initial-letter,3
 web/css/reference/properties/inline-size,null
-web/css/reference/properties/inset,4
+web/css/reference/properties/inset,5
 web/css/reference/properties/inset-block,null
 web/css/reference/properties/inset-block-end,null
 web/css/reference/properties/inset-block-start,null
@@ -11054,7 +11054,7 @@ web/css/reference/properties/overscroll-behavior-block,null
 web/css/reference/properties/overscroll-behavior-inline,null
 web/css/reference/properties/overscroll-behavior-x,null
 web/css/reference/properties/overscroll-behavior-y,null
-web/css/reference/properties/padding,3
+web/css/reference/properties/padding,4
 web/css/reference/properties/padding-block,null
 web/css/reference/properties/padding-block-end,null
 web/css/reference/properties/padding-block-start,null
@@ -11171,7 +11171,7 @@ web/css/reference/properties/text-box,null
 web/css/reference/properties/text-box-edge,null
 web/css/reference/properties/text-box-trim,null
 web/css/reference/properties/text-combine-upright,null
-web/css/reference/properties/text-decoration,6
+web/css/reference/properties/text-decoration,7
 web/css/reference/properties/text-decoration-color,null
 web/css/reference/properties/text-decoration-inset,null
 web/css/reference/properties/text-decoration-line,null
@@ -11179,7 +11179,7 @@ web/css/reference/properties/text-decoration-skip,null
 web/css/reference/properties/text-decoration-skip-ink,null
 web/css/reference/properties/text-decoration-style,null
 web/css/reference/properties/text-decoration-thickness,2
-web/css/reference/properties/text-emphasis,7
+web/css/reference/properties/text-emphasis,8
 web/css/reference/properties/text-emphasis-color,3
 web/css/reference/properties/text-emphasis-position,2
 web/css/reference/properties/text-emphasis-style,3
@@ -11215,7 +11215,7 @@ web/css/reference/properties/unicode-bidi,null
 web/css/reference/properties/user-modify,null
 web/css/reference/properties/user-select,null
 web/css/reference/properties/vector-effect,null
-web/css/reference/properties/vertical-align,5
+web/css/reference/properties/vertical-align,6
 web/css/reference/properties/view-timeline,null
 web/css/reference/properties/view-timeline-axis,null
 web/css/reference/properties/view-timeline-inset,null
@@ -11224,7 +11224,7 @@ web/css/reference/properties/view-transition-class,null
 web/css/reference/properties/view-transition-name,4
 web/css/reference/properties/view-transition-scope,null
 web/css/reference/properties/visibility,null
-web/css/reference/properties/white-space,7
+web/css/reference/properties/white-space,8
 web/css/reference/properties/white-space-collapse,null
 web/css/reference/properties/widows,null
 web/css/reference/properties/width,null
@@ -11848,7 +11848,7 @@ web/html/reference/global_attributes/tabindex,null
 web/html/reference/global_attributes/title,null
 web/html/reference/global_attributes/translate,null
 web/html/reference/global_attributes/virtualkeyboardpolicy,4
-web/html/reference/global_attributes/writingsuggestions,1
+web/html/reference/global_attributes/writingsuggestions,2
 web/http,null
 web/http/guides,1
 web/http/guides/authentication,null
