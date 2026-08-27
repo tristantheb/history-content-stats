@@ -57,6 +57,7 @@ glossary/attribute,no_hash_commit
 glossary/bandwidth,no_hash_commit
 glossary/base64,no_hash_commit
 glossary/bigint,no_hash_commit
+glossary/binding,1ddd95504b4507beeda0f08bd772eb167922b86a
 glossary/blink,no_hash_commit
 glossary/block-level_content,no_hash_commit
 glossary/block/css,no_hash_commit
@@ -275,13 +276,13 @@ learn_web_development/core/css_layout/supporting_older_browsers,no_hash_commit
 learn_web_development/core/design_for_developers,673746e15e5052c4fe39944f3d93d2e2d3227b3f
 learn_web_development/core/frameworks_libraries,no_hash_commit
 learn_web_development/core/frameworks_libraries/react_components,16d3095f33bd0655b01098ce662e3014510fdef6
-learn_web_development/core/frameworks_libraries/react_getting_started,no_hash_commit
+learn_web_development/core/frameworks_libraries/react_getting_started,52a81d8138473b6ac4bec77d0be4261cb0b76d41
 learn_web_development/core/frameworks_libraries/svelte_getting_started,1ad0cd5faac577bf7b13990242db455f2be2058d
 learn_web_development/core,427efbee9e0da53517f45420af87a66a2a6b6e19
 learn_web_development/core/scripting/a_first_splash,no_hash_commit
 learn_web_development/core/scripting/arrays,no_hash_commit
 learn_web_development/core/scripting/build_your_own_function,no_hash_commit
-learn_web_development/core/scripting/conditionals,no_hash_commit
+learn_web_development/core/scripting/conditionals,9d3d642daf9df9ece138fa39972edc5f7d6dcd6b
 learn_web_development/core/scripting/events,ac5dfaa2f71a7381cd8fdd4cb554507f375ac19c
 learn_web_development/core/scripting,no_hash_commit
 learn_web_development/core/scripting/json,no_hash_commit
@@ -382,7 +383,7 @@ learn_web_development/extensions/server-side/django,no_hash_commit
 learn_web_development/extensions/server-side/django/introduction,no_hash_commit
 learn_web_development/extensions/server-side/django/models,no_hash_commit
 learn_web_development/extensions/server-side/django/sessions,no_hash_commit
-learn_web_development/extensions/server-side/django/skeleton_website,no_hash_commit
+learn_web_development/extensions/server-side/django/skeleton_website,be1922d62a0d31e4e3441db0e943aed8df736481
 learn_web_development/extensions/server-side/django/testing,no_hash_commit
 learn_web_development/extensions/server-side/django/tutorial_local_library_website,no_hash_commit
 learn_web_development/extensions/server-side/express_nodejs/development_environment,no_hash_commit
@@ -1767,7 +1768,7 @@ web/html/reference/elements/input/button,no_hash_commit
 web/html/reference/elements/input/checkbox,no_hash_commit
 web/html/reference/elements/input/color,no_hash_commit
 web/html/reference/elements/input/date,no_hash_commit
-web/html/reference/elements/input/datetime-local,no_hash_commit
+web/html/reference/elements/input/datetime-local,3944506d4afeeed774687cf3fd950878c6229bbc
 web/html/reference/elements/input/email,no_hash_commit
 web/html/reference/elements/input/file,f75b2c86ae4168e59416aed4c7121f222afc201d
 web/html/reference/elements/input/hidden,no_hash_commit
