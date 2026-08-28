@@ -143,7 +143,7 @@ glossary/certified,0
 glossary/challenge,0
 glossary/character,0
 glossary/character_encoding,0
-glossary/character_reference,0
+glossary/character_reference,1
 glossary/character_set,0
 glossary/chrome,0
 glossary/cia,0
@@ -1335,7 +1335,7 @@ mozilla/add-ons/webextensions/api/downloads/dangertype,0
 mozilla/add-ons/webextensions/api/downloads/doubledelta,0
 mozilla/add-ons/webextensions/api/downloads/download,0
 mozilla/add-ons/webextensions/api/downloads/downloaditem,0
-mozilla/add-ons/webextensions/api/downloads/downloadquery,0
+mozilla/add-ons/webextensions/api/downloads/downloadquery,1
 mozilla/add-ons/webextensions/api/downloads/downloadtime,0
 mozilla/add-ons/webextensions/api/downloads/erase,0
 mozilla/add-ons/webextensions/api/downloads/filenameconflictaction,0
@@ -2035,7 +2035,7 @@ mozilla/firefox/releases/65,0
 mozilla/firefox/releases/66,0
 mozilla/firefox/releases/67,0
 mozilla/firefox/releases/68,0
-mozilla/firefox/releases/69,0
+mozilla/firefox/releases/69,1
 mozilla/firefox/releases/7,0
 mozilla/firefox/releases/7/updating_extensions,0
 mozilla/firefox/releases/70,0
@@ -2169,7 +2169,7 @@ web/accessibility/aria/reference/roles/feed_role,0
 web/accessibility/aria/reference/roles/figure_role,0
 web/accessibility/aria/reference/roles/form_role,0
 web/accessibility/aria/reference/roles/generic_role,0
-web/accessibility/aria/reference/roles/grid_role,0
+web/accessibility/aria/reference/roles/grid_role,1
 web/accessibility/aria/reference/roles/gridcell_role,0
 web/accessibility/aria/reference/roles/group_role,0
 web/accessibility/aria/reference/roles/heading_role,0
@@ -3031,7 +3031,7 @@ web/api/cryptokey/extractable,0
 web/api/cryptokey/type,0
 web/api/cryptokey/usages,0
 web/api/cryptokeypair,0
-web/api/cspviolationreport,0
+web/api/cspviolationreport,1
 web/api/cspviolationreport/blockedurl,0
 web/api/cspviolationreport/columnnumber,0
 web/api/cspviolationreport/disposition,0
@@ -3282,7 +3282,7 @@ web/api/cssstyledeclaration/length,0
 web/api/cssstyledeclaration/parentrule,0
 web/api/cssstyledeclaration/removeproperty,0
 web/api/cssstyledeclaration/setproperty,0
-web/api/cssstyleproperties,0
+web/api/cssstyleproperties,1
 web/api/cssstyleproperties/cssfloat,0
 web/api/cssstylerule,0
 web/api/cssstylerule/selectortext,0
@@ -5119,7 +5119,7 @@ web/api/htmllinkelement/fetchpriority,0
 web/api/htmllinkelement/href,0
 web/api/htmllinkelement/hreflang,0
 web/api/htmllinkelement/imagesizes,0
-web/api/htmllinkelement/imagesrcset,0
+web/api/htmllinkelement/imagesrcset,1
 web/api/htmllinkelement/integrity,0
 web/api/htmllinkelement/media,0
 web/api/htmllinkelement/referrerpolicy,0
@@ -5684,7 +5684,7 @@ web/api/insertable_streams_for_mediastreamtrack_api,0
 web/api/installevent,0
 web/api/installevent/addroutes,0
 web/api/installevent/installevent,0
-web/api/integrityviolationreport,0
+web/api/integrityviolationreport,1
 web/api/interactioncontentfulpaint,0
 web/api/interactioncontentfulpaint/interactionid,0
 web/api/interactioncontentfulpaint/largestcontentfulpaint,0
@@ -6289,7 +6289,7 @@ web/api/navigationpreloadmanager,0
 web/api/navigationpreloadmanager/disable,0
 web/api/navigationpreloadmanager/enable,0
 web/api/navigationpreloadmanager/getstate,0
-web/api/navigationpreloadmanager/setheadervalue,0
+web/api/navigationpreloadmanager/setheadervalue,1
 web/api/navigationtransition,0
 web/api/navigationtransition/committed,0
 web/api/navigationtransition/finished,0
@@ -7100,7 +7100,7 @@ web/api/readablestreambyobreader/closed,0
 web/api/readablestreambyobreader/read,0
 web/api/readablestreambyobreader/readablestreambyobreader,0
 web/api/readablestreambyobreader/releaselock,0
-web/api/readablestreambyobrequest,0
+web/api/readablestreambyobrequest,1
 web/api/readablestreambyobrequest/respond,0
 web/api/readablestreambyobrequest/respondwithnewview,0
 web/api/readablestreambyobrequest/view,0
@@ -7214,7 +7214,7 @@ web/api/rtcaudiosourcestats/trackidentifier,0
 web/api/rtcaudiosourcestats/type,0
 web/api/rtccertificate,0
 web/api/rtccertificate/expires,0
-web/api/rtccertificate/getfingerprints,0
+web/api/rtccertificate/getfingerprints,1
 web/api/rtccertificatestats,0
 web/api/rtccertificatestats/base64certificate,0
 web/api/rtccertificatestats/fingerprint,0
@@ -7670,7 +7670,7 @@ web/api/sanitizer,0
 web/api/sanitizer/allowattribute,0
 web/api/sanitizer/allowelement,0
 web/api/sanitizer/get,0
-web/api/sanitizer/removeattribute,0
+web/api/sanitizer/removeattribute,1
 web/api/sanitizer/removeelement,0
 web/api/sanitizer/removeunsafe,0
 web/api/sanitizer/replaceelementwithchildren,0
@@ -7811,7 +7811,7 @@ web/api/serviceworker/postmessage,0
 web/api/serviceworker/scripturl,0
 web/api/serviceworker/state,0
 web/api/serviceworker/statechange_event,0
-web/api/serviceworkercontainer,0
+web/api/serviceworkercontainer,1
 web/api/serviceworkercontainer/controller,0
 web/api/serviceworkercontainer/controllerchange_event,0
 web/api/serviceworkercontainer/getregistration,0
@@ -8123,7 +8123,7 @@ web/api/subtlecrypto/sign,0
 web/api/subtlecrypto/unwrapkey,0
 web/api/subtlecrypto/verify,0
 web/api/subtlecrypto/wrapkey,0
-web/api/summarizer,0
+web/api/summarizer,1
 web/api/summarizer/availability_static,0
 web/api/summarizer/create_static,0
 web/api/summarizer/destroy,0
@@ -8137,7 +8137,7 @@ web/api/summarizer/outputlanguage,0
 web/api/summarizer/sharedcontext,0
 web/api/summarizer/summarize,0
 web/api/summarizer/summarizestreaming,0
-web/api/summarizer/type,0
+web/api/summarizer/type,1
 web/api/summarizer_api,0
 web/api/summarizer_api/using,0
 web/api/svg_api,0
@@ -9116,7 +9116,7 @@ web/api/videoencoder/isconfigsupported_static,0
 web/api/videoencoder/reset,0
 web/api/videoencoder/state,0
 web/api/videoencoder/videoencoder,0
-web/api/videoframe,0
+web/api/videoframe,1
 web/api/videoframe/allocationsize,0
 web/api/videoframe/clone,0
 web/api/videoframe/close,0
@@ -9721,7 +9721,7 @@ web/api/webvr_api/using_vr_controllers_with_webvr,0
 web/api/webvtt_api,0
 web/api/webvtt_api/web_video_text_tracks_format,0
 web/api/webxr_device_api,0
-web/api/webxr_device_api/bounded_reference_spaces,0
+web/api/webxr_device_api/bounded_reference_spaces,1
 web/api/webxr_device_api/cameras,0
 web/api/webxr_device_api/fundamentals,0
 web/api/webxr_device_api/geometry,0
@@ -9730,7 +9730,7 @@ web/api/webxr_device_api/lifecycle,0
 web/api/webxr_device_api/lighting,0
 web/api/webxr_device_api/movement_and_motion,0
 web/api/webxr_device_api/performance,0
-web/api/webxr_device_api/permissions_and_security,0
+web/api/webxr_device_api/permissions_and_security,1
 web/api/webxr_device_api/perspective,0
 web/api/webxr_device_api/rendering,0
 web/api/webxr_device_api/spatial_tracking,0
@@ -10459,7 +10459,7 @@ web/css/guides/logical_properties_and_values/floating_and_positioning,0
 web/css/guides/logical_properties_and_values/margins_borders_padding,0
 web/css/guides/logical_properties_and_values/sizing,0
 web/css/guides/masking,0
-web/css/guides/masking/clipping,0
+web/css/guides/masking/clipping,1
 web/css/guides/masking/introduction,0
 web/css/guides/masking/mask_properties,0
 web/css/guides/masking/multiple_masks,0
@@ -11509,7 +11509,7 @@ web/css/reference/values/hypot,0
 web/css/reference/values/ident,0
 web/css/reference/values/if,0
 web/css/reference/values/image,0
-web/css/reference/values/image/image,0
+web/css/reference/values/image/image,1
 web/css/reference/values/image/image-set,0
 web/css/reference/values/image/paint,0
 web/css/reference/values/important,0
@@ -11634,7 +11634,7 @@ web/html/reference/attributes/multiple,0
 web/html/reference/attributes/pattern,0
 web/html/reference/attributes/placeholder,0
 web/html/reference/attributes/readonly,0
-web/html/reference/attributes/rel,0
+web/html/reference/attributes/rel,1
 web/html/reference/attributes/rel/alternate_stylesheet,0
 web/html/reference/attributes/rel/compression-dictionary,0
 web/html/reference/attributes/rel/dns-prefetch,0
