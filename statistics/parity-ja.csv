@@ -2228,7 +2228,7 @@ web/accessibility/aria/reference/roles/textbox_role,9
 web/accessibility/aria/reference/roles/timer_role,4
 web/accessibility/aria/reference/roles/toolbar_role,0
 web/accessibility/aria/reference/roles/tooltip_role,6
-web/accessibility/aria/reference/roles/tree_role,0
+web/accessibility/aria/reference/roles/tree_role,1
 web/accessibility/aria/reference/roles/treegrid_role,2
 web/accessibility/aria/reference/roles/treeitem_role,0
 web/accessibility/aria/reference/roles/widget_role,0
@@ -3586,7 +3586,7 @@ web/api/document/scrollsnapchange_event,1
 web/api/document/scrollsnapchanging_event,1
 web/api/document/securitypolicyviolation_event,8
 web/api/document/selectedstylesheetset,2
-web/api/document/selectionchange_event,5
+web/api/document/selectionchange_event,6
 web/api/document/startviewtransition,1
 web/api/document/stylesheets,1
 web/api/document/stylesheetsets,1
@@ -5079,7 +5079,7 @@ web/api/htmlinputelement/required,1
 web/api/htmlinputelement/search_event,4
 web/api/htmlinputelement/select,1
 web/api/htmlinputelement/select_event,2
-web/api/htmlinputelement/selectionchange_event,4
+web/api/htmlinputelement/selectionchange_event,5
 web/api/htmlinputelement/selectiondirection,2
 web/api/htmlinputelement/selectionend,3
 web/api/htmlinputelement/selectionstart,2
@@ -5445,7 +5445,7 @@ web/api/htmltextareaelement/required,1
 web/api/htmltextareaelement/rows,1
 web/api/htmltextareaelement/select,0
 web/api/htmltextareaelement/select_event,1
-web/api/htmltextareaelement/selectionchange_event,1
+web/api/htmltextareaelement/selectionchange_event,2
 web/api/htmltextareaelement/selectiondirection,1
 web/api/htmltextareaelement/selectionend,1
 web/api/htmltextareaelement/selectionstart,5
@@ -9490,7 +9490,7 @@ web/api/webglobject,3
 web/api/webglprogram,2
 web/api/webglquery,null
 web/api/webglrenderbuffer,3
-web/api/webglrenderingcontext,0
+web/api/webglrenderingcontext,1
 web/api/webglrenderingcontext/activetexture,1
 web/api/webglrenderingcontext/attachshader,4
 web/api/webglrenderingcontext/bindattriblocation,null
@@ -11421,8 +11421,8 @@ web/css/reference/values/attr,5
 web/css/reference/values/axis,1
 web/css/reference/values/baseline-position,1
 web/css/reference/values/basic-shape,4
-web/css/reference/values/basic-shape/circle,3
-web/css/reference/values/basic-shape/ellipse,3
+web/css/reference/values/basic-shape/circle,4
+web/css/reference/values/basic-shape/ellipse,4
 web/css/reference/values/basic-shape/inset,1
 web/css/reference/values/basic-shape/path,1
 web/css/reference/values/basic-shape/polygon,2
@@ -12789,7 +12789,7 @@ web/javascript/reference/global_objects/json,0
 web/javascript/reference/global_objects/json/israwjson,0
 web/javascript/reference/global_objects/json/parse,0
 web/javascript/reference/global_objects/json/rawjson,0
-web/javascript/reference/global_objects/json/stringify,0
+web/javascript/reference/global_objects/json/stringify,1
 web/javascript/reference/global_objects/map,1
 web/javascript/reference/global_objects/map/clear,0
 web/javascript/reference/global_objects/map/delete,0

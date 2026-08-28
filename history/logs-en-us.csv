@@ -913,7 +913,7 @@ learn_web_development/extensions/server-side/configuring_server_mime_types,f85d2
 learn_web_development/extensions/server-side/django,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0,Learn|Extensions
 learn_web_development/extensions/server-side/django/admin_site,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Learn|Extensions
 learn_web_development/extensions/server-side/django/authentication,f99d00a1c3697e26a679925954e26564e7e79b98,Learn|Extensions
-learn_web_development/extensions/server-side/django/deployment,e1e7e2ac2cb1e40293c32c24bc0667905e9a7a04,Learn|Extensions
+learn_web_development/extensions/server-side/django/deployment,30e0adab23668217555b7ed37df7e6e61b002bf3,Learn|Extensions
 learn_web_development/extensions/server-side/django/development_environment,e82295d471ebda705947d0e5752421df3f85ad43,Learn|Extensions
 learn_web_development/extensions/server-side/django/django_assessment_blog,2530db14de9ac226cf06f84540fa0101e804ca9b,Learn|Extensions
 learn_web_development/extensions/server-side/django/forms,f46a2540200b2aac78b86c48804f8da60f954c25,Learn|Extensions
@@ -1964,7 +1964,7 @@ mozilla/firefox/releases/22,83f4e64da466670c3700110da364546253eae127,Mozilla|Fir
 mozilla/firefox/releases/23,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/24,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/25,1da52a7f6bb19443de543ed6dfd8983602d501c7,Mozilla|Firefox|Versions
-mozilla/firefox/releases/26,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
+mozilla/firefox/releases/26,30e0adab23668217555b7ed37df7e6e61b002bf3,Mozilla|Firefox|Versions
 mozilla/firefox/releases/27,56f3d7018159127dbe92842413fb45d0aa7e8193,Mozilla|Firefox|Versions
 mozilla/firefox/releases/28,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/29,56f3d7018159127dbe92842413fb45d0aa7e8193,Mozilla|Firefox|Versions
@@ -2228,7 +2228,7 @@ web/accessibility/aria/reference/roles/textbox_role,fd2acb039cc1caee4af10f76ffb8
 web/accessibility/aria/reference/roles/timer_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/toolbar_role,c833741444aba4d524992813eda1cd8d64563aed,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tooltip_role,4cb9d89a204a9532370693b982e8a3b274a874b1,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/tree_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/tree_role,30e0adab23668217555b7ed37df7e6e61b002bf3,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treegrid_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treeitem_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/widget_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
@@ -3586,7 +3586,7 @@ web/api/document/scrollsnapchange_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/document/scrollsnapchanging_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/document/securitypolicyviolation_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/document/selectedstylesheetset,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
-web/api/document/selectionchange_event,453f1e19963409710b3466630538467db38a3f6f,Web APIs
+web/api/document/selectionchange_event,81a7c1667ff8881e40435fa7fc7e968f9b6cd622,Web APIs
 web/api/document/startviewtransition,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
 web/api/document/stylesheets,87440643d71bf81a5bf4b8fa21db9e3d56ead395,Web APIs
 web/api/document/stylesheetsets,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -5079,7 +5079,7 @@ web/api/htmlinputelement/required,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web A
 web/api/htmlinputelement/search_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/htmlinputelement/select,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
 web/api/htmlinputelement/select_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
-web/api/htmlinputelement/selectionchange_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
+web/api/htmlinputelement/selectionchange_event,81a7c1667ff8881e40435fa7fc7e968f9b6cd622,Web APIs
 web/api/htmlinputelement/selectiondirection,6d2000984203c51f1aad49107ebcebe14d3c1238,Web APIs
 web/api/htmlinputelement/selectionend,e970f0765da11f7a6461cdb6693c40a39ecb6934,Web APIs
 web/api/htmlinputelement/selectionstart,178483fe17b808b5d8b23087796a937ce6fd2a1d,Web APIs
@@ -5445,7 +5445,7 @@ web/api/htmltextareaelement/required,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,We
 web/api/htmltextareaelement/rows,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmltextareaelement/select,b921b8d779314f2098a1669d8269b36107ecfbb1,Web APIs
 web/api/htmltextareaelement/select_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
-web/api/htmltextareaelement/selectionchange_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
+web/api/htmltextareaelement/selectionchange_event,81a7c1667ff8881e40435fa7fc7e968f9b6cd622,Web APIs
 web/api/htmltextareaelement/selectiondirection,76d6c2c2bcca61d0d14ed464356716090097bc7a,Web APIs
 web/api/htmltextareaelement/selectionend,76d6c2c2bcca61d0d14ed464356716090097bc7a,Web APIs
 web/api/htmltextareaelement/selectionstart,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
@@ -9490,7 +9490,7 @@ web/api/webglobject,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
 web/api/webglprogram,f2dc3d5367203c860cf1a71ce0e972f018523849,Web APIs
 web/api/webglquery,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
 web/api/webglrenderbuffer,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
-web/api/webglrenderingcontext,47962c4ebad5a138673422ec63a282ab9a63d454,Web APIs
+web/api/webglrenderingcontext,30e0adab23668217555b7ed37df7e6e61b002bf3,Web APIs
 web/api/webglrenderingcontext/activetexture,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
 web/api/webglrenderingcontext/attachshader,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
 web/api/webglrenderingcontext/bindattriblocation,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
@@ -11421,8 +11421,8 @@ web/css/reference/values/attr,3e21789c23062f7cfffa6fd7e24bd9dfc2c38551,CSS|Value
 web/css/reference/values/axis,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/baseline-position,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/basic-shape,6edb918a9e6bd17858d48dcfa5d76aa5ed5b9659,CSS|Values
-web/css/reference/values/basic-shape/circle,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|Values
-web/css/reference/values/basic-shape/ellipse,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|Values
+web/css/reference/values/basic-shape/circle,30e0adab23668217555b7ed37df7e6e61b002bf3,CSS|Values
+web/css/reference/values/basic-shape/ellipse,30e0adab23668217555b7ed37df7e6e61b002bf3,CSS|Values
 web/css/reference/values/basic-shape/inset,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Values
 web/css/reference/values/basic-shape/path,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Values
 web/css/reference/values/basic-shape/polygon,6edb918a9e6bd17858d48dcfa5d76aa5ed5b9659,CSS|Values
@@ -12789,7 +12789,7 @@ web/javascript/reference/global_objects/json,ab03131120acd9e210a5da979d685457e07
 web/javascript/reference/global_objects/json/israwjson,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/json/parse,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/json/rawjson,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/json/stringify,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/json/stringify,30e0adab23668217555b7ed37df7e6e61b002bf3,JavaScript|Global Objects
 web/javascript/reference/global_objects/map,c808a24d4e4f7bda00e7117f315965ed39b780e5,JavaScript|Global Objects
 web/javascript/reference/global_objects/map/clear,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/map/delete,7b63b90d24ad8945977bb9dc2735d75f72829bc1,JavaScript|Global Objects
@@ -14424,7 +14424,7 @@ webassembly/reference/memory/init,f35f247e16286c4e0b1c88fba3d8ce01683c189b,WebAs
 webassembly/reference/memory/load,6e99dbce48ff569afb34ad36a5aa4129a945af31,WebAssembly|Memory
 webassembly/reference/memory/size,6e99dbce48ff569afb34ad36a5aa4129a945af31,WebAssembly|Memory
 webassembly/reference/memory/store,6e99dbce48ff569afb34ad36a5aa4129a945af31,WebAssembly|Memory
-webassembly/reference/numeric,43030e03d6c792494bf8eb4d76963933a564e8d9,WebAssembly|Numeric
+webassembly/reference/numeric,30e0adab23668217555b7ed37df7e6e61b002bf3,WebAssembly|Numeric
 webassembly/reference/numeric/abs,4d8fcaa723acfff9b9d1fc5cceb9685e06b5fb0f,WebAssembly|Numeric
 webassembly/reference/numeric/add,4d8fcaa723acfff9b9d1fc5cceb9685e06b5fb0f,WebAssembly|Numeric
 webassembly/reference/numeric/and,4d8fcaa723acfff9b9d1fc5cceb9685e06b5fb0f,WebAssembly|Numeric

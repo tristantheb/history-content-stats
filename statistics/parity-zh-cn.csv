@@ -11421,8 +11421,8 @@ web/css/reference/values/attr,7
 web/css/reference/values/axis,null
 web/css/reference/values/baseline-position,1
 web/css/reference/values/basic-shape,10
-web/css/reference/values/basic-shape/circle,7
-web/css/reference/values/basic-shape/ellipse,7
+web/css/reference/values/basic-shape/circle,8
+web/css/reference/values/basic-shape/ellipse,8
 web/css/reference/values/basic-shape/inset,5
 web/css/reference/values/basic-shape/path,9
 web/css/reference/values/basic-shape/polygon,8
