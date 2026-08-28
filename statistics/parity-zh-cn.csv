@@ -7299,7 +7299,7 @@ web/api/rtcerror/errordetail,null
 web/api/rtcerror/receivedalert,null
 web/api/rtcerror/rtcerror,null
 web/api/rtcerror/sctpcausecode,null
-web/api/rtcerror/sdplinenumber,1
+web/api/rtcerror/sdplinenumber,2
 web/api/rtcerror/sentalert,null
 web/api/rtcerrorevent,null
 web/api/rtcerrorevent/error,null
@@ -11686,7 +11686,7 @@ web/html/reference/elements/div,7
 web/html/reference/elements/dl,null
 web/html/reference/elements/dt,4
 web/html/reference/elements/em,null
-web/html/reference/elements/embed,null
+web/html/reference/elements/embed,0
 web/html/reference/elements/fencedframe,8
 web/html/reference/elements/fieldset,null
 web/html/reference/elements/figcaption,7
