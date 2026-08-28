@@ -1880,7 +1880,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,f99d00a1c3697e26a679925954e26564e7e79b98,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,665c2d37db9d131e9651f9b49c2a78a96e25270c,Mozilla|Firefox
+mozilla/firefox/experimental_features,e42e3a5e4b6b42f4346ef90e2393c120c0fbb2ed,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -6881,7 +6881,7 @@ web/api/pictureinpicturewindow/resize_event,ac7f589f2471fde8e5ee910a7fbd8a4bff93
 web/api/pictureinpicturewindow/width,61ceefea7281f267055e4481a9a610d7ac2e724e,Web APIs
 web/api/plugin,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/pluginarray,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
-web/api/pointer_events,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
+web/api/pointer_events,a69f7c732da7be334fc2c679c5cb9484baf79ba9,Web APIs
 web/api/pointer_events/multi-touch_interaction,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
 web/api/pointer_events/pinch_zoom_gestures,5f6be198317d812626e71513bbde0385ef7e76be,Web APIs
 web/api/pointer_events/using_pointer_events,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
@@ -7294,16 +7294,16 @@ web/api/rtcencodedvideoframe/getmetadata,23398d025295ad1eaf1663a26fbe738a8fe1288
 web/api/rtcencodedvideoframe/rtcencodedvideoframe,23398d025295ad1eaf1663a26fbe738a8fe12883,Web APIs
 web/api/rtcencodedvideoframe/timestamp,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/rtcencodedvideoframe/type,97dd70e4dd995c49c25719371d84b6b5aaaac940,Web APIs
-web/api/rtcerror,e7f93b8ebd8b26bd6fae71f7b0b6214a671a4ef9,Web APIs
-web/api/rtcerror/errordetail,e7f93b8ebd8b26bd6fae71f7b0b6214a671a4ef9,Web APIs
-web/api/rtcerror/receivedalert,e7f93b8ebd8b26bd6fae71f7b0b6214a671a4ef9,Web APIs
-web/api/rtcerror/rtcerror,e7f93b8ebd8b26bd6fae71f7b0b6214a671a4ef9,Web APIs
-web/api/rtcerror/sctpcausecode,e7f93b8ebd8b26bd6fae71f7b0b6214a671a4ef9,Web APIs
-web/api/rtcerror/sdplinenumber,e7f93b8ebd8b26bd6fae71f7b0b6214a671a4ef9,Web APIs
-web/api/rtcerror/sentalert,e7f93b8ebd8b26bd6fae71f7b0b6214a671a4ef9,Web APIs
-web/api/rtcerrorevent,e7f93b8ebd8b26bd6fae71f7b0b6214a671a4ef9,Web APIs
-web/api/rtcerrorevent/error,e7f93b8ebd8b26bd6fae71f7b0b6214a671a4ef9,Web APIs
-web/api/rtcerrorevent/rtcerrorevent,e7f93b8ebd8b26bd6fae71f7b0b6214a671a4ef9,Web APIs
+web/api/rtcerror,581220b4299dd4c44544f7c200440129067a9d9d,Web APIs
+web/api/rtcerror/errordetail,581220b4299dd4c44544f7c200440129067a9d9d,Web APIs
+web/api/rtcerror/receivedalert,581220b4299dd4c44544f7c200440129067a9d9d,Web APIs
+web/api/rtcerror/rtcerror,581220b4299dd4c44544f7c200440129067a9d9d,Web APIs
+web/api/rtcerror/sctpcausecode,581220b4299dd4c44544f7c200440129067a9d9d,Web APIs
+web/api/rtcerror/sdplinenumber,581220b4299dd4c44544f7c200440129067a9d9d,Web APIs
+web/api/rtcerror/sentalert,581220b4299dd4c44544f7c200440129067a9d9d,Web APIs
+web/api/rtcerrorevent,581220b4299dd4c44544f7c200440129067a9d9d,Web APIs
+web/api/rtcerrorevent/error,581220b4299dd4c44544f7c200440129067a9d9d,Web APIs
+web/api/rtcerrorevent/rtcerrorevent,581220b4299dd4c44544f7c200440129067a9d9d,Web APIs
 web/api/rtcicecandidate,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/rtcicecandidate/address,00f46adb5616d826821d63b11eac285faf1cf4a5,Web APIs
 web/api/rtcicecandidate/candidate,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,Web APIs
@@ -12184,7 +12184,7 @@ web/http/reference/status/303,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Stat
 web/http/reference/status/304,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
 web/http/reference/status/307,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
 web/http/reference/status/308,a44f198025a4efab10df30201b59793b8e0fd38c,HTTP|Status
-web/http/reference/status/400,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
+web/http/reference/status/400,88d5d5230dc9f67cbfa37cea178f0eccd6632a8b,HTTP|Status
 web/http/reference/status/401,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
 web/http/reference/status/402,304469f96698fda14a08e35060057a23761daea4,HTTP|Status
 web/http/reference/status/403,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
@@ -13638,7 +13638,7 @@ web/media/guides/formats/audio_concepts,26e46f8c13ebea65dc65a6e99e51e8fa4d5d619d
 web/media/guides/formats/codecs_parameter,517b6108edc9a1eae8723f7f3ae434c1724d89ac,Media|Guides
 web/media/guides/formats/configuring_servers_for_ogg_media,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Media|Guides
 web/media/guides/formats/containers,a8ba4ed3061cddb88d40977dbb855cf27cedcfc2,Media|Guides
-web/media/guides/formats/image_types,d559e66723de93ce6c59eb5d22a29afca7265c2a,Media|Guides
+web/media/guides/formats/image_types,b8e8a800e6f3db7aab3eb29bb40814560bb6ade9,Media|Guides
 web/media/guides/formats/support_issues,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
 web/media/guides/formats/video_codecs,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,Media|Guides
 web/media/guides/formats/video_concepts,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
@@ -13978,7 +13978,7 @@ web/svg/reference/attribute/to,ab279632b84d201ae9ddd3db3981bf0b01573371,SVG|Attr
 web/svg/reference/attribute/transform,a65cb1fa4293b1006ac02ce9a19507fd2ab960f7,SVG|Attribute
 web/svg/reference/attribute/transform-origin,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
 web/svg/reference/attribute/type,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
-web/svg/reference/attribute/unicode-bidi,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
+web/svg/reference/attribute/unicode-bidi,72644896e30a618579b67b805e68855c20ec7d0f,SVG|Attribute
 web/svg/reference/attribute/values,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/vector-effect,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
 web/svg/reference/attribute/version,f99d00a1c3697e26a679925954e26564e7e79b98,SVG|Attribute
