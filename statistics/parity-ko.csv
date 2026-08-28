@@ -3603,7 +3603,7 @@ web/api/document/xmlversion,null
 web/api/document_object_model,6
 web/api/document_object_model/anatomy_of_the_dom,null
 web/api/document_object_model/building_and_updating_the_dom_tree,null
-web/api/document_object_model/events,5
+web/api/document_object_model/events,6
 web/api/document_object_model/reflected_attributes,null
 web/api/document_object_model/selection_and_traversal_on_the_dom_tree,null
 web/api/document_picture-in-picture_api,null
@@ -4223,7 +4223,7 @@ web/api/file/webkitrelativepath,null
 web/api/file_and_directory_entries_api,null
 web/api/file_api,4
 web/api/file_api/using_files_from_web_applications,null
-web/api/file_system_api,5
+web/api/file_system_api,6
 web/api/file_system_api/origin_private_file_system,null
 web/api/fileentrysync,null
 web/api/filelist,null
@@ -12313,7 +12313,7 @@ web/javascript/reference/errors/duplicate_parameter,null
 web/javascript/reference/errors/duplicate_proto,null
 web/javascript/reference/errors/either_be_both_static_or_non-static,null
 web/javascript/reference/errors/form_must_be_one_of,null
-web/javascript/reference/errors/function_label,0
+web/javascript/reference/errors/function_label,1
 web/javascript/reference/errors/get_set_missing_private,null
 web/javascript/reference/errors/getter_no_arguments,null
 web/javascript/reference/errors/getter_only,null
@@ -12914,10 +12914,12 @@ web/javascript/reference/global_objects/object/valueof,null
 web/javascript/reference/global_objects/object/values,null
 web/javascript/reference/global_objects/parsefloat,null
 web/javascript/reference/global_objects/parseint,null
-web/javascript/reference/global_objects/promise,32
+web/javascript/reference/global_objects/promise,33
 web/javascript/reference/global_objects/promise/all,null
+web/javascript/reference/global_objects/promise/allkeyed,null
 web/javascript/reference/global_objects/promise/allsettled,null
-web/javascript/reference/global_objects/promise/any,7
+web/javascript/reference/global_objects/promise/allsettledkeyed,null
+web/javascript/reference/global_objects/promise/any,8
 web/javascript/reference/global_objects/promise/catch,6
 web/javascript/reference/global_objects/promise/finally,11
 web/javascript/reference/global_objects/promise/promise,null
@@ -12976,7 +12978,7 @@ web/javascript/reference/global_objects/regexp/lastindex,null
 web/javascript/reference/global_objects/regexp/lastmatch,5
 web/javascript/reference/global_objects/regexp/lastparen,6
 web/javascript/reference/global_objects/regexp/leftcontext,7
-web/javascript/reference/global_objects/regexp/multiline,7
+web/javascript/reference/global_objects/regexp/multiline,8
 web/javascript/reference/global_objects/regexp/n,6
 web/javascript/reference/global_objects/regexp/regexp,null
 web/javascript/reference/global_objects/regexp/rightcontext,6
@@ -12990,7 +12992,7 @@ web/javascript/reference/global_objects/regexp/symbol.species,null
 web/javascript/reference/global_objects/regexp/symbol.split,null
 web/javascript/reference/global_objects/regexp/test,null
 web/javascript/reference/global_objects/regexp/tostring,null
-web/javascript/reference/global_objects/regexp/unicode,5
+web/javascript/reference/global_objects/regexp/unicode,6
 web/javascript/reference/global_objects/regexp/unicodesets,4
 web/javascript/reference/global_objects/set,3
 web/javascript/reference/global_objects/set/add,5
@@ -13504,6 +13506,7 @@ web/javascript/reference/operators/yield,null
 web/javascript/reference/operators/yield_star_,null
 web/javascript/reference/regular_expressions,null
 web/javascript/reference/regular_expressions/backreference,null
+web/javascript/reference/regular_expressions/buffer_boundary_assertion,null
 web/javascript/reference/regular_expressions/capturing_group,null
 web/javascript/reference/regular_expressions/character_class,null
 web/javascript/reference/regular_expressions/character_class_escape,null

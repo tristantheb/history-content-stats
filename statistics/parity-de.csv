@@ -708,7 +708,7 @@ learn_web_development/core/accessibility/test_your_skills/css_and_javascript,0
 learn_web_development/core/accessibility/test_your_skills/html,0
 learn_web_development/core/accessibility/test_your_skills/wai-aria,0
 learn_web_development/core/accessibility/tooling,0
-learn_web_development/core/accessibility/wai-aria_basics,0
+learn_web_development/core/accessibility/wai-aria_basics,1
 learn_web_development/core/accessibility/what_is_accessibility,0
 learn_web_development/core/css_layout,0
 learn_web_development/core/css_layout/flexbox,0
@@ -753,7 +753,7 @@ learn_web_development/core/scripting/events,0
 learn_web_development/core/scripting/functions,0
 learn_web_development/core/scripting/house_data_ui,0
 learn_web_development/core/scripting/image_gallery,0
-learn_web_development/core/scripting/json,0
+learn_web_development/core/scripting/json,1
 learn_web_development/core/scripting/loops,0
 learn_web_development/core/scripting/math,0
 learn_web_development/core/scripting/network_requests,0
@@ -1442,7 +1442,7 @@ mozilla/add-ons/webextensions/api/menus/itemtype,0
 mozilla/add-ons/webextensions/api/menus/onclickdata,0
 mozilla/add-ons/webextensions/api/menus/onclicked,0
 mozilla/add-ons/webextensions/api/menus/onhidden,0
-mozilla/add-ons/webextensions/api/menus/onshown,0
+mozilla/add-ons/webextensions/api/menus/onshown,1
 mozilla/add-ons/webextensions/api/menus/overridecontext,0
 mozilla/add-ons/webextensions/api/menus/refresh,0
 mozilla/add-ons/webextensions/api/menus/remove,0
@@ -1461,7 +1461,7 @@ mozilla/add-ons/webextensions/api/notifications/templatetype,0
 mozilla/add-ons/webextensions/api/notifications/update,0
 mozilla/add-ons/webextensions/api/omnibox,0
 mozilla/add-ons/webextensions/api/omnibox/ondeletesuggestion,0
-mozilla/add-ons/webextensions/api/omnibox/oninputcancelled,0
+mozilla/add-ons/webextensions/api/omnibox/oninputcancelled,1
 mozilla/add-ons/webextensions/api/omnibox/oninputchanged,0
 mozilla/add-ons/webextensions/api/omnibox/oninputentered,0
 mozilla/add-ons/webextensions/api/omnibox/oninputentereddisposition,0
@@ -1598,7 +1598,7 @@ mozilla/add-ons/webextensions/api/sidebaraction/settitle,0
 mozilla/add-ons/webextensions/api/sidebaraction/toggle,0
 mozilla/add-ons/webextensions/api/storage,0
 mozilla/add-ons/webextensions/api/storage/local,0
-mozilla/add-ons/webextensions/api/storage/managed,0
+mozilla/add-ons/webextensions/api/storage/managed,1
 mozilla/add-ons/webextensions/api/storage/onchanged,0
 mozilla/add-ons/webextensions/api/storage/session,0
 mozilla/add-ons/webextensions/api/storage/session/quota_bytes,0
@@ -1804,7 +1804,7 @@ mozilla/add-ons/webextensions/extending_the_developer_tools,0
 mozilla/add-ons/webextensions/implement_a_settings_page,0
 mozilla/add-ons/webextensions/interact_with_the_clipboard,0
 mozilla/add-ons/webextensions/intercept_http_requests,0
-mozilla/add-ons/webextensions/internationalization,0
+mozilla/add-ons/webextensions/internationalization,1
 mozilla/add-ons/webextensions/manifest.json,0
 mozilla/add-ons/webextensions/manifest.json/action,0
 mozilla/add-ons/webextensions/manifest.json/author,0
@@ -1880,7 +1880,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -2087,7 +2087,7 @@ web/accessibility,0
 web/accessibility/aria,0
 web/accessibility/aria/guides,0
 web/accessibility/aria/guides/live_regions,0
-web/accessibility/aria/guides/multipart_labels,0
+web/accessibility/aria/guides/multipart_labels,1
 web/accessibility/aria/guides/screen_reader_implementors,0
 web/accessibility/aria/guides/techniques,0
 web/accessibility/aria/reference,0
@@ -2178,7 +2178,7 @@ web/accessibility/aria/reference/roles/input_role,0
 web/accessibility/aria/reference/roles/landmark_role,0
 web/accessibility/aria/reference/roles/link_role,0
 web/accessibility/aria/reference/roles/list_role,0
-web/accessibility/aria/reference/roles/listbox_role,0
+web/accessibility/aria/reference/roles/listbox_role,1
 web/accessibility/aria/reference/roles/listitem_role,0
 web/accessibility/aria/reference/roles/log_role,0
 web/accessibility/aria/reference/roles/main_role,0
@@ -2186,7 +2186,7 @@ web/accessibility/aria/reference/roles/mark_role,0
 web/accessibility/aria/reference/roles/marquee_role,0
 web/accessibility/aria/reference/roles/math_role,0
 web/accessibility/aria/reference/roles/menu_role,0
-web/accessibility/aria/reference/roles/menubar_role,0
+web/accessibility/aria/reference/roles/menubar_role,1
 web/accessibility/aria/reference/roles/menuitem_role,0
 web/accessibility/aria/reference/roles/menuitemcheckbox_role,0
 web/accessibility/aria/reference/roles/menuitemradio_role,0
@@ -2197,7 +2197,7 @@ web/accessibility/aria/reference/roles/note_role,0
 web/accessibility/aria/reference/roles/option_role,0
 web/accessibility/aria/reference/roles/presentation_role,0
 web/accessibility/aria/reference/roles/progressbar_role,0
-web/accessibility/aria/reference/roles/radio_role,0
+web/accessibility/aria/reference/roles/radio_role,1
 web/accessibility/aria/reference/roles/radiogroup_role,0
 web/accessibility/aria/reference/roles/range_role,0
 web/accessibility/aria/reference/roles/region_role,0
@@ -2221,7 +2221,7 @@ web/accessibility/aria/reference/roles/suggestion_role,0
 web/accessibility/aria/reference/roles/switch_role,0
 web/accessibility/aria/reference/roles/tab_role,0
 web/accessibility/aria/reference/roles/table_role,0
-web/accessibility/aria/reference/roles/tablist_role,0
+web/accessibility/aria/reference/roles/tablist_role,1
 web/accessibility/aria/reference/roles/tabpanel_role,0
 web/accessibility/aria/reference/roles/term_role,0
 web/accessibility/aria/reference/roles/textbox_role,0
@@ -2229,7 +2229,7 @@ web/accessibility/aria/reference/roles/timer_role,0
 web/accessibility/aria/reference/roles/toolbar_role,0
 web/accessibility/aria/reference/roles/tooltip_role,0
 web/accessibility/aria/reference/roles/tree_role,0
-web/accessibility/aria/reference/roles/treegrid_role,0
+web/accessibility/aria/reference/roles/treegrid_role,1
 web/accessibility/aria/reference/roles/treeitem_role,0
 web/accessibility/aria/reference/roles/widget_role,0
 web/accessibility/aria/reference/roles/window_role,0
@@ -2245,12 +2245,12 @@ web/accessibility/guides/mobile_accessibility_checklist,0
 web/accessibility/guides/seizure_disorders,0
 web/accessibility/guides/understanding_wcag,0
 web/accessibility/guides/understanding_wcag/keyboard,0
-web/accessibility/guides/understanding_wcag/operable,0
-web/accessibility/guides/understanding_wcag/perceivable,0
+web/accessibility/guides/understanding_wcag/operable,1
+web/accessibility/guides/understanding_wcag/perceivable,1
 web/accessibility/guides/understanding_wcag/perceivable/color_contrast,0
 web/accessibility/guides/understanding_wcag/perceivable/use_of_color,0
 web/accessibility/guides/understanding_wcag/robust,0
-web/accessibility/guides/understanding_wcag/text_labels_and_names,0
+web/accessibility/guides/understanding_wcag/text_labels_and_names,1
 web/accessibility/guides/understanding_wcag/understandable,0
 web/api,0
 web/api/abortcontroller,0
@@ -2261,7 +2261,7 @@ web/api/abortsignal,0
 web/api/abortsignal/abort_event,0
 web/api/abortsignal/abort_static,0
 web/api/abortsignal/aborted,0
-web/api/abortsignal/any_static,0
+web/api/abortsignal/any_static,1
 web/api/abortsignal/reason,0
 web/api/abortsignal/throwifaborted,0
 web/api/abortsignal/timeout_static,0
@@ -2990,8 +2990,8 @@ web/api/cookiechangeevent/deleted,0
 web/api/cookiestore,0
 web/api/cookiestore/change_event,0
 web/api/cookiestore/delete,0
-web/api/cookiestore/get,0
-web/api/cookiestore/getall,0
+web/api/cookiestore/get,1
+web/api/cookiestore/getall,1
 web/api/cookiestore/set,0
 web/api/cookiestoremanager,0
 web/api/cookiestoremanager/getsubscriptions,0
@@ -3016,7 +3016,7 @@ web/api/credential_management_api,0
 web/api/credential_management_api/credential_types,0
 web/api/credentialscontainer,0
 web/api/credentialscontainer/create,0
-web/api/credentialscontainer/get,0
+web/api/credentialscontainer/get,1
 web/api/credentialscontainer/preventsilentaccess,0
 web/api/credentialscontainer/store,0
 web/api/croptarget,0
@@ -3603,7 +3603,7 @@ web/api/document/xmlversion,0
 web/api/document_object_model,0
 web/api/document_object_model/anatomy_of_the_dom,0
 web/api/document_object_model/building_and_updating_the_dom_tree,0
-web/api/document_object_model/events,0
+web/api/document_object_model/events,1
 web/api/document_object_model/reflected_attributes,0
 web/api/document_object_model/selection_and_traversal_on_the_dom_tree,0
 web/api/document_picture-in-picture_api,0
@@ -3948,7 +3948,7 @@ web/api/element/nextelementsibling,0
 web/api/element/outerhtml,0
 web/api/element/part,0
 web/api/element/paste_event,0
-web/api/element/pointercancel_event,0
+web/api/element/pointercancel_event,1
 web/api/element/pointerdown_event,0
 web/api/element/pointerenter_event,0
 web/api/element/pointerleave_event,0
@@ -4223,7 +4223,7 @@ web/api/file/webkitrelativepath,0
 web/api/file_and_directory_entries_api,0
 web/api/file_api,0
 web/api/file_api/using_files_from_web_applications,0
-web/api/file_system_api,0
+web/api/file_system_api,1
 web/api/file_system_api/origin_private_file_system,0
 web/api/fileentrysync,0
 web/api/filelist,0
@@ -4260,13 +4260,13 @@ web/api/filesystemdirectoryentry/createreader,0
 web/api/filesystemdirectoryentry/getdirectory,0
 web/api/filesystemdirectoryentry/getfile,0
 web/api/filesystemdirectoryentry/removerecursively,0
-web/api/filesystemdirectoryhandle,0
+web/api/filesystemdirectoryhandle,1
 web/api/filesystemdirectoryhandle/entries,0
 web/api/filesystemdirectoryhandle/getdirectoryhandle,0
 web/api/filesystemdirectoryhandle/getfilehandle,0
 web/api/filesystemdirectoryhandle/keys,0
 web/api/filesystemdirectoryhandle/removeentry,0
-web/api/filesystemdirectoryhandle/resolve,0
+web/api/filesystemdirectoryhandle/resolve,1
 web/api/filesystemdirectoryhandle/values,0
 web/api/filesystemdirectoryreader,0
 web/api/filesystemdirectoryreader/readentries,0
@@ -4733,7 +4733,7 @@ web/api/html_dom_api/microtask_guide,0
 web/api/html_dom_api/microtask_guide/in_depth,0
 web/api/html_drag_and_drop_api,0
 web/api/html_drag_and_drop_api/drag_data_store,0
-web/api/html_drag_and_drop_api/drag_operations,0
+web/api/html_drag_and_drop_api/drag_operations,1
 web/api/html_drag_and_drop_api/file_drag_and_drop,0
 web/api/html_drag_and_drop_api/kanban_board,0
 web/api/html_sanitizer_api,0
@@ -4847,12 +4847,12 @@ web/api/htmldetailselement,0
 web/api/htmldetailselement/name,0
 web/api/htmldetailselement/open,0
 web/api/htmldialogelement,0
-web/api/htmldialogelement/cancel_event,0
+web/api/htmldialogelement/cancel_event,1
 web/api/htmldialogelement/close,0
 web/api/htmldialogelement/close_event,0
 web/api/htmldialogelement/closedby,0
 web/api/htmldialogelement/open,0
-web/api/htmldialogelement/requestclose,0
+web/api/htmldialogelement/requestclose,1
 web/api/htmldialogelement/returnvalue,0
 web/api/htmldialogelement/show,0
 web/api/htmldialogelement/showmodal,0
@@ -4873,7 +4873,7 @@ web/api/htmlelement/beforetoggle_event,0
 web/api/htmlelement/blur,0
 web/api/htmlelement/change_event,0
 web/api/htmlelement/click,0
-web/api/htmlelement/command_event,0
+web/api/htmlelement/command_event,1
 web/api/htmlelement/contenteditable,0
 web/api/htmlelement/dataset,0
 web/api/htmlelement/dir,0
@@ -5736,7 +5736,7 @@ web/api/keyboardevent/initkeyboardevent,0
 web/api/keyboardevent/iscomposing,0
 web/api/keyboardevent/key,0
 web/api/keyboardevent/keyboardevent,0
-web/api/keyboardevent/keycode,0
+web/api/keyboardevent/keycode,1
 web/api/keyboardevent/keyidentifier,0
 web/api/keyboardevent/location,0
 web/api/keyboardevent/metakey,0
@@ -5777,7 +5777,7 @@ web/api/languagemodel/contextwindow,0
 web/api/languagemodel/create_static,1
 web/api/languagemodel/destroy,1
 web/api/languagemodel/measurecontextusage,0
-web/api/languagemodel/prompt,1
+web/api/languagemodel/prompt,2
 web/api/languagemodel/promptstreaming,0
 web/api/largestcontentfulpaint,0
 web/api/largestcontentfulpaint/element,0
@@ -6606,7 +6606,7 @@ web/api/path2d/path2d,0
 web/api/payment_request_api,0
 web/api/payment_request_api/concepts,0
 web/api/payment_request_api/using_secure_payment_confirmation,0
-web/api/payment_request_api/using_the_payment_request_api,0
+web/api/payment_request_api/using_the_payment_request_api,1
 web/api/paymentaddress,0
 web/api/paymentaddress/addressline,0
 web/api/paymentaddress/city,0
@@ -7085,7 +7085,7 @@ web/api/readablebytestreamcontroller/desiredsize,0
 web/api/readablebytestreamcontroller/enqueue,0
 web/api/readablebytestreamcontroller/error,0
 web/api/readablestream,0
-web/api/readablestream/cancel,0
+web/api/readablestream/cancel,1
 web/api/readablestream/from_static,0
 web/api/readablestream/getreader,0
 web/api/readablestream/locked,0
@@ -7122,7 +7122,7 @@ web/api/remoteplayback/cancelwatchavailability,0
 web/api/remoteplayback/connect_event,0
 web/api/remoteplayback/connecting_event,0
 web/api/remoteplayback/disconnect_event,0
-web/api/remoteplayback/prompt,0
+web/api/remoteplayback/prompt,1
 web/api/remoteplayback/state,0
 web/api/remoteplayback/watchavailability,0
 web/api/reporting_api,0
@@ -8078,7 +8078,7 @@ web/api/storagemanager/persist,0
 web/api/storagemanager/persisted,0
 web/api/streams_api,0
 web/api/streams_api/concepts,0
-web/api/streams_api/using_readable_byte_streams,1
+web/api/streams_api/using_readable_byte_streams,2
 web/api/streams_api/using_readable_streams,0
 web/api/streams_api/using_writable_streams,0
 web/api/stylepropertymap,0
@@ -8745,7 +8745,7 @@ web/api/taskprioritychangeevent,0
 web/api/taskprioritychangeevent/previouspriority,0
 web/api/taskprioritychangeevent/taskprioritychangeevent,0
 web/api/tasksignal,0
-web/api/tasksignal/any_static,0
+web/api/tasksignal/any_static,1
 web/api/tasksignal/priority,0
 web/api/tasksignal/prioritychange_event,0
 web/api/text,0
@@ -8956,7 +8956,7 @@ web/api/ui_events/keyboard_event_code_values,0
 web/api/ui_events/keyboard_event_key_values,0
 web/api/uievent,0
 web/api/uievent/detail,0
-web/api/uievent/inituievent,0
+web/api/uievent/inituievent,1
 web/api/uievent/sourcecapabilities,0
 web/api/uievent/uievent,0
 web/api/uievent/view,0
@@ -11713,7 +11713,7 @@ web/html/reference/elements/input/color,0
 web/html/reference/elements/input/date,0
 web/html/reference/elements/input/datetime-local,0
 web/html/reference/elements/input/email,0
-web/html/reference/elements/input/file,0
+web/html/reference/elements/input/file,1
 web/html/reference/elements/input/hidden,0
 web/html/reference/elements/input/image,0
 web/html/reference/elements/input/month,0
@@ -11766,7 +11766,7 @@ web/html/reference/elements/param,0
 web/html/reference/elements/picture,0
 web/html/reference/elements/plaintext,0
 web/html/reference/elements/pre,0
-web/html/reference/elements/progress,0
+web/html/reference/elements/progress,1
 web/html/reference/elements/q,0
 web/html/reference/elements/rb,0
 web/html/reference/elements/rp,0
@@ -12247,9 +12247,9 @@ web/javascript/guide/meta_programming,0
 web/javascript/guide/modules,0
 web/javascript/guide/numbers_and_strings,0
 web/javascript/guide/regular_expressions,0
-web/javascript/guide/regular_expressions/assertions,0
-web/javascript/guide/regular_expressions/character_classes,0
-web/javascript/guide/regular_expressions/cheatsheet,0
+web/javascript/guide/regular_expressions/assertions,1
+web/javascript/guide/regular_expressions/character_classes,1
+web/javascript/guide/regular_expressions/cheatsheet,1
 web/javascript/guide/regular_expressions/groups_and_backreferences,0
 web/javascript/guide/regular_expressions/quantifiers,0
 web/javascript/guide/representing_dates_times,0
@@ -12313,7 +12313,7 @@ web/javascript/reference/errors/duplicate_parameter,0
 web/javascript/reference/errors/duplicate_proto,0
 web/javascript/reference/errors/either_be_both_static_or_non-static,0
 web/javascript/reference/errors/form_must_be_one_of,0
-web/javascript/reference/errors/function_label,0
+web/javascript/reference/errors/function_label,1
 web/javascript/reference/errors/get_set_missing_private,0
 web/javascript/reference/errors/getter_no_arguments,0
 web/javascript/reference/errors/getter_only,0
@@ -12914,14 +12914,16 @@ web/javascript/reference/global_objects/object/valueof,0
 web/javascript/reference/global_objects/object/values,0
 web/javascript/reference/global_objects/parsefloat,0
 web/javascript/reference/global_objects/parseint,0
-web/javascript/reference/global_objects/promise,0
-web/javascript/reference/global_objects/promise/all,0
-web/javascript/reference/global_objects/promise/allsettled,0
-web/javascript/reference/global_objects/promise/any,0
+web/javascript/reference/global_objects/promise,1
+web/javascript/reference/global_objects/promise/all,2
+web/javascript/reference/global_objects/promise/allkeyed,null
+web/javascript/reference/global_objects/promise/allsettled,1
+web/javascript/reference/global_objects/promise/allsettledkeyed,null
+web/javascript/reference/global_objects/promise/any,1
 web/javascript/reference/global_objects/promise/catch,0
 web/javascript/reference/global_objects/promise/finally,0
 web/javascript/reference/global_objects/promise/promise,0
-web/javascript/reference/global_objects/promise/race,0
+web/javascript/reference/global_objects/promise/race,1
 web/javascript/reference/global_objects/promise/reject,0
 web/javascript/reference/global_objects/promise/resolve,0
 web/javascript/reference/global_objects/promise/symbol.species,0
@@ -12976,7 +12978,7 @@ web/javascript/reference/global_objects/regexp/lastindex,0
 web/javascript/reference/global_objects/regexp/lastmatch,0
 web/javascript/reference/global_objects/regexp/lastparen,0
 web/javascript/reference/global_objects/regexp/leftcontext,0
-web/javascript/reference/global_objects/regexp/multiline,0
+web/javascript/reference/global_objects/regexp/multiline,1
 web/javascript/reference/global_objects/regexp/n,0
 web/javascript/reference/global_objects/regexp/regexp,0
 web/javascript/reference/global_objects/regexp/rightcontext,0
@@ -12990,7 +12992,7 @@ web/javascript/reference/global_objects/regexp/symbol.species,0
 web/javascript/reference/global_objects/regexp/symbol.split,0
 web/javascript/reference/global_objects/regexp/test,0
 web/javascript/reference/global_objects/regexp/tostring,0
-web/javascript/reference/global_objects/regexp/unicode,0
+web/javascript/reference/global_objects/regexp/unicode,1
 web/javascript/reference/global_objects/regexp/unicodesets,0
 web/javascript/reference/global_objects/set,0
 web/javascript/reference/global_objects/set/add,0
@@ -13502,14 +13504,15 @@ web/javascript/reference/operators/unsigned_right_shift_assignment,0
 web/javascript/reference/operators/void,0
 web/javascript/reference/operators/yield,0
 web/javascript/reference/operators/yield_star_,0
-web/javascript/reference/regular_expressions,0
+web/javascript/reference/regular_expressions,1
 web/javascript/reference/regular_expressions/backreference,0
+web/javascript/reference/regular_expressions/buffer_boundary_assertion,null
 web/javascript/reference/regular_expressions/capturing_group,0
 web/javascript/reference/regular_expressions/character_class,0
 web/javascript/reference/regular_expressions/character_class_escape,0
 web/javascript/reference/regular_expressions/character_escape,0
 web/javascript/reference/regular_expressions/disjunction,0
-web/javascript/reference/regular_expressions/input_boundary_assertion,0
+web/javascript/reference/regular_expressions/input_boundary_assertion,1
 web/javascript/reference/regular_expressions/literal_character,0
 web/javascript/reference/regular_expressions/lookahead_assertion,0
 web/javascript/reference/regular_expressions/lookbehind_assertion,0
@@ -13544,7 +13547,7 @@ web/javascript/reference/statements/function_star_,0
 web/javascript/reference/statements/if...else,0
 web/javascript/reference/statements/import,0
 web/javascript/reference/statements/import/with,0
-web/javascript/reference/statements/label,0
+web/javascript/reference/statements/label,1
 web/javascript/reference/statements/let,0
 web/javascript/reference/statements/return,0
 web/javascript/reference/statements/switch,0
@@ -13569,7 +13572,7 @@ web/mathml/reference/element,0
 web/mathml/reference/element/annotation,0
 web/mathml/reference/element/annotation-xml,0
 web/mathml/reference/element/maction,0
-web/mathml/reference/element/math,0
+web/mathml/reference/element/math,1
 web/mathml/reference/element/menclose,0
 web/mathml/reference/element/merror,0
 web/mathml/reference/element/mfenced,0
@@ -13612,7 +13615,7 @@ web/mathml/tutorials,0
 web/mathml/tutorials/for_beginners,0
 web/mathml/tutorials/for_beginners/fractions_and_roots,0
 web/mathml/tutorials/for_beginners/getting_started,0
-web/mathml/tutorials/for_beginners/scripts,0
+web/mathml/tutorials/for_beginners/scripts,1
 web/mathml/tutorials/for_beginners/tables,0
 web/mathml/tutorials/for_beginners/text_containers,0
 web/mathml/tutorials/for_beginners/three_famous_mathematical_formulas,0
