@@ -12916,7 +12916,9 @@ web/javascript/reference/global_objects/parsefloat,null
 web/javascript/reference/global_objects/parseint,null
 web/javascript/reference/global_objects/promise,null
 web/javascript/reference/global_objects/promise/all,null
+web/javascript/reference/global_objects/promise/allkeyed,null
 web/javascript/reference/global_objects/promise/allsettled,null
+web/javascript/reference/global_objects/promise/allsettledkeyed,null
 web/javascript/reference/global_objects/promise/any,null
 web/javascript/reference/global_objects/promise/catch,null
 web/javascript/reference/global_objects/promise/finally,null
@@ -13504,6 +13506,7 @@ web/javascript/reference/operators/yield,null
 web/javascript/reference/operators/yield_star_,null
 web/javascript/reference/regular_expressions,null
 web/javascript/reference/regular_expressions/backreference,null
+web/javascript/reference/regular_expressions/buffer_boundary_assertion,null
 web/javascript/reference/regular_expressions/capturing_group,null
 web/javascript/reference/regular_expressions/character_class,null
 web/javascript/reference/regular_expressions/character_class_escape,null

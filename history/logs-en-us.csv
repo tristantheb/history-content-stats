@@ -708,7 +708,7 @@ learn_web_development/core/accessibility/test_your_skills/css_and_javascript,2bd
 learn_web_development/core/accessibility/test_your_skills/html,2bda943b59604eb44f5d759708845c5f56970635,Learn|Core Modules
 learn_web_development/core/accessibility/test_your_skills/wai-aria,2bda943b59604eb44f5d759708845c5f56970635,Learn|Core Modules
 learn_web_development/core/accessibility/tooling,483ce811e1ea52cb2d9d2a5af0c4d1c4d591ea4a,Learn|Core Modules
-learn_web_development/core/accessibility/wai-aria_basics,1b7c3c1e03f14c3878e4d8518b0f1a89bedfdc9c,Learn|Core Modules
+learn_web_development/core/accessibility/wai-aria_basics,65692fd4d256d5647749b7c7005dcf53d425a533,Learn|Core Modules
 learn_web_development/core/accessibility/what_is_accessibility,8a6ebefa23ff414c256ee69d08fc20bd5ebe540b,Learn|Core Modules
 learn_web_development/core/css_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Learn|Core Modules
 learn_web_development/core/css_layout/flexbox,c55a38c71a356502e6d3df5e246b6e89f9e83498,Learn|Core Modules
@@ -753,7 +753,7 @@ learn_web_development/core/scripting/events,2b4a2ad5d9ba084a9eaa2f9204102655e7b5
 learn_web_development/core/scripting/functions,9460d587cd7ec549f83621777d123d754dd6e68c,Learn|Core Modules
 learn_web_development/core/scripting/house_data_ui,7f138099644a02640a903b2abc39e685ca8ca7cd,Learn|Core Modules
 learn_web_development/core/scripting/image_gallery,50a1895c9c499b1b9207f7af945a0fe45de58cca,Learn|Core Modules
-learn_web_development/core/scripting/json,9d3d642daf9df9ece138fa39972edc5f7d6dcd6b,Learn|Core Modules
+learn_web_development/core/scripting/json,65692fd4d256d5647749b7c7005dcf53d425a533,Learn|Core Modules
 learn_web_development/core/scripting/loops,ad310baff9ae8f5e4efd19c158125fe765287c16,Learn|Core Modules
 learn_web_development/core/scripting/math,6f1b699dd8891431bbfe0bc3bb803f929fa6032e,Learn|Core Modules
 learn_web_development/core/scripting/network_requests,952d0a3a076d16f0cf7566040e5cbe059996138d,Learn|Core Modules
@@ -1442,7 +1442,7 @@ mozilla/add-ons/webextensions/api/menus/itemtype,7c5cdb65b3f9b9cfe05e34a602eaf08
 mozilla/add-ons/webextensions/api/menus/onclickdata,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/onclicked,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/onhidden,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/menus/onshown,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/menus/onshown,65692fd4d256d5647749b7c7005dcf53d425a533,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/overridecontext,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/refresh,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/remove,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1461,7 +1461,7 @@ mozilla/add-ons/webextensions/api/notifications/templatetype,09109b6f9444d22215b
 mozilla/add-ons/webextensions/api/notifications/update,38199423810927262c9cb4dec7ea7de4cb0c5e0f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/omnibox,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/omnibox/ondeletesuggestion,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/omnibox/oninputcancelled,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/omnibox/oninputcancelled,65692fd4d256d5647749b7c7005dcf53d425a533,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/omnibox/oninputchanged,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/omnibox/oninputentered,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/omnibox/oninputentereddisposition,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1598,7 +1598,7 @@ mozilla/add-ons/webextensions/api/sidebaraction/settitle,a4fcf79b60471db6f148fa4
 mozilla/add-ons/webextensions/api/sidebaraction/toggle,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/storage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/storage/local,89d941878af42738cbd429acaa06789db7fa55f6,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/storage/managed,89d941878af42738cbd429acaa06789db7fa55f6,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/storage/managed,65692fd4d256d5647749b7c7005dcf53d425a533,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/storage/onchanged,c53bfa01f3bf436d486f4032c16f592855a2af2c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/storage/session,89d941878af42738cbd429acaa06789db7fa55f6,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/storage/session/quota_bytes,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1804,7 +1804,7 @@ mozilla/add-ons/webextensions/extending_the_developer_tools,09109b6f9444d22215ba
 mozilla/add-ons/webextensions/implement_a_settings_page,673a473ab4b40c5f6787b2d3438370269fff31c7,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/interact_with_the_clipboard,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/intercept_http_requests,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/internationalization,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/internationalization,65692fd4d256d5647749b7c7005dcf53d425a533,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json,ef11240e109e4b39ff9e8cac248d1c7d7c842112,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/action,f99d00a1c3697e26a679925954e26564e7e79b98,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/author,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1880,7 +1880,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,f99d00a1c3697e26a679925954e26564e7e79b98,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,f398f522d05bb8bfe739ac2417b00712b7888494,Mozilla|Firefox
+mozilla/firefox/experimental_features,665c2d37db9d131e9651f9b49c2a78a96e25270c,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -2087,7 +2087,7 @@ web/accessibility,04158640487c17d515de8078c9307a2f906377d0,Accessibility
 web/accessibility/aria,cab1109a0c225299a9fb2b3402bcd4a1931b8ab7,Accessibility|ARIA
 web/accessibility/aria/guides,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Accessibility|ARIA|Guides
 web/accessibility/aria/guides/live_regions,5e815d522e796fb2209fa8470616b37e31c572b4,Accessibility|ARIA|Guides
-web/accessibility/aria/guides/multipart_labels,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Accessibility|ARIA|Guides
+web/accessibility/aria/guides/multipart_labels,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Guides
 web/accessibility/aria/guides/screen_reader_implementors,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Accessibility|ARIA|Guides
 web/accessibility/aria/guides/techniques,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Accessibility|ARIA|Guides
 web/accessibility/aria/reference,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Accessibility|ARIA
@@ -2178,7 +2178,7 @@ web/accessibility/aria/reference/roles/input_role,a8b25483994fa47cf949b432ddf34a
 web/accessibility/aria/reference/roles/landmark_role,6193c69cb71e80e45e7dff97188253ed15d58321,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/link_role,b5437b737639d6952d18b95ebd1045ed73e4bfa7,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/list_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/listbox_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/listbox_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/listitem_role,e5cd1cab36e2fdcf5dfe28e10b0a7cb235354e62,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/log_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/main_role,5e815d522e796fb2209fa8470616b37e31c572b4,Accessibility|ARIA|Roles
@@ -2186,7 +2186,7 @@ web/accessibility/aria/reference/roles/mark_role,a8b25483994fa47cf949b432ddf34a6
 web/accessibility/aria/reference/roles/marquee_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/math_role,cac79d099b0a4e48456cb53eb2435f6acf03e188,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/menu_role,5e815d522e796fb2209fa8470616b37e31c572b4,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/menubar_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/menubar_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/menuitem_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/menuitemcheckbox_role,1474534461893381d54c502e655f334b5568e597,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/menuitemradio_role,1474534461893381d54c502e655f334b5568e597,Accessibility|ARIA|Roles
@@ -2197,7 +2197,7 @@ web/accessibility/aria/reference/roles/note_role,a8b25483994fa47cf949b432ddf34a6
 web/accessibility/aria/reference/roles/option_role,1474534461893381d54c502e655f334b5568e597,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/presentation_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/progressbar_role,1474534461893381d54c502e655f334b5568e597,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/radio_role,1474534461893381d54c502e655f334b5568e597,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/radio_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/radiogroup_role,5e815d522e796fb2209fa8470616b37e31c572b4,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/range_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/region_role,5e815d522e796fb2209fa8470616b37e31c572b4,Accessibility|ARIA|Roles
@@ -2221,7 +2221,7 @@ web/accessibility/aria/reference/roles/suggestion_role,a8b25483994fa47cf949b432d
 web/accessibility/aria/reference/roles/switch_role,1474534461893381d54c502e655f334b5568e597,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tab_role,1474534461893381d54c502e655f334b5568e597,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/table_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/tablist_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/tablist_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tabpanel_role,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/term_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/textbox_role,fd2acb039cc1caee4af10f76ffb839c8da7da5b8,Accessibility|ARIA|Roles
@@ -2229,7 +2229,7 @@ web/accessibility/aria/reference/roles/timer_role,3e543cdfe8dddfb4774a64bf3decdc
 web/accessibility/aria/reference/roles/toolbar_role,c833741444aba4d524992813eda1cd8d64563aed,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tooltip_role,4cb9d89a204a9532370693b982e8a3b274a874b1,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tree_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/treegrid_role,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/treegrid_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treeitem_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/widget_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/window_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
@@ -2245,12 +2245,12 @@ web/accessibility/guides/mobile_accessibility_checklist,5e815d522e796fb2209fa847
 web/accessibility/guides/seizure_disorders,1474534461893381d54c502e655f334b5568e597,Accessibility|Guides
 web/accessibility/guides/understanding_wcag,c1564acf160ef4b320fb7b89ab65211b9c50cf1b,Accessibility|Guides
 web/accessibility/guides/understanding_wcag/keyboard,7ba6358a0ff684cc67c60b76d6d972722bbf0d18,Accessibility|Guides
-web/accessibility/guides/understanding_wcag/operable,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|Guides
-web/accessibility/guides/understanding_wcag/perceivable,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|Guides
+web/accessibility/guides/understanding_wcag/operable,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|Guides
+web/accessibility/guides/understanding_wcag/perceivable,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|Guides
 web/accessibility/guides/understanding_wcag/perceivable/color_contrast,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|Guides
 web/accessibility/guides/understanding_wcag/perceivable/use_of_color,c1564acf160ef4b320fb7b89ab65211b9c50cf1b,Accessibility|Guides
 web/accessibility/guides/understanding_wcag/robust,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|Guides
-web/accessibility/guides/understanding_wcag/text_labels_and_names,fd60358f242f522accc5f548be62cd79610f8c0f,Accessibility|Guides
+web/accessibility/guides/understanding_wcag/text_labels_and_names,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|Guides
 web/accessibility/guides/understanding_wcag/understandable,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|Guides
 web/api,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a,Web APIs
 web/api/abortcontroller,a4fd602696976d79d8690f9c86a2a1c1f2b9b9eb,Web APIs
@@ -2261,7 +2261,7 @@ web/api/abortsignal,9187ced76026d7784a8600296c4e04b0e6f72382,Web APIs
 web/api/abortsignal/abort_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/abortsignal/abort_static,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/abortsignal/aborted,15f0b5552bc9c2ea1f32b0cd5ee840a7d43c887e,Web APIs
-web/api/abortsignal/any_static,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
+web/api/abortsignal/any_static,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/abortsignal/reason,15f0b5552bc9c2ea1f32b0cd5ee840a7d43c887e,Web APIs
 web/api/abortsignal/throwifaborted,e1e7e2ac2cb1e40293c32c24bc0667905e9a7a04,Web APIs
 web/api/abortsignal/timeout_static,58163fc9e99e2ea7eb6c2b698f02343009351dd9,Web APIs
@@ -2990,8 +2990,8 @@ web/api/cookiechangeevent/deleted,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Web A
 web/api/cookiestore,3d49f18251e1f3493ef2e3a70519603345f8b7dc,Web APIs
 web/api/cookiestore/change_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/cookiestore/delete,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Web APIs
-web/api/cookiestore/get,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Web APIs
-web/api/cookiestore/getall,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Web APIs
+web/api/cookiestore/get,e161086720f53ca4a4dabed5b69743324d194b23,Web APIs
+web/api/cookiestore/getall,e161086720f53ca4a4dabed5b69743324d194b23,Web APIs
 web/api/cookiestore/set,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Web APIs
 web/api/cookiestoremanager,60c3843f55839380e0c0cdc293ea694fe9943158,Web APIs
 web/api/cookiestoremanager/getsubscriptions,60c3843f55839380e0c0cdc293ea694fe9943158,Web APIs
@@ -3016,7 +3016,7 @@ web/api/credential_management_api,b22d69df86326c4fb5bc0e4c310f4933080ab3da,Web A
 web/api/credential_management_api/credential_types,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/credentialscontainer,c91c87d7da181194f3786abfcb2f27d2b885fb91,Web APIs
 web/api/credentialscontainer/create,a060aa315813bd1e69e4a43d7aed241f649e7e0d,Web APIs
-web/api/credentialscontainer/get,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
+web/api/credentialscontainer/get,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/credentialscontainer/preventsilentaccess,941ade970fd7ebad52af692b6ac27cfd96f94100,Web APIs
 web/api/credentialscontainer/store,c7edf2734fccb185c5e93ee114ea3d5edc0177b5,Web APIs
 web/api/croptarget,d9879ec9fe29b627ea1bde790d981dd13d602794,Web APIs
@@ -3603,7 +3603,7 @@ web/api/document/xmlversion,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/document_object_model,20d58a48bad972cddca0630fa0fbc06fd1b23244,Web APIs
 web/api/document_object_model/anatomy_of_the_dom,277a8954951c900ef60a5175503976284c1d328d,Web APIs
 web/api/document_object_model/building_and_updating_the_dom_tree,277a8954951c900ef60a5175503976284c1d328d,Web APIs
-web/api/document_object_model/events,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
+web/api/document_object_model/events,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/document_object_model/reflected_attributes,94e900db86109d76e8a1e120e3b135db0d543c87,Web APIs
 web/api/document_object_model/selection_and_traversal_on_the_dom_tree,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/document_picture-in-picture_api,61ceefea7281f267055e4481a9a610d7ac2e724e,Web APIs
@@ -3948,7 +3948,7 @@ web/api/element/nextelementsibling,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web 
 web/api/element/outerhtml,65cbd4ff030e6763d6868917137d728c3ec29288,Web APIs
 web/api/element/part,c053b4b3bb0f34736e9f4402d4254830670af723,Web APIs
 web/api/element/paste_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
-web/api/element/pointercancel_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
+web/api/element/pointercancel_event,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/element/pointerdown_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/element/pointerenter_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/element/pointerleave_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
@@ -4223,7 +4223,7 @@ web/api/file/webkitrelativepath,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web API
 web/api/file_and_directory_entries_api,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/file_api,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/file_api/using_files_from_web_applications,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
-web/api/file_system_api,ab7254fb329302ddc101fc2d09947429077368e6,Web APIs
+web/api/file_system_api,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/file_system_api/origin_private_file_system,0d0ccc861fa024fa10836fbf0cc2c3813cd74745,Web APIs
 web/api/fileentrysync,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/filelist,cfa628aedb53a83b315943ef19fa6c73298fb7d5,Web APIs
@@ -4260,13 +4260,13 @@ web/api/filesystemdirectoryentry/createreader,cbe4c570701052c120808ea54c24c46ec9
 web/api/filesystemdirectoryentry/getdirectory,0916e1754652f3a7c663ef031faa26c98f492023,Web APIs
 web/api/filesystemdirectoryentry/getfile,0916e1754652f3a7c663ef031faa26c98f492023,Web APIs
 web/api/filesystemdirectoryentry/removerecursively,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
-web/api/filesystemdirectoryhandle,3163adb4d79b797b6fd23d505a6f8b317379cb6a,Web APIs
+web/api/filesystemdirectoryhandle,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/filesystemdirectoryhandle/entries,f10fbe2d2dc4857bf29ce955689a7ba7c1ffac8b,Web APIs
 web/api/filesystemdirectoryhandle/getdirectoryhandle,ab7254fb329302ddc101fc2d09947429077368e6,Web APIs
 web/api/filesystemdirectoryhandle/getfilehandle,ab7254fb329302ddc101fc2d09947429077368e6,Web APIs
 web/api/filesystemdirectoryhandle/keys,fd4d2987e2db8b4183017b6a0ed5e4f054b18587,Web APIs
 web/api/filesystemdirectoryhandle/removeentry,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/filesystemdirectoryhandle/resolve,f10fbe2d2dc4857bf29ce955689a7ba7c1ffac8b,Web APIs
+web/api/filesystemdirectoryhandle/resolve,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/filesystemdirectoryhandle/values,f10fbe2d2dc4857bf29ce955689a7ba7c1ffac8b,Web APIs
 web/api/filesystemdirectoryreader,cbe4c570701052c120808ea54c24c46ec9734084,Web APIs
 web/api/filesystemdirectoryreader/readentries,ce76486041ebf62c43750031d4546a5e18f2bdcd,Web APIs
@@ -4733,7 +4733,7 @@ web/api/html_dom_api/microtask_guide,6b9019694341254ad8e3e0572f03988337f6f7ae,We
 web/api/html_dom_api/microtask_guide/in_depth,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/html_drag_and_drop_api,58525c603c8c4696a85342ffc6e8e6661b28a1c3,Web APIs
 web/api/html_drag_and_drop_api/drag_data_store,d2bc0bbc02baaa56541a13dffe1d049f73a661fb,Web APIs
-web/api/html_drag_and_drop_api/drag_operations,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
+web/api/html_drag_and_drop_api/drag_operations,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/html_drag_and_drop_api/file_drag_and_drop,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
 web/api/html_drag_and_drop_api/kanban_board,8432c4ca716350c34d197c130e6fe93de5c8250c,Web APIs
 web/api/html_sanitizer_api,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Web APIs
@@ -4847,12 +4847,12 @@ web/api/htmldetailselement,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmldetailselement/name,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
 web/api/htmldetailselement/open,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmldialogelement,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69,Web APIs
-web/api/htmldialogelement/cancel_event,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69,Web APIs
+web/api/htmldialogelement/cancel_event,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/htmldialogelement/close,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
 web/api/htmldialogelement/close_event,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69,Web APIs
 web/api/htmldialogelement/closedby,2b6b8ed9b2e7cd0ce3193c0716e24cd67d523c81,Web APIs
 web/api/htmldialogelement/open,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69,Web APIs
-web/api/htmldialogelement/requestclose,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69,Web APIs
+web/api/htmldialogelement/requestclose,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/htmldialogelement/returnvalue,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69,Web APIs
 web/api/htmldialogelement/show,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69,Web APIs
 web/api/htmldialogelement/showmodal,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69,Web APIs
@@ -4873,7 +4873,7 @@ web/api/htmlelement/beforetoggle_event,887acda9b43338ce492d4c0ad1a2145e383187b9,
 web/api/htmlelement/blur,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
 web/api/htmlelement/change_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/htmlelement/click,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/htmlelement/command_event,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
+web/api/htmlelement/command_event,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/htmlelement/contenteditable,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlelement/dataset,0c81cbce5f95a0be935724bcd936f5592774eb3a,Web APIs
 web/api/htmlelement/dir,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -5736,7 +5736,7 @@ web/api/keyboardevent/initkeyboardevent,ca6052779ddca9f6d99665f12c39aa2d85d85733
 web/api/keyboardevent/iscomposing,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/keyboardevent/key,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
 web/api/keyboardevent/keyboardevent,db18e806c3b6d3db340c94e69739fbef966cba01,Web APIs
-web/api/keyboardevent/keycode,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
+web/api/keyboardevent/keycode,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/keyboardevent/keyidentifier,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/keyboardevent/location,eab4066e72d5478de920e4020e5db71214dcffa6,Web APIs
 web/api/keyboardevent/metakey,ae8bc7a516bbed676b875b6a53203027a0207ec1,Web APIs
@@ -5777,7 +5777,7 @@ web/api/languagemodel/contextwindow,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,Web
 web/api/languagemodel/create_static,d19dec85109590176f946fcceef48c787d578b1e,Web APIs
 web/api/languagemodel/destroy,d19dec85109590176f946fcceef48c787d578b1e,Web APIs
 web/api/languagemodel/measurecontextusage,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
-web/api/languagemodel/prompt,d19dec85109590176f946fcceef48c787d578b1e,Web APIs
+web/api/languagemodel/prompt,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/languagemodel/promptstreaming,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
 web/api/largestcontentfulpaint,3f058f207a00078456c19b9de46218af3f084420,Web APIs
 web/api/largestcontentfulpaint/element,92eab76b7686dadbce22affd372889bc2154f4ef,Web APIs
@@ -6606,7 +6606,7 @@ web/api/path2d/path2d,6f1b699dd8891431bbfe0bc3bb803f929fa6032e,Web APIs
 web/api/payment_request_api,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/payment_request_api/concepts,e9a9a55d62ddcc2917c509df4845e16ed4ffb2cb,Web APIs
 web/api/payment_request_api/using_secure_payment_confirmation,43875884a5ebc2c7de4702c31a9bdc3ecbeed610,Web APIs
-web/api/payment_request_api/using_the_payment_request_api,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,Web APIs
+web/api/payment_request_api/using_the_payment_request_api,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/paymentaddress,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/paymentaddress/addressline,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/paymentaddress/city,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -7085,7 +7085,7 @@ web/api/readablebytestreamcontroller/desiredsize,d8b4431bfde42f1bc195239ea1f378d
 web/api/readablebytestreamcontroller/enqueue,bdcf6443a4f745d6522dc98d7286a2a47b76b408,Web APIs
 web/api/readablebytestreamcontroller/error,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
 web/api/readablestream,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
-web/api/readablestream/cancel,0b8f00bb9ece33c6964eea886b2f7db8711d7b62,Web APIs
+web/api/readablestream/cancel,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/readablestream/from_static,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
 web/api/readablestream/getreader,0df016ab2d5d9b9bef8b4e8a8f94aa77c4f42aa5,Web APIs
 web/api/readablestream/locked,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
@@ -7122,7 +7122,7 @@ web/api/remoteplayback/cancelwatchavailability,3e543cdfe8dddfb4774a64bf3decdcbab
 web/api/remoteplayback/connect_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/remoteplayback/connecting_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/remoteplayback/disconnect_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
-web/api/remoteplayback/prompt,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
+web/api/remoteplayback/prompt,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/remoteplayback/state,b71d118ffc6d72b77efad9661110fcc9ede464eb,Web APIs
 web/api/remoteplayback/watchavailability,70fa06c3cd8fa73c4d4fe85f382518dc5bf4dc4f,Web APIs
 web/api/reporting_api,dd1e8282ab6621b62399d65cad46177d426d1d93,Web APIs
@@ -8078,7 +8078,7 @@ web/api/storagemanager/persist,22080a7cc403f7f45c8e85065b182c9f0d4d383c,Web APIs
 web/api/storagemanager/persisted,8ac73df2fbe2c88d8649fcb006dcde098616c723,Web APIs
 web/api/streams_api,c49748a0ce4fdf77427e29cb6edbca8953a514e7,Web APIs
 web/api/streams_api/concepts,58ad1df59f2ffb9ecab4e27fe1bdf1eb5a55f89b,Web APIs
-web/api/streams_api/using_readable_byte_streams,d19dec85109590176f946fcceef48c787d578b1e,Web APIs
+web/api/streams_api/using_readable_byte_streams,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/streams_api/using_readable_streams,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
 web/api/streams_api/using_writable_streams,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/stylepropertymap,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
@@ -8745,7 +8745,7 @@ web/api/taskprioritychangeevent,33313b7c9e37253c0141e22558e298d08c060be5,Web API
 web/api/taskprioritychangeevent/previouspriority,3dd7df0af3b0ada1a7c5784cc2bc5448adcda8af,Web APIs
 web/api/taskprioritychangeevent/taskprioritychangeevent,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/tasksignal,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
-web/api/tasksignal/any_static,66f1ba7918610f1145cde4a1d2d7ecb3baea5f65,Web APIs
+web/api/tasksignal/any_static,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/tasksignal/priority,33313b7c9e37253c0141e22558e298d08c060be5,Web APIs
 web/api/tasksignal/prioritychange_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/text,d414c502f3cc1c08d2fb043e98cda4a65621ff08,Web APIs
@@ -8956,7 +8956,7 @@ web/api/ui_events/keyboard_event_code_values,bb48907e64eb4bf60f17efd7d39b46c771d
 web/api/ui_events/keyboard_event_key_values,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,Web APIs
 web/api/uievent,63d0c539650bee867018575bb45c14114f154997,Web APIs
 web/api/uievent/detail,0c8a320b035cf625c1df67713a94ead2e7f3aec6,Web APIs
-web/api/uievent/inituievent,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
+web/api/uievent/inituievent,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/uievent/sourcecapabilities,8cac4a3fed6a702840efd2deda67a922120732d0,Web APIs
 web/api/uievent/uievent,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/uievent/view,0c8a320b035cf625c1df67713a94ead2e7f3aec6,Web APIs
@@ -11713,7 +11713,7 @@ web/html/reference/elements/input/color,3944506d4afeeed774687cf3fd950878c6229bbc
 web/html/reference/elements/input/date,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/datetime-local,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/email,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/input/file,2066cc916dfdcbb782340bf0ce562b230e947cba,HTML|Elements
+web/html/reference/elements/input/file,65692fd4d256d5647749b7c7005dcf53d425a533,HTML|Elements
 web/html/reference/elements/input/hidden,2066cc916dfdcbb782340bf0ce562b230e947cba,HTML|Elements
 web/html/reference/elements/input/image,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,HTML|Elements
 web/html/reference/elements/input/month,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
@@ -11766,7 +11766,7 @@ web/html/reference/elements/param,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|
 web/html/reference/elements/picture,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/plaintext,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/pre,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/progress,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/progress,65692fd4d256d5647749b7c7005dcf53d425a533,HTML|Elements
 web/html/reference/elements/q,b0a05c1384211e0eff34e9917c84086eedf9e909,HTML|Elements
 web/html/reference/elements/rb,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/rp,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -12247,9 +12247,9 @@ web/javascript/guide/meta_programming,1ddd95504b4507beeda0f08bd772eb167922b86a,J
 web/javascript/guide/modules,1474534461893381d54c502e655f334b5568e597,JavaScript|Guides
 web/javascript/guide/numbers_and_strings,82617295992be4d9dc4ca74499ee63f8d2e5984b,JavaScript|Guides
 web/javascript/guide/regular_expressions,a7acf4c7a38f1df8f5d0dee1f17672968ac979d5,JavaScript|Guides
-web/javascript/guide/regular_expressions/assertions,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Guides
-web/javascript/guide/regular_expressions/character_classes,a7acf4c7a38f1df8f5d0dee1f17672968ac979d5,JavaScript|Guides
-web/javascript/guide/regular_expressions/cheatsheet,a7acf4c7a38f1df8f5d0dee1f17672968ac979d5,JavaScript|Guides
+web/javascript/guide/regular_expressions/assertions,8f53af45fae665627a95ac50e177b15d0228b920,JavaScript|Guides
+web/javascript/guide/regular_expressions/character_classes,8f53af45fae665627a95ac50e177b15d0228b920,JavaScript|Guides
+web/javascript/guide/regular_expressions/cheatsheet,8f53af45fae665627a95ac50e177b15d0228b920,JavaScript|Guides
 web/javascript/guide/regular_expressions/groups_and_backreferences,e166afc6dccac8ac4810a443c069cdb876cc4b5c,JavaScript|Guides
 web/javascript/guide/regular_expressions/quantifiers,0f6daa30cf89c66d37700c51b8a12e660fee29d9,JavaScript|Guides
 web/javascript/guide/representing_dates_times,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Guides
@@ -12313,7 +12313,7 @@ web/javascript/reference/errors/duplicate_parameter,fad67be4431d8e6c2a89ac880735
 web/javascript/reference/errors/duplicate_proto,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Errors
 web/javascript/reference/errors/either_be_both_static_or_non-static,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Errors
 web/javascript/reference/errors/form_must_be_one_of,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Errors
-web/javascript/reference/errors/function_label,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Errors
+web/javascript/reference/errors/function_label,65692fd4d256d5647749b7c7005dcf53d425a533,JavaScript|Errors
 web/javascript/reference/errors/get_set_missing_private,06e6e54baef7032c4e81ca93291fde0a0585de8b,JavaScript|Errors
 web/javascript/reference/errors/getter_no_arguments,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Errors
 web/javascript/reference/errors/getter_only,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Errors
@@ -12914,14 +12914,16 @@ web/javascript/reference/global_objects/object/valueof,79fdc26fea835d65c9361541b
 web/javascript/reference/global_objects/object/values,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/parsefloat,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Global Objects
 web/javascript/reference/global_objects/parseint,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise,710372d69095aaeadfba6c892f3e39ed63df4c54,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise/all,b4239bf3b36fea3f76e8d64bf362ef18bfa652b0,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise/allsettled,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise/any,b4239bf3b36fea3f76e8d64bf362ef18bfa652b0,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise,cbf7f4b55e2c0bc0c096773435b159edcaa8c9e2,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/all,cbf7f4b55e2c0bc0c096773435b159edcaa8c9e2,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/allkeyed,cbf7f4b55e2c0bc0c096773435b159edcaa8c9e2,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/allsettled,cbf7f4b55e2c0bc0c096773435b159edcaa8c9e2,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/allsettledkeyed,cbf7f4b55e2c0bc0c096773435b159edcaa8c9e2,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/any,cbf7f4b55e2c0bc0c096773435b159edcaa8c9e2,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/catch,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/finally,a99bc85f30c0c5a8dc5c85b7b552b442d411a082,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/promise,3b7310aac5ffd95db697bf136b7323cffc7e5bd2,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise/race,b4239bf3b36fea3f76e8d64bf362ef18bfa652b0,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/race,cbf7f4b55e2c0bc0c096773435b159edcaa8c9e2,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/reject,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/resolve,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/symbol.species,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
@@ -12976,7 +12978,7 @@ web/javascript/reference/global_objects/regexp/lastindex,cd22b9f18cf2450c0cc4883
 web/javascript/reference/global_objects/regexp/lastmatch,ca6052779ddca9f6d99665f12c39aa2d85d85733,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/lastparen,ca6052779ddca9f6d99665f12c39aa2d85d85733,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/leftcontext,ca6052779ddca9f6d99665f12c39aa2d85d85733,JavaScript|Global Objects
-web/javascript/reference/global_objects/regexp/multiline,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/regexp/multiline,8f53af45fae665627a95ac50e177b15d0228b920,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/n,ca6052779ddca9f6d99665f12c39aa2d85d85733,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/regexp,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/rightcontext,ca6052779ddca9f6d99665f12c39aa2d85d85733,JavaScript|Global Objects
@@ -12990,7 +12992,7 @@ web/javascript/reference/global_objects/regexp/symbol.species,6ba4f3b350be482ba2
 web/javascript/reference/global_objects/regexp/symbol.split,5b3aa7e4e8cd54f1b662534d8c97074e522b7fc4,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/test,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/tostring,939067a53bb5bb3787f2d536b83df2252d4e838e,JavaScript|Global Objects
-web/javascript/reference/global_objects/regexp/unicode,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/regexp/unicode,8f53af45fae665627a95ac50e177b15d0228b920,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/unicodesets,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/set,c808a24d4e4f7bda00e7117f315965ed39b780e5,JavaScript|Global Objects
 web/javascript/reference/global_objects/set/add,7b63b90d24ad8945977bb9dc2735d75f72829bc1,JavaScript|Global Objects
@@ -13502,14 +13504,15 @@ web/javascript/reference/operators/unsigned_right_shift_assignment,fad67be4431d8
 web/javascript/reference/operators/void,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/yield,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/yield_star_,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
-web/javascript/reference/regular_expressions,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,JavaScript|Regular Expressions
+web/javascript/reference/regular_expressions,8f53af45fae665627a95ac50e177b15d0228b920,JavaScript|Regular Expressions
 web/javascript/reference/regular_expressions/backreference,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Regular Expressions
+web/javascript/reference/regular_expressions/buffer_boundary_assertion,8f53af45fae665627a95ac50e177b15d0228b920,JavaScript|Regular Expressions
 web/javascript/reference/regular_expressions/capturing_group,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Regular Expressions
 web/javascript/reference/regular_expressions/character_class,3bc2e3f837716049da9382fa8459c2ceccdf8950,JavaScript|Regular Expressions
 web/javascript/reference/regular_expressions/character_class_escape,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Regular Expressions
 web/javascript/reference/regular_expressions/character_escape,a7acf4c7a38f1df8f5d0dee1f17672968ac979d5,JavaScript|Regular Expressions
 web/javascript/reference/regular_expressions/disjunction,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Regular Expressions
-web/javascript/reference/regular_expressions/input_boundary_assertion,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Regular Expressions
+web/javascript/reference/regular_expressions/input_boundary_assertion,8f53af45fae665627a95ac50e177b15d0228b920,JavaScript|Regular Expressions
 web/javascript/reference/regular_expressions/literal_character,aff319cd81d10cfda31b13adb3263deafb284b20,JavaScript|Regular Expressions
 web/javascript/reference/regular_expressions/lookahead_assertion,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Regular Expressions
 web/javascript/reference/regular_expressions/lookbehind_assertion,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Regular Expressions
@@ -13544,7 +13547,7 @@ web/javascript/reference/statements/function_star_,bdb19290fc91b32b03d5e117e7e12
 web/javascript/reference/statements/if...else,0dff7c501b844de960d5a180c1348a9ce01b82fe,JavaScript|Statements
 web/javascript/reference/statements/import,3d3046d13482ca979db8b98b6eb55927b9b3a51f,JavaScript|Statements
 web/javascript/reference/statements/import/with,44a853a7fce4ef042b6eeddc96f0a587f25704d3,JavaScript|Statements
-web/javascript/reference/statements/label,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
+web/javascript/reference/statements/label,65692fd4d256d5647749b7c7005dcf53d425a533,JavaScript|Statements
 web/javascript/reference/statements/let,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/return,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/switch,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
@@ -13569,7 +13572,7 @@ web/mathml/reference/element,c263f06fa14ed56153e345006bb459c9df014b98,MathML|Ele
 web/mathml/reference/element/annotation,702cd9e4d2834e13aea345943efc8d0c03d92ec9,MathML|Element
 web/mathml/reference/element/annotation-xml,5f2a755c4fa7d126f85b56fbca90b15c5f039eff,MathML|Element
 web/mathml/reference/element/maction,56f3d7018159127dbe92842413fb45d0aa7e8193,MathML|Element
-web/mathml/reference/element/math,6b01bafc68dffb3a50f70882d2ba24cd6f9d886f,MathML|Element
+web/mathml/reference/element/math,65692fd4d256d5647749b7c7005dcf53d425a533,MathML|Element
 web/mathml/reference/element/menclose,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,MathML|Element
 web/mathml/reference/element/merror,c263f06fa14ed56153e345006bb459c9df014b98,MathML|Element
 web/mathml/reference/element/mfenced,ca6052779ddca9f6d99665f12c39aa2d85d85733,MathML|Element
@@ -13612,7 +13615,7 @@ web/mathml/tutorials,c263f06fa14ed56153e345006bb459c9df014b98,MathML|Tutorials
 web/mathml/tutorials/for_beginners,c263f06fa14ed56153e345006bb459c9df014b98,MathML|Tutorials
 web/mathml/tutorials/for_beginners/fractions_and_roots,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,MathML|Tutorials
 web/mathml/tutorials/for_beginners/getting_started,ad01ed9218be15d7aeaa0666ec0bc2a2d17f3574,MathML|Tutorials
-web/mathml/tutorials/for_beginners/scripts,8f65572261d1f15ade758f0bf1bc6e40cb87c716,MathML|Tutorials
+web/mathml/tutorials/for_beginners/scripts,65692fd4d256d5647749b7c7005dcf53d425a533,MathML|Tutorials
 web/mathml/tutorials/for_beginners/tables,f69b6693212029ce4b9fa0c753729044577af548,MathML|Tutorials
 web/mathml/tutorials/for_beginners/text_containers,3143a6094e7b87cf1a96b61f9551fb4d95049777,MathML|Tutorials
 web/mathml/tutorials/for_beginners/three_famous_mathematical_formulas,c263f06fa14ed56153e345006bb459c9df014b98,MathML|Tutorials

@@ -1461,7 +1461,7 @@ mozilla/add-ons/webextensions/api/notifications/templatetype,3
 mozilla/add-ons/webextensions/api/notifications/update,3
 mozilla/add-ons/webextensions/api/omnibox,1
 mozilla/add-ons/webextensions/api/omnibox/ondeletesuggestion,1
-mozilla/add-ons/webextensions/api/omnibox/oninputcancelled,3
+mozilla/add-ons/webextensions/api/omnibox/oninputcancelled,4
 mozilla/add-ons/webextensions/api/omnibox/oninputchanged,2
 mozilla/add-ons/webextensions/api/omnibox/oninputentered,3
 mozilla/add-ons/webextensions/api/omnibox/oninputentereddisposition,1
@@ -2087,7 +2087,7 @@ web/accessibility,null
 web/accessibility/aria,null
 web/accessibility/aria/guides,1
 web/accessibility/aria/guides/live_regions,7
-web/accessibility/aria/guides/multipart_labels,1
+web/accessibility/aria/guides/multipart_labels,2
 web/accessibility/aria/guides/screen_reader_implementors,2
 web/accessibility/aria/guides/techniques,1
 web/accessibility/aria/reference,0
@@ -2178,7 +2178,7 @@ web/accessibility/aria/reference/roles/input_role,0
 web/accessibility/aria/reference/roles/landmark_role,null
 web/accessibility/aria/reference/roles/link_role,null
 web/accessibility/aria/reference/roles/list_role,4
-web/accessibility/aria/reference/roles/listbox_role,6
+web/accessibility/aria/reference/roles/listbox_role,7
 web/accessibility/aria/reference/roles/listitem_role,5
 web/accessibility/aria/reference/roles/log_role,null
 web/accessibility/aria/reference/roles/main_role,null
@@ -2261,7 +2261,7 @@ web/api/abortsignal,5
 web/api/abortsignal/abort_event,null
 web/api/abortsignal/abort_static,null
 web/api/abortsignal/aborted,null
-web/api/abortsignal/any_static,0
+web/api/abortsignal/any_static,1
 web/api/abortsignal/reason,null
 web/api/abortsignal/throwifaborted,null
 web/api/abortsignal/timeout_static,null
@@ -2990,8 +2990,8 @@ web/api/cookiechangeevent/deleted,4
 web/api/cookiestore,3
 web/api/cookiestore/change_event,1
 web/api/cookiestore/delete,5
-web/api/cookiestore/get,5
-web/api/cookiestore/getall,4
+web/api/cookiestore/get,6
+web/api/cookiestore/getall,5
 web/api/cookiestore/set,5
 web/api/cookiestoremanager,0
 web/api/cookiestoremanager/getsubscriptions,0
@@ -3603,7 +3603,7 @@ web/api/document/xmlversion,1
 web/api/document_object_model,6
 web/api/document_object_model/anatomy_of_the_dom,null
 web/api/document_object_model/building_and_updating_the_dom_tree,null
-web/api/document_object_model/events,1
+web/api/document_object_model/events,2
 web/api/document_object_model/reflected_attributes,null
 web/api/document_object_model/selection_and_traversal_on_the_dom_tree,null
 web/api/document_picture-in-picture_api,5
@@ -4223,7 +4223,7 @@ web/api/file/webkitrelativepath,null
 web/api/file_and_directory_entries_api,null
 web/api/file_api,1
 web/api/file_api/using_files_from_web_applications,8
-web/api/file_system_api,2
+web/api/file_system_api,3
 web/api/file_system_api/origin_private_file_system,2
 web/api/fileentrysync,null
 web/api/filelist,0
@@ -4260,13 +4260,13 @@ web/api/filesystemdirectoryentry/createreader,0
 web/api/filesystemdirectoryentry/getdirectory,null
 web/api/filesystemdirectoryentry/getfile,null
 web/api/filesystemdirectoryentry/removerecursively,null
-web/api/filesystemdirectoryhandle,2
+web/api/filesystemdirectoryhandle,3
 web/api/filesystemdirectoryhandle/entries,0
 web/api/filesystemdirectoryhandle/getdirectoryhandle,2
 web/api/filesystemdirectoryhandle/getfilehandle,2
 web/api/filesystemdirectoryhandle/keys,0
 web/api/filesystemdirectoryhandle/removeentry,1
-web/api/filesystemdirectoryhandle/resolve,0
+web/api/filesystemdirectoryhandle/resolve,1
 web/api/filesystemdirectoryhandle/values,0
 web/api/filesystemdirectoryreader,1
 web/api/filesystemdirectoryreader/readentries,0
@@ -8956,7 +8956,7 @@ web/api/ui_events/keyboard_event_code_values,null
 web/api/ui_events/keyboard_event_key_values,null
 web/api/uievent,1
 web/api/uievent/detail,0
-web/api/uievent/inituievent,2
+web/api/uievent/inituievent,3
 web/api/uievent/sourcecapabilities,0
 web/api/uievent/uievent,1
 web/api/uievent/view,0
@@ -12247,7 +12247,7 @@ web/javascript/guide/meta_programming,null
 web/javascript/guide/modules,15
 web/javascript/guide/numbers_and_strings,0
 web/javascript/guide/regular_expressions,null
-web/javascript/guide/regular_expressions/assertions,0
+web/javascript/guide/regular_expressions/assertions,1
 web/javascript/guide/regular_expressions/character_classes,null
 web/javascript/guide/regular_expressions/cheatsheet,null
 web/javascript/guide/regular_expressions/groups_and_backreferences,null
@@ -12916,7 +12916,9 @@ web/javascript/reference/global_objects/parsefloat,null
 web/javascript/reference/global_objects/parseint,null
 web/javascript/reference/global_objects/promise,null
 web/javascript/reference/global_objects/promise/all,null
+web/javascript/reference/global_objects/promise/allkeyed,null
 web/javascript/reference/global_objects/promise/allsettled,null
+web/javascript/reference/global_objects/promise/allsettledkeyed,null
 web/javascript/reference/global_objects/promise/any,null
 web/javascript/reference/global_objects/promise/catch,10
 web/javascript/reference/global_objects/promise/finally,10
@@ -13502,14 +13504,15 @@ web/javascript/reference/operators/unsigned_right_shift_assignment,null
 web/javascript/reference/operators/void,null
 web/javascript/reference/operators/yield,null
 web/javascript/reference/operators/yield_star_,null
-web/javascript/reference/regular_expressions,8
+web/javascript/reference/regular_expressions,9
 web/javascript/reference/regular_expressions/backreference,0
+web/javascript/reference/regular_expressions/buffer_boundary_assertion,null
 web/javascript/reference/regular_expressions/capturing_group,null
 web/javascript/reference/regular_expressions/character_class,null
 web/javascript/reference/regular_expressions/character_class_escape,null
 web/javascript/reference/regular_expressions/character_escape,0
 web/javascript/reference/regular_expressions/disjunction,null
-web/javascript/reference/regular_expressions/input_boundary_assertion,0
+web/javascript/reference/regular_expressions/input_boundary_assertion,1
 web/javascript/reference/regular_expressions/literal_character,1
 web/javascript/reference/regular_expressions/lookahead_assertion,null
 web/javascript/reference/regular_expressions/lookbehind_assertion,null
@@ -13544,7 +13547,7 @@ web/javascript/reference/statements/function_star_,13
 web/javascript/reference/statements/if...else,4
 web/javascript/reference/statements/import,12
 web/javascript/reference/statements/import/with,2
-web/javascript/reference/statements/label,5
+web/javascript/reference/statements/label,6
 web/javascript/reference/statements/let,7
 web/javascript/reference/statements/return,4
 web/javascript/reference/statements/switch,4
