@@ -977,7 +977,7 @@ learn_web_development/getting_started/soft_skills,1
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,null
 learn_web_development/getting_started/soft_skills/finding_a_job,null
 learn_web_development/getting_started/soft_skills/research_and_learning,null
-learn_web_development/getting_started/soft_skills/workflows_and_processes,5
+learn_web_development/getting_started/soft_skills/workflows_and_processes,6
 learn_web_development/getting_started/web_standards,1
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,4
 learn_web_development/getting_started/web_standards/how_the_web_works,null
@@ -5688,9 +5688,9 @@ web/api/integrityviolationreport,null
 web/api/interactioncontentfulpaint,null
 web/api/interactioncontentfulpaint/interactionid,null
 web/api/interactioncontentfulpaint/largestcontentfulpaint,null
-web/api/interactioncontentfulpaint/navigationid,null
 web/api/interactioncontentfulpaint/painttime,null
 web/api/interactioncontentfulpaint/presentationtime,null
+web/api/interactioncontentfulpaint/tojson,null
 web/api/interestevent,null
 web/api/interestevent/interestevent,null
 web/api/interestevent/source,null
@@ -6715,6 +6715,7 @@ web/api/performanceentry,null
 web/api/performanceentry/duration,null
 web/api/performanceentry/entrytype,null
 web/api/performanceentry/name,null
+web/api/performanceentry/navigationid,null
 web/api/performanceentry/starttime,null
 web/api/performanceentry/tojson,null
 web/api/performanceeventtiming,null
@@ -6821,10 +6822,10 @@ web/api/performanceservertiming/tojson,null
 web/api/performancesoftnavigation,null
 web/api/performancesoftnavigation/getlargestinteractioncontentfulpaint,null
 web/api/performancesoftnavigation/interactionid,null
-web/api/performancesoftnavigation/navigationid,null
 web/api/performancesoftnavigation/navigationtype,null
 web/api/performancesoftnavigation/painttime,null
 web/api/performancesoftnavigation/presentationtime,null
+web/api/performancesoftnavigation/tojson,null
 web/api/performancetiming,null
 web/api/performancetiming/connectend,null
 web/api/performancetiming/connectstart,null
@@ -11496,7 +11497,7 @@ web/css/reference/values/functions,null
 web/css/reference/values/generic-family,null
 web/css/reference/values/gradient,null
 web/css/reference/values/gradient/conic-gradient,null
-web/css/reference/values/gradient/linear-gradient,5
+web/css/reference/values/gradient/linear-gradient,7
 web/css/reference/values/gradient/radial-gradient,null
 web/css/reference/values/gradient/repeating-conic-gradient,null
 web/css/reference/values/gradient/repeating-linear-gradient,null

@@ -5688,9 +5688,9 @@ web/api/integrityviolationreport,null
 web/api/interactioncontentfulpaint,null
 web/api/interactioncontentfulpaint/interactionid,null
 web/api/interactioncontentfulpaint/largestcontentfulpaint,null
-web/api/interactioncontentfulpaint/navigationid,null
 web/api/interactioncontentfulpaint/painttime,null
 web/api/interactioncontentfulpaint/presentationtime,null
+web/api/interactioncontentfulpaint/tojson,null
 web/api/interestevent,null
 web/api/interestevent/interestevent,null
 web/api/interestevent/source,null
@@ -6715,6 +6715,7 @@ web/api/performanceentry,null
 web/api/performanceentry/duration,null
 web/api/performanceentry/entrytype,null
 web/api/performanceentry/name,null
+web/api/performanceentry/navigationid,null
 web/api/performanceentry/starttime,null
 web/api/performanceentry/tojson,null
 web/api/performanceeventtiming,null
@@ -6821,10 +6822,10 @@ web/api/performanceservertiming/tojson,null
 web/api/performancesoftnavigation,null
 web/api/performancesoftnavigation/getlargestinteractioncontentfulpaint,null
 web/api/performancesoftnavigation/interactionid,null
-web/api/performancesoftnavigation/navigationid,null
 web/api/performancesoftnavigation/navigationtype,null
 web/api/performancesoftnavigation/painttime,null
 web/api/performancesoftnavigation/presentationtime,null
+web/api/performancesoftnavigation/tojson,null
 web/api/performancetiming,null
 web/api/performancetiming/connectend,null
 web/api/performancetiming/connectstart,null
