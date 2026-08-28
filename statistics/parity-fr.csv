@@ -1880,7 +1880,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,4
 mozilla/firefox,0
-mozilla/firefox/experimental_features,9
+mozilla/firefox/experimental_features,10
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -6881,7 +6881,7 @@ web/api/pictureinpicturewindow/resize_event,null
 web/api/pictureinpicturewindow/width,null
 web/api/plugin,null
 web/api/pluginarray,null
-web/api/pointer_events,0
+web/api/pointer_events,1
 web/api/pointer_events/multi-touch_interaction,null
 web/api/pointer_events/pinch_zoom_gestures,null
 web/api/pointer_events/using_pointer_events,null
@@ -12184,7 +12184,7 @@ web/http/reference/status/303,0
 web/http/reference/status/304,0
 web/http/reference/status/307,0
 web/http/reference/status/308,0
-web/http/reference/status/400,0
+web/http/reference/status/400,1
 web/http/reference/status/401,0
 web/http/reference/status/402,0
 web/http/reference/status/403,0

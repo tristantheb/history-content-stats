@@ -1880,7 +1880,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,8
 mozilla/firefox,0
-mozilla/firefox/experimental_features,3
+mozilla/firefox/experimental_features,4
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -6881,7 +6881,7 @@ web/api/pictureinpicturewindow/resize_event,2
 web/api/pictureinpicturewindow/width,5
 web/api/plugin,null
 web/api/pluginarray,2
-web/api/pointer_events,2
+web/api/pointer_events,3
 web/api/pointer_events/multi-touch_interaction,6
 web/api/pointer_events/pinch_zoom_gestures,8
 web/api/pointer_events/using_pointer_events,5
@@ -12184,7 +12184,7 @@ web/http/reference/status/303,0
 web/http/reference/status/304,0
 web/http/reference/status/307,0
 web/http/reference/status/308,0
-web/http/reference/status/400,0
+web/http/reference/status/400,1
 web/http/reference/status/401,0
 web/http/reference/status/402,0
 web/http/reference/status/403,0
@@ -13638,7 +13638,7 @@ web/media/guides/formats/audio_concepts,null
 web/media/guides/formats/codecs_parameter,null
 web/media/guides/formats/configuring_servers_for_ogg_media,null
 web/media/guides/formats/containers,8
-web/media/guides/formats/image_types,0
+web/media/guides/formats/image_types,1
 web/media/guides/formats/support_issues,null
 web/media/guides/formats/video_codecs,12
 web/media/guides/formats/video_concepts,null
@@ -13978,7 +13978,7 @@ web/svg/reference/attribute/to,0
 web/svg/reference/attribute/transform,2
 web/svg/reference/attribute/transform-origin,0
 web/svg/reference/attribute/type,1
-web/svg/reference/attribute/unicode-bidi,0
+web/svg/reference/attribute/unicode-bidi,1
 web/svg/reference/attribute/values,0
 web/svg/reference/attribute/vector-effect,1
 web/svg/reference/attribute/version,2

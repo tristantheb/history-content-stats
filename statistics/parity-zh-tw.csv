@@ -12184,7 +12184,7 @@ web/http/reference/status/303,1
 web/http/reference/status/304,1
 web/http/reference/status/307,1
 web/http/reference/status/308,1
-web/http/reference/status/400,0
+web/http/reference/status/400,1
 web/http/reference/status/401,1
 web/http/reference/status/402,1
 web/http/reference/status/403,1
