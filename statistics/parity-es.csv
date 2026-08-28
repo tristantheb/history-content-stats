@@ -7811,7 +7811,7 @@ web/api/serviceworker/postmessage,2
 web/api/serviceworker/scripturl,0
 web/api/serviceworker/state,0
 web/api/serviceworker/statechange_event,0
-web/api/serviceworkercontainer,0
+web/api/serviceworkercontainer,1
 web/api/serviceworkercontainer/controller,null
 web/api/serviceworkercontainer/controllerchange_event,null
 web/api/serviceworkercontainer/getregistration,null

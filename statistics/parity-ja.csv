@@ -143,7 +143,7 @@ glossary/certified,0
 glossary/challenge,null
 glossary/character,0
 glossary/character_encoding,9
-glossary/character_reference,0
+glossary/character_reference,1
 glossary/character_set,null
 glossary/chrome,null
 glossary/cia,null
@@ -2035,7 +2035,7 @@ mozilla/firefox/releases/65,0
 mozilla/firefox/releases/66,0
 mozilla/firefox/releases/67,null
 mozilla/firefox/releases/68,null
-mozilla/firefox/releases/69,0
+mozilla/firefox/releases/69,1
 mozilla/firefox/releases/7,0
 mozilla/firefox/releases/7/updating_extensions,null
 mozilla/firefox/releases/70,null
@@ -3282,7 +3282,7 @@ web/api/cssstyledeclaration/length,2
 web/api/cssstyledeclaration/parentrule,2
 web/api/cssstyledeclaration/removeproperty,3
 web/api/cssstyledeclaration/setproperty,8
-web/api/cssstyleproperties,0
+web/api/cssstyleproperties,1
 web/api/cssstyleproperties/cssfloat,0
 web/api/cssstylerule,7
 web/api/cssstylerule/selectortext,2
@@ -6289,7 +6289,7 @@ web/api/navigationpreloadmanager,0
 web/api/navigationpreloadmanager/disable,1
 web/api/navigationpreloadmanager/enable,1
 web/api/navigationpreloadmanager/getstate,0
-web/api/navigationpreloadmanager/setheadervalue,0
+web/api/navigationpreloadmanager/setheadervalue,1
 web/api/navigationtransition,null
 web/api/navigationtransition/committed,null
 web/api/navigationtransition/finished,null
@@ -7100,7 +7100,7 @@ web/api/readablestreambyobreader/closed,1
 web/api/readablestreambyobreader/read,9
 web/api/readablestreambyobreader/readablestreambyobreader,2
 web/api/readablestreambyobreader/releaselock,1
-web/api/readablestreambyobrequest,2
+web/api/readablestreambyobrequest,3
 web/api/readablestreambyobrequest/respond,1
 web/api/readablestreambyobrequest/respondwithnewview,2
 web/api/readablestreambyobrequest/view,2
@@ -7811,7 +7811,7 @@ web/api/serviceworker/postmessage,3
 web/api/serviceworker/scripturl,3
 web/api/serviceworker/state,5
 web/api/serviceworker/statechange_event,4
-web/api/serviceworkercontainer,0
+web/api/serviceworkercontainer,1
 web/api/serviceworkercontainer/controller,7
 web/api/serviceworkercontainer/controllerchange_event,7
 web/api/serviceworkercontainer/getregistration,5
@@ -9116,7 +9116,7 @@ web/api/videoencoder/isconfigsupported_static,null
 web/api/videoencoder/reset,null
 web/api/videoencoder/state,null
 web/api/videoencoder/videoencoder,null
-web/api/videoframe,8
+web/api/videoframe,9
 web/api/videoframe/allocationsize,2
 web/api/videoframe/clone,1
 web/api/videoframe/close,1
@@ -10459,7 +10459,7 @@ web/css/guides/logical_properties_and_values/floating_and_positioning,1
 web/css/guides/logical_properties_and_values/margins_borders_padding,0
 web/css/guides/logical_properties_and_values/sizing,0
 web/css/guides/masking,2
-web/css/guides/masking/clipping,0
+web/css/guides/masking/clipping,1
 web/css/guides/masking/introduction,0
 web/css/guides/masking/mask_properties,1
 web/css/guides/masking/multiple_masks,0
@@ -11509,7 +11509,7 @@ web/css/reference/values/hypot,0
 web/css/reference/values/ident,2
 web/css/reference/values/if,1
 web/css/reference/values/image,3
-web/css/reference/values/image/image,1
+web/css/reference/values/image/image,3
 web/css/reference/values/image/image-set,0
 web/css/reference/values/image/paint,1
 web/css/reference/values/important,1
@@ -11634,7 +11634,7 @@ web/html/reference/attributes/multiple,3
 web/html/reference/attributes/pattern,4
 web/html/reference/attributes/placeholder,4
 web/html/reference/attributes/readonly,3
-web/html/reference/attributes/rel,0
+web/html/reference/attributes/rel,1
 web/html/reference/attributes/rel/alternate_stylesheet,4
 web/html/reference/attributes/rel/compression-dictionary,3
 web/html/reference/attributes/rel/dns-prefetch,2
