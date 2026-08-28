@@ -143,7 +143,7 @@ glossary/certified,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/challenge,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/character,df9652f304077e033f6217ac06874c3bc9565062,Glossary
 glossary/character_encoding,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
-glossary/character_reference,ff4dc3d43e814614df60ecdb7376b59698660ac2,Glossary
+glossary/character_reference,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Glossary
 glossary/character_set,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/chrome,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/cia,cded3768aaaafc953486126a8847ecbdf00fb049,Glossary
@@ -1335,7 +1335,7 @@ mozilla/add-ons/webextensions/api/downloads/dangertype,09109b6f9444d22215ba330ec
 mozilla/add-ons/webextensions/api/downloads/doubledelta,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/downloads/download,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/downloads/downloaditem,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/downloads/downloadquery,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/downloads/downloadquery,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/downloads/downloadtime,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/downloads/erase,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/downloads/filenameconflictaction,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -2035,7 +2035,7 @@ mozilla/firefox/releases/65,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Fir
 mozilla/firefox/releases/66,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/67,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Mozilla|Firefox|Versions
 mozilla/firefox/releases/68,ee9431bdd896f41c2860ef340f01554c75fd7f29,Mozilla|Firefox|Versions
-mozilla/firefox/releases/69,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Mozilla|Firefox|Versions
+mozilla/firefox/releases/69,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Mozilla|Firefox|Versions
 mozilla/firefox/releases/7,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
 mozilla/firefox/releases/7/updating_extensions,2591a9b59de88401a2ef0fb7d0b8d0281e3f5376,Mozilla|Firefox|Versions
 mozilla/firefox/releases/70,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Mozilla|Firefox|Versions
@@ -2169,7 +2169,7 @@ web/accessibility/aria/reference/roles/feed_role,3e543cdfe8dddfb4774a64bf3decdcb
 web/accessibility/aria/reference/roles/figure_role,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/form_role,6193c69cb71e80e45e7dff97188253ed15d58321,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/generic_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/grid_role,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/grid_role,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/gridcell_role,c1564acf160ef4b320fb7b89ab65211b9c50cf1b,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/group_role,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/heading_role,4550055f1afc5fb084d33f6e5a7910b7066e20c7,Accessibility|ARIA|Roles
@@ -3031,7 +3031,7 @@ web/api/cryptokey/extractable,cc27a64bb555b250cf0984a3a744e5fd251e3565,Web APIs
 web/api/cryptokey/type,cc27a64bb555b250cf0984a3a744e5fd251e3565,Web APIs
 web/api/cryptokey/usages,9148d0040835210e7b4295efde6976053a703406,Web APIs
 web/api/cryptokeypair,b280ea1234452ff553caa466bf532a66ba51db01,Web APIs
-web/api/cspviolationreport,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
+web/api/cspviolationreport,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/cspviolationreport/blockedurl,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
 web/api/cspviolationreport/columnnumber,3d49f18251e1f3493ef2e3a70519603345f8b7dc,Web APIs
 web/api/cspviolationreport/disposition,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
@@ -3282,7 +3282,7 @@ web/api/cssstyledeclaration/length,bc9f7bec1ab48f29d241e38a9f1598f783f6b60a,Web 
 web/api/cssstyledeclaration/parentrule,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/cssstyledeclaration/removeproperty,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/cssstyledeclaration/setproperty,56bbf59f4ea2566d64ad2e5c669a7a597626b7f3,Web APIs
-web/api/cssstyleproperties,703f1c68d3f3428ad2e5e442bfbae0eb88bcc201,Web APIs
+web/api/cssstyleproperties,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/cssstyleproperties/cssfloat,d3bbe8558e181a2b6e04abdedc429fb2a0e4f015,Web APIs
 web/api/cssstylerule,231152e9a749aaeba8de45f4cc712845a470dda9,Web APIs
 web/api/cssstylerule/selectortext,53b1989260054e651bcf001bacee9b843b8ca9c8,Web APIs
@@ -5119,7 +5119,7 @@ web/api/htmllinkelement/fetchpriority,1f00512e3c9a20b5bb927db529bb5d639e346d96,W
 web/api/htmllinkelement/href,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmllinkelement/hreflang,0145c6497d2f2206dca1326593fe308f7b771a08,Web APIs
 web/api/htmllinkelement/imagesizes,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/htmllinkelement/imagesrcset,41bfea46fcb69700e456c890ce07c816e14d834c,Web APIs
+web/api/htmllinkelement/imagesrcset,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/htmllinkelement/integrity,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/htmllinkelement/media,63cbf204323f117a2a80c7aa6273e50253ab9d07,Web APIs
 web/api/htmllinkelement/referrerpolicy,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
@@ -5684,7 +5684,7 @@ web/api/insertable_streams_for_mediastreamtrack_api,0d0ccc861fa024fa10836fbf0cc2
 web/api/installevent,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/installevent/addroutes,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/installevent/installevent,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
-web/api/integrityviolationreport,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
+web/api/integrityviolationreport,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/interactioncontentfulpaint,c9b973e5cf1f5d5b282eb4eb49cddcc044ce7e2b,Web APIs
 web/api/interactioncontentfulpaint/interactionid,c9b973e5cf1f5d5b282eb4eb49cddcc044ce7e2b,Web APIs
 web/api/interactioncontentfulpaint/largestcontentfulpaint,c9b973e5cf1f5d5b282eb4eb49cddcc044ce7e2b,Web APIs
@@ -6289,7 +6289,7 @@ web/api/navigationpreloadmanager,f2088b8912ef205a737551441d54b73507bd3ac6,Web AP
 web/api/navigationpreloadmanager/disable,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
 web/api/navigationpreloadmanager/enable,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
 web/api/navigationpreloadmanager/getstate,58ad1df59f2ffb9ecab4e27fe1bdf1eb5a55f89b,Web APIs
-web/api/navigationpreloadmanager/setheadervalue,cfb7587e3e3122630ad6cbd94d834ecadbe0a746,Web APIs
+web/api/navigationpreloadmanager/setheadervalue,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/navigationtransition,e37e6f1ca594cd444b243be19637171790bbb656,Web APIs
 web/api/navigationtransition/committed,e37e6f1ca594cd444b243be19637171790bbb656,Web APIs
 web/api/navigationtransition/finished,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
@@ -7100,7 +7100,7 @@ web/api/readablestreambyobreader/closed,d8b4431bfde42f1bc195239ea1f378d763f8163e
 web/api/readablestreambyobreader/read,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
 web/api/readablestreambyobreader/readablestreambyobreader,802b6063046dffb7634d2138aadcd92cb22ed40c,Web APIs
 web/api/readablestreambyobreader/releaselock,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
-web/api/readablestreambyobrequest,848771d9efdc57ad84d643081cf91e89355c751b,Web APIs
+web/api/readablestreambyobrequest,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/readablestreambyobrequest/respond,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
 web/api/readablestreambyobrequest/respondwithnewview,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/readablestreambyobrequest/view,ca056fde2ee61527c62d76766ece012226eee155,Web APIs
@@ -7214,7 +7214,7 @@ web/api/rtcaudiosourcestats/trackidentifier,d32ba6a7c5a4c43029b92fab2e78e3bedc00
 web/api/rtcaudiosourcestats/type,d32ba6a7c5a4c43029b92fab2e78e3bedc00b63c,Web APIs
 web/api/rtccertificate,8b6cec0ceff01e7a9d6865cf5306788e15cce4b8,Web APIs
 web/api/rtccertificate/expires,381c51574a3e6a07ee09c63493452440f046038d,Web APIs
-web/api/rtccertificate/getfingerprints,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
+web/api/rtccertificate/getfingerprints,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/rtccertificatestats,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
 web/api/rtccertificatestats/base64certificate,cc247a1dfe34f8c8a04071e9652c9c6a413870c8,Web APIs
 web/api/rtccertificatestats/fingerprint,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
@@ -7670,7 +7670,7 @@ web/api/sanitizer,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/sanitizer/allowattribute,ba886c384e385689ce8feffacf4f7ce1d8c5e736,Web APIs
 web/api/sanitizer/allowelement,ba886c384e385689ce8feffacf4f7ce1d8c5e736,Web APIs
 web/api/sanitizer/get,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
-web/api/sanitizer/removeattribute,06e6e54baef7032c4e81ca93291fde0a0585de8b,Web APIs
+web/api/sanitizer/removeattribute,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/sanitizer/removeelement,ba886c384e385689ce8feffacf4f7ce1d8c5e736,Web APIs
 web/api/sanitizer/removeunsafe,cb84bb5393fe4ce7bf078210692e132e607766b3,Web APIs
 web/api/sanitizer/replaceelementwithchildren,3da04ec7191b2d04750d76aad2a59d6579fe43ba,Web APIs
@@ -7811,7 +7811,7 @@ web/api/serviceworker/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e,Web A
 web/api/serviceworker/scripturl,bc0237f139ee3a9db67a669ae1b6bf45ebba7f94,Web APIs
 web/api/serviceworker/state,c29cee3dcb0d0e66093dd0c18aa82e0eab9d6d14,Web APIs
 web/api/serviceworker/statechange_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
-web/api/serviceworkercontainer,981e2d17e897c6280fd27364746a34d8560d30d1,Web APIs
+web/api/serviceworkercontainer,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/serviceworkercontainer/controller,981e2d17e897c6280fd27364746a34d8560d30d1,Web APIs
 web/api/serviceworkercontainer/controllerchange_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/serviceworkercontainer/getregistration,bc0237f139ee3a9db67a669ae1b6bf45ebba7f94,Web APIs
@@ -8123,7 +8123,7 @@ web/api/subtlecrypto/sign,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b,Web APIs
 web/api/subtlecrypto/unwrapkey,cc27a64bb555b250cf0984a3a744e5fd251e3565,Web APIs
 web/api/subtlecrypto/verify,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/subtlecrypto/wrapkey,cc27a64bb555b250cf0984a3a744e5fd251e3565,Web APIs
-web/api/summarizer,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
+web/api/summarizer,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/summarizer/availability_static,8cae6b8c772e3f9ce2fbd73cad17fcb0adda966f,Web APIs
 web/api/summarizer/create_static,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
 web/api/summarizer/destroy,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
@@ -8137,7 +8137,7 @@ web/api/summarizer/outputlanguage,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web A
 web/api/summarizer/sharedcontext,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web APIs
 web/api/summarizer/summarize,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
 web/api/summarizer/summarizestreaming,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
-web/api/summarizer/type,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web APIs
+web/api/summarizer/type,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/summarizer_api,7a2016c1eec26048dce86e8af0b2127395db7f46,Web APIs
 web/api/summarizer_api/using,d19dec85109590176f946fcceef48c787d578b1e,Web APIs
 web/api/svg_api,d559e66723de93ce6c59eb5d22a29afca7265c2a,Web APIs
@@ -9116,7 +9116,7 @@ web/api/videoencoder/isconfigsupported_static,e5ccdde5b77f66395e754e019c67468e43
 web/api/videoencoder/reset,216794e76611c18e53222bb8efa570e898e990de,Web APIs
 web/api/videoencoder/state,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
 web/api/videoencoder/videoencoder,941ade970fd7ebad52af692b6ac27cfd96f94100,Web APIs
-web/api/videoframe,ef6215cdb0472ba6bff093e2dcfb0e1434483db5,Web APIs
+web/api/videoframe,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/videoframe/allocationsize,05d649713c24ee889b90f00097c5c09a1c81ecaa,Web APIs
 web/api/videoframe/clone,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
 web/api/videoframe/close,3789de65bd11453c4cb24625723f81a7e8fcdd56,Web APIs
@@ -9721,7 +9721,7 @@ web/api/webvr_api/using_vr_controllers_with_webvr,db01d0c8b4cbf8a4467b1db65e17f6
 web/api/webvtt_api,fb241f60d2c42614b106f3b4647cc6a4eb2e1bc8,Web APIs
 web/api/webvtt_api/web_video_text_tracks_format,4cb9d89a204a9532370693b982e8a3b274a874b1,Web APIs
 web/api/webxr_device_api,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
-web/api/webxr_device_api/bounded_reference_spaces,b0c7bd01a20fba0ae693d8e009f0c8b839da8fa6,Web APIs
+web/api/webxr_device_api/bounded_reference_spaces,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/webxr_device_api/cameras,5c5ee35d66ac24bc6513c14f120750c74d779d20,Web APIs
 web/api/webxr_device_api/fundamentals,4f0f7386262363103a3e9cf482bb348d8570b331,Web APIs
 web/api/webxr_device_api/geometry,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac,Web APIs
@@ -9730,7 +9730,7 @@ web/api/webxr_device_api/lifecycle,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web 
 web/api/webxr_device_api/lighting,80d4cfb4515b339111e175dbeb8d2b91fd3ee1a0,Web APIs
 web/api/webxr_device_api/movement_and_motion,116577234db1d6275c74a8bb879fce54d944f4ed,Web APIs
 web/api/webxr_device_api/performance,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,Web APIs
-web/api/webxr_device_api/permissions_and_security,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
+web/api/webxr_device_api/permissions_and_security,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/webxr_device_api/perspective,1fc327ab47c4fc89eff6e1d05780babd720e4b13,Web APIs
 web/api/webxr_device_api/rendering,9a4005caa5cc13f5174e3b8981eeec5631ed83d1,Web APIs
 web/api/webxr_device_api/spatial_tracking,cda88aaf82e8bc03b3826396d96aab18a669134c,Web APIs
@@ -10459,7 +10459,7 @@ web/css/guides/logical_properties_and_values/floating_and_positioning,28f5f3b9b4
 web/css/guides/logical_properties_and_values/margins_borders_padding,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/logical_properties_and_values/sizing,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/masking,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,CSS|Guides
-web/css/guides/masking/clipping,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/masking/clipping,db443a6062d0e858a62af2f9a3a7558335ffd2dd,CSS|Guides
 web/css/guides/masking/introduction,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/masking/mask_properties,06e6e54baef7032c4e81ca93291fde0a0585de8b,CSS|Guides
 web/css/guides/masking/multiple_masks,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -11509,7 +11509,7 @@ web/css/reference/values/hypot,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Valu
 web/css/reference/values/ident,cad9096502d2a74b34a67377bbb0ac88fcfa58c2,CSS|Values
 web/css/reference/values/if,3143a6094e7b87cf1a96b61f9551fb4d95049777,CSS|Values
 web/css/reference/values/image,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/image/image,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/image/image,db443a6062d0e858a62af2f9a3a7558335ffd2dd,CSS|Values
 web/css/reference/values/image/image-set,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/image/paint,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/important,aaedffba9f47d6dce7967a4191963378026d9406,CSS|Values
@@ -11634,7 +11634,7 @@ web/html/reference/attributes/multiple,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,
 web/html/reference/attributes/pattern,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/placeholder,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/readonly,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
-web/html/reference/attributes/rel,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
+web/html/reference/attributes/rel,db443a6062d0e858a62af2f9a3a7558335ffd2dd,HTML|Attributes
 web/html/reference/attributes/rel/alternate_stylesheet,a516a9818e8cef06c626d436ee1d73fc6d87ec51,HTML|Attributes
 web/html/reference/attributes/rel/compression-dictionary,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Attributes
 web/html/reference/attributes/rel/dns-prefetch,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Attributes
