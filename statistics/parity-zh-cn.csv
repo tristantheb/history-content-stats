@@ -3142,8 +3142,8 @@ web/api/csskeyframesrule/deleterule,1
 web/api/csskeyframesrule/findrule,1
 web/api/csskeyframesrule/length,1
 web/api/csskeyframesrule/name,0
-web/api/csskeywordvalue,3
-web/api/csskeywordvalue/csskeywordvalue,2
+web/api/csskeywordvalue,4
+web/api/csskeywordvalue/csskeywordvalue,3
 web/api/csskeywordvalue/value,3
 web/api/csslayerblockrule,1
 web/api/csslayerblockrule/name,1
@@ -10749,7 +10749,7 @@ web/css/reference/properties/border-block-style,null
 web/css/reference/properties/border-block-width,null
 web/css/reference/properties/border-bottom,null
 web/css/reference/properties/border-bottom-color,null
-web/css/reference/properties/border-bottom-left-radius,4
+web/css/reference/properties/border-bottom-left-radius,5
 web/css/reference/properties/border-bottom-right-radius,null
 web/css/reference/properties/border-bottom-style,4
 web/css/reference/properties/border-bottom-width,null
@@ -11822,7 +11822,7 @@ web/html/reference/global_attributes/autofocus,5
 web/html/reference/global_attributes/class,null
 web/html/reference/global_attributes/contenteditable,null
 web/html/reference/global_attributes/data-_star_,13
-web/html/reference/global_attributes/dir,0
+web/html/reference/global_attributes/dir,1
 web/html/reference/global_attributes/draggable,null
 web/html/reference/global_attributes/enterkeyhint,5
 web/html/reference/global_attributes/exportparts,3

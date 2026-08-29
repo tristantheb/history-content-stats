@@ -13362,7 +13362,7 @@ web/javascript/reference/global_objects/typedarray/fill,null
 web/javascript/reference/global_objects/typedarray/filter,4
 web/javascript/reference/global_objects/typedarray/find,6
 web/javascript/reference/global_objects/typedarray/findindex,6
-web/javascript/reference/global_objects/typedarray/findlast,8
+web/javascript/reference/global_objects/typedarray/findlast,9
 web/javascript/reference/global_objects/typedarray/findlastindex,5
 web/javascript/reference/global_objects/typedarray/foreach,10
 web/javascript/reference/global_objects/typedarray/from,3

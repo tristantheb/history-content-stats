@@ -3495,7 +3495,7 @@ web/api/document/createrange,0
 web/api/document/createtextnode,0
 web/api/document/createtouch,0
 web/api/document/createtouchlist,0
-web/api/document/createtreewalker,0
+web/api/document/createtreewalker,1
 web/api/document/currentscript,0
 web/api/document/customelementregistry,0
 web/api/document/defaultview,0
@@ -10749,8 +10749,8 @@ web/css/reference/properties/border-block-style,0
 web/css/reference/properties/border-block-width,0
 web/css/reference/properties/border-bottom,1
 web/css/reference/properties/border-bottom-color,0
-web/css/reference/properties/border-bottom-left-radius,0
-web/css/reference/properties/border-bottom-right-radius,0
+web/css/reference/properties/border-bottom-left-radius,1
+web/css/reference/properties/border-bottom-right-radius,1
 web/css/reference/properties/border-bottom-style,0
 web/css/reference/properties/border-bottom-width,0
 web/css/reference/properties/border-collapse,0
@@ -10791,8 +10791,8 @@ web/css/reference/properties/border-start-start-radius,0
 web/css/reference/properties/border-style,1
 web/css/reference/properties/border-top,1
 web/css/reference/properties/border-top-color,0
-web/css/reference/properties/border-top-left-radius,0
-web/css/reference/properties/border-top-right-radius,0
+web/css/reference/properties/border-top-left-radius,1
+web/css/reference/properties/border-top-right-radius,1
 web/css/reference/properties/border-top-style,0
 web/css/reference/properties/border-top-width,0
 web/css/reference/properties/border-width,1
@@ -11661,7 +11661,7 @@ web/html/reference/elements/aside,0
 web/html/reference/elements/audio,0
 web/html/reference/elements/b,0
 web/html/reference/elements/base,0
-web/html/reference/elements/bdi,0
+web/html/reference/elements/bdi,1
 web/html/reference/elements/bdo,0
 web/html/reference/elements/big,0
 web/html/reference/elements/blockquote,0
@@ -11822,7 +11822,7 @@ web/html/reference/global_attributes/autofocus,0
 web/html/reference/global_attributes/class,0
 web/html/reference/global_attributes/contenteditable,0
 web/html/reference/global_attributes/data-_star_,1
-web/html/reference/global_attributes/dir,0
+web/html/reference/global_attributes/dir,1
 web/html/reference/global_attributes/draggable,0
 web/html/reference/global_attributes/enterkeyhint,0
 web/html/reference/global_attributes/exportparts,0

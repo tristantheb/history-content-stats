@@ -749,7 +749,7 @@ learn_web_development/core/scripting/conditionals,0
 learn_web_development/core/scripting/debugging_javascript,null
 learn_web_development/core/scripting/dom_scripting,null
 learn_web_development/core/scripting/event_bubbling,null
-learn_web_development/core/scripting/events,9
+learn_web_development/core/scripting/events,0
 learn_web_development/core/scripting/functions,null
 learn_web_development/core/scripting/house_data_ui,null
 learn_web_development/core/scripting/image_gallery,null
@@ -780,7 +780,7 @@ learn_web_development/core/structuring_content,null
 learn_web_development/core/structuring_content/advanced_text_features,null
 learn_web_development/core/structuring_content/basic_html_syntax,13
 learn_web_development/core/structuring_content/creating_links,null
-learn_web_development/core/structuring_content/debugging_html,null
+learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,null
 learn_web_development/core/structuring_content/forms_challenge,null
 learn_web_development/core/structuring_content/general_embedding_technologies,null
@@ -955,7 +955,7 @@ learn_web_development/extensions/server-side/express_nodejs/skeleton_website,nul
 learn_web_development/extensions/server-side/express_nodejs/tutorial_local_library_website,null
 learn_web_development/extensions/server-side/first_steps,null
 learn_web_development/extensions/server-side/first_steps/client-server_overview,null
-learn_web_development/extensions/server-side/first_steps/introduction,null
+learn_web_development/extensions/server-side/first_steps/introduction,0
 learn_web_development/extensions/server-side/first_steps/web_frameworks,null
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
@@ -1025,7 +1025,7 @@ learn_web_development/howto/web_mechanics/how_does_the_internet_work,0
 learn_web_development/howto/web_mechanics/what_are_hyperlinks,null
 learn_web_development/howto/web_mechanics/what_is_a_domain_name,0
 learn_web_development/howto/web_mechanics/what_is_a_url,null
-learn_web_development/howto/web_mechanics/what_is_a_web_server,null
+learn_web_development/howto/web_mechanics/what_is_a_web_server,0
 mdn,null
 mdn/community,null
 mdn/community/communication_channels,null
@@ -11707,9 +11707,9 @@ web/html/reference/elements/html,null
 web/html/reference/elements/i,null
 web/html/reference/elements/iframe,null
 web/html/reference/elements/img,null
-web/html/reference/elements/input,null
+web/html/reference/elements/input,0
 web/html/reference/elements/input/button,null
-web/html/reference/elements/input/checkbox,null
+web/html/reference/elements/input/checkbox,0
 web/html/reference/elements/input/color,null
 web/html/reference/elements/input/date,null
 web/html/reference/elements/input/datetime-local,0
