@@ -9671,7 +9671,7 @@ web/api/websocketstream/closed,null
 web/api/websocketstream/opened,null
 web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,null
-web/api/webtransport,4
+web/api/webtransport,5
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
@@ -10337,7 +10337,7 @@ web/api/xsltprocessor/reset,null
 web/api/xsltprocessor/setparameter,null
 web/api/xsltprocessor/transformtodocument,null
 web/api/xsltprocessor/transformtofragment,null
-web/api/xsltprocessor/xsltprocessor,1
+web/api/xsltprocessor/xsltprocessor,2
 web/css,null
 web/css/guides,8
 web/css/guides/anchor_positioning,null

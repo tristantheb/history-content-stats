@@ -10328,7 +10328,7 @@ web/api/xrwebglsubimage/colortextureheight,null
 web/api/xrwebglsubimage/colortexturewidth,null
 web/api/xrwebglsubimage/depthstenciltexture,null
 web/api/xrwebglsubimage/imageindex,null
-web/api/xsltprocessor,13
+web/api/xsltprocessor,14
 web/api/xsltprocessor/clearparameters,null
 web/api/xsltprocessor/getparameter,null
 web/api/xsltprocessor/importstylesheet,null
@@ -10922,7 +10922,7 @@ web/css/reference/properties/font-variant-numeric,0
 web/css/reference/properties/font-variant-position,0
 web/css/reference/properties/font-variation-settings,0
 web/css/reference/properties/font-weight,0
-web/css/reference/properties/font-width,0
+web/css/reference/properties/font-width,1
 web/css/reference/properties/forced-color-adjust,1
 web/css/reference/properties/frame-sizing,0
 web/css/reference/properties/gap,2
@@ -11797,7 +11797,7 @@ web/html/reference/elements/sup,0
 web/html/reference/elements/table,0
 web/html/reference/elements/tbody,1
 web/html/reference/elements/td,0
-web/html/reference/elements/template,1
+web/html/reference/elements/template,2
 web/html/reference/elements/textarea,0
 web/html/reference/elements/tfoot,0
 web/html/reference/elements/th,0
