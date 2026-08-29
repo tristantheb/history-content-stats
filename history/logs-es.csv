@@ -283,7 +283,7 @@ learn_web_development/core/scripting/a_first_splash,no_hash_commit
 learn_web_development/core/scripting/arrays,no_hash_commit
 learn_web_development/core/scripting/build_your_own_function,no_hash_commit
 learn_web_development/core/scripting/conditionals,9d3d642daf9df9ece138fa39972edc5f7d6dcd6b
-learn_web_development/core/scripting/events,ac5dfaa2f71a7381cd8fdd4cb554507f375ac19c
+learn_web_development/core/scripting/events,2b4a2ad5d9ba084a9eaa2f9204102655e7b575c4
 learn_web_development/core/scripting,no_hash_commit
 learn_web_development/core/scripting/json,no_hash_commit
 learn_web_development/core/scripting/loops,e3faa375b0179de77a5eff00074e3d168a0a904c
@@ -303,7 +303,7 @@ learn_web_development/core/scripting/what_went_wrong,no_hash_commit
 learn_web_development/core/structuring_content/advanced_text_features,no_hash_commit
 learn_web_development/core/structuring_content/basic_html_syntax,194ea6cb5ddaf20e4f551cc93574be50b8b4f339
 learn_web_development/core/structuring_content/creating_links,no_hash_commit
-learn_web_development/core/structuring_content/debugging_html,no_hash_commit
+learn_web_development/core/structuring_content/debugging_html,2066cc916dfdcbb782340bf0ce562b230e947cba
 learn_web_development/core/structuring_content/general_embedding_technologies,no_hash_commit
 learn_web_development/core/structuring_content/headings_and_paragraphs,no_hash_commit
 learn_web_development/core/structuring_content/html_forms,f9881dd30bec0793e97782578dbb8b8d859ce9f9
@@ -393,7 +393,7 @@ learn_web_development/extensions/server-side/express_nodejs/skeleton_website,no_
 learn_web_development/extensions/server-side/express_nodejs/tutorial_local_library_website,no_hash_commit
 learn_web_development/extensions/server-side/first_steps/client-server_overview,no_hash_commit
 learn_web_development/extensions/server-side/first_steps,no_hash_commit
-learn_web_development/extensions/server-side/first_steps/introduction,no_hash_commit
+learn_web_development/extensions/server-side/first_steps/introduction,710372d69095aaeadfba6c892f3e39ed63df4c54
 learn_web_development/extensions/server-side/first_steps/web_frameworks,no_hash_commit
 learn_web_development/extensions/server-side/first_steps/website_security,no_hash_commit
 learn_web_development/extensions/server-side,no_hash_commit
@@ -436,7 +436,7 @@ learn_web_development/howto/web_mechanics,479ea4c8bff4b900a7968413287c77dde2b0c2
 learn_web_development/howto/web_mechanics/what_are_hyperlinks,no_hash_commit
 learn_web_development/howto/web_mechanics/what_is_a_domain_name,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 learn_web_development/howto/web_mechanics/what_is_a_url,no_hash_commit
-learn_web_development/howto/web_mechanics/what_is_a_web_server,no_hash_commit
+learn_web_development/howto/web_mechanics/what_is_a_web_server,479ea4c8bff4b900a7968413287c77dde2b0c20f
 learn_web_development,f22e2f56c6cc82b43b6a14fa213755512e23cd8f
 mdn/community/getting_started,no_hash_commit
 mdn/community,no_hash_commit
@@ -1765,14 +1765,14 @@ web/html/reference/elements/iframe,no_hash_commit
 web/html/reference/elements/img,no_hash_commit
 web/html/reference/elements,no_hash_commit
 web/html/reference/elements/input/button,no_hash_commit
-web/html/reference/elements/input/checkbox,no_hash_commit
+web/html/reference/elements/input/checkbox,3944506d4afeeed774687cf3fd950878c6229bbc
 web/html/reference/elements/input/color,no_hash_commit
 web/html/reference/elements/input/date,no_hash_commit
 web/html/reference/elements/input/datetime-local,3944506d4afeeed774687cf3fd950878c6229bbc
 web/html/reference/elements/input/email,no_hash_commit
 web/html/reference/elements/input/file,f75b2c86ae4168e59416aed4c7121f222afc201d
 web/html/reference/elements/input/hidden,no_hash_commit
-web/html/reference/elements/input,no_hash_commit
+web/html/reference/elements/input,77ea71add6054857698eb7ac1bfec8c7afe9ad4f
 web/html/reference/elements/input/number,no_hash_commit
 web/html/reference/elements/input/password,no_hash_commit
 web/html/reference/elements/input/radio,no_hash_commit
