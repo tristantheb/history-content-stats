@@ -9629,9 +9629,9 @@ web/api/webrtc_api/build_a_phone_with_peerjs/build_the_server,2
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers,0
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/answer_a_call,2
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/create_a_peer_connection,0
-web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/creating_a_call,2
+web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/creating_a_call,3
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/end_a_call,2
-web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/get_microphone_permission,3
+web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/get_microphone_permission,4
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/show_hide_html,1
 web/api/webrtc_api/build_a_phone_with_peerjs/setup,1
 web/api/webrtc_api/connectivity,null
