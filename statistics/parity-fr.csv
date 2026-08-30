@@ -981,7 +981,7 @@ learn_web_development/getting_started/soft_skills/workflows_and_processes,0
 learn_web_development/getting_started/web_standards,0
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
 learn_web_development/getting_started/web_standards/how_the_web_works,0
-learn_web_development/getting_started/web_standards/the_web_standards_model,0
+learn_web_development/getting_started/web_standards/the_web_standards_model,1
 learn_web_development/getting_started/your_first_website,0
 learn_web_development/getting_started/your_first_website/adding_interactivity,0
 learn_web_development/getting_started/your_first_website/creating_the_content,0
@@ -3952,10 +3952,10 @@ web/api/element/pointercancel_event,0
 web/api/element/pointerdown_event,0
 web/api/element/pointerenter_event,0
 web/api/element/pointerleave_event,0
-web/api/element/pointermove_event,0
+web/api/element/pointermove_event,1
 web/api/element/pointerout_event,0
 web/api/element/pointerover_event,0
-web/api/element/pointerrawupdate_event,0
+web/api/element/pointerrawupdate_event,1
 web/api/element/pointerup_event,0
 web/api/element/prefix,0
 web/api/element/prepend,0
@@ -5417,7 +5417,7 @@ web/api/htmltablesectionelement/deleterow,1
 web/api/htmltablesectionelement/insertrow,1
 web/api/htmltablesectionelement/rows,0
 web/api/htmltablesectionelement/valign,0
-web/api/htmltemplateelement,4
+web/api/htmltemplateelement,5
 web/api/htmltemplateelement/content,0
 web/api/htmltemplateelement/htmlfor,null
 web/api/htmltemplateelement/shadowrootclonable,0
@@ -10889,7 +10889,7 @@ web/css/reference/properties/flex-direction,0
 web/css/reference/properties/flex-flow,3
 web/css/reference/properties/flex-grow,1
 web/css/reference/properties/flex-line-count,null
-web/css/reference/properties/flex-shrink,1
+web/css/reference/properties/flex-shrink,2
 web/css/reference/properties/flex-wrap,1
 web/css/reference/properties/float,0
 web/css/reference/properties/flood-color,0
@@ -11797,7 +11797,7 @@ web/html/reference/elements/sup,0
 web/html/reference/elements/table,0
 web/html/reference/elements/tbody,1
 web/html/reference/elements/td,0
-web/html/reference/elements/template,2
+web/html/reference/elements/template,3
 web/html/reference/elements/textarea,0
 web/html/reference/elements/tfoot,0
 web/html/reference/elements/th,0
@@ -14101,7 +14101,7 @@ web/uri/reference/path,1
 web/uri/reference/query,1
 web/uri/reference/schemes,1
 web/uri/reference/schemes/blob,0
-web/uri/reference/schemes/data,0
+web/uri/reference/schemes/data,1
 web/uri/reference/schemes/javascript,0
 web/uri/reference/schemes/resource,0
 web/uri/reference/schemes/urn,0

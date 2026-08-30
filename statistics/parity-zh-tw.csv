@@ -14101,7 +14101,7 @@ web/uri/reference/path,null
 web/uri/reference/query,null
 web/uri/reference/schemes,null
 web/uri/reference/schemes/blob,null
-web/uri/reference/schemes/data,1
+web/uri/reference/schemes/data,2
 web/uri/reference/schemes/javascript,null
 web/uri/reference/schemes/resource,null
 web/uri/reference/schemes/urn,null
