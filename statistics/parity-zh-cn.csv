@@ -342,7 +342,7 @@ glossary/indexeddb,1
 glossary/information_architecture,1
 glossary/inheritance,2
 glossary/ink_overflow,3
-glossary/inline-level_content,4
+glossary/inline-level_content,5
 glossary/input_method_editor,2
 glossary/inset_properties,3
 glossary/instance,1
@@ -7637,8 +7637,8 @@ web/api/rtctrackevent/transceiver,null
 web/api/rtctransformevent,null
 web/api/rtctransformevent/transformer,0
 web/api/rtctransportstats,null
-web/api/rtctransportstats/bytesreceived,0
-web/api/rtctransportstats/bytessent,0
+web/api/rtctransportstats/bytesreceived,1
+web/api/rtctransportstats/bytessent,1
 web/api/rtctransportstats/dtlscipher,0
 web/api/rtctransportstats/dtlsrole,null
 web/api/rtctransportstats/dtlsstate,0
@@ -7647,10 +7647,10 @@ web/api/rtctransportstats/icerole,1
 web/api/rtctransportstats/icestate,1
 web/api/rtctransportstats/id,0
 web/api/rtctransportstats/localcertificateid,0
-web/api/rtctransportstats/packetsreceived,1
-web/api/rtctransportstats/packetssent,1
+web/api/rtctransportstats/packetsreceived,2
+web/api/rtctransportstats/packetssent,2
 web/api/rtctransportstats/remotecertificateid,0
-web/api/rtctransportstats/selectedcandidatepairchanges,0
+web/api/rtctransportstats/selectedcandidatepairchanges,1
 web/api/rtctransportstats/selectedcandidatepairid,0
 web/api/rtctransportstats/srtpcipher,null
 web/api/rtctransportstats/timestamp,0

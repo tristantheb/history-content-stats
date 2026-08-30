@@ -342,7 +342,7 @@ glossary/indexeddb,0
 glossary/information_architecture,0
 glossary/inheritance,0
 glossary/ink_overflow,0
-glossary/inline-level_content,0
+glossary/inline-level_content,1
 glossary/input_method_editor,0
 glossary/inset_properties,0
 glossary/instance,0
@@ -7637,8 +7637,8 @@ web/api/rtctrackevent/transceiver,0
 web/api/rtctransformevent,0
 web/api/rtctransformevent/transformer,0
 web/api/rtctransportstats,0
-web/api/rtctransportstats/bytesreceived,0
-web/api/rtctransportstats/bytessent,0
+web/api/rtctransportstats/bytesreceived,1
+web/api/rtctransportstats/bytessent,1
 web/api/rtctransportstats/dtlscipher,0
 web/api/rtctransportstats/dtlsrole,0
 web/api/rtctransportstats/dtlsstate,0
@@ -7647,10 +7647,10 @@ web/api/rtctransportstats/icerole,0
 web/api/rtctransportstats/icestate,0
 web/api/rtctransportstats/id,0
 web/api/rtctransportstats/localcertificateid,0
-web/api/rtctransportstats/packetsreceived,0
-web/api/rtctransportstats/packetssent,0
+web/api/rtctransportstats/packetsreceived,1
+web/api/rtctransportstats/packetssent,1
 web/api/rtctransportstats/remotecertificateid,0
-web/api/rtctransportstats/selectedcandidatepairchanges,0
+web/api/rtctransportstats/selectedcandidatepairchanges,1
 web/api/rtctransportstats/selectedcandidatepairid,0
 web/api/rtctransportstats/srtpcipher,0
 web/api/rtctransportstats/timestamp,0
@@ -9629,9 +9629,9 @@ web/api/webrtc_api/build_a_phone_with_peerjs/build_the_server,0
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers,0
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/answer_a_call,0
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/create_a_peer_connection,0
-web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/creating_a_call,1
+web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/creating_a_call,0
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/end_a_call,0
-web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/get_microphone_permission,1
+web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/get_microphone_permission,0
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/show_hide_html,0
 web/api/webrtc_api/build_a_phone_with_peerjs/setup,0
 web/api/webrtc_api/connectivity,0
