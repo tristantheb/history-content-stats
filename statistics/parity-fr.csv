@@ -8749,7 +8749,7 @@ web/api/tasksignal,null
 web/api/tasksignal/any_static,null
 web/api/tasksignal/priority,null
 web/api/tasksignal/prioritychange_event,null
-web/api/text,0
+web/api/text,1
 web/api/text/assignedslot,0
 web/api/text/splittext,0
 web/api/text/text,0
