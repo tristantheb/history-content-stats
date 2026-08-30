@@ -8749,7 +8749,7 @@ web/api/tasksignal,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/tasksignal/any_static,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/tasksignal/priority,33313b7c9e37253c0141e22558e298d08c060be5,Web APIs
 web/api/tasksignal/prioritychange_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
-web/api/text,d414c502f3cc1c08d2fb043e98cda4a65621ff08,Web APIs
+web/api/text,c51bc7f1c28be80290cc7fdebff82bce42001cf5,Web APIs
 web/api/text/assignedslot,0c8a320b035cf625c1df67713a94ead2e7f3aec6,Web APIs
 web/api/text/splittext,d0e6d8d712a33b9d3c7a9fb9a8ba85d4dd1b7002,Web APIs
 web/api/text/text,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
@@ -13666,7 +13666,7 @@ web/privacy,dd868507df863ab4f37d53c960c76e20e9ee365f,Privacy
 web/privacy/guides,775df1c62a1cbe555c4374ff9122d4ef15bd6f60,Privacy|Guides
 web/privacy/guides/bounce_tracking_mitigations,d7a0ef33dfce20818a160557b5a72d6565cec254,Privacy|Guides
 web/privacy/guides/firefox_tracking_protection,0e638cb6498f7ae7dc1cb5c39fea99b00084c1e7,Privacy|Guides
-web/privacy/guides/privacy_sandbox,0c906f7f464d8ff632baf8d25fa63eed3f03b632,Privacy|Guides
+web/privacy/guides/privacy_sandbox,744c45b373cc38e639945bcc74b281a65f5d97c1,Privacy|Guides
 web/privacy/guides/redirect_tracking_protection,d7a0ef33dfce20818a160557b5a72d6565cec254,Privacy|Guides
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,bb435e7556282e5dbe5ae9476b0a185c3d3ede32,Privacy|Guides
 web/privacy/guides/state_partitioning,fc801f51100908ad3f4471918cc634d767898874,Privacy|Guides

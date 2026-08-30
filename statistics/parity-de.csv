@@ -8749,7 +8749,7 @@ web/api/tasksignal,0
 web/api/tasksignal/any_static,0
 web/api/tasksignal/priority,0
 web/api/tasksignal/prioritychange_event,0
-web/api/text,0
+web/api/text,1
 web/api/text/assignedslot,0
 web/api/text/splittext,0
 web/api/text/text,0
@@ -13666,7 +13666,7 @@ web/privacy,0
 web/privacy/guides,0
 web/privacy/guides/bounce_tracking_mitigations,0
 web/privacy/guides/firefox_tracking_protection,0
-web/privacy/guides/privacy_sandbox,0
+web/privacy/guides/privacy_sandbox,1
 web/privacy/guides/redirect_tracking_protection,0
 web/privacy/guides/referer_header_colon__privacy_and_security_concerns,0
 web/privacy/guides/state_partitioning,0
