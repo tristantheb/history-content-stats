@@ -1949,7 +1949,7 @@ mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,3
 mozilla/firefox/releases/154,1
-mozilla/firefox/releases/155,null
+mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
 mozilla/firefox/releases/16,0
@@ -12920,11 +12920,11 @@ web/javascript/reference/global_objects/object/values,0
 web/javascript/reference/global_objects/parsefloat,0
 web/javascript/reference/global_objects/parseint,0
 web/javascript/reference/global_objects/promise,0
-web/javascript/reference/global_objects/promise/all,null
-web/javascript/reference/global_objects/promise/allkeyed,null
-web/javascript/reference/global_objects/promise/allsettled,null
-web/javascript/reference/global_objects/promise/allsettledkeyed,null
-web/javascript/reference/global_objects/promise/any,null
+web/javascript/reference/global_objects/promise/all,0
+web/javascript/reference/global_objects/promise/allkeyed,0
+web/javascript/reference/global_objects/promise/allsettled,0
+web/javascript/reference/global_objects/promise/allsettledkeyed,0
+web/javascript/reference/global_objects/promise/any,0
 web/javascript/reference/global_objects/promise/catch,null
 web/javascript/reference/global_objects/promise/finally,null
 web/javascript/reference/global_objects/promise/promise,null
