@@ -6649,14 +6649,14 @@ web/javascript/reference/global_objects/object/tolocalestring,cd22b9f18cf2450c0c
 web/javascript/reference/global_objects/object/tostring,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/object/valueof,79fdc26fea835d65c9361541bb8ab1896f307475
 web/javascript/reference/global_objects/object/values,cd22b9f18cf2450c0cc488379b8b780f0f343397
-web/javascript/reference/global_objects/parsefloat,no_hash_commit
-web/javascript/reference/global_objects/parseint,no_hash_commit
+web/javascript/reference/global_objects/parsefloat,fad67be4431d8e6c2a89ac880735233aa76c41d4
+web/javascript/reference/global_objects/parseint,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/global_objects/promise/all,no_hash_commit
 web/javascript/reference/global_objects/promise/allsettled,no_hash_commit
 web/javascript/reference/global_objects/promise/any,no_hash_commit
 web/javascript/reference/global_objects/promise/catch,no_hash_commit
 web/javascript/reference/global_objects/promise/finally,no_hash_commit
-web/javascript/reference/global_objects/promise,no_hash_commit
+web/javascript/reference/global_objects/promise,f8759faac983abbcd8276fd45ae881bb39efdf7a
 web/javascript/reference/global_objects/promise/promise,no_hash_commit
 web/javascript/reference/global_objects/promise/race,no_hash_commit
 web/javascript/reference/global_objects/promise/reject,no_hash_commit
