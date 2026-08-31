@@ -585,7 +585,7 @@ glossary/specification,0
 glossary/speculative_parsing,0
 glossary/speed_index,0
 glossary/sql,0
-glossary/sql_injection,0
+glossary/sql_injection,1
 glossary/sri,0
 glossary/ssg,0
 glossary/ssl,0
@@ -1033,7 +1033,7 @@ mdn/community/community_participation_guidelines,0
 mdn/community/discussions,0
 mdn/community/discussions/managing_and_resolving_discussions,0
 mdn/community/getting_started,0
-mdn/community/issues,0
+mdn/community/issues,1
 mdn/community/issues/content_suggestions_feature_proposals,0
 mdn/community/learn_forum,0
 mdn/community/open_source_etiquette,0
@@ -2154,7 +2154,7 @@ web/accessibility/aria/reference/roles/banner_role,0
 web/accessibility/aria/reference/roles/button_role,0
 web/accessibility/aria/reference/roles/cell_role,0
 web/accessibility/aria/reference/roles/checkbox_role,0
-web/accessibility/aria/reference/roles/columnheader_role,0
+web/accessibility/aria/reference/roles/columnheader_role,1
 web/accessibility/aria/reference/roles/combobox_role,0
 web/accessibility/aria/reference/roles/command_role,0
 web/accessibility/aria/reference/roles/comment_role,0
@@ -4136,7 +4136,7 @@ web/api/eventsource/readystate,null
 web/api/eventsource/url,null
 web/api/eventsource/withcredentials,null
 web/api/eventtarget,0
-web/api/eventtarget/addeventlistener,0
+web/api/eventtarget/addeventlistener,1
 web/api/eventtarget/dispatchevent,0
 web/api/eventtarget/eventtarget,0
 web/api/eventtarget/removeeventlistener,0
@@ -4800,7 +4800,7 @@ web/api/htmlbodyelement,0
 web/api/htmlbrelement,0
 web/api/htmlbuttonelement,0
 web/api/htmlbuttonelement/checkvalidity,0
-web/api/htmlbuttonelement/command,0
+web/api/htmlbuttonelement/command,1
 web/api/htmlbuttonelement/commandforelement,0
 web/api/htmlbuttonelement/disabled,0
 web/api/htmlbuttonelement/form,0
@@ -5349,7 +5349,7 @@ web/api/htmlsourceelement/width,0
 web/api/htmlspanelement,0
 web/api/htmlstyleelement,1
 web/api/htmlstyleelement/blocking,0
-web/api/htmlstyleelement/disabled,0
+web/api/htmlstyleelement/disabled,1
 web/api/htmlstyleelement/media,0
 web/api/htmlstyleelement/sheet,0
 web/api/htmlstyleelement/type,0
@@ -10355,7 +10355,7 @@ web/css/guides/backgrounds_and_borders/resizing_background_images,0
 web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,0
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,0
 web/css/guides/basic_user_interface,0
-web/css/guides/borders_and_box_decorations,0
+web/css/guides/borders_and_box_decorations,1
 web/css/guides/borders_and_box_decorations/border_shape_nav_menu,null
 web/css/guides/box_alignment,0
 web/css/guides/box_alignment/in_block_abspos_tables,0
@@ -11006,7 +11006,7 @@ web/css/reference/properties/mask-border-width,0
 web/css/reference/properties/mask-clip,0
 web/css/reference/properties/mask-composite,0
 web/css/reference/properties/mask-image,0
-web/css/reference/properties/mask-mode,0
+web/css/reference/properties/mask-mode,1
 web/css/reference/properties/mask-origin,2
 web/css/reference/properties/mask-position,0
 web/css/reference/properties/mask-repeat,0
@@ -11182,7 +11182,7 @@ web/css/reference/properties/text-decoration-style,0
 web/css/reference/properties/text-decoration-thickness,0
 web/css/reference/properties/text-emphasis,2
 web/css/reference/properties/text-emphasis-color,0
-web/css/reference/properties/text-emphasis-position,0
+web/css/reference/properties/text-emphasis-position,1
 web/css/reference/properties/text-emphasis-style,1
 web/css/reference/properties/text-indent,0
 web/css/reference/properties/text-justify,0
@@ -11305,7 +11305,7 @@ web/css/reference/selectors/_colon_nth-last-of-type,0
 web/css/reference/selectors/_colon_nth-of-type,0
 web/css/reference/selectors/_colon_only-child,0
 web/css/reference/selectors/_colon_only-of-type,0
-web/css/reference/selectors/_colon_open,0
+web/css/reference/selectors/_colon_open,1
 web/css/reference/selectors/_colon_optional,0
 web/css/reference/selectors/_colon_out-of-range,0
 web/css/reference/selectors/_colon_past,0
@@ -11707,7 +11707,7 @@ web/html/reference/elements/html,0
 web/html/reference/elements/i,0
 web/html/reference/elements/iframe,0
 web/html/reference/elements/img,0
-web/html/reference/elements/input,1
+web/html/reference/elements/input,2
 web/html/reference/elements/input/button,0
 web/html/reference/elements/input/checkbox,0
 web/html/reference/elements/input/color,0
@@ -11782,7 +11782,7 @@ web/html/reference/elements/script/type/importmap,0
 web/html/reference/elements/script/type/speculationrules,0
 web/html/reference/elements/search,0
 web/html/reference/elements/section,0
-web/html/reference/elements/select,0
+web/html/reference/elements/select,1
 web/html/reference/elements/selectedcontent,0
 web/html/reference/elements/slot,0
 web/html/reference/elements/small,1
@@ -12509,7 +12509,7 @@ web/javascript/reference/global_objects/atomics/or,0
 web/javascript/reference/global_objects/atomics/pause,0
 web/javascript/reference/global_objects/atomics/store,0
 web/javascript/reference/global_objects/atomics/sub,0
-web/javascript/reference/global_objects/atomics/wait,0
+web/javascript/reference/global_objects/atomics/wait,1
 web/javascript/reference/global_objects/atomics/waitasync,0
 web/javascript/reference/global_objects/atomics/xor,0
 web/javascript/reference/global_objects/bigint,0
@@ -13730,7 +13730,7 @@ web/progressive_web_apps/manifest/reference/shortcuts,null
 web/progressive_web_apps/manifest/reference/start_url,null
 web/progressive_web_apps/manifest/reference/theme_color,null
 web/progressive_web_apps/reference,null
-web/progressive_web_apps/tutorials,3
+web/progressive_web_apps/tutorials,4
 web/progressive_web_apps/tutorials/cycletracker,9
 web/progressive_web_apps/tutorials/cycletracker/html_and_css,1
 web/progressive_web_apps/tutorials/cycletracker/javascript_functionality,13
