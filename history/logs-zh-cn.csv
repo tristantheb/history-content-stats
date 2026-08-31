@@ -2608,6 +2608,7 @@ web/api/element/getclientrects,no_hash_commit
 web/api/element/getelementsbyclassname,no_hash_commit
 web/api/element/getelementsbytagname,no_hash_commit
 web/api/element/getelementsbytagnamens,no_hash_commit
+web/api/element/gethtml,5d6f5187d1c657edec7e735d3cc5ad36907e2030
 web/api/element/gotpointercapture_event,no_hash_commit
 web/api/element/hasattribute,990ab6637bb4d44f059597262cbf3c51abae79eb
 web/api/element/hasattributens,990ab6637bb4d44f059597262cbf3c51abae79eb
@@ -6003,7 +6004,7 @@ web/html/reference/elements/q,b0a05c1384211e0eff34e9917c84086eedf9e909
 web/html/reference/elements/rb,no_hash_commit
 web/html/reference/elements/rp,no_hash_commit
 web/html/reference/elements/rt,no_hash_commit
-web/html/reference/elements/rtc,no_hash_commit
+web/html/reference/elements/rtc,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/ruby,no_hash_commit
 web/html/reference/elements/s,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/reference/elements/samp,no_hash_commit
@@ -6628,7 +6629,7 @@ web/javascript/reference/global_objects/error/columnnumber,5c3c25fd4f2fbd7a5f017
 web/javascript/reference/global_objects/error/error,no_hash_commit
 web/javascript/reference/global_objects/error/filename,no_hash_commit
 web/javascript/reference/global_objects/error,no_hash_commit
-web/javascript/reference/global_objects/error/linenumber,no_hash_commit
+web/javascript/reference/global_objects/error/linenumber,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/error/message,fb85334ffa4a2c88d209b1074909bee0e0abd57a
 web/javascript/reference/global_objects/error/name,6b728699f5f38f1070a94673b5e7afdb1102a941
 web/javascript/reference/global_objects/error/stack,no_hash_commit

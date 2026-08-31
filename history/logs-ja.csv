@@ -1144,7 +1144,7 @@ mozilla/add-ons/webextensions/api/theme,no_hash_commit
 mozilla/add-ons/webextensions/api/topsites,no_hash_commit
 mozilla/add-ons/webextensions/api/types,no_hash_commit
 mozilla/add-ons/webextensions/api/webnavigation,no_hash_commit
-mozilla/add-ons/webextensions/api/webrequest,no_hash_commit
+mozilla/add-ons/webextensions/api/webrequest,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/windows,no_hash_commit
 mozilla/add-ons/webextensions/api/windows/windowstate,4b10cb28d5eee0e952b2d84bd1b23cc53daa93b7
 mozilla/add-ons/webextensions/api/windows/windowtype,no_hash_commit
@@ -1153,7 +1153,7 @@ mozilla/add-ons/webextensions/chrome_incompatibilities,no_hash_commit
 mozilla/add-ons/webextensions/content_scripts,f7b2fd667af5f310356b46ed4920acac1da82dbe
 mozilla/add-ons/webextensions/content_security_policy,no_hash_commit
 mozilla/add-ons/webextensions/developing_webextensions_for_thunderbird,no_hash_commit
-mozilla/add-ons/webextensions/examples,no_hash_commit
+mozilla/add-ons/webextensions/examples,ee33efab7300d7bf7319921a22f2eb2b60df91da
 mozilla/add-ons/webextensions/extending_the_developer_tools,no_hash_commit
 mozilla/add-ons/webextensions/implement_a_settings_page,no_hash_commit
 mozilla/add-ons/webextensions,09109b6f9444d22215ba330ec1e64e73980b2a6c
@@ -9754,6 +9754,7 @@ web/security/authentication/passwords,545c1267ae9642d850ef539956442c2bb4de280a
 web/security/authentication/session_management,7e1cf6ab1fbd41b0430021a2044d658de5d857a3
 web/security/defenses/certificate_transparency,4e989d1d75c8fd0abc43c420002618dbdda8bfbe
 web/security/defenses,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
+web/security/defenses/local_network_access,afcdfa050626bb7eb05ee693df8997020db9ff2e
 web/security/defenses/mixed_content,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 web/security/defenses/same-origin_policy,39070892d5d1a5cc55312a0ac10c97f4c339384f
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
