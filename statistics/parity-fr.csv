@@ -5030,7 +5030,7 @@ web/api/htmlimageelement/naturalheight,0
 web/api/htmlimageelement/naturalwidth,0
 web/api/htmlimageelement/referrerpolicy,0
 web/api/htmlimageelement/sizes,1
-web/api/htmlimageelement/src,0
+web/api/htmlimageelement/src,1
 web/api/htmlimageelement/srcset,0
 web/api/htmlimageelement/usemap,0
 web/api/htmlimageelement/vspace,0
@@ -11852,7 +11852,7 @@ web/html/reference/global_attributes/virtualkeyboardpolicy,0
 web/html/reference/global_attributes/writingsuggestions,1
 web/http,1
 web/http/guides,0
-web/http/guides/authentication,1
+web/http/guides/authentication,2
 web/http/guides/browser_detection_using_the_user_agent,0
 web/http/guides/caching,3
 web/http/guides/client_hints,0
@@ -12761,7 +12761,7 @@ web/javascript/reference/global_objects/intl/segmenter/segmenter,0
 web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,0
 web/javascript/reference/global_objects/isfinite,0
-web/javascript/reference/global_objects/isnan,0
+web/javascript/reference/global_objects/isnan,1
 web/javascript/reference/global_objects/iterator,1
 web/javascript/reference/global_objects/iterator/chunks,1
 web/javascript/reference/global_objects/iterator/concat,0

@@ -6865,7 +6865,7 @@ web/api/periodicwave/periodicwave,null
 web/api/permissions,null
 web/api/permissions/query,null
 web/api/permissions/revoke,null
-web/api/permissions_api,18
+web/api/permissions_api,19
 web/api/permissions_api/using_the_permissions_api,null
 web/api/permissionspolicyviolationreport,null
 web/api/permissionstatus,null
@@ -11852,7 +11852,7 @@ web/html/reference/global_attributes/virtualkeyboardpolicy,null
 web/html/reference/global_attributes/writingsuggestions,null
 web/http,14
 web/http/guides,0
-web/http/guides/authentication,5
+web/http/guides/authentication,6
 web/http/guides/browser_detection_using_the_user_agent,11
 web/http/guides/caching,null
 web/http/guides/client_hints,null
