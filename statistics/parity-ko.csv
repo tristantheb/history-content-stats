@@ -585,7 +585,7 @@ glossary/specification,1
 glossary/speculative_parsing,1
 glossary/speed_index,3
 glossary/sql,2
-glossary/sql_injection,4
+glossary/sql_injection,5
 glossary/sri,2
 glossary/ssg,0
 glossary/ssl,3
@@ -12509,7 +12509,7 @@ web/javascript/reference/global_objects/atomics/or,6
 web/javascript/reference/global_objects/atomics/pause,null
 web/javascript/reference/global_objects/atomics/store,6
 web/javascript/reference/global_objects/atomics/sub,5
-web/javascript/reference/global_objects/atomics/wait,9
+web/javascript/reference/global_objects/atomics/wait,10
 web/javascript/reference/global_objects/atomics/waitasync,9
 web/javascript/reference/global_objects/atomics/xor,6
 web/javascript/reference/global_objects/bigint,null

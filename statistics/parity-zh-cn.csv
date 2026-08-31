@@ -585,7 +585,7 @@ glossary/specification,1
 glossary/speculative_parsing,1
 glossary/speed_index,3
 glossary/sql,2
-glossary/sql_injection,3
+glossary/sql_injection,4
 glossary/sri,2
 glossary/ssg,2
 glossary/ssl,null
@@ -873,7 +873,7 @@ learn_web_development/extensions/client-side_tools/introducing_complete_toolchai
 learn_web_development/extensions/client-side_tools/overview,null
 learn_web_development/extensions/client-side_tools/package_management,null
 learn_web_development/extensions/forms,8
-learn_web_development/extensions/forms/advanced_form_styling,14
+learn_web_development/extensions/forms/advanced_form_styling,15
 learn_web_development/extensions/forms/basic_native_form_controls,null
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
@@ -960,7 +960,7 @@ learn_web_development/extensions/server-side/first_steps/web_frameworks,null
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
 learn_web_development/extensions/testing,4
-learn_web_development/extensions/testing/automated_testing,12
+learn_web_development/extensions/testing/automated_testing,13
 learn_web_development/extensions/testing/feature_detection,13
 learn_web_development/extensions/testing/html_and_css,19
 learn_web_development/extensions/testing/introduction,9
@@ -1231,7 +1231,7 @@ mozilla/add-ons/webextensions/api/commands,5
 mozilla/add-ons/webextensions/api/commands/command,6
 mozilla/add-ons/webextensions/api/commands/getall,6
 mozilla/add-ons/webextensions/api/commands/onchanged,3
-mozilla/add-ons/webextensions/api/commands/oncommand,4
+mozilla/add-ons/webextensions/api/commands/oncommand,5
 mozilla/add-ons/webextensions/api/commands/openshortcutsettings,0
 mozilla/add-ons/webextensions/api/commands/reset,3
 mozilla/add-ons/webextensions/api/commands/update,5
@@ -3914,7 +3914,7 @@ web/api/element/getclientrects,null
 web/api/element/getelementsbyclassname,null
 web/api/element/getelementsbytagname,null
 web/api/element/getelementsbytagnamens,null
-web/api/element/gethtml,null
+web/api/element/gethtml,0
 web/api/element/gotpointercapture_event,null
 web/api/element/hasattribute,0
 web/api/element/hasattributens,1
@@ -11182,7 +11182,7 @@ web/css/reference/properties/text-decoration-style,null
 web/css/reference/properties/text-decoration-thickness,2
 web/css/reference/properties/text-emphasis,8
 web/css/reference/properties/text-emphasis-color,3
-web/css/reference/properties/text-emphasis-position,2
+web/css/reference/properties/text-emphasis-position,3
 web/css/reference/properties/text-emphasis-style,3
 web/css/reference/properties/text-indent,9
 web/css/reference/properties/text-justify,null
@@ -11707,7 +11707,7 @@ web/html/reference/elements/html,5
 web/html/reference/elements/i,1
 web/html/reference/elements/iframe,20
 web/html/reference/elements/img,15
-web/html/reference/elements/input,5
+web/html/reference/elements/input,6
 web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,null
 web/html/reference/elements/input/color,null
@@ -11772,7 +11772,7 @@ web/html/reference/elements/q,0
 web/html/reference/elements/rb,null
 web/html/reference/elements/rp,null
 web/html/reference/elements/rt,null
-web/html/reference/elements/rtc,null
+web/html/reference/elements/rtc,1
 web/html/reference/elements/ruby,null
 web/html/reference/elements/s,3
 web/html/reference/elements/samp,null
@@ -12509,7 +12509,7 @@ web/javascript/reference/global_objects/atomics/or,4
 web/javascript/reference/global_objects/atomics/pause,null
 web/javascript/reference/global_objects/atomics/store,4
 web/javascript/reference/global_objects/atomics/sub,4
-web/javascript/reference/global_objects/atomics/wait,6
+web/javascript/reference/global_objects/atomics/wait,7
 web/javascript/reference/global_objects/atomics/waitasync,6
 web/javascript/reference/global_objects/atomics/xor,4
 web/javascript/reference/global_objects/bigint,null
@@ -12626,7 +12626,7 @@ web/javascript/reference/global_objects/error/columnnumber,2
 web/javascript/reference/global_objects/error/error,null
 web/javascript/reference/global_objects/error/filename,null
 web/javascript/reference/global_objects/error/iserror,null
-web/javascript/reference/global_objects/error/linenumber,null
+web/javascript/reference/global_objects/error/linenumber,0
 web/javascript/reference/global_objects/error/message,2
 web/javascript/reference/global_objects/error/name,2
 web/javascript/reference/global_objects/error/stack,null

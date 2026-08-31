@@ -585,7 +585,7 @@ glossary/specification,null
 glossary/speculative_parsing,null
 glossary/speed_index,11
 glossary/sql,0
-glossary/sql_injection,4
+glossary/sql_injection,5
 glossary/sri,null
 glossary/ssg,1
 glossary/ssl,0
@@ -873,7 +873,7 @@ learn_web_development/extensions/client-side_tools/introducing_complete_toolchai
 learn_web_development/extensions/client-side_tools/overview,3
 learn_web_development/extensions/client-side_tools/package_management,5
 learn_web_development/extensions/forms,0
-learn_web_development/extensions/forms/advanced_form_styling,1
+learn_web_development/extensions/forms/advanced_form_styling,2
 learn_web_development/extensions/forms/basic_native_form_controls,4
 learn_web_development/extensions/forms/customizable_select,2
 learn_web_development/extensions/forms/customizable_select_listboxes,0
@@ -960,7 +960,7 @@ learn_web_development/extensions/server-side/first_steps/web_frameworks,2
 learn_web_development/extensions/server-side/first_steps/website_security,4
 learn_web_development/extensions/server-side/node_server_without_framework,0
 learn_web_development/extensions/testing,3
-learn_web_development/extensions/testing/automated_testing,11
+learn_web_development/extensions/testing/automated_testing,12
 learn_web_development/extensions/testing/feature_detection,12
 learn_web_development/extensions/testing/html_and_css,1
 learn_web_development/extensions/testing/introduction,8
@@ -1033,7 +1033,7 @@ mdn/community/community_participation_guidelines,3
 mdn/community/discussions,1
 mdn/community/discussions/managing_and_resolving_discussions,1
 mdn/community/getting_started,6
-mdn/community/issues,11
+mdn/community/issues,12
 mdn/community/issues/content_suggestions_feature_proposals,0
 mdn/community/learn_forum,0
 mdn/community/open_source_etiquette,0
@@ -1738,7 +1738,7 @@ mozilla/add-ons/webextensions/api/webnavigation/onreferencefragmentupdated,null
 mozilla/add-ons/webextensions/api/webnavigation/ontabreplaced,null
 mozilla/add-ons/webextensions/api/webnavigation/transitionqualifier,null
 mozilla/add-ons/webextensions/api/webnavigation/transitiontype,null
-mozilla/add-ons/webextensions/api/webrequest,null
+mozilla/add-ons/webextensions/api/webrequest,0
 mozilla/add-ons/webextensions/api/webrequest/blockingresponse,null
 mozilla/add-ons/webextensions/api/webrequest/certificateinfo,null
 mozilla/add-ons/webextensions/api/webrequest/filterresponsedata,null
@@ -1799,7 +1799,7 @@ mozilla/add-ons/webextensions/content_scripts/exportfunction,null
 mozilla/add-ons/webextensions/content_security_policy,null
 mozilla/add-ons/webextensions/developing_webextensions_for_thunderbird,null
 mozilla/add-ons/webextensions/differences_between_api_implementations,null
-mozilla/add-ons/webextensions/examples,null
+mozilla/add-ons/webextensions/examples,0
 mozilla/add-ons/webextensions/extending_the_developer_tools,null
 mozilla/add-ons/webextensions/implement_a_settings_page,null
 mozilla/add-ons/webextensions/interact_with_the_clipboard,0
@@ -2154,7 +2154,7 @@ web/accessibility/aria/reference/roles/banner_role,0
 web/accessibility/aria/reference/roles/button_role,11
 web/accessibility/aria/reference/roles/cell_role,5
 web/accessibility/aria/reference/roles/checkbox_role,null
-web/accessibility/aria/reference/roles/columnheader_role,0
+web/accessibility/aria/reference/roles/columnheader_role,1
 web/accessibility/aria/reference/roles/combobox_role,0
 web/accessibility/aria/reference/roles/command_role,0
 web/accessibility/aria/reference/roles/comment_role,0
@@ -4136,7 +4136,7 @@ web/api/eventsource/readystate,0
 web/api/eventsource/url,0
 web/api/eventsource/withcredentials,0
 web/api/eventtarget,0
-web/api/eventtarget/addeventlistener,0
+web/api/eventtarget/addeventlistener,1
 web/api/eventtarget/dispatchevent,0
 web/api/eventtarget/eventtarget,0
 web/api/eventtarget/removeeventlistener,0
@@ -4800,7 +4800,7 @@ web/api/htmlbodyelement,3
 web/api/htmlbrelement,0
 web/api/htmlbuttonelement,5
 web/api/htmlbuttonelement/checkvalidity,2
-web/api/htmlbuttonelement/command,5
+web/api/htmlbuttonelement/command,6
 web/api/htmlbuttonelement/commandforelement,2
 web/api/htmlbuttonelement/disabled,0
 web/api/htmlbuttonelement/form,3
@@ -5349,7 +5349,7 @@ web/api/htmlsourceelement/width,null
 web/api/htmlspanelement,0
 web/api/htmlstyleelement,3
 web/api/htmlstyleelement/blocking,null
-web/api/htmlstyleelement/disabled,2
+web/api/htmlstyleelement/disabled,3
 web/api/htmlstyleelement/media,2
 web/api/htmlstyleelement/sheet,3
 web/api/htmlstyleelement/type,2
@@ -7901,7 +7901,7 @@ web/api/sharedstorageworklet,null
 web/api/sharedstorageworkletglobalscope,null
 web/api/sharedstorageworkletglobalscope/register,null
 web/api/sharedstorageworkletglobalscope/sharedstorage,null
-web/api/sharedworker,9
+web/api/sharedworker,10
 web/api/sharedworker/error_event,4
 web/api/sharedworker/port,3
 web/api/sharedworker/sharedworker,11
@@ -8660,7 +8660,7 @@ web/api/svgsvgelement/pauseanimations,null
 web/api/svgsvgelement/preserveaspectratio,0
 web/api/svgsvgelement/setcurrenttime,null
 web/api/svgsvgelement/unpauseanimations,null
-web/api/svgsvgelement/viewbox,0
+web/api/svgsvgelement/viewbox,1
 web/api/svgsvgelement/width,0
 web/api/svgsvgelement/x,0
 web/api/svgsvgelement/y,0
@@ -9327,7 +9327,7 @@ web/api/web_components/using_custom_elements,6
 web/api/web_components/using_shadow_dom,3
 web/api/web_components/using_templates_and_slots,4
 web/api/web_crypto_api,0
-web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,14
+web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,15
 web/api/web_locks_api,5
 web/api/web_midi_api,6
 web/api/web_nfc_api,0
@@ -9335,7 +9335,7 @@ web/api/web_periodic_background_synchronization_api,10
 web/api/web_serial_api,12
 web/api/web_share_api,9
 web/api/web_speech_api,5
-web/api/web_speech_api/using_the_web_speech_api,13
+web/api/web_speech_api/using_the_web_speech_api,14
 web/api/web_storage_api,7
 web/api/web_storage_api/using_the_web_storage_api,6
 web/api/web_workers_api,0
@@ -10355,7 +10355,7 @@ web/css/guides/backgrounds_and_borders/resizing_background_images,0
 web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,0
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,3
 web/css/guides/basic_user_interface,0
-web/css/guides/borders_and_box_decorations,6
+web/css/guides/borders_and_box_decorations,7
 web/css/guides/borders_and_box_decorations/border_shape_nav_menu,null
 web/css/guides/box_alignment,1
 web/css/guides/box_alignment/in_block_abspos_tables,0
@@ -11006,7 +11006,7 @@ web/css/reference/properties/mask-border-width,1
 web/css/reference/properties/mask-clip,1
 web/css/reference/properties/mask-composite,1
 web/css/reference/properties/mask-image,0
-web/css/reference/properties/mask-mode,0
+web/css/reference/properties/mask-mode,1
 web/css/reference/properties/mask-origin,3
 web/css/reference/properties/mask-position,1
 web/css/reference/properties/mask-repeat,1
@@ -11182,7 +11182,7 @@ web/css/reference/properties/text-decoration-style,1
 web/css/reference/properties/text-decoration-thickness,1
 web/css/reference/properties/text-emphasis,3
 web/css/reference/properties/text-emphasis-color,2
-web/css/reference/properties/text-emphasis-position,1
+web/css/reference/properties/text-emphasis-position,2
 web/css/reference/properties/text-emphasis-style,2
 web/css/reference/properties/text-indent,3
 web/css/reference/properties/text-justify,2
@@ -11305,7 +11305,7 @@ web/css/reference/selectors/_colon_nth-last-of-type,1
 web/css/reference/selectors/_colon_nth-of-type,2
 web/css/reference/selectors/_colon_only-child,0
 web/css/reference/selectors/_colon_only-of-type,0
-web/css/reference/selectors/_colon_open,0
+web/css/reference/selectors/_colon_open,1
 web/css/reference/selectors/_colon_optional,0
 web/css/reference/selectors/_colon_out-of-range,0
 web/css/reference/selectors/_colon_past,null
@@ -11707,7 +11707,7 @@ web/html/reference/elements/html,1
 web/html/reference/elements/i,0
 web/html/reference/elements/iframe,0
 web/html/reference/elements/img,1
-web/html/reference/elements/input,1
+web/html/reference/elements/input,2
 web/html/reference/elements/input/button,1
 web/html/reference/elements/input/checkbox,1
 web/html/reference/elements/input/color,1
@@ -11782,7 +11782,7 @@ web/html/reference/elements/script/type/importmap,0
 web/html/reference/elements/script/type/speculationrules,1
 web/html/reference/elements/search,0
 web/html/reference/elements/section,1
-web/html/reference/elements/select,0
+web/html/reference/elements/select,1
 web/html/reference/elements/selectedcontent,0
 web/html/reference/elements/slot,1
 web/html/reference/elements/small,1
@@ -12509,7 +12509,7 @@ web/javascript/reference/global_objects/atomics/or,1
 web/javascript/reference/global_objects/atomics/pause,2
 web/javascript/reference/global_objects/atomics/store,1
 web/javascript/reference/global_objects/atomics/sub,1
-web/javascript/reference/global_objects/atomics/wait,1
+web/javascript/reference/global_objects/atomics/wait,2
 web/javascript/reference/global_objects/atomics/waitasync,1
 web/javascript/reference/global_objects/atomics/xor,1
 web/javascript/reference/global_objects/bigint,1
@@ -13684,7 +13684,7 @@ web/privacy/regulations,null
 web/privacy/regulations/ccpa,null
 web/privacy/regulations/gdpr,null
 web/privacy/threat_modeling,null
-web/progressive_web_apps,4
+web/progressive_web_apps,5
 web/progressive_web_apps/guides,1
 web/progressive_web_apps/guides/best_practices,5
 web/progressive_web_apps/guides/caching,3
@@ -13730,7 +13730,7 @@ web/progressive_web_apps/manifest/reference/shortcuts,1
 web/progressive_web_apps/manifest/reference/start_url,2
 web/progressive_web_apps/manifest/reference/theme_color,4
 web/progressive_web_apps/reference,1
-web/progressive_web_apps/tutorials,3
+web/progressive_web_apps/tutorials,4
 web/progressive_web_apps/tutorials/cycletracker,2
 web/progressive_web_apps/tutorials/cycletracker/html_and_css,10
 web/progressive_web_apps/tutorials/cycletracker/javascript_functionality,4
@@ -13765,7 +13765,7 @@ web/security/authentication/session_management,0
 web/security/defenses,3
 web/security/defenses/certificate_transparency,2
 web/security/defenses/input_validation,null
-web/security/defenses/local_network_access,null
+web/security/defenses/local_network_access,1
 web/security/defenses/mixed_content,1
 web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,0
@@ -14328,7 +14328,7 @@ webassembly/guides/exported_functions,1
 webassembly/guides/imported_string_constants,null
 webassembly/guides/javascript_builtins,null
 webassembly/guides/loading_and_running,0
-webassembly/guides/rust_to_wasm,3
+webassembly/guides/rust_to_wasm,4
 webassembly/guides/text_format_to_wasm,0
 webassembly/guides/understanding_the_text_format,4
 webassembly/guides/using_the_javascript_api,2
