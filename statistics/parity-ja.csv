@@ -271,7 +271,7 @@ glossary/forbidden_request_header,4
 glossary/forbidden_response_header_name,7
 glossary/fork,null
 glossary/fps,null
-glossary/fragmentainer,null
+glossary/fragmentainer,0
 glossary/ftp,2
 glossary/ftu,null
 glossary/function,null
@@ -1947,9 +1947,10 @@ mozilla/firefox/releases/150,3
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,3
-mozilla/firefox/releases/154,0
+mozilla/firefox/releases/154,1
 mozilla/firefox/releases/155,null
 mozilla/firefox/releases/156,null
+mozilla/firefox/releases/157,null
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
