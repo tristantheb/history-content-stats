@@ -347,6 +347,7 @@ glossary/input_method_editor,null
 glossary/inset_properties,null
 glossary/instance,null
 glossary/interaction_to_next_paint,null
+glossary/interface,null
 glossary/internationalization,null
 glossary/internet,2
 glossary/interpolation,null
@@ -9683,6 +9684,7 @@ web/api/webtransport/datagrams,null
 web/api/webtransport/getstats,null
 web/api/webtransport/incomingbidirectionalstreams,null
 web/api/webtransport/incomingunidirectionalstreams,null
+web/api/webtransport/protocol,null
 web/api/webtransport/ready,null
 web/api/webtransport/reliability,null
 web/api/webtransport/webtransport,null
@@ -9713,6 +9715,7 @@ web/api/webtransportsendgroup/getstats,null
 web/api/webtransportsendstream,null
 web/api/webtransportsendstream/getstats,null
 web/api/webtransportsendstream/getwriter,null
+web/api/webtransportsendstream/sendgroup,null
 web/api/webtransportsendstream/sendorder,null
 web/api/webusb_api,null
 web/api/webvr_api,null

@@ -347,6 +347,7 @@ glossary/input_method_editor,4
 glossary/inset_properties,null
 glossary/instance,1
 glossary/interaction_to_next_paint,null
+glossary/interface,null
 glossary/internationalization,null
 glossary/internet,2
 glossary/interpolation,4
@@ -3381,9 +3382,9 @@ web/api/datatransfer/cleardata,null
 web/api/datatransfer/datatransfer,0
 web/api/datatransfer/dropeffect,null
 web/api/datatransfer/effectallowed,null
-web/api/datatransfer/files,6
+web/api/datatransfer/files,7
 web/api/datatransfer/getdata,null
-web/api/datatransfer/items,4
+web/api/datatransfer/items,5
 web/api/datatransfer/setdata,null
 web/api/datatransfer/setdragimage,null
 web/api/datatransfer/types,null
@@ -5082,7 +5083,7 @@ web/api/htmlinputelement/select,null
 web/api/htmlinputelement/select_event,null
 web/api/htmlinputelement/selectionchange_event,null
 web/api/htmlinputelement/selectiondirection,null
-web/api/htmlinputelement/selectionend,2
+web/api/htmlinputelement/selectionend,3
 web/api/htmlinputelement/selectionstart,null
 web/api/htmlinputelement/setcustomvalidity,null
 web/api/htmlinputelement/setrangetext,null
@@ -9683,6 +9684,7 @@ web/api/webtransport/datagrams,null
 web/api/webtransport/getstats,null
 web/api/webtransport/incomingbidirectionalstreams,null
 web/api/webtransport/incomingunidirectionalstreams,null
+web/api/webtransport/protocol,null
 web/api/webtransport/ready,null
 web/api/webtransport/reliability,null
 web/api/webtransport/webtransport,null
@@ -9713,6 +9715,7 @@ web/api/webtransportsendgroup/getstats,null
 web/api/webtransportsendstream,null
 web/api/webtransportsendstream/getstats,null
 web/api/webtransportsendstream/getwriter,null
+web/api/webtransportsendstream/sendgroup,null
 web/api/webtransportsendstream/sendorder,null
 web/api/webusb_api,1
 web/api/webvr_api,null
