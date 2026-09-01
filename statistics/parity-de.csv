@@ -12371,14 +12371,14 @@ web/javascript/reference/errors/read-only,0
 web/javascript/reference/errors/redeclared_parameter,0
 web/javascript/reference/errors/reduce_of_empty_array_with_no_initial_value,0
 web/javascript/reference/errors/regex_backslash_at_end_of_pattern,0
-web/javascript/reference/errors/regex_character_class_escape_in_class_range,0
+web/javascript/reference/errors/regex_character_class_escape_in_class_range,1
 web/javascript/reference/errors/regex_duplicate_capture_group_name,0
 web/javascript/reference/errors/regex_incomplete_quantifier,0
 web/javascript/reference/errors/regex_invalid_capture_group_name,0
 web/javascript/reference/errors/regex_invalid_char_in_class,0
 web/javascript/reference/errors/regex_invalid_class_set_operation,0
 web/javascript/reference/errors/regex_invalid_decimal_escape,0
-web/javascript/reference/errors/regex_invalid_group,0
+web/javascript/reference/errors/regex_invalid_group,1
 web/javascript/reference/errors/regex_invalid_identity_escape,0
 web/javascript/reference/errors/regex_invalid_named_capture_reference,0
 web/javascript/reference/errors/regex_invalid_property_name,0
@@ -13018,7 +13018,7 @@ web/javascript/reference/global_objects/set/size,0
 web/javascript/reference/global_objects/set/symbol.iterator,0
 web/javascript/reference/global_objects/set/symbol.species,0
 web/javascript/reference/global_objects/set/symmetricdifference,0
-web/javascript/reference/global_objects/set/union,0
+web/javascript/reference/global_objects/set/union,1
 web/javascript/reference/global_objects/set/values,0
 web/javascript/reference/global_objects/sharedarraybuffer,0
 web/javascript/reference/global_objects/sharedarraybuffer/bytelength,0
