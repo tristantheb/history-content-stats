@@ -1948,7 +1948,7 @@ mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
-mozilla/firefox/releases/154,0
+mozilla/firefox/releases/154,1
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,0
 mozilla/firefox/releases/157,0
@@ -5083,8 +5083,8 @@ web/api/htmlinputelement/select,0
 web/api/htmlinputelement/select_event,0
 web/api/htmlinputelement/selectionchange_event,0
 web/api/htmlinputelement/selectiondirection,0
-web/api/htmlinputelement/selectionend,0
-web/api/htmlinputelement/selectionstart,0
+web/api/htmlinputelement/selectionend,1
+web/api/htmlinputelement/selectionstart,1
 web/api/htmlinputelement/setcustomvalidity,0
 web/api/htmlinputelement/setrangetext,0
 web/api/htmlinputelement/setselectionrange,0
@@ -5449,8 +5449,8 @@ web/api/htmltextareaelement/select,0
 web/api/htmltextareaelement/select_event,0
 web/api/htmltextareaelement/selectionchange_event,0
 web/api/htmltextareaelement/selectiondirection,0
-web/api/htmltextareaelement/selectionend,0
-web/api/htmltextareaelement/selectionstart,0
+web/api/htmltextareaelement/selectionend,1
+web/api/htmltextareaelement/selectionstart,1
 web/api/htmltextareaelement/setcustomvalidity,0
 web/api/htmltextareaelement/setrangetext,0
 web/api/htmltextareaelement/setselectionrange,0
@@ -5517,7 +5517,7 @@ web/api/idbdatabase/versionchange_event,0
 web/api/idbfactory,0
 web/api/idbfactory/cmp,0
 web/api/idbfactory/databases,0
-web/api/idbfactory/deletedatabase,0
+web/api/idbfactory/deletedatabase,1
 web/api/idbfactory/open,0
 web/api/idbindex,0
 web/api/idbindex/count,0
@@ -6758,7 +6758,7 @@ web/api/performancenavigationtiming/domcontentloadedeventstart,0
 web/api/performancenavigationtiming/dominteractive,0
 web/api/performancenavigationtiming/loadeventend,0
 web/api/performancenavigationtiming/loadeventstart,0
-web/api/performancenavigationtiming/notrestoredreasons,0
+web/api/performancenavigationtiming/notrestoredreasons,1
 web/api/performancenavigationtiming/redirectcount,0
 web/api/performancenavigationtiming/tojson,0
 web/api/performancenavigationtiming/type,0
@@ -9673,7 +9673,7 @@ web/api/websocketstream/closed,0
 web/api/websocketstream/opened,0
 web/api/websocketstream/url,0
 web/api/websocketstream/websocketstream,0
-web/api/webtransport,1
+web/api/webtransport,2
 web/api/webtransport/close,0
 web/api/webtransport/closed,0
 web/api/webtransport/congestioncontrol,0
@@ -9681,6 +9681,7 @@ web/api/webtransport/createbidirectionalstream,0
 web/api/webtransport/createsendgroup,1
 web/api/webtransport/createunidirectionalstream,0
 web/api/webtransport/datagrams,0
+web/api/webtransport/exportkeyingmaterial,null
 web/api/webtransport/getstats,0
 web/api/webtransport/incomingbidirectionalstreams,0
 web/api/webtransport/incomingunidirectionalstreams,0
@@ -10907,7 +10908,7 @@ web/css/reference/properties/font-optical-sizing,0
 web/css/reference/properties/font-palette,0
 web/css/reference/properties/font-palette/palette-mix,0
 web/css/reference/properties/font-size,0
-web/css/reference/properties/font-size-adjust,0
+web/css/reference/properties/font-size-adjust,1
 web/css/reference/properties/font-smooth,0
 web/css/reference/properties/font-stretch,0
 web/css/reference/properties/font-style,0

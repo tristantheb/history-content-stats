@@ -5083,7 +5083,7 @@ web/api/htmlinputelement/select,null
 web/api/htmlinputelement/select_event,null
 web/api/htmlinputelement/selectionchange_event,null
 web/api/htmlinputelement/selectiondirection,null
-web/api/htmlinputelement/selectionend,3
+web/api/htmlinputelement/selectionend,4
 web/api/htmlinputelement/selectionstart,null
 web/api/htmlinputelement/setcustomvalidity,null
 web/api/htmlinputelement/setrangetext,null
@@ -9681,6 +9681,7 @@ web/api/webtransport/createbidirectionalstream,null
 web/api/webtransport/createsendgroup,null
 web/api/webtransport/createunidirectionalstream,null
 web/api/webtransport/datagrams,null
+web/api/webtransport/exportkeyingmaterial,null
 web/api/webtransport/getstats,null
 web/api/webtransport/incomingbidirectionalstreams,null
 web/api/webtransport/incomingunidirectionalstreams,null
