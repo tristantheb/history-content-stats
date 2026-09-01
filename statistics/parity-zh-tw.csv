@@ -12579,7 +12579,7 @@ web/javascript/reference/global_objects/date/getutcminutes,0
 web/javascript/reference/global_objects/date/getutcmonth,null
 web/javascript/reference/global_objects/date/getutcseconds,0
 web/javascript/reference/global_objects/date/getyear,null
-web/javascript/reference/global_objects/date/now,0
+web/javascript/reference/global_objects/date/now,1
 web/javascript/reference/global_objects/date/parse,0
 web/javascript/reference/global_objects/date/setdate,null
 web/javascript/reference/global_objects/date/setfullyear,null
@@ -14357,6 +14357,7 @@ webassembly/reference/definitions,null
 webassembly/reference/definitions/data,null
 webassembly/reference/definitions/elem,null
 webassembly/reference/definitions/global,null
+webassembly/reference/definitions/import,null
 webassembly/reference/definitions/memory,null
 webassembly/reference/definitions/table,null
 webassembly/reference/definitions/tag,null

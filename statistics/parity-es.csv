@@ -818,7 +818,7 @@ learn_web_development/core/styling_basics/debugging_css,null
 learn_web_development/core/styling_basics/fixing_blog_styles,null
 learn_web_development/core/styling_basics/getting_started,null
 learn_web_development/core/styling_basics/handling_conflicts,null
-learn_web_development/core/styling_basics/handling_different_text_directions,null
+learn_web_development/core/styling_basics/handling_different_text_directions,0
 learn_web_development/core/styling_basics/home_color_scheme_search,null
 learn_web_development/core/styling_basics/images_media_forms,null
 learn_web_development/core/styling_basics/organizing,null
@@ -12559,7 +12559,7 @@ web/javascript/reference/global_objects/dataview/setuint16,null
 web/javascript/reference/global_objects/dataview/setuint32,null
 web/javascript/reference/global_objects/dataview/setuint8,null
 web/javascript/reference/global_objects/date,null
-web/javascript/reference/global_objects/date/date,6
+web/javascript/reference/global_objects/date/date,7
 web/javascript/reference/global_objects/date/getdate,null
 web/javascript/reference/global_objects/date/getday,null
 web/javascript/reference/global_objects/date/getfullyear,null
@@ -14357,6 +14357,7 @@ webassembly/reference/definitions,null
 webassembly/reference/definitions/data,null
 webassembly/reference/definitions/elem,null
 webassembly/reference/definitions/global,null
+webassembly/reference/definitions/import,null
 webassembly/reference/definitions/memory,null
 webassembly/reference/definitions/table,null
 webassembly/reference/definitions/tag,null
