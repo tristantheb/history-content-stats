@@ -751,7 +751,7 @@ learn_web_development/core/scripting/debugging_javascript,1
 learn_web_development/core/scripting/dom_scripting,0
 learn_web_development/core/scripting/event_bubbling,0
 learn_web_development/core/scripting/events,0
-learn_web_development/core/scripting/functions,0
+learn_web_development/core/scripting/functions,1
 learn_web_development/core/scripting/house_data_ui,1
 learn_web_development/core/scripting/image_gallery,0
 learn_web_development/core/scripting/json,1
@@ -1881,7 +1881,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,8
 mozilla/firefox,0
-mozilla/firefox/experimental_features,4
+mozilla/firefox/experimental_features,6
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -1948,7 +1948,7 @@ mozilla/firefox/releases/150,3
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,3
-mozilla/firefox/releases/154,2
+mozilla/firefox/releases/154,3
 mozilla/firefox/releases/155,null
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
@@ -11498,7 +11498,7 @@ web/css/reference/values/fit-content_function,1
 web/css/reference/values/flex_value,1
 web/css/reference/values/frequency,1
 web/css/reference/values/frequency-percentage,0
-web/css/reference/values/functions,6
+web/css/reference/values/functions,7
 web/css/reference/values/generic-family,1
 web/css/reference/values/gradient,0
 web/css/reference/values/gradient/conic-gradient,1
@@ -11541,7 +11541,7 @@ web/css/reference/values/percentage,1
 web/css/reference/values/position-area_value,0
 web/css/reference/values/position_value,1
 web/css/reference/values/pow,0
-web/css/reference/values/progress,3
+web/css/reference/values/progress,4
 web/css/reference/values/random,2
 web/css/reference/values/ratio,1
 web/css/reference/values/ray,0
