@@ -751,7 +751,7 @@ learn_web_development/core/scripting/debugging_javascript,418fefaa02f8e1ea53d53c
 learn_web_development/core/scripting/dom_scripting,273e96b5d57d1fe5210756edb145688e0bb04d3b,Learn|Core Modules
 learn_web_development/core/scripting/event_bubbling,a73e5b9e881645835a254c4b3d07c48230010d29,Learn|Core Modules
 learn_web_development/core/scripting/events,2b4a2ad5d9ba084a9eaa2f9204102655e7b575c4,Learn|Core Modules
-learn_web_development/core/scripting/functions,9460d587cd7ec549f83621777d123d754dd6e68c,Learn|Core Modules
+learn_web_development/core/scripting/functions,dee770bad395da6f67336af7f76dcc823939244e,Learn|Core Modules
 learn_web_development/core/scripting/house_data_ui,7f138099644a02640a903b2abc39e685ca8ca7cd,Learn|Core Modules
 learn_web_development/core/scripting/image_gallery,50a1895c9c499b1b9207f7af945a0fe45de58cca,Learn|Core Modules
 learn_web_development/core/scripting/json,65692fd4d256d5647749b7c7005dcf53d425a533,Learn|Core Modules
@@ -1881,7 +1881,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,f99d00a1c3697e26a679925954e26564e7e79b98,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,e42e3a5e4b6b42f4346ef90e2393c120c0fbb2ed,Mozilla|Firefox
+mozilla/firefox/experimental_features,9e05c9f515e68978f2d56c2bddef31ebda5a4eea,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1948,7 +1948,7 @@ mozilla/firefox/releases/150,e5cd1cab36e2fdcf5dfe28e10b0a7cb235354e62,Mozilla|Fi
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494,Mozilla|Firefox|Versions
-mozilla/firefox/releases/154,9ca7c1a4886127a7926d31e1fdd62a86ad71831e,Mozilla|Firefox|Versions
+mozilla/firefox/releases/154,a31068ba2df086b7aba127b26d28b083537d5894,Mozilla|Firefox|Versions
 mozilla/firefox/releases/155,d38616f73d7bfbd6c6f698390657da14a92bbb2f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/156,d38616f73d7bfbd6c6f698390657da14a92bbb2f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,d38616f73d7bfbd6c6f698390657da14a92bbb2f,Mozilla|Firefox|Versions
@@ -11498,7 +11498,7 @@ web/css/reference/values/fit-content_function,5e4520f9cd84f65d470ec57efef7a73bbe
 web/css/reference/values/flex_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/frequency,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/frequency-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/functions,c655f38c10ba17b853b0e66b43cf4cf2b176e424,CSS|Values
+web/css/reference/values/functions,d35a7643766c8f8d1d92044ca771dbf8dc843906,CSS|Values
 web/css/reference/values/generic-family,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/gradient,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/gradient/conic-gradient,a1da408d85bfa1fc180d15fdc29746ad5f9e9cff,CSS|Values
@@ -11541,7 +11541,7 @@ web/css/reference/values/percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS
 web/css/reference/values/position-area_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/position_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/pow,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/progress,2cd2b1303d15452b977a309a9d4e6618d20fc0c0,CSS|Values
+web/css/reference/values/progress,d35a7643766c8f8d1d92044ca771dbf8dc843906,CSS|Values
 web/css/reference/values/random,ba3c8980510073ee92674aa71cb2c8c5b71294ab,CSS|Values
 web/css/reference/values/ratio,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/ray,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values

@@ -1881,7 +1881,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,4
 mozilla/firefox,0
-mozilla/firefox/experimental_features,10
+mozilla/firefox/experimental_features,12
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1948,7 +1948,7 @@ mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,3
-mozilla/firefox/releases/154,2
+mozilla/firefox/releases/154,3
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
@@ -11498,7 +11498,7 @@ web/css/reference/values/fit-content_function,0
 web/css/reference/values/flex_value,0
 web/css/reference/values/frequency,0
 web/css/reference/values/frequency-percentage,0
-web/css/reference/values/functions,0
+web/css/reference/values/functions,1
 web/css/reference/values/generic-family,0
 web/css/reference/values/gradient,0
 web/css/reference/values/gradient/conic-gradient,0
@@ -11541,7 +11541,7 @@ web/css/reference/values/percentage,0
 web/css/reference/values/position-area_value,0
 web/css/reference/values/position_value,0
 web/css/reference/values/pow,0
-web/css/reference/values/progress,1
+web/css/reference/values/progress,2
 web/css/reference/values/random,1
 web/css/reference/values/ratio,0
 web/css/reference/values/ray,0
