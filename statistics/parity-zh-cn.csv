@@ -2994,7 +2994,7 @@ web/api/cookiestore/change_event,1
 web/api/cookiestore/delete,5
 web/api/cookiestore/get,6
 web/api/cookiestore/getall,5
-web/api/cookiestore/set,5
+web/api/cookiestore/set,6
 web/api/cookiestoremanager,0
 web/api/cookiestoremanager/getsubscriptions,0
 web/api/cookiestoremanager/subscribe,2
@@ -4105,7 +4105,7 @@ web/api/errorevent/errorevent,null
 web/api/errorevent/filename,1
 web/api/errorevent/lineno,1
 web/api/errorevent/message,1
-web/api/event,10
+web/api/event,11
 web/api/event/bubbles,4
 web/api/event/cancelable,null
 web/api/event/cancelbubble,1
@@ -4125,7 +4125,7 @@ web/api/event/srcelement,1
 web/api/event/stopimmediatepropagation,0
 web/api/event/stoppropagation,null
 web/api/event/target,2
-web/api/event/timestamp,2
+web/api/event/timestamp,3
 web/api/event/type,2
 web/api/eventcounts,null
 web/api/eventsource,6
@@ -4218,8 +4218,8 @@ web/api/fetchlaterresult,null
 web/api/fetchlaterresult/activated,null
 web/api/file,0
 web/api/file/file,2
-web/api/file/lastmodified,0
-web/api/file/lastmodifieddate,1
+web/api/file/lastmodified,1
+web/api/file/lastmodifieddate,2
 web/api/file/name,0
 web/api/file/webkitrelativepath,null
 web/api/file_and_directory_entries_api,null
@@ -5149,7 +5149,7 @@ web/api/htmlmediaelement/controls,1
 web/api/htmlmediaelement/controlslist,1
 web/api/htmlmediaelement/crossorigin,null
 web/api/htmlmediaelement/currentsrc,null
-web/api/htmlmediaelement/currenttime,0
+web/api/htmlmediaelement/currenttime,1
 web/api/htmlmediaelement/defaultmuted,1
 web/api/htmlmediaelement/defaultplaybackrate,0
 web/api/htmlmediaelement/disableremoteplayback,0
@@ -12122,7 +12122,7 @@ web/http/reference/headers/server-timing,null
 web/http/reference/headers/service-worker,null
 web/http/reference/headers/service-worker-allowed,null
 web/http/reference/headers/service-worker-navigation-preload,null
-web/http/reference/headers/set-cookie,12
+web/http/reference/headers/set-cookie,13
 web/http/reference/headers/set-login,null
 web/http/reference/headers/sourcemap,null
 web/http/reference/headers/speculation-rules,null
@@ -14357,6 +14357,7 @@ webassembly/reference/definitions,null
 webassembly/reference/definitions/data,null
 webassembly/reference/definitions/elem,null
 webassembly/reference/definitions/global,null
+webassembly/reference/definitions/import,null
 webassembly/reference/definitions/memory,null
 webassembly/reference/definitions/table,null
 webassembly/reference/definitions/tag,null
@@ -14383,7 +14384,7 @@ webassembly/reference/javascript_interface/exception/getarg,1
 webassembly/reference/javascript_interface/exception/is,2
 webassembly/reference/javascript_interface/exception/stack,2
 webassembly/reference/javascript_interface/global,1
-webassembly/reference/javascript_interface/global/global,3
+webassembly/reference/javascript_interface/global/global,4
 webassembly/reference/javascript_interface/global/value,null
 webassembly/reference/javascript_interface/global/valueof,null
 webassembly/reference/javascript_interface/instance,0

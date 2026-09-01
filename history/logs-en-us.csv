@@ -2308,7 +2308,7 @@ web/api/animation/animation,291a8c75ed553e807895225d51dff7ac24ad1f05,Web APIs
 web/api/animation/cancel,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
 web/api/animation/cancel_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/animation/commitstyles,b3cd597b58940518a7712487ce94efc0881cb549,Web APIs
-web/api/animation/currenttime,3b5a1c0dfd59257c0a51052a9efa7b0108f8ecca,Web APIs
+web/api/animation/currenttime,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
 web/api/animation/effect,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/animation/finish,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b,Web APIs
 web/api/animation/finish_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
@@ -2325,7 +2325,7 @@ web/api/animation/ready,ec1006afdf68a5808a48ab6301f9ccff3cd7ecc2,Web APIs
 web/api/animation/remove_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/animation/replacestate,e9bba35f2ae2943431ae2dfb752f5856ef79769d,Web APIs
 web/api/animation/reverse,135b8311a5e3d12789e8421845be3ce026ef72b8,Web APIs
-web/api/animation/starttime,291a8c75ed553e807895225d51dff7ac24ad1f05,Web APIs
+web/api/animation/starttime,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
 web/api/animation/timeline,135b8311a5e3d12789e8421845be3ce026ef72b8,Web APIs
 web/api/animation/updateplaybackrate,0a881eea07f0cec6ca4ed85a24af43b367a9f80d,Web APIs
 web/api/animationeffect,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
@@ -2340,10 +2340,10 @@ web/api/animationevent/elapsedtime,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web 
 web/api/animationevent/pseudoelement,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/animationplaybackevent,bca8d1ab2bc4f5a1ef6b39c454b0229539178e98,Web APIs
 web/api/animationplaybackevent/animationplaybackevent,135b8311a5e3d12789e8421845be3ce026ef72b8,Web APIs
-web/api/animationplaybackevent/currenttime,0a9c10fc67901972221dc7b3d006334fbfa73dce,Web APIs
+web/api/animationplaybackevent/currenttime,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
 web/api/animationplaybackevent/timelinetime,135b8311a5e3d12789e8421845be3ce026ef72b8,Web APIs
 web/api/animationtimeline,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/animationtimeline/currenttime,3b5a1c0dfd59257c0a51052a9efa7b0108f8ecca,Web APIs
+web/api/animationtimeline/currenttime,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
 web/api/animationtimeline/duration,b7536cd198df32cd28c01d407a1d8b4dbceed7d2,Web APIs
 web/api/attr,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,Web APIs
 web/api/attr/localname,ec1006afdf68a5808a48ab6301f9ccff3cd7ecc2,Web APIs
@@ -2588,7 +2588,7 @@ web/api/baseaudiocontext/createperiodicwave,3e543cdfe8dddfb4774a64bf3decdcbab42a
 web/api/baseaudiocontext/createscriptprocessor,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/baseaudiocontext/createstereopanner,be8f7f155a48e11b30c240f8731afb1845f85378,Web APIs
 web/api/baseaudiocontext/createwaveshaper,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
-web/api/baseaudiocontext/currenttime,3b5a1c0dfd59257c0a51052a9efa7b0108f8ecca,Web APIs
+web/api/baseaudiocontext/currenttime,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
 web/api/baseaudiocontext/decodeaudiodata,0c3f18aca2c8a93d3982183f64bf7762c2c310b0,Web APIs
 web/api/baseaudiocontext/destination,be8f7f155a48e11b30c240f8731afb1845f85378,Web APIs
 web/api/baseaudiocontext/listener,4dec42ed700040565e8af0e14ff104054ebc20f5,Web APIs
@@ -2994,7 +2994,7 @@ web/api/cookiestore/change_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web AP
 web/api/cookiestore/delete,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Web APIs
 web/api/cookiestore/get,e161086720f53ca4a4dabed5b69743324d194b23,Web APIs
 web/api/cookiestore/getall,e161086720f53ca4a4dabed5b69743324d194b23,Web APIs
-web/api/cookiestore/set,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Web APIs
+web/api/cookiestore/set,efc22e586d21b91311f504a99c54437bbbbe96ef,Web APIs
 web/api/cookiestoremanager,60c3843f55839380e0c0cdc293ea694fe9943158,Web APIs
 web/api/cookiestoremanager/getsubscriptions,60c3843f55839380e0c0cdc293ea694fe9943158,Web APIs
 web/api/cookiestoremanager/subscribe,e727f51eb866144a5ee11480167188ef81e6667e,Web APIs
@@ -3646,7 +3646,7 @@ web/api/domexception/code,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/domexception/domexception,24bd423551fb4a36f47790cab237a2d157a990a7,Web APIs
 web/api/domexception/message,3652cfa9c036cf3ceebb1384bdc7edfd549251f3,Web APIs
 web/api/domexception/name,3652cfa9c036cf3ceebb1384bdc7edfd549251f3,Web APIs
-web/api/domhighrestimestamp,0496bb2fcef13172325e1cc25a5fc71410506557,Web APIs
+web/api/domhighrestimestamp,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
 web/api/domimplementation,f45409ba2169ff05e433d21aa4ee0424079916b8,Web APIs
 web/api/domimplementation/createdocument,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Web APIs
 web/api/domimplementation/createdocumenttype,42f24862980f224148fc233823ebf30342898419,Web APIs
@@ -4105,7 +4105,7 @@ web/api/errorevent/errorevent,2cd89ba0e74308b8f9bcd5937b76fd1188006358,Web APIs
 web/api/errorevent/filename,6d2000984203c51f1aad49107ebcebe14d3c1238,Web APIs
 web/api/errorevent/lineno,6d2000984203c51f1aad49107ebcebe14d3c1238,Web APIs
 web/api/errorevent/message,6d2000984203c51f1aad49107ebcebe14d3c1238,Web APIs
-web/api/event,a1b98defe244f3bd4aa5087a4a20eb862b0663d9,Web APIs
+web/api/event,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
 web/api/event/bubbles,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc,Web APIs
 web/api/event/cancelable,15f0b5552bc9c2ea1f32b0cd5ee840a7d43c887e,Web APIs
 web/api/event/cancelbubble,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -4125,7 +4125,7 @@ web/api/event/srcelement,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/event/stopimmediatepropagation,bc9f7bec1ab48f29d241e38a9f1598f783f6b60a,Web APIs
 web/api/event/stoppropagation,87440643d71bf81a5bf4b8fa21db9e3d56ead395,Web APIs
 web/api/event/target,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
-web/api/event/timestamp,3b5a1c0dfd59257c0a51052a9efa7b0108f8ecca,Web APIs
+web/api/event/timestamp,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
 web/api/event/type,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
 web/api/eventcounts,e18aa8e600733ebc25443075c563fd56361dfe98,Web APIs
 web/api/eventsource,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
@@ -4218,8 +4218,8 @@ web/api/fetchlaterresult,8c1bc8d99fc8301fbbe874f6dcf8d41a9f4fe5fb,Web APIs
 web/api/fetchlaterresult/activated,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/file,0a24354d9ac0cac0b9c6f47de27cbf758c9f32f4,Web APIs
 web/api/file/file,3e097148b4c6cb9c6d8824275599f855ca63827b,Web APIs
-web/api/file/lastmodified,f216422c99b6c7014e398803b70600501bce8a48,Web APIs
-web/api/file/lastmodifieddate,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
+web/api/file/lastmodified,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
+web/api/file/lastmodifieddate,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
 web/api/file/name,f216422c99b6c7014e398803b70600501bce8a48,Web APIs
 web/api/file/webkitrelativepath,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/file_and_directory_entries_api,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -5149,7 +5149,7 @@ web/api/htmlmediaelement/controls,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web A
 web/api/htmlmediaelement/controlslist,281a6e50be0858c0200a59aac6b4a3f1b64116dc,Web APIs
 web/api/htmlmediaelement/crossorigin,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlmediaelement/currentsrc,937f993c79bb6f3a42b0db72712aaf5f18277d3d,Web APIs
-web/api/htmlmediaelement/currenttime,3b5a1c0dfd59257c0a51052a9efa7b0108f8ecca,Web APIs
+web/api/htmlmediaelement/currenttime,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
 web/api/htmlmediaelement/defaultmuted,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlmediaelement/defaultplaybackrate,595cba0e07c70eda7f08a12890e00ea0281933d3,Web APIs
 web/api/htmlmediaelement/disableremoteplayback,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -11973,7 +11973,7 @@ web/http/reference/headers/content-security-policy/trusted-types,ecd02ce48a6a607
 web/http/reference/headers/content-security-policy/upgrade-insecure-requests,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,HTTP|Headers
 web/http/reference/headers/content-security-policy/worker-src,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/content-type,b4e920ce0a34d9e609080ccb937a1a30c3cd558a,HTTP|Headers
-web/http/reference/headers/cookie,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
+web/http/reference/headers/cookie,efc22e586d21b91311f504a99c54437bbbbe96ef,HTTP|Headers
 web/http/reference/headers/critical-ch,513146a616213fee548fdcf72dc1359030eb3395,HTTP|Headers
 web/http/reference/headers/cross-origin-embedder-policy,2d0aa21573c6ceb33aeadf94ce6cd84588b74123,HTTP|Headers
 web/http/reference/headers/cross-origin-embedder-policy-report-only,2d0aa21573c6ceb33aeadf94ce6cd84588b74123,HTTP|Headers
@@ -12122,7 +12122,7 @@ web/http/reference/headers/server-timing,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1
 web/http/reference/headers/service-worker,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/service-worker-allowed,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/service-worker-navigation-preload,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
-web/http/reference/headers/set-cookie,972c6cc542e271e4c00def9465d7a0cc81011378,HTTP|Headers
+web/http/reference/headers/set-cookie,d8b9ef6d4342a26e188204a479eede5f057aceab,HTTP|Headers
 web/http/reference/headers/set-login,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/sourcemap,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/speculation-rules,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
@@ -12559,7 +12559,7 @@ web/javascript/reference/global_objects/dataview/setuint16,544b843570cb08d1474cf
 web/javascript/reference/global_objects/dataview/setuint32,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/dataview/setuint8,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/date,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
-web/javascript/reference/global_objects/date/date,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/date/date,91b5a448a517239876a4bc92640bbbf29e30b106,JavaScript|Global Objects
 web/javascript/reference/global_objects/date/getdate,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/date/getday,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/date/getfullyear,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
@@ -12579,7 +12579,7 @@ web/javascript/reference/global_objects/date/getutcminutes,544b843570cb08d1474cf
 web/javascript/reference/global_objects/date/getutcmonth,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/date/getutcseconds,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/date/getyear,ca6052779ddca9f6d99665f12c39aa2d85d85733,JavaScript|Global Objects
-web/javascript/reference/global_objects/date/now,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/date/now,91b5a448a517239876a4bc92640bbbf29e30b106,JavaScript|Global Objects
 web/javascript/reference/global_objects/date/parse,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/date/setdate,b3840f6234d24ade72a43171fd6489dd533aaf15,JavaScript|Global Objects
 web/javascript/reference/global_objects/date/setfullyear,b3840f6234d24ade72a43171fd6489dd533aaf15,JavaScript|Global Objects
@@ -13158,7 +13158,7 @@ web/javascript/reference/global_objects/temporal/instant/tostring,7e14795a6ef2bf
 web/javascript/reference/global_objects/temporal/instant/tozoneddatetimeiso,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/instant/until,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/instant/valueof,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
-web/javascript/reference/global_objects/temporal/now,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
+web/javascript/reference/global_objects/temporal/now,91b5a448a517239876a4bc92640bbbf29e30b106,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/now/instant,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/now/plaindateiso,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/now/plaindatetimeiso,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
@@ -14353,12 +14353,13 @@ webassembly/reference/control_flow/select,25dddb3e99e238788a27b33a7965076b3df57d
 webassembly/reference/control_flow/unreachable,25dddb3e99e238788a27b33a7965076b3df57d44,WebAssembly|Control Flow
 webassembly/reference/data,f35f247e16286c4e0b1c88fba3d8ce01683c189b,WebAssembly
 webassembly/reference/data/drop,f35f247e16286c4e0b1c88fba3d8ce01683c189b,WebAssembly
-webassembly/reference/definitions,c655f38c10ba17b853b0e66b43cf4cf2b176e424,WebAssembly
+webassembly/reference/definitions,0471f8e12d10a6fb1f301185823c8262dd18e3c6,WebAssembly
 webassembly/reference/definitions/data,f35f247e16286c4e0b1c88fba3d8ce01683c189b,WebAssembly
 webassembly/reference/definitions/elem,f35f247e16286c4e0b1c88fba3d8ce01683c189b,WebAssembly
 webassembly/reference/definitions/global,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
+webassembly/reference/definitions/import,0471f8e12d10a6fb1f301185823c8262dd18e3c6,WebAssembly
 webassembly/reference/definitions/memory,f35f247e16286c4e0b1c88fba3d8ce01683c189b,WebAssembly
-webassembly/reference/definitions/table,f35f247e16286c4e0b1c88fba3d8ce01683c189b,WebAssembly
+webassembly/reference/definitions/table,0471f8e12d10a6fb1f301185823c8262dd18e3c6,WebAssembly
 webassembly/reference/definitions/tag,48b0dc43b7c13a2c9a5d2c56f110444d2550b90e,WebAssembly
 webassembly/reference/definitions/types,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
 webassembly/reference/definitions/types/func,a2c0927ed7c35b9f110c19eea4a369162e8e1bf5,WebAssembly
@@ -14383,7 +14384,7 @@ webassembly/reference/javascript_interface/exception/getarg,48b0dc43b7c13a2c9a5d
 webassembly/reference/javascript_interface/exception/is,48b0dc43b7c13a2c9a5d2c56f110444d2550b90e,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/exception/stack,37bed723e98859723a86c8d8772f7d8448aa2e84,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/global,a21bf857ac668ad72a36aad0d8ad7e87c6bdc4d8,WebAssembly|JavaScript Interface
-webassembly/reference/javascript_interface/global/global,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly|JavaScript Interface
+webassembly/reference/javascript_interface/global/global,4e735554d10b8f0821c1f052db8f687855709507,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/global/value,a21bf857ac668ad72a36aad0d8ad7e87c6bdc4d8,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/global/valueof,a21bf857ac668ad72a36aad0d8ad7e87c6bdc4d8,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/instance,006c05b688814b45a01ad965bbe4ebfc15513e74,WebAssembly|JavaScript Interface

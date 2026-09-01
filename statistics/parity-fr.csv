@@ -4105,7 +4105,7 @@ web/api/errorevent/errorevent,0
 web/api/errorevent/filename,0
 web/api/errorevent/lineno,0
 web/api/errorevent/message,0
-web/api/event,0
+web/api/event,1
 web/api/event/bubbles,null
 web/api/event/cancelable,null
 web/api/event/cancelbubble,null
@@ -5149,7 +5149,7 @@ web/api/htmlmediaelement/controls,0
 web/api/htmlmediaelement/controlslist,0
 web/api/htmlmediaelement/crossorigin,0
 web/api/htmlmediaelement/currentsrc,0
-web/api/htmlmediaelement/currenttime,0
+web/api/htmlmediaelement/currenttime,1
 web/api/htmlmediaelement/defaultmuted,0
 web/api/htmlmediaelement/defaultplaybackrate,0
 web/api/htmlmediaelement/disableremoteplayback,0
@@ -11973,7 +11973,7 @@ web/http/reference/headers/content-security-policy/trusted-types,0
 web/http/reference/headers/content-security-policy/upgrade-insecure-requests,0
 web/http/reference/headers/content-security-policy/worker-src,0
 web/http/reference/headers/content-type,0
-web/http/reference/headers/cookie,0
+web/http/reference/headers/cookie,1
 web/http/reference/headers/critical-ch,1
 web/http/reference/headers/cross-origin-embedder-policy,0
 web/http/reference/headers/cross-origin-embedder-policy-report-only,0
@@ -12559,7 +12559,7 @@ web/javascript/reference/global_objects/dataview/setuint16,0
 web/javascript/reference/global_objects/dataview/setuint32,0
 web/javascript/reference/global_objects/dataview/setuint8,0
 web/javascript/reference/global_objects/date,0
-web/javascript/reference/global_objects/date/date,0
+web/javascript/reference/global_objects/date/date,1
 web/javascript/reference/global_objects/date/getdate,0
 web/javascript/reference/global_objects/date/getday,0
 web/javascript/reference/global_objects/date/getfullyear,0
@@ -12579,7 +12579,7 @@ web/javascript/reference/global_objects/date/getutcminutes,0
 web/javascript/reference/global_objects/date/getutcmonth,0
 web/javascript/reference/global_objects/date/getutcseconds,0
 web/javascript/reference/global_objects/date/getyear,1
-web/javascript/reference/global_objects/date/now,0
+web/javascript/reference/global_objects/date/now,1
 web/javascript/reference/global_objects/date/parse,0
 web/javascript/reference/global_objects/date/setdate,0
 web/javascript/reference/global_objects/date/setfullyear,0
@@ -13158,7 +13158,7 @@ web/javascript/reference/global_objects/temporal/instant/tostring,0
 web/javascript/reference/global_objects/temporal/instant/tozoneddatetimeiso,0
 web/javascript/reference/global_objects/temporal/instant/until,0
 web/javascript/reference/global_objects/temporal/instant/valueof,0
-web/javascript/reference/global_objects/temporal/now,0
+web/javascript/reference/global_objects/temporal/now,1
 web/javascript/reference/global_objects/temporal/now/instant,0
 web/javascript/reference/global_objects/temporal/now/plaindateiso,0
 web/javascript/reference/global_objects/temporal/now/plaindatetimeiso,0
@@ -14357,6 +14357,7 @@ webassembly/reference/definitions,null
 webassembly/reference/definitions/data,null
 webassembly/reference/definitions/elem,null
 webassembly/reference/definitions/global,null
+webassembly/reference/definitions/import,null
 webassembly/reference/definitions/memory,null
 webassembly/reference/definitions/table,null
 webassembly/reference/definitions/tag,null

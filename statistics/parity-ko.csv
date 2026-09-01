@@ -4105,7 +4105,7 @@ web/api/errorevent/errorevent,null
 web/api/errorevent/filename,null
 web/api/errorevent/lineno,null
 web/api/errorevent/message,null
-web/api/event,14
+web/api/event,15
 web/api/event/bubbles,null
 web/api/event/cancelable,null
 web/api/event/cancelbubble,null
@@ -5149,7 +5149,7 @@ web/api/htmlmediaelement/controls,null
 web/api/htmlmediaelement/controlslist,null
 web/api/htmlmediaelement/crossorigin,null
 web/api/htmlmediaelement/currentsrc,4
-web/api/htmlmediaelement/currenttime,3
+web/api/htmlmediaelement/currenttime,4
 web/api/htmlmediaelement/defaultmuted,null
 web/api/htmlmediaelement/defaultplaybackrate,null
 web/api/htmlmediaelement/disableremoteplayback,null
@@ -12122,7 +12122,7 @@ web/http/reference/headers/server-timing,5
 web/http/reference/headers/service-worker,null
 web/http/reference/headers/service-worker-allowed,null
 web/http/reference/headers/service-worker-navigation-preload,null
-web/http/reference/headers/set-cookie,12
+web/http/reference/headers/set-cookie,13
 web/http/reference/headers/set-login,null
 web/http/reference/headers/sourcemap,null
 web/http/reference/headers/speculation-rules,null
@@ -12579,7 +12579,7 @@ web/javascript/reference/global_objects/date/getutcminutes,null
 web/javascript/reference/global_objects/date/getutcmonth,null
 web/javascript/reference/global_objects/date/getutcseconds,null
 web/javascript/reference/global_objects/date/getyear,4
-web/javascript/reference/global_objects/date/now,3
+web/javascript/reference/global_objects/date/now,4
 web/javascript/reference/global_objects/date/parse,null
 web/javascript/reference/global_objects/date/setdate,null
 web/javascript/reference/global_objects/date/setfullyear,null
@@ -14357,6 +14357,7 @@ webassembly/reference/definitions,null
 webassembly/reference/definitions/data,null
 webassembly/reference/definitions/elem,null
 webassembly/reference/definitions/global,null
+webassembly/reference/definitions/import,null
 webassembly/reference/definitions/memory,null
 webassembly/reference/definitions/table,null
 webassembly/reference/definitions/tag,null
