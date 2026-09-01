@@ -1948,7 +1948,7 @@ mozilla/firefox/releases/150,3
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,3
-mozilla/firefox/releases/154,1
+mozilla/firefox/releases/154,2
 mozilla/firefox/releases/155,null
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
@@ -5083,8 +5083,8 @@ web/api/htmlinputelement/select,1
 web/api/htmlinputelement/select_event,2
 web/api/htmlinputelement/selectionchange_event,5
 web/api/htmlinputelement/selectiondirection,2
-web/api/htmlinputelement/selectionend,4
-web/api/htmlinputelement/selectionstart,3
+web/api/htmlinputelement/selectionend,5
+web/api/htmlinputelement/selectionstart,4
 web/api/htmlinputelement/setcustomvalidity,4
 web/api/htmlinputelement/setrangetext,3
 web/api/htmlinputelement/setselectionrange,7
@@ -5449,8 +5449,8 @@ web/api/htmltextareaelement/select,0
 web/api/htmltextareaelement/select_event,1
 web/api/htmltextareaelement/selectionchange_event,2
 web/api/htmltextareaelement/selectiondirection,1
-web/api/htmltextareaelement/selectionend,2
-web/api/htmltextareaelement/selectionstart,5
+web/api/htmltextareaelement/selectionend,3
+web/api/htmltextareaelement/selectionstart,6
 web/api/htmltextareaelement/setcustomvalidity,2
 web/api/htmltextareaelement/setrangetext,1
 web/api/htmltextareaelement/setselectionrange,3
@@ -5517,7 +5517,7 @@ web/api/idbdatabase/versionchange_event,5
 web/api/idbfactory,0
 web/api/idbfactory/cmp,0
 web/api/idbfactory/databases,1
-web/api/idbfactory/deletedatabase,1
+web/api/idbfactory/deletedatabase,2
 web/api/idbfactory/open,1
 web/api/idbindex,10
 web/api/idbindex/count,3
@@ -9673,7 +9673,7 @@ web/api/websocketstream/closed,1
 web/api/websocketstream/opened,1
 web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,1
-web/api/webtransport,4
+web/api/webtransport,5
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
@@ -9681,6 +9681,7 @@ web/api/webtransport/createbidirectionalstream,null
 web/api/webtransport/createsendgroup,null
 web/api/webtransport/createunidirectionalstream,null
 web/api/webtransport/datagrams,null
+web/api/webtransport/exportkeyingmaterial,null
 web/api/webtransport/getstats,null
 web/api/webtransport/incomingbidirectionalstreams,null
 web/api/webtransport/incomingunidirectionalstreams,null
@@ -10907,7 +10908,7 @@ web/css/reference/properties/font-optical-sizing,2
 web/css/reference/properties/font-palette,2
 web/css/reference/properties/font-palette/palette-mix,0
 web/css/reference/properties/font-size,2
-web/css/reference/properties/font-size-adjust,2
+web/css/reference/properties/font-size-adjust,3
 web/css/reference/properties/font-smooth,1
 web/css/reference/properties/font-stretch,2
 web/css/reference/properties/font-style,2

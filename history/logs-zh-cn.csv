@@ -2559,6 +2559,7 @@ web/api/element/append,542ef6cfd82288925e0a9238b47933f03e2dddca
 web/api/element/ariaactivedescendantelement,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/api/element/ariaatomic,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariaautocomplete,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
+web/api/element/ariabraillelabel,913db38a206684e0e39db4b0443c62798be94e76
 web/api/element/ariabusy,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariadescribedbyelements,6bed868c7b75c4c3ca3721fa8ed6c6ad2f41262b
 web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1
@@ -2572,6 +2573,7 @@ web/api/element/attributes,no_hash_commit
 web/api/element/auxclick_event,no_hash_commit
 web/api/element/before,no_hash_commit
 web/api/element/beforeinput_event,no_hash_commit
+web/api/element/beforematch_event,a7265fc3effa7c25b9997135104370c057a65293
 web/api/element/beforescriptexecute_event,no_hash_commit
 web/api/element/blur_event,no_hash_commit
 web/api/element/childelementcount,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
@@ -2596,6 +2598,7 @@ web/api/element/domactivate_event,no_hash_commit
 web/api/element/elementtiming,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/firstelementchild,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/focus_event,no_hash_commit
+web/api/element/focusin_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/focusout_event,no_hash_commit
 web/api/element/fullscreenchange_event,f216422c99b6c7014e398803b70600501bce8a48
 web/api/element/fullscreenerror_event,8a12b2889c9dbcb7d9ed026cac3a8538ec5cb277
@@ -2635,6 +2638,7 @@ web/api/element/mouseout_event,no_hash_commit
 web/api/element/mouseover_event,no_hash_commit
 web/api/element/mouseup_event,no_hash_commit
 web/api/element/mousewheel_event,no_hash_commit
+web/api/element/mozmousepixelscroll_event,ca6052779ddca9f6d99665f12c39aa2d85d85733
 web/api/element/namespaceuri,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/nextelementsibling,no_hash_commit
 web/api/element/outerhtml,no_hash_commit
@@ -2695,7 +2699,7 @@ web/api/element/webkitmouseforcechanged_event,ac7f589f2471fde8e5ee910a7fbd8a4bff
 web/api/element/webkitmouseforcedown_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/webkitmouseforceup_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/webkitmouseforcewillbegin_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
-web/api/element/wheel_event,no_hash_commit
+web/api/element/wheel_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/elementinternals/ariaactivedescendantelement,6bed868c7b75c4c3ca3721fa8ed6c6ad2f41262b
 web/api/elementinternals/ariakeyshortcuts,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/elementinternals/labels,ce10da0e9d23d241b175d8d68bf93507734b7c48
@@ -3063,7 +3067,7 @@ web/api/htmldetailselement,no_hash_commit
 web/api/htmldetailselement/name,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/api/htmldialogelement/close_event,no_hash_commit
 web/api/htmldialogelement,no_hash_commit
-web/api/htmldialogelement/showmodal,no_hash_commit
+web/api/htmldialogelement/showmodal,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69
 web/api/htmldivelement,387d0d4d8690c0d2c9db1b85eae28ffea0f3ac1f
 web/api/htmldlistelement/compact,6183d512fe034687017c4e216c7cbf54a16a528a
 web/api/htmldlistelement,387d0d4d8690c0d2c9db1b85eae28ffea0f3ac1f
@@ -7417,7 +7421,7 @@ web/svg/reference/element/animate,no_hash_commit
 web/svg/reference/element/animatemotion,no_hash_commit
 web/svg/reference/element/animatetransform,no_hash_commit
 web/svg/reference/element/circle,ac806e34aba086be141689c64dc4dd73636fbd62
-web/svg/reference/element/clippath,no_hash_commit
+web/svg/reference/element/clippath,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/element/defs,no_hash_commit
 web/svg/reference/element/desc,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/ellipse,no_hash_commit

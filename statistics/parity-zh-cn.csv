@@ -3812,7 +3812,7 @@ web/api/element/append,1
 web/api/element/ariaactivedescendantelement,0
 web/api/element/ariaatomic,0
 web/api/element/ariaautocomplete,0
-web/api/element/ariabraillelabel,null
+web/api/element/ariabraillelabel,0
 web/api/element/ariabrailleroledescription,null
 web/api/element/ariabusy,0
 web/api/element/ariachecked,null
@@ -3867,7 +3867,7 @@ web/api/element/attributes,null
 web/api/element/auxclick_event,null
 web/api/element/before,null
 web/api/element/beforeinput_event,null
-web/api/element/beforematch_event,null
+web/api/element/beforematch_event,0
 web/api/element/beforescriptexecute_event,null
 web/api/element/beforexrselect_event,null
 web/api/element/blur_event,null
@@ -3898,7 +3898,7 @@ web/api/element/dommousescroll_event,null
 web/api/element/elementtiming,1
 web/api/element/firstelementchild,1
 web/api/element/focus_event,null
-web/api/element/focusin_event,null
+web/api/element/focusin_event,0
 web/api/element/focusout_event,null
 web/api/element/fullscreenchange_event,1
 web/api/element/fullscreenerror_event,1
@@ -3944,7 +3944,7 @@ web/api/element/mouseover_event,null
 web/api/element/mouseup_event,null
 web/api/element/mousewheel_event,null
 web/api/element/movebefore,null
-web/api/element/mozmousepixelscroll_event,null
+web/api/element/mozmousepixelscroll_event,0
 web/api/element/namespaceuri,0
 web/api/element/nextelementsibling,null
 web/api/element/outerhtml,null
@@ -4016,7 +4016,7 @@ web/api/element/webkitmouseforcechanged_event,0
 web/api/element/webkitmouseforcedown_event,0
 web/api/element/webkitmouseforceup_event,0
 web/api/element/webkitmouseforcewillbegin_event,0
-web/api/element/wheel_event,null
+web/api/element/wheel_event,0
 web/api/elementinternals,null
 web/api/elementinternals/ariaactivedescendantelement,1
 web/api/elementinternals/ariaatomic,null
@@ -4857,7 +4857,7 @@ web/api/htmldialogelement/open,null
 web/api/htmldialogelement/requestclose,null
 web/api/htmldialogelement/returnvalue,null
 web/api/htmldialogelement/show,null
-web/api/htmldialogelement/showmodal,null
+web/api/htmldialogelement/showmodal,0
 web/api/htmldivelement,0
 web/api/htmldlistelement,0
 web/api/htmldlistelement/compact,1
@@ -9673,7 +9673,7 @@ web/api/websocketstream/closed,null
 web/api/websocketstream/opened,null
 web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,null
-web/api/webtransport,6
+web/api/webtransport,7
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
@@ -9681,6 +9681,7 @@ web/api/webtransport/createbidirectionalstream,null
 web/api/webtransport/createsendgroup,null
 web/api/webtransport/createunidirectionalstream,null
 web/api/webtransport/datagrams,null
+web/api/webtransport/exportkeyingmaterial,null
 web/api/webtransport/getstats,null
 web/api/webtransport/incomingbidirectionalstreams,null
 web/api/webtransport/incomingunidirectionalstreams,null
@@ -14016,7 +14017,7 @@ web/svg/reference/element/animate,null
 web/svg/reference/element/animatemotion,null
 web/svg/reference/element/animatetransform,null
 web/svg/reference/element/circle,0
-web/svg/reference/element/clippath,null
+web/svg/reference/element/clippath,0
 web/svg/reference/element/defs,null
 web/svg/reference/element/desc,0
 web/svg/reference/element/ellipse,null

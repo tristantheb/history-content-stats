@@ -1948,7 +1948,7 @@ mozilla/firefox/releases/150,e5cd1cab36e2fdcf5dfe28e10b0a7cb235354e62,Mozilla|Fi
 mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/152,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494,Mozilla|Firefox|Versions
-mozilla/firefox/releases/154,d38616f73d7bfbd6c6f698390657da14a92bbb2f,Mozilla|Firefox|Versions
+mozilla/firefox/releases/154,9ca7c1a4886127a7926d31e1fdd62a86ad71831e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/155,d38616f73d7bfbd6c6f698390657da14a92bbb2f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/156,d38616f73d7bfbd6c6f698390657da14a92bbb2f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,d38616f73d7bfbd6c6f698390657da14a92bbb2f,Mozilla|Firefox|Versions
@@ -5083,8 +5083,8 @@ web/api/htmlinputelement/select,7cd51a73ad94df604db79ccacbbe0513d0967650,Web API
 web/api/htmlinputelement/select_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/htmlinputelement/selectionchange_event,81a7c1667ff8881e40435fa7fc7e968f9b6cd622,Web APIs
 web/api/htmlinputelement/selectiondirection,6d2000984203c51f1aad49107ebcebe14d3c1238,Web APIs
-web/api/htmlinputelement/selectionend,5e28cf03014f1942a39dc0b5f52ee0249e3de859,Web APIs
-web/api/htmlinputelement/selectionstart,5e28cf03014f1942a39dc0b5f52ee0249e3de859,Web APIs
+web/api/htmlinputelement/selectionend,7a255a5942e2e3edb4cc5c1604a7bb597d34157f,Web APIs
+web/api/htmlinputelement/selectionstart,7a255a5942e2e3edb4cc5c1604a7bb597d34157f,Web APIs
 web/api/htmlinputelement/setcustomvalidity,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlinputelement/setrangetext,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/htmlinputelement/setselectionrange,76d6c2c2bcca61d0d14ed464356716090097bc7a,Web APIs
@@ -5449,8 +5449,8 @@ web/api/htmltextareaelement/select,b921b8d779314f2098a1669d8269b36107ecfbb1,Web 
 web/api/htmltextareaelement/select_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/htmltextareaelement/selectionchange_event,81a7c1667ff8881e40435fa7fc7e968f9b6cd622,Web APIs
 web/api/htmltextareaelement/selectiondirection,76d6c2c2bcca61d0d14ed464356716090097bc7a,Web APIs
-web/api/htmltextareaelement/selectionend,5e28cf03014f1942a39dc0b5f52ee0249e3de859,Web APIs
-web/api/htmltextareaelement/selectionstart,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
+web/api/htmltextareaelement/selectionend,7a255a5942e2e3edb4cc5c1604a7bb597d34157f,Web APIs
+web/api/htmltextareaelement/selectionstart,7a255a5942e2e3edb4cc5c1604a7bb597d34157f,Web APIs
 web/api/htmltextareaelement/setcustomvalidity,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmltextareaelement/setrangetext,76d6c2c2bcca61d0d14ed464356716090097bc7a,Web APIs
 web/api/htmltextareaelement/setselectionrange,76d6c2c2bcca61d0d14ed464356716090097bc7a,Web APIs
@@ -5517,7 +5517,7 @@ web/api/idbdatabase/versionchange_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec
 web/api/idbfactory,dbd4ba01220a5031d3a26a3ac1490d3269210124,Web APIs
 web/api/idbfactory/cmp,d16706e4e930c57161d473287374a9286c663147,Web APIs
 web/api/idbfactory/databases,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/idbfactory/deletedatabase,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
+web/api/idbfactory/deletedatabase,a60464b0dfb623542aeee6a3fa3d28f0351fbf01,Web APIs
 web/api/idbfactory/open,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/idbindex,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/idbindex/count,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
@@ -6758,7 +6758,7 @@ web/api/performancenavigationtiming/domcontentloadedeventstart,acfe8c9f1f4145f77
 web/api/performancenavigationtiming/dominteractive,aa8fa82a902746b0bd97839180fc2b5397088140,Web APIs
 web/api/performancenavigationtiming/loadeventend,bb48907e64eb4bf60f17efd7d39b46c771d220a0,Web APIs
 web/api/performancenavigationtiming/loadeventstart,bb48907e64eb4bf60f17efd7d39b46c771d220a0,Web APIs
-web/api/performancenavigationtiming/notrestoredreasons,3e23ee580c298320c9ecbbb745371611389e6cb8,Web APIs
+web/api/performancenavigationtiming/notrestoredreasons,bebf5d96c072cbf8531979f8088d380ef7f09d06,Web APIs
 web/api/performancenavigationtiming/redirectcount,c58e8c1dd6ecbcb63894c7dd17fb9495b9511b4e,Web APIs
 web/api/performancenavigationtiming/tojson,464ec9b1e43bf8a87ffe83abf2832e10739e2fb3,Web APIs
 web/api/performancenavigationtiming/type,4a1d696e78d9aa0a3ca571cbc0aab9ba90258235,Web APIs
@@ -9673,7 +9673,7 @@ web/api/websocketstream/closed,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/websocketstream/opened,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/websocketstream/url,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/websocketstream/websocketstream,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
-web/api/webtransport,8413520d9fd826c98db89ff8165408139635d454,Web APIs
+web/api/webtransport,32cd941db59154bdcd9cff0c9989f5b7ae7de91d,Web APIs
 web/api/webtransport/close,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/closed,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/congestioncontrol,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
@@ -9681,6 +9681,7 @@ web/api/webtransport/createbidirectionalstream,a4fcf79b60471db6f148fa4ba36f2cdea
 web/api/webtransport/createsendgroup,c4ced66f871dd67ff683526ecc38e9eb7ebb5c9a,Web APIs
 web/api/webtransport/createunidirectionalstream,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/webtransport/datagrams,50e0237a64ecc8107c0a608b37aae241448a5d80,Web APIs
+web/api/webtransport/exportkeyingmaterial,32cd941db59154bdcd9cff0c9989f5b7ae7de91d,Web APIs
 web/api/webtransport/getstats,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
 web/api/webtransport/incomingbidirectionalstreams,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/webtransport/incomingunidirectionalstreams,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
@@ -10907,7 +10908,7 @@ web/css/reference/properties/font-optical-sizing,071fd0613b1b5728d2d83845ea11512
 web/css/reference/properties/font-palette,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/font-palette/palette-mix,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Properties
 web/css/reference/properties/font-size,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
-web/css/reference/properties/font-size-adjust,82eeb8918aee4fe017a6ef1cb286bfd0a8a0ff43,CSS|Properties
+web/css/reference/properties/font-size-adjust,032208d4eb693c082d62e570f80ed5542325bbb6,CSS|Properties
 web/css/reference/properties/font-smooth,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-stretch,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-style,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
