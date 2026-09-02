@@ -2230,7 +2230,7 @@ web/accessibility/aria/reference/roles/textbox_role,fd2acb039cc1caee4af10f76ffb8
 web/accessibility/aria/reference/roles/timer_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/toolbar_role,c833741444aba4d524992813eda1cd8d64563aed,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tooltip_role,4cb9d89a204a9532370693b982e8a3b274a874b1,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/tree_role,30e0adab23668217555b7ed37df7e6e61b002bf3,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/tree_role,d1fd21c87a4917e56dab84fc0b1d321ebb22874e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treegrid_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treeitem_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/widget_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
@@ -5013,7 +5013,7 @@ web/api/htmliframeelement/width,d8a52569d8d465eb626af3d33600c8c638a7a322,Web API
 web/api/htmlimageelement,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/htmlimageelement/align,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/htmlimageelement/alt,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
-web/api/htmlimageelement/attributionsrc,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
+web/api/htmlimageelement/attributionsrc,7b9f3c730d1909846f80c70d84ac265d93d82af2,Web APIs
 web/api/htmlimageelement/border,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/htmlimageelement/complete,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
 web/api/htmlimageelement/crossorigin,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
@@ -5030,11 +5030,11 @@ web/api/htmlimageelement/longdesc,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web A
 web/api/htmlimageelement/name,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/htmlimageelement/naturalheight,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
 web/api/htmlimageelement/naturalwidth,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
-web/api/htmlimageelement/referrerpolicy,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
+web/api/htmlimageelement/referrerpolicy,7b9f3c730d1909846f80c70d84ac265d93d82af2,Web APIs
 web/api/htmlimageelement/sizes,fde38492f4490cb442affcf2a31e66defa9d76f6,Web APIs
 web/api/htmlimageelement/src,153625a091c46a21882a44740d26699c16565a24,Web APIs
 web/api/htmlimageelement/srcset,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
-web/api/htmlimageelement/usemap,754b68246f4e69e404309fee4a1699e047e43994,Web APIs
+web/api/htmlimageelement/usemap,7b9f3c730d1909846f80c70d84ac265d93d82af2,Web APIs
 web/api/htmlimageelement/vspace,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/htmlimageelement/width,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
 web/api/htmlimageelement/x,384b4f1e0490f2f91f154a9ca977da78e0cc63a9,Web APIs
@@ -5545,7 +5545,7 @@ web/api/idbkeyrange/only_static,d16706e4e930c57161d473287374a9286c663147,Web API
 web/api/idbkeyrange/upper,d16706e4e930c57161d473287374a9286c663147,Web APIs
 web/api/idbkeyrange/upperbound_static,d16706e4e930c57161d473287374a9286c663147,Web APIs
 web/api/idbkeyrange/upperopen,f2088b8912ef205a737551441d54b73507bd3ac6,Web APIs
-web/api/idbobjectstore,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
+web/api/idbobjectstore,d1fd21c87a4917e56dab84fc0b1d321ebb22874e,Web APIs
 web/api/idbobjectstore/add,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
 web/api/idbobjectstore/autoincrement,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
 web/api/idbobjectstore/clear,733c40043bfb7a55fb01644d52000149b2dab13c,Web APIs
@@ -6298,7 +6298,7 @@ web/api/navigationtransition/finished,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,W
 web/api/navigationtransition/from,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
 web/api/navigationtransition/navigationtype,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
 web/api/navigationtransition/to,ef78a9a3336c884fb3587e4ff833e64704296f01,Web APIs
-web/api/navigator,c9773fc1268b974b6c009208b259c53954c839ef,Web APIs
+web/api/navigator,d1fd21c87a4917e56dab84fc0b1d321ebb22874e,Web APIs
 web/api/navigator/activevrdisplays,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/navigator/appcodename,9cbfa7fc0051724913e92958b712425db77291a8,Web APIs
 web/api/navigator/appname,9cbfa7fc0051724913e92958b712425db77291a8,Web APIs
@@ -8230,7 +8230,7 @@ web/api/svgcircleelement/cx,101ffc9479db6aaa530f2aac3992734dd97d1b86,Web APIs
 web/api/svgcircleelement/cy,693106d7bc9aa28f22a3f234455f5496efd728c4,Web APIs
 web/api/svgcircleelement/r,693106d7bc9aa28f22a3f234455f5496efd728c4,Web APIs
 web/api/svgclippathelement,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/svgclippathelement/clippathunits,22080a7cc403f7f45c8e85065b182c9f0d4d383c,Web APIs
+web/api/svgclippathelement/clippathunits,07758d01509695fe45ccc3f7687f6597dc3d9e2a,Web APIs
 web/api/svgclippathelement/transform,0bb352f93d19c62cd07807479975f610f7b02cf4,Web APIs
 web/api/svgcomponenttransferfunctionelement,2e39a37874913a1e3fd82999467505fd525e9177,Web APIs
 web/api/svgcomponenttransferfunctionelement/amplitude,c8c435db7987512724a2311f6cb85631d9e3da8e,Web APIs
@@ -8499,7 +8499,7 @@ web/api/svgimageelement/y,4d51a212bfda5ce9978d162caf5532d155f7eb0a,Web APIs
 web/api/svglength,6d2000984203c51f1aad49107ebcebe14d3c1238,Web APIs
 web/api/svglength/converttospecifiedunits,59c2a6eb9c36970aaef347707c8dcf6fbcc14499,Web APIs
 web/api/svglength/newvaluespecifiedunits,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/svglength/unittype,59c2a6eb9c36970aaef347707c8dcf6fbcc14499,Web APIs
+web/api/svglength/unittype,7b9f3c730d1909846f80c70d84ac265d93d82af2,Web APIs
 web/api/svglength/value,c2fd97474834e061404b992c8397d4ccc4439a71,Web APIs
 web/api/svglength/valueasstring,be1922d62a0d31e4e3441db0e943aed8df736481,Web APIs
 web/api/svglength/valueinspecifiedunits,59c2a6eb9c36970aaef347707c8dcf6fbcc14499,Web APIs
@@ -9621,7 +9621,7 @@ web/api/webgltexture,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
 web/api/webgltransformfeedback,56f3d7018159127dbe92842413fb45d0aa7e8193,Web APIs
 web/api/webgluniformlocation,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,Web APIs
 web/api/webglvertexarrayobject,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
-web/api/webgpu_api,19b8981ede1bc5dad6e0eb7f5f7c2a0ee0c296f1,Web APIs
+web/api/webgpu_api,d1fd21c87a4917e56dab84fc0b1d321ebb22874e,Web APIs
 web/api/webhid_api,534e2c61fee576355e8a9b7036d9fa36056edb03,Web APIs
 web/api/webkitpoint,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/webotp_api,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
@@ -10585,7 +10585,7 @@ web/css/reference/at-rules/@counter-style/range,f0094356d3acb19475dde45508dfeac6
 web/css/reference/at-rules/@counter-style/speak-as,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@counter-style/suffix,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@counter-style/symbols,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
-web/css/reference/at-rules/@counter-style/system,61f27416f7cfa79bd102042eeb3e44fe629d9c95,CSS|At-rules
+web/css/reference/at-rules/@counter-style/system,07758d01509695fe45ccc3f7687f6597dc3d9e2a,CSS|At-rules
 web/css/reference/at-rules/@custom-media,6b0dc010f6c32a23b54aef95094cee9ec0e1b7b5,CSS|At-rules
 web/css/reference/at-rules/@document,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|At-rules
 web/css/reference/at-rules/@font-face,916eb95f63de092d96ed1b1b13f3e2261739a8e2,CSS|At-rules
@@ -10970,7 +10970,7 @@ web/css/reference/properties/interest-delay-start,071fd0613b1b5728d2d83845ea1151
 web/css/reference/properties/interpolate-size,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/isolation,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/justify-content,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/justify-items,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/justify-items,07758d01509695fe45ccc3f7687f6597dc3d9e2a,CSS|Properties
 web/css/reference/properties/justify-self,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/letter-spacing,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
@@ -12990,7 +12990,7 @@ web/javascript/reference/global_objects/regexp/regexp,544b843570cb08d1474cfc5ec0
 web/javascript/reference/global_objects/regexp/rightcontext,ca6052779ddca9f6d99665f12c39aa2d85d85733,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/source,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/sticky,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
-web/javascript/reference/global_objects/regexp/symbol.match,5b3aa7e4e8cd54f1b662534d8c97074e522b7fc4,JavaScript|Global Objects
+web/javascript/reference/global_objects/regexp/symbol.match,07758d01509695fe45ccc3f7687f6597dc3d9e2a,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/symbol.matchall,5b3aa7e4e8cd54f1b662534d8c97074e522b7fc4,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/symbol.replace,5b3aa7e4e8cd54f1b662534d8c97074e522b7fc4,JavaScript|Global Objects
 web/javascript/reference/global_objects/regexp/symbol.search,5b3aa7e4e8cd54f1b662534d8c97074e522b7fc4,JavaScript|Global Objects
@@ -13049,7 +13049,7 @@ web/javascript/reference/global_objects/string/indexof,544b843570cb08d1474cfc5ec
 web/javascript/reference/global_objects/string/iswellformed,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/string/italics,ca6052779ddca9f6d99665f12c39aa2d85d85733,JavaScript|Global Objects
 web/javascript/reference/global_objects/string/lastindexof,b0426436f128938c9ee8e26dfa17f0a2bebdf70d,JavaScript|Global Objects
-web/javascript/reference/global_objects/string/length,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/string/length,b052ff8270b38fccd3996df52dbe800f9c39f374,JavaScript|Global Objects
 web/javascript/reference/global_objects/string/link,ca6052779ddca9f6d99665f12c39aa2d85d85733,JavaScript|Global Objects
 web/javascript/reference/global_objects/string/localecompare,e7bc0ed5466f5834641d75d416fa81886cf6b37e,JavaScript|Global Objects
 web/javascript/reference/global_objects/string/match,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
