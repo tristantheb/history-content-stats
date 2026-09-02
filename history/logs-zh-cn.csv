@@ -2668,6 +2668,7 @@ web/api/element/role,0b9c68dc63f9c6803cced8d9a76c31012d87b530
 web/api/element/scroll,no_hash_commit
 web/api/element/scroll_event,no_hash_commit
 web/api/element/scrollby,afcdfa050626bb7eb05ee693df8997020db9ff2e
+web/api/element/scrollend_event,a7265fc3effa7c25b9997135104370c057a65293
 web/api/element/scrollheight,no_hash_commit
 web/api/element/scrollintoview,e4ac7f209c4066e17b645535d9b6f726aae01b63
 web/api/element/scrollintoviewifneeded,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
@@ -3907,7 +3908,7 @@ web/api/performanceentry/entrytype,no_hash_commit
 web/api/performanceentry,no_hash_commit
 web/api/performanceentry/name,no_hash_commit
 web/api/performanceeventtiming,no_hash_commit
-web/api/performancelongtasktiming,no_hash_commit
+web/api/performancelongtasktiming,c9b973e5cf1f5d5b282eb4eb49cddcc044ce7e2b
 web/api/performancenavigation,no_hash_commit
 web/api/performancenavigationtiming,no_hash_commit
 web/api/performanceobserver/disconnect,no_hash_commit

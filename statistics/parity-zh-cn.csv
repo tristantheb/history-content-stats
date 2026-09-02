@@ -3978,7 +3978,7 @@ web/api/element/role,0
 web/api/element/scroll,null
 web/api/element/scroll_event,null
 web/api/element/scrollby,0
-web/api/element/scrollend_event,null
+web/api/element/scrollend_event,0
 web/api/element/scrollheight,null
 web/api/element/scrollintoview,3
 web/api/element/scrollintoviewifneeded,1
@@ -5545,7 +5545,7 @@ web/api/idbkeyrange/only_static,null
 web/api/idbkeyrange/upper,null
 web/api/idbkeyrange/upperbound_static,null
 web/api/idbkeyrange/upperopen,null
-web/api/idbobjectstore,3
+web/api/idbobjectstore,4
 web/api/idbobjectstore/add,null
 web/api/idbobjectstore/autoincrement,null
 web/api/idbobjectstore/clear,null
@@ -6298,7 +6298,7 @@ web/api/navigationtransition/finished,2
 web/api/navigationtransition/from,2
 web/api/navigationtransition/navigationtype,2
 web/api/navigationtransition/to,null
-web/api/navigator,1
+web/api/navigator,2
 web/api/navigator/activevrdisplays,4
 web/api/navigator/appcodename,3
 web/api/navigator/appname,3
@@ -6736,7 +6736,7 @@ web/api/performancelonganimationframetiming/renderstart,null
 web/api/performancelonganimationframetiming/scripts,null
 web/api/performancelonganimationframetiming/styleandlayoutstart,null
 web/api/performancelonganimationframetiming/tojson,null
-web/api/performancelongtasktiming,null
+web/api/performancelongtasktiming,0
 web/api/performancelongtasktiming/attribution,null
 web/api/performancelongtasktiming/tojson,null
 web/api/performancemark,null
