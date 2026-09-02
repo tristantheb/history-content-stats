@@ -399,6 +399,7 @@ glossary/media,1
 glossary/media/audio-visual_presentation,2
 glossary/media/css,6
 glossary/media_query,3
+glossary/memoization,null
 glossary/metadata,2
 glossary/method,3
 glossary/microsoft_edge,8
@@ -1075,11 +1076,11 @@ mdn/writing_guidelines/page_structures,1
 mdn/writing_guidelines/page_structures/banners_and_notices,null
 mdn/writing_guidelines/page_structures/code_examples,null
 mdn/writing_guidelines/page_structures/compatibility_tables,null
-mdn/writing_guidelines/page_structures/feature_status,13
+mdn/writing_guidelines/page_structures/feature_status,14
 mdn/writing_guidelines/page_structures/links,null
 mdn/writing_guidelines/page_structures/live_samples,null
 mdn/writing_guidelines/page_structures/macros,null
-mdn/writing_guidelines/page_structures/macros/commonly_used_macros,3
+mdn/writing_guidelines/page_structures/macros/commonly_used_macros,4
 mdn/writing_guidelines/page_structures/macros/other,2
 mdn/writing_guidelines/page_structures/page_types,null
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,null
@@ -1377,7 +1378,7 @@ mozilla/add-ons/webextensions/api/extension/isallowedincognitoaccess,1
 mozilla/add-ons/webextensions/api/extension/lasterror,2
 mozilla/add-ons/webextensions/api/extension/onrequest,3
 mozilla/add-ons/webextensions/api/extension/onrequestexternal,3
-mozilla/add-ons/webextensions/api/extension/sendrequest,3
+mozilla/add-ons/webextensions/api/extension/sendrequest,4
 mozilla/add-ons/webextensions/api/extension/setupdateurldata,2
 mozilla/add-ons/webextensions/api/extension/viewtype,2
 mozilla/add-ons/webextensions/api/extensiontypes,2
@@ -3054,7 +3055,7 @@ web/api/css/registerproperty_static,null
 web/api/css/supports_static,null
 web/api/css_custom_highlight_api,null
 web/api/css_font_loading_api,null
-web/api/css_object_model,6
+web/api/css_object_model,7
 web/api/css_object_model/css_declaration,0
 web/api/css_object_model/css_declaration_block,0
 web/api/css_object_model/css_value_serialization,null
@@ -4642,7 +4643,7 @@ web/api/gpuvalidationerror/gpuvalidationerror,null
 web/api/gravitysensor,null
 web/api/gravitysensor/gravitysensor,null
 web/api/gyroscope,1
-web/api/gyroscope/gyroscope,2
+web/api/gyroscope/gyroscope,3
 web/api/gyroscope/x,0
 web/api/gyroscope/y,1
 web/api/gyroscope/z,0
@@ -5696,7 +5697,7 @@ web/api/interactioncontentfulpaint/tojson,null
 web/api/interestevent,null
 web/api/interestevent/interestevent,null
 web/api/interestevent/source,null
-web/api/intersection_observer_api,0
+web/api/intersection_observer_api,1
 web/api/intersection_observer_api/timing_element_visibility,null
 web/api/intersectionobserver,null
 web/api/intersectionobserver/delay,null
@@ -12432,7 +12433,7 @@ web/javascript/reference/global_objects/array/fill,null
 web/javascript/reference/global_objects/array/filter,null
 web/javascript/reference/global_objects/array/find,null
 web/javascript/reference/global_objects/array/findindex,null
-web/javascript/reference/global_objects/array/findlast,0
+web/javascript/reference/global_objects/array/findlast,1
 web/javascript/reference/global_objects/array/findlastindex,null
 web/javascript/reference/global_objects/array/flat,null
 web/javascript/reference/global_objects/array/flatmap,null
@@ -13570,7 +13571,7 @@ web/mathml,11
 web/mathml/guides,null
 web/mathml/guides/authoring,8
 web/mathml/guides/deriving_the_quadratic_formula,null
-web/mathml/guides/fonts,5
+web/mathml/guides/fonts,6
 web/mathml/guides/proving_the_pythagorean_theorem,1
 web/mathml/reference,0
 web/mathml/reference/attribute,2
@@ -13616,7 +13617,7 @@ web/mathml/reference/global_attributes/mathbackground,3
 web/mathml/reference/global_attributes/mathcolor,5
 web/mathml/reference/global_attributes/mathsize,4
 web/mathml/reference/global_attributes/scriptlevel,6
-web/mathml/reference/values,4
+web/mathml/reference/values,5
 web/mathml/tutorials,0
 web/mathml/tutorials/for_beginners,null
 web/mathml/tutorials/for_beginners/fractions_and_roots,null

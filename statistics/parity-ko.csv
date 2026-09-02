@@ -399,6 +399,7 @@ glossary/media,1
 glossary/media/audio-visual_presentation,2
 glossary/media/css,6
 glossary/media_query,null
+glossary/memoization,null
 glossary/metadata,2
 glossary/method,3
 glossary/microsoft_edge,8
@@ -1072,7 +1073,7 @@ mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_w
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,null
 mdn/writing_guidelines/learning_content,null
 mdn/writing_guidelines/page_structures,4
-mdn/writing_guidelines/page_structures/banners_and_notices,13
+mdn/writing_guidelines/page_structures/banners_and_notices,14
 mdn/writing_guidelines/page_structures/code_examples,null
 mdn/writing_guidelines/page_structures/compatibility_tables,null
 mdn/writing_guidelines/page_structures/feature_status,null
@@ -5696,7 +5697,7 @@ web/api/interactioncontentfulpaint/tojson,null
 web/api/interestevent,null
 web/api/interestevent/interestevent,null
 web/api/interestevent/source,null
-web/api/intersection_observer_api,25
+web/api/intersection_observer_api,26
 web/api/intersection_observer_api/timing_element_visibility,null
 web/api/intersectionobserver,null
 web/api/intersectionobserver/delay,null
@@ -11686,7 +11687,7 @@ web/html/reference/elements/dd,4
 web/html/reference/elements/del,null
 web/html/reference/elements/details,8
 web/html/reference/elements/dfn,null
-web/html/reference/elements/dialog,16
+web/html/reference/elements/dialog,17
 web/html/reference/elements/dir,null
 web/html/reference/elements/div,6
 web/html/reference/elements/dl,5
@@ -12413,7 +12414,7 @@ web/javascript/reference/functions/arguments/length,null
 web/javascript/reference/functions/arguments/symbol.iterator,null
 web/javascript/reference/functions/arrow_functions,15
 web/javascript/reference/functions/default_parameters,8
-web/javascript/reference/functions/get,13
+web/javascript/reference/functions/get,14
 web/javascript/reference/functions/method_definitions,null
 web/javascript/reference/functions/rest_parameters,null
 web/javascript/reference/functions/set,null
@@ -12429,11 +12430,11 @@ web/javascript/reference/global_objects/array/copywithin,7
 web/javascript/reference/global_objects/array/entries,9
 web/javascript/reference/global_objects/array/every,12
 web/javascript/reference/global_objects/array/fill,10
-web/javascript/reference/global_objects/array/filter,8
-web/javascript/reference/global_objects/array/find,9
-web/javascript/reference/global_objects/array/findindex,9
-web/javascript/reference/global_objects/array/findlast,10
-web/javascript/reference/global_objects/array/findlastindex,7
+web/javascript/reference/global_objects/array/filter,9
+web/javascript/reference/global_objects/array/find,10
+web/javascript/reference/global_objects/array/findindex,10
+web/javascript/reference/global_objects/array/findlast,11
+web/javascript/reference/global_objects/array/findlastindex,8
 web/javascript/reference/global_objects/array/flat,7
 web/javascript/reference/global_objects/array/flatmap,10
 web/javascript/reference/global_objects/array/foreach,13
@@ -13365,10 +13366,10 @@ web/javascript/reference/global_objects/typedarray/entries,13
 web/javascript/reference/global_objects/typedarray/every,13
 web/javascript/reference/global_objects/typedarray/fill,null
 web/javascript/reference/global_objects/typedarray/filter,4
-web/javascript/reference/global_objects/typedarray/find,6
-web/javascript/reference/global_objects/typedarray/findindex,6
-web/javascript/reference/global_objects/typedarray/findlast,9
-web/javascript/reference/global_objects/typedarray/findlastindex,5
+web/javascript/reference/global_objects/typedarray/find,7
+web/javascript/reference/global_objects/typedarray/findindex,7
+web/javascript/reference/global_objects/typedarray/findlast,10
+web/javascript/reference/global_objects/typedarray/findlastindex,6
 web/javascript/reference/global_objects/typedarray/foreach,10
 web/javascript/reference/global_objects/typedarray/from,3
 web/javascript/reference/global_objects/typedarray/includes,null

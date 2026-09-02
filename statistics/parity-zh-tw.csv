@@ -399,6 +399,7 @@ glossary/media,null
 glossary/media/audio-visual_presentation,null
 glossary/media/css,null
 glossary/media_query,null
+glossary/memoization,null
 glossary/metadata,null
 glossary/method,null
 glossary/microsoft_edge,null
@@ -1072,7 +1073,7 @@ mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_w
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,null
 mdn/writing_guidelines/learning_content,null
 mdn/writing_guidelines/page_structures,0
-mdn/writing_guidelines/page_structures/banners_and_notices,5
+mdn/writing_guidelines/page_structures/banners_and_notices,6
 mdn/writing_guidelines/page_structures/code_examples,null
 mdn/writing_guidelines/page_structures/compatibility_tables,null
 mdn/writing_guidelines/page_structures/feature_status,null
@@ -1082,8 +1083,8 @@ mdn/writing_guidelines/page_structures/macros,null
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,null
 mdn/writing_guidelines/page_structures/macros/other,null
 mdn/writing_guidelines/page_structures/page_types,null
-mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,2
-mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,3
+mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,3
+mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,4
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,null
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,null
 mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,null
@@ -12429,8 +12430,8 @@ web/javascript/reference/global_objects/array/copywithin,1
 web/javascript/reference/global_objects/array/entries,1
 web/javascript/reference/global_objects/array/every,null
 web/javascript/reference/global_objects/array/fill,1
-web/javascript/reference/global_objects/array/filter,1
-web/javascript/reference/global_objects/array/find,1
+web/javascript/reference/global_objects/array/filter,2
+web/javascript/reference/global_objects/array/find,2
 web/javascript/reference/global_objects/array/findindex,null
 web/javascript/reference/global_objects/array/findlast,null
 web/javascript/reference/global_objects/array/findlastindex,null
