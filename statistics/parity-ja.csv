@@ -14334,7 +14334,7 @@ webassembly/guides/exported_functions,1
 webassembly/guides/imported_string_constants,null
 webassembly/guides/javascript_builtins,null
 webassembly/guides/loading_and_running,0
-webassembly/guides/rust_to_wasm,4
+webassembly/guides/rust_to_wasm,5
 webassembly/guides/text_format_to_wasm,0
 webassembly/guides/understanding_the_text_format,4
 webassembly/guides/using_the_javascript_api,2
