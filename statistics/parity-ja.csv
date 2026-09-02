@@ -2230,7 +2230,7 @@ web/accessibility/aria/reference/roles/textbox_role,9
 web/accessibility/aria/reference/roles/timer_role,4
 web/accessibility/aria/reference/roles/toolbar_role,0
 web/accessibility/aria/reference/roles/tooltip_role,6
-web/accessibility/aria/reference/roles/tree_role,1
+web/accessibility/aria/reference/roles/tree_role,2
 web/accessibility/aria/reference/roles/treegrid_role,2
 web/accessibility/aria/reference/roles/treeitem_role,0
 web/accessibility/aria/reference/roles/widget_role,0
@@ -5013,7 +5013,7 @@ web/api/htmliframeelement/width,0
 web/api/htmlimageelement,8
 web/api/htmlimageelement/align,3
 web/api/htmlimageelement/alt,6
-web/api/htmlimageelement/attributionsrc,7
+web/api/htmlimageelement/attributionsrc,8
 web/api/htmlimageelement/border,3
 web/api/htmlimageelement/complete,3
 web/api/htmlimageelement/crossorigin,5
@@ -5030,11 +5030,11 @@ web/api/htmlimageelement/longdesc,5
 web/api/htmlimageelement/name,5
 web/api/htmlimageelement/naturalheight,3
 web/api/htmlimageelement/naturalwidth,2
-web/api/htmlimageelement/referrerpolicy,3
+web/api/htmlimageelement/referrerpolicy,4
 web/api/htmlimageelement/sizes,0
 web/api/htmlimageelement/src,3
 web/api/htmlimageelement/srcset,2
-web/api/htmlimageelement/usemap,8
+web/api/htmlimageelement/usemap,9
 web/api/htmlimageelement/vspace,3
 web/api/htmlimageelement/width,3
 web/api/htmlimageelement/x,8
@@ -5545,7 +5545,7 @@ web/api/idbkeyrange/only_static,0
 web/api/idbkeyrange/upper,0
 web/api/idbkeyrange/upperbound_static,0
 web/api/idbkeyrange/upperopen,0
-web/api/idbobjectstore,8
+web/api/idbobjectstore,9
 web/api/idbobjectstore/add,2
 web/api/idbobjectstore/autoincrement,2
 web/api/idbobjectstore/clear,3
@@ -6298,7 +6298,7 @@ web/api/navigationtransition/finished,null
 web/api/navigationtransition/from,null
 web/api/navigationtransition/navigationtype,null
 web/api/navigationtransition/to,null
-web/api/navigator,12
+web/api/navigator,13
 web/api/navigator/activevrdisplays,5
 web/api/navigator/appcodename,3
 web/api/navigator/appname,3
@@ -8230,7 +8230,7 @@ web/api/svgcircleelement/cx,0
 web/api/svgcircleelement/cy,0
 web/api/svgcircleelement/r,0
 web/api/svgclippathelement,1
-web/api/svgclippathelement/clippathunits,0
+web/api/svgclippathelement/clippathunits,1
 web/api/svgclippathelement/transform,0
 web/api/svgcomponenttransferfunctionelement,null
 web/api/svgcomponenttransferfunctionelement/amplitude,null
@@ -8499,7 +8499,7 @@ web/api/svgimageelement/y,null
 web/api/svglength,3
 web/api/svglength/converttospecifiedunits,0
 web/api/svglength/newvaluespecifiedunits,1
-web/api/svglength/unittype,0
+web/api/svglength/unittype,1
 web/api/svglength/value,1
 web/api/svglength/valueasstring,2
 web/api/svglength/valueinspecifiedunits,0
@@ -9621,7 +9621,7 @@ web/api/webgltexture,null
 web/api/webgltransformfeedback,null
 web/api/webgluniformlocation,null
 web/api/webglvertexarrayobject,null
-web/api/webgpu_api,0
+web/api/webgpu_api,1
 web/api/webhid_api,5
 web/api/webkitpoint,null
 web/api/webotp_api,0
@@ -10585,7 +10585,7 @@ web/css/reference/at-rules/@counter-style/range,1
 web/css/reference/at-rules/@counter-style/speak-as,1
 web/css/reference/at-rules/@counter-style/suffix,1
 web/css/reference/at-rules/@counter-style/symbols,1
-web/css/reference/at-rules/@counter-style/system,2
+web/css/reference/at-rules/@counter-style/system,3
 web/css/reference/at-rules/@custom-media,0
 web/css/reference/at-rules/@document,0
 web/css/reference/at-rules/@font-face,4
@@ -10970,7 +10970,7 @@ web/css/reference/properties/interest-delay-start,2
 web/css/reference/properties/interpolate-size,2
 web/css/reference/properties/isolation,2
 web/css/reference/properties/justify-content,2
-web/css/reference/properties/justify-items,1
+web/css/reference/properties/justify-items,2
 web/css/reference/properties/justify-self,1
 web/css/reference/properties/left,1
 web/css/reference/properties/letter-spacing,5
@@ -12990,7 +12990,7 @@ web/javascript/reference/global_objects/regexp/regexp,0
 web/javascript/reference/global_objects/regexp/rightcontext,1
 web/javascript/reference/global_objects/regexp/source,0
 web/javascript/reference/global_objects/regexp/sticky,0
-web/javascript/reference/global_objects/regexp/symbol.match,1
+web/javascript/reference/global_objects/regexp/symbol.match,2
 web/javascript/reference/global_objects/regexp/symbol.matchall,1
 web/javascript/reference/global_objects/regexp/symbol.replace,1
 web/javascript/reference/global_objects/regexp/symbol.search,1
@@ -13049,7 +13049,7 @@ web/javascript/reference/global_objects/string/indexof,0
 web/javascript/reference/global_objects/string/iswellformed,0
 web/javascript/reference/global_objects/string/italics,1
 web/javascript/reference/global_objects/string/lastindexof,1
-web/javascript/reference/global_objects/string/length,0
+web/javascript/reference/global_objects/string/length,1
 web/javascript/reference/global_objects/string/link,1
 web/javascript/reference/global_objects/string/localecompare,1
 web/javascript/reference/global_objects/string/match,0
