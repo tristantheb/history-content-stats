@@ -788,7 +788,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,13
 learn_web_development/core/structuring_content/headings_and_paragraphs,null
 learn_web_development/core/structuring_content/html_forms,null
 learn_web_development/core/structuring_content/html_images,18
-learn_web_development/core/structuring_content/html_table_basics,15
+learn_web_development/core/structuring_content/html_table_basics,16
 learn_web_development/core/structuring_content/html_video_and_audio,null
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,12
 learn_web_development/core/structuring_content/lists,null
@@ -2920,7 +2920,7 @@ web/api/compositionevent/compositionevent,null
 web/api/compositionevent/data,null
 web/api/compositionevent/initcompositionevent,null
 web/api/compositionevent/locale,null
-web/api/compression_streams_api,2
+web/api/compression_streams_api,3
 web/api/compressionstream,null
 web/api/compressionstream/compressionstream,null
 web/api/compressionstream/readable,null
@@ -9748,7 +9748,7 @@ web/api/wheelevent/deltax,null
 web/api/wheelevent/deltay,null
 web/api/wheelevent/deltaz,null
 web/api/wheelevent/wheelevent,null
-web/api/window,76
+web/api/window,77
 web/api/window/afterprint_event,null
 web/api/window/alert,null
 web/api/window/appinstalled_event,null
@@ -9862,8 +9862,8 @@ web/api/window/scheduler,0
 web/api/window/screen,null
 web/api/window/screenleft,null
 web/api/window/screentop,null
-web/api/window/screenx,1
-web/api/window/screeny,1
+web/api/window/screenx,2
+web/api/window/screeny,2
 web/api/window/scroll,null
 web/api/window/scrollbars,null
 web/api/window/scrollby,null
@@ -12431,7 +12431,7 @@ web/javascript/reference/global_objects/array/every,12
 web/javascript/reference/global_objects/array/fill,10
 web/javascript/reference/global_objects/array/filter,8
 web/javascript/reference/global_objects/array/find,9
-web/javascript/reference/global_objects/array/findindex,8
+web/javascript/reference/global_objects/array/findindex,9
 web/javascript/reference/global_objects/array/findlast,10
 web/javascript/reference/global_objects/array/findlastindex,7
 web/javascript/reference/global_objects/array/flat,7
@@ -12920,12 +12920,12 @@ web/javascript/reference/global_objects/object/valueof,null
 web/javascript/reference/global_objects/object/values,null
 web/javascript/reference/global_objects/parsefloat,null
 web/javascript/reference/global_objects/parseint,null
-web/javascript/reference/global_objects/promise,34
+web/javascript/reference/global_objects/promise,35
 web/javascript/reference/global_objects/promise/all,null
 web/javascript/reference/global_objects/promise/allkeyed,null
 web/javascript/reference/global_objects/promise/allsettled,null
 web/javascript/reference/global_objects/promise/allsettledkeyed,null
-web/javascript/reference/global_objects/promise/any,8
+web/javascript/reference/global_objects/promise/any,9
 web/javascript/reference/global_objects/promise/catch,6
 web/javascript/reference/global_objects/promise/finally,11
 web/javascript/reference/global_objects/promise/promise,null
@@ -13673,7 +13673,7 @@ web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,4
 web/privacy/guides/privacy_sandbox,null
 web/privacy/guides/redirect_tracking_protection,null
-web/privacy/guides/referer_header_colon__privacy_and_security_concerns,1
+web/privacy/guides/referer_header_colon__privacy_and_security_concerns,2
 web/privacy/guides/state_partitioning,null
 web/privacy/guides/storage_access_policy,null
 web/privacy/guides/storage_access_policy/errors,null

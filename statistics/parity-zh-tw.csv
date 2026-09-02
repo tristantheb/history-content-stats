@@ -638,7 +638,7 @@ glossary/turn,null
 glossary/type,null
 glossary/type_coercion,null
 glossary/type_conversion,null
-glossary/typescript,0
+glossary/typescript,1
 glossary/uaag,null
 glossary/udp,null
 glossary/ui,null
@@ -4968,7 +4968,7 @@ web/api/htmlformelement/requestsubmit,null
 web/api/htmlformelement/reset,null
 web/api/htmlformelement/reset_event,null
 web/api/htmlformelement/submit,null
-web/api/htmlformelement/submit_event,1
+web/api/htmlformelement/submit_event,2
 web/api/htmlformelement/target,null
 web/api/htmlframesetelement,null
 web/api/htmlgeolocationelement,null
