@@ -4705,6 +4705,7 @@ web/css/reference/properties/column-count,bcbb4bd6a80292c0663b723d5466759cfaaa83
 web/css/reference/properties/column-fill,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9
 web/css/reference/properties/column-gap,53745a2089268ce62bf79695d7d347bcbd0abe57
 web/css/reference/properties/column-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/column-rule-break,1474534461893381d54c502e655f334b5568e597
 web/css/reference/properties/column-rule-color,b6de98eb9cd52ce7e37f22a340352f0af4c9d597
 web/css/reference/properties/column-rule-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83
 web/css/reference/properties/column-rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a
@@ -4970,6 +4971,7 @@ web/css/reference/properties/resize,c0c85c3dc0d6ff4247c85b0144149e584d74b625
 web/css/reference/properties/right,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/rotate,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/row-gap,53745a2089268ce62bf79695d7d347bcbd0abe57
+web/css/reference/properties/row-rule-break,1474534461893381d54c502e655f334b5568e597
 web/css/reference/properties/row-rule-color,9cf3002bd29376c15d49df6fab2e6a264285abf6
 web/css/reference/properties/row-rule-style,a9dc3374034d357cbfea717fd5d641605359e3c7
 web/css/reference/properties/row-rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a
@@ -4978,6 +4980,7 @@ web/css/reference/properties/row-rule,c655f38c10ba17b853b0e66b43cf4cf2b176e424
 web/css/reference/properties/ruby-align,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/ruby-overhang,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb615067a
+web/css/reference/properties/rule-break,5381238460a48ff323a93e652d15cb62598f0262
 web/css/reference/properties/rule-color,343ab51426f9279175b8f71fff911621d0a7da20
 web/css/reference/properties/rule-style,343ab51426f9279175b8f71fff911621d0a7da20
 web/css/reference/properties/rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a
