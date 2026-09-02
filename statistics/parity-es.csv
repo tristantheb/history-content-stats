@@ -923,7 +923,7 @@ learn_web_development/extensions/server-side/django/home_page,null
 learn_web_development/extensions/server-side/django/introduction,null
 learn_web_development/extensions/server-side/django/models,null
 learn_web_development/extensions/server-side/django/sessions,null
-learn_web_development/extensions/server-side/django/skeleton_website,0
+learn_web_development/extensions/server-side/django/skeleton_website,1
 learn_web_development/extensions/server-side/django/testing,null
 learn_web_development/extensions/server-side/django/tutorial_local_library_website,null
 learn_web_development/extensions/server-side/django/web_application_security,null
@@ -2920,7 +2920,7 @@ web/api/compositionevent/compositionevent,null
 web/api/compositionevent/data,null
 web/api/compositionevent/initcompositionevent,null
 web/api/compositionevent/locale,null
-web/api/compression_streams_api,1
+web/api/compression_streams_api,2
 web/api/compressionstream,1
 web/api/compressionstream/compressionstream,4
 web/api/compressionstream/readable,1

@@ -638,7 +638,7 @@ glossary/turn,1
 glossary/type,2
 glossary/type_coercion,1
 glossary/type_conversion,1
-glossary/typescript,1
+glossary/typescript,2
 glossary/uaag,1
 glossary/udp,2
 glossary/ui,1
@@ -1917,7 +1917,7 @@ mozilla/firefox/releases/122,10
 mozilla/firefox/releases/123,9
 mozilla/firefox/releases/124,7
 mozilla/firefox/releases/125,20
-mozilla/firefox/releases/126,13
+mozilla/firefox/releases/126,14
 mozilla/firefox/releases/127,17
 mozilla/firefox/releases/128,null
 mozilla/firefox/releases/129,null
@@ -1988,7 +1988,7 @@ mozilla/firefox/releases/3/svg_improvements,null
 mozilla/firefox/releases/3/templates,1
 mozilla/firefox/releases/3/updating_extensions,null
 mozilla/firefox/releases/3/updating_web_applications,null
-mozilla/firefox/releases/3/using_an_external_spell_checker,0
+mozilla/firefox/releases/3/using_an_external_spell_checker,1
 mozilla/firefox/releases/3/wai_aria_live_regions_api_support,null
 mozilla/firefox/releases/3/xul_improvements_in_firefox_3,null
 mozilla/firefox/releases/30,null
@@ -2100,7 +2100,7 @@ web/accessibility/aria/reference/attributes/aria-autocomplete,4
 web/accessibility/aria/reference/attributes/aria-braillelabel,2
 web/accessibility/aria/reference/attributes/aria-brailleroledescription,3
 web/accessibility/aria/reference/attributes/aria-busy,4
-web/accessibility/aria/reference/attributes/aria-checked,3
+web/accessibility/aria/reference/attributes/aria-checked,4
 web/accessibility/aria/reference/attributes/aria-colcount,2
 web/accessibility/aria/reference/attributes/aria-colindex,2
 web/accessibility/aria/reference/attributes/aria-colindextext,2
@@ -2259,11 +2259,11 @@ web/api/abortcontroller,4
 web/api/abortcontroller/abort,4
 web/api/abortcontroller/abortcontroller,4
 web/api/abortcontroller/signal,4
-web/api/abortsignal,5
+web/api/abortsignal,6
 web/api/abortsignal/abort_event,null
 web/api/abortsignal/abort_static,null
 web/api/abortsignal/aborted,null
-web/api/abortsignal/any_static,1
+web/api/abortsignal/any_static,2
 web/api/abortsignal/reason,null
 web/api/abortsignal/throwifaborted,null
 web/api/abortsignal/timeout_static,null
@@ -2657,7 +2657,7 @@ web/api/bluetoothremotegattcharacteristic/getdescriptor,0
 web/api/bluetoothremotegattcharacteristic/getdescriptors,0
 web/api/bluetoothremotegattcharacteristic/properties,0
 web/api/bluetoothremotegattcharacteristic/readvalue,0
-web/api/bluetoothremotegattcharacteristic/service,0
+web/api/bluetoothremotegattcharacteristic/service,1
 web/api/bluetoothremotegattcharacteristic/startnotifications,0
 web/api/bluetoothremotegattcharacteristic/stopnotifications,0
 web/api/bluetoothremotegattcharacteristic/uuid,0
@@ -6491,7 +6491,7 @@ web/api/notificationevent/action,1
 web/api/notificationevent/notification,0
 web/api/notificationevent/notificationevent,0
 web/api/notifications_api,2
-web/api/notifications_api/using_the_notifications_api,6
+web/api/notifications_api/using_the_notifications_api,7
 web/api/notrestoredreasondetails,null
 web/api/notrestoredreasondetails/reason,null
 web/api/notrestoredreasondetails/tojson,null
@@ -8142,7 +8142,7 @@ web/api/summarizer/summarizestreaming,null
 web/api/summarizer/type,null
 web/api/summarizer_api,3
 web/api/summarizer_api/using,null
-web/api/svg_api,1
+web/api/svg_api,2
 web/api/svgaelement,null
 web/api/svgaelement/download,null
 web/api/svgaelement/hash,null
@@ -9324,7 +9324,7 @@ web/api/web_authentication_api/attestation_and_assertion,null
 web/api/web_authentication_api/authenticator_data,null
 web/api/web_authentication_api/webauthn_extensions,null
 web/api/web_bluetooth_api,3
-web/api/web_components,1
+web/api/web_components,2
 web/api/web_components/using_custom_elements,null
 web/api/web_components/using_shadow_dom,9
 web/api/web_components/using_templates_and_slots,13
@@ -12329,7 +12329,7 @@ web/javascript/reference/errors/illegal_character,null
 web/javascript/reference/errors/import_decl_module_top_level,null
 web/javascript/reference/errors/in_operator_no_object,null
 web/javascript/reference/errors/invalid_array_length,null
-web/javascript/reference/errors/invalid_assignment_left-hand_side,3
+web/javascript/reference/errors/invalid_assignment_left-hand_side,4
 web/javascript/reference/errors/invalid_bigint_syntax,null
 web/javascript/reference/errors/invalid_const_assignment,null
 web/javascript/reference/errors/invalid_date,null
@@ -13527,7 +13527,7 @@ web/javascript/reference/regular_expressions/named_backreference,null
 web/javascript/reference/regular_expressions/named_capturing_group,null
 web/javascript/reference/regular_expressions/non-capturing_group,null
 web/javascript/reference/regular_expressions/quantifier,5
-web/javascript/reference/regular_expressions/unicode_character_class_escape,0
+web/javascript/reference/regular_expressions/unicode_character_class_escape,1
 web/javascript/reference/regular_expressions/wildcard,0
 web/javascript/reference/regular_expressions/word_boundary_assertion,0
 web/javascript/reference/statements,5
