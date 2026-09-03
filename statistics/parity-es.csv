@@ -3288,7 +3288,7 @@ web/api/cssstyledeclaration/setproperty,null
 web/api/cssstyleproperties,null
 web/api/cssstyleproperties/cssfloat,null
 web/api/cssstylerule,null
-web/api/cssstylerule/selectortext,null
+web/api/cssstylerule/selectortext,0
 web/api/cssstylerule/style,null
 web/api/cssstylerule/stylemap,null
 web/api/cssstylesheet,4
@@ -3297,7 +3297,7 @@ web/api/cssstylesheet/cssrules,null
 web/api/cssstylesheet/cssstylesheet,null
 web/api/cssstylesheet/deleterule,null
 web/api/cssstylesheet/insertrule,null
-web/api/cssstylesheet/ownerrule,null
+web/api/cssstylesheet/ownerrule,0
 web/api/cssstylesheet/removerule,null
 web/api/cssstylesheet/replace,null
 web/api/cssstylesheet/replacesync,null
