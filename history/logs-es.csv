@@ -665,11 +665,11 @@ web/api/cssrule/csstext,53b1989260054e651bcf001bacee9b843b8ca9c8
 web/api/cssrule,no_hash_commit
 web/api/cssstyledeclaration,no_hash_commit
 web/api/cssstylerule,no_hash_commit
-web/api/cssstylerule/selectortext,no_hash_commit
+web/api/cssstylerule/selectortext,53b1989260054e651bcf001bacee9b843b8ca9c8
 web/api/cssstylesheet/deleterule,no_hash_commit
 web/api/cssstylesheet,b280ea1234452ff553caa466bf532a66ba51db01
 web/api/cssstylesheet/insertrule,no_hash_commit
-web/api/cssstylesheet/ownerrule,no_hash_commit
+web/api/cssstylesheet/ownerrule,bc464c855fc2a3d967f1684b72e78b39c6d1ab50
 web/api/customelementregistry/define,no_hash_commit
 web/api/customelementregistry,6a298de5052a62331f16de1e82c25e025eefc76e
 web/api/customevent,no_hash_commit
