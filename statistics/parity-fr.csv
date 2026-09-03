@@ -2240,7 +2240,7 @@ web/accessibility/guides,0
 web/accessibility/guides/accessibility_and_spatial_patterns,0
 web/accessibility/guides/accessible_web_applications_and_widgets,0
 web/accessibility/guides/browsing_safely,0
-web/accessibility/guides/cognitive_accessibility,0
+web/accessibility/guides/cognitive_accessibility,1
 web/accessibility/guides/colors_and_luminance,0
 web/accessibility/guides/information_for_web_authors,0
 web/accessibility/guides/keyboard-navigable_javascript_widgets,0
@@ -2248,7 +2248,7 @@ web/accessibility/guides/mobile_accessibility_checklist,0
 web/accessibility/guides/seizure_disorders,0
 web/accessibility/guides/understanding_wcag,0
 web/accessibility/guides/understanding_wcag/keyboard,0
-web/accessibility/guides/understanding_wcag/operable,0
+web/accessibility/guides/understanding_wcag/operable,1
 web/accessibility/guides/understanding_wcag/perceivable,0
 web/accessibility/guides/understanding_wcag/perceivable/color_contrast,0
 web/accessibility/guides/understanding_wcag/perceivable/use_of_color,0
@@ -5306,7 +5306,7 @@ web/api/htmlscriptelement/referrerpolicy,0
 web/api/htmlscriptelement/src,0
 web/api/htmlscriptelement/supports_static,0
 web/api/htmlscriptelement/text,0
-web/api/htmlscriptelement/textcontent,0
+web/api/htmlscriptelement/textcontent,1
 web/api/htmlscriptelement/type,0
 web/api/htmlselectedcontentelement,0
 web/api/htmlselectelement,0
@@ -12439,7 +12439,7 @@ web/javascript/reference/global_objects/array/flat,0
 web/javascript/reference/global_objects/array/flatmap,0
 web/javascript/reference/global_objects/array/foreach,0
 web/javascript/reference/global_objects/array/from,0
-web/javascript/reference/global_objects/array/fromasync,0
+web/javascript/reference/global_objects/array/fromasync,1
 web/javascript/reference/global_objects/array/includes,0
 web/javascript/reference/global_objects/array/indexof,0
 web/javascript/reference/global_objects/array/isarray,0
@@ -12639,7 +12639,7 @@ web/javascript/reference/global_objects/error/stack,0
 web/javascript/reference/global_objects/error/stacktracelimit,0
 web/javascript/reference/global_objects/error/tostring,0
 web/javascript/reference/global_objects/escape,1
-web/javascript/reference/global_objects/eval,0
+web/javascript/reference/global_objects/eval,1
 web/javascript/reference/global_objects/evalerror,0
 web/javascript/reference/global_objects/evalerror/evalerror,0
 web/javascript/reference/global_objects/finalizationregistry,0
@@ -12659,7 +12659,7 @@ web/javascript/reference/global_objects/function/bind,0
 web/javascript/reference/global_objects/function/call,0
 web/javascript/reference/global_objects/function/caller,2
 web/javascript/reference/global_objects/function/displayname,0
-web/javascript/reference/global_objects/function/function,0
+web/javascript/reference/global_objects/function/function,1
 web/javascript/reference/global_objects/function/length,0
 web/javascript/reference/global_objects/function/name,0
 web/javascript/reference/global_objects/function/prototype,0
@@ -13432,7 +13432,7 @@ web/javascript/reference/global_objects/weakset/add,null
 web/javascript/reference/global_objects/weakset/delete,null
 web/javascript/reference/global_objects/weakset/has,null
 web/javascript/reference/global_objects/weakset/weakset,null
-web/javascript/reference/iteration_protocols,0
+web/javascript/reference/iteration_protocols,1
 web/javascript/reference/javascript_technologies_overview,null
 web/javascript/reference/lexical_grammar,null
 web/javascript/reference/operators,null
