@@ -866,7 +866,7 @@ learn_web_development/extensions/async_js/sequencing_animations,null
 learn_web_development/extensions/client-side_apis,null
 learn_web_development/extensions/client-side_apis/client-side_storage,null
 learn_web_development/extensions/client-side_apis/drawing_graphics,null
-learn_web_development/extensions/client-side_apis/introduction,null
+learn_web_development/extensions/client-side_apis/introduction,0
 learn_web_development/extensions/client-side_apis/third_party_apis,null
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,null
 learn_web_development/extensions/client-side_tools,null
@@ -1026,7 +1026,7 @@ learn_web_development/howto/web_mechanics/file_browser_bugs,null
 learn_web_development/howto/web_mechanics/how_does_the_internet_work,0
 learn_web_development/howto/web_mechanics/what_are_hyperlinks,null
 learn_web_development/howto/web_mechanics/what_is_a_domain_name,0
-learn_web_development/howto/web_mechanics/what_is_a_url,null
+learn_web_development/howto/web_mechanics/what_is_a_url,0
 learn_web_development/howto/web_mechanics/what_is_a_web_server,0
 mdn,null
 mdn/community,null

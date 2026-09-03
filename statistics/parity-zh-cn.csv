@@ -875,7 +875,7 @@ learn_web_development/extensions/client-side_tools/introducing_complete_toolchai
 learn_web_development/extensions/client-side_tools/overview,null
 learn_web_development/extensions/client-side_tools/package_management,null
 learn_web_development/extensions/forms,8
-learn_web_development/extensions/forms/advanced_form_styling,15
+learn_web_development/extensions/forms/advanced_form_styling,16
 learn_web_development/extensions/forms/basic_native_form_controls,null
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
@@ -893,7 +893,7 @@ learn_web_development/extensions/forms/html_forms_in_legacy_browsers,null
 learn_web_development/extensions/forms/other_form_controls,null
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,null
 learn_web_development/extensions/forms/sending_forms_through_javascript,4
-learn_web_development/extensions/forms/styling_web_forms,20
+learn_web_development/extensions/forms/styling_web_forms,21
 learn_web_development/extensions/forms/ui_pseudo-classes,null
 learn_web_development/extensions/forms/user_input_methods,null
 learn_web_development/extensions/forms/your_first_form,null
@@ -2736,7 +2736,7 @@ web/api/canvas_api/tutorial/basic_animations,null
 web/api/canvas_api/tutorial/basic_usage,null
 web/api/canvas_api/tutorial/compositing,null
 web/api/canvas_api/tutorial/drawing_shapes,null
-web/api/canvas_api/tutorial/drawing_text,2
+web/api/canvas_api/tutorial/drawing_text,3
 web/api/canvas_api/tutorial/finale,null
 web/api/canvas_api/tutorial/optimizing_canvas,null
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,null
