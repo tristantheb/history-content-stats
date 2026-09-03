@@ -902,7 +902,7 @@ learn_web_development/extensions/performance/best_practices,8db892b3e7ca29462189
 learn_web_development/extensions/performance/business_case_for_performance,f85d2e26b062decf7a2bb9179c3a93003f4067a9,Learn|Extensions
 learn_web_development/extensions/performance/css,2b4a2ad5d9ba084a9eaa2f9204102655e7b575c4,Learn|Extensions
 learn_web_development/extensions/performance/html,8db892b3e7ca294621898441e7db2481e0e6d939,Learn|Extensions
-learn_web_development/extensions/performance/javascript,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Learn|Extensions
+learn_web_development/extensions/performance/javascript,690498c3dbaebcf8b9a21220fbb23d192a30a225,Learn|Extensions
 learn_web_development/extensions/performance/measuring_performance,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0,Learn|Extensions
 learn_web_development/extensions/performance/multimedia,8db892b3e7ca294621898441e7db2481e0e6d939,Learn|Extensions
 learn_web_development/extensions/performance/perceived_performance,8db892b3e7ca294621898441e7db2481e0e6d939,Learn|Extensions
@@ -1137,7 +1137,7 @@ mozilla/add-ons/webextensions/api/action/settitle,09109b6f9444d22215ba330ec1e64e
 mozilla/add-ons/webextensions/api/alarms,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/alarm,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/clear,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/alarms/clearall,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/alarms/clearall,e37b064f509db94d52a080b8983e16713737f1b7,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/create,b84147564967f3b6875ff8cf439f263aa1ea5b08,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/get,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/getall,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1705,7 +1705,7 @@ mozilla/add-ons/webextensions/api/types/browsersetting/clear,51aed03147472b38832
 mozilla/add-ons/webextensions/api/types/browsersetting/get,51aed03147472b3883200e4538ff0beec8ff948f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/types/browsersetting/onchange,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/types/browsersetting/set,51aed03147472b3883200e4538ff0beec8ff948f,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/userscripts,20c11f6af0809fa827413acf968b56bf4650d8d4,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/userscripts,a595864befbe37b117f09e576a6e18bca7996759,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/configureworld,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/execute,9791add3508e087982097f25fbd367c21bcb8305,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/userscripts/executionworld,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -2000,7 +2000,7 @@ mozilla/firefox/releases/34,56f3d7018159127dbe92842413fb45d0aa7e8193,Mozilla|Fir
 mozilla/firefox/releases/35,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/36,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/37,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
-mozilla/firefox/releases/38,1ddd95504b4507beeda0f08bd772eb167922b86a,Mozilla|Firefox|Versions
+mozilla/firefox/releases/38,690498c3dbaebcf8b9a21220fbb23d192a30a225,Mozilla|Firefox|Versions
 mozilla/firefox/releases/39,56f3d7018159127dbe92842413fb45d0aa7e8193,Mozilla|Firefox|Versions
 mozilla/firefox/releases/4,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/4/the_add-on_bar,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
@@ -4390,7 +4390,7 @@ web/api/gamepad/displayid,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/gamepad/hand,3020adac456187cf18edeb20613482fb73b38c1e,Web APIs
 web/api/gamepad/hapticactuators,3020adac456187cf18edeb20613482fb73b38c1e,Web APIs
 web/api/gamepad/id,3020adac456187cf18edeb20613482fb73b38c1e,Web APIs
-web/api/gamepad/index,3020adac456187cf18edeb20613482fb73b38c1e,Web APIs
+web/api/gamepad/index,690498c3dbaebcf8b9a21220fbb23d192a30a225,Web APIs
 web/api/gamepad/mapping,3020adac456187cf18edeb20613482fb73b38c1e,Web APIs
 web/api/gamepad/pose,3020adac456187cf18edeb20613482fb73b38c1e,Web APIs
 web/api/gamepad/timestamp,3020adac456187cf18edeb20613482fb73b38c1e,Web APIs
@@ -7785,7 +7785,7 @@ web/api/sensor/reading_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/sensor/start,4ea748e5f025c2a00a8ca8babd7c505e73ad9def,Web APIs
 web/api/sensor/stop,4ea748e5f025c2a00a8ca8babd7c505e73ad9def,Web APIs
 web/api/sensor/timestamp,4ea748e5f025c2a00a8ca8babd7c505e73ad9def,Web APIs
-web/api/sensor_apis,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
+web/api/sensor_apis,690498c3dbaebcf8b9a21220fbb23d192a30a225,Web APIs
 web/api/sensorerrorevent,4ea748e5f025c2a00a8ca8babd7c505e73ad9def,Web APIs
 web/api/sensorerrorevent/error,4ea748e5f025c2a00a8ca8babd7c505e73ad9def,Web APIs
 web/api/sensorerrorevent/sensorerrorevent,4ea748e5f025c2a00a8ca8babd7c505e73ad9def,Web APIs
@@ -8133,7 +8133,7 @@ web/api/summarizer/destroy,f91ff68767990aea89c9cb21fd8fc6b365cef3cb,Web APIs
 web/api/summarizer/expectedcontextlanguages,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
 web/api/summarizer/expectedinputlanguages,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
 web/api/summarizer/format,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web APIs
-web/api/summarizer/inputquota,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web APIs
+web/api/summarizer/inputquota,690498c3dbaebcf8b9a21220fbb23d192a30a225,Web APIs
 web/api/summarizer/length,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web APIs
 web/api/summarizer/measureinputusage,aed56607fa2bc1f0678ea0846a1b62bd9571ff7b,Web APIs
 web/api/summarizer/outputlanguage,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
@@ -12521,7 +12521,7 @@ web/javascript/reference/global_objects/atomics/xor,48f29758dbe9036bd04baf519b8e
 web/javascript/reference/global_objects/bigint,9f46f08d20b21498293cbf6b84f508103272ec6f,JavaScript|Global Objects
 web/javascript/reference/global_objects/bigint/asintn,e142519e137b3a2ce99d5820c3f2049b6d83113d,JavaScript|Global Objects
 web/javascript/reference/global_objects/bigint/asuintn,e142519e137b3a2ce99d5820c3f2049b6d83113d,JavaScript|Global Objects
-web/javascript/reference/global_objects/bigint/bigint,1ddd95504b4507beeda0f08bd772eb167922b86a,JavaScript|Global Objects
+web/javascript/reference/global_objects/bigint/bigint,690498c3dbaebcf8b9a21220fbb23d192a30a225,JavaScript|Global Objects
 web/javascript/reference/global_objects/bigint/tolocalestring,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,JavaScript|Global Objects
 web/javascript/reference/global_objects/bigint/tostring,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/bigint/valueof,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
