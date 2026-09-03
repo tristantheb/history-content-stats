@@ -902,7 +902,7 @@ learn_web_development/extensions/performance/best_practices,0
 learn_web_development/extensions/performance/business_case_for_performance,1
 learn_web_development/extensions/performance/css,0
 learn_web_development/extensions/performance/html,4
-learn_web_development/extensions/performance/javascript,2
+learn_web_development/extensions/performance/javascript,3
 learn_web_development/extensions/performance/measuring_performance,0
 learn_web_development/extensions/performance/multimedia,0
 learn_web_development/extensions/performance/perceived_performance,2
@@ -4390,7 +4390,7 @@ web/api/gamepad/displayid,4
 web/api/gamepad/hand,2
 web/api/gamepad/hapticactuators,2
 web/api/gamepad/id,2
-web/api/gamepad/index,2
+web/api/gamepad/index,3
 web/api/gamepad/mapping,2
 web/api/gamepad/pose,3
 web/api/gamepad/timestamp,3
@@ -7785,7 +7785,7 @@ web/api/sensor/reading_event,2
 web/api/sensor/start,1
 web/api/sensor/stop,1
 web/api/sensor/timestamp,1
-web/api/sensor_apis,3
+web/api/sensor_apis,4
 web/api/sensorerrorevent,1
 web/api/sensorerrorevent/error,1
 web/api/sensorerrorevent/sensorerrorevent,1
@@ -12521,7 +12521,7 @@ web/javascript/reference/global_objects/atomics/xor,1
 web/javascript/reference/global_objects/bigint,2
 web/javascript/reference/global_objects/bigint/asintn,1
 web/javascript/reference/global_objects/bigint/asuintn,1
-web/javascript/reference/global_objects/bigint/bigint,1
+web/javascript/reference/global_objects/bigint/bigint,2
 web/javascript/reference/global_objects/bigint/tolocalestring,0
 web/javascript/reference/global_objects/bigint/tostring,0
 web/javascript/reference/global_objects/bigint/valueof,0

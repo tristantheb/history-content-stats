@@ -1137,7 +1137,7 @@ mozilla/add-ons/webextensions/api/action/settitle,3
 mozilla/add-ons/webextensions/api/alarms,1
 mozilla/add-ons/webextensions/api/alarms/alarm,4
 mozilla/add-ons/webextensions/api/alarms/clear,3
-mozilla/add-ons/webextensions/api/alarms/clearall,3
+mozilla/add-ons/webextensions/api/alarms/clearall,4
 mozilla/add-ons/webextensions/api/alarms/create,7
 mozilla/add-ons/webextensions/api/alarms/get,4
 mozilla/add-ons/webextensions/api/alarms/getall,3
@@ -1705,7 +1705,7 @@ mozilla/add-ons/webextensions/api/types/browsersetting/clear,null
 mozilla/add-ons/webextensions/api/types/browsersetting/get,null
 mozilla/add-ons/webextensions/api/types/browsersetting/onchange,null
 mozilla/add-ons/webextensions/api/types/browsersetting/set,null
-mozilla/add-ons/webextensions/api/userscripts,5
+mozilla/add-ons/webextensions/api/userscripts,6
 mozilla/add-ons/webextensions/api/userscripts/configureworld,2
 mozilla/add-ons/webextensions/api/userscripts/execute,null
 mozilla/add-ons/webextensions/api/userscripts/executionworld,1

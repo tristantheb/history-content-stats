@@ -7785,7 +7785,7 @@ web/api/sensor/reading_event,3
 web/api/sensor/start,2
 web/api/sensor/stop,2
 web/api/sensor/timestamp,2
-web/api/sensor_apis,3
+web/api/sensor_apis,4
 web/api/sensorerrorevent,null
 web/api/sensorerrorevent/error,null
 web/api/sensorerrorevent/sensorerrorevent,null
