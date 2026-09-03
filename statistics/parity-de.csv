@@ -902,7 +902,7 @@ learn_web_development/extensions/performance/best_practices,0
 learn_web_development/extensions/performance/business_case_for_performance,0
 learn_web_development/extensions/performance/css,0
 learn_web_development/extensions/performance/html,0
-learn_web_development/extensions/performance/javascript,0
+learn_web_development/extensions/performance/javascript,1
 learn_web_development/extensions/performance/measuring_performance,0
 learn_web_development/extensions/performance/multimedia,0
 learn_web_development/extensions/performance/perceived_performance,0
@@ -1137,7 +1137,7 @@ mozilla/add-ons/webextensions/api/action/settitle,0
 mozilla/add-ons/webextensions/api/alarms,0
 mozilla/add-ons/webextensions/api/alarms/alarm,0
 mozilla/add-ons/webextensions/api/alarms/clear,0
-mozilla/add-ons/webextensions/api/alarms/clearall,0
+mozilla/add-ons/webextensions/api/alarms/clearall,1
 mozilla/add-ons/webextensions/api/alarms/create,0
 mozilla/add-ons/webextensions/api/alarms/get,0
 mozilla/add-ons/webextensions/api/alarms/getall,0
@@ -1705,7 +1705,7 @@ mozilla/add-ons/webextensions/api/types/browsersetting/clear,0
 mozilla/add-ons/webextensions/api/types/browsersetting/get,0
 mozilla/add-ons/webextensions/api/types/browsersetting/onchange,0
 mozilla/add-ons/webextensions/api/types/browsersetting/set,0
-mozilla/add-ons/webextensions/api/userscripts,0
+mozilla/add-ons/webextensions/api/userscripts,1
 mozilla/add-ons/webextensions/api/userscripts/configureworld,0
 mozilla/add-ons/webextensions/api/userscripts/execute,0
 mozilla/add-ons/webextensions/api/userscripts/executionworld,0
@@ -2000,7 +2000,7 @@ mozilla/firefox/releases/34,0
 mozilla/firefox/releases/35,0
 mozilla/firefox/releases/36,0
 mozilla/firefox/releases/37,0
-mozilla/firefox/releases/38,0
+mozilla/firefox/releases/38,1
 mozilla/firefox/releases/39,0
 mozilla/firefox/releases/4,0
 mozilla/firefox/releases/4/the_add-on_bar,0
@@ -4390,7 +4390,7 @@ web/api/gamepad/displayid,0
 web/api/gamepad/hand,0
 web/api/gamepad/hapticactuators,0
 web/api/gamepad/id,0
-web/api/gamepad/index,0
+web/api/gamepad/index,1
 web/api/gamepad/mapping,0
 web/api/gamepad/pose,0
 web/api/gamepad/timestamp,0
@@ -7785,7 +7785,7 @@ web/api/sensor/reading_event,0
 web/api/sensor/start,0
 web/api/sensor/stop,0
 web/api/sensor/timestamp,0
-web/api/sensor_apis,0
+web/api/sensor_apis,1
 web/api/sensorerrorevent,0
 web/api/sensorerrorevent/error,0
 web/api/sensorerrorevent/sensorerrorevent,0
@@ -8133,7 +8133,7 @@ web/api/summarizer/destroy,0
 web/api/summarizer/expectedcontextlanguages,0
 web/api/summarizer/expectedinputlanguages,0
 web/api/summarizer/format,0
-web/api/summarizer/inputquota,0
+web/api/summarizer/inputquota,1
 web/api/summarizer/length,0
 web/api/summarizer/measureinputusage,0
 web/api/summarizer/outputlanguage,0
@@ -12521,7 +12521,7 @@ web/javascript/reference/global_objects/atomics/xor,0
 web/javascript/reference/global_objects/bigint,0
 web/javascript/reference/global_objects/bigint/asintn,0
 web/javascript/reference/global_objects/bigint/asuintn,0
-web/javascript/reference/global_objects/bigint/bigint,0
+web/javascript/reference/global_objects/bigint/bigint,1
 web/javascript/reference/global_objects/bigint/tolocalestring,0
 web/javascript/reference/global_objects/bigint/tostring,0
 web/javascript/reference/global_objects/bigint/valueof,0
