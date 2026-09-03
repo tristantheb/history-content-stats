@@ -2240,7 +2240,7 @@ web/accessibility/guides,null
 web/accessibility/guides/accessibility_and_spatial_patterns,null
 web/accessibility/guides/accessible_web_applications_and_widgets,null
 web/accessibility/guides/browsing_safely,null
-web/accessibility/guides/cognitive_accessibility,0
+web/accessibility/guides/cognitive_accessibility,1
 web/accessibility/guides/colors_and_luminance,null
 web/accessibility/guides/information_for_web_authors,null
 web/accessibility/guides/keyboard-navigable_javascript_widgets,null
@@ -9880,9 +9880,9 @@ web/api/window/scrolly,null
 web/api/window/self,null
 web/api/window/sessionstorage,null
 web/api/window/setimmediate,null
-web/api/window/setinterval,10
+web/api/window/setinterval,11
 web/api/window/setresizable,null
-web/api/window/settimeout,12
+web/api/window/settimeout,13
 web/api/window/sharedstorage,null
 web/api/window/showdirectorypicker,null
 web/api/window/showopenfilepicker,null

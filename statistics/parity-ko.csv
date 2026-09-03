@@ -7805,7 +7805,7 @@ web/api/serialport/readable,null
 web/api/serialport/setsignals,null
 web/api/serialport/writable,null
 web/api/server-sent_events,7
-web/api/server-sent_events/using_server-sent_events,6
+web/api/server-sent_events/using_server-sent_events,7
 web/api/service_worker_api,null
 web/api/service_worker_api/using_service_workers,null
 web/api/serviceworker,null
@@ -9880,9 +9880,9 @@ web/api/window/scrolly,null
 web/api/window/self,null
 web/api/window/sessionstorage,null
 web/api/window/setimmediate,null
-web/api/window/setinterval,10
+web/api/window/setinterval,11
 web/api/window/setresizable,null
-web/api/window/settimeout,12
+web/api/window/settimeout,13
 web/api/window/sharedstorage,null
 web/api/window/showdirectorypicker,4
 web/api/window/showopenfilepicker,6
@@ -12439,7 +12439,7 @@ web/javascript/reference/global_objects/array/flat,7
 web/javascript/reference/global_objects/array/flatmap,10
 web/javascript/reference/global_objects/array/foreach,13
 web/javascript/reference/global_objects/array/from,8
-web/javascript/reference/global_objects/array/fromasync,5
+web/javascript/reference/global_objects/array/fromasync,6
 web/javascript/reference/global_objects/array/includes,9
 web/javascript/reference/global_objects/array/indexof,6
 web/javascript/reference/global_objects/array/isarray,7
@@ -12659,7 +12659,7 @@ web/javascript/reference/global_objects/function/bind,null
 web/javascript/reference/global_objects/function/call,null
 web/javascript/reference/global_objects/function/caller,7
 web/javascript/reference/global_objects/function/displayname,3
-web/javascript/reference/global_objects/function/function,9
+web/javascript/reference/global_objects/function/function,10
 web/javascript/reference/global_objects/function/length,null
 web/javascript/reference/global_objects/function/name,null
 web/javascript/reference/global_objects/function/prototype,null
@@ -13432,7 +13432,7 @@ web/javascript/reference/global_objects/weakset/add,5
 web/javascript/reference/global_objects/weakset/delete,5
 web/javascript/reference/global_objects/weakset/has,5
 web/javascript/reference/global_objects/weakset/weakset,3
-web/javascript/reference/iteration_protocols,30
+web/javascript/reference/iteration_protocols,31
 web/javascript/reference/javascript_technologies_overview,8
 web/javascript/reference/lexical_grammar,null
 web/javascript/reference/operators,null
@@ -13546,7 +13546,7 @@ web/javascript/reference/statements/empty,null
 web/javascript/reference/statements/export,null
 web/javascript/reference/statements/expression_statement,null
 web/javascript/reference/statements/for,null
-web/javascript/reference/statements/for-await...of,15
+web/javascript/reference/statements/for-await...of,16
 web/javascript/reference/statements/for...in,null
 web/javascript/reference/statements/for...of,null
 web/javascript/reference/statements/function,null

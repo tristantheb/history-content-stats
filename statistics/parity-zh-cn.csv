@@ -2240,7 +2240,7 @@ web/accessibility/guides,0
 web/accessibility/guides/accessibility_and_spatial_patterns,4
 web/accessibility/guides/accessible_web_applications_and_widgets,3
 web/accessibility/guides/browsing_safely,4
-web/accessibility/guides/cognitive_accessibility,6
+web/accessibility/guides/cognitive_accessibility,7
 web/accessibility/guides/colors_and_luminance,16
 web/accessibility/guides/information_for_web_authors,3
 web/accessibility/guides/keyboard-navigable_javascript_widgets,5
@@ -7805,7 +7805,7 @@ web/api/serialport/readable,null
 web/api/serialport/setsignals,null
 web/api/serialport/writable,null
 web/api/server-sent_events,7
-web/api/server-sent_events/using_server-sent_events,1
+web/api/server-sent_events/using_server-sent_events,2
 web/api/service_worker_api,null
 web/api/service_worker_api/using_service_workers,null
 web/api/serviceworker,null
@@ -9880,9 +9880,9 @@ web/api/window/scrolly,0
 web/api/window/self,null
 web/api/window/sessionstorage,null
 web/api/window/setimmediate,null
-web/api/window/setinterval,7
+web/api/window/setinterval,8
 web/api/window/setresizable,1
-web/api/window/settimeout,11
+web/api/window/settimeout,12
 web/api/window/sharedstorage,null
 web/api/window/showdirectorypicker,2
 web/api/window/showopenfilepicker,2
@@ -12659,7 +12659,7 @@ web/javascript/reference/global_objects/function/bind,null
 web/javascript/reference/global_objects/function/call,null
 web/javascript/reference/global_objects/function/caller,null
 web/javascript/reference/global_objects/function/displayname,null
-web/javascript/reference/global_objects/function/function,3
+web/javascript/reference/global_objects/function/function,4
 web/javascript/reference/global_objects/function/length,null
 web/javascript/reference/global_objects/function/name,null
 web/javascript/reference/global_objects/function/prototype,null
@@ -13546,13 +13546,13 @@ web/javascript/reference/statements/empty,4
 web/javascript/reference/statements/export,9
 web/javascript/reference/statements/expression_statement,4
 web/javascript/reference/statements/for,9
-web/javascript/reference/statements/for-await...of,12
+web/javascript/reference/statements/for-await...of,13
 web/javascript/reference/statements/for...in,9
 web/javascript/reference/statements/for...of,14
 web/javascript/reference/statements/function,4
 web/javascript/reference/statements/function_star_,13
 web/javascript/reference/statements/if...else,4
-web/javascript/reference/statements/import,12
+web/javascript/reference/statements/import,13
 web/javascript/reference/statements/import/with,2
 web/javascript/reference/statements/label,6
 web/javascript/reference/statements/let,7

@@ -9880,7 +9880,7 @@ web/api/window/scrolly,null
 web/api/window/self,null
 web/api/window/sessionstorage,null
 web/api/window/setimmediate,null
-web/api/window/setinterval,4
+web/api/window/setinterval,5
 web/api/window/setresizable,null
 web/api/window/settimeout,null
 web/api/window/sharedstorage,null

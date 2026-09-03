@@ -7805,7 +7805,7 @@ web/api/serialport/readable,null
 web/api/serialport/setsignals,null
 web/api/serialport/writable,null
 web/api/server-sent_events,3
-web/api/server-sent_events/using_server-sent_events,4
+web/api/server-sent_events/using_server-sent_events,5
 web/api/service_worker_api,null
 web/api/service_worker_api/using_service_workers,null
 web/api/serviceworker,null
