@@ -875,7 +875,7 @@ learn_web_development/extensions/client-side_tools/introducing_complete_toolchai
 learn_web_development/extensions/client-side_tools/overview,3
 learn_web_development/extensions/client-side_tools/package_management,5
 learn_web_development/extensions/forms,0
-learn_web_development/extensions/forms/advanced_form_styling,2
+learn_web_development/extensions/forms/advanced_form_styling,3
 learn_web_development/extensions/forms/basic_native_form_controls,4
 learn_web_development/extensions/forms/customizable_select,2
 learn_web_development/extensions/forms/customizable_select_listboxes,0
@@ -893,7 +893,7 @@ learn_web_development/extensions/forms/html_forms_in_legacy_browsers,0
 learn_web_development/extensions/forms/other_form_controls,2
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,1
 learn_web_development/extensions/forms/sending_forms_through_javascript,0
-learn_web_development/extensions/forms/styling_web_forms,3
+learn_web_development/extensions/forms/styling_web_forms,4
 learn_web_development/extensions/forms/ui_pseudo-classes,3
 learn_web_development/extensions/forms/user_input_methods,0
 learn_web_development/extensions/forms/your_first_form,0
@@ -1882,7 +1882,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,8
 mozilla/firefox,0
-mozilla/firefox/experimental_features,6
+mozilla/firefox/experimental_features,7
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -2736,7 +2736,7 @@ web/api/canvas_api/tutorial/basic_animations,0
 web/api/canvas_api/tutorial/basic_usage,0
 web/api/canvas_api/tutorial/compositing,1
 web/api/canvas_api/tutorial/drawing_shapes,1
-web/api/canvas_api/tutorial/drawing_text,0
+web/api/canvas_api/tutorial/drawing_text,1
 web/api/canvas_api/tutorial/finale,0
 web/api/canvas_api/tutorial/optimizing_canvas,1
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,0
@@ -3089,7 +3089,7 @@ web/api/csscounterstylerule/suffix,1
 web/api/csscounterstylerule/symbols,1
 web/api/csscounterstylerule/system,1
 web/api/cssfontfacedescriptors,null
-web/api/cssfontfacerule,-1
+web/api/cssfontfacerule,0
 web/api/cssfontfacerule/style,0
 web/api/cssfontfeaturevaluesmap,null
 web/api/cssfontfeaturevaluesmap/clear,null
@@ -9457,7 +9457,7 @@ web/api/webgl_api/tutorial/using_textures_in_webgl,1
 web/api/webgl_api/types,2
 web/api/webgl_api/using_extensions,null
 web/api/webgl_api/webgl_best_practices,0
-web/api/webgl_api/webgl_model_view_projection,1
+web/api/webgl_api/webgl_model_view_projection,2
 web/api/webgl_color_buffer_float,4
 web/api/webgl_compressed_texture_astc,null
 web/api/webgl_compressed_texture_astc/getsupportedprofiles,null

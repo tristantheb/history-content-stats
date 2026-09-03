@@ -1882,7 +1882,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,4
 mozilla/firefox,0
-mozilla/firefox/experimental_features,12
+mozilla/firefox/experimental_features,13
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1950,7 +1950,7 @@ mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,3
 mozilla/firefox/releases/154,3
-mozilla/firefox/releases/155,1
+mozilla/firefox/releases/155,2
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
 mozilla/firefox/releases/16,0
@@ -10894,7 +10894,7 @@ web/css/reference/properties/flex-basis,0
 web/css/reference/properties/flex-direction,0
 web/css/reference/properties/flex-flow,3
 web/css/reference/properties/flex-grow,1
-web/css/reference/properties/flex-line-count,null
+web/css/reference/properties/flex-line-count,0
 web/css/reference/properties/flex-shrink,3
 web/css/reference/properties/flex-wrap,1
 web/css/reference/properties/float,0

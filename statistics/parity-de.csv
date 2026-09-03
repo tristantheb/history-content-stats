@@ -875,7 +875,7 @@ learn_web_development/extensions/client-side_tools/introducing_complete_toolchai
 learn_web_development/extensions/client-side_tools/overview,0
 learn_web_development/extensions/client-side_tools/package_management,0
 learn_web_development/extensions/forms,0
-learn_web_development/extensions/forms/advanced_form_styling,0
+learn_web_development/extensions/forms/advanced_form_styling,1
 learn_web_development/extensions/forms/basic_native_form_controls,0
 learn_web_development/extensions/forms/customizable_select,0
 learn_web_development/extensions/forms/customizable_select_listboxes,0
@@ -893,7 +893,7 @@ learn_web_development/extensions/forms/html_forms_in_legacy_browsers,0
 learn_web_development/extensions/forms/other_form_controls,0
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,0
 learn_web_development/extensions/forms/sending_forms_through_javascript,0
-learn_web_development/extensions/forms/styling_web_forms,0
+learn_web_development/extensions/forms/styling_web_forms,1
 learn_web_development/extensions/forms/ui_pseudo-classes,0
 learn_web_development/extensions/forms/user_input_methods,0
 learn_web_development/extensions/forms/your_first_form,0
@@ -1882,7 +1882,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1950,7 +1950,7 @@ mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
-mozilla/firefox/releases/155,0
+mozilla/firefox/releases/155,1
 mozilla/firefox/releases/156,0
 mozilla/firefox/releases/157,0
 mozilla/firefox/releases/16,0
@@ -2736,7 +2736,7 @@ web/api/canvas_api/tutorial/basic_animations,0
 web/api/canvas_api/tutorial/basic_usage,0
 web/api/canvas_api/tutorial/compositing,0
 web/api/canvas_api/tutorial/drawing_shapes,0
-web/api/canvas_api/tutorial/drawing_text,0
+web/api/canvas_api/tutorial/drawing_text,1
 web/api/canvas_api/tutorial/finale,0
 web/api/canvas_api/tutorial/optimizing_canvas,0
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,0
@@ -9457,7 +9457,7 @@ web/api/webgl_api/tutorial/using_textures_in_webgl,0
 web/api/webgl_api/types,0
 web/api/webgl_api/using_extensions,0
 web/api/webgl_api/webgl_best_practices,0
-web/api/webgl_api/webgl_model_view_projection,0
+web/api/webgl_api/webgl_model_view_projection,1
 web/api/webgl_color_buffer_float,0
 web/api/webgl_compressed_texture_astc,0
 web/api/webgl_compressed_texture_astc/getsupportedprofiles,0
