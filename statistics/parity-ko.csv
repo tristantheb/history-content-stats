@@ -201,7 +201,8 @@ glossary/data_structure,1
 glossary/database,5
 glossary/debounce,1
 glossary/decryption,4
-glossary/deep_copy,6
+glossary/deep_copy,7
+glossary/deep_equality,null
 glossary/delta,2
 glossary/denial_of_service,4
 glossary/deno,null
@@ -561,7 +562,7 @@ glossary/server_timing,3
 glossary/session_hijacking,4
 glossary/sgml,2
 glossary/shadow_tree,5
-glossary/shallow_copy,3
+glossary/shallow_copy,4
 glossary/shim,1
 glossary/signature,1
 glossary/signature/function,1
@@ -961,7 +962,7 @@ learn_web_development/extensions/server-side/first_steps/introduction,null
 learn_web_development/extensions/server-side/first_steps/web_frameworks,null
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
-learn_web_development/extensions/testing,4
+learn_web_development/extensions/testing,5
 learn_web_development/extensions/testing/automated_testing,null
 learn_web_development/extensions/testing/feature_detection,null
 learn_web_development/extensions/testing/html_and_css,null
@@ -1023,7 +1024,7 @@ learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,nul
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,null
 learn_web_development/howto/web_mechanics,3
 learn_web_development/howto/web_mechanics/file_browser_bugs,null
-learn_web_development/howto/web_mechanics/how_does_the_internet_work,6
+learn_web_development/howto/web_mechanics/how_does_the_internet_work,7
 learn_web_development/howto/web_mechanics/what_are_hyperlinks,3
 learn_web_development/howto/web_mechanics/what_is_a_domain_name,0
 learn_web_development/howto/web_mechanics/what_is_a_url,10
@@ -11861,7 +11862,7 @@ web/html/reference/global_attributes/virtualkeyboardpolicy,null
 web/html/reference/global_attributes/writingsuggestions,null
 web/http,14
 web/http/guides,0
-web/http/guides/authentication,6
+web/http/guides/authentication,7
 web/http/guides/browser_detection_using_the_user_agent,11
 web/http/guides/caching,null
 web/http/guides/client_hints,null
@@ -11980,7 +11981,7 @@ web/http/reference/headers/content-security-policy/worker-src,5
 web/http/reference/headers/content-type,null
 web/http/reference/headers/cookie,null
 web/http/reference/headers/critical-ch,null
-web/http/reference/headers/cross-origin-embedder-policy,9
+web/http/reference/headers/cross-origin-embedder-policy,10
 web/http/reference/headers/cross-origin-embedder-policy-report-only,null
 web/http/reference/headers/cross-origin-opener-policy,null
 web/http/reference/headers/cross-origin-resource-policy,5
@@ -12240,7 +12241,7 @@ web/javascript/guide/closures,10
 web/javascript/guide/control_flow_and_error_handling,null
 web/javascript/guide/data_structures,3
 web/javascript/guide/enumerability_and_ownership_of_properties,2
-web/javascript/guide/equality_comparisons_and_sameness,5
+web/javascript/guide/equality_comparisons_and_sameness,6
 web/javascript/guide/expressions_and_operators,null
 web/javascript/guide/functions,null
 web/javascript/guide/grammar_and_types,null
@@ -13631,7 +13632,7 @@ web/mathml/tutorials/for_beginners/text_containers,null
 web/mathml/tutorials/for_beginners/three_famous_mathematical_formulas,null
 web/media,10
 web/media/guides,null
-web/media/guides/audio_and_video_delivery,19
+web/media/guides/audio_and_video_delivery,20
 web/media/guides/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video,null
 web/media/guides/audio_and_video_delivery/buffering_seeking_time_ranges,null
 web/media/guides/audio_and_video_delivery/cross-browser_audio_basics,null
@@ -13677,7 +13678,7 @@ web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,4
 web/privacy/guides/privacy_sandbox,null
 web/privacy/guides/redirect_tracking_protection,null
-web/privacy/guides/referer_header_colon__privacy_and_security_concerns,2
+web/privacy/guides/referer_header_colon__privacy_and_security_concerns,3
 web/privacy/guides/state_partitioning,null
 web/privacy/guides/storage_access_policy,null
 web/privacy/guides/storage_access_policy/errors,null
