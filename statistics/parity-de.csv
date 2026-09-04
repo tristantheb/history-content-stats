@@ -7087,7 +7087,7 @@ web/api/range/tostring,0
 web/api/readablebytestreamcontroller,0
 web/api/readablebytestreamcontroller/byobrequest,0
 web/api/readablebytestreamcontroller/close,0
-web/api/readablebytestreamcontroller/desiredsize,0
+web/api/readablebytestreamcontroller/desiredsize,1
 web/api/readablebytestreamcontroller/enqueue,0
 web/api/readablebytestreamcontroller/error,0
 web/api/readablestream,0
@@ -7111,7 +7111,7 @@ web/api/readablestreambyobrequest/respondwithnewview,0
 web/api/readablestreambyobrequest/view,0
 web/api/readablestreamdefaultcontroller,0
 web/api/readablestreamdefaultcontroller/close,0
-web/api/readablestreamdefaultcontroller/desiredsize,0
+web/api/readablestreamdefaultcontroller/desiredsize,1
 web/api/readablestreamdefaultcontroller/enqueue,0
 web/api/readablestreamdefaultcontroller/error,0
 web/api/readablestreamdefaultreader,0
@@ -8900,7 +8900,7 @@ web/api/transformstream/readable,0
 web/api/transformstream/transformstream,0
 web/api/transformstream/writable,0
 web/api/transformstreamdefaultcontroller,0
-web/api/transformstreamdefaultcontroller/desiredsize,0
+web/api/transformstreamdefaultcontroller/desiredsize,1
 web/api/transformstreamdefaultcontroller/enqueue,0
 web/api/transformstreamdefaultcontroller/error,0
 web/api/transformstreamdefaultcontroller/terminate,0
@@ -10036,7 +10036,7 @@ web/api/writablestreamdefaultwriter,0
 web/api/writablestreamdefaultwriter/abort,0
 web/api/writablestreamdefaultwriter/close,0
 web/api/writablestreamdefaultwriter/closed,0
-web/api/writablestreamdefaultwriter/desiredsize,0
+web/api/writablestreamdefaultwriter/desiredsize,1
 web/api/writablestreamdefaultwriter/ready,0
 web/api/writablestreamdefaultwriter/releaselock,0
 web/api/writablestreamdefaultwriter/writablestreamdefaultwriter,0

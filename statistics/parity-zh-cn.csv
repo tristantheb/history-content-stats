@@ -8900,7 +8900,7 @@ web/api/transformstream/readable,null
 web/api/transformstream/transformstream,null
 web/api/transformstream/writable,null
 web/api/transformstreamdefaultcontroller,0
-web/api/transformstreamdefaultcontroller/desiredsize,0
+web/api/transformstreamdefaultcontroller/desiredsize,1
 web/api/transformstreamdefaultcontroller/enqueue,0
 web/api/transformstreamdefaultcontroller/error,0
 web/api/transformstreamdefaultcontroller/terminate,0
