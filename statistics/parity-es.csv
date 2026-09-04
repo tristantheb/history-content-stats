@@ -867,7 +867,7 @@ learn_web_development/extensions/async_js/sequencing_animations,null
 learn_web_development/extensions/client-side_apis,null
 learn_web_development/extensions/client-side_apis/client-side_storage,null
 learn_web_development/extensions/client-side_apis/drawing_graphics,null
-learn_web_development/extensions/client-side_apis/introduction,0
+learn_web_development/extensions/client-side_apis/introduction,1
 learn_web_development/extensions/client-side_apis/third_party_apis,null
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,null
 learn_web_development/extensions/client-side_tools,null
@@ -980,7 +980,7 @@ learn_web_development/getting_started/soft_skills,1
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,null
 learn_web_development/getting_started/soft_skills/finding_a_job,null
 learn_web_development/getting_started/soft_skills/research_and_learning,null
-learn_web_development/getting_started/soft_skills/workflows_and_processes,6
+learn_web_development/getting_started/soft_skills/workflows_and_processes,7
 learn_web_development/getting_started/web_standards,1
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,4
 learn_web_development/getting_started/web_standards/how_the_web_works,null
@@ -2570,7 +2570,7 @@ web/api/barcodedetector/detect,null
 web/api/barcodedetector/getsupportedformats_static,null
 web/api/barprop,null
 web/api/barprop/visible,null
-web/api/baseaudiocontext,1
+web/api/baseaudiocontext,2
 web/api/baseaudiocontext/audioworklet,null
 web/api/baseaudiocontext/createanalyser,null
 web/api/baseaudiocontext/createbiquadfilter,null
@@ -2737,7 +2737,7 @@ web/api/canvas_api/tutorial/applying_styles_and_colors,null
 web/api/canvas_api/tutorial/basic_animations,null
 web/api/canvas_api/tutorial/basic_usage,null
 web/api/canvas_api/tutorial/compositing,null
-web/api/canvas_api/tutorial/drawing_shapes,20
+web/api/canvas_api/tutorial/drawing_shapes,21
 web/api/canvas_api/tutorial/drawing_text,null
 web/api/canvas_api/tutorial/finale,null
 web/api/canvas_api/tutorial/optimizing_canvas,null
@@ -11873,7 +11873,7 @@ web/http/guides/connection_management_in_http_1.x,null
 web/http/guides/content_negotiation,null
 web/http/guides/content_negotiation/list_of_default_accept_values,null
 web/http/guides/cookies,null
-web/http/guides/cors,12
+web/http/guides/cors,13
 web/http/guides/cors/errors,6
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,null
 web/http/guides/cors/errors/corsdidnotsucceed,null
@@ -14177,16 +14177,21 @@ web/webdriver/reference/capabilities/firefoxoptions,null
 web/webdriver/reference/capabilities/websocketurl,null
 web/webdriver/reference/classic,null
 web/webdriver/reference/classic/commands,null
+web/webdriver/reference/classic/commands/addcookie,null
 web/webdriver/reference/classic/commands/back,null
 web/webdriver/reference/classic/commands/closewindow,null
 web/webdriver/reference/classic/commands/createvirtualpressuresource,null
 web/webdriver/reference/classic/commands/createvirtualsensor,null
+web/webdriver/reference/classic/commands/deleteallcookies,null
+web/webdriver/reference/classic/commands/deletecookie,null
 web/webdriver/reference/classic/commands/deletevirtualpressuresource,null
 web/webdriver/reference/classic/commands/deletevirtualsensor,null
 web/webdriver/reference/classic/commands/forward,null
+web/webdriver/reference/classic/commands/getallcookies,null
 web/webdriver/reference/classic/commands/getelementattribute,null
 web/webdriver/reference/classic/commands/getelementproperty,null
 web/webdriver/reference/classic/commands/getelementtagname,null
+web/webdriver/reference/classic/commands/getnamedcookie,null
 web/webdriver/reference/classic/commands/gettimeouts,null
 web/webdriver/reference/classic/commands/gettitle,null
 web/webdriver/reference/classic/commands/getvirtualsensorinformation,null
