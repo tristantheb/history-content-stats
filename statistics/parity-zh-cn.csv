@@ -201,7 +201,8 @@ glossary/data_structure,1
 glossary/database,3
 glossary/debounce,1
 glossary/decryption,2
-glossary/deep_copy,4
+glossary/deep_copy,5
+glossary/deep_equality,null
 glossary/delta,1
 glossary/denial_of_service,2
 glossary/deno,1
@@ -561,7 +562,7 @@ glossary/server_timing,3
 glossary/session_hijacking,4
 glossary/sgml,2
 glossary/shadow_tree,5
-glossary/shallow_copy,2
+glossary/shallow_copy,3
 glossary/shim,1
 glossary/signature,1
 glossary/signature/function,null
@@ -870,7 +871,7 @@ learn_web_development/extensions/client-side_apis/introduction,6
 learn_web_development/extensions/client-side_apis/third_party_apis,8
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,17
 learn_web_development/extensions/client-side_tools,3
-learn_web_development/extensions/client-side_tools/deployment,1
+learn_web_development/extensions/client-side_tools/deployment,2
 learn_web_development/extensions/client-side_tools/introducing_complete_toolchain,null
 learn_web_development/extensions/client-side_tools/overview,null
 learn_web_development/extensions/client-side_tools/package_management,null
@@ -961,13 +962,13 @@ learn_web_development/extensions/server-side/first_steps/introduction,null
 learn_web_development/extensions/server-side/first_steps/web_frameworks,null
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
-learn_web_development/extensions/testing,4
-learn_web_development/extensions/testing/automated_testing,13
+learn_web_development/extensions/testing,5
+learn_web_development/extensions/testing/automated_testing,14
 learn_web_development/extensions/testing/feature_detection,13
-learn_web_development/extensions/testing/html_and_css,19
-learn_web_development/extensions/testing/introduction,9
+learn_web_development/extensions/testing/html_and_css,20
+learn_web_development/extensions/testing/introduction,10
 learn_web_development/extensions/testing/testing_strategies,11
-learn_web_development/extensions/testing/your_own_automation_environment,14
+learn_web_development/extensions/testing/your_own_automation_environment,15
 learn_web_development/getting_started,5
 learn_web_development/getting_started/environment_setup,4
 learn_web_development/getting_started/environment_setup/browsing_the_web,10
@@ -1023,7 +1024,7 @@ learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,2
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,13
 learn_web_development/howto/web_mechanics,null
 learn_web_development/howto/web_mechanics/file_browser_bugs,3
-learn_web_development/howto/web_mechanics/how_does_the_internet_work,0
+learn_web_development/howto/web_mechanics/how_does_the_internet_work,1
 learn_web_development/howto/web_mechanics/what_are_hyperlinks,3
 learn_web_development/howto/web_mechanics/what_is_a_domain_name,7
 learn_web_development/howto/web_mechanics/what_is_a_url,10
@@ -3818,7 +3819,7 @@ web/api/element/ariabraillelabel,0
 web/api/element/ariabrailleroledescription,null
 web/api/element/ariabusy,0
 web/api/element/ariachecked,null
-web/api/element/ariacolcount,null
+web/api/element/ariacolcount,0
 web/api/element/ariacolindex,null
 web/api/element/ariacolindextext,null
 web/api/element/ariacolspan,null
@@ -11910,7 +11911,7 @@ web/http/guides/redirections,6
 web/http/guides/session,null
 web/http/guides/user-agent_reduction,null
 web/http/reference,1
-web/http/reference/headers,18
+web/http/reference/headers,19
 web/http/reference/headers/accept,0
 web/http/reference/headers/accept-ch,5
 web/http/reference/headers/accept-encoding,5
@@ -12240,7 +12241,7 @@ web/javascript/guide/closures,10
 web/javascript/guide/control_flow_and_error_handling,7
 web/javascript/guide/data_structures,3
 web/javascript/guide/enumerability_and_ownership_of_properties,2
-web/javascript/guide/equality_comparisons_and_sameness,5
+web/javascript/guide/equality_comparisons_and_sameness,6
 web/javascript/guide/expressions_and_operators,null
 web/javascript/guide/functions,null
 web/javascript/guide/grammar_and_types,12
@@ -13632,7 +13633,7 @@ web/mathml/tutorials/for_beginners/three_famous_mathematical_formulas,null
 web/media,null
 web/media/guides,0
 web/media/guides/audio_and_video_delivery,null
-web/media/guides/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video,0
+web/media/guides/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video,1
 web/media/guides/audio_and_video_delivery/buffering_seeking_time_ranges,7
 web/media/guides/audio_and_video_delivery/cross-browser_audio_basics,null
 web/media/guides/audio_and_video_delivery/cross_browser_video_player,null
@@ -14323,7 +14324,7 @@ web/xml/xslt/reference/element/strip-space,null
 web/xml/xslt/reference/element/stylesheet,null
 web/xml/xslt/reference/element/template,null
 web/xml/xslt/reference/element/text,null
-web/xml/xslt/reference/element/transform,null
+web/xml/xslt/reference/element/transform,0
 web/xml/xslt/reference/element/value-of,null
 web/xml/xslt/reference/element/variable,null
 web/xml/xslt/reference/element/when,null

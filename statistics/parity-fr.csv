@@ -201,7 +201,8 @@ glossary/data_structure,0
 glossary/database,0
 glossary/debounce,0
 glossary/decryption,0
-glossary/deep_copy,0
+glossary/deep_copy,1
+glossary/deep_equality,null
 glossary/delta,0
 glossary/denial_of_service,0
 glossary/deno,0
@@ -561,7 +562,7 @@ glossary/server_timing,0
 glossary/session_hijacking,0
 glossary/sgml,0
 glossary/shadow_tree,0
-glossary/shallow_copy,0
+glossary/shallow_copy,1
 glossary/shim,0
 glossary/signature,0
 glossary/signature/function,0
@@ -9847,7 +9848,7 @@ web/api/window/parent,1
 web/api/window/performance,0
 web/api/window/personalbar,1
 web/api/window/popstate_event,0
-web/api/window/postmessage,0
+web/api/window/postmessage,1
 web/api/window/print,1
 web/api/window/prompt,0
 web/api/window/querylocalfonts,0
@@ -11861,7 +11862,7 @@ web/html/reference/global_attributes/virtualkeyboardpolicy,0
 web/html/reference/global_attributes/writingsuggestions,0
 web/http,1
 web/http/guides,0
-web/http/guides/authentication,2
+web/http/guides/authentication,3
 web/http/guides/browser_detection_using_the_user_agent,0
 web/http/guides/caching,3
 web/http/guides/client_hints,0
@@ -11910,7 +11911,7 @@ web/http/guides/redirections,null
 web/http/guides/session,null
 web/http/guides/user-agent_reduction,null
 web/http/reference,0
-web/http/reference/headers,1
+web/http/reference/headers,2
 web/http/reference/headers/accept,0
 web/http/reference/headers/accept-ch,0
 web/http/reference/headers/accept-encoding,0
@@ -11980,7 +11981,7 @@ web/http/reference/headers/content-security-policy/worker-src,0
 web/http/reference/headers/content-type,0
 web/http/reference/headers/cookie,1
 web/http/reference/headers/critical-ch,1
-web/http/reference/headers/cross-origin-embedder-policy,0
+web/http/reference/headers/cross-origin-embedder-policy,1
 web/http/reference/headers/cross-origin-embedder-policy-report-only,0
 web/http/reference/headers/cross-origin-opener-policy,1
 web/http/reference/headers/cross-origin-resource-policy,0
@@ -12077,7 +12078,7 @@ web/http/reference/headers/proxy-authenticate,0
 web/http/reference/headers/proxy-authorization,0
 web/http/reference/headers/range,0
 web/http/reference/headers/referer,0
-web/http/reference/headers/referrer-policy,1
+web/http/reference/headers/referrer-policy,2
 web/http/reference/headers/refresh,0
 web/http/reference/headers/report-to,1
 web/http/reference/headers/reporting-endpoints,0
@@ -12240,7 +12241,7 @@ web/javascript/guide/closures,null
 web/javascript/guide/control_flow_and_error_handling,null
 web/javascript/guide/data_structures,null
 web/javascript/guide/enumerability_and_ownership_of_properties,null
-web/javascript/guide/equality_comparisons_and_sameness,0
+web/javascript/guide/equality_comparisons_and_sameness,1
 web/javascript/guide/expressions_and_operators,null
 web/javascript/guide/functions,null
 web/javascript/guide/grammar_and_types,null
@@ -13677,7 +13678,7 @@ web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,null
 web/privacy/guides/privacy_sandbox,null
 web/privacy/guides/redirect_tracking_protection,null
-web/privacy/guides/referer_header_colon__privacy_and_security_concerns,1
+web/privacy/guides/referer_header_colon__privacy_and_security_concerns,2
 web/privacy/guides/state_partitioning,null
 web/privacy/guides/storage_access_policy,null
 web/privacy/guides/storage_access_policy/errors,null

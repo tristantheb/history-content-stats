@@ -12,7 +12,7 @@ games/techniques/3d_collision_detection,0
 games/techniques/3d_collision_detection/bounding_volume_collision_detection_with_three.js,0
 games/techniques/3d_on_the_web,0
 games/techniques/3d_on_the_web/basic_theory,0
-games/techniques/3d_on_the_web/building_up_a_basic_demo_with_a-frame,0
+games/techniques/3d_on_the_web/building_up_a_basic_demo_with_a-frame,1
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_babylon.js,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/editor,0
@@ -201,7 +201,8 @@ glossary/data_structure,0
 glossary/database,0
 glossary/debounce,0
 glossary/decryption,0
-glossary/deep_copy,0
+glossary/deep_copy,1
+glossary/deep_equality,null
 glossary/delta,0
 glossary/denial_of_service,0
 glossary/deno,0
@@ -561,7 +562,7 @@ glossary/server_timing,0
 glossary/session_hijacking,0
 glossary/sgml,0
 glossary/shadow_tree,0
-glossary/shallow_copy,0
+glossary/shallow_copy,1
 glossary/shim,0
 glossary/signature,0
 glossary/signature/function,0
@@ -870,7 +871,7 @@ learn_web_development/extensions/client-side_apis/introduction,0
 learn_web_development/extensions/client-side_apis/third_party_apis,0
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,1
 learn_web_development/extensions/client-side_tools,0
-learn_web_development/extensions/client-side_tools/deployment,0
+learn_web_development/extensions/client-side_tools/deployment,1
 learn_web_development/extensions/client-side_tools/introducing_complete_toolchain,0
 learn_web_development/extensions/client-side_tools/overview,0
 learn_web_development/extensions/client-side_tools/package_management,1
@@ -927,7 +928,7 @@ learn_web_development/extensions/server-side/django/sessions,0
 learn_web_development/extensions/server-side/django/skeleton_website,0
 learn_web_development/extensions/server-side/django/testing,0
 learn_web_development/extensions/server-side/django/tutorial_local_library_website,0
-learn_web_development/extensions/server-side/django/web_application_security,0
+learn_web_development/extensions/server-side/django/web_application_security,1
 learn_web_development/extensions/server-side/express_nodejs,0
 learn_web_development/extensions/server-side/express_nodejs/deployment,0
 learn_web_development/extensions/server-side/express_nodejs/development_environment,0
@@ -961,13 +962,13 @@ learn_web_development/extensions/server-side/first_steps/introduction,0
 learn_web_development/extensions/server-side/first_steps/web_frameworks,0
 learn_web_development/extensions/server-side/first_steps/website_security,0
 learn_web_development/extensions/server-side/node_server_without_framework,0
-learn_web_development/extensions/testing,0
-learn_web_development/extensions/testing/automated_testing,0
+learn_web_development/extensions/testing,1
+learn_web_development/extensions/testing/automated_testing,1
 learn_web_development/extensions/testing/feature_detection,0
-learn_web_development/extensions/testing/html_and_css,0
-learn_web_development/extensions/testing/introduction,0
+learn_web_development/extensions/testing/html_and_css,1
+learn_web_development/extensions/testing/introduction,1
 learn_web_development/extensions/testing/testing_strategies,0
-learn_web_development/extensions/testing/your_own_automation_environment,0
+learn_web_development/extensions/testing/your_own_automation_environment,1
 learn_web_development/getting_started,0
 learn_web_development/getting_started/environment_setup,0
 learn_web_development/getting_started/environment_setup/browsing_the_web,0
@@ -1023,7 +1024,7 @@ learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,0
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,0
 learn_web_development/howto/web_mechanics,0
 learn_web_development/howto/web_mechanics/file_browser_bugs,0
-learn_web_development/howto/web_mechanics/how_does_the_internet_work,0
+learn_web_development/howto/web_mechanics/how_does_the_internet_work,1
 learn_web_development/howto/web_mechanics/what_are_hyperlinks,0
 learn_web_development/howto/web_mechanics/what_is_a_domain_name,0
 learn_web_development/howto/web_mechanics/what_is_a_url,0
@@ -1902,7 +1903,7 @@ mozilla/firefox/releases/108,0
 mozilla/firefox/releases/109,0
 mozilla/firefox/releases/11,0
 mozilla/firefox/releases/110,0
-mozilla/firefox/releases/111,0
+mozilla/firefox/releases/111,1
 mozilla/firefox/releases/112,0
 mozilla/firefox/releases/113,0
 mozilla/firefox/releases/114,0
@@ -9320,7 +9321,7 @@ web/api/web_audio_api/controlling_multiple_parameters_with_constantsourcenode,0
 web/api/web_audio_api/simple_synth,0
 web/api/web_audio_api/using_audioworklet,0
 web/api/web_audio_api/using_iir_filters,0
-web/api/web_audio_api/using_web_audio_api,0
+web/api/web_audio_api/using_web_audio_api,1
 web/api/web_audio_api/visualizations_with_web_audio_api,0
 web/api/web_audio_api/web_audio_spatialization_basics,0
 web/api/web_authentication_api,0
@@ -9847,7 +9848,7 @@ web/api/window/parent,0
 web/api/window/performance,0
 web/api/window/personalbar,0
 web/api/window/popstate_event,0
-web/api/window/postmessage,0
+web/api/window/postmessage,1
 web/api/window/print,0
 web/api/window/prompt,0
 web/api/window/querylocalfonts,0
@@ -11861,7 +11862,7 @@ web/html/reference/global_attributes/virtualkeyboardpolicy,0
 web/html/reference/global_attributes/writingsuggestions,0
 web/http,0
 web/http/guides,0
-web/http/guides/authentication,0
+web/http/guides/authentication,1
 web/http/guides/browser_detection_using_the_user_agent,0
 web/http/guides/caching,0
 web/http/guides/client_hints,0
@@ -11910,7 +11911,7 @@ web/http/guides/redirections,0
 web/http/guides/session,0
 web/http/guides/user-agent_reduction,0
 web/http/reference,0
-web/http/reference/headers,0
+web/http/reference/headers,1
 web/http/reference/headers/accept,0
 web/http/reference/headers/accept-ch,0
 web/http/reference/headers/accept-encoding,0
@@ -11980,7 +11981,7 @@ web/http/reference/headers/content-security-policy/worker-src,0
 web/http/reference/headers/content-type,0
 web/http/reference/headers/cookie,0
 web/http/reference/headers/critical-ch,0
-web/http/reference/headers/cross-origin-embedder-policy,0
+web/http/reference/headers/cross-origin-embedder-policy,1
 web/http/reference/headers/cross-origin-embedder-policy-report-only,0
 web/http/reference/headers/cross-origin-opener-policy,0
 web/http/reference/headers/cross-origin-resource-policy,0
@@ -12077,7 +12078,7 @@ web/http/reference/headers/proxy-authenticate,0
 web/http/reference/headers/proxy-authorization,0
 web/http/reference/headers/range,0
 web/http/reference/headers/referer,0
-web/http/reference/headers/referrer-policy,0
+web/http/reference/headers/referrer-policy,1
 web/http/reference/headers/refresh,0
 web/http/reference/headers/report-to,0
 web/http/reference/headers/reporting-endpoints,0
@@ -12240,7 +12241,7 @@ web/javascript/guide/closures,0
 web/javascript/guide/control_flow_and_error_handling,0
 web/javascript/guide/data_structures,0
 web/javascript/guide/enumerability_and_ownership_of_properties,0
-web/javascript/guide/equality_comparisons_and_sameness,0
+web/javascript/guide/equality_comparisons_and_sameness,1
 web/javascript/guide/expressions_and_operators,0
 web/javascript/guide/functions,0
 web/javascript/guide/grammar_and_types,0
@@ -13631,16 +13632,16 @@ web/mathml/tutorials/for_beginners/text_containers,0
 web/mathml/tutorials/for_beginners/three_famous_mathematical_formulas,0
 web/media,0
 web/media/guides,0
-web/media/guides/audio_and_video_delivery,0
-web/media/guides/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video,0
+web/media/guides/audio_and_video_delivery,1
+web/media/guides/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video,1
 web/media/guides/audio_and_video_delivery/buffering_seeking_time_ranges,0
 web/media/guides/audio_and_video_delivery/cross-browser_audio_basics,0
 web/media/guides/audio_and_video_delivery/cross_browser_video_player,0
 web/media/guides/audio_and_video_delivery/live_streaming_web_audio_and_video,0
 web/media/guides/audio_and_video_delivery/setting_up_adaptive_streaming_media_sources,0
-web/media/guides/audio_and_video_delivery/video_player_styling_basics,0
+web/media/guides/audio_and_video_delivery/video_player_styling_basics,1
 web/media/guides/audio_and_video_delivery/webaudio_playbackrate_explained,0
-web/media/guides/audio_and_video_manipulation,0
+web/media/guides/audio_and_video_manipulation,1
 web/media/guides/autoplay,0
 web/media/guides/formats,0
 web/media/guides/formats/audio_codecs,0
@@ -13677,7 +13678,7 @@ web/privacy/guides/bounce_tracking_mitigations,0
 web/privacy/guides/firefox_tracking_protection,0
 web/privacy/guides/privacy_sandbox,0
 web/privacy/guides/redirect_tracking_protection,0
-web/privacy/guides/referer_header_colon__privacy_and_security_concerns,0
+web/privacy/guides/referer_header_colon__privacy_and_security_concerns,1
 web/privacy/guides/state_partitioning,0
 web/privacy/guides/storage_access_policy,0
 web/privacy/guides/storage_access_policy/errors,0

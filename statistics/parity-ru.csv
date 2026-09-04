@@ -202,6 +202,7 @@ glossary/database,0
 glossary/debounce,null
 glossary/decryption,null
 glossary/deep_copy,null
+glossary/deep_equality,null
 glossary/delta,null
 glossary/denial_of_service,2
 glossary/deno,null
@@ -1023,7 +1024,7 @@ learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,nul
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,null
 learn_web_development/howto/web_mechanics,null
 learn_web_development/howto/web_mechanics/file_browser_bugs,null
-learn_web_development/howto/web_mechanics/how_does_the_internet_work,6
+learn_web_development/howto/web_mechanics/how_does_the_internet_work,7
 learn_web_development/howto/web_mechanics/what_are_hyperlinks,null
 learn_web_development/howto/web_mechanics/what_is_a_domain_name,null
 learn_web_development/howto/web_mechanics/what_is_a_url,null
