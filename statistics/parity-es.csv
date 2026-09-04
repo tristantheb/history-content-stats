@@ -715,11 +715,11 @@ learn_web_development/core/accessibility/what_is_accessibility,null
 learn_web_development/core/css_layout,null
 learn_web_development/core/css_layout/flexbox,null
 learn_web_development/core/css_layout/floats,null
-learn_web_development/core/css_layout/fundamental_layout_comprehension,8
+learn_web_development/core/css_layout/fundamental_layout_comprehension,9
 learn_web_development/core/css_layout/grids,null
 learn_web_development/core/css_layout/introduction,null
 learn_web_development/core/css_layout/legacy_layout_methods,null
-learn_web_development/core/css_layout/media_queries,12
+learn_web_development/core/css_layout/media_queries,13
 learn_web_development/core/css_layout/mobile-first_challenge,null
 learn_web_development/core/css_layout/multiple-column_layout,null
 learn_web_development/core/css_layout/positioning,null
@@ -2630,6 +2630,7 @@ web/api/blob/size,null
 web/api/blob/slice,null
 web/api/blob/stream,null
 web/api/blob/text,null
+web/api/blob/textstream,null
 web/api/blob/type,null
 web/api/blobevent,null
 web/api/blobevent/blobevent,null
@@ -3931,7 +3932,7 @@ web/api/element/insertadjacenthtml,null
 web/api/element/insertadjacenttext,null
 web/api/element/keydown_event,21
 web/api/element/keypress_event,null
-web/api/element/keyup_event,16
+web/api/element/keyup_event,17
 web/api/element/lastelementchild,null
 web/api/element/localname,null
 web/api/element/lostpointercapture_event,null
@@ -7162,6 +7163,7 @@ web/api/request/request,null
 web/api/request/signal,null
 web/api/request/targetaddressspace,null
 web/api/request/text,null
+web/api/request/textstream,null
 web/api/request/url,null
 web/api/requestinit,null
 web/api/resize_observer_api,null
@@ -7198,6 +7200,7 @@ web/api/response/response,null
 web/api/response/status,null
 web/api/response/statustext,null
 web/api/response/text,null
+web/api/response/textstream,null
 web/api/response/type,null
 web/api/response/url,null
 web/api/restrictiontarget,null
@@ -14434,6 +14437,7 @@ webassembly/reference/memory/store,null
 webassembly/reference/numeric,null
 webassembly/reference/numeric/abs,null
 webassembly/reference/numeric/add,null
+webassembly/reference/numeric/add128,null
 webassembly/reference/numeric/and,null
 webassembly/reference/numeric/ceil,null
 webassembly/reference/numeric/clz,null
@@ -14465,6 +14469,8 @@ webassembly/reference/numeric/lt_u,null
 webassembly/reference/numeric/max,null
 webassembly/reference/numeric/min,null
 webassembly/reference/numeric/mul,null
+webassembly/reference/numeric/mul_wide_s,null
+webassembly/reference/numeric/mul_wide_u,null
 webassembly/reference/numeric/ne,null
 webassembly/reference/numeric/nearest,null
 webassembly/reference/numeric/neg,null
@@ -14480,6 +14486,7 @@ webassembly/reference/numeric/shr_s,null
 webassembly/reference/numeric/shr_u,null
 webassembly/reference/numeric/sqrt,null
 webassembly/reference/numeric/sub,null
+webassembly/reference/numeric/sub128,null
 webassembly/reference/numeric/trunc,null
 webassembly/reference/numeric/trunc_f32_s,null
 webassembly/reference/numeric/trunc_f32_u,null
