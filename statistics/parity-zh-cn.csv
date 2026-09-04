@@ -865,10 +865,10 @@ learn_web_development/extensions/async_js/promises,7
 learn_web_development/extensions/async_js/sequencing_animations,null
 learn_web_development/extensions/client-side_apis,5
 learn_web_development/extensions/client-side_apis/client-side_storage,6
-learn_web_development/extensions/client-side_apis/drawing_graphics,15
+learn_web_development/extensions/client-side_apis/drawing_graphics,16
 learn_web_development/extensions/client-side_apis/introduction,6
 learn_web_development/extensions/client-side_apis/third_party_apis,8
-learn_web_development/extensions/client-side_apis/video_and_audio_apis,16
+learn_web_development/extensions/client-side_apis/video_and_audio_apis,17
 learn_web_development/extensions/client-side_tools,3
 learn_web_development/extensions/client-side_tools/deployment,1
 learn_web_development/extensions/client-side_tools/introducing_complete_toolchain,null
@@ -2622,14 +2622,15 @@ web/api/biquadfilternode/gain,null
 web/api/biquadfilternode/getfrequencyresponse,null
 web/api/biquadfilternode/q,null
 web/api/biquadfilternode/type,null
-web/api/blob,2
+web/api/blob,3
 web/api/blob/arraybuffer,0
 web/api/blob/blob,2
 web/api/blob/bytes,0
 web/api/blob/size,0
 web/api/blob/slice,1
-web/api/blob/stream,0
+web/api/blob/stream,1
 web/api/blob/text,0
+web/api/blob/textstream,null
 web/api/blob/type,0
 web/api/blobevent,0
 web/api/blobevent/blobevent,0
@@ -3823,7 +3824,7 @@ web/api/element/ariacolindextext,null
 web/api/element/ariacolspan,null
 web/api/element/ariacontrolselements,null
 web/api/element/ariacurrent,null
-web/api/element/ariadescribedbyelements,0
+web/api/element/ariadescribedbyelements,1
 web/api/element/ariadescription,null
 web/api/element/ariadetailselements,null
 web/api/element/ariadisabled,null
@@ -4742,10 +4743,10 @@ web/api/html_drag_and_drop_api/kanban_board,null
 web/api/html_sanitizer_api,null
 web/api/html_sanitizer_api/default_sanitizer_configuration,null
 web/api/html_sanitizer_api/using_the_html_sanitizer_api,null
-web/api/htmlallcollection,1
-web/api/htmlallcollection/item,0
-web/api/htmlallcollection/length,0
-web/api/htmlallcollection/nameditem,0
+web/api/htmlallcollection,2
+web/api/htmlallcollection/item,1
+web/api/htmlallcollection/length,1
+web/api/htmlallcollection/nameditem,1
 web/api/htmlanchorelement,6
 web/api/htmlanchorelement/attributionsourceid,null
 web/api/htmlanchorelement/attributionsrc,7
@@ -5209,7 +5210,7 @@ web/api/htmlmediaelement/waiting_event,null
 web/api/htmlmediaelement/waitingforkey_event,null
 web/api/htmlmenuelement,1
 web/api/htmlmenuelement/compact,1
-web/api/htmlmetaelement,5
+web/api/htmlmetaelement,6
 web/api/htmlmetaelement/content,3
 web/api/htmlmetaelement/httpequiv,2
 web/api/htmlmetaelement/media,5
@@ -7162,6 +7163,7 @@ web/api/request/request,null
 web/api/request/signal,null
 web/api/request/targetaddressspace,null
 web/api/request/text,1
+web/api/request/textstream,null
 web/api/request/url,null
 web/api/requestinit,null
 web/api/resize_observer_api,null
@@ -7198,6 +7200,7 @@ web/api/response/response,null
 web/api/response/status,2
 web/api/response/statustext,null
 web/api/response/text,null
+web/api/response/textstream,null
 web/api/response/type,null
 web/api/response/url,null
 web/api/restrictiontarget,null
@@ -9636,7 +9639,7 @@ web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/creating_a_call,3
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/end_a_call,2
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/get_microphone_permission,4
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/show_hide_html,1
-web/api/webrtc_api/build_a_phone_with_peerjs/setup,1
+web/api/webrtc_api/build_a_phone_with_peerjs/setup,2
 web/api/webrtc_api/connectivity,null
 web/api/webrtc_api/intro_to_rtp,0
 web/api/webrtc_api/perfect_negotiation,4
@@ -9674,7 +9677,7 @@ web/api/websocketstream/closed,null
 web/api/websocketstream/opened,null
 web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,null
-web/api/webtransport,7
+web/api/webtransport,8
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
@@ -12768,7 +12771,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,null
 web/javascript/reference/global_objects/isfinite,null
 web/javascript/reference/global_objects/isnan,7
-web/javascript/reference/global_objects/iterator,23
+web/javascript/reference/global_objects/iterator,24
 web/javascript/reference/global_objects/iterator/chunks,null
 web/javascript/reference/global_objects/iterator/concat,null
 web/javascript/reference/global_objects/iterator/drop,5
@@ -14384,9 +14387,9 @@ webassembly/reference/javascript_interface/exception,-1
 webassembly/reference/javascript_interface/exception/exception,5
 webassembly/reference/javascript_interface/exception/getarg,1
 webassembly/reference/javascript_interface/exception/is,2
-webassembly/reference/javascript_interface/exception/stack,2
+webassembly/reference/javascript_interface/exception/stack,3
 webassembly/reference/javascript_interface/global,1
-webassembly/reference/javascript_interface/global/global,4
+webassembly/reference/javascript_interface/global/global,5
 webassembly/reference/javascript_interface/global/value,null
 webassembly/reference/javascript_interface/global/valueof,null
 webassembly/reference/javascript_interface/instance,0
@@ -14434,6 +14437,7 @@ webassembly/reference/memory/store,null
 webassembly/reference/numeric,null
 webassembly/reference/numeric/abs,null
 webassembly/reference/numeric/add,null
+webassembly/reference/numeric/add128,null
 webassembly/reference/numeric/and,null
 webassembly/reference/numeric/ceil,null
 webassembly/reference/numeric/clz,null
@@ -14465,6 +14469,8 @@ webassembly/reference/numeric/lt_u,null
 webassembly/reference/numeric/max,null
 webassembly/reference/numeric/min,null
 webassembly/reference/numeric/mul,null
+webassembly/reference/numeric/mul_wide_s,null
+webassembly/reference/numeric/mul_wide_u,null
 webassembly/reference/numeric/ne,null
 webassembly/reference/numeric/nearest,null
 webassembly/reference/numeric/neg,null
@@ -14480,6 +14486,7 @@ webassembly/reference/numeric/shr_s,null
 webassembly/reference/numeric/shr_u,null
 webassembly/reference/numeric/sqrt,null
 webassembly/reference/numeric/sub,null
+webassembly/reference/numeric/sub128,null
 webassembly/reference/numeric/trunc,null
 webassembly/reference/numeric/trunc_f32_s,null
 webassembly/reference/numeric/trunc_f32_u,null

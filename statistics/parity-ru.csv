@@ -2630,6 +2630,7 @@ web/api/blob/size,null
 web/api/blob/slice,null
 web/api/blob/stream,null
 web/api/blob/text,null
+web/api/blob/textstream,null
 web/api/blob/type,null
 web/api/blobevent,null
 web/api/blobevent/blobevent,null
@@ -7162,6 +7163,7 @@ web/api/request/request,null
 web/api/request/signal,null
 web/api/request/targetaddressspace,null
 web/api/request/text,null
+web/api/request/textstream,null
 web/api/request/url,null
 web/api/requestinit,null
 web/api/resize_observer_api,null
@@ -7198,6 +7200,7 @@ web/api/response/response,null
 web/api/response/status,5
 web/api/response/statustext,3
 web/api/response/text,null
+web/api/response/textstream,null
 web/api/response/type,6
 web/api/response/url,3
 web/api/restrictiontarget,null
@@ -14434,6 +14437,7 @@ webassembly/reference/memory/store,null
 webassembly/reference/numeric,null
 webassembly/reference/numeric/abs,null
 webassembly/reference/numeric/add,null
+webassembly/reference/numeric/add128,null
 webassembly/reference/numeric/and,null
 webassembly/reference/numeric/ceil,null
 webassembly/reference/numeric/clz,null
@@ -14465,6 +14469,8 @@ webassembly/reference/numeric/lt_u,null
 webassembly/reference/numeric/max,null
 webassembly/reference/numeric/min,null
 webassembly/reference/numeric/mul,null
+webassembly/reference/numeric/mul_wide_s,null
+webassembly/reference/numeric/mul_wide_u,null
 webassembly/reference/numeric/ne,null
 webassembly/reference/numeric/nearest,null
 webassembly/reference/numeric/neg,null
@@ -14480,6 +14486,7 @@ webassembly/reference/numeric/shr_s,null
 webassembly/reference/numeric/shr_u,null
 webassembly/reference/numeric/sqrt,null
 webassembly/reference/numeric/sub,null
+webassembly/reference/numeric/sub128,null
 webassembly/reference/numeric/trunc,null
 webassembly/reference/numeric/trunc_f32_s,null
 webassembly/reference/numeric/trunc_f32_u,null
