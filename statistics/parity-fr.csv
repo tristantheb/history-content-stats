@@ -477,7 +477,7 @@ glossary/prefetch,0
 glossary/preflight_request,0
 glossary/prerender,0
 glossary/presto,0
-glossary/primitive,0
+glossary/primitive,1
 glossary/principle_of_least_privilege,0
 glossary/privileged,0
 glossary/privileged_code,0
@@ -1999,7 +1999,7 @@ mozilla/firefox/releases/32,0
 mozilla/firefox/releases/33,0
 mozilla/firefox/releases/34,0
 mozilla/firefox/releases/35,0
-mozilla/firefox/releases/36,0
+mozilla/firefox/releases/36,1
 mozilla/firefox/releases/37,0
 mozilla/firefox/releases/38,1
 mozilla/firefox/releases/39,0
@@ -2123,7 +2123,7 @@ web/accessibility/aria/reference/attributes/aria-hidden,0
 web/accessibility/aria/reference/attributes/aria-invalid,0
 web/accessibility/aria/reference/attributes/aria-keyshortcuts,0
 web/accessibility/aria/reference/attributes/aria-label,0
-web/accessibility/aria/reference/attributes/aria-labelledby,0
+web/accessibility/aria/reference/attributes/aria-labelledby,1
 web/accessibility/aria/reference/attributes/aria-level,0
 web/accessibility/aria/reference/attributes/aria-live,0
 web/accessibility/aria/reference/attributes/aria-modal,0
@@ -2134,7 +2134,7 @@ web/accessibility/aria/reference/attributes/aria-owns,0
 web/accessibility/aria/reference/attributes/aria-placeholder,0
 web/accessibility/aria/reference/attributes/aria-posinset,0
 web/accessibility/aria/reference/attributes/aria-pressed,0
-web/accessibility/aria/reference/attributes/aria-readonly,0
+web/accessibility/aria/reference/attributes/aria-readonly,1
 web/accessibility/aria/reference/attributes/aria-relevant,0
 web/accessibility/aria/reference/attributes/aria-required,0
 web/accessibility/aria/reference/attributes/aria-roledescription,0
@@ -2192,8 +2192,8 @@ web/accessibility/aria/reference/roles/math_role,0
 web/accessibility/aria/reference/roles/menu_role,0
 web/accessibility/aria/reference/roles/menubar_role,0
 web/accessibility/aria/reference/roles/menuitem_role,0
-web/accessibility/aria/reference/roles/menuitemcheckbox_role,0
-web/accessibility/aria/reference/roles/menuitemradio_role,0
+web/accessibility/aria/reference/roles/menuitemcheckbox_role,1
+web/accessibility/aria/reference/roles/menuitemradio_role,1
 web/accessibility/aria/reference/roles/meter_role,0
 web/accessibility/aria/reference/roles/navigation_role,0
 web/accessibility/aria/reference/roles/none_role,0
@@ -2231,7 +2231,7 @@ web/accessibility/aria/reference/roles/term_role,0
 web/accessibility/aria/reference/roles/textbox_role,0
 web/accessibility/aria/reference/roles/timer_role,0
 web/accessibility/aria/reference/roles/toolbar_role,0
-web/accessibility/aria/reference/roles/tooltip_role,0
+web/accessibility/aria/reference/roles/tooltip_role,1
 web/accessibility/aria/reference/roles/tree_role,0
 web/accessibility/aria/reference/roles/treegrid_role,0
 web/accessibility/aria/reference/roles/treeitem_role,0
@@ -9457,7 +9457,7 @@ web/api/webgl_api/tutorial/creating_3d_objects_using_webgl,null
 web/api/webgl_api/tutorial/getting_started_with_webgl,null
 web/api/webgl_api/tutorial/lighting_in_webgl,null
 web/api/webgl_api/tutorial/using_shaders_to_apply_color_in_webgl,null
-web/api/webgl_api/tutorial/using_textures_in_webgl,0
+web/api/webgl_api/tutorial/using_textures_in_webgl,1
 web/api/webgl_api/types,null
 web/api/webgl_api/using_extensions,null
 web/api/webgl_api/webgl_best_practices,null
@@ -10903,7 +10903,7 @@ web/css/reference/properties/flex-shrink,0
 web/css/reference/properties/flex-wrap,0
 web/css/reference/properties/float,0
 web/css/reference/properties/flood-color,0
-web/css/reference/properties/flood-opacity,0
+web/css/reference/properties/flood-opacity,1
 web/css/reference/properties/font,0
 web/css/reference/properties/font-family,0
 web/css/reference/properties/font-feature-settings,0
@@ -11163,7 +11163,7 @@ web/css/reference/properties/shape-outside,0
 web/css/reference/properties/shape-rendering,0
 web/css/reference/properties/speak-as,0
 web/css/reference/properties/stop-color,0
-web/css/reference/properties/stop-opacity,0
+web/css/reference/properties/stop-opacity,1
 web/css/reference/properties/stroke,0
 web/css/reference/properties/stroke-dasharray,0
 web/css/reference/properties/stroke-dashoffset,0
@@ -11208,7 +11208,7 @@ web/css/reference/properties/text-underline-position,0
 web/css/reference/properties/text-wrap,0
 web/css/reference/properties/text-wrap-mode,0
 web/css/reference/properties/text-wrap-style,0
-web/css/reference/properties/timeline-scope,0
+web/css/reference/properties/timeline-scope,1
 web/css/reference/properties/top,0
 web/css/reference/properties/touch-action,0
 web/css/reference/properties/transform,0
@@ -11630,7 +11630,7 @@ web/html/reference/attributes/capture,0
 web/html/reference/attributes/content,0
 web/html/reference/attributes/crossorigin,0
 web/html/reference/attributes/dirname,0
-web/html/reference/attributes/disabled,0
+web/html/reference/attributes/disabled,1
 web/html/reference/attributes/elementtiming,0
 web/html/reference/attributes/fetchpriority,0
 web/html/reference/attributes/for,0
@@ -11642,8 +11642,8 @@ web/html/reference/attributes/min,0
 web/html/reference/attributes/minlength,0
 web/html/reference/attributes/multiple,0
 web/html/reference/attributes/pattern,0
-web/html/reference/attributes/placeholder,0
-web/html/reference/attributes/readonly,0
+web/html/reference/attributes/placeholder,1
+web/html/reference/attributes/readonly,1
 web/html/reference/attributes/rel,0
 web/html/reference/attributes/rel/alternate_stylesheet,0
 web/html/reference/attributes/rel/compression-dictionary,0
@@ -11664,7 +11664,7 @@ web/html/reference/elements,0
 web/html/reference/elements/a,0
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,0
-web/html/reference/elements/address,0
+web/html/reference/elements/address,1
 web/html/reference/elements/area,0
 web/html/reference/elements/article,0
 web/html/reference/elements/aside,0
@@ -11686,7 +11686,7 @@ web/html/reference/elements/code,0
 web/html/reference/elements/col,0
 web/html/reference/elements/colgroup,0
 web/html/reference/elements/data,0
-web/html/reference/elements/datalist,0
+web/html/reference/elements/datalist,1
 web/html/reference/elements/dd,0
 web/html/reference/elements/del,0
 web/html/reference/elements/details,0
@@ -12813,7 +12813,7 @@ web/javascript/reference/global_objects/map/has,0
 web/javascript/reference/global_objects/map/keys,0
 web/javascript/reference/global_objects/map/map,0
 web/javascript/reference/global_objects/map/set,0
-web/javascript/reference/global_objects/map/size,0
+web/javascript/reference/global_objects/map/size,1
 web/javascript/reference/global_objects/map/symbol.iterator,0
 web/javascript/reference/global_objects/map/symbol.species,0
 web/javascript/reference/global_objects/map/values,0

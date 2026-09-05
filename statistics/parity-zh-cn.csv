@@ -477,7 +477,7 @@ glossary/prefetch,5
 glossary/preflight_request,4
 glossary/prerender,4
 glossary/presto,1
-glossary/primitive,4
+glossary/primitive,5
 glossary/principle_of_least_privilege,0
 glossary/privileged,1
 glossary/privileged_code,1
@@ -1297,7 +1297,7 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/rulecondition,7
 mozilla/add-ons/webextensions/api/declarativenetrequest/session_ruleset_id,1
 mozilla/add-ons/webextensions/api/declarativenetrequest/setextensionactionoptions,3
 mozilla/add-ons/webextensions/api/declarativenetrequest/testmatchoutcome,2
-mozilla/add-ons/webextensions/api/declarativenetrequest/updatedynamicrules,5
+mozilla/add-ons/webextensions/api/declarativenetrequest/updatedynamicrules,6
 mozilla/add-ons/webextensions/api/declarativenetrequest/updateenabledrulesets,4
 mozilla/add-ons/webextensions/api/declarativenetrequest/updatesessionrules,5
 mozilla/add-ons/webextensions/api/declarativenetrequest/updatestaticrules,null
@@ -2123,7 +2123,7 @@ web/accessibility/aria/reference/attributes/aria-hidden,4
 web/accessibility/aria/reference/attributes/aria-invalid,null
 web/accessibility/aria/reference/attributes/aria-keyshortcuts,null
 web/accessibility/aria/reference/attributes/aria-label,0
-web/accessibility/aria/reference/attributes/aria-labelledby,7
+web/accessibility/aria/reference/attributes/aria-labelledby,8
 web/accessibility/aria/reference/attributes/aria-level,null
 web/accessibility/aria/reference/attributes/aria-live,null
 web/accessibility/aria/reference/attributes/aria-modal,null
@@ -2994,10 +2994,10 @@ web/api/cookiechangeevent/cookiechangeevent,0
 web/api/cookiechangeevent/deleted,5
 web/api/cookiestore,3
 web/api/cookiestore/change_event,1
-web/api/cookiestore/delete,5
+web/api/cookiestore/delete,6
 web/api/cookiestore/get,6
 web/api/cookiestore/getall,5
-web/api/cookiestore/set,6
+web/api/cookiestore/set,7
 web/api/cookiestoremanager,0
 web/api/cookiestoremanager/getsubscriptions,0
 web/api/cookiestoremanager/subscribe,2
@@ -6393,7 +6393,7 @@ web/api/ndefreader/ndefreader,1
 web/api/ndefreader/reading_event,null
 web/api/ndefreader/readingerror_event,null
 web/api/ndefreader/scan,3
-web/api/ndefreader/write,5
+web/api/ndefreader/write,6
 web/api/ndefreadingevent,null
 web/api/ndefreadingevent/message,null
 web/api/ndefreadingevent/ndefreadingevent,null
@@ -6702,7 +6702,7 @@ web/api/performance_api/navigation_timing,null
 web/api/performance_api/performance_data,null
 web/api/performance_api/resource_timing,null
 web/api/performance_api/server_timing,0
-web/api/performance_api/user_timing,0
+web/api/performance_api/user_timing,1
 web/api/performanceelementtiming,null
 web/api/performanceelementtiming/element,null
 web/api/performanceelementtiming/id,null
@@ -11642,8 +11642,8 @@ web/html/reference/attributes/min,5
 web/html/reference/attributes/minlength,5
 web/html/reference/attributes/multiple,4
 web/html/reference/attributes/pattern,null
-web/html/reference/attributes/placeholder,5
-web/html/reference/attributes/readonly,4
+web/html/reference/attributes/placeholder,6
+web/html/reference/attributes/readonly,5
 web/html/reference/attributes/rel,null
 web/html/reference/attributes/rel/alternate_stylesheet,3
 web/html/reference/attributes/rel/compression-dictionary,2
@@ -11664,7 +11664,7 @@ web/html/reference/elements,1
 web/html/reference/elements/a,2
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,4
-web/html/reference/elements/address,3
+web/html/reference/elements/address,4
 web/html/reference/elements/area,8
 web/html/reference/elements/article,3
 web/html/reference/elements/aside,2
@@ -12813,7 +12813,7 @@ web/javascript/reference/global_objects/map/has,null
 web/javascript/reference/global_objects/map/keys,null
 web/javascript/reference/global_objects/map/map,null
 web/javascript/reference/global_objects/map/set,null
-web/javascript/reference/global_objects/map/size,0
+web/javascript/reference/global_objects/map/size,1
 web/javascript/reference/global_objects/map/symbol.iterator,null
 web/javascript/reference/global_objects/map/symbol.species,null
 web/javascript/reference/global_objects/map/values,null

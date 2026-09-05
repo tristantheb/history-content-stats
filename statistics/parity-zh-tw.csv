@@ -10063,7 +10063,7 @@ web/api/xmlhttprequest/status,0
 web/api/xmlhttprequest/statustext,null
 web/api/xmlhttprequest/timeout,null
 web/api/xmlhttprequest/upload,null
-web/api/xmlhttprequest/withcredentials,0
+web/api/xmlhttprequest/withcredentials,1
 web/api/xmlhttprequest/xmlhttprequest,0
 web/api/xmlhttprequest_api,null
 web/api/xmlhttprequest_api/html_in_xmlhttprequest,null

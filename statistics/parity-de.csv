@@ -29,7 +29,7 @@ games/techniques/control_mechanisms/mobile_touch,0
 games/techniques/control_mechanisms/other,0
 games/techniques/controls_gamepad_api,0
 games/techniques/crisp_pixel_art_look,0
-games/techniques/tilemaps,0
+games/techniques/tilemaps,1
 games/techniques/tilemaps/square_tilemaps_implementation_colon__scrolling_maps,0
 games/techniques/tilemaps/square_tilemaps_implementation_colon__static_maps,0
 games/techniques/webrtc_data_channels,0
@@ -477,7 +477,7 @@ glossary/prefetch,0
 glossary/preflight_request,0
 glossary/prerender,0
 glossary/presto,0
-glossary/primitive,0
+glossary/primitive,1
 glossary/principle_of_least_privilege,0
 glossary/privileged,0
 glossary/privileged_code,0
@@ -877,11 +877,11 @@ learn_web_development/extensions/client-side_tools/overview,0
 learn_web_development/extensions/client-side_tools/package_management,0
 learn_web_development/extensions/forms,0
 learn_web_development/extensions/forms/advanced_form_styling,0
-learn_web_development/extensions/forms/basic_native_form_controls,0
+learn_web_development/extensions/forms/basic_native_form_controls,1
 learn_web_development/extensions/forms/customizable_select,0
 learn_web_development/extensions/forms/customizable_select_listboxes,0
 learn_web_development/extensions/forms/form_validation,0
-learn_web_development/extensions/forms/how_to_build_custom_form_controls,0
+learn_web_development/extensions/forms/how_to_build_custom_form_controls,1
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_3,0
@@ -911,7 +911,7 @@ learn_web_development/extensions/performance/video,0
 learn_web_development/extensions/performance/what_is_web_performance,0
 learn_web_development/extensions/performance/why_web_performance,0
 learn_web_development/extensions/server-side,0
-learn_web_development/extensions/server-side/apache_configuration_htaccess,0
+learn_web_development/extensions/server-side/apache_configuration_htaccess,1
 learn_web_development/extensions/server-side/configuring_server_mime_types,0
 learn_web_development/extensions/server-side/django,0
 learn_web_development/extensions/server-side/django/admin_site,0
@@ -1297,7 +1297,7 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/rulecondition,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/session_ruleset_id,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/setextensionactionoptions,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/testmatchoutcome,0
-mozilla/add-ons/webextensions/api/declarativenetrequest/updatedynamicrules,0
+mozilla/add-ons/webextensions/api/declarativenetrequest/updatedynamicrules,1
 mozilla/add-ons/webextensions/api/declarativenetrequest/updateenabledrulesets,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/updatesessionrules,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/updatestaticrules,0
@@ -1811,7 +1811,7 @@ mozilla/add-ons/webextensions/internationalization,0
 mozilla/add-ons/webextensions/manifest.json,0
 mozilla/add-ons/webextensions/manifest.json/action,0
 mozilla/add-ons/webextensions/manifest.json/author,0
-mozilla/add-ons/webextensions/manifest.json/background,0
+mozilla/add-ons/webextensions/manifest.json/background,1
 mozilla/add-ons/webextensions/manifest.json/browser_action,0
 mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,0
 mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,0
@@ -1999,7 +1999,7 @@ mozilla/firefox/releases/32,0
 mozilla/firefox/releases/33,0
 mozilla/firefox/releases/34,0
 mozilla/firefox/releases/35,0
-mozilla/firefox/releases/36,0
+mozilla/firefox/releases/36,1
 mozilla/firefox/releases/37,0
 mozilla/firefox/releases/38,0
 mozilla/firefox/releases/39,0
@@ -2123,7 +2123,7 @@ web/accessibility/aria/reference/attributes/aria-hidden,0
 web/accessibility/aria/reference/attributes/aria-invalid,0
 web/accessibility/aria/reference/attributes/aria-keyshortcuts,0
 web/accessibility/aria/reference/attributes/aria-label,0
-web/accessibility/aria/reference/attributes/aria-labelledby,0
+web/accessibility/aria/reference/attributes/aria-labelledby,1
 web/accessibility/aria/reference/attributes/aria-level,0
 web/accessibility/aria/reference/attributes/aria-live,0
 web/accessibility/aria/reference/attributes/aria-modal,0
@@ -2134,7 +2134,7 @@ web/accessibility/aria/reference/attributes/aria-owns,0
 web/accessibility/aria/reference/attributes/aria-placeholder,0
 web/accessibility/aria/reference/attributes/aria-posinset,0
 web/accessibility/aria/reference/attributes/aria-pressed,0
-web/accessibility/aria/reference/attributes/aria-readonly,0
+web/accessibility/aria/reference/attributes/aria-readonly,1
 web/accessibility/aria/reference/attributes/aria-relevant,0
 web/accessibility/aria/reference/attributes/aria-required,0
 web/accessibility/aria/reference/attributes/aria-roledescription,0
@@ -2192,8 +2192,8 @@ web/accessibility/aria/reference/roles/math_role,0
 web/accessibility/aria/reference/roles/menu_role,0
 web/accessibility/aria/reference/roles/menubar_role,0
 web/accessibility/aria/reference/roles/menuitem_role,0
-web/accessibility/aria/reference/roles/menuitemcheckbox_role,0
-web/accessibility/aria/reference/roles/menuitemradio_role,0
+web/accessibility/aria/reference/roles/menuitemcheckbox_role,1
+web/accessibility/aria/reference/roles/menuitemradio_role,1
 web/accessibility/aria/reference/roles/meter_role,0
 web/accessibility/aria/reference/roles/navigation_role,0
 web/accessibility/aria/reference/roles/none_role,0
@@ -2231,7 +2231,7 @@ web/accessibility/aria/reference/roles/term_role,0
 web/accessibility/aria/reference/roles/textbox_role,0
 web/accessibility/aria/reference/roles/timer_role,0
 web/accessibility/aria/reference/roles/toolbar_role,0
-web/accessibility/aria/reference/roles/tooltip_role,0
+web/accessibility/aria/reference/roles/tooltip_role,1
 web/accessibility/aria/reference/roles/tree_role,0
 web/accessibility/aria/reference/roles/treegrid_role,0
 web/accessibility/aria/reference/roles/treeitem_role,0
@@ -2994,10 +2994,10 @@ web/api/cookiechangeevent/cookiechangeevent,0
 web/api/cookiechangeevent/deleted,0
 web/api/cookiestore,0
 web/api/cookiestore/change_event,0
-web/api/cookiestore/delete,0
+web/api/cookiestore/delete,1
 web/api/cookiestore/get,0
 web/api/cookiestore/getall,0
-web/api/cookiestore/set,0
+web/api/cookiestore/set,1
 web/api/cookiestoremanager,0
 web/api/cookiestoremanager/getsubscriptions,0
 web/api/cookiestoremanager/subscribe,0
@@ -3224,7 +3224,7 @@ web/api/csspositionvalue,0
 web/api/csspositionvalue/csspositionvalue,0
 web/api/csspositionvalue/x,0
 web/api/csspositionvalue/y,0
-web/api/cssprimitivevalue,0
+web/api/cssprimitivevalue,1
 web/api/cssprimitivevalue/getcountervalue,0
 web/api/cssprimitivevalue/getfloatvalue,0
 web/api/cssprimitivevalue/getrectvalue,0
@@ -3643,8 +3643,8 @@ web/api/documenttype/publicid,0
 web/api/documenttype/remove,0
 web/api/documenttype/replacewith,0
 web/api/documenttype/systemid,0
-web/api/domerror,0
-web/api/domexception,0
+web/api/domerror,1
+web/api/domexception,1
 web/api/domexception/code,0
 web/api/domexception/domexception,0
 web/api/domexception/message,0
@@ -6393,7 +6393,7 @@ web/api/ndefreader/ndefreader,0
 web/api/ndefreader/reading_event,0
 web/api/ndefreader/readingerror_event,0
 web/api/ndefreader/scan,0
-web/api/ndefreader/write,0
+web/api/ndefreader/write,1
 web/api/ndefreadingevent,0
 web/api/ndefreadingevent/message,0
 web/api/ndefreadingevent/ndefreadingevent,0
@@ -6543,7 +6543,7 @@ web/api/offscreencanvas/converttoblob,0
 web/api/offscreencanvas/getcontext,0
 web/api/offscreencanvas/height,0
 web/api/offscreencanvas/offscreencanvas,0
-web/api/offscreencanvas/transfertoimagebitmap,0
+web/api/offscreencanvas/transfertoimagebitmap,1
 web/api/offscreencanvas/width,0
 web/api/offscreencanvasrenderingcontext2d,0
 web/api/offscreencanvasrenderingcontext2d/commit,0
@@ -6702,7 +6702,7 @@ web/api/performance_api/navigation_timing,0
 web/api/performance_api/performance_data,0
 web/api/performance_api/resource_timing,0
 web/api/performance_api/server_timing,0
-web/api/performance_api/user_timing,0
+web/api/performance_api/user_timing,1
 web/api/performanceelementtiming,0
 web/api/performanceelementtiming/element,0
 web/api/performanceelementtiming/id,0
@@ -9457,7 +9457,7 @@ web/api/webgl_api/tutorial/creating_3d_objects_using_webgl,0
 web/api/webgl_api/tutorial/getting_started_with_webgl,0
 web/api/webgl_api/tutorial/lighting_in_webgl,0
 web/api/webgl_api/tutorial/using_shaders_to_apply_color_in_webgl,0
-web/api/webgl_api/tutorial/using_textures_in_webgl,0
+web/api/webgl_api/tutorial/using_textures_in_webgl,1
 web/api/webgl_api/types,0
 web/api/webgl_api/using_extensions,0
 web/api/webgl_api/webgl_best_practices,0
@@ -10063,7 +10063,7 @@ web/api/xmlhttprequest/status,0
 web/api/xmlhttprequest/statustext,0
 web/api/xmlhttprequest/timeout,0
 web/api/xmlhttprequest/upload,0
-web/api/xmlhttprequest/withcredentials,0
+web/api/xmlhttprequest/withcredentials,1
 web/api/xmlhttprequest/xmlhttprequest,0
 web/api/xmlhttprequest_api,0
 web/api/xmlhttprequest_api/html_in_xmlhttprequest,0
@@ -10471,7 +10471,7 @@ web/css/guides/logical_properties_and_values/sizing,0
 web/css/guides/masking,0
 web/css/guides/masking/clipping,0
 web/css/guides/masking/introduction,0
-web/css/guides/masking/mask_properties,0
+web/css/guides/masking/mask_properties,1
 web/css/guides/masking/multiple_masks,0
 web/css/guides/media_queries,0
 web/css/guides/media_queries/printing,0
@@ -10903,7 +10903,7 @@ web/css/reference/properties/flex-shrink,0
 web/css/reference/properties/flex-wrap,0
 web/css/reference/properties/float,0
 web/css/reference/properties/flood-color,0
-web/css/reference/properties/flood-opacity,0
+web/css/reference/properties/flood-opacity,1
 web/css/reference/properties/font,0
 web/css/reference/properties/font-family,0
 web/css/reference/properties/font-feature-settings,0
@@ -11163,7 +11163,7 @@ web/css/reference/properties/shape-outside,0
 web/css/reference/properties/shape-rendering,0
 web/css/reference/properties/speak-as,0
 web/css/reference/properties/stop-color,0
-web/css/reference/properties/stop-opacity,0
+web/css/reference/properties/stop-opacity,1
 web/css/reference/properties/stroke,0
 web/css/reference/properties/stroke-dasharray,0
 web/css/reference/properties/stroke-dashoffset,0
@@ -11208,7 +11208,7 @@ web/css/reference/properties/text-underline-position,0
 web/css/reference/properties/text-wrap,0
 web/css/reference/properties/text-wrap-mode,0
 web/css/reference/properties/text-wrap-style,0
-web/css/reference/properties/timeline-scope,0
+web/css/reference/properties/timeline-scope,1
 web/css/reference/properties/top,0
 web/css/reference/properties/touch-action,0
 web/css/reference/properties/transform,0
@@ -11630,7 +11630,7 @@ web/html/reference/attributes/capture,0
 web/html/reference/attributes/content,0
 web/html/reference/attributes/crossorigin,0
 web/html/reference/attributes/dirname,0
-web/html/reference/attributes/disabled,0
+web/html/reference/attributes/disabled,1
 web/html/reference/attributes/elementtiming,0
 web/html/reference/attributes/fetchpriority,0
 web/html/reference/attributes/for,0
@@ -11642,8 +11642,8 @@ web/html/reference/attributes/min,0
 web/html/reference/attributes/minlength,0
 web/html/reference/attributes/multiple,0
 web/html/reference/attributes/pattern,0
-web/html/reference/attributes/placeholder,0
-web/html/reference/attributes/readonly,0
+web/html/reference/attributes/placeholder,1
+web/html/reference/attributes/readonly,1
 web/html/reference/attributes/rel,0
 web/html/reference/attributes/rel/alternate_stylesheet,0
 web/html/reference/attributes/rel/compression-dictionary,0
@@ -11664,7 +11664,7 @@ web/html/reference/elements,0
 web/html/reference/elements/a,0
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,0
-web/html/reference/elements/address,0
+web/html/reference/elements/address,1
 web/html/reference/elements/area,0
 web/html/reference/elements/article,0
 web/html/reference/elements/aside,0
@@ -11686,7 +11686,7 @@ web/html/reference/elements/code,0
 web/html/reference/elements/col,0
 web/html/reference/elements/colgroup,0
 web/html/reference/elements/data,0
-web/html/reference/elements/datalist,0
+web/html/reference/elements/datalist,1
 web/html/reference/elements/dd,0
 web/html/reference/elements/del,0
 web/html/reference/elements/details,0
@@ -12813,7 +12813,7 @@ web/javascript/reference/global_objects/map/has,0
 web/javascript/reference/global_objects/map/keys,0
 web/javascript/reference/global_objects/map/map,0
 web/javascript/reference/global_objects/map/set,0
-web/javascript/reference/global_objects/map/size,0
+web/javascript/reference/global_objects/map/size,1
 web/javascript/reference/global_objects/map/symbol.iterator,0
 web/javascript/reference/global_objects/map/symbol.species,0
 web/javascript/reference/global_objects/map/values,0
@@ -13035,7 +13035,7 @@ web/javascript/reference/global_objects/sharedarraybuffer/slice,0
 web/javascript/reference/global_objects/sharedarraybuffer/symbol.species,0
 web/javascript/reference/global_objects/string,0
 web/javascript/reference/global_objects/string/anchor,0
-web/javascript/reference/global_objects/string/at,0
+web/javascript/reference/global_objects/string/at,1
 web/javascript/reference/global_objects/string/big,0
 web/javascript/reference/global_objects/string/blink,0
 web/javascript/reference/global_objects/string/bold,0
@@ -14171,7 +14171,7 @@ web/webdriver/reference/bidi/modules/session/unsubscribe,0
 web/webdriver/reference/bidi/modules/storage,0
 web/webdriver/reference/bidi/modules/useragentclienthints,0
 web/webdriver/reference/bidi/modules/webextension,0
-web/webdriver/reference/capabilities,0
+web/webdriver/reference/capabilities,1
 web/webdriver/reference/capabilities/acceptinsecurecerts,0
 web/webdriver/reference/capabilities/firefoxoptions,0
 web/webdriver/reference/capabilities/websocketurl,0
