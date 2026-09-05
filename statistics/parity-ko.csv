@@ -825,7 +825,7 @@ learn_web_development/core/styling_basics/home_color_scheme_search,null
 learn_web_development/core/styling_basics/images_media_forms,null
 learn_web_development/core/styling_basics/organizing,8
 learn_web_development/core/styling_basics/overflow,null
-learn_web_development/core/styling_basics/pseudo_classes_and_elements,10
+learn_web_development/core/styling_basics/pseudo_classes_and_elements,11
 learn_web_development/core/styling_basics/size_decorate_content_panel,null
 learn_web_development/core/styling_basics/sizing,null
 learn_web_development/core/styling_basics/styling_a_bio_page,null
@@ -12515,7 +12515,7 @@ web/javascript/reference/global_objects/atomics/exchange,6
 web/javascript/reference/global_objects/atomics/islockfree,5
 web/javascript/reference/global_objects/atomics/load,6
 web/javascript/reference/global_objects/atomics/notify,9
-web/javascript/reference/global_objects/atomics/or,6
+web/javascript/reference/global_objects/atomics/or,7
 web/javascript/reference/global_objects/atomics/pause,null
 web/javascript/reference/global_objects/atomics/store,6
 web/javascript/reference/global_objects/atomics/sub,5

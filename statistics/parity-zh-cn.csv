@@ -2779,7 +2779,7 @@ web/api/canvasrenderingcontext2d/fontkerning,3
 web/api/canvasrenderingcontext2d/fontstretch,4
 web/api/canvasrenderingcontext2d/fontvariantcaps,4
 web/api/canvasrenderingcontext2d/getcontextattributes,2
-web/api/canvasrenderingcontext2d/getimagedata,5
+web/api/canvasrenderingcontext2d/getimagedata,6
 web/api/canvasrenderingcontext2d/getlinedash,1
 web/api/canvasrenderingcontext2d/gettransform,1
 web/api/canvasrenderingcontext2d/globalalpha,5
@@ -12515,7 +12515,7 @@ web/javascript/reference/global_objects/atomics/exchange,4
 web/javascript/reference/global_objects/atomics/islockfree,6
 web/javascript/reference/global_objects/atomics/load,4
 web/javascript/reference/global_objects/atomics/notify,6
-web/javascript/reference/global_objects/atomics/or,4
+web/javascript/reference/global_objects/atomics/or,5
 web/javascript/reference/global_objects/atomics/pause,null
 web/javascript/reference/global_objects/atomics/store,4
 web/javascript/reference/global_objects/atomics/sub,4

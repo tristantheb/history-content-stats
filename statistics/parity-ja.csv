@@ -825,7 +825,7 @@ learn_web_development/core/styling_basics/home_color_scheme_search,1
 learn_web_development/core/styling_basics/images_media_forms,2
 learn_web_development/core/styling_basics/organizing,0
 learn_web_development/core/styling_basics/overflow,1
-learn_web_development/core/styling_basics/pseudo_classes_and_elements,0
+learn_web_development/core/styling_basics/pseudo_classes_and_elements,1
 learn_web_development/core/styling_basics/size_decorate_content_panel,0
 learn_web_development/core/styling_basics/sizing,0
 learn_web_development/core/styling_basics/styling_a_bio_page,0
@@ -2779,7 +2779,7 @@ web/api/canvasrenderingcontext2d/fontkerning,3
 web/api/canvasrenderingcontext2d/fontstretch,0
 web/api/canvasrenderingcontext2d/fontvariantcaps,0
 web/api/canvasrenderingcontext2d/getcontextattributes,0
-web/api/canvasrenderingcontext2d/getimagedata,6
+web/api/canvasrenderingcontext2d/getimagedata,7
 web/api/canvasrenderingcontext2d/getlinedash,0
 web/api/canvasrenderingcontext2d/gettransform,0
 web/api/canvasrenderingcontext2d/globalalpha,5
@@ -10383,7 +10383,7 @@ web/css/guides/cascade/inheritance,0
 web/css/guides/cascade/introduction,0
 web/css/guides/cascade/property_value_processing,0
 web/css/guides/cascade/shorthand_properties,5
-web/css/guides/cascade/specificity,2
+web/css/guides/cascade/specificity,3
 web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,1
 web/css/guides/color_adjustment,0
@@ -12515,7 +12515,7 @@ web/javascript/reference/global_objects/atomics/exchange,1
 web/javascript/reference/global_objects/atomics/islockfree,1
 web/javascript/reference/global_objects/atomics/load,1
 web/javascript/reference/global_objects/atomics/notify,1
-web/javascript/reference/global_objects/atomics/or,1
+web/javascript/reference/global_objects/atomics/or,2
 web/javascript/reference/global_objects/atomics/pause,2
 web/javascript/reference/global_objects/atomics/store,1
 web/javascript/reference/global_objects/atomics/sub,1

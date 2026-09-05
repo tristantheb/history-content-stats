@@ -3,7 +3,7 @@ games,0
 games/anatomy,0
 games/introduction,0
 games/publishing_games,0
-games/publishing_games/game_distribution,1
+games/publishing_games/game_distribution,0
 games/publishing_games/game_monetization,0
 games/publishing_games/game_promotion,0
 games/techniques,0
@@ -101,7 +101,7 @@ glossary/baseline,0
 glossary/baseline/compatibility,0
 glossary/baseline/typography,0
 glossary/bcp_47_language_tag,0
-glossary/beacon,1
+glossary/beacon,0
 glossary/bezier_curve,0
 glossary/bfcache,0
 glossary/bidi,0
@@ -201,7 +201,7 @@ glossary/data_structure,0
 glossary/database,0
 glossary/debounce,0
 glossary/decryption,0
-glossary/deep_copy,1
+glossary/deep_copy,0
 glossary/deep_equality,0
 glossary/delta,0
 glossary/denial_of_service,0
@@ -375,7 +375,7 @@ glossary/keyword,0
 glossary/khronos,0
 glossary/largest_contentful_paint,0
 glossary/latency,0
-glossary/layout_mode,1
+glossary/layout_mode,0
 glossary/layout_viewport,0
 glossary/lazy_load,0
 glossary/leading,0
@@ -477,7 +477,7 @@ glossary/prefetch,0
 glossary/preflight_request,0
 glossary/prerender,0
 glossary/presto,0
-glossary/primitive,1
+glossary/primitive,0
 glossary/principle_of_least_privilege,0
 glossary/privileged,0
 glossary/privileged_code,0
@@ -504,7 +504,7 @@ glossary/raster_image,0
 glossary/rate_limit,0
 glossary/rdf,0
 glossary/reading_order,0
-glossary/real_user_monitoring,1
+glossary/real_user_monitoring,0
 glossary/recursion,0
 glossary/reflow,0
 glossary/registrable_domain,0
@@ -562,7 +562,7 @@ glossary/server_timing,0
 glossary/session_hijacking,0
 glossary/sgml,0
 glossary/shadow_tree,0
-glossary/shallow_copy,1
+glossary/shallow_copy,0
 glossary/shim,0
 glossary/signature,0
 glossary/signature/function,0
@@ -825,7 +825,7 @@ learn_web_development/core/styling_basics/home_color_scheme_search,0
 learn_web_development/core/styling_basics/images_media_forms,0
 learn_web_development/core/styling_basics/organizing,null
 learn_web_development/core/styling_basics/overflow,0
-learn_web_development/core/styling_basics/pseudo_classes_and_elements,0
+learn_web_development/core/styling_basics/pseudo_classes_and_elements,1
 learn_web_development/core/styling_basics/size_decorate_content_panel,0
 learn_web_development/core/styling_basics/sizing,0
 learn_web_development/core/styling_basics/styling_a_bio_page,0
@@ -980,7 +980,7 @@ learn_web_development/getting_started/soft_skills,0
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,0
 learn_web_development/getting_started/soft_skills/finding_a_job,0
 learn_web_development/getting_started/soft_skills/research_and_learning,0
-learn_web_development/getting_started/soft_skills/workflows_and_processes,1
+learn_web_development/getting_started/soft_skills/workflows_and_processes,0
 learn_web_development/getting_started/web_standards,0
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
 learn_web_development/getting_started/web_standards/how_the_web_works,0
@@ -1949,9 +1949,9 @@ mozilla/firefox/releases/15,0
 mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
-mozilla/firefox/releases/153,3
-mozilla/firefox/releases/154,3
-mozilla/firefox/releases/155,4
+mozilla/firefox/releases/153,0
+mozilla/firefox/releases/154,0
+mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
 mozilla/firefox/releases/16,0
@@ -1999,9 +1999,9 @@ mozilla/firefox/releases/32,0
 mozilla/firefox/releases/33,0
 mozilla/firefox/releases/34,0
 mozilla/firefox/releases/35,0
-mozilla/firefox/releases/36,1
+mozilla/firefox/releases/36,0
 mozilla/firefox/releases/37,0
-mozilla/firefox/releases/38,1
+mozilla/firefox/releases/38,0
 mozilla/firefox/releases/39,0
 mozilla/firefox/releases/4,0
 mozilla/firefox/releases/4/the_add-on_bar,0
@@ -2123,7 +2123,7 @@ web/accessibility/aria/reference/attributes/aria-hidden,0
 web/accessibility/aria/reference/attributes/aria-invalid,0
 web/accessibility/aria/reference/attributes/aria-keyshortcuts,0
 web/accessibility/aria/reference/attributes/aria-label,0
-web/accessibility/aria/reference/attributes/aria-labelledby,1
+web/accessibility/aria/reference/attributes/aria-labelledby,0
 web/accessibility/aria/reference/attributes/aria-level,0
 web/accessibility/aria/reference/attributes/aria-live,0
 web/accessibility/aria/reference/attributes/aria-modal,0
@@ -2134,7 +2134,7 @@ web/accessibility/aria/reference/attributes/aria-owns,0
 web/accessibility/aria/reference/attributes/aria-placeholder,0
 web/accessibility/aria/reference/attributes/aria-posinset,0
 web/accessibility/aria/reference/attributes/aria-pressed,0
-web/accessibility/aria/reference/attributes/aria-readonly,1
+web/accessibility/aria/reference/attributes/aria-readonly,0
 web/accessibility/aria/reference/attributes/aria-relevant,0
 web/accessibility/aria/reference/attributes/aria-required,0
 web/accessibility/aria/reference/attributes/aria-roledescription,0
@@ -2192,8 +2192,8 @@ web/accessibility/aria/reference/roles/math_role,0
 web/accessibility/aria/reference/roles/menu_role,0
 web/accessibility/aria/reference/roles/menubar_role,0
 web/accessibility/aria/reference/roles/menuitem_role,0
-web/accessibility/aria/reference/roles/menuitemcheckbox_role,1
-web/accessibility/aria/reference/roles/menuitemradio_role,1
+web/accessibility/aria/reference/roles/menuitemcheckbox_role,0
+web/accessibility/aria/reference/roles/menuitemradio_role,0
 web/accessibility/aria/reference/roles/meter_role,0
 web/accessibility/aria/reference/roles/navigation_role,0
 web/accessibility/aria/reference/roles/none_role,0
@@ -2231,7 +2231,7 @@ web/accessibility/aria/reference/roles/term_role,0
 web/accessibility/aria/reference/roles/textbox_role,0
 web/accessibility/aria/reference/roles/timer_role,0
 web/accessibility/aria/reference/roles/toolbar_role,0
-web/accessibility/aria/reference/roles/tooltip_role,1
+web/accessibility/aria/reference/roles/tooltip_role,0
 web/accessibility/aria/reference/roles/tree_role,0
 web/accessibility/aria/reference/roles/treegrid_role,0
 web/accessibility/aria/reference/roles/treeitem_role,0
@@ -2243,7 +2243,7 @@ web/accessibility/guides/accessible_web_applications_and_widgets,0
 web/accessibility/guides/browsing_safely,0
 web/accessibility/guides/cognitive_accessibility,0
 web/accessibility/guides/colors_and_luminance,0
-web/accessibility/guides/information_for_web_authors,1
+web/accessibility/guides/information_for_web_authors,0
 web/accessibility/guides/keyboard-navigable_javascript_widgets,0
 web/accessibility/guides/mobile_accessibility_checklist,0
 web/accessibility/guides/seizure_disorders,0
@@ -3929,7 +3929,7 @@ web/api/element/id,0
 web/api/element/innerhtml,0
 web/api/element/input_event,0
 web/api/element/insertadjacentelement,0
-web/api/element/insertadjacenthtml,1
+web/api/element/insertadjacenthtml,0
 web/api/element/insertadjacenttext,0
 web/api/element/keydown_event,0
 web/api/element/keypress_event,0
@@ -4741,7 +4741,7 @@ web/api/html_drag_and_drop_api/drag_data_store,0
 web/api/html_drag_and_drop_api/drag_operations,0
 web/api/html_drag_and_drop_api/file_drag_and_drop,0
 web/api/html_drag_and_drop_api/kanban_board,0
-web/api/html_sanitizer_api,1
+web/api/html_sanitizer_api,0
 web/api/html_sanitizer_api/default_sanitizer_configuration,null
 web/api/html_sanitizer_api/using_the_html_sanitizer_api,null
 web/api/htmlallcollection,0
@@ -5414,7 +5414,7 @@ web/api/htmltablerowelement/insertcell,0
 web/api/htmltablerowelement/rowindex,0
 web/api/htmltablerowelement/sectionrowindex,0
 web/api/htmltablerowelement/valign,0
-web/api/htmltablesectionelement,1
+web/api/htmltablesectionelement,0
 web/api/htmltablesectionelement/align,0
 web/api/htmltablesectionelement/ch,0
 web/api/htmltablesectionelement/choff,0
@@ -7019,7 +7019,7 @@ web/api/publickeycredential/signalunknowncredential_static,null
 web/api/publickeycredential/tojson,null
 web/api/publickeycredentialcreationoptions,null
 web/api/publickeycredentialrequestoptions,null
-web/api/push_api,3
+web/api/push_api,0
 web/api/push_api/best_practices,null
 web/api/pushevent,null
 web/api/pushevent/data,null
@@ -9823,7 +9823,7 @@ web/api/window/matchmedia,0
 web/api/window/menubar,0
 web/api/window/message_event,0
 web/api/window/messageerror_event,0
-web/api/window/moveby,1
+web/api/window/moveby,0
 web/api/window/moveto,0
 web/api/window/mozinnerscreenx,0
 web/api/window/mozinnerscreeny,0
@@ -9848,7 +9848,7 @@ web/api/window/parent,0
 web/api/window/performance,0
 web/api/window/personalbar,0
 web/api/window/popstate_event,0
-web/api/window/postmessage,1
+web/api/window/postmessage,0
 web/api/window/print,0
 web/api/window/prompt,0
 web/api/window/querylocalfonts,0
@@ -10383,7 +10383,7 @@ web/css/guides/cascade/inheritance,0
 web/css/guides/cascade/introduction,0
 web/css/guides/cascade/property_value_processing,0
 web/css/guides/cascade/shorthand_properties,0
-web/css/guides/cascade/specificity,0
+web/css/guides/cascade/specificity,1
 web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,0
 web/css/guides/color_adjustment,0
@@ -10408,7 +10408,7 @@ web/css/guides/cssom_view,0
 web/css/guides/cssom_view/viewport_concepts,0
 web/css/guides/custom_functions_and_mixins,0
 web/css/guides/custom_functions_and_mixins/using_custom_functions,0
-web/css/guides/custom_highlight_api,1
+web/css/guides/custom_highlight_api,0
 web/css/guides/display,0
 web/css/guides/display/block_and_inline_layout,0
 web/css/guides/display/block_formatting_context,null
@@ -10903,7 +10903,7 @@ web/css/reference/properties/flex-shrink,0
 web/css/reference/properties/flex-wrap,0
 web/css/reference/properties/float,0
 web/css/reference/properties/flood-color,0
-web/css/reference/properties/flood-opacity,1
+web/css/reference/properties/flood-opacity,0
 web/css/reference/properties/font,0
 web/css/reference/properties/font-family,0
 web/css/reference/properties/font-feature-settings,0
@@ -10930,7 +10930,7 @@ web/css/reference/properties/font-variant-emoji,0
 web/css/reference/properties/font-variant-ligatures,0
 web/css/reference/properties/font-variant-numeric,0
 web/css/reference/properties/font-variant-position,0
-web/css/reference/properties/font-variation-settings,1
+web/css/reference/properties/font-variation-settings,0
 web/css/reference/properties/font-weight,0
 web/css/reference/properties/font-width,0
 web/css/reference/properties/forced-color-adjust,0
@@ -11163,7 +11163,7 @@ web/css/reference/properties/shape-outside,0
 web/css/reference/properties/shape-rendering,0
 web/css/reference/properties/speak-as,0
 web/css/reference/properties/stop-color,0
-web/css/reference/properties/stop-opacity,1
+web/css/reference/properties/stop-opacity,0
 web/css/reference/properties/stroke,0
 web/css/reference/properties/stroke-dasharray,0
 web/css/reference/properties/stroke-dashoffset,0
@@ -11208,7 +11208,7 @@ web/css/reference/properties/text-underline-position,0
 web/css/reference/properties/text-wrap,0
 web/css/reference/properties/text-wrap-mode,0
 web/css/reference/properties/text-wrap-style,0
-web/css/reference/properties/timeline-scope,1
+web/css/reference/properties/timeline-scope,0
 web/css/reference/properties/top,0
 web/css/reference/properties/touch-action,0
 web/css/reference/properties/transform,0
@@ -11362,7 +11362,7 @@ web/css/reference/selectors/_doublecolon_-webkit-meter-suboptimum-value,0
 web/css/reference/selectors/_doublecolon_-webkit-progress-bar,0
 web/css/reference/selectors/_doublecolon_-webkit-progress-inner-element,0
 web/css/reference/selectors/_doublecolon_-webkit-progress-value,0
-web/css/reference/selectors/_doublecolon_-webkit-scrollbar,2
+web/css/reference/selectors/_doublecolon_-webkit-scrollbar,0
 web/css/reference/selectors/_doublecolon_-webkit-search-cancel-button,0
 web/css/reference/selectors/_doublecolon_-webkit-search-results-button,0
 web/css/reference/selectors/_doublecolon_-webkit-slider-runnable-track,0
@@ -11397,7 +11397,7 @@ web/css/reference/selectors/_doublecolon_view-transition-group,0
 web/css/reference/selectors/_doublecolon_view-transition-image-pair,0
 web/css/reference/selectors/_doublecolon_view-transition-new,0
 web/css/reference/selectors/_doublecolon_view-transition-old,0
-web/css/reference/selectors/attribute_selectors,1
+web/css/reference/selectors/attribute_selectors,0
 web/css/reference/selectors/child_combinator,0
 web/css/reference/selectors/class_selectors,0
 web/css/reference/selectors/column_combinator,0
@@ -11427,10 +11427,10 @@ web/css/reference/values/angle-percentage,0
 web/css/reference/values/asin,0
 web/css/reference/values/atan,0
 web/css/reference/values/atan2,0
-web/css/reference/values/attr,1
+web/css/reference/values/attr,0
 web/css/reference/values/axis,0
 web/css/reference/values/baseline-position,0
-web/css/reference/values/basic-shape,1
+web/css/reference/values/basic-shape,0
 web/css/reference/values/basic-shape/circle,0
 web/css/reference/values/basic-shape/ellipse,0
 web/css/reference/values/basic-shape/inset,0
@@ -11456,7 +11456,7 @@ web/css/reference/values/color_value/device-cmyk,0
 web/css/reference/values/color_value/hsl,0
 web/css/reference/values/color_value/hwb,0
 web/css/reference/values/color_value/lab,0
-web/css/reference/values/color_value/lch,1
+web/css/reference/values/color_value/lch,0
 web/css/reference/values/color_value/light-dark,0
 web/css/reference/values/color_value/oklab,0
 web/css/reference/values/color_value/oklch,0
@@ -11517,7 +11517,7 @@ web/css/reference/values/hue,0
 web/css/reference/values/hue-interpolation-method,0
 web/css/reference/values/hypot,0
 web/css/reference/values/ident,0
-web/css/reference/values/if,1
+web/css/reference/values/if,0
 web/css/reference/values/image,0
 web/css/reference/values/image/image,0
 web/css/reference/values/image/image-set,0
@@ -11602,7 +11602,7 @@ web/css/reference/values/unset,0
 web/css/reference/values/url_function,0
 web/css/reference/values/url_value,0
 web/css/reference/values/var,0
-web/css/reference/webkit_extensions,2
+web/css/reference/webkit_extensions,0
 web/css/tutorials,0
 web/html,0
 web/html/guides,0
@@ -11630,7 +11630,7 @@ web/html/reference/attributes/capture,0
 web/html/reference/attributes/content,0
 web/html/reference/attributes/crossorigin,0
 web/html/reference/attributes/dirname,0
-web/html/reference/attributes/disabled,1
+web/html/reference/attributes/disabled,0
 web/html/reference/attributes/elementtiming,0
 web/html/reference/attributes/fetchpriority,0
 web/html/reference/attributes/for,0
@@ -11642,8 +11642,8 @@ web/html/reference/attributes/min,0
 web/html/reference/attributes/minlength,0
 web/html/reference/attributes/multiple,0
 web/html/reference/attributes/pattern,0
-web/html/reference/attributes/placeholder,1
-web/html/reference/attributes/readonly,1
+web/html/reference/attributes/placeholder,0
+web/html/reference/attributes/readonly,0
 web/html/reference/attributes/rel,0
 web/html/reference/attributes/rel/alternate_stylesheet,0
 web/html/reference/attributes/rel/compression-dictionary,0
@@ -11664,7 +11664,7 @@ web/html/reference/elements,0
 web/html/reference/elements/a,0
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,0
-web/html/reference/elements/address,1
+web/html/reference/elements/address,0
 web/html/reference/elements/area,0
 web/html/reference/elements/article,0
 web/html/reference/elements/aside,0
@@ -11686,7 +11686,7 @@ web/html/reference/elements/code,0
 web/html/reference/elements/col,0
 web/html/reference/elements/colgroup,0
 web/html/reference/elements/data,0
-web/html/reference/elements/datalist,1
+web/html/reference/elements/datalist,0
 web/html/reference/elements/dd,0
 web/html/reference/elements/del,0
 web/html/reference/elements/details,0
@@ -11873,7 +11873,7 @@ web/http/guides/connection_management_in_http_1.x,0
 web/http/guides/content_negotiation,0
 web/http/guides/content_negotiation/list_of_default_accept_values,0
 web/http/guides/cookies,0
-web/http/guides/cors,1
+web/http/guides/cors,0
 web/http/guides/cors/errors,null
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,null
 web/http/guides/cors/errors/corsdidnotsucceed,null
@@ -11927,7 +11927,7 @@ web/http/reference/headers/access-control-expose-headers,0
 web/http/reference/headers/access-control-max-age,0
 web/http/reference/headers/access-control-request-headers,0
 web/http/reference/headers/access-control-request-method,0
-web/http/reference/headers/activate-storage-access,1
+web/http/reference/headers/activate-storage-access,0
 web/http/reference/headers/age,0
 web/http/reference/headers/allow,0
 web/http/reference/headers/alt-svc,0
@@ -12008,7 +12008,7 @@ web/http/reference/headers/if-range,0
 web/http/reference/headers/if-unmodified-since,0
 web/http/reference/headers/integrity-policy,0
 web/http/reference/headers/integrity-policy-report-only,0
-web/http/reference/headers/keep-alive,1
+web/http/reference/headers/keep-alive,0
 web/http/reference/headers/last-modified,0
 web/http/reference/headers/link,0
 web/http/reference/headers/location,0
@@ -12269,7 +12269,7 @@ web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,4
 web/javascript/guide/using_promises,null
 web/javascript/guide/working_with_objects,null
-web/javascript/reference,2
+web/javascript/reference,0
 web/javascript/reference/classes,null
 web/javascript/reference/classes/constructor,null
 web/javascript/reference/classes/extends,null
@@ -12515,7 +12515,7 @@ web/javascript/reference/global_objects/atomics/exchange,0
 web/javascript/reference/global_objects/atomics/islockfree,0
 web/javascript/reference/global_objects/atomics/load,0
 web/javascript/reference/global_objects/atomics/notify,0
-web/javascript/reference/global_objects/atomics/or,0
+web/javascript/reference/global_objects/atomics/or,1
 web/javascript/reference/global_objects/atomics/pause,0
 web/javascript/reference/global_objects/atomics/store,0
 web/javascript/reference/global_objects/atomics/sub,0
