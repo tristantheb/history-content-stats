@@ -202,7 +202,7 @@ glossary/database,0
 glossary/debounce,0
 glossary/decryption,0
 glossary/deep_copy,1
-glossary/deep_equality,null
+glossary/deep_equality,0
 glossary/delta,0
 glossary/denial_of_service,0
 glossary/deno,0
@@ -348,7 +348,7 @@ glossary/input_method_editor,0
 glossary/inset_properties,0
 glossary/instance,0
 glossary/interaction_to_next_paint,0
-glossary/interface,null
+glossary/interface,0
 glossary/internationalization,0
 glossary/internet,0
 glossary/interpolation,0
@@ -400,7 +400,7 @@ glossary/media,0
 glossary/media/audio-visual_presentation,0
 glossary/media/css,0
 glossary/media_query,0
-glossary/memoization,null
+glossary/memoization,0
 glossary/metadata,0
 glossary/method,0
 glossary/microsoft_edge,0
@@ -446,7 +446,7 @@ glossary/operand,0
 glossary/operator,0
 glossary/origin,0
 glossary/ota,0
-glossary/out_of_order_patching,null
+glossary/out_of_order_patching,0
 glossary/owasp,0
 glossary/p2p,0
 glossary/pac,0
@@ -11836,8 +11836,8 @@ web/html/reference/global_attributes/dir,0
 web/html/reference/global_attributes/draggable,0
 web/html/reference/global_attributes/enterkeyhint,0
 web/html/reference/global_attributes/exportparts,0
-web/html/reference/global_attributes/headingoffset,null
-web/html/reference/global_attributes/headingreset,null
+web/html/reference/global_attributes/headingoffset,0
+web/html/reference/global_attributes/headingreset,0
 web/html/reference/global_attributes/hidden,0
 web/html/reference/global_attributes/id,0
 web/html/reference/global_attributes/inert,0
@@ -13439,13 +13439,13 @@ web/javascript/reference/global_objects/weakset/weakset,null
 web/javascript/reference/iteration_protocols,1
 web/javascript/reference/javascript_technologies_overview,null
 web/javascript/reference/lexical_grammar,null
-web/javascript/reference/operators,null
-web/javascript/reference/operators/addition,null
-web/javascript/reference/operators/addition_assignment,null
-web/javascript/reference/operators/assignment,null
-web/javascript/reference/operators/async_function,null
-web/javascript/reference/operators/async_function_star_,21
-web/javascript/reference/operators/await,null
+web/javascript/reference/operators,0
+web/javascript/reference/operators/addition,0
+web/javascript/reference/operators/addition_assignment,0
+web/javascript/reference/operators/assignment,0
+web/javascript/reference/operators/async_function,0
+web/javascript/reference/operators/async_function_star_,0
+web/javascript/reference/operators/await,0
 web/javascript/reference/operators/bitwise_and,null
 web/javascript/reference/operators/bitwise_and_assignment,null
 web/javascript/reference/operators/bitwise_not,null
