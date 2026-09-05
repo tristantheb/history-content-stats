@@ -477,7 +477,7 @@ glossary/prefetch,6
 glossary/preflight_request,6
 glossary/prerender,5
 glossary/presto,1
-glossary/primitive,4
+glossary/primitive,5
 glossary/principle_of_least_privilege,0
 glossary/privileged,2
 glossary/privileged_code,1
@@ -877,7 +877,7 @@ learn_web_development/extensions/client-side_tools/overview,null
 learn_web_development/extensions/client-side_tools/package_management,null
 learn_web_development/extensions/forms,null
 learn_web_development/extensions/forms/advanced_form_styling,null
-learn_web_development/extensions/forms/basic_native_form_controls,14
+learn_web_development/extensions/forms/basic_native_form_controls,15
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
 learn_web_development/extensions/forms/form_validation,null
@@ -2123,7 +2123,7 @@ web/accessibility/aria/reference/attributes/aria-hidden,null
 web/accessibility/aria/reference/attributes/aria-invalid,null
 web/accessibility/aria/reference/attributes/aria-keyshortcuts,null
 web/accessibility/aria/reference/attributes/aria-label,1
-web/accessibility/aria/reference/attributes/aria-labelledby,3
+web/accessibility/aria/reference/attributes/aria-labelledby,4
 web/accessibility/aria/reference/attributes/aria-level,null
 web/accessibility/aria/reference/attributes/aria-live,null
 web/accessibility/aria/reference/attributes/aria-modal,null
@@ -11630,7 +11630,7 @@ web/html/reference/attributes/capture,null
 web/html/reference/attributes/content,null
 web/html/reference/attributes/crossorigin,null
 web/html/reference/attributes/dirname,null
-web/html/reference/attributes/disabled,5
+web/html/reference/attributes/disabled,6
 web/html/reference/attributes/elementtiming,4
 web/html/reference/attributes/fetchpriority,null
 web/html/reference/attributes/for,3
@@ -11642,8 +11642,8 @@ web/html/reference/attributes/min,null
 web/html/reference/attributes/minlength,null
 web/html/reference/attributes/multiple,null
 web/html/reference/attributes/pattern,null
-web/html/reference/attributes/placeholder,5
-web/html/reference/attributes/readonly,1
+web/html/reference/attributes/placeholder,6
+web/html/reference/attributes/readonly,2
 web/html/reference/attributes/rel,null
 web/html/reference/attributes/rel/alternate_stylesheet,null
 web/html/reference/attributes/rel/compression-dictionary,null
@@ -12813,7 +12813,7 @@ web/javascript/reference/global_objects/map/has,6
 web/javascript/reference/global_objects/map/keys,4
 web/javascript/reference/global_objects/map/map,5
 web/javascript/reference/global_objects/map/set,6
-web/javascript/reference/global_objects/map/size,4
+web/javascript/reference/global_objects/map/size,5
 web/javascript/reference/global_objects/map/symbol.iterator,null
 web/javascript/reference/global_objects/map/symbol.species,4
 web/javascript/reference/global_objects/map/values,5
@@ -13035,7 +13035,7 @@ web/javascript/reference/global_objects/sharedarraybuffer/slice,6
 web/javascript/reference/global_objects/sharedarraybuffer/symbol.species,3
 web/javascript/reference/global_objects/string,null
 web/javascript/reference/global_objects/string/anchor,5
-web/javascript/reference/global_objects/string/at,9
+web/javascript/reference/global_objects/string/at,10
 web/javascript/reference/global_objects/string/big,5
 web/javascript/reference/global_objects/string/blink,5
 web/javascript/reference/global_objects/string/bold,5

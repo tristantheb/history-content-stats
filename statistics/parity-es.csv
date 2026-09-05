@@ -881,7 +881,7 @@ learn_web_development/extensions/forms/basic_native_form_controls,null
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
 learn_web_development/extensions/forms/form_validation,null
-learn_web_development/extensions/forms/how_to_build_custom_form_controls,1
+learn_web_development/extensions/forms/how_to_build_custom_form_controls,2
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_3,null
@@ -12813,7 +12813,7 @@ web/javascript/reference/global_objects/map/has,6
 web/javascript/reference/global_objects/map/keys,4
 web/javascript/reference/global_objects/map/map,5
 web/javascript/reference/global_objects/map/set,6
-web/javascript/reference/global_objects/map/size,4
+web/javascript/reference/global_objects/map/size,5
 web/javascript/reference/global_objects/map/symbol.iterator,4
 web/javascript/reference/global_objects/map/symbol.species,2
 web/javascript/reference/global_objects/map/values,5
