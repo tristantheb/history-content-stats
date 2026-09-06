@@ -9670,7 +9670,7 @@ web/api/websockets_api/using_websocketstream,1
 web/api/websockets_api/writing_a_websocket_server_in_java,0
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,2
 web/api/websockets_api/writing_websocket_client_applications,1
-web/api/websockets_api/writing_websocket_server,0
+web/api/websockets_api/writing_websocket_server,1
 web/api/websockets_api/writing_websocket_servers,1
 web/api/websocketstream,1
 web/api/websocketstream/close,1
