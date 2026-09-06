@@ -10352,7 +10352,7 @@ web/css,423161782178b119c64cd0b41bff8df20dc84a56,CSS
 web/css/guides,3e0ba995376cace7f08f0771635f86f0fb1753b3,CSS|Guides
 web/css/guides/anchor_positioning,879a1aece3a1d4eb28c0024f0baac6aa1b96638e,CSS|Guides
 web/css/guides/anchor_positioning/anchored_container_queries,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Guides
-web/css/guides/anchor_positioning/try_options_hiding,879a1aece3a1d4eb28c0024f0baac6aa1b96638e,CSS|Guides
+web/css/guides/anchor_positioning/try_options_hiding,7c56e442e76d472eff1c6a06eb5432bb11a47f3e,CSS|Guides
 web/css/guides/anchor_positioning/using,a0b748b391f3ed7e6ef38e8eda3ecaa9efced926,CSS|Guides
 web/css/guides/animations,b8a45c83bfb5aa8b99ddcd564e7e9c66be5daffc,CSS|Guides
 web/css/guides/animations/animatable_properties,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
@@ -11093,7 +11093,7 @@ web/css/reference/properties/position-anchor,31086145b865d6c5c2fec3ba700fd424d57
 web/css/reference/properties/position-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/position-try,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/position-try-fallbacks,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/position-try-order,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/position-try-order,7c56e442e76d472eff1c6a06eb5432bb11a47f3e,CSS|Properties
 web/css/reference/properties/position-visibility,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/print-color-adjust,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,CSS|Properties
 web/css/reference/properties/quotes,652d220f00bede14baef1fc755003a3bcfd2573c,CSS|Properties
@@ -11106,7 +11106,7 @@ web/css/reference/properties/rotate,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS
 web/css/reference/properties/row-gap,53745a2089268ce62bf79695d7d347bcbd0abe57,CSS|Properties
 web/css/reference/properties/row-rule,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/row-rule-break,1474534461893381d54c502e655f334b5568e597,CSS|Properties
-web/css/reference/properties/row-rule-color,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|Properties
+web/css/reference/properties/row-rule-color,9b7a110e601556b82af6b5d46f01c757c5a11719,CSS|Properties
 web/css/reference/properties/row-rule-style,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/row-rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/row-rule-width,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
