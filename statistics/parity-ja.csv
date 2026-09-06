@@ -145,7 +145,7 @@ glossary/character,0
 glossary/character_encoding,9
 glossary/character_reference,1
 glossary/character_set,null
-glossary/chrome,null
+glossary/chrome,0
 glossary/cia,null
 glossary/cipher,4
 glossary/cipher_suite,3
@@ -418,7 +418,7 @@ glossary/mozilla_firefox,0
 glossary/multi-factor_authentication,0
 glossary/mutable,null
 glossary/mvc,1
-glossary/namespace,null
+glossary/namespace,0
 glossary/nan,0
 glossary/nat,null
 glossary/native,1
@@ -436,7 +436,7 @@ glossary/normative,null
 glossary/null,4
 glossary/nullish,0
 glossary/number,null
-glossary/object,null
+glossary/object,0
 glossary/object_reference,0
 glossary/oop,2
 glossary/opengl,null
@@ -456,7 +456,7 @@ glossary/page_prediction,0
 glossary/parameter,4
 glossary/parent_object,null
 glossary/parse,1
-glossary/parser,null
+glossary/parser,0
 glossary/payload_body,null
 glossary/payload_header,4
 glossary/pdf,null
@@ -2238,14 +2238,14 @@ web/accessibility/aria/reference/roles/treeitem_role,0
 web/accessibility/aria/reference/roles/widget_role,0
 web/accessibility/aria/reference/roles/window_role,0
 web/accessibility/guides,0
-web/accessibility/guides/accessibility_and_spatial_patterns,null
+web/accessibility/guides/accessibility_and_spatial_patterns,0
 web/accessibility/guides/accessible_web_applications_and_widgets,0
-web/accessibility/guides/browsing_safely,3
-web/accessibility/guides/cognitive_accessibility,null
-web/accessibility/guides/colors_and_luminance,12
-web/accessibility/guides/information_for_web_authors,3
+web/accessibility/guides/browsing_safely,0
+web/accessibility/guides/cognitive_accessibility,1
+web/accessibility/guides/colors_and_luminance,0
+web/accessibility/guides/information_for_web_authors,1
 web/accessibility/guides/keyboard-navigable_javascript_widgets,0
-web/accessibility/guides/mobile_accessibility_checklist,1
+web/accessibility/guides/mobile_accessibility_checklist,0
 web/accessibility/guides/seizure_disorders,null
 web/accessibility/guides/understanding_wcag,0
 web/accessibility/guides/understanding_wcag/keyboard,0
