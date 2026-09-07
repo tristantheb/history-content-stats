@@ -10841,6 +10841,7 @@ web/css/reference/properties/column-height,737b931225e92e0cba47e57a150878b1a78ee
 web/css/reference/properties/column-rule,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/column-rule-break,1474534461893381d54c502e655f334b5568e597,CSS|Properties
 web/css/reference/properties/column-rule-color,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|Properties
+web/css/reference/properties/column-rule-inset-cap-end,0cd2f481d60b79bc5272134d5d653bf088863d0d,CSS|Properties
 web/css/reference/properties/column-rule-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
 web/css/reference/properties/column-rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/column-rule-width,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
@@ -10916,7 +10917,7 @@ web/css/reference/properties/font-size,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,
 web/css/reference/properties/font-size-adjust,032208d4eb693c082d62e570f80ed5542325bbb6,CSS|Properties
 web/css/reference/properties/font-smooth,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-stretch,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
-web/css/reference/properties/font-style,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/font-style,1551c09756bad6ad2772ce8ed6a934ae4e309642,CSS|Properties
 web/css/reference/properties/font-synthesis,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/font-synthesis-position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-synthesis-small-caps,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
@@ -11420,7 +11421,7 @@ web/css/reference/values/abs,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/absolute-size,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/acos,daa035392f8466e6d75f290d9ffa4317adca4070,CSS|Values
 web/css/reference/values/alpha-value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/anchor,7dbcde5a0aa6855447d015d99eba6fb8be6c2185,CSS|Values
+web/css/reference/values/anchor,25ad29eedf5897f5b0ca23c3295261cbd01c6031,CSS|Values
 web/css/reference/values/anchor-size,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/angle,06d31d3fa6fbe7ecf0d2c3f3f0b14e1d5fe874c5,CSS|Values
 web/css/reference/values/angle-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
@@ -12243,7 +12244,7 @@ web/javascript/guide/enumerability_and_ownership_of_properties,fad67be4431d8e6c2
 web/javascript/guide/equality_comparisons_and_sameness,b7c5617fc1d8eb00c6884a708983da21ad61b228,JavaScript|Guides
 web/javascript/guide/expressions_and_operators,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Guides
 web/javascript/guide/functions,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Guides
-web/javascript/guide/grammar_and_types,479380f6646995feb0939327fcac978847bcf61a,JavaScript|Guides
+web/javascript/guide/grammar_and_types,5c2f37be306da020cd8b3a08f23a28a2bf6111a9,JavaScript|Guides
 web/javascript/guide/indexed_collections,e2c34c75df6238fbeff790100cea1ab7e552e49e,JavaScript|Guides
 web/javascript/guide/inheritance_and_the_prototype_chain,4fc928963dcb04fece336fb3a2f34958fa4bdcb3,JavaScript|Guides
 web/javascript/guide/internationalization,e7bc0ed5466f5834641d75d416fa81886cf6b37e,JavaScript|Guides
@@ -13534,7 +13535,7 @@ web/javascript/reference/regular_expressions/quantifier,0f6daa30cf89c66d37700c51
 web/javascript/reference/regular_expressions/unicode_character_class_escape,7d4628c5144f459ddb081a3e58d0e56f0c2db673,JavaScript|Regular Expressions
 web/javascript/reference/regular_expressions/wildcard,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Regular Expressions
 web/javascript/reference/regular_expressions/word_boundary_assertion,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Regular Expressions
-web/javascript/reference/statements,5c8d0ac21db572edebbd4ad428efca0af3ec1734,JavaScript|Statements
+web/javascript/reference/statements,5c2f37be306da020cd8b3a08f23a28a2bf6111a9,JavaScript|Statements
 web/javascript/reference/statements/async_function,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/async_function_star_,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/await_using,419694495e070daaf466c923b413b3f476740fd6,JavaScript|Statements
@@ -13650,9 +13651,9 @@ web/media/guides/formats/configuring_servers_for_ogg_media,4d929bb0a021c7130d5a7
 web/media/guides/formats/containers,a8ba4ed3061cddb88d40977dbb855cf27cedcfc2,Media|Guides
 web/media/guides/formats/image_types,b8e8a800e6f3db7aab3eb29bb40814560bb6ade9,Media|Guides
 web/media/guides/formats/support_issues,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
-web/media/guides/formats/video_codecs,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,Media|Guides
+web/media/guides/formats/video_codecs,64d995ef99a84226348832ed398e9edc7809e53e,Media|Guides
 web/media/guides/formats/video_concepts,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
-web/media/guides/formats/webrtc_codecs,37e31c37661c11fea2426ef583b7d5dd0be5d349,Media|Guides
+web/media/guides/formats/webrtc_codecs,64d995ef99a84226348832ed398e9edc7809e53e,Media|Guides
 web/media/guides/images,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Media|Guides
 web/media/guides/streaming,f99d00a1c3697e26a679925954e26564e7e79b98,Media|Guides
 web/performance,bf4475f3ca689796977ddf27f4ec8623d35b4db5,Performance
