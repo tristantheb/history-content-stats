@@ -10841,6 +10841,7 @@ web/css/reference/properties/column-height,null
 web/css/reference/properties/column-rule,null
 web/css/reference/properties/column-rule-break,null
 web/css/reference/properties/column-rule-color,null
+web/css/reference/properties/column-rule-inset-cap-end,null
 web/css/reference/properties/column-rule-style,null
 web/css/reference/properties/column-rule-visibility-items,null
 web/css/reference/properties/column-rule-width,null
