@@ -2651,7 +2651,7 @@ web/api/element/pointerleave_event,no_hash_commit
 web/api/element/pointermove_event,no_hash_commit
 web/api/element/pointerout_event,no_hash_commit
 web/api/element/pointerover_event,no_hash_commit
-web/api/element/pointerup_event,no_hash_commit
+web/api/element/pointerup_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/prefix,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/prepend,bd15d43260b7e72b1066c04d9d9f3b79129c619c
 web/api/element/previouselementsibling,no_hash_commit
@@ -5915,7 +5915,7 @@ web/html/reference/elements/button,no_hash_commit
 web/html/reference/elements/canvas,no_hash_commit
 web/html/reference/elements/caption,no_hash_commit
 web/html/reference/elements/center,6f886b9147b7f62bacfa1e740a3ea288168a58aa
-web/html/reference/elements/cite,no_hash_commit
+web/html/reference/elements/cite,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/code,fdd3ac5598c3ddceb71e59949b003936ae99f647
 web/html/reference/elements/col,aa55b6b6768e0250b52703f26d44ea3291f725f3
 web/html/reference/elements/colgroup,aa55b6b6768e0250b52703f26d44ea3291f725f3
@@ -6270,7 +6270,6 @@ web/http/reference/methods/trace,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/resources_and_specifications,no_hash_commit
 web/http/reference/status/100,no_hash_commit
 web/http/reference/status/101,4d929bb0a021c7130d5a71a4bf505bcb8070378d
-web/http/reference/status/102,67a409e7944352612272e095a26bf325ecfae822
 web/http/reference/status/103,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/http/reference/status/200,no_hash_commit
 web/http/reference/status/201,no_hash_commit
@@ -7417,6 +7416,7 @@ web/svg/reference/attribute/visibility,no_hash_commit
 web/svg/reference/attribute/width,no_hash_commit
 web/svg/reference/attribute/x,no_hash_commit
 web/svg/reference/attribute/y,no_hash_commit
+web/svg/reference/attribute/y2,c2fd97474834e061404b992c8397d4ccc4439a71
 web/svg/reference/attribute/zoomandpan,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/element/a,94a841dba1498c685a18e72d041fd9057f302d6c
 web/svg/reference/element/animate,no_hash_commit
