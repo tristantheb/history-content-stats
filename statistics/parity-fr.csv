@@ -3888,7 +3888,7 @@ web/api/element/closest,0
 web/api/element/compositionend_event,0
 web/api/element/compositionstart_event,0
 web/api/element/compositionupdate_event,0
-web/api/element/computedstylemap,0
+web/api/element/computedstylemap,1
 web/api/element/contentvisibilityautostatechange_event,0
 web/api/element/contextmenu_event,0
 web/api/element/copy_event,0
@@ -11576,7 +11576,7 @@ web/css/reference/values/text-edge,0
 web/css/reference/values/time,0
 web/css/reference/values/time-percentage,0
 web/css/reference/values/timeline-range-name,0
-web/css/reference/values/transform-function,0
+web/css/reference/values/transform-function,1
 web/css/reference/values/transform-function/matrix,0
 web/css/reference/values/transform-function/matrix3d,0
 web/css/reference/values/transform-function/perspective,0
@@ -12812,7 +12812,7 @@ web/javascript/reference/global_objects/map/groupby,0
 web/javascript/reference/global_objects/map/has,0
 web/javascript/reference/global_objects/map/keys,0
 web/javascript/reference/global_objects/map/map,0
-web/javascript/reference/global_objects/map/set,0
+web/javascript/reference/global_objects/map/set,1
 web/javascript/reference/global_objects/map/size,0
 web/javascript/reference/global_objects/map/symbol.iterator,0
 web/javascript/reference/global_objects/map/symbol.species,0
