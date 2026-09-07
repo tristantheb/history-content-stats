@@ -895,7 +895,7 @@ learn_web_development/extensions/forms/other_form_controls,0
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,0
 learn_web_development/extensions/forms/sending_forms_through_javascript,0
 learn_web_development/extensions/forms/styling_web_forms,0
-learn_web_development/extensions/forms/ui_pseudo-classes,1
+learn_web_development/extensions/forms/ui_pseudo-classes,0
 learn_web_development/extensions/forms/user_input_methods,0
 learn_web_development/extensions/forms/your_first_form,0
 learn_web_development/extensions/performance,0
@@ -915,7 +915,7 @@ learn_web_development/extensions/server-side/apache_configuration_htaccess,0
 learn_web_development/extensions/server-side/configuring_server_mime_types,0
 learn_web_development/extensions/server-side/django,0
 learn_web_development/extensions/server-side/django/admin_site,0
-learn_web_development/extensions/server-side/django/authentication,0
+learn_web_development/extensions/server-side/django/authentication,1
 learn_web_development/extensions/server-side/django/deployment,0
 learn_web_development/extensions/server-side/django/development_environment,0
 learn_web_development/extensions/server-side/django/django_assessment_blog,0
@@ -1415,7 +1415,7 @@ mozilla/add-ons/webextensions/api/i18n/languagecode,0
 mozilla/add-ons/webextensions/api/i18n/locale-specific_message_reference,0
 mozilla/add-ons/webextensions/api/identity,0
 mozilla/add-ons/webextensions/api/identity/getredirecturl,0
-mozilla/add-ons/webextensions/api/identity/launchwebauthflow,1
+mozilla/add-ons/webextensions/api/identity/launchwebauthflow,0
 mozilla/add-ons/webextensions/api/idle,0
 mozilla/add-ons/webextensions/api/idle/idlestate,0
 mozilla/add-ons/webextensions/api/idle/onstatechanged,0
@@ -2309,7 +2309,7 @@ web/api/animation,0
 web/api/animation/animation,0
 web/api/animation/cancel,0
 web/api/animation/cancel_event,0
-web/api/animation/commitstyles,1
+web/api/animation/commitstyles,0
 web/api/animation/currenttime,0
 web/api/animation/effect,0
 web/api/animation/finish,0
@@ -2742,7 +2742,7 @@ web/api/canvas_api/tutorial/drawing_text,0
 web/api/canvas_api/tutorial/finale,0
 web/api/canvas_api/tutorial/optimizing_canvas,0
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,0
-web/api/canvas_api/tutorial/transformations,0
+web/api/canvas_api/tutorial/transformations,1
 web/api/canvas_api/tutorial/using_images,0
 web/api/canvascapturemediastreamtrack,0
 web/api/canvascapturemediastreamtrack/canvas,0
@@ -3069,7 +3069,7 @@ web/api/css_painting_api/guide,0
 web/api/css_properties_and_values_api,0
 web/api/css_properties_and_values_api/guide,0
 web/api/css_typed_om_api,0
-web/api/css_typed_om_api/guide,0
+web/api/css_typed_om_api/guide,1
 web/api/cssanimation,0
 web/api/cssanimation/animationname,0
 web/api/cssconditionrule,0
@@ -3888,7 +3888,7 @@ web/api/element/closest,0
 web/api/element/compositionend_event,0
 web/api/element/compositionstart_event,0
 web/api/element/compositionupdate_event,0
-web/api/element/computedstylemap,0
+web/api/element/computedstylemap,1
 web/api/element/contentvisibilityautostatechange_event,0
 web/api/element/contextmenu_event,0
 web/api/element/copy_event,0
@@ -4712,7 +4712,7 @@ web/api/highlightregistry/get,0
 web/api/highlightregistry/has,0
 web/api/highlightregistry/highlightsfrompoint,0
 web/api/highlightregistry/keys,0
-web/api/highlightregistry/set,0
+web/api/highlightregistry/set,1
 web/api/highlightregistry/size,0
 web/api/highlightregistry/values,0
 web/api/history,0
@@ -5221,7 +5221,7 @@ web/api/htmlmeterelement,0
 web/api/htmlmeterelement/high,0
 web/api/htmlmeterelement/labels,0
 web/api/htmlmeterelement/low,0
-web/api/htmlmeterelement/max,1
+web/api/htmlmeterelement/max,0
 web/api/htmlmeterelement/min,0
 web/api/htmlmeterelement/optimum,0
 web/api/htmlmeterelement/value,0
@@ -6289,7 +6289,7 @@ web/api/navigationhistoryentry/samedocument,0
 web/api/navigationhistoryentry/url,0
 web/api/navigationprecommitcontroller,0
 web/api/navigationprecommitcontroller/addhandler,0
-web/api/navigationprecommitcontroller/redirect,0
+web/api/navigationprecommitcontroller/redirect,1
 web/api/navigationpreloadmanager,0
 web/api/navigationpreloadmanager/disable,0
 web/api/navigationpreloadmanager/enable,0
@@ -8094,7 +8094,7 @@ web/api/stylepropertymap/append,0
 web/api/stylepropertymap/clear,0
 web/api/stylepropertymap/delete,0
 web/api/stylepropertymap/set,0
-web/api/stylepropertymapreadonly,0
+web/api/stylepropertymapreadonly,1
 web/api/stylepropertymapreadonly/entries,0
 web/api/stylepropertymapreadonly/foreach,0
 web/api/stylepropertymapreadonly/get,0
@@ -9170,7 +9170,7 @@ web/api/videotracklist/selectedindex,0
 web/api/view_transition_api,0
 web/api/view_transition_api/using,0
 web/api/view_transition_api/using_element-scoped,0
-web/api/view_transition_api/using_types,1
+web/api/view_transition_api/using_types,0
 web/api/viewport,0
 web/api/viewport/segments,0
 web/api/viewport_segments_api,0
@@ -10849,7 +10849,7 @@ web/css/reference/properties/column-span,0
 web/css/reference/properties/column-width,0
 web/css/reference/properties/column-wrap,0
 web/css/reference/properties/columns,0
-web/css/reference/properties/contain,1
+web/css/reference/properties/contain,0
 web/css/reference/properties/contain-intrinsic-block-size,0
 web/css/reference/properties/contain-intrinsic-height,0
 web/css/reference/properties/contain-intrinsic-inline-size,0
@@ -11553,7 +11553,7 @@ web/css/reference/values/ratio,0
 web/css/reference/values/ray,0
 web/css/reference/values/relative-size,0
 web/css/reference/values/rem,0
-web/css/reference/values/repeat,1
+web/css/reference/values/repeat,0
 web/css/reference/values/resolution,0
 web/css/reference/values/revert,0
 web/css/reference/values/revert-layer,0
@@ -11576,7 +11576,7 @@ web/css/reference/values/text-edge,0
 web/css/reference/values/time,0
 web/css/reference/values/time-percentage,0
 web/css/reference/values/timeline-range-name,0
-web/css/reference/values/transform-function,0
+web/css/reference/values/transform-function,1
 web/css/reference/values/transform-function/matrix,0
 web/css/reference/values/transform-function/matrix3d,0
 web/css/reference/values/transform-function/perspective,0
@@ -12812,7 +12812,7 @@ web/javascript/reference/global_objects/map/groupby,0
 web/javascript/reference/global_objects/map/has,0
 web/javascript/reference/global_objects/map/keys,0
 web/javascript/reference/global_objects/map/map,0
-web/javascript/reference/global_objects/map/set,0
+web/javascript/reference/global_objects/map/set,1
 web/javascript/reference/global_objects/map/size,0
 web/javascript/reference/global_objects/map/symbol.iterator,0
 web/javascript/reference/global_objects/map/symbol.species,0
@@ -13084,7 +13084,7 @@ web/javascript/reference/global_objects/string/tolowercase,0
 web/javascript/reference/global_objects/string/tostring,0
 web/javascript/reference/global_objects/string/touppercase,0
 web/javascript/reference/global_objects/string/towellformed,0
-web/javascript/reference/global_objects/string/trim,1
+web/javascript/reference/global_objects/string/trim,0
 web/javascript/reference/global_objects/string/trimend,0
 web/javascript/reference/global_objects/string/trimstart,0
 web/javascript/reference/global_objects/string/valueof,0
@@ -14391,7 +14391,7 @@ webassembly/reference/javascript_interface/compileerror/compileerror,0
 webassembly/reference/javascript_interface/compilestreaming_static,0
 webassembly/reference/javascript_interface/exception,0
 webassembly/reference/javascript_interface/exception/exception,0
-webassembly/reference/javascript_interface/exception/getarg,1
+webassembly/reference/javascript_interface/exception/getarg,0
 webassembly/reference/javascript_interface/exception/is,0
 webassembly/reference/javascript_interface/exception/stack,0
 webassembly/reference/javascript_interface/global,0
