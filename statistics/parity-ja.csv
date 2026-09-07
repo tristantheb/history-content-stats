@@ -5877,7 +5877,7 @@ web/api/mediadeviceinfo/tojson,1
 web/api/mediadevices,0
 web/api/mediadevices/devicechange_event,4
 web/api/mediadevices/enumeratedevices,2
-web/api/mediadevices/getdisplaymedia,10
+web/api/mediadevices/getdisplaymedia,11
 web/api/mediadevices/getsupportedconstraints,1
 web/api/mediadevices/getusermedia,6
 web/api/mediadevices/selectaudiooutput,4
@@ -9694,7 +9694,7 @@ web/api/webtransport/protocol,null
 web/api/webtransport/ready,null
 web/api/webtransport/reliability,null
 web/api/webtransport/webtransport,null
-web/api/webtransport_api,1
+web/api/webtransport_api,2
 web/api/webtransportbidirectionalstream,null
 web/api/webtransportbidirectionalstream/readable,null
 web/api/webtransportbidirectionalstream/writable,null
@@ -10439,7 +10439,7 @@ web/css/guides/fonts/opentype_fonts,2
 web/css/guides/fonts/variable_fonts,2
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
-web/css/guides/gaps,4
+web/css/guides/gaps,5
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,0
 web/css/guides/grid_layout/accessibility,0
@@ -10704,7 +10704,7 @@ web/css/reference/properties/align-content,2
 web/css/reference/properties/align-items,3
 web/css/reference/properties/align-self,2
 web/css/reference/properties/alignment-baseline,2
-web/css/reference/properties/all,3
+web/css/reference/properties/all,4
 web/css/reference/properties/anchor-name,3
 web/css/reference/properties/anchor-scope,1
 web/css/reference/properties/animation,4
@@ -11733,7 +11733,7 @@ web/html/reference/elements/input/password,1
 web/html/reference/elements/input/radio,1
 web/html/reference/elements/input/range,1
 web/html/reference/elements/input/reset,1
-web/html/reference/elements/input/search,3
+web/html/reference/elements/input/search,4
 web/html/reference/elements/input/submit,1
 web/html/reference/elements/input/tel,1
 web/html/reference/elements/input/text,1
@@ -12173,10 +12173,9 @@ web/http/reference/methods/post,0
 web/http/reference/methods/put,1
 web/http/reference/methods/trace,1
 web/http/reference/resources_and_specifications,2
-web/http/reference/status,0
+web/http/reference/status,1
 web/http/reference/status/100,0
 web/http/reference/status/101,0
-web/http/reference/status/102,0
 web/http/reference/status/103,0
 web/http/reference/status/200,0
 web/http/reference/status/201,0
@@ -13699,7 +13698,7 @@ web/progressive_web_apps/guides,1
 web/progressive_web_apps/guides/best_practices,5
 web/progressive_web_apps/guides/caching,3
 web/progressive_web_apps/guides/installing,5
-web/progressive_web_apps/guides/making_pwas_installable,9
+web/progressive_web_apps/guides/making_pwas_installable,10
 web/progressive_web_apps/guides/offline_and_background_operation,6
 web/progressive_web_apps/guides/what_is_a_progressive_web_app,5
 web/progressive_web_apps/how_to,1

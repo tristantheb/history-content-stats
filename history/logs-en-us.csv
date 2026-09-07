@@ -5877,7 +5877,7 @@ web/api/mediadeviceinfo/tojson,4232f4067388fc9b2c55c5f9200dddf05bd99b74,Web APIs
 web/api/mediadevices,b2875dbaa70efb5850084b9802803b439db325f5,Web APIs
 web/api/mediadevices/devicechange_event,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/mediadevices/enumeratedevices,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
-web/api/mediadevices/getdisplaymedia,0e9bb8e8adaf7924ba918c28293092d65467a7ff,Web APIs
+web/api/mediadevices/getdisplaymedia,8a13259a44523cd17b4fe347088b62c6d7a35265,Web APIs
 web/api/mediadevices/getsupportedconstraints,7615562a3689a3e23a2b6b623597f4391740a53e,Web APIs
 web/api/mediadevices/getusermedia,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/mediadevices/selectaudiooutput,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
@@ -9694,7 +9694,7 @@ web/api/webtransport/protocol,8413520d9fd826c98db89ff8165408139635d454,Web APIs
 web/api/webtransport/ready,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/reliability,e1e7e2ac2cb1e40293c32c24bc0667905e9a7a04,Web APIs
 web/api/webtransport/webtransport,8413520d9fd826c98db89ff8165408139635d454,Web APIs
-web/api/webtransport_api,8413520d9fd826c98db89ff8165408139635d454,Web APIs
+web/api/webtransport_api,0323d4059df0e5645b22afbc32c2d343660e01c6,Web APIs
 web/api/webtransportbidirectionalstream,cc41ecd796870c2b6c77ad0b04fcb8d8c7d877d2,Web APIs
 web/api/webtransportbidirectionalstream/readable,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/webtransportbidirectionalstream/writable,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
@@ -10439,7 +10439,7 @@ web/css/guides/fonts/opentype_fonts,3143a6094e7b87cf1a96b61f9551fb4d95049777,CSS
 web/css/guides/fonts/variable_fonts,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5,CSS|Guides
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/gaps,1474534461893381d54c502e655f334b5568e597,CSS|Guides
+web/css/guides/gaps,8a13259a44523cd17b4fe347088b62c6d7a35265,CSS|Guides
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/grid_layout,b02c4fe0f8c485fa3fd0af10005310aaecef64ca,CSS|Guides
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10704,7 +10704,7 @@ web/css/reference/properties/align-content,071fd0613b1b5728d2d83845ea11512cb6150
 web/css/reference/properties/align-items,1474534461893381d54c502e655f334b5568e597,CSS|Properties
 web/css/reference/properties/align-self,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/alignment-baseline,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/all,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/all,8a13259a44523cd17b4fe347088b62c6d7a35265,CSS|Properties
 web/css/reference/properties/anchor-name,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/anchor-scope,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/animation,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
@@ -11733,7 +11733,7 @@ web/html/reference/elements/input/password,3944506d4afeeed774687cf3fd950878c6229
 web/html/reference/elements/input/radio,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/range,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/reset,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/input/search,1474534461893381d54c502e655f334b5568e597,HTML|Elements
+web/html/reference/elements/input/search,8a13259a44523cd17b4fe347088b62c6d7a35265,HTML|Elements
 web/html/reference/elements/input/submit,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/tel,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/text,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
@@ -12173,10 +12173,9 @@ web/http/reference/methods/post,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Me
 web/http/reference/methods/put,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Methods
 web/http/reference/methods/trace,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Methods
 web/http/reference/resources_and_specifications,cda80746ecc7ab18d2f7fdd27433f942607bfc20,HTTP
-web/http/reference/status,cd8ed9bfa89d5ced4fd6c2083d7d90bcda41e441,HTTP|Status
+web/http/reference/status,2c1cce1810cedbd5b2e92f260c8ad2414072e0e6,HTTP|Status
 web/http/reference/status/100,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
 web/http/reference/status/101,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Status
-web/http/reference/status/102,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
 web/http/reference/status/103,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
 web/http/reference/status/200,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
 web/http/reference/status/201,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Status
@@ -13691,7 +13690,7 @@ web/privacy/guides/third-party_cookies,5ef5a171a41dbcb48c953cc3c98c1237566796e9,
 web/privacy/guides/third-party_cookies/partitioned_cookies,5ef5a171a41dbcb48c953cc3c98c1237566796e9,Privacy|Guides
 web/privacy/privacy_primer,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Privacy
 web/privacy/regulations,d86f8f0f8c184890e2f72db416051b6e0ae9f0b8,Privacy
-web/privacy/regulations/ccpa,b1323591b2dcff55af31c3b3f0107f7c4f1d38d2,Privacy
+web/privacy/regulations/ccpa,8a13259a44523cd17b4fe347088b62c6d7a35265,Privacy
 web/privacy/regulations/gdpr,b1323591b2dcff55af31c3b3f0107f7c4f1d38d2,Privacy
 web/privacy/threat_modeling,f7740136226ddfb686dede1dc291660c5729d17d,Privacy
 web/progressive_web_apps,26fb7eaa7b398a35c2463fa15ab6ccfa46a9e06d,PWAs
@@ -13699,7 +13698,7 @@ web/progressive_web_apps/guides,628b29f53d15f203c4a6b33c1d0303f864f6af63,PWAs|Gu
 web/progressive_web_apps/guides/best_practices,26f9fbee05fb92b584d44fba4359e86796484aa6,PWAs|Guides
 web/progressive_web_apps/guides/caching,505b41bcaaf79e979fddddd8176ab8e32fd4ca26,PWAs|Guides
 web/progressive_web_apps/guides/installing,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,PWAs|Guides
-web/progressive_web_apps/guides/making_pwas_installable,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,PWAs|Guides
+web/progressive_web_apps/guides/making_pwas_installable,fec9a9fcfaeef3ed674f60ddda7a46f18208b347,PWAs|Guides
 web/progressive_web_apps/guides/offline_and_background_operation,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,PWAs|Guides
 web/progressive_web_apps/guides/what_is_a_progressive_web_app,d64e1ee3cdbe602324fce3f7320d026f58186715,PWAs|Guides
 web/progressive_web_apps/how_to,628b29f53d15f203c4a6b33c1d0303f864f6af63,PWAs|How To
@@ -14368,7 +14367,7 @@ webassembly/reference/definitions,0471f8e12d10a6fb1f301185823c8262dd18e3c6,WebAs
 webassembly/reference/definitions/data,f35f247e16286c4e0b1c88fba3d8ce01683c189b,WebAssembly
 webassembly/reference/definitions/elem,f35f247e16286c4e0b1c88fba3d8ce01683c189b,WebAssembly
 webassembly/reference/definitions/global,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
-webassembly/reference/definitions/import,ec9b3dc8149f74755e35871e178861f9546bbc5d,WebAssembly
+webassembly/reference/definitions/import,8a13259a44523cd17b4fe347088b62c6d7a35265,WebAssembly
 webassembly/reference/definitions/memory,f35f247e16286c4e0b1c88fba3d8ce01683c189b,WebAssembly
 webassembly/reference/definitions/table,0471f8e12d10a6fb1f301185823c8262dd18e3c6,WebAssembly
 webassembly/reference/definitions/tag,48b0dc43b7c13a2c9a5d2c56f110444d2550b90e,WebAssembly

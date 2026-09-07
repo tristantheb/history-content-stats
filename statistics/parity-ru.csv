@@ -12173,10 +12173,9 @@ web/http/reference/methods/post,null
 web/http/reference/methods/put,null
 web/http/reference/methods/trace,null
 web/http/reference/resources_and_specifications,null
-web/http/reference/status,5
+web/http/reference/status,6
 web/http/reference/status/100,null
 web/http/reference/status/101,null
-web/http/reference/status/102,null
 web/http/reference/status/103,null
 web/http/reference/status/200,null
 web/http/reference/status/201,null
