@@ -10841,6 +10841,7 @@ web/css/reference/properties/column-height,null
 web/css/reference/properties/column-rule,null
 web/css/reference/properties/column-rule-break,null
 web/css/reference/properties/column-rule-color,null
+web/css/reference/properties/column-rule-inset-cap-end,null
 web/css/reference/properties/column-rule-style,4
 web/css/reference/properties/column-rule-visibility-items,null
 web/css/reference/properties/column-rule-width,4
@@ -12243,7 +12244,7 @@ web/javascript/guide/enumerability_and_ownership_of_properties,2
 web/javascript/guide/equality_comparisons_and_sameness,6
 web/javascript/guide/expressions_and_operators,null
 web/javascript/guide/functions,null
-web/javascript/guide/grammar_and_types,12
+web/javascript/guide/grammar_and_types,13
 web/javascript/guide/indexed_collections,null
 web/javascript/guide/inheritance_and_the_prototype_chain,6
 web/javascript/guide/internationalization,null
@@ -13534,7 +13535,7 @@ web/javascript/reference/regular_expressions/quantifier,5
 web/javascript/reference/regular_expressions/unicode_character_class_escape,1
 web/javascript/reference/regular_expressions/wildcard,0
 web/javascript/reference/regular_expressions/word_boundary_assertion,0
-web/javascript/reference/statements,6
+web/javascript/reference/statements,7
 web/javascript/reference/statements/async_function,6
 web/javascript/reference/statements/async_function_star_,7
 web/javascript/reference/statements/await_using,null

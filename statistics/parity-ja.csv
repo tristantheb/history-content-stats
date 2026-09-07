@@ -10841,6 +10841,7 @@ web/css/reference/properties/column-height,1
 web/css/reference/properties/column-rule,2
 web/css/reference/properties/column-rule-break,null
 web/css/reference/properties/column-rule-color,2
+web/css/reference/properties/column-rule-inset-cap-end,null
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,1
 web/css/reference/properties/column-rule-width,0
@@ -10916,7 +10917,7 @@ web/css/reference/properties/font-size,2
 web/css/reference/properties/font-size-adjust,3
 web/css/reference/properties/font-smooth,1
 web/css/reference/properties/font-stretch,2
-web/css/reference/properties/font-style,2
+web/css/reference/properties/font-style,3
 web/css/reference/properties/font-synthesis,3
 web/css/reference/properties/font-synthesis-position,2
 web/css/reference/properties/font-synthesis-small-caps,2
@@ -11420,7 +11421,7 @@ web/css/reference/values/abs,0
 web/css/reference/values/absolute-size,2
 web/css/reference/values/acos,1
 web/css/reference/values/alpha-value,1
-web/css/reference/values/anchor,1
+web/css/reference/values/anchor,2
 web/css/reference/values/anchor-size,0
 web/css/reference/values/angle,1
 web/css/reference/values/angle-percentage,1
@@ -12243,7 +12244,7 @@ web/javascript/guide/enumerability_and_ownership_of_properties,0
 web/javascript/guide/equality_comparisons_and_sameness,2
 web/javascript/guide/expressions_and_operators,0
 web/javascript/guide/functions,0
-web/javascript/guide/grammar_and_types,1
+web/javascript/guide/grammar_and_types,2
 web/javascript/guide/indexed_collections,1
 web/javascript/guide/inheritance_and_the_prototype_chain,0
 web/javascript/guide/internationalization,0
@@ -13534,7 +13535,7 @@ web/javascript/reference/regular_expressions/quantifier,8
 web/javascript/reference/regular_expressions/unicode_character_class_escape,14
 web/javascript/reference/regular_expressions/wildcard,0
 web/javascript/reference/regular_expressions/word_boundary_assertion,0
-web/javascript/reference/statements,1
+web/javascript/reference/statements,2
 web/javascript/reference/statements/async_function,0
 web/javascript/reference/statements/async_function_star_,13
 web/javascript/reference/statements/await_using,0
@@ -13650,7 +13651,7 @@ web/media/guides/formats/configuring_servers_for_ogg_media,null
 web/media/guides/formats/containers,8
 web/media/guides/formats/image_types,1
 web/media/guides/formats/support_issues,null
-web/media/guides/formats/video_codecs,12
+web/media/guides/formats/video_codecs,13
 web/media/guides/formats/video_concepts,null
 web/media/guides/formats/webrtc_codecs,null
 web/media/guides/images,null
