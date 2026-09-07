@@ -13084,7 +13084,7 @@ web/javascript/reference/global_objects/string/tolowercase,4
 web/javascript/reference/global_objects/string/tostring,null
 web/javascript/reference/global_objects/string/touppercase,4
 web/javascript/reference/global_objects/string/towellformed,3
-web/javascript/reference/global_objects/string/trim,4
+web/javascript/reference/global_objects/string/trim,5
 web/javascript/reference/global_objects/string/trimend,5
 web/javascript/reference/global_objects/string/trimstart,5
 web/javascript/reference/global_objects/string/valueof,4

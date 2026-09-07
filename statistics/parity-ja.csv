@@ -895,7 +895,7 @@ learn_web_development/extensions/forms/other_form_controls,2
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,1
 learn_web_development/extensions/forms/sending_forms_through_javascript,0
 learn_web_development/extensions/forms/styling_web_forms,4
-learn_web_development/extensions/forms/ui_pseudo-classes,3
+learn_web_development/extensions/forms/ui_pseudo-classes,4
 learn_web_development/extensions/forms/user_input_methods,0
 learn_web_development/extensions/forms/your_first_form,0
 learn_web_development/extensions/performance,0
@@ -2246,7 +2246,7 @@ web/accessibility/guides/colors_and_luminance,0
 web/accessibility/guides/information_for_web_authors,1
 web/accessibility/guides/keyboard-navigable_javascript_widgets,0
 web/accessibility/guides/mobile_accessibility_checklist,0
-web/accessibility/guides/seizure_disorders,null
+web/accessibility/guides/seizure_disorders,0
 web/accessibility/guides/understanding_wcag,0
 web/accessibility/guides/understanding_wcag/keyboard,0
 web/accessibility/guides/understanding_wcag/operable,2
@@ -2309,7 +2309,7 @@ web/api/animation,0
 web/api/animation/animation,0
 web/api/animation/cancel,1
 web/api/animation/cancel_event,0
-web/api/animation/commitstyles,1
+web/api/animation/commitstyles,2
 web/api/animation/currenttime,1
 web/api/animation/effect,0
 web/api/animation/finish,0
@@ -9170,7 +9170,7 @@ web/api/videotracklist/selectedindex,2
 web/api/view_transition_api,10
 web/api/view_transition_api/using,2
 web/api/view_transition_api/using_element-scoped,null
-web/api/view_transition_api/using_types,1
+web/api/view_transition_api/using_types,2
 web/api/viewport,0
 web/api/viewport/segments,0
 web/api/viewport_segments_api,0
@@ -10366,7 +10366,7 @@ web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,0
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,3
 web/css/guides/basic_user_interface,0
 web/css/guides/borders_and_box_decorations,7
-web/css/guides/borders_and_box_decorations/border_shape_nav_menu,null
+web/css/guides/borders_and_box_decorations/border_shape_nav_menu,0
 web/css/guides/box_alignment,1
 web/css/guides/box_alignment/in_block_abspos_tables,0
 web/css/guides/box_alignment/in_flexbox,0
@@ -10849,7 +10849,7 @@ web/css/reference/properties/column-span,1
 web/css/reference/properties/column-width,1
 web/css/reference/properties/column-wrap,1
 web/css/reference/properties/columns,2
-web/css/reference/properties/contain,3
+web/css/reference/properties/contain,4
 web/css/reference/properties/contain-intrinsic-block-size,1
 web/css/reference/properties/contain-intrinsic-height,1
 web/css/reference/properties/contain-intrinsic-inline-size,1
@@ -11553,7 +11553,7 @@ web/css/reference/values/ratio,1
 web/css/reference/values/ray,0
 web/css/reference/values/relative-size,1
 web/css/reference/values/rem,0
-web/css/reference/values/repeat,5
+web/css/reference/values/repeat,6
 web/css/reference/values/resolution,1
 web/css/reference/values/revert,2
 web/css/reference/values/revert-layer,2
@@ -13084,7 +13084,7 @@ web/javascript/reference/global_objects/string/tolowercase,0
 web/javascript/reference/global_objects/string/tostring,1
 web/javascript/reference/global_objects/string/touppercase,0
 web/javascript/reference/global_objects/string/towellformed,0
-web/javascript/reference/global_objects/string/trim,0
+web/javascript/reference/global_objects/string/trim,1
 web/javascript/reference/global_objects/string/trimend,0
 web/javascript/reference/global_objects/string/trimstart,0
 web/javascript/reference/global_objects/string/valueof,0
@@ -13763,7 +13763,7 @@ web/security/attacks/phishing,null
 web/security/attacks/prototype_pollution,0
 web/security/attacks/ssrf,0
 web/security/attacks/subdomain_takeover,0
-web/security/attacks/supply_chain_attacks,null
+web/security/attacks/supply_chain_attacks,0
 web/security/attacks/xs-leaks,1
 web/security/attacks/xss,3
 web/security/authentication,0
