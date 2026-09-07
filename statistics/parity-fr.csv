@@ -5221,7 +5221,7 @@ web/api/htmlmeterelement,0
 web/api/htmlmeterelement/high,0
 web/api/htmlmeterelement/labels,0
 web/api/htmlmeterelement/low,0
-web/api/htmlmeterelement/max,0
+web/api/htmlmeterelement/max,1
 web/api/htmlmeterelement/min,0
 web/api/htmlmeterelement/optimum,0
 web/api/htmlmeterelement/value,0
@@ -10849,7 +10849,7 @@ web/css/reference/properties/column-span,0
 web/css/reference/properties/column-width,0
 web/css/reference/properties/column-wrap,0
 web/css/reference/properties/columns,0
-web/css/reference/properties/contain,0
+web/css/reference/properties/contain,1
 web/css/reference/properties/contain-intrinsic-block-size,0
 web/css/reference/properties/contain-intrinsic-height,0
 web/css/reference/properties/contain-intrinsic-inline-size,0
@@ -11553,7 +11553,7 @@ web/css/reference/values/ratio,0
 web/css/reference/values/ray,0
 web/css/reference/values/relative-size,0
 web/css/reference/values/rem,0
-web/css/reference/values/repeat,0
+web/css/reference/values/repeat,1
 web/css/reference/values/resolution,0
 web/css/reference/values/revert,0
 web/css/reference/values/revert-layer,0

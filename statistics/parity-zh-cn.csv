@@ -1415,7 +1415,7 @@ mozilla/add-ons/webextensions/api/i18n/languagecode,null
 mozilla/add-ons/webextensions/api/i18n/locale-specific_message_reference,null
 mozilla/add-ons/webextensions/api/identity,2
 mozilla/add-ons/webextensions/api/identity/getredirecturl,2
-mozilla/add-ons/webextensions/api/identity/launchwebauthflow,4
+mozilla/add-ons/webextensions/api/identity/launchwebauthflow,5
 mozilla/add-ons/webextensions/api/idle,null
 mozilla/add-ons/webextensions/api/idle/idlestate,null
 mozilla/add-ons/webextensions/api/idle/onstatechanged,null
@@ -14391,7 +14391,7 @@ webassembly/reference/javascript_interface/compileerror/compileerror,1
 webassembly/reference/javascript_interface/compilestreaming_static,0
 webassembly/reference/javascript_interface/exception,-1
 webassembly/reference/javascript_interface/exception/exception,5
-webassembly/reference/javascript_interface/exception/getarg,1
+webassembly/reference/javascript_interface/exception/getarg,2
 webassembly/reference/javascript_interface/exception/is,2
 webassembly/reference/javascript_interface/exception/stack,3
 webassembly/reference/javascript_interface/global,1
