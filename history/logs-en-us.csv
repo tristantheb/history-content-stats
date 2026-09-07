@@ -915,7 +915,7 @@ learn_web_development/extensions/server-side/apache_configuration_htaccess,c9f3d
 learn_web_development/extensions/server-side/configuring_server_mime_types,f85d2e26b062decf7a2bb9179c3a93003f4067a9,Learn|Extensions
 learn_web_development/extensions/server-side/django,815f1a18f44059500b337719295c6eda14b6228e,Learn|Extensions
 learn_web_development/extensions/server-side/django/admin_site,815f1a18f44059500b337719295c6eda14b6228e,Learn|Extensions
-learn_web_development/extensions/server-side/django/authentication,815f1a18f44059500b337719295c6eda14b6228e,Learn|Extensions
+learn_web_development/extensions/server-side/django/authentication,81a384e18b61c1d1b23d7f58f1fbd8ec3af45558,Learn|Extensions
 learn_web_development/extensions/server-side/django/deployment,324c613947adaa5e19ad0f409c5f4c535ee8cf6b,Learn|Extensions
 learn_web_development/extensions/server-side/django/development_environment,324c613947adaa5e19ad0f409c5f4c535ee8cf6b,Learn|Extensions
 learn_web_development/extensions/server-side/django/django_assessment_blog,2530db14de9ac226cf06f84540fa0101e804ca9b,Learn|Extensions
@@ -2742,7 +2742,7 @@ web/api/canvas_api/tutorial/drawing_text,788ea14745b3c5c2f45098403073b381c1357f3
 web/api/canvas_api/tutorial/finale,a52689c74c6c89f45c54447bb148e54ed320db62,Web APIs
 web/api/canvas_api/tutorial/optimizing_canvas,ef3d35612c569a9ad17dade2e356a10808206612,Web APIs
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
-web/api/canvas_api/tutorial/transformations,6f1b699dd8891431bbfe0bc3bb803f929fa6032e,Web APIs
+web/api/canvas_api/tutorial/transformations,81a384e18b61c1d1b23d7f58f1fbd8ec3af45558,Web APIs
 web/api/canvas_api/tutorial/using_images,56f3d7018159127dbe92842413fb45d0aa7e8193,Web APIs
 web/api/canvascapturemediastreamtrack,7fb6ccccf88b71712c1b603bed7092dbb622b698,Web APIs
 web/api/canvascapturemediastreamtrack/canvas,7fb6ccccf88b71712c1b603bed7092dbb622b698,Web APIs
@@ -3069,7 +3069,7 @@ web/api/css_painting_api/guide,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/css_properties_and_values_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/css_properties_and_values_api/guide,98bbdcd90e5487539cebe19b12fe3d731fb5a03e,Web APIs
 web/api/css_typed_om_api,8446f51f9a446af6a9ed878ff8f9515d60d28ed5,Web APIs
-web/api/css_typed_om_api/guide,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
+web/api/css_typed_om_api/guide,81a384e18b61c1d1b23d7f58f1fbd8ec3af45558,Web APIs
 web/api/cssanimation,4f5e90f47c518afd1e3c11a9fb32b933cc8434e9,Web APIs
 web/api/cssanimation/animationname,d76defab4ca13261e9de81ae1df125345f847b0a,Web APIs
 web/api/cssconditionrule,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
@@ -3888,7 +3888,7 @@ web/api/element/closest,a659a31a9dda9d90cf4df1ed5a7ef216d0ad56ba,Web APIs
 web/api/element/compositionend_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/element/compositionstart_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/element/compositionupdate_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
-web/api/element/computedstylemap,ebb9a6421c24c4aff2fef3913527571441361cf0,Web APIs
+web/api/element/computedstylemap,81a384e18b61c1d1b23d7f58f1fbd8ec3af45558,Web APIs
 web/api/element/contentvisibilityautostatechange_event,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/element/contextmenu_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/element/copy_event,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
@@ -4712,7 +4712,7 @@ web/api/highlightregistry/get,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb,Web APIs
 web/api/highlightregistry/has,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb,Web APIs
 web/api/highlightregistry/highlightsfrompoint,6401be870472f3197c3a130b719952779cad639b,Web APIs
 web/api/highlightregistry/keys,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
-web/api/highlightregistry/set,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
+web/api/highlightregistry/set,81a384e18b61c1d1b23d7f58f1fbd8ec3af45558,Web APIs
 web/api/highlightregistry/size,47ed48a36b456f8ea9ab6aaa5969c55d2912edcb,Web APIs
 web/api/highlightregistry/values,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
 web/api/history,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -6289,7 +6289,7 @@ web/api/navigationhistoryentry/samedocument,7e14795a6ef2bf5e760c315ce64800dd1cd9
 web/api/navigationhistoryentry/url,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
 web/api/navigationprecommitcontroller,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
 web/api/navigationprecommitcontroller/addhandler,d1755079dbc4d1fb68c4bda0cf999fdf618e234a,Web APIs
-web/api/navigationprecommitcontroller/redirect,0563b7d83916b234fa637483211889e573df9440,Web APIs
+web/api/navigationprecommitcontroller/redirect,81a384e18b61c1d1b23d7f58f1fbd8ec3af45558,Web APIs
 web/api/navigationpreloadmanager,f2088b8912ef205a737551441d54b73507bd3ac6,Web APIs
 web/api/navigationpreloadmanager/disable,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
 web/api/navigationpreloadmanager/enable,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
@@ -8094,7 +8094,7 @@ web/api/stylepropertymap/append,793b293c6c43b480bf060c2f98ca9240712f461e,Web API
 web/api/stylepropertymap/clear,ebb9a6421c24c4aff2fef3913527571441361cf0,Web APIs
 web/api/stylepropertymap/delete,ebb9a6421c24c4aff2fef3913527571441361cf0,Web APIs
 web/api/stylepropertymap/set,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
-web/api/stylepropertymapreadonly,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
+web/api/stylepropertymapreadonly,81a384e18b61c1d1b23d7f58f1fbd8ec3af45558,Web APIs
 web/api/stylepropertymapreadonly/entries,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/stylepropertymapreadonly/foreach,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/stylepropertymapreadonly/get,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
@@ -11576,7 +11576,7 @@ web/css/reference/values/text-edge,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|
 web/css/reference/values/time,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/time-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/timeline-range-name,ddd76a60b6f33cf077f9fdc5d1377ff94acd5aa4,CSS|Values
-web/css/reference/values/transform-function,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
+web/css/reference/values/transform-function,81a384e18b61c1d1b23d7f58f1fbd8ec3af45558,CSS|Values
 web/css/reference/values/transform-function/matrix,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/transform-function/matrix3d,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/transform-function/perspective,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
@@ -12812,7 +12812,7 @@ web/javascript/reference/global_objects/map/groupby,544b843570cb08d1474cfc5ec03f
 web/javascript/reference/global_objects/map/has,0574ac1985889d2ccce1b61e42db98d74ac1bbcb,JavaScript|Global Objects
 web/javascript/reference/global_objects/map/keys,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/map/map,1d905454be7d8910d5e3b33f0c22d063fe212816,JavaScript|Global Objects
-web/javascript/reference/global_objects/map/set,7b63b90d24ad8945977bb9dc2735d75f72829bc1,JavaScript|Global Objects
+web/javascript/reference/global_objects/map/set,81a384e18b61c1d1b23d7f58f1fbd8ec3af45558,JavaScript|Global Objects
 web/javascript/reference/global_objects/map/size,c9f3d85f24d7839c9fe36a68d8042d088d906147,JavaScript|Global Objects
 web/javascript/reference/global_objects/map/symbol.iterator,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/map/symbol.species,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
