@@ -3961,7 +3961,7 @@ web/api/element/pointermove_event,null
 web/api/element/pointerout_event,null
 web/api/element/pointerover_event,null
 web/api/element/pointerrawupdate_event,null
-web/api/element/pointerup_event,null
+web/api/element/pointerup_event,0
 web/api/element/prefix,2
 web/api/element/prepend,0
 web/api/element/previouselementsibling,null
@@ -10704,7 +10704,7 @@ web/css/reference/properties/align-content,null
 web/css/reference/properties/align-items,null
 web/css/reference/properties/align-self,null
 web/css/reference/properties/alignment-baseline,null
-web/css/reference/properties/all,8
+web/css/reference/properties/all,9
 web/css/reference/properties/anchor-name,null
 web/css/reference/properties/anchor-scope,null
 web/css/reference/properties/animation,null
@@ -11681,7 +11681,7 @@ web/html/reference/elements/button,null
 web/html/reference/elements/canvas,null
 web/html/reference/elements/caption,null
 web/html/reference/elements/center,5
-web/html/reference/elements/cite,null
+web/html/reference/elements/cite,0
 web/html/reference/elements/code,5
 web/html/reference/elements/col,9
 web/html/reference/elements/colgroup,10
@@ -12176,7 +12176,6 @@ web/http/reference/resources_and_specifications,null
 web/http/reference/status,null
 web/http/reference/status/100,null
 web/http/reference/status/101,1
-web/http/reference/status/102,2
 web/http/reference/status/103,2
 web/http/reference/status/200,null
 web/http/reference/status/201,null
@@ -13699,7 +13698,7 @@ web/progressive_web_apps/guides,0
 web/progressive_web_apps/guides/best_practices,null
 web/progressive_web_apps/guides/caching,null
 web/progressive_web_apps/guides/installing,null
-web/progressive_web_apps/guides/making_pwas_installable,17
+web/progressive_web_apps/guides/making_pwas_installable,18
 web/progressive_web_apps/guides/offline_and_background_operation,null
 web/progressive_web_apps/guides/what_is_a_progressive_web_app,null
 web/progressive_web_apps/how_to,0
@@ -14012,7 +14011,7 @@ web/svg/reference/attribute/xml_colon_lang,null
 web/svg/reference/attribute/xml_colon_space,null
 web/svg/reference/attribute/y,null
 web/svg/reference/attribute/y1,null
-web/svg/reference/attribute/y2,null
+web/svg/reference/attribute/y2,0
 web/svg/reference/attribute/ychannelselector,null
 web/svg/reference/attribute/z,null
 web/svg/reference/attribute/zoomandpan,1

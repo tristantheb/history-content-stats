@@ -5877,7 +5877,7 @@ web/api/mediadeviceinfo/tojson,0
 web/api/mediadevices,0
 web/api/mediadevices/devicechange_event,0
 web/api/mediadevices/enumeratedevices,0
-web/api/mediadevices/getdisplaymedia,0
+web/api/mediadevices/getdisplaymedia,1
 web/api/mediadevices/getsupportedconstraints,0
 web/api/mediadevices/getusermedia,0
 web/api/mediadevices/selectaudiooutput,0
@@ -9670,7 +9670,7 @@ web/api/websockets_api/using_websocketstream,0
 web/api/websockets_api/writing_a_websocket_server_in_java,0
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,0
 web/api/websockets_api/writing_websocket_client_applications,0
-web/api/websockets_api/writing_websocket_server,1
+web/api/websockets_api/writing_websocket_server,0
 web/api/websockets_api/writing_websocket_servers,0
 web/api/websocketstream,0
 web/api/websocketstream/close,0
@@ -9694,7 +9694,7 @@ web/api/webtransport/protocol,0
 web/api/webtransport/ready,0
 web/api/webtransport/reliability,0
 web/api/webtransport/webtransport,0
-web/api/webtransport_api,0
+web/api/webtransport_api,1
 web/api/webtransportbidirectionalstream,0
 web/api/webtransportbidirectionalstream/readable,0
 web/api/webtransportbidirectionalstream/writable,0
@@ -10352,7 +10352,7 @@ web/css,0
 web/css/guides,0
 web/css/guides/anchor_positioning,0
 web/css/guides/anchor_positioning/anchored_container_queries,0
-web/css/guides/anchor_positioning/try_options_hiding,1
+web/css/guides/anchor_positioning/try_options_hiding,0
 web/css/guides/anchor_positioning/using,0
 web/css/guides/animations,0
 web/css/guides/animations/animatable_properties,0
@@ -10439,7 +10439,7 @@ web/css/guides/fonts/opentype_fonts,0
 web/css/guides/fonts/variable_fonts,0
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
-web/css/guides/gaps,0
+web/css/guides/gaps,1
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,0
 web/css/guides/grid_layout/accessibility,0
@@ -10704,7 +10704,7 @@ web/css/reference/properties/align-content,0
 web/css/reference/properties/align-items,0
 web/css/reference/properties/align-self,0
 web/css/reference/properties/alignment-baseline,0
-web/css/reference/properties/all,0
+web/css/reference/properties/all,1
 web/css/reference/properties/anchor-name,0
 web/css/reference/properties/anchor-scope,0
 web/css/reference/properties/animation,0
@@ -11093,7 +11093,7 @@ web/css/reference/properties/position-anchor,0
 web/css/reference/properties/position-area,0
 web/css/reference/properties/position-try,0
 web/css/reference/properties/position-try-fallbacks,0
-web/css/reference/properties/position-try-order,1
+web/css/reference/properties/position-try-order,0
 web/css/reference/properties/position-visibility,0
 web/css/reference/properties/print-color-adjust,0
 web/css/reference/properties/quotes,0
@@ -11106,7 +11106,7 @@ web/css/reference/properties/rotate,0
 web/css/reference/properties/row-gap,0
 web/css/reference/properties/row-rule,0
 web/css/reference/properties/row-rule-break,0
-web/css/reference/properties/row-rule-color,1
+web/css/reference/properties/row-rule-color,0
 web/css/reference/properties/row-rule-style,0
 web/css/reference/properties/row-rule-visibility-items,0
 web/css/reference/properties/row-rule-width,0
@@ -11733,7 +11733,7 @@ web/html/reference/elements/input/password,0
 web/html/reference/elements/input/radio,0
 web/html/reference/elements/input/range,0
 web/html/reference/elements/input/reset,0
-web/html/reference/elements/input/search,0
+web/html/reference/elements/input/search,1
 web/html/reference/elements/input/submit,0
 web/html/reference/elements/input/tel,0
 web/html/reference/elements/input/text,0
@@ -12173,10 +12173,9 @@ web/http/reference/methods/post,0
 web/http/reference/methods/put,0
 web/http/reference/methods/trace,0
 web/http/reference/resources_and_specifications,0
-web/http/reference/status,0
+web/http/reference/status,1
 web/http/reference/status/100,0
 web/http/reference/status/101,0
-web/http/reference/status/102,0
 web/http/reference/status/103,0
 web/http/reference/status/200,0
 web/http/reference/status/201,0
@@ -13691,7 +13690,7 @@ web/privacy/guides/third-party_cookies,0
 web/privacy/guides/third-party_cookies/partitioned_cookies,0
 web/privacy/privacy_primer,0
 web/privacy/regulations,0
-web/privacy/regulations/ccpa,0
+web/privacy/regulations/ccpa,1
 web/privacy/regulations/gdpr,0
 web/privacy/threat_modeling,0
 web/progressive_web_apps,0
@@ -13699,7 +13698,7 @@ web/progressive_web_apps/guides,0
 web/progressive_web_apps/guides/best_practices,0
 web/progressive_web_apps/guides/caching,0
 web/progressive_web_apps/guides/installing,0
-web/progressive_web_apps/guides/making_pwas_installable,0
+web/progressive_web_apps/guides/making_pwas_installable,1
 web/progressive_web_apps/guides/offline_and_background_operation,0
 web/progressive_web_apps/guides/what_is_a_progressive_web_app,0
 web/progressive_web_apps/how_to,0
@@ -14368,7 +14367,7 @@ webassembly/reference/definitions,0
 webassembly/reference/definitions/data,0
 webassembly/reference/definitions/elem,0
 webassembly/reference/definitions/global,0
-webassembly/reference/definitions/import,0
+webassembly/reference/definitions/import,1
 webassembly/reference/definitions/memory,0
 webassembly/reference/definitions/table,0
 webassembly/reference/definitions/tag,0
