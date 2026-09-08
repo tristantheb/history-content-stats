@@ -4443,7 +4443,7 @@ web/api/geolocationposition/tojson,null
 web/api/geolocationpositionerror,null
 web/api/geolocationpositionerror/code,null
 web/api/geolocationpositionerror/message,null
-web/api/geometry_interfaces,1
+web/api/geometry_interfaces,2
 web/api/gestureevent,null
 web/api/gpu,null
 web/api/gpu/getpreferredcanvasformat,null
