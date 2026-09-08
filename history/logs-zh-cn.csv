@@ -1612,6 +1612,8 @@ web/accessibility/aria/reference/attributes/aria-label,f81599343ec5bd4571b3adaa1
 web/accessibility/aria/reference/attributes/aria-labelledby,019ca5c9ce641bfa02825e1ba0444f35dfb646cc
 web/accessibility/aria/reference/attributes,no_hash_commit
 web/accessibility/aria/reference,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
+web/accessibility/aria/reference/roles/alertdialog_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
+web/accessibility/aria/reference/roles/application_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/button_role,019ca5c9ce641bfa02825e1ba0444f35dfb646cc
 web/accessibility/aria/reference/roles/command_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/composite_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
@@ -2560,8 +2562,11 @@ web/api/element/ariaactivedescendantelement,a4fcf79b60471db6f148fa4ba36f2cdeafbb
 web/api/element/ariaatomic,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariaautocomplete,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariabraillelabel,913db38a206684e0e39db4b0443c62798be94e76
+web/api/element/ariabrailleroledescription,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariabusy,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariacolcount,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
+web/api/element/ariacolindex,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
+web/api/element/ariacolindextext,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariadescribedbyelements,6bed868c7b75c4c3ca3721fa8ed6c6ad2f41262b
 web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1
 web/api/element/arialabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
@@ -4370,6 +4375,7 @@ web/api/svgfefuncbelement,226ac33eb70ed5411dd2d68bd602c80cafd780b6
 web/api/svggeometryelement/gettotallength,no_hash_commit
 web/api/svggraphicselement/getbbox,no_hash_commit
 web/api/svggraphicselement,no_hash_commit
+web/api/svgpoint,ca6052779ddca9f6d99665f12c39aa2d85d85733
 web/api/svgsvgelement,no_hash_commit
 web/api/svgviewelement,226ac33eb70ed5411dd2d68bd602c80cafd780b6
 web/api/syncevent,aa38aff31533096459caed61424a6f20f9807a15
@@ -7512,6 +7518,7 @@ web/uri/reference/path,be9ba40fbef7f96beae73e5dd6d48a3ca875826f
 web/uri/reference/query,be9ba40fbef7f96beae73e5dd6d48a3ca875826f
 web/uri/reference/schemes/data,no_hash_commit
 web/webdriver,no_hash_commit
+web/webdriver/reference/errors/unknownerror,de5b264fa7bf6bb49811bf79f8f28f10835bfb79
 web/xml/exslt/reference/regexp,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
 web/xml/guides/opensearch,5309f49a300166809b098f1b7604d563f3332af2
 web/xml/guides/parsing_and_serializing_xml,no_hash_commit
