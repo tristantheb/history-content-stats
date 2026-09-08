@@ -915,7 +915,7 @@ learn_web_development/extensions/server-side/apache_configuration_htaccess,0
 learn_web_development/extensions/server-side/configuring_server_mime_types,0
 learn_web_development/extensions/server-side/django,0
 learn_web_development/extensions/server-side/django/admin_site,0
-learn_web_development/extensions/server-side/django/authentication,1
+learn_web_development/extensions/server-side/django/authentication,0
 learn_web_development/extensions/server-side/django/deployment,0
 learn_web_development/extensions/server-side/django/development_environment,0
 learn_web_development/extensions/server-side/django/django_assessment_blog,0
@@ -2742,7 +2742,7 @@ web/api/canvas_api/tutorial/drawing_text,0
 web/api/canvas_api/tutorial/finale,0
 web/api/canvas_api/tutorial/optimizing_canvas,0
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,0
-web/api/canvas_api/tutorial/transformations,1
+web/api/canvas_api/tutorial/transformations,0
 web/api/canvas_api/tutorial/using_images,0
 web/api/canvascapturemediastreamtrack,0
 web/api/canvascapturemediastreamtrack/canvas,0
@@ -3069,7 +3069,7 @@ web/api/css_painting_api/guide,0
 web/api/css_properties_and_values_api,0
 web/api/css_properties_and_values_api/guide,0
 web/api/css_typed_om_api,0
-web/api/css_typed_om_api/guide,1
+web/api/css_typed_om_api/guide,0
 web/api/cssanimation,0
 web/api/cssanimation/animationname,0
 web/api/cssconditionrule,0
@@ -3888,7 +3888,7 @@ web/api/element/closest,0
 web/api/element/compositionend_event,0
 web/api/element/compositionstart_event,0
 web/api/element/compositionupdate_event,0
-web/api/element/computedstylemap,1
+web/api/element/computedstylemap,0
 web/api/element/contentvisibilityautostatechange_event,0
 web/api/element/contextmenu_event,0
 web/api/element/copy_event,0
@@ -4712,7 +4712,7 @@ web/api/highlightregistry/get,0
 web/api/highlightregistry/has,0
 web/api/highlightregistry/highlightsfrompoint,0
 web/api/highlightregistry/keys,0
-web/api/highlightregistry/set,1
+web/api/highlightregistry/set,0
 web/api/highlightregistry/size,0
 web/api/highlightregistry/values,0
 web/api/history,0
@@ -6289,7 +6289,7 @@ web/api/navigationhistoryentry/samedocument,0
 web/api/navigationhistoryentry/url,0
 web/api/navigationprecommitcontroller,0
 web/api/navigationprecommitcontroller/addhandler,0
-web/api/navigationprecommitcontroller/redirect,1
+web/api/navigationprecommitcontroller/redirect,0
 web/api/navigationpreloadmanager,0
 web/api/navigationpreloadmanager/disable,0
 web/api/navigationpreloadmanager/enable,0
@@ -8094,7 +8094,7 @@ web/api/stylepropertymap/append,0
 web/api/stylepropertymap/clear,0
 web/api/stylepropertymap/delete,0
 web/api/stylepropertymap/set,0
-web/api/stylepropertymapreadonly,1
+web/api/stylepropertymapreadonly,0
 web/api/stylepropertymapreadonly/entries,0
 web/api/stylepropertymapreadonly/foreach,0
 web/api/stylepropertymapreadonly/get,0
@@ -10476,7 +10476,7 @@ web/css/guides/masking/multiple_masks,0
 web/css/guides/media_queries,0
 web/css/guides/media_queries/printing,0
 web/css/guides/media_queries/testing,0
-web/css/guides/media_queries/using,0
+web/css/guides/media_queries/using,1
 web/css/guides/media_queries/using_for_accessibility,0
 web/css/guides/motion_path,0
 web/css/guides/multicol_layout,0
@@ -11576,7 +11576,7 @@ web/css/reference/values/text-edge,0
 web/css/reference/values/time,0
 web/css/reference/values/time-percentage,0
 web/css/reference/values/timeline-range-name,0
-web/css/reference/values/transform-function,1
+web/css/reference/values/transform-function,0
 web/css/reference/values/transform-function/matrix,0
 web/css/reference/values/transform-function/matrix3d,0
 web/css/reference/values/transform-function/perspective,0
@@ -11967,7 +11967,7 @@ web/http/reference/headers/content-security-policy/media-src,0
 web/http/reference/headers/content-security-policy/object-src,0
 web/http/reference/headers/content-security-policy/prefetch-src,0
 web/http/reference/headers/content-security-policy/report-to,0
-web/http/reference/headers/content-security-policy/report-uri,0
+web/http/reference/headers/content-security-policy/report-uri,1
 web/http/reference/headers/content-security-policy/require-trusted-types-for,0
 web/http/reference/headers/content-security-policy/sandbox,0
 web/http/reference/headers/content-security-policy/script-src,0
@@ -12812,7 +12812,7 @@ web/javascript/reference/global_objects/map/groupby,0
 web/javascript/reference/global_objects/map/has,0
 web/javascript/reference/global_objects/map/keys,0
 web/javascript/reference/global_objects/map/map,0
-web/javascript/reference/global_objects/map/set,1
+web/javascript/reference/global_objects/map/set,0
 web/javascript/reference/global_objects/map/size,0
 web/javascript/reference/global_objects/map/symbol.iterator,0
 web/javascript/reference/global_objects/map/symbol.species,0
@@ -13803,7 +13803,7 @@ web/svg,0
 web/svg/guides,0
 web/svg/guides/applying_svg_effects_to_html_content,0
 web/svg/guides/content_type,1
-web/svg/guides/linking,0
+web/svg/guides/linking,1
 web/svg/guides/namespaces_crash_course,0
 web/svg/guides/namespaces_crash_course/example,0
 web/svg/guides/scripting,0

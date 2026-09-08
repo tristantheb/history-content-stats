@@ -11967,7 +11967,7 @@ web/http/reference/headers/content-security-policy/media-src,0
 web/http/reference/headers/content-security-policy/object-src,0
 web/http/reference/headers/content-security-policy/prefetch-src,0
 web/http/reference/headers/content-security-policy/report-to,0
-web/http/reference/headers/content-security-policy/report-uri,0
+web/http/reference/headers/content-security-policy/report-uri,1
 web/http/reference/headers/content-security-policy/require-trusted-types-for,0
 web/http/reference/headers/content-security-policy/sandbox,0
 web/http/reference/headers/content-security-policy/script-src,0
@@ -13803,7 +13803,7 @@ web/svg,0
 web/svg/guides,0
 web/svg/guides/applying_svg_effects_to_html_content,2
 web/svg/guides/content_type,1
-web/svg/guides/linking,1
+web/svg/guides/linking,2
 web/svg/guides/namespaces_crash_course,0
 web/svg/guides/namespaces_crash_course/example,0
 web/svg/guides/scripting,0
