@@ -2226,7 +2226,7 @@ web/accessibility/aria/reference/roles/switch_role,0
 web/accessibility/aria/reference/roles/tab_role,0
 web/accessibility/aria/reference/roles/table_role,0
 web/accessibility/aria/reference/roles/tablist_role,0
-web/accessibility/aria/reference/roles/tabpanel_role,0
+web/accessibility/aria/reference/roles/tabpanel_role,1
 web/accessibility/aria/reference/roles/term_role,0
 web/accessibility/aria/reference/roles/textbox_role,0
 web/accessibility/aria/reference/roles/timer_role,0
@@ -3392,17 +3392,17 @@ web/api/datatransfer/setdata,0
 web/api/datatransfer/setdragimage,0
 web/api/datatransfer/types,0
 web/api/datatransferitem,0
-web/api/datatransferitem/getasfile,0
+web/api/datatransferitem/getasfile,1
 web/api/datatransferitem/getasfilesystemhandle,0
-web/api/datatransferitem/getasstring,0
-web/api/datatransferitem/kind,0
-web/api/datatransferitem/type,0
+web/api/datatransferitem/getasstring,1
+web/api/datatransferitem/kind,1
+web/api/datatransferitem/type,1
 web/api/datatransferitem/webkitgetasentry,0
 web/api/datatransferitemlist,0
-web/api/datatransferitemlist/add,0
+web/api/datatransferitemlist/add,1
 web/api/datatransferitemlist/clear,0
-web/api/datatransferitemlist/length,0
-web/api/datatransferitemlist/remove,0
+web/api/datatransferitemlist/length,1
+web/api/datatransferitemlist/remove,1
 web/api/decompressionstream,0
 web/api/decompressionstream/decompressionstream,0
 web/api/decompressionstream/readable,0
@@ -4443,7 +4443,7 @@ web/api/geolocationposition/tojson,0
 web/api/geolocationpositionerror,0
 web/api/geolocationpositionerror/code,0
 web/api/geolocationpositionerror/message,0
-web/api/geometry_interfaces,0
+web/api/geometry_interfaces,1
 web/api/gestureevent,0
 web/api/gpu,0
 web/api/gpu/getpreferredcanvasformat,0
@@ -4737,7 +4737,7 @@ web/api/html_dom_api,0
 web/api/html_dom_api/microtask_guide,0
 web/api/html_dom_api/microtask_guide/in_depth,0
 web/api/html_drag_and_drop_api,0
-web/api/html_drag_and_drop_api/drag_data_store,0
+web/api/html_drag_and_drop_api/drag_data_store,1
 web/api/html_drag_and_drop_api/drag_operations,0
 web/api/html_drag_and_drop_api/file_drag_and_drop,0
 web/api/html_drag_and_drop_api/kanban_board,0
@@ -7495,7 +7495,7 @@ web/api/rtcpeerconnection/connectionstatechange_event,0
 web/api/rtcpeerconnection/createanswer,0
 web/api/rtcpeerconnection/createdatachannel,0
 web/api/rtcpeerconnection/createdtmfsender,0
-web/api/rtcpeerconnection/createoffer,0
+web/api/rtcpeerconnection/createoffer,1
 web/api/rtcpeerconnection/currentlocaldescription,0
 web/api/rtcpeerconnection/currentremotedescription,0
 web/api/rtcpeerconnection/datachannel_event,0
@@ -9331,7 +9331,7 @@ web/api/web_authentication_api/webauthn_extensions,0
 web/api/web_bluetooth_api,0
 web/api/web_components,0
 web/api/web_components/using_custom_elements,0
-web/api/web_components/using_shadow_dom,0
+web/api/web_components/using_shadow_dom,1
 web/api/web_components/using_templates_and_slots,0
 web/api/web_crypto_api,0
 web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,0
@@ -9732,7 +9732,7 @@ web/api/webvtt_api,0
 web/api/webvtt_api/web_video_text_tracks_format,0
 web/api/webxr_device_api,0
 web/api/webxr_device_api/bounded_reference_spaces,0
-web/api/webxr_device_api/cameras,0
+web/api/webxr_device_api/cameras,1
 web/api/webxr_device_api/fundamentals,0
 web/api/webxr_device_api/geometry,0
 web/api/webxr_device_api/inputs,0
@@ -11833,7 +11833,7 @@ web/html/reference/global_attributes/autofocus,0
 web/html/reference/global_attributes/class,0
 web/html/reference/global_attributes/contenteditable,0
 web/html/reference/global_attributes/data-_star_,0
-web/html/reference/global_attributes/dir,0
+web/html/reference/global_attributes/dir,1
 web/html/reference/global_attributes/draggable,0
 web/html/reference/global_attributes/enterkeyhint,0
 web/html/reference/global_attributes/exportparts,0
@@ -11849,7 +11849,7 @@ web/html/reference/global_attributes/itemprop,0
 web/html/reference/global_attributes/itemref,0
 web/html/reference/global_attributes/itemscope,0
 web/html/reference/global_attributes/itemtype,0
-web/html/reference/global_attributes/lang,0
+web/html/reference/global_attributes/lang,1
 web/html/reference/global_attributes/nonce,0
 web/html/reference/global_attributes/part,0
 web/html/reference/global_attributes/popover,0
@@ -12929,7 +12929,7 @@ web/javascript/reference/global_objects/promise,0
 web/javascript/reference/global_objects/promise/all,0
 web/javascript/reference/global_objects/promise/allkeyed,0
 web/javascript/reference/global_objects/promise/allsettled,0
-web/javascript/reference/global_objects/promise/allsettledkeyed,0
+web/javascript/reference/global_objects/promise/allsettledkeyed,1
 web/javascript/reference/global_objects/promise/any,0
 web/javascript/reference/global_objects/promise/catch,0
 web/javascript/reference/global_objects/promise/finally,0
