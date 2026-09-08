@@ -10476,7 +10476,7 @@ web/css/guides/masking/multiple_masks,0
 web/css/guides/media_queries,0
 web/css/guides/media_queries/printing,0
 web/css/guides/media_queries/testing,0
-web/css/guides/media_queries/using,0
+web/css/guides/media_queries/using,1
 web/css/guides/media_queries/using_for_accessibility,0
 web/css/guides/motion_path,0
 web/css/guides/multicol_layout,1
@@ -11967,7 +11967,7 @@ web/http/reference/headers/content-security-policy/media-src,3
 web/http/reference/headers/content-security-policy/object-src,5
 web/http/reference/headers/content-security-policy/prefetch-src,4
 web/http/reference/headers/content-security-policy/report-to,3
-web/http/reference/headers/content-security-policy/report-uri,8
+web/http/reference/headers/content-security-policy/report-uri,9
 web/http/reference/headers/content-security-policy/require-trusted-types-for,4
 web/http/reference/headers/content-security-policy/sandbox,5
 web/http/reference/headers/content-security-policy/script-src,1
@@ -13803,7 +13803,7 @@ web/svg,0
 web/svg/guides,0
 web/svg/guides/applying_svg_effects_to_html_content,10
 web/svg/guides/content_type,2
-web/svg/guides/linking,1
+web/svg/guides/linking,2
 web/svg/guides/namespaces_crash_course,6
 web/svg/guides/namespaces_crash_course/example,3
 web/svg/guides/scripting,2
