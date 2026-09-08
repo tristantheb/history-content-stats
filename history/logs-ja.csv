@@ -7776,7 +7776,7 @@ web/css/reference/selectors/_doublecolon_-webkit-progress-value,6cf697a8965ecdc4
 web/css/reference/selectors/_doublecolon_-webkit-scrollbar,c52ed787442db9d65b21f5c2874fa6bfd08a253a
 web/css/reference/selectors/_doublecolon_-webkit-search-cancel-button,6cf697a8965ecdc4967258cc0282fe789b60318e
 web/css/reference/selectors/_doublecolon_-webkit-search-results-button,6cf697a8965ecdc4967258cc0282fe789b60318e
-web/css/reference/selectors/_doublecolon_-webkit-slider-runnable-track,no_hash_commit
+web/css/reference/selectors/_doublecolon_-webkit-slider-runnable-track,6cf697a8965ecdc4967258cc0282fe789b60318e
 web/css/reference/selectors/_doublecolon_-webkit-slider-thumb,6cf697a8965ecdc4967258cc0282fe789b60318e
 web/css/reference/selectors/_doublecolon_after,ed2725c99c6011da9d4afa5e47546fe0722ee814
 web/css/reference/selectors/_doublecolon_backdrop,f69b6693212029ce4b9fa0c753729044577af548
@@ -7858,6 +7858,7 @@ web/css/reference/values/calc-sum,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/calc,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/clamp,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/color-interpolation-method,c88e03530319b73272fd4f9a9f6ebe878f026004
+web/css/reference/values/color_value/alpha,c655f38c10ba17b853b0e66b43cf4cf2b176e424
 web/css/reference/values/color_value/color-mix,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/color_value/color,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/color_value/contrast-color,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf
