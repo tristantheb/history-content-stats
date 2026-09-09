@@ -3803,7 +3803,7 @@ web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
 web/api/element,13
-web/api/element/activeviewtransition,null
+web/api/element/activeviewtransition,0
 web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
 web/api/element/animate,null
@@ -3825,7 +3825,7 @@ web/api/element/ariacolindextext,0
 web/api/element/ariacolspan,null
 web/api/element/ariacontrolselements,null
 web/api/element/ariacurrent,null
-web/api/element/ariadescribedbyelements,1
+web/api/element/ariadescribedbyelements,0
 web/api/element/ariadescription,null
 web/api/element/ariadetailselements,null
 web/api/element/ariadisabled,null
