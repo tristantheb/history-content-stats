@@ -2550,6 +2550,7 @@ web/api/ecdsaparams,8e49db2182a5ad4ddfcaecdefd3d2d67db20f213
 web/api/eckeygenparams,049632675ccb83fe2e257c43071d366d3f80ee2b
 web/api/eckeyimportparams,049632675ccb83fe2e257c43071d366d3f80ee2b
 web/api/editcontext/characterboundsrangestart,c9fe79713a9323e8f1492c3c5b802fc8776a5f6a
+web/api/element/activeviewtransition,361dd9caf4ac5db8a73cc33e4d8ee43fa2e35fcc
 web/api/element/after,no_hash_commit
 web/api/element/afterscriptexecute_event,no_hash_commit
 web/api/element/animate,no_hash_commit
@@ -2567,7 +2568,7 @@ web/api/element/ariabusy,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariacolcount,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariacolindex,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariacolindextext,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
-web/api/element/ariadescribedbyelements,6bed868c7b75c4c3ca3721fa8ed6c6ad2f41262b
+web/api/element/ariadescribedbyelements,3b4a7a32fc2fe8cb6bd9a1e62f4ca52e002599ef
 web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1
 web/api/element/arialabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/arialive,no_hash_commit
