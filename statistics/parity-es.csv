@@ -160,7 +160,7 @@ glossary/code_point,null
 glossary/code_splitting,null
 glossary/code_unit,null
 glossary/codec,null
-glossary/color_space,null
+glossary/color_space,0
 glossary/color_wheel,null
 glossary/compile,8
 glossary/compile_time,null
@@ -855,7 +855,7 @@ learn_web_development/extensions/advanced_javascript_objects/adding_bouncing_bal
 learn_web_development/extensions/advanced_javascript_objects/classes_in_javascript,5
 learn_web_development/extensions/advanced_javascript_objects/object-oriented_programming,null
 learn_web_development/extensions/advanced_javascript_objects/object_building_practice,null
-learn_web_development/extensions/advanced_javascript_objects/object_prototypes,null
+learn_web_development/extensions/advanced_javascript_objects/object_prototypes,0
 learn_web_development/extensions/advanced_javascript_objects/test_your_skills,null
 learn_web_development/extensions/advanced_javascript_objects/test_your_skills/object-oriented_javascript,null
 learn_web_development/extensions/async_js,null
@@ -914,7 +914,7 @@ learn_web_development/extensions/server-side,null
 learn_web_development/extensions/server-side/apache_configuration_htaccess,null
 learn_web_development/extensions/server-side/configuring_server_mime_types,null
 learn_web_development/extensions/server-side/django,null
-learn_web_development/extensions/server-side/django/admin_site,null
+learn_web_development/extensions/server-side/django/admin_site,0
 learn_web_development/extensions/server-side/django/authentication,null
 learn_web_development/extensions/server-side/django/deployment,null
 learn_web_development/extensions/server-side/django/development_environment,null
@@ -924,7 +924,7 @@ learn_web_development/extensions/server-side/django/generic_views,null
 learn_web_development/extensions/server-side/django/home_page,null
 learn_web_development/extensions/server-side/django/introduction,null
 learn_web_development/extensions/server-side/django/models,null
-learn_web_development/extensions/server-side/django/sessions,null
+learn_web_development/extensions/server-side/django/sessions,0
 learn_web_development/extensions/server-side/django/skeleton_website,1
 learn_web_development/extensions/server-side/django/testing,null
 learn_web_development/extensions/server-side/django/tutorial_local_library_website,null
@@ -11610,7 +11610,7 @@ web/html/guides,null
 web/html/guides/cheatsheet,null
 web/html/guides/comments,null
 web/html/guides/constraint_validation,null
-web/html/guides/content_categories,null
+web/html/guides/content_categories,0
 web/html/guides/date_and_time_formats,null
 web/html/guides/microdata,null
 web/html/guides/microformats,null
@@ -11645,7 +11645,7 @@ web/html/reference/attributes/multiple,null
 web/html/reference/attributes/pattern,null
 web/html/reference/attributes/placeholder,null
 web/html/reference/attributes/readonly,null
-web/html/reference/attributes/rel,null
+web/html/reference/attributes/rel,0
 web/html/reference/attributes/rel/alternate_stylesheet,null
 web/html/reference/attributes/rel/compression-dictionary,null
 web/html/reference/attributes/rel/dns-prefetch,null
@@ -11656,7 +11656,7 @@ web/html/reference/attributes/rel/noopener,null
 web/html/reference/attributes/rel/noreferrer,null
 web/html/reference/attributes/rel/preconnect,null
 web/html/reference/attributes/rel/prefetch,null
-web/html/reference/attributes/rel/preload,null
+web/html/reference/attributes/rel/preload,0
 web/html/reference/attributes/rel/prerender,null
 web/html/reference/attributes/required,null
 web/html/reference/attributes/size,null
@@ -11721,7 +11721,7 @@ web/html/reference/elements/img,null
 web/html/reference/elements/input,1
 web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,0
-web/html/reference/elements/input/color,null
+web/html/reference/elements/input/color,0
 web/html/reference/elements/input/date,null
 web/html/reference/elements/input/datetime-local,0
 web/html/reference/elements/input/email,null
@@ -11746,7 +11746,7 @@ web/html/reference/elements/kbd,null
 web/html/reference/elements/label,null
 web/html/reference/elements/legend,null
 web/html/reference/elements/li,null
-web/html/reference/elements/link,null
+web/html/reference/elements/link,0
 web/html/reference/elements/main,null
 web/html/reference/elements/map,null
 web/html/reference/elements/mark,null
