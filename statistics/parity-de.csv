@@ -739,7 +739,7 @@ learn_web_development/core/frameworks_libraries/introduction,0
 learn_web_development/core/frameworks_libraries/main_features,0
 learn_web_development/core/frameworks_libraries/react_accessibility,0
 learn_web_development/core/frameworks_libraries/react_components,0
-learn_web_development/core/frameworks_libraries/react_getting_started,1
+learn_web_development/core/frameworks_libraries/react_getting_started,0
 learn_web_development/core/frameworks_libraries/react_interactivity_events_state,0
 learn_web_development/core/frameworks_libraries/react_interactivity_filtering_conditional_rendering,0
 learn_web_development/core/frameworks_libraries/react_resources,0
@@ -874,7 +874,7 @@ learn_web_development/extensions/client-side_tools,0
 learn_web_development/extensions/client-side_tools/deployment,0
 learn_web_development/extensions/client-side_tools/introducing_complete_toolchain,0
 learn_web_development/extensions/client-side_tools/overview,0
-learn_web_development/extensions/client-side_tools/package_management,1
+learn_web_development/extensions/client-side_tools/package_management,0
 learn_web_development/extensions/forms,0
 learn_web_development/extensions/forms/advanced_form_styling,0
 learn_web_development/extensions/forms/basic_native_form_controls,0
@@ -1104,7 +1104,7 @@ mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,0
 mdn/writing_guidelines/page_structures/polyfills,0
 mdn/writing_guidelines/page_structures/sidebars,0
 mdn/writing_guidelines/page_structures/specification_tables,0
-mdn/writing_guidelines/page_structures/syntax_sections,1
+mdn/writing_guidelines/page_structures/syntax_sections,0
 mdn/writing_guidelines/what_we_write,0
 mdn/writing_guidelines/writing_style_guide,0
 mozilla,0
@@ -10421,7 +10421,7 @@ web/css/guides/display/in_flow_and_out_of_flow,0
 web/css/guides/display/multi-keyword_syntax,0
 web/css/guides/display/visual_formatting_model,0
 web/css/guides/easing_functions,0
-web/css/guides/environment_variables,1
+web/css/guides/environment_variables,0
 web/css/guides/environment_variables/using,0
 web/css/guides/filter_effects,0
 web/css/guides/filter_effects/using,0
@@ -11442,7 +11442,7 @@ web/css/reference/values/basic-shape/shape,0
 web/css/reference/values/basic-shape/xywh,0
 web/css/reference/values/blend-mode,0
 web/css/reference/values/box-edge,0
-web/css/reference/values/calc,1
+web/css/reference/values/calc,0
 web/css/reference/values/calc-keyword,0
 web/css/reference/values/calc-size,0
 web/css/reference/values/calc-sum,0
@@ -11661,7 +11661,7 @@ web/html/reference/attributes/rel/prerender,0
 web/html/reference/attributes/required,0
 web/html/reference/attributes/size,0
 web/html/reference/attributes/step,0
-web/html/reference/elements,1
+web/html/reference/elements,0
 web/html/reference/elements/a,0
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,0
@@ -14343,7 +14343,7 @@ webassembly/guides/exported_functions,0
 webassembly/guides/imported_string_constants,0
 webassembly/guides/javascript_builtins,0
 webassembly/guides/loading_and_running,0
-webassembly/guides/rust_to_wasm,1
+webassembly/guides/rust_to_wasm,0
 webassembly/guides/text_format_to_wasm,0
 webassembly/guides/understanding_the_text_format,0
 webassembly/guides/using_the_javascript_api,0
