@@ -86,6 +86,7 @@ glossary/class,no_hash_commit
 glossary/closure,no_hash_commit
 glossary/cms,no_hash_commit
 glossary/codec,no_hash_commit
+glossary/color_space,423161782178b119c64cd0b41bff8df20dc84a56
 glossary/compile,ed947b2c608428b62a60f07d09dc543f732dc09b
 glossary/compile_time,no_hash_commit
 glossary/computer_programming,no_hash_commit
@@ -353,7 +354,7 @@ learn_web_development/extensions/advanced_javascript_objects/adding_bouncing_bal
 learn_web_development/extensions/advanced_javascript_objects/classes_in_javascript,8b799e40ec01fede4e6cd95c2447ae45b6bc74d5
 learn_web_development/extensions/advanced_javascript_objects,no_hash_commit
 learn_web_development/extensions/advanced_javascript_objects/object_building_practice,no_hash_commit
-learn_web_development/extensions/advanced_javascript_objects/object_prototypes,no_hash_commit
+learn_web_development/extensions/advanced_javascript_objects/object_prototypes,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0
 learn_web_development/extensions/async_js,no_hash_commit
 learn_web_development/extensions/async_js/introducing,05d8b0eb3591009b6b7fee274bb7ed1bc5638f18
 learn_web_development/extensions/client-side_apis/client-side_storage,no_hash_commit
@@ -372,7 +373,7 @@ learn_web_development/extensions/forms/your_first_form,no_hash_commit
 learn_web_development/extensions,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0
 learn_web_development/extensions/performance,no_hash_commit
 learn_web_development/extensions/server-side/configuring_server_mime_types,no_hash_commit
-learn_web_development/extensions/server-side/django/admin_site,no_hash_commit
+learn_web_development/extensions/server-side/django/admin_site,815f1a18f44059500b337719295c6eda14b6228e
 learn_web_development/extensions/server-side/django/authentication,no_hash_commit
 learn_web_development/extensions/server-side/django/deployment,no_hash_commit
 learn_web_development/extensions/server-side/django/development_environment,no_hash_commit
@@ -382,7 +383,7 @@ learn_web_development/extensions/server-side/django/home_page,no_hash_commit
 learn_web_development/extensions/server-side/django,no_hash_commit
 learn_web_development/extensions/server-side/django/introduction,no_hash_commit
 learn_web_development/extensions/server-side/django/models,no_hash_commit
-learn_web_development/extensions/server-side/django/sessions,no_hash_commit
+learn_web_development/extensions/server-side/django/sessions,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0
 learn_web_development/extensions/server-side/django/skeleton_website,be1922d62a0d31e4e3441db0e943aed8df736481
 learn_web_development/extensions/server-side/django/testing,no_hash_commit
 learn_web_development/extensions/server-side/django/tutorial_local_library_website,no_hash_commit
@@ -1693,7 +1694,7 @@ web/css/reference/values/transform-function/translatez,no_hash_commit
 web/css/reference/values/url_value,no_hash_commit
 web/css/reference/values/var,no_hash_commit
 web/css/tutorials,no_hash_commit
-web/html/guides/content_categories,no_hash_commit
+web/html/guides/content_categories,ba3c8980510073ee92674aa71cb2c8c5b71294ab
 web/html/guides/microdata,no_hash_commit
 web/html/guides/microformats,no_hash_commit
 web/html/guides/quirks_mode_and_standards_mode,ba96f2f183353872db6d9242c7d2dffe2dbc0c35
@@ -1708,7 +1709,8 @@ web/html/reference/attributes,no_hash_commit
 web/html/reference/attributes/min,no_hash_commit
 web/html/reference/attributes/minlength,no_hash_commit
 web/html/reference/attributes/multiple,no_hash_commit
-web/html/reference/attributes/rel,no_hash_commit
+web/html/reference/attributes/rel,db443a6062d0e858a62af2f9a3a7558335ffd2dd
+web/html/reference/attributes/rel/preload,fc7c0c6df803d5ce26e7b2a72725a7d021ed0694
 web/html/reference/elements/a,no_hash_commit
 web/html/reference/elements/abbr,no_hash_commit
 web/html/reference/elements/acronym,no_hash_commit
@@ -1766,7 +1768,7 @@ web/html/reference/elements/img,no_hash_commit
 web/html/reference/elements,no_hash_commit
 web/html/reference/elements/input/button,no_hash_commit
 web/html/reference/elements/input/checkbox,3944506d4afeeed774687cf3fd950878c6229bbc
-web/html/reference/elements/input/color,no_hash_commit
+web/html/reference/elements/input/color,3944506d4afeeed774687cf3fd950878c6229bbc
 web/html/reference/elements/input/date,no_hash_commit
 web/html/reference/elements/input/datetime-local,3944506d4afeeed774687cf3fd950878c6229bbc
 web/html/reference/elements/input/email,no_hash_commit
@@ -1783,7 +1785,7 @@ web/html/reference/elements/kbd,no_hash_commit
 web/html/reference/elements/label,no_hash_commit
 web/html/reference/elements/legend,no_hash_commit
 web/html/reference/elements/li,no_hash_commit
-web/html/reference/elements/link,no_hash_commit
+web/html/reference/elements/link,fc7c0c6df803d5ce26e7b2a72725a7d021ed0694
 web/html/reference/elements/main,no_hash_commit
 web/html/reference/elements/map,no_hash_commit
 web/html/reference/elements/mark,no_hash_commit
