@@ -11668,7 +11668,7 @@ web/html/reference/elements/abbr,null
 web/html/reference/elements/acronym,null
 web/html/reference/elements/address,null
 web/html/reference/elements/area,9
-web/html/reference/elements/article,4
+web/html/reference/elements/article,5
 web/html/reference/elements/aside,null
 web/html/reference/elements/audio,null
 web/html/reference/elements/b,null
@@ -11695,7 +11695,7 @@ web/html/reference/elements/details,null
 web/html/reference/elements/dfn,null
 web/html/reference/elements/dialog,null
 web/html/reference/elements/dir,null
-web/html/reference/elements/div,7
+web/html/reference/elements/div,8
 web/html/reference/elements/dl,null
 web/html/reference/elements/dt,null
 web/html/reference/elements/em,null
@@ -11724,7 +11724,7 @@ web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,0
 web/html/reference/elements/input/color,0
 web/html/reference/elements/input/date,null
-web/html/reference/elements/input/datetime-local,0
+web/html/reference/elements/input/datetime-local,1
 web/html/reference/elements/input/email,null
 web/html/reference/elements/input/file,14
 web/html/reference/elements/input/hidden,null
