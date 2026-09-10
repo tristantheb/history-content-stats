@@ -2086,7 +2086,7 @@ related/imsc/styling,null
 related/imsc/subtitle_placement,null
 related/imsc/timing_in_imsc,null
 related/imsc/using_the_imscjs_polyfill,null
-web,5
+web,0
 web/accessibility,13
 web/accessibility/aria,null
 web/accessibility/aria/guides,null
@@ -11623,7 +11623,7 @@ web/html/how_to/author_fast-loading_html_pages,null
 web/html/how_to/cors_enabled_image,null
 web/html/how_to/define_terms_with_html,null
 web/html/how_to/use_data_attributes,null
-web/html/reference,null
+web/html/reference,0
 web/html/reference/attributes,null
 web/html/reference/attributes/accept,null
 web/html/reference/attributes/autocomplete,null
@@ -11661,7 +11661,7 @@ web/html/reference/attributes/rel/prerender,null
 web/html/reference/attributes/required,null
 web/html/reference/attributes/size,null
 web/html/reference/attributes/step,null
-web/html/reference/elements,null
+web/html/reference/elements,0
 web/html/reference/elements/a,null
 web/html/reference/elements/abbr,null
 web/html/reference/elements/acronym,null
