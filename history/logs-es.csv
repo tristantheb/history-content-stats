@@ -278,7 +278,6 @@ learn_web_development/core/design_for_developers,673746e15e5052c4fe39944f3d93d2e
 learn_web_development/core/frameworks_libraries,no_hash_commit
 learn_web_development/core/frameworks_libraries/react_components,16d3095f33bd0655b01098ce662e3014510fdef6
 learn_web_development/core/frameworks_libraries/react_getting_started,52a81d8138473b6ac4bec77d0be4261cb0b76d41
-learn_web_development/core/frameworks_libraries/svelte_getting_started,1ad0cd5faac577bf7b13990242db455f2be2058d
 learn_web_development/core,427efbee9e0da53517f45420af87a66a2a6b6e19
 learn_web_development/core/scripting/a_first_splash,no_hash_commit
 learn_web_development/core/scripting/arrays,no_hash_commit
@@ -1765,7 +1764,7 @@ web/html/reference/elements/html,no_hash_commit
 web/html/reference/elements/i,no_hash_commit
 web/html/reference/elements/iframe,no_hash_commit
 web/html/reference/elements/img,no_hash_commit
-web/html/reference/elements,no_hash_commit
+web/html/reference/elements,005ee0dd179c8dead097251e8d028355b8cf183f
 web/html/reference/elements/input/button,no_hash_commit
 web/html/reference/elements/input/checkbox,3944506d4afeeed774687cf3fd950878c6229bbc
 web/html/reference/elements/input/color,3944506d4afeeed774687cf3fd950878c6229bbc
@@ -1858,7 +1857,7 @@ web/html/reference/global_attributes/style,no_hash_commit
 web/html/reference/global_attributes/tabindex,no_hash_commit
 web/html/reference/global_attributes/title,no_hash_commit
 web/html/reference/global_attributes/translate,no_hash_commit
-web/html/reference,no_hash_commit
+web/html/reference,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/http/guides/authentication,no_hash_commit
 web/http/guides/caching,no_hash_commit
 web/http/guides/conditional_requests,no_hash_commit
@@ -1954,7 +1953,7 @@ web/http/reference/status/503,no_hash_commit
 web/http/reference/status/504,no_hash_commit
 web/http/reference/status/505,0880a90f3811475d78bc4b2c344eb4146f25f66c
 web/http/reference/status,no_hash_commit
-web,05187b0fecf39b9176d4a101623589309cf44dd0
+web,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a
 web/javascript/guide/closures,41cddfdaeed4a73fb8234c332150df8e54df31e9
 web/javascript/guide/control_flow_and_error_handling,no_hash_commit
 web/javascript/guide/data_structures,no_hash_commit
