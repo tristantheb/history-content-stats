@@ -10937,7 +10937,7 @@ web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,null
 web/css/reference/properties/frame-sizing,null
-web/css/reference/properties/gap,9
+web/css/reference/properties/gap,10
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -11220,8 +11220,8 @@ web/css/reference/properties/transform-style,null
 web/css/reference/properties/transition,null
 web/css/reference/properties/transition-behavior,null
 web/css/reference/properties/transition-delay,null
-web/css/reference/properties/transition-duration,3
-web/css/reference/properties/transition-property,6
+web/css/reference/properties/transition-duration,4
+web/css/reference/properties/transition-property,7
 web/css/reference/properties/transition-timing-function,null
 web/css/reference/properties/translate,2
 web/css/reference/properties/unicode-bidi,null
