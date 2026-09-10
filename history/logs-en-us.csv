@@ -928,7 +928,7 @@ learn_web_development/extensions/server-side/django/sessions,48d220a8cffdfd5f088
 learn_web_development/extensions/server-side/django/skeleton_website,324c613947adaa5e19ad0f409c5f4c535ee8cf6b,Learn|Extensions
 learn_web_development/extensions/server-side/django/testing,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Learn|Extensions
 learn_web_development/extensions/server-side/django/tutorial_local_library_website,e89cf8c2d91de5ac01b7153f833eb8abc30364ad,Learn|Extensions
-learn_web_development/extensions/server-side/django/web_application_security,6030ef1aadf967b80e2c79c3d3463cccc8ea0c95,Learn|Extensions
+learn_web_development/extensions/server-side/django/web_application_security,a23122d0e86fb376234614beb5b350b217068054,Learn|Extensions
 learn_web_development/extensions/server-side/express_nodejs,8443cb34d9944d8eb8e2c5add598bec26ed6d21f,Learn|Extensions
 learn_web_development/extensions/server-side/express_nodejs/deployment,e2c34c75df6238fbeff790100cea1ab7e552e49e,Learn|Extensions
 learn_web_development/extensions/server-side/express_nodejs/development_environment,75165f9f9bde9bce3093a0d9d908a239c519a9ce,Learn|Extensions
@@ -957,13 +957,13 @@ learn_web_development/extensions/server-side/express_nodejs/routes,afcdfa050626b
 learn_web_development/extensions/server-side/express_nodejs/skeleton_website,afcdfa050626bb7eb05ee693df8997020db9ff2e,Learn|Extensions
 learn_web_development/extensions/server-side/express_nodejs/tutorial_local_library_website,3143a6094e7b87cf1a96b61f9551fb4d95049777,Learn|Extensions
 learn_web_development/extensions/server-side/first_steps,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0,Learn|Extensions
-learn_web_development/extensions/server-side/first_steps/client-server_overview,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Learn|Extensions
+learn_web_development/extensions/server-side/first_steps/client-server_overview,a23122d0e86fb376234614beb5b350b217068054,Learn|Extensions
 learn_web_development/extensions/server-side/first_steps/introduction,710372d69095aaeadfba6c892f3e39ed63df4c54,Learn|Extensions
 learn_web_development/extensions/server-side/first_steps/web_frameworks,56f3d7018159127dbe92842413fb45d0aa7e8193,Learn|Extensions
 learn_web_development/extensions/server-side/first_steps/website_security,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0,Learn|Extensions
 learn_web_development/extensions/server-side/node_server_without_framework,c5d8af227105b2a6d2ab50ff74295ead221fce64,Learn|Extensions
 learn_web_development/extensions/testing,6030ef1aadf967b80e2c79c3d3463cccc8ea0c95,Learn|Extensions
-learn_web_development/extensions/testing/automated_testing,6030ef1aadf967b80e2c79c3d3463cccc8ea0c95,Learn|Extensions
+learn_web_development/extensions/testing/automated_testing,a23122d0e86fb376234614beb5b350b217068054,Learn|Extensions
 learn_web_development/extensions/testing/feature_detection,2b4a2ad5d9ba084a9eaa2f9204102655e7b575c4,Learn|Extensions
 learn_web_development/extensions/testing/html_and_css,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Learn|Extensions
 learn_web_development/extensions/testing/introduction,6030ef1aadf967b80e2c79c3d3463cccc8ea0c95,Learn|Extensions
@@ -1015,7 +1015,7 @@ learn_web_development/howto/solve_html_problems,0c81cbce5f95a0be935724bcd936f559
 learn_web_development/howto/solve_javascript_problems,3143a6094e7b87cf1a96b61f9551fb4d95049777,Learn|How To
 learn_web_development/howto/tools_and_setup,fefc87209bdfc4f740ff30d84b95121214323acc,Learn|How To
 learn_web_development/howto/tools_and_setup/available_text_editors,afcdfa050626bb7eb05ee693df8997020db9ff2e,Learn|How To
-learn_web_development/howto/tools_and_setup/checking_that_your_web_site_is_working_properly,f33de00c56ac53878eb2cb7cb5849df1f9ab8db7,Learn|How To
+learn_web_development/howto/tools_and_setup/checking_that_your_web_site_is_working_properly,a23122d0e86fb376234614beb5b350b217068054,Learn|How To
 learn_web_development/howto/tools_and_setup/how_much_does_it_cost,afcdfa050626bb7eb05ee693df8997020db9ff2e,Learn|How To
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,b275a4cda2d6583bc065a680599cc6de5dbaa8f4,Learn|How To
 learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,e5cd1cab36e2fdcf5dfe28e10b0a7cb235354e62,Learn|How To
@@ -1130,7 +1130,7 @@ mozilla/add-ons/webextensions/api/action/onclicked,09109b6f9444d22215ba330ec1e64
 mozilla/add-ons/webextensions/api/action/onusersettingschanged,0bbc83440e89ae434a8d798453511e82de79a356,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/openpopup,8ae151e4d6b1ee73aef9d8e10222241f053b9e38,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/setbadgebackgroundcolor,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/action/setbadgetext,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/action/setbadgetext,7348312b78f8f58f22c9565da69f4c136270ad91,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/setbadgetextcolor,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/seticon,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/action/setpopup,38199423810927262c9cb4dec7ea7de4cb0c5e0f,Mozilla|Firefox Add-ons
@@ -1889,7 +1889,7 @@ mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Fi
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/using_firefox_1.5_caching,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/what_s_new_in_1.5_alpha,d19dec85109590176f946fcceef48c787d578b1e,Mozilla|Firefox|Versions
-mozilla/firefox/releases/10,56f3d7018159127dbe92842413fb45d0aa7e8193,Mozilla|Firefox|Versions
+mozilla/firefox/releases/10,a23122d0e86fb376234614beb5b350b217068054,Mozilla|Firefox|Versions
 mozilla/firefox/releases/10/updating_add-ons,2591a9b59de88401a2ef0fb7d0b8d0281e3f5376,Mozilla|Firefox|Versions
 mozilla/firefox/releases/100,ad9776a6cf53eaf570ac0515402247e82ecefcfe,Mozilla|Firefox|Versions
 mozilla/firefox/releases/101,676631fd27c8096c3ae3ceb2a6b4ffd6f687055f,Mozilla|Firefox|Versions
@@ -1934,7 +1934,7 @@ mozilla/firefox/releases/136,12b40a940857526acdc13fec68e668f67c61c4cc,Mozilla|Fi
 mozilla/firefox/releases/137,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
 mozilla/firefox/releases/138,c52ed787442db9d65b21f5c2874fa6bfd08a253a,Mozilla|Firefox|Versions
 mozilla/firefox/releases/139,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
-mozilla/firefox/releases/14,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
+mozilla/firefox/releases/14,a23122d0e86fb376234614beb5b350b217068054,Mozilla|Firefox|Versions
 mozilla/firefox/releases/140,0b926fc3e79782401461d389fc9f17d522b39ed3,Mozilla|Firefox|Versions
 mozilla/firefox/releases/141,324c613947adaa5e19ad0f409c5f4c535ee8cf6b,Mozilla|Firefox|Versions
 mozilla/firefox/releases/142,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,Mozilla|Firefox|Versions
@@ -3458,7 +3458,7 @@ web/api/deviceposture/change_event,a7265fc3effa7c25b9997135104370c057a65293,Web 
 web/api/deviceposture/type,a3d19af7e3eeb1c40748c80cd6b5143cfa201c54,Web APIs
 web/api/directoryentrysync,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/directoryreadersync,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
-web/api/document,9cf3002bd29376c15d49df6fab2e6a264285abf6,Web APIs
+web/api/document,a23122d0e86fb376234614beb5b350b217068054,Web APIs
 web/api/document/activeelement,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,Web APIs
 web/api/document/activeviewtransition,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
 web/api/document/adoptedstylesheets,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
@@ -3975,7 +3975,7 @@ web/api/element/removeattributenode,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web
 web/api/element/removeattributens,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/element/replacechildren,bd15d43260b7e72b1066c04d9d9f3b79129c619c,Web APIs
 web/api/element/replacewith,8374946642c18a9cc4bf510de767011124e832a2,Web APIs
-web/api/element/requestfullscreen,e81cf36acffe197d01b1ad282c3582ebd7b0b54d,Web APIs
+web/api/element/requestfullscreen,a23122d0e86fb376234614beb5b350b217068054,Web APIs
 web/api/element/requestpointerlock,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/element/role,0b9c68dc63f9c6803cced8d9a76c31012d87b530,Web APIs
 web/api/element/scroll,afcdfa050626bb7eb05ee693df8997020db9ff2e,Web APIs
@@ -6721,7 +6721,7 @@ web/api/performanceentry/duration,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web A
 web/api/performanceentry/entrytype,3f058f207a00078456c19b9de46218af3f084420,Web APIs
 web/api/performanceentry/name,3f058f207a00078456c19b9de46218af3f084420,Web APIs
 web/api/performanceentry/navigationid,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7,Web APIs
-web/api/performanceentry/starttime,56f3d7018159127dbe92842413fb45d0aa7e8193,Web APIs
+web/api/performanceentry/starttime,153369fa094f0b58ce1aee3f3cc1a3d7ab540b91,Web APIs
 web/api/performanceentry/tojson,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web APIs
 web/api/performanceeventtiming,c9b973e5cf1f5d5b282eb4eb49cddcc044ce7e2b,Web APIs
 web/api/performanceeventtiming/cancelable,c58e8c1dd6ecbcb63894c7dd17fb9495b9511b4e,Web APIs
@@ -6781,7 +6781,7 @@ web/api/performancepainttiming,c9b973e5cf1f5d5b282eb4eb49cddcc044ce7e2b,Web APIs
 web/api/performancepainttiming/painttime,c46f0b3d68f5b4ed87a571bbdbce75244c5fe333,Web APIs
 web/api/performancepainttiming/presentationtime,1ddd95504b4507beeda0f08bd772eb167922b86a,Web APIs
 web/api/performancepainttiming/tojson,ff2d2a411c10d5b8b6732a66e69d0b78842b44fe,Web APIs
-web/api/performanceresourcetiming,c9b973e5cf1f5d5b282eb4eb49cddcc044ce7e2b,Web APIs
+web/api/performanceresourcetiming,153369fa094f0b58ce1aee3f3cc1a3d7ab540b91,Web APIs
 web/api/performanceresourcetiming/connectend,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web APIs
 web/api/performanceresourcetiming/connectstart,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web APIs
 web/api/performanceresourcetiming/contenttype,40fa68f80d38ba7142d47f52cdd0960325d63a44,Web APIs
@@ -6790,7 +6790,7 @@ web/api/performanceresourcetiming/deliverytype,581fd2ecfa9a6a5fb6d2b9d0085a08921
 web/api/performanceresourcetiming/domainlookupend,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web APIs
 web/api/performanceresourcetiming/domainlookupstart,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web APIs
 web/api/performanceresourcetiming/encodedbodysize,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web APIs
-web/api/performanceresourcetiming/fetchstart,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web APIs
+web/api/performanceresourcetiming/fetchstart,153369fa094f0b58ce1aee3f3cc1a3d7ab540b91,Web APIs
 web/api/performanceresourcetiming/finalresponseheadersstart,a8249a8328d05a5b2f7fb3ec1d5df0f541bc8510,Web APIs
 web/api/performanceresourcetiming/firstinterimresponsestart,a8249a8328d05a5b2f7fb3ec1d5df0f541bc8510,Web APIs
 web/api/performanceresourcetiming/initiatortype,4a0413ef319179b7d0d833c42a156629544c8248,Web APIs
@@ -7612,7 +7612,7 @@ web/api/rtcrtptransceiver/direction,e83d6f0c25d2b4c1ce34638ef34a0536a7e0c91e,Web
 web/api/rtcrtptransceiver/mid,dbd5b5198331fb1c61df1ac02dcbc440f83a78bb,Web APIs
 web/api/rtcrtptransceiver/receiver,f2f9346c0c0e9f6676f2df9f1850933e274401de,Web APIs
 web/api/rtcrtptransceiver/sender,f2f9346c0c0e9f6676f2df9f1850933e274401de,Web APIs
-web/api/rtcrtptransceiver/setcodecpreferences,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/rtcrtptransceiver/setcodecpreferences,a23122d0e86fb376234614beb5b350b217068054,Web APIs
 web/api/rtcrtptransceiver/stop,4f35a8237ee0842beb9cfef3354e05464ad7ce1a,Web APIs
 web/api/rtcrtptransceiver/stopped,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/rtcsctptransport,848771d9efdc57ad84d643081cf91e89355c751b,Web APIs
@@ -7872,7 +7872,7 @@ web/api/serviceworkerregistration/update,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f
 web/api/serviceworkerregistration/updatefound_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/serviceworkerregistration/updateviacache,e9b95b3735a9e928fbdf3fe0a9f69c420b44cd79,Web APIs
 web/api/serviceworkerregistration/waiting,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
-web/api/shadowroot,9cf3002bd29376c15d49df6fab2e6a264285abf6,Web APIs
+web/api/shadowroot,a23122d0e86fb376234614beb5b350b217068054,Web APIs
 web/api/shadowroot/activeelement,f2f9346c0c0e9f6676f2df9f1850933e274401de,Web APIs
 web/api/shadowroot/adoptedstylesheets,4f35a8237ee0842beb9cfef3354e05464ad7ce1a,Web APIs
 web/api/shadowroot/clonable,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -7880,7 +7880,7 @@ web/api/shadowroot/customelementregistry,9c4d4cb78a55340b46855e47aba76729a59e11c
 web/api/shadowroot/delegatesfocus,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/shadowroot/elementfrompoint,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
 web/api/shadowroot/elementsfrompoint,62a6f2dbd99b39212f4c4c12aa2a6d499e447f46,Web APIs
-web/api/shadowroot/fullscreenelement,f2f9346c0c0e9f6676f2df9f1850933e274401de,Web APIs
+web/api/shadowroot/fullscreenelement,a23122d0e86fb376234614beb5b350b217068054,Web APIs
 web/api/shadowroot/getanimations,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/shadowroot/gethtml,5d6f5187d1c657edec7e735d3cc5ad36907e2030,Web APIs
 web/api/shadowroot/host,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
@@ -9004,7 +9004,7 @@ web/api/urlpattern/port,4535090888f24ac8394e177c27260d16a53631e6,Web APIs
 web/api/urlpattern/protocol,4535090888f24ac8394e177c27260d16a53631e6,Web APIs
 web/api/urlpattern/search,4535090888f24ac8394e177c27260d16a53631e6,Web APIs
 web/api/urlpattern/test,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
-web/api/urlpattern/urlpattern,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
+web/api/urlpattern/urlpattern,a23122d0e86fb376234614beb5b350b217068054,Web APIs
 web/api/urlpattern/username,4535090888f24ac8394e177c27260d16a53631e6,Web APIs
 web/api/urlsearchparams,9e678bc410c390f66218d9485ba95b60058dcbd6,Web APIs
 web/api/urlsearchparams/append,bfe3107430ad0646713b57262e02625a2e155fd4,Web APIs
@@ -9734,7 +9734,7 @@ web/api/webvtt_api/web_video_text_tracks_format,4cb9d89a204a9532370693b982e8a3b2
 web/api/webxr_device_api,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
 web/api/webxr_device_api/bounded_reference_spaces,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/webxr_device_api/cameras,d9b48f268f04264e420388135f53db136e5d9272,Web APIs
-web/api/webxr_device_api/fundamentals,4f0f7386262363103a3e9cf482bb348d8570b331,Web APIs
+web/api/webxr_device_api/fundamentals,a23122d0e86fb376234614beb5b350b217068054,Web APIs
 web/api/webxr_device_api/geometry,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac,Web APIs
 web/api/webxr_device_api/inputs,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/webxr_device_api/lifecycle,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -9800,7 +9800,7 @@ web/api/window/focus,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/focus_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/frameelement,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/frames,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
-web/api/window/fullscreen,cc070123f72376faec06e36622c4fc723a75325f,Web APIs
+web/api/window/fullscreen,a23122d0e86fb376234614beb5b350b217068054,Web APIs
 web/api/window/gamepadconnected_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/gamepaddisconnected_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/getcomputedstyle,0f059575d32845cd649c7c4434485b34740c1db5,Web APIs
@@ -11559,7 +11559,7 @@ web/css/reference/values/resolution,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS
 web/css/reference/values/revert,0aa8517faf9d7d15c745ac94db7014d3a2d2085f,CSS|Values
 web/css/reference/values/revert-layer,0aa8517faf9d7d15c745ac94db7014d3a2d2085f,CSS|Values
 web/css/reference/values/revert-rule,c655f38c10ba17b853b0e66b43cf4cf2b176e424,CSS|Values
-web/css/reference/values/round,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/round,a23122d0e86fb376234614beb5b350b217068054,CSS|Values
 web/css/reference/values/rule-list,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/self-position,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/shape,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|Values
@@ -11668,13 +11668,13 @@ web/html/reference/elements/abbr,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|E
 web/html/reference/elements/acronym,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/address,c9f3d85f24d7839c9fe36a68d8042d088d906147,HTML|Elements
 web/html/reference/elements/area,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/article,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/article,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/aside,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/audio,d1aa0dbd7441564e6ce8f6706c2022a2e1912d8c,HTML|Elements
 web/html/reference/elements/b,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/base,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/bdi,da275ce3eae1d8d250f1079b4643213a7a2bbb90,HTML|Elements
-web/html/reference/elements/bdo,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/bdo,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/big,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/blockquote,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/body,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11690,12 +11690,12 @@ web/html/reference/elements/colgroup,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HT
 web/html/reference/elements/data,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/datalist,c9f3d85f24d7839c9fe36a68d8042d088d906147,HTML|Elements
 web/html/reference/elements/dd,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/del,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/del,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/details,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/dfn,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/dialog,c03648dd993f7afd0c17ce57061dc31d64f5e943,HTML|Elements
 web/html/reference/elements/dir,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
-web/html/reference/elements/div,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/div,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/dl,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/dt,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/em,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11706,7 +11706,7 @@ web/html/reference/elements/figcaption,599ae8b7ad414e91df473d91983f4ffc5cafabb3,
 web/html/reference/elements/figure,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/font,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/footer,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/form,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/form,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/frame,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/frameset,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/geolocation,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11724,23 +11724,23 @@ web/html/reference/elements/input/button,3944506d4afeeed774687cf3fd950878c6229bb
 web/html/reference/elements/input/checkbox,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/color,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/date,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/input/datetime-local,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/input/email,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/datetime-local,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
+web/html/reference/elements/input/email,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/input/file,65692fd4d256d5647749b7c7005dcf53d425a533,HTML|Elements
 web/html/reference/elements/input/hidden,2066cc916dfdcbb782340bf0ce562b230e947cba,HTML|Elements
 web/html/reference/elements/input/image,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,HTML|Elements
 web/html/reference/elements/input/month,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/input/number,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/number,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/input/password,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/radio,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/input/range,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/range,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/input/reset,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/search,8a13259a44523cd17b4fe347088b62c6d7a35265,HTML|Elements
 web/html/reference/elements/input/submit,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/tel,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/text,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/time,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/input/url,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/url,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/input/week,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/ins,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/kbd,f201fb25d8aeda059065686c180e161c995369d2,HTML|Elements
@@ -11748,7 +11748,7 @@ web/html/reference/elements/label,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|
 web/html/reference/elements/legend,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/li,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/link,fc7c0c6df803d5ce26e7b2a72725a7d021ed0694,HTML|Elements
-web/html/reference/elements/main,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/main,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/map,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/mark,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/marquee,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
@@ -11783,7 +11783,7 @@ web/html/reference/elements/progress,11a5944cd0a3bf015b2ee9c7ee4c55025dd878ca,HT
 web/html/reference/elements/q,b0a05c1384211e0eff34e9917c84086eedf9e909,HTML|Elements
 web/html/reference/elements/rb,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/rp,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/rt,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/rt,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/rtc,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/ruby,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/s,2bb6edfe996e099d7cbe0d0e2635a76e00a788cc,HTML|Elements
@@ -13585,7 +13585,7 @@ web/mathml/reference/element/annotation,702cd9e4d2834e13aea345943efc8d0c03d92ec9
 web/mathml/reference/element/annotation-xml,5f2a755c4fa7d126f85b56fbca90b15c5f039eff,MathML|Element
 web/mathml/reference/element/maction,56f3d7018159127dbe92842413fb45d0aa7e8193,MathML|Element
 web/mathml/reference/element/math,65692fd4d256d5647749b7c7005dcf53d425a533,MathML|Element
-web/mathml/reference/element/menclose,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,MathML|Element
+web/mathml/reference/element/menclose,d65519931193d5324b1751ea291824f465f4643f,MathML|Element
 web/mathml/reference/element/merror,c263f06fa14ed56153e345006bb459c9df014b98,MathML|Element
 web/mathml/reference/element/mfenced,ca6052779ddca9f6d99665f12c39aa2d85d85733,MathML|Element
 web/mathml/reference/element/mfrac,c263f06fa14ed56153e345006bb459c9df014b98,MathML|Element
@@ -14098,7 +14098,7 @@ web/svg/tutorials/svg_from_scratch/patterns,fd216f3c4358f24fef043d32b28d6e980a78
 web/svg/tutorials/svg_from_scratch/positions,787e8f0d2e6796a5973ba1ec431e288d66860063,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/svg_and_css,a988fe7e721539634bad936da7259ffbad37d0e5,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/texts,27bb49e1849433e05c964c8a645c448f184380ce,SVG|Tutorials
-web/svg/tutorials/svg_from_scratch/tools_for_svg,fd216f3c4358f24fef043d32b28d6e980a78afc0,SVG|Tutorials
+web/svg/tutorials/svg_from_scratch/tools_for_svg,a23122d0e86fb376234614beb5b350b217068054,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/using_fonts,9cfc2285428932f448a1747e347b1e35a3e0172b,SVG|Tutorials
 web/uri,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,URI
 web/uri/guides,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,URI
@@ -14566,10 +14566,10 @@ webassembly/reference/simd/conversion/replace_lane,139b03cac9d143948f9073edb507e
 webassembly/reference/simd/conversion/shuffle,139b03cac9d143948f9073edb507edec7b45d3d6,WebAssembly
 webassembly/reference/simd/conversion/splat,139b03cac9d143948f9073edb507edec7b45d3d6,WebAssembly
 webassembly/reference/simd/conversion/swizzle,139b03cac9d143948f9073edb507edec7b45d3d6,WebAssembly
-webassembly/reference/simd/conversion/trunc_sat_f32x4_s,139b03cac9d143948f9073edb507edec7b45d3d6,WebAssembly
-webassembly/reference/simd/conversion/trunc_sat_f32x4_u,139b03cac9d143948f9073edb507edec7b45d3d6,WebAssembly
-webassembly/reference/simd/conversion/trunc_sat_f64x2_s_zero,139b03cac9d143948f9073edb507edec7b45d3d6,WebAssembly
-webassembly/reference/simd/conversion/trunc_sat_f64x2_u_zero,139b03cac9d143948f9073edb507edec7b45d3d6,WebAssembly
+webassembly/reference/simd/conversion/trunc_sat_f32x4_s,100cf25d92d3953f3c70ecaa2af637d5e42179d8,WebAssembly
+webassembly/reference/simd/conversion/trunc_sat_f32x4_u,100cf25d92d3953f3c70ecaa2af637d5e42179d8,WebAssembly
+webassembly/reference/simd/conversion/trunc_sat_f64x2_s_zero,100cf25d92d3953f3c70ecaa2af637d5e42179d8,WebAssembly
+webassembly/reference/simd/conversion/trunc_sat_f64x2_u_zero,100cf25d92d3953f3c70ecaa2af637d5e42179d8,WebAssembly
 webassembly/reference/simd/extract,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
 webassembly/reference/simd/extract/extract_lane,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly
 webassembly/reference/simd/extract/extract_lane_s,d8d43055ac49fc512539fe02d873be4ffee29bc0,WebAssembly

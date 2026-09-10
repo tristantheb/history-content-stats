@@ -963,7 +963,7 @@ learn_web_development/extensions/server-side/first_steps/web_frameworks,null
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
 learn_web_development/extensions/testing,5
-learn_web_development/extensions/testing/automated_testing,14
+learn_web_development/extensions/testing/automated_testing,15
 learn_web_development/extensions/testing/feature_detection,13
 learn_web_development/extensions/testing/html_and_css,21
 learn_web_development/extensions/testing/introduction,10
@@ -1130,7 +1130,7 @@ mozilla/add-ons/webextensions/api/action/onclicked,3
 mozilla/add-ons/webextensions/api/action/onusersettingschanged,null
 mozilla/add-ons/webextensions/api/action/openpopup,4
 mozilla/add-ons/webextensions/api/action/setbadgebackgroundcolor,8
-mozilla/add-ons/webextensions/api/action/setbadgetext,3
+mozilla/add-ons/webextensions/api/action/setbadgetext,4
 mozilla/add-ons/webextensions/api/action/setbadgetextcolor,6
 mozilla/add-ons/webextensions/api/action/seticon,5
 mozilla/add-ons/webextensions/api/action/setpopup,5
@@ -3458,7 +3458,7 @@ web/api/deviceposture/change_event,null
 web/api/deviceposture/type,null
 web/api/directoryentrysync,null
 web/api/directoryreadersync,null
-web/api/document,7
+web/api/document,8
 web/api/document/activeelement,6
 web/api/document/activeviewtransition,null
 web/api/document/adoptedstylesheets,5
@@ -3975,7 +3975,7 @@ web/api/element/removeattributenode,1
 web/api/element/removeattributens,1
 web/api/element/replacechildren,null
 web/api/element/replacewith,null
-web/api/element/requestfullscreen,9
+web/api/element/requestfullscreen,10
 web/api/element/requestpointerlock,2
 web/api/element/role,0
 web/api/element/scroll,null
@@ -6781,7 +6781,7 @@ web/api/performancepainttiming,null
 web/api/performancepainttiming/painttime,null
 web/api/performancepainttiming/presentationtime,null
 web/api/performancepainttiming/tojson,null
-web/api/performanceresourcetiming,5
+web/api/performanceresourcetiming,6
 web/api/performanceresourcetiming/connectend,null
 web/api/performanceresourcetiming/connectstart,null
 web/api/performanceresourcetiming/contenttype,null
@@ -7880,7 +7880,7 @@ web/api/shadowroot/customelementregistry,null
 web/api/shadowroot/delegatesfocus,null
 web/api/shadowroot/elementfrompoint,null
 web/api/shadowroot/elementsfrompoint,null
-web/api/shadowroot/fullscreenelement,0
+web/api/shadowroot/fullscreenelement,1
 web/api/shadowroot/getanimations,null
 web/api/shadowroot/gethtml,null
 web/api/shadowroot/host,null
@@ -11668,13 +11668,13 @@ web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,4
 web/html/reference/elements/address,4
 web/html/reference/elements/area,8
-web/html/reference/elements/article,3
+web/html/reference/elements/article,4
 web/html/reference/elements/aside,2
 web/html/reference/elements/audio,null
 web/html/reference/elements/b,3
 web/html/reference/elements/base,null
 web/html/reference/elements/bdi,null
-web/html/reference/elements/bdo,4
+web/html/reference/elements/bdo,5
 web/html/reference/elements/big,5
 web/html/reference/elements/blockquote,null
 web/html/reference/elements/body,6
@@ -11695,7 +11695,7 @@ web/html/reference/elements/details,null
 web/html/reference/elements/dfn,null
 web/html/reference/elements/dialog,null
 web/html/reference/elements/dir,7
-web/html/reference/elements/div,7
+web/html/reference/elements/div,8
 web/html/reference/elements/dl,null
 web/html/reference/elements/dt,4
 web/html/reference/elements/em,null
@@ -11724,7 +11724,7 @@ web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,null
 web/html/reference/elements/input/color,null
 web/html/reference/elements/input/date,null
-web/html/reference/elements/input/datetime-local,3
+web/html/reference/elements/input/datetime-local,4
 web/html/reference/elements/input/email,null
 web/html/reference/elements/input/file,null
 web/html/reference/elements/input/hidden,null
@@ -11740,7 +11740,7 @@ web/html/reference/elements/input/submit,null
 web/html/reference/elements/input/tel,null
 web/html/reference/elements/input/text,null
 web/html/reference/elements/input/time,null
-web/html/reference/elements/input/url,0
+web/html/reference/elements/input/url,1
 web/html/reference/elements/input/week,null
 web/html/reference/elements/ins,null
 web/html/reference/elements/kbd,null
@@ -13585,7 +13585,7 @@ web/mathml/reference/element/annotation,null
 web/mathml/reference/element/annotation-xml,null
 web/mathml/reference/element/maction,4
 web/mathml/reference/element/math,null
-web/mathml/reference/element/menclose,2
+web/mathml/reference/element/menclose,3
 web/mathml/reference/element/merror,1
 web/mathml/reference/element/mfenced,2
 web/mathml/reference/element/mfrac,1
