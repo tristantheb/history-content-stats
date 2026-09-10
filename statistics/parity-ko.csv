@@ -1048,7 +1048,7 @@ mdn/guides,null
 mdn/kitchensink,null
 mdn/tutorials,null
 mdn/writing_guidelines,7
-mdn/writing_guidelines/attrib_copyright_license,4
+mdn/writing_guidelines/attrib_copyright_license,5
 mdn/writing_guidelines/changelog,null
 mdn/writing_guidelines/code_style_guide,null
 mdn/writing_guidelines/code_style_guide/css,null
@@ -9686,6 +9686,7 @@ web/api/webtransport/createbidirectionalstream,null
 web/api/webtransport/createsendgroup,null
 web/api/webtransport/createunidirectionalstream,null
 web/api/webtransport/datagrams,null
+web/api/webtransport/draining,null
 web/api/webtransport/exportkeyingmaterial,null
 web/api/webtransport/getstats,null
 web/api/webtransport/incomingbidirectionalstreams,null
@@ -11137,7 +11138,7 @@ web/css/reference/properties/scroll-margin-left,null
 web/css/reference/properties/scroll-margin-right,null
 web/css/reference/properties/scroll-margin-top,null
 web/css/reference/properties/scroll-marker-group,null
-web/css/reference/properties/scroll-padding,5
+web/css/reference/properties/scroll-padding,6
 web/css/reference/properties/scroll-padding-block,null
 web/css/reference/properties/scroll-padding-block-end,null
 web/css/reference/properties/scroll-padding-block-start,null
@@ -11407,7 +11408,7 @@ web/css/reference/selectors/descendant_combinator,null
 web/css/reference/selectors/id_selectors,null
 web/css/reference/selectors/keyframe_selectors,null
 web/css/reference/selectors/namespace_separator,7
-web/css/reference/selectors/nesting_selector,4
+web/css/reference/selectors/nesting_selector,5
 web/css/reference/selectors/next-sibling_combinator,null
 web/css/reference/selectors/pseudo-classes,null
 web/css/reference/selectors/pseudo-elements,null

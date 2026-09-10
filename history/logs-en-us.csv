@@ -869,7 +869,7 @@ learn_web_development/extensions/client-side_apis/client-side_storage,b5ee197a87
 learn_web_development/extensions/client-side_apis/drawing_graphics,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Learn|Extensions
 learn_web_development/extensions/client-side_apis/introduction,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Learn|Extensions
 learn_web_development/extensions/client-side_apis/third_party_apis,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Learn|Extensions
-learn_web_development/extensions/client-side_apis/video_and_audio_apis,4c58f4735f986a91bee1b77e336143630df727a2,Learn|Extensions
+learn_web_development/extensions/client-side_apis/video_and_audio_apis,91e08923c809ca8deded3e3294f49bbe1a4a00b3,Learn|Extensions
 learn_web_development/extensions/client-side_tools,3143a6094e7b87cf1a96b61f9551fb4d95049777,Learn|Extensions
 learn_web_development/extensions/client-side_tools/deployment,6030ef1aadf967b80e2c79c3d3463cccc8ea0c95,Learn|Extensions
 learn_web_development/extensions/client-side_tools/introducing_complete_toolchain,324c613947adaa5e19ad0f409c5f4c535ee8cf6b,Learn|Extensions
@@ -1045,17 +1045,17 @@ mdn/community/pull_requests,b3cd597b58940518a7712487ce94efc0881cb549,MDN|Communi
 mdn/community/roles_teams,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,MDN|Community
 mdn/community/translated_content,0b2ddf6c871a55eebe31f4d8808b8c975bfa41a8,MDN|Community
 mdn/guides,85fccefc8066bd49af4ddafc12c77f35265c7e2d,MDN
-mdn/kitchensink,f69b6693212029ce4b9fa0c753729044577af548,MDN
+mdn/kitchensink,32ba792708c61221f9ddf725c0a52dba573414bc,MDN
 mdn/tutorials,85fccefc8066bd49af4ddafc12c77f35265c7e2d,MDN
 mdn/writing_guidelines,f99d00a1c3697e26a679925954e26564e7e79b98,MDN|Writing Guidelines
-mdn/writing_guidelines/attrib_copyright_license,24b4a3d9e5488d5c5600cf8eb278484d47bca07e,MDN|Writing Guidelines
+mdn/writing_guidelines/attrib_copyright_license,f4c221962681b1472cd57da60379ad7825fe5081,MDN|Writing Guidelines
 mdn/writing_guidelines/changelog,702cd9e4d2834e13aea345943efc8d0c03d92ec9,MDN|Writing Guidelines
 mdn/writing_guidelines/code_style_guide,7ff752fba26e0bb950998bb5476157ff96c7d314,MDN|Writing Guidelines
 mdn/writing_guidelines/code_style_guide/css,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,MDN|Writing Guidelines
 mdn/writing_guidelines/code_style_guide/html,c7a8b2584452bcd5d2c135b637f4ec659ff74b99,MDN|Writing Guidelines
 mdn/writing_guidelines/code_style_guide/javascript,56f3d7018159127dbe92842413fb45d0aa7e8193,MDN|Writing Guidelines
 mdn/writing_guidelines/code_style_guide/shell,0e7eafea05cd771c86e77947639f3396e7a59b2b,MDN|Writing Guidelines
-mdn/writing_guidelines/criteria_for_inclusion,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,MDN|Writing Guidelines
+mdn/writing_guidelines/criteria_for_inclusion,f4c221962681b1472cd57da60379ad7825fe5081,MDN|Writing Guidelines
 mdn/writing_guidelines/experimental_deprecated_obsolete,2e427c5c185433c5a6612c63bf877753a5fedc99,MDN|Writing Guidelines
 mdn/writing_guidelines/howto,719645a32546d9e514ac530a5eb66aa4c26d4f51,MDN|Writing Guidelines
 mdn/writing_guidelines/howto/creating_moving_deleting,ca0b474bb2e153ce72718cb304306e540065a888,MDN|Writing Guidelines
@@ -1106,7 +1106,7 @@ mdn/writing_guidelines/page_structures/sidebars,0ff7ba5177bf2e66214bd90b58590c6b
 mdn/writing_guidelines/page_structures/specification_tables,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,MDN|Writing Guidelines
 mdn/writing_guidelines/page_structures/syntax_sections,de1ffe9d19ce381ed182255fcc8fe0517029cfa2,MDN|Writing Guidelines
 mdn/writing_guidelines/what_we_write,de5b264fa7bf6bb49811bf79f8f28f10835bfb79,MDN|Writing Guidelines
-mdn/writing_guidelines/writing_style_guide,c53bfa01f3bf436d486f4032c16f592855a2af2c,MDN|Writing Guidelines
+mdn/writing_guidelines/writing_style_guide,f4c221962681b1472cd57da60379ad7825fe5081,MDN|Writing Guidelines
 mozilla,7dcd1a300afce3509445dae18888997c30a0bdaf,Mozilla
 mozilla/add-ons,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/contact_us,0c81cbce5f95a0be935724bcd936f5592774eb3a,Mozilla|Firefox Add-ons
@@ -1527,7 +1527,7 @@ mozilla/add-ons/webextensions/api/runtime/getversion,9a1a8665d37c3b75f9d9a545c4c
 mozilla/add-ons/webextensions/api/runtime/id,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/lasterror,38199423810927262c9cb4dec7ea7de4cb0c5e0f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/messagesender,9791add3508e087982097f25fbd367c21bcb8305,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/runtime/onbrowserupdateavailable,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/runtime/onbrowserupdateavailable,32ba792708c61221f9ddf725c0a52dba573414bc,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/onconnect,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/onconnectexternal,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/oninstalled,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Mozilla|Firefox Add-ons
@@ -3190,11 +3190,11 @@ web/api/cssnamespacerule/prefix,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web API
 web/api/cssnesteddeclarations,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
 web/api/cssnesteddeclarations/style,c053b4b3bb0f34736e9f4402d4254830670af723,Web APIs
 web/api/cssnumericarray,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
-web/api/cssnumericarray/entries,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
+web/api/cssnumericarray/entries,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
 web/api/cssnumericarray/foreach,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
-web/api/cssnumericarray/keys,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
+web/api/cssnumericarray/keys,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
 web/api/cssnumericarray/length,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
-web/api/cssnumericarray/values,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
+web/api/cssnumericarray/values,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
 web/api/cssnumericvalue,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssnumericvalue/add,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/cssnumericvalue/div,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
@@ -3243,12 +3243,12 @@ web/api/csspseudoelement/element,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web AP
 web/api/csspseudoelement/parent,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
 web/api/csspseudoelement/pseudo,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web APIs
 web/api/csspseudoelement/type,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
-web/api/cssrotate,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/cssrotate/angle,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssrotate/cssrotate,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
-web/api/cssrotate/x,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssrotate/y,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssrotate/z,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
+web/api/cssrotate,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/cssrotate/angle,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/cssrotate/cssrotate,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/cssrotate/x,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/cssrotate/y,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/cssrotate/z,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
 web/api/cssrule,c00944e9622f0796758877623ee33283c68494d7,Web APIs
 web/api/cssrule/csstext,636b90011532e3fd2cf9333aaf1754fdc8de7938,Web APIs
 web/api/cssrule/parentrule,63cbf204323f117a2a80c7aa6273e50253ab9d07,Web APIs
@@ -3309,19 +3309,19 @@ web/api/cssstylevalue/parse_static,285179734bb0505a755c76aa556b6cb12d81b643,Web 
 web/api/cssstylevalue/parseall_static,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssstylevalue/tostring,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/csssupportsrule,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/csstransformcomponent,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
-web/api/csstransformcomponent/is2d,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
-web/api/csstransformcomponent/tomatrix,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/csstransformcomponent/tostring,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/csstransformvalue,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/csstransformvalue/csstransformvalue,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/csstransformvalue/entries,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/csstransformvalue/foreach,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/csstransformvalue/is2d,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/csstransformvalue/keys,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/csstransformvalue/length,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
-web/api/csstransformvalue/tomatrix,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/csstransformvalue/values,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
+web/api/csstransformcomponent,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformcomponent/is2d,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformcomponent/tomatrix,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformcomponent/tostring,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformvalue,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformvalue/csstransformvalue,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformvalue/entries,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformvalue/foreach,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformvalue/is2d,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformvalue/keys,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformvalue/length,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformvalue/tomatrix,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/csstransformvalue/values,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
 web/api/csstransition,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/csstransition/transitionproperty,5f2a755c4fa7d126f85b56fbca90b15c5f039eff,Web APIs
 web/api/csstranslate,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
@@ -3335,11 +3335,11 @@ web/api/cssunitvalue/unit,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssunitvalue/value,dd7010ad7ca5647b43f68b66578835b974bf4e70,Web APIs
 web/api/cssunparsedvalue,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
 web/api/cssunparsedvalue/cssunparsedvalue,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
-web/api/cssunparsedvalue/entries,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
+web/api/cssunparsedvalue/entries,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
 web/api/cssunparsedvalue/foreach,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
-web/api/cssunparsedvalue/keys,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
+web/api/cssunparsedvalue/keys,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
 web/api/cssunparsedvalue/length,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
-web/api/cssunparsedvalue/values,e03cdadd99259770aefef875de5a988aeda6aff0,Web APIs
+web/api/cssunparsedvalue/values,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
 web/api/cssvalue,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/cssvalue/csstext,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/cssvalue/cssvaluetype,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -4744,7 +4744,7 @@ web/api/html_drag_and_drop_api/kanban_board,8432c4ca716350c34d197c130e6fe93de5c8
 web/api/html_sanitizer_api,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Web APIs
 web/api/html_sanitizer_api/default_sanitizer_configuration,cb84bb5393fe4ce7bf078210692e132e607766b3,Web APIs
 web/api/html_sanitizer_api/using_the_html_sanitizer_api,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
-web/api/htmlallcollection,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7,Web APIs
+web/api/htmlallcollection,32ba792708c61221f9ddf725c0a52dba573414bc,Web APIs
 web/api/htmlallcollection/item,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7,Web APIs
 web/api/htmlallcollection/length,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7,Web APIs
 web/api/htmlallcollection/nameditem,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7,Web APIs
@@ -5031,7 +5031,7 @@ web/api/htmlimageelement/ismap,754b68246f4e69e404309fee4a1699e047e43994,Web APIs
 web/api/htmlimageelement/loading,8db892b3e7ca294621898441e7db2481e0e6d939,Web APIs
 web/api/htmlimageelement/longdesc,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/htmlimageelement/name,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
-web/api/htmlimageelement/naturalheight,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
+web/api/htmlimageelement/naturalheight,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/htmlimageelement/naturalwidth,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
 web/api/htmlimageelement/referrerpolicy,7b9f3c730d1909846f80c70d84ac265d93d82af2,Web APIs
 web/api/htmlimageelement/sizes,fde38492f4490cb442affcf2a31e66defa9d76f6,Web APIs
@@ -5339,8 +5339,8 @@ web/api/htmlselectelement/value,7f38ec3d1324a031bc25e70b3c103ca78c2cf04d,Web API
 web/api/htmlselectelement/willvalidate,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlslotelement,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/htmlslotelement/assign,4904c4f3e4ea8f8efd27e9cf51b51d5c5a03de26,Web APIs
-web/api/htmlslotelement/assignedelements,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/htmlslotelement/assignednodes,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/htmlslotelement/assignedelements,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
+web/api/htmlslotelement/assignednodes,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/htmlslotelement/name,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web APIs
 web/api/htmlslotelement/slotchange_event,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
 web/api/htmlsourceelement,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -5973,7 +5973,7 @@ web/api/mediarecordererrorevent/mediarecordererrorevent,ca6052779ddca9f6d99665f1
 web/api/mediasession,d22284cbba8b64afd6ad8c965d4ac2c927c59550,Web APIs
 web/api/mediasession/metadata,84f8672adab0fdb783d02676c42a2b7ae16b3606,Web APIs
 web/api/mediasession/playbackstate,84f8672adab0fdb783d02676c42a2b7ae16b3606,Web APIs
-web/api/mediasession/setactionhandler,74c92544977217347d3c461f9386bb2d32cdf99d,Web APIs
+web/api/mediasession/setactionhandler,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/mediasession/setcameraactive,624bbdcb7d9beace299a4fa0d3ddcd8f6732cd90,Web APIs
 web/api/mediasession/setmicrophoneactive,624bbdcb7d9beace299a4fa0d3ddcd8f6732cd90,Web APIs
 web/api/mediasession/setpositionstate,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -7482,7 +7482,7 @@ web/api/rtcoutboundrtpstreamstats/totalencodetime,ae2ce98063b729ec0a21687642c0a4
 web/api/rtcoutboundrtpstreamstats/totalpacketsenddelay,ae2ce98063b729ec0a21687642c0a4d06b8e7f69,Web APIs
 web/api/rtcoutboundrtpstreamstats/transportid,03b4a9d11d37c9d0be0804669467eadf2d72f2a3,Web APIs
 web/api/rtcoutboundrtpstreamstats/type,fbbef300a9a819cdda1171355da5787ad7cdbb6d,Web APIs
-web/api/rtcpeerconnection,56f3d7018159127dbe92842413fb45d0aa7e8193,Web APIs
+web/api/rtcpeerconnection,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/rtcpeerconnection/addicecandidate,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/rtcpeerconnection/addstream,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/rtcpeerconnection/addstream_event,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -7514,7 +7514,7 @@ web/api/rtcpeerconnection/icegatheringstate,8f3daa06271fa91d351d40ee59c2f0737702
 web/api/rtcpeerconnection/icegatheringstatechange_event,f71683f74da0078d9371c4d0c1ff9d3898fc7b59,Web APIs
 web/api/rtcpeerconnection/idploginurl,efb84732016b60b17f81358960f9d5ebf516c5fe,Web APIs
 web/api/rtcpeerconnection/localdescription,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
-web/api/rtcpeerconnection/negotiationneeded_event,f71683f74da0078d9371c4d0c1ff9d3898fc7b59,Web APIs
+web/api/rtcpeerconnection/negotiationneeded_event,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/rtcpeerconnection/peeridentity,4f35a8237ee0842beb9cfef3354e05464ad7ce1a,Web APIs
 web/api/rtcpeerconnection/pendinglocaldescription,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/rtcpeerconnection/pendingremotedescription,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
@@ -7708,7 +7708,7 @@ web/api/screen/width,896a41d7d9832367a1e24af567fb419e9d4182f8,Web APIs
 web/api/screen_capture_api,9b3f226141b5a609e173fd40de31b342abddcf44,Web APIs
 web/api/screen_capture_api/captured_surface_control,1d4acd0cc450af2e293b9856d5763b92a0812e30,Web APIs
 web/api/screen_capture_api/element_region_capture,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/screen_capture_api/using_screen_capture,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
+web/api/screen_capture_api/using_screen_capture,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/screen_orientation_api,6d194a9afcce7beef0082c1dc50644bd0fcda635,Web APIs
 web/api/screen_wake_lock_api,de5b264fa7bf6bb49811bf79f8f28f10835bfb79,Web APIs
 web/api/screendetailed,4f35a8237ee0842beb9cfef3354e05464ad7ce1a,Web APIs
@@ -7943,7 +7943,7 @@ web/api/sourcebuffer/updating,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/sourcebuffer/videotracks,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/sourcebufferlist,1573959d78591b4079500af13019f901faaaca02,Web APIs
 web/api/sourcebufferlist/length,1573959d78591b4079500af13019f901faaaca02,Web APIs
-web/api/speculation_rules_api,7878fd0b319d18b5b93c5084a03734d17a0f9b4f,Web APIs
+web/api/speculation_rules_api,28779fec7536bb91036411d8bdafece11c64b811,Web APIs
 web/api/speechgrammar,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/speechgrammar/speechgrammar,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/speechgrammar/src,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -8119,7 +8119,7 @@ web/api/submitevent/submitevent,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc,Web API
 web/api/submitevent/submitter,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/subtlecrypto,44b15fff6c156ec81c2290e252e20c4519089688,Web APIs
 web/api/subtlecrypto/decrypt,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/subtlecrypto/derivebits,b7310d059a28842d0a43ebabf814e8f2469c3419,Web APIs
+web/api/subtlecrypto/derivebits,1efed35637ca064574e1f7928ddcfa34d54d7b56,Web APIs
 web/api/subtlecrypto/derivekey,63774786a6abccda8e70ad62429aa39571aba878,Web APIs
 web/api/subtlecrypto/digest,326c137fe1044491fc1f647eea18b4c6b5aed855,Web APIs
 web/api/subtlecrypto/encrypt,373b648fd3f8f742aac14180ebe4ab2e07f8dfab,Web APIs
@@ -8219,10 +8219,10 @@ web/api/svganimatetransformelement,226ac33eb70ed5411dd2d68bd602c80cafd780b6,Web 
 web/api/svganimationelement,226ac33eb70ed5411dd2d68bd602c80cafd780b6,Web APIs
 web/api/svganimationelement/beginelement,4028c85f43556109e830604df2d96217f40c66a7,Web APIs
 web/api/svganimationelement/beginelementat,4028c85f43556109e830604df2d96217f40c66a7,Web APIs
-web/api/svganimationelement/beginevent_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
+web/api/svganimationelement/beginevent_event,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/svganimationelement/endelement,4028c85f43556109e830604df2d96217f40c66a7,Web APIs
 web/api/svganimationelement/endelementat,4028c85f43556109e830604df2d96217f40c66a7,Web APIs
-web/api/svganimationelement/endevent_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
+web/api/svganimationelement/endevent_event,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/svganimationelement/getcurrenttime,f95c5bf30c37292e8dba047346a19f937421c3e1,Web APIs
 web/api/svganimationelement/getsimpleduration,f95c5bf30c37292e8dba047346a19f937421c3e1,Web APIs
 web/api/svganimationelement/getstarttime,f95c5bf30c37292e8dba047346a19f937421c3e1,Web APIs
@@ -9678,7 +9678,7 @@ web/api/websocketstream/closed,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/websocketstream/opened,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/websocketstream/url,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/websocketstream/websocketstream,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
-web/api/webtransport,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7,Web APIs
+web/api/webtransport,3100645fa08ae52995bb32423088433cfa6d9cca,Web APIs
 web/api/webtransport/close,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/closed,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/congestioncontrol,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
@@ -9686,6 +9686,7 @@ web/api/webtransport/createbidirectionalstream,a4fcf79b60471db6f148fa4ba36f2cdea
 web/api/webtransport/createsendgroup,c4ced66f871dd67ff683526ecc38e9eb7ebb5c9a,Web APIs
 web/api/webtransport/createunidirectionalstream,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/webtransport/datagrams,50e0237a64ecc8107c0a608b37aae241448a5d80,Web APIs
+web/api/webtransport/draining,3100645fa08ae52995bb32423088433cfa6d9cca,Web APIs
 web/api/webtransport/exportkeyingmaterial,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7,Web APIs
 web/api/webtransport/getstats,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
 web/api/webtransport/incomingbidirectionalstreams,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
@@ -9694,7 +9695,7 @@ web/api/webtransport/protocol,8413520d9fd826c98db89ff8165408139635d454,Web APIs
 web/api/webtransport/ready,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/reliability,e1e7e2ac2cb1e40293c32c24bc0667905e9a7a04,Web APIs
 web/api/webtransport/webtransport,8413520d9fd826c98db89ff8165408139635d454,Web APIs
-web/api/webtransport_api,0323d4059df0e5645b22afbc32c2d343660e01c6,Web APIs
+web/api/webtransport_api,3100645fa08ae52995bb32423088433cfa6d9cca,Web APIs
 web/api/webtransportbidirectionalstream,cc41ecd796870c2b6c77ad0b04fcb8d8c7d877d2,Web APIs
 web/api/webtransportbidirectionalstream/readable,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/webtransportbidirectionalstream/writable,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
@@ -9735,7 +9736,7 @@ web/api/webxr_device_api/bounded_reference_spaces,db443a6062d0e858a62af2f9a3a755
 web/api/webxr_device_api/cameras,d9b48f268f04264e420388135f53db136e5d9272,Web APIs
 web/api/webxr_device_api/fundamentals,4f0f7386262363103a3e9cf482bb348d8570b331,Web APIs
 web/api/webxr_device_api/geometry,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac,Web APIs
-web/api/webxr_device_api/inputs,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
+web/api/webxr_device_api/inputs,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/webxr_device_api/lifecycle,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/webxr_device_api/lighting,80d4cfb4515b339111e175dbeb8d2b91fd3ee1a0,Web APIs
 web/api/webxr_device_api/movement_and_motion,116577234db1d6275c74a8bb879fce54d944f4ed,Web APIs
@@ -10593,20 +10594,20 @@ web/css/reference/at-rules/@counter-style/symbols,f0094356d3acb19475dde45508dfea
 web/css/reference/at-rules/@counter-style/system,07758d01509695fe45ccc3f7687f6597dc3d9e2a,CSS|At-rules
 web/css/reference/at-rules/@custom-media,6b0dc010f6c32a23b54aef95094cee9ec0e1b7b5,CSS|At-rules
 web/css/reference/at-rules/@document,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|At-rules
-web/css/reference/at-rules/@font-face,916eb95f63de092d96ed1b1b13f3e2261739a8e2,CSS|At-rules
+web/css/reference/at-rules/@font-face,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|At-rules
 web/css/reference/at-rules/@font-face/ascent-override,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/descent-override,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
-web/css/reference/at-rules/@font-face/font-display,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
+web/css/reference/at-rules/@font-face/font-display,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|At-rules
 web/css/reference/at-rules/@font-face/font-family,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/font-feature-settings,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/font-stretch,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
-web/css/reference/at-rules/@font-face/font-style,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
+web/css/reference/at-rules/@font-face/font-style,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|At-rules
 web/css/reference/at-rules/@font-face/font-variation-settings,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/font-weight,c66cecb0ec58ddea1bd624aa89dd355d9b90b5c3,CSS|At-rules
 web/css/reference/at-rules/@font-face/font-width,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/line-gap-override,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/size-adjust,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
-web/css/reference/at-rules/@font-face/src,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
+web/css/reference/at-rules/@font-face/src,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|At-rules
 web/css/reference/at-rules/@font-face/unicode-range,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-feature-values,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@font-feature-values/font-display,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
@@ -10910,14 +10911,14 @@ web/css/reference/properties/font-family,0631b5e26979eca4d1505d4762fd3ad77fb329d
 web/css/reference/properties/font-feature-settings,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-kerning,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-language-override,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
-web/css/reference/properties/font-optical-sizing,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/font-optical-sizing,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|Properties
 web/css/reference/properties/font-palette,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/font-palette/palette-mix,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Properties
 web/css/reference/properties/font-size,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-size-adjust,032208d4eb693c082d62e570f80ed5542325bbb6,CSS|Properties
 web/css/reference/properties/font-smooth,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-stretch,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
-web/css/reference/properties/font-style,1551c09756bad6ad2772ce8ed6a934ae4e309642,CSS|Properties
+web/css/reference/properties/font-style,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|Properties
 web/css/reference/properties/font-synthesis,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/font-synthesis-position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/font-synthesis-small-caps,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
@@ -10931,7 +10932,7 @@ web/css/reference/properties/font-variant-emoji,a5531a7b1fa30ab1de952ffff619a983
 web/css/reference/properties/font-variant-ligatures,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-variant-numeric,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/font-variant-position,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/font-variation-settings,c26d4cc8e9b10c504587531c49fa82b7b646be18,CSS|Properties
+web/css/reference/properties/font-variation-settings,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|Properties
 web/css/reference/properties/font-weight,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-width,f8759faac983abbcd8276fd45ae881bb39efdf7a,CSS|Properties
 web/css/reference/properties/forced-color-adjust,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,CSS|Properties
@@ -10979,17 +10980,17 @@ web/css/reference/properties/justify-content,071fd0613b1b5728d2d83845ea11512cb61
 web/css/reference/properties/justify-items,07758d01509695fe45ccc3f7687f6597dc3d9e2a,CSS|Properties
 web/css/reference/properties/justify-self,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/letter-spacing,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/letter-spacing,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|Properties
 web/css/reference/properties/lighting-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/line-break,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/line-clamp,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/line-height,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/line-height-step,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/link-parameters,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
-web/css/reference/properties/list-style,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/list-style,c2375c58cf5a6f0fd7053f3cee7cba8bd88a2bbe,CSS|Properties
 web/css/reference/properties/list-style-image,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/list-style-position,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/list-style-type,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/list-style-type,c2375c58cf5a6f0fd7053f3cee7cba8bd88a2bbe,CSS|Properties
 web/css/reference/properties/margin,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/margin-block,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/margin-block-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11137,7 +11138,7 @@ web/css/reference/properties/scroll-margin-left,bcbb4bd6a80292c0663b723d5466759c
 web/css/reference/properties/scroll-margin-right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-margin-top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-marker-group,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/scroll-padding,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/scroll-padding,ab710051a7a7cd8d74123b659a57483c3e8a5948,CSS|Properties
 web/css/reference/properties/scroll-padding-block,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/scroll-padding-block-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-padding-block-start,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11242,7 +11243,7 @@ web/css/reference/properties/widows,071fd0613b1b5728d2d83845ea11512cb615067a,CSS
 web/css/reference/properties/width,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/will-change,c655f38c10ba17b853b0e66b43cf4cf2b176e424,CSS|Properties
 web/css/reference/properties/word-break,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/word-spacing,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/word-spacing,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|Properties
 web/css/reference/properties/writing-mode,e57e3fdd4ab6fb372ddc3d78e5b428f318202426,CSS|Properties
 web/css/reference/properties/x,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/y,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11407,7 +11408,7 @@ web/css/reference/selectors/descendant_combinator,c52ed787442db9d65b21f5c2874fa6
 web/css/reference/selectors/id_selectors,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
 web/css/reference/selectors/keyframe_selectors,f94b7a0b06a0e32df81ec8197720d306fe50a4a0,CSS|Selectors
 web/css/reference/selectors/namespace_separator,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
-web/css/reference/selectors/nesting_selector,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
+web/css/reference/selectors/nesting_selector,5249290f5d1191482d679f74ee0efdcc108ead9c,CSS|Selectors
 web/css/reference/selectors/next-sibling_combinator,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
 web/css/reference/selectors/pseudo-classes,c62181855c91ac0435dea5fa759a250e1dea4f8b,CSS|Selectors
 web/css/reference/selectors/pseudo-elements,bc294cca926abf68e1cbf8026f0bae1bf6a95325,CSS|Selectors
@@ -11601,7 +11602,7 @@ web/css/reference/values/transform-function/translatez,b760560abe30bd69ca968dac3
 web/css/reference/values/type,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/unset,0aa8517faf9d7d15c745ac94db7014d3a2d2085f,CSS|Values
 web/css/reference/values/url_function,b36b3e9dc1c4a60a4a382e57f1d3793164e2ca3f,CSS|Values
-web/css/reference/values/url_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
+web/css/reference/values/url_value,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|Values
 web/css/reference/values/var,f551881c1f8f168c5a6e7ac5c7dbc15474b9c642,CSS|Values
 web/css/reference/webkit_extensions,0d155984425e8964c889efb63ec39593e11bbc14,CSS
 web/css/tutorials,33094d735e90b4dcae5733331b79c51fee997410,CSS|Tutorials
@@ -11912,7 +11913,7 @@ web/http/guides/redirections,56f3d7018159127dbe92842413fb45d0aa7e8193,HTTP|Guide
 web/http/guides/session,182692930243199b48e10dfc2cc43c51f9373aa2,HTTP|Guides
 web/http/guides/user-agent_reduction,2ab902d9eec2f5a93d1f666234371ca77e93c470,HTTP|Guides
 web/http/reference,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP
-web/http/reference/headers,366bcbeeeb196a0bc34eaa4e6cdbf244c4ee8354,HTTP|Headers
+web/http/reference/headers,f4c221962681b1472cd57da60379ad7825fe5081,HTTP|Headers
 web/http/reference/headers/accept,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/accept-ch,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
 web/http/reference/headers/accept-encoding,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -13642,7 +13643,7 @@ web/media/guides/audio_and_video_delivery/setting_up_adaptive_streaming_media_so
 web/media/guides/audio_and_video_delivery/video_player_styling_basics,6030ef1aadf967b80e2c79c3d3463cccc8ea0c95,Media|Guides
 web/media/guides/audio_and_video_delivery/webaudio_playbackrate_explained,6036cd414b2214f85901158bdf3e3a96123d4553,Media|Guides
 web/media/guides/audio_and_video_manipulation,6030ef1aadf967b80e2c79c3d3463cccc8ea0c95,Media|Guides
-web/media/guides/autoplay,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,Media|Guides
+web/media/guides/autoplay,f4c221962681b1472cd57da60379ad7825fe5081,Media|Guides
 web/media/guides/formats,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
 web/media/guides/formats/audio_codecs,c53bfa01f3bf436d486f4032c16f592855a2af2c,Media|Guides
 web/media/guides/formats/audio_concepts,26e46f8c13ebea65dc65a6e99e51e8fa4d5d619d,Media|Guides
@@ -13748,10 +13749,10 @@ web/progressive_web_apps/tutorials/cycletracker/manifest_file,57d4a3ab62517528c9
 web/progressive_web_apps/tutorials/cycletracker/secure_connection,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,PWAs|Tutorials
 web/progressive_web_apps/tutorials/cycletracker/service_workers,f99d00a1c3697e26a679925954e26564e7e79b98,PWAs|Tutorials
 web/progressive_web_apps/tutorials/js13kgames,81715a83bdb5d71cdceaf32d1e40a3edfc986a12,PWAs|Tutorials
-web/progressive_web_apps/tutorials/js13kgames/app_structure,4c58f4735f986a91bee1b77e336143630df727a2,PWAs|Tutorials
+web/progressive_web_apps/tutorials/js13kgames/app_structure,91e08923c809ca8deded3e3294f49bbe1a4a00b3,PWAs|Tutorials
 web/progressive_web_apps/tutorials/js13kgames/installable_pwas,628b29f53d15f203c4a6b33c1d0303f864f6af63,PWAs|Tutorials
 web/progressive_web_apps/tutorials/js13kgames/loading,628b29f53d15f203c4a6b33c1d0303f864f6af63,PWAs|Tutorials
-web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,3e8eb2b3466248d87e86df227f45deb49054aa42,PWAs|Tutorials
+web/progressive_web_apps/tutorials/js13kgames/offline_service_workers,91e08923c809ca8deded3e3294f49bbe1a4a00b3,PWAs|Tutorials
 web/progressive_web_apps/tutorials/js13kgames/re-engageable_notifications_push,3e8eb2b3466248d87e86df227f45deb49054aa42,PWAs|Tutorials
 web/security,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,Security
 web/security/attacks,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Security|Attacks

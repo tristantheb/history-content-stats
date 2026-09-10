@@ -1048,7 +1048,7 @@ mdn/guides,null
 mdn/kitchensink,null
 mdn/tutorials,null
 mdn/writing_guidelines,2
-mdn/writing_guidelines/attrib_copyright_license,0
+mdn/writing_guidelines/attrib_copyright_license,1
 mdn/writing_guidelines/changelog,null
 mdn/writing_guidelines/code_style_guide,null
 mdn/writing_guidelines/code_style_guide/css,null
@@ -9686,6 +9686,7 @@ web/api/webtransport/createbidirectionalstream,null
 web/api/webtransport/createsendgroup,null
 web/api/webtransport/createunidirectionalstream,null
 web/api/webtransport/datagrams,null
+web/api/webtransport/draining,null
 web/api/webtransport/exportkeyingmaterial,null
 web/api/webtransport/getstats,null
 web/api/webtransport/incomingbidirectionalstreams,null
@@ -10593,7 +10594,7 @@ web/css/reference/at-rules/@counter-style/symbols,null
 web/css/reference/at-rules/@counter-style/system,null
 web/css/reference/at-rules/@custom-media,null
 web/css/reference/at-rules/@document,null
-web/css/reference/at-rules/@font-face,6
+web/css/reference/at-rules/@font-face,7
 web/css/reference/at-rules/@font-face/ascent-override,null
 web/css/reference/at-rules/@font-face/descent-override,null
 web/css/reference/at-rules/@font-face/font-display,null
