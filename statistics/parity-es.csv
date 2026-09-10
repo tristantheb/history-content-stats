@@ -1048,14 +1048,14 @@ mdn/guides,null
 mdn/kitchensink,null
 mdn/tutorials,5
 mdn/writing_guidelines,1
-mdn/writing_guidelines/attrib_copyright_license,0
+mdn/writing_guidelines/attrib_copyright_license,1
 mdn/writing_guidelines/changelog,0
 mdn/writing_guidelines/code_style_guide,0
 mdn/writing_guidelines/code_style_guide/css,1
 mdn/writing_guidelines/code_style_guide/html,0
 mdn/writing_guidelines/code_style_guide/javascript,1
 mdn/writing_guidelines/code_style_guide/shell,0
-mdn/writing_guidelines/criteria_for_inclusion,1
+mdn/writing_guidelines/criteria_for_inclusion,2
 mdn/writing_guidelines/experimental_deprecated_obsolete,0
 mdn/writing_guidelines/howto,0
 mdn/writing_guidelines/howto/creating_moving_deleting,0
@@ -1106,7 +1106,7 @@ mdn/writing_guidelines/page_structures/sidebars,0
 mdn/writing_guidelines/page_structures/specification_tables,0
 mdn/writing_guidelines/page_structures/syntax_sections,2
 mdn/writing_guidelines/what_we_write,0
-mdn/writing_guidelines/writing_style_guide,0
+mdn/writing_guidelines/writing_style_guide,1
 mozilla,null
 mozilla/add-ons,null
 mozilla/add-ons/contact_us,null
@@ -7482,7 +7482,7 @@ web/api/rtcoutboundrtpstreamstats/totalencodetime,null
 web/api/rtcoutboundrtpstreamstats/totalpacketsenddelay,null
 web/api/rtcoutboundrtpstreamstats/transportid,null
 web/api/rtcoutboundrtpstreamstats/type,null
-web/api/rtcpeerconnection,10
+web/api/rtcpeerconnection,11
 web/api/rtcpeerconnection/addicecandidate,null
 web/api/rtcpeerconnection/addstream,null
 web/api/rtcpeerconnection/addstream_event,null
@@ -7708,7 +7708,7 @@ web/api/screen/width,null
 web/api/screen_capture_api,9
 web/api/screen_capture_api/captured_surface_control,null
 web/api/screen_capture_api/element_region_capture,null
-web/api/screen_capture_api/using_screen_capture,13
+web/api/screen_capture_api/using_screen_capture,14
 web/api/screen_orientation_api,null
 web/api/screen_wake_lock_api,null
 web/api/screendetailed,null
@@ -9686,6 +9686,7 @@ web/api/webtransport/createbidirectionalstream,null
 web/api/webtransport/createsendgroup,null
 web/api/webtransport/createunidirectionalstream,null
 web/api/webtransport/datagrams,null
+web/api/webtransport/draining,null
 web/api/webtransport/exportkeyingmaterial,null
 web/api/webtransport/getstats,null
 web/api/webtransport/incomingbidirectionalstreams,null
