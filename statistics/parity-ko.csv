@@ -7137,7 +7137,7 @@ web/api/reportingobserver/disconnect,null
 web/api/reportingobserver/observe,null
 web/api/reportingobserver/reportingobserver,null
 web/api/reportingobserver/takerecords,null
-web/api/request,18
+web/api/request,19
 web/api/request/arraybuffer,null
 web/api/request/blob,null
 web/api/request/body,null
@@ -7182,7 +7182,7 @@ web/api/resizeobserverentry/target,null
 web/api/resizeobserversize,null
 web/api/resizeobserversize/blocksize,null
 web/api/resizeobserversize/inlinesize,null
-web/api/response,2
+web/api/response,3
 web/api/response/arraybuffer,null
 web/api/response/blob,null
 web/api/response/body,null
@@ -11606,7 +11606,7 @@ web/css/reference/values/url_value,null
 web/css/reference/values/var,null
 web/css/reference/webkit_extensions,null
 web/css/tutorials,null
-web/html,15
+web/html,16
 web/html/guides,null
 web/html/guides/cheatsheet,null
 web/html/guides/comments,null
@@ -12424,6 +12424,7 @@ web/javascript/reference/functions/method_definitions,null
 web/javascript/reference/functions/rest_parameters,null
 web/javascript/reference/functions/set,null
 web/javascript/reference/global_objects,null
+web/javascript/reference/global_objects/abstractmodulesource,null
 web/javascript/reference/global_objects/aggregateerror,4
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,6
 web/javascript/reference/global_objects/aggregateerror/errors,3
@@ -13473,6 +13474,7 @@ web/javascript/reference/operators/grouping,null
 web/javascript/reference/operators/import,null
 web/javascript/reference/operators/import.meta,null
 web/javascript/reference/operators/import.meta/resolve,null
+web/javascript/reference/operators/import/source,null
 web/javascript/reference/operators/in,null
 web/javascript/reference/operators/increment,null
 web/javascript/reference/operators/inequality,null
@@ -13558,6 +13560,7 @@ web/javascript/reference/statements/function,null
 web/javascript/reference/statements/function_star_,null
 web/javascript/reference/statements/if...else,null
 web/javascript/reference/statements/import,null
+web/javascript/reference/statements/import/source,null
 web/javascript/reference/statements/import/with,null
 web/javascript/reference/statements/label,null
 web/javascript/reference/statements/let,null
@@ -13780,7 +13783,7 @@ web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,3
 web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,1
-web/security/defenses/secure_contexts,3
+web/security/defenses/secure_contexts,4
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,3
 web/security/defenses/subresource_integrity,4
 web/security/defenses/transport_layer_security,4

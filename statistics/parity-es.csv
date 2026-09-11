@@ -779,7 +779,7 @@ learn_web_development/core/scripting/useful_string_methods,null
 learn_web_development/core/scripting/variables,null
 learn_web_development/core/scripting/what_is_javascript,null
 learn_web_development/core/scripting/what_went_wrong,null
-learn_web_development/core/structuring_content,null
+learn_web_development/core/structuring_content,0
 learn_web_development/core/structuring_content/advanced_text_features,null
 learn_web_development/core/structuring_content/basic_html_syntax,13
 learn_web_development/core/structuring_content/creating_links,null
@@ -790,7 +790,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,nu
 learn_web_development/core/structuring_content/headings_and_paragraphs,null
 learn_web_development/core/structuring_content/html_forms,14
 learn_web_development/core/structuring_content/html_images,null
-learn_web_development/core/structuring_content/html_table_basics,null
+learn_web_development/core/structuring_content/html_table_basics,0
 learn_web_development/core/structuring_content/html_video_and_audio,null
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,null
 learn_web_development/core/structuring_content/lists,5
@@ -11606,7 +11606,7 @@ web/css/reference/values/url_value,null
 web/css/reference/values/var,null
 web/css/reference/webkit_extensions,null
 web/css/tutorials,null
-web/html,0
+web/html,1
 web/html/guides,null
 web/html/guides/cheatsheet,null
 web/html/guides/comments,null
@@ -12424,6 +12424,7 @@ web/javascript/reference/functions/method_definitions,null
 web/javascript/reference/functions/rest_parameters,null
 web/javascript/reference/functions/set,null
 web/javascript/reference/global_objects,null
+web/javascript/reference/global_objects/abstractmodulesource,null
 web/javascript/reference/global_objects/aggregateerror,null
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,null
 web/javascript/reference/global_objects/aggregateerror/errors,null
@@ -13473,6 +13474,7 @@ web/javascript/reference/operators/grouping,null
 web/javascript/reference/operators/import,null
 web/javascript/reference/operators/import.meta,null
 web/javascript/reference/operators/import.meta/resolve,null
+web/javascript/reference/operators/import/source,null
 web/javascript/reference/operators/in,null
 web/javascript/reference/operators/increment,5
 web/javascript/reference/operators/inequality,null
@@ -13558,6 +13560,7 @@ web/javascript/reference/statements/function,null
 web/javascript/reference/statements/function_star_,null
 web/javascript/reference/statements/if...else,4
 web/javascript/reference/statements/import,null
+web/javascript/reference/statements/import/source,null
 web/javascript/reference/statements/import/with,null
 web/javascript/reference/statements/label,null
 web/javascript/reference/statements/let,null

@@ -12424,6 +12424,7 @@ web/javascript/reference/functions/method_definitions,null
 web/javascript/reference/functions/rest_parameters,null
 web/javascript/reference/functions/set,null
 web/javascript/reference/global_objects,null
+web/javascript/reference/global_objects/abstractmodulesource,null
 web/javascript/reference/global_objects/aggregateerror,null
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,null
 web/javascript/reference/global_objects/aggregateerror/errors,null
@@ -13473,6 +13474,7 @@ web/javascript/reference/operators/grouping,null
 web/javascript/reference/operators/import,null
 web/javascript/reference/operators/import.meta,null
 web/javascript/reference/operators/import.meta/resolve,null
+web/javascript/reference/operators/import/source,null
 web/javascript/reference/operators/in,null
 web/javascript/reference/operators/increment,null
 web/javascript/reference/operators/inequality,null
@@ -13558,6 +13560,7 @@ web/javascript/reference/statements/function,null
 web/javascript/reference/statements/function_star_,null
 web/javascript/reference/statements/if...else,null
 web/javascript/reference/statements/import,null
+web/javascript/reference/statements/import/source,null
 web/javascript/reference/statements/import/with,null
 web/javascript/reference/statements/label,null
 web/javascript/reference/statements/let,null

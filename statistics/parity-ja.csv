@@ -2623,7 +2623,7 @@ web/api/biquadfilternode/gain,null
 web/api/biquadfilternode/getfrequencyresponse,null
 web/api/biquadfilternode/q,null
 web/api/biquadfilternode/type,null
-web/api/blob,4
+web/api/blob,5
 web/api/blob/arraybuffer,0
 web/api/blob/blob,2
 web/api/blob/bytes,0
@@ -2712,7 +2712,7 @@ web/api/bytelengthqueuingstrategy,1
 web/api/bytelengthqueuingstrategy/bytelengthqueuingstrategy,3
 web/api/bytelengthqueuingstrategy/highwatermark,2
 web/api/bytelengthqueuingstrategy/size,2
-web/api/cache,8
+web/api/cache,9
 web/api/cache/add,8
 web/api/cache/addall,5
 web/api/cache/delete,8
@@ -7137,7 +7137,7 @@ web/api/reportingobserver/disconnect,null
 web/api/reportingobserver/observe,null
 web/api/reportingobserver/reportingobserver,null
 web/api/reportingobserver/takerecords,null
-web/api/request,13
+web/api/request,14
 web/api/request/arraybuffer,1
 web/api/request/blob,1
 web/api/request/body,0
@@ -7151,7 +7151,7 @@ web/api/request/duplex,1
 web/api/request/formdata,1
 web/api/request/headers,1
 web/api/request/integrity,2
-web/api/request/ishistorynavigation,0
+web/api/request/ishistorynavigation,1
 web/api/request/isreloadnavigation,null
 web/api/request/json,1
 web/api/request/keepalive,1
@@ -7182,7 +7182,7 @@ web/api/resizeobserverentry/target,0
 web/api/resizeobserversize,null
 web/api/resizeobserversize/blocksize,null
 web/api/resizeobserversize/inlinesize,null
-web/api/response,4
+web/api/response,5
 web/api/response/arraybuffer,6
 web/api/response/blob,4
 web/api/response/body,3
@@ -8162,7 +8162,7 @@ web/api/svgaelement/pathname,2
 web/api/svgaelement/ping,0
 web/api/svgaelement/port,2
 web/api/svgaelement/protocol,2
-web/api/svgaelement/referrerpolicy,0
+web/api/svgaelement/referrerpolicy,1
 web/api/svgaelement/rel,0
 web/api/svgaelement/rellist,0
 web/api/svgaelement/search,2
@@ -8508,7 +8508,7 @@ web/api/svglength/unittype,1
 web/api/svglength/value,1
 web/api/svglength/valueasstring,2
 web/api/svglength/valueinspecifiedunits,0
-web/api/svglengthlist,1
+web/api/svglengthlist,2
 web/api/svglengthlist/appenditem,1
 web/api/svglengthlist/clear,1
 web/api/svglengthlist/getitem,1
@@ -8517,7 +8517,7 @@ web/api/svglengthlist/insertitembefore,1
 web/api/svglengthlist/length,0
 web/api/svglengthlist/numberofitems,0
 web/api/svglengthlist/removeitem,1
-web/api/svglengthlist/replaceitem,2
+web/api/svglengthlist/replaceitem,3
 web/api/svglineargradientelement,0
 web/api/svglineargradientelement/x1,0
 web/api/svglineargradientelement/x2,0
@@ -8553,7 +8553,7 @@ web/api/svgmpathelement,null
 web/api/svgmpathelement/href,null
 web/api/svgnumber,1
 web/api/svgnumber/value,0
-web/api/svgnumberlist,0
+web/api/svgnumberlist,1
 web/api/svgnumberlist/appenditem,1
 web/api/svgnumberlist/clear,1
 web/api/svgnumberlist/getitem,1
@@ -8562,7 +8562,7 @@ web/api/svgnumberlist/insertitembefore,1
 web/api/svgnumberlist/length,0
 web/api/svgnumberlist/numberofitems,1
 web/api/svgnumberlist/removeitem,1
-web/api/svgnumberlist/replaceitem,2
+web/api/svgnumberlist/replaceitem,3
 web/api/svgpathelement,1
 web/api/svgpathelement/getpathdata,0
 web/api/svgpathelement/getpathsegmentatlength,0
@@ -8582,7 +8582,7 @@ web/api/svgpatternelement/width,null
 web/api/svgpatternelement/x,null
 web/api/svgpatternelement/y,null
 web/api/svgpoint,2
-web/api/svgpointlist,2
+web/api/svgpointlist,3
 web/api/svgpointlist/appenditem,1
 web/api/svgpointlist/clear,0
 web/api/svgpointlist/getitem,1
@@ -8591,7 +8591,7 @@ web/api/svgpointlist/insertitembefore,1
 web/api/svgpointlist/length,0
 web/api/svgpointlist/numberofitems,0
 web/api/svgpointlist/removeitem,1
-web/api/svgpointlist/replaceitem,1
+web/api/svgpointlist/replaceitem,2
 web/api/svgpolygonelement,0
 web/api/svgpolygonelement/animatedpoints,0
 web/api/svgpolygonelement/points,0
@@ -8629,7 +8629,7 @@ web/api/svgscriptelement/type,null
 web/api/svgsetelement,null
 web/api/svgstopelement,null
 web/api/svgstopelement/offset,null
-web/api/svgstringlist,0
+web/api/svgstringlist,1
 web/api/svgstringlist/appenditem,1
 web/api/svgstringlist/clear,1
 web/api/svgstringlist/getitem,1
@@ -8638,7 +8638,7 @@ web/api/svgstringlist/insertitembefore,1
 web/api/svgstringlist/length,0
 web/api/svgstringlist/numberofitems,1
 web/api/svgstringlist/removeitem,1
-web/api/svgstringlist/replaceitem,2
+web/api/svgstringlist/replaceitem,3
 web/api/svgstyleelement,null
 web/api/svgstyleelement/disabled,null
 web/api/svgstyleelement/media,null
@@ -8710,7 +8710,7 @@ web/api/svgtransform/setskewx,1
 web/api/svgtransform/setskewy,1
 web/api/svgtransform/settranslate,1
 web/api/svgtransform/type,0
-web/api/svgtransformlist,2
+web/api/svgtransformlist,3
 web/api/svgtransformlist/appenditem,1
 web/api/svgtransformlist/clear,1
 web/api/svgtransformlist/consolidate,1
@@ -8721,7 +8721,7 @@ web/api/svgtransformlist/insertitembefore,1
 web/api/svgtransformlist/length,0
 web/api/svgtransformlist/numberofitems,0
 web/api/svgtransformlist/removeitem,2
-web/api/svgtransformlist/replaceitem,2
+web/api/svgtransformlist/replaceitem,3
 web/api/svgtspanelement,0
 web/api/svgunittypes,0
 web/api/svguseelement,null
@@ -9678,7 +9678,7 @@ web/api/websocketstream/closed,1
 web/api/websocketstream/opened,1
 web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,1
-web/api/webtransport,7
+web/api/webtransport,8
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
@@ -10838,7 +10838,7 @@ web/css/reference/properties/color-scheme,2
 web/css/reference/properties/column-count,1
 web/css/reference/properties/column-fill,1
 web/css/reference/properties/column-gap,3
-web/css/reference/properties/column-height,1
+web/css/reference/properties/column-height,2
 web/css/reference/properties/column-rule,2
 web/css/reference/properties/column-rule-break,0
 web/css/reference/properties/column-rule-color,2
@@ -10848,7 +10848,7 @@ web/css/reference/properties/column-rule-visibility-items,0
 web/css/reference/properties/column-rule-width,0
 web/css/reference/properties/column-span,1
 web/css/reference/properties/column-width,1
-web/css/reference/properties/column-wrap,1
+web/css/reference/properties/column-wrap,2
 web/css/reference/properties/columns,2
 web/css/reference/properties/contain,4
 web/css/reference/properties/contain-intrinsic-block-size,1
@@ -11606,7 +11606,7 @@ web/css/reference/values/url_value,4
 web/css/reference/values/var,2
 web/css/reference/webkit_extensions,0
 web/css/tutorials,0
-web/html,0
+web/html,1
 web/html/guides,1
 web/html/guides/cheatsheet,0
 web/html/guides/comments,2
@@ -11718,7 +11718,7 @@ web/html/reference/elements/hr,1
 web/html/reference/elements/html,1
 web/html/reference/elements/i,0
 web/html/reference/elements/iframe,0
-web/html/reference/elements/img,1
+web/html/reference/elements/img,2
 web/html/reference/elements/input,2
 web/html/reference/elements/input/button,1
 web/html/reference/elements/input/checkbox,1
@@ -12265,12 +12265,12 @@ web/javascript/guide/regular_expressions/cheatsheet,2
 web/javascript/guide/regular_expressions/groups_and_backreferences,0
 web/javascript/guide/regular_expressions/quantifiers,1
 web/javascript/guide/representing_dates_times,0
-web/javascript/guide/resource_management,2
+web/javascript/guide/resource_management,3
 web/javascript/guide/typed_arrays,0
 web/javascript/guide/using_classes,0
 web/javascript/guide/using_promises,0
 web/javascript/guide/working_with_objects,1
-web/javascript/reference,2
+web/javascript/reference,3
 web/javascript/reference/classes,1
 web/javascript/reference/classes/constructor,0
 web/javascript/reference/classes/extends,0
@@ -12423,7 +12423,8 @@ web/javascript/reference/functions/get,4
 web/javascript/reference/functions/method_definitions,0
 web/javascript/reference/functions/rest_parameters,0
 web/javascript/reference/functions/set,2
-web/javascript/reference/global_objects,0
+web/javascript/reference/global_objects,1
+web/javascript/reference/global_objects/abstractmodulesource,null
 web/javascript/reference/global_objects/aggregateerror,0
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,1
 web/javascript/reference/global_objects/aggregateerror/errors,0
@@ -13440,7 +13441,7 @@ web/javascript/reference/global_objects/weakset/weakset,0
 web/javascript/reference/iteration_protocols,1
 web/javascript/reference/javascript_technologies_overview,1
 web/javascript/reference/lexical_grammar,1
-web/javascript/reference/operators,2
+web/javascript/reference/operators,3
 web/javascript/reference/operators/addition,2
 web/javascript/reference/operators/addition_assignment,0
 web/javascript/reference/operators/assignment,0
@@ -13470,9 +13471,10 @@ web/javascript/reference/operators/function_star_,0
 web/javascript/reference/operators/greater_than,0
 web/javascript/reference/operators/greater_than_or_equal,0
 web/javascript/reference/operators/grouping,1
-web/javascript/reference/operators/import,2
+web/javascript/reference/operators/import,3
 web/javascript/reference/operators/import.meta,0
 web/javascript/reference/operators/import.meta/resolve,2
+web/javascript/reference/operators/import/source,null
 web/javascript/reference/operators/in,0
 web/javascript/reference/operators/increment,0
 web/javascript/reference/operators/inequality,0
@@ -13536,7 +13538,7 @@ web/javascript/reference/regular_expressions/quantifier,8
 web/javascript/reference/regular_expressions/unicode_character_class_escape,14
 web/javascript/reference/regular_expressions/wildcard,0
 web/javascript/reference/regular_expressions/word_boundary_assertion,0
-web/javascript/reference/statements,2
+web/javascript/reference/statements,3
 web/javascript/reference/statements/async_function,0
 web/javascript/reference/statements/async_function_star_,13
 web/javascript/reference/statements/await_using,0
@@ -13548,7 +13550,7 @@ web/javascript/reference/statements/continue,0
 web/javascript/reference/statements/debugger,0
 web/javascript/reference/statements/do...while,0
 web/javascript/reference/statements/empty,5
-web/javascript/reference/statements/export,1
+web/javascript/reference/statements/export,2
 web/javascript/reference/statements/expression_statement,4
 web/javascript/reference/statements/for,2
 web/javascript/reference/statements/for-await...of,1
@@ -13557,8 +13559,9 @@ web/javascript/reference/statements/for...of,1
 web/javascript/reference/statements/function,0
 web/javascript/reference/statements/function_star_,1
 web/javascript/reference/statements/if...else,1
-web/javascript/reference/statements/import,1
-web/javascript/reference/statements/import/with,13
+web/javascript/reference/statements/import,2
+web/javascript/reference/statements/import/source,null
+web/javascript/reference/statements/import/with,14
 web/javascript/reference/statements/label,11
 web/javascript/reference/statements/let,1
 web/javascript/reference/statements/return,0
@@ -13650,7 +13653,7 @@ web/media/guides/formats/audio_concepts,null
 web/media/guides/formats/codecs_parameter,null
 web/media/guides/formats/configuring_servers_for_ogg_media,null
 web/media/guides/formats/containers,8
-web/media/guides/formats/image_types,1
+web/media/guides/formats/image_types,2
 web/media/guides/formats/support_issues,null
 web/media/guides/formats/video_codecs,13
 web/media/guides/formats/video_concepts,null
@@ -13780,7 +13783,7 @@ web/security/defenses/local_network_access,1
 web/security/defenses/mixed_content,1
 web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,0
-web/security/defenses/secure_contexts,1
+web/security/defenses/secure_contexts,2
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,1
 web/security/defenses/subresource_integrity,2
 web/security/defenses/transport_layer_security,2
