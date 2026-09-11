@@ -11734,14 +11734,14 @@ web/html/reference/elements/html,1
 web/html/reference/elements/i,0
 web/html/reference/elements/iframe,0
 web/html/reference/elements/img,2
-web/html/reference/elements/input,2
+web/html/reference/elements/input,3
 web/html/reference/elements/input/button,1
 web/html/reference/elements/input/checkbox,1
 web/html/reference/elements/input/color,1
 web/html/reference/elements/input/date,1
 web/html/reference/elements/input/datetime-local,2
 web/html/reference/elements/input/email,2
-web/html/reference/elements/input/file,3
+web/html/reference/elements/input/file,4
 web/html/reference/elements/input/hidden,3
 web/html/reference/elements/input/image,4
 web/html/reference/elements/input/month,1
