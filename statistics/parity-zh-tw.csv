@@ -974,7 +974,7 @@ learn_web_development/getting_started/environment_setup,null
 learn_web_development/getting_started/environment_setup/browsing_the_web,null
 learn_web_development/getting_started/environment_setup/code_editors,null
 learn_web_development/getting_started/environment_setup/command_line,null
-learn_web_development/getting_started/environment_setup/dealing_with_files,2
+learn_web_development/getting_started/environment_setup/dealing_with_files,3
 learn_web_development/getting_started/environment_setup/installing_software,7
 learn_web_development/getting_started/soft_skills,null
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,null
@@ -12149,7 +12149,7 @@ web/http/reference/headers/set-cookie,null
 web/http/reference/headers/set-login,null
 web/http/reference/headers/sourcemap,null
 web/http/reference/headers/speculation-rules,null
-web/http/reference/headers/strict-transport-security,8
+web/http/reference/headers/strict-transport-security,9
 web/http/reference/headers/supports-loading-mode,null
 web/http/reference/headers/te,null
 web/http/reference/headers/timing-allow-origin,null

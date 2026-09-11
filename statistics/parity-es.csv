@@ -807,7 +807,7 @@ learn_web_development/core/structuring_content/test_your_skills/forms_and_button
 learn_web_development/core/structuring_content/test_your_skills/html_text_basics,null
 learn_web_development/core/structuring_content/test_your_skills/images,11
 learn_web_development/core/structuring_content/test_your_skills/links,null
-learn_web_development/core/structuring_content/webpage_metadata,0
+learn_web_development/core/structuring_content/webpage_metadata,1
 learn_web_development/core/styling_basics,null
 learn_web_development/core/styling_basics/advanced_styling_effects,null
 learn_web_development/core/styling_basics/attribute_selectors,null
@@ -845,7 +845,7 @@ learn_web_development/core/text_styling,null
 learn_web_development/core/text_styling/fundamentals,1
 learn_web_development/core/text_styling/styling_links,null
 learn_web_development/core/text_styling/styling_lists,null
-learn_web_development/core/text_styling/typesetting_a_homepage,7
+learn_web_development/core/text_styling/typesetting_a_homepage,8
 learn_web_development/core/text_styling/web_fonts,null
 learn_web_development/core/version_control,null
 learn_web_development/educators,null
@@ -880,7 +880,7 @@ learn_web_development/extensions/forms/advanced_form_styling,null
 learn_web_development/extensions/forms/basic_native_form_controls,null
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
-learn_web_development/extensions/forms/form_validation,0
+learn_web_development/extensions/forms/form_validation,1
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,2
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,null
@@ -914,7 +914,7 @@ learn_web_development/extensions/server-side,null
 learn_web_development/extensions/server-side/apache_configuration_htaccess,null
 learn_web_development/extensions/server-side/configuring_server_mime_types,null
 learn_web_development/extensions/server-side/django,null
-learn_web_development/extensions/server-side/django/admin_site,0
+learn_web_development/extensions/server-side/django/admin_site,1
 learn_web_development/extensions/server-side/django/authentication,null
 learn_web_development/extensions/server-side/django/deployment,null
 learn_web_development/extensions/server-side/django/development_environment,null
@@ -1078,7 +1078,7 @@ mdn/writing_guidelines/page_structures/banners_and_notices,1
 mdn/writing_guidelines/page_structures/code_examples,2
 mdn/writing_guidelines/page_structures/compatibility_tables,0
 mdn/writing_guidelines/page_structures/feature_status,2
-mdn/writing_guidelines/page_structures/links,1
+mdn/writing_guidelines/page_structures/links,2
 mdn/writing_guidelines/page_structures/live_samples,0
 mdn/writing_guidelines/page_structures/macros,0
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,2
@@ -1881,7 +1881,7 @@ mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
-mozilla/add-ons/webextensions/your_second_webextension,4
+mozilla/add-ons/webextensions/your_second_webextension,5
 mozilla/firefox,null
 mozilla/firefox/experimental_features,null
 mozilla/firefox/releases,null

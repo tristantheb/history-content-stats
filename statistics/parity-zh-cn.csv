@@ -974,7 +974,7 @@ learn_web_development/getting_started/environment_setup,4
 learn_web_development/getting_started/environment_setup/browsing_the_web,10
 learn_web_development/getting_started/environment_setup/code_editors,4
 learn_web_development/getting_started/environment_setup/command_line,0
-learn_web_development/getting_started/environment_setup/dealing_with_files,11
+learn_web_development/getting_started/environment_setup/dealing_with_files,12
 learn_web_development/getting_started/environment_setup/installing_software,14
 learn_web_development/getting_started/soft_skills,0
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,null
@@ -1881,7 +1881,7 @@ mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,9
 mozilla/add-ons/webextensions/your_first_webextension,1
-mozilla/add-ons/webextensions/your_second_webextension,1
+mozilla/add-ons/webextensions/your_second_webextension,2
 mozilla/firefox,5
 mozilla/firefox/experimental_features,null
 mozilla/firefox/releases,2
@@ -2090,7 +2090,7 @@ web,5
 web/accessibility,null
 web/accessibility/aria,null
 web/accessibility/aria/guides,1
-web/accessibility/aria/guides/live_regions,8
+web/accessibility/aria/guides/live_regions,9
 web/accessibility/aria/guides/multipart_labels,2
 web/accessibility/aria/guides/screen_reader_implementors,2
 web/accessibility/aria/guides/techniques,1
@@ -3608,7 +3608,7 @@ web/api/document/xmlversion,1
 web/api/document_object_model,6
 web/api/document_object_model/anatomy_of_the_dom,null
 web/api/document_object_model/building_and_updating_the_dom_tree,null
-web/api/document_object_model/events,2
+web/api/document_object_model/events,3
 web/api/document_object_model/reflected_attributes,null
 web/api/document_object_model/selection_and_traversal_on_the_dom_tree,null
 web/api/document_picture-in-picture_api,5
@@ -3975,7 +3975,7 @@ web/api/element/removeattributenode,1
 web/api/element/removeattributens,1
 web/api/element/replacechildren,null
 web/api/element/replacewith,null
-web/api/element/requestfullscreen,10
+web/api/element/requestfullscreen,11
 web/api/element/requestpointerlock,2
 web/api/element/role,0
 web/api/element/scroll,null
@@ -5668,7 +5668,7 @@ web/api/imagetracklist/selectedtrack,null
 web/api/indexeddb_api,0
 web/api/indexeddb_api/basic_terminology,null
 web/api/indexeddb_api/checking_when_a_deadline_is_due,null
-web/api/indexeddb_api/using_indexeddb,2
+web/api/indexeddb_api/using_indexeddb,3
 web/api/ink,null
 web/api/ink/requestpresenter,null
 web/api/ink_api,null
@@ -7510,7 +7510,7 @@ web/api/rtcpeerconnection/connectionstatechange_event,null
 web/api/rtcpeerconnection/createanswer,null
 web/api/rtcpeerconnection/createdatachannel,0
 web/api/rtcpeerconnection/createdtmfsender,null
-web/api/rtcpeerconnection/createoffer,2
+web/api/rtcpeerconnection/createoffer,3
 web/api/rtcpeerconnection/currentlocaldescription,null
 web/api/rtcpeerconnection/currentremotedescription,null
 web/api/rtcpeerconnection/datachannel_event,null
@@ -9323,7 +9323,7 @@ web/api/waveshapernode/curve,null
 web/api/waveshapernode/oversample,null
 web/api/waveshapernode/waveshapernode,null
 web/api/web-based_payment_handler_api,null
-web/api/web_animations_api,1
+web/api/web_animations_api,2
 web/api/web_animations_api/keyframe_formats,null
 web/api/web_animations_api/tips,4
 web/api/web_animations_api/using_the_web_animations_api,null
@@ -9904,9 +9904,9 @@ web/api/window/setinterval,8
 web/api/window/setresizable,1
 web/api/window/settimeout,12
 web/api/window/sharedstorage,null
-web/api/window/showdirectorypicker,2
-web/api/window/showopenfilepicker,2
-web/api/window/showsavefilepicker,3
+web/api/window/showdirectorypicker,3
+web/api/window/showopenfilepicker,3
+web/api/window/showsavefilepicker,4
 web/api/window/sizetocontent,null
 web/api/window/speechsynthesis,null
 web/api/window/status,2
