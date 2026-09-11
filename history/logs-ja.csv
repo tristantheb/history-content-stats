@@ -6494,7 +6494,7 @@ web/api/window/error_event,8d03307af2cee96a307c22b5d52b93f155f11524
 web/api/window/event,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac
 web/api/window/external,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/fence,a6c32a2d0add510c95ef74e85bd8e17551d508b6
-web/api/window/fetch,80d3325431bf238f06c986c2dc78944ac5227372
+web/api/window/fetch,f6e66d18205c93fcaeb2ea9ad51541b5b4d7d2b1
 web/api/window/fetchlater,7cac5cc51350b7688903656bb36d79152f82d01f
 web/api/window/find,no_hash_commit
 web/api/window/focus,cc070123f72376faec06e36622c4fc723a75325f
@@ -6535,7 +6535,7 @@ web/api/window/navigation,0496643fbc14a6bad2bf46c94ab27c541f6928ff
 web/api/window/navigator,f2dc3d5367203c860cf1a71ce0e972f018523849
 web/api/window/offline_event,f7dae62645a2c735ed6f6ed63f664bf279fdfc4b
 web/api/window/online_event,f7dae62645a2c735ed6f6ed63f664bf279fdfc4b
-web/api/window/open,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
+web/api/window/open,285941521a9a7c2c1b3c443d5f785e5f663a8fc9
 web/api/window/opener,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/orientation,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/orientationchange_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec
@@ -6550,7 +6550,7 @@ web/api/window/parent,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/performance,54962bbd1d367115cfd01b4e1ba6b552e8b68eb7
 web/api/window/personalbar,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/popstate_event,acfe8c9f1f4145f77653a2bc64a9744b001358dc
-web/api/window/postmessage,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd
+web/api/window/postmessage,6030ef1aadf967b80e2c79c3d3463cccc8ea0c95
 web/api/window/print,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/window/prompt,79fdc26fea835d65c9361541bb8ab1896f307475
 web/api/window/queuemicrotask,5b20f5f4265f988f80f513db0e4b35c7e0cd70dc
@@ -6581,11 +6581,11 @@ web/api/window/scrollto,20c51db7895b1b6f41d4fa90e71830f4b6678eea
 web/api/window/scrollx,e561fa67af347b9770b359ba93e8579d2a540682
 web/api/window/scrolly,896a41d7d9832367a1e24af567fb419e9d4182f8
 web/api/window/self,cc070123f72376faec06e36622c4fc723a75325f
-web/api/window/sessionstorage,cc070123f72376faec06e36622c4fc723a75325f
+web/api/window/sessionstorage,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 web/api/window/setimmediate,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
-web/api/window/setinterval,f2dc3d5367203c860cf1a71ce0e972f018523849
+web/api/window/setinterval,051d02b402b7f76c2078b12283aa18318c34c38b
 web/api/window/setresizable,ffff697fbd3004c3da50323ef4d868b3ad47e4d0
-web/api/window/settimeout,e885349d0466a7863b1ab18a1f4e72884679a62c
+web/api/window/settimeout,051d02b402b7f76c2078b12283aa18318c34c38b
 web/api/window/showdirectorypicker,c6e1b00e194b214c2f82149aeaa15a944d2b005a
 web/api/window/showopenfilepicker,73b724ad82b94d2a4c314924218367cea2740e97
 web/api/window/showsavefilepicker,73b724ad82b94d2a4c314924218367cea2740e97
