@@ -314,16 +314,16 @@ learn_web_development/core/structuring_content/including_vector_graphics_in_html
 learn_web_development/core/structuring_content,25a3f6c781777a135143b0edd4b5e1f85857b802
 learn_web_development/core/structuring_content/lists,a92e10b293358bc796c43d5872a8981fd988a005
 learn_web_development/core/structuring_content/marking_up_a_letter,no_hash_commit
-learn_web_development/core/structuring_content/planet_data_table,no_hash_commit
+learn_web_development/core/structuring_content/planet_data_table,ee677b2c4d4a226fe4aedf05b2b156cae8a2bb95
 learn_web_development/core/structuring_content/splash_page,no_hash_commit
 learn_web_development/core/structuring_content/structuring_a_page_of_content,no_hash_commit
 learn_web_development/core/structuring_content/structuring_documents,no_hash_commit
-learn_web_development/core/structuring_content/table_accessibility,no_hash_commit
+learn_web_development/core/structuring_content/table_accessibility,754b68246f4e69e404309fee4a1699e047e43994
 learn_web_development/core/structuring_content/test_your_skills/advanced_html_text,no_hash_commit
 learn_web_development/core/structuring_content/test_your_skills/html_text_basics,no_hash_commit
 learn_web_development/core/structuring_content/test_your_skills/images,8e2641ebe076ab89299c77a51ece882de4ba5efb
 learn_web_development/core/structuring_content/test_your_skills/links,no_hash_commit
-learn_web_development/core/structuring_content/webpage_metadata,no_hash_commit
+learn_web_development/core/structuring_content/webpage_metadata,0d59135676db5a372b4dd692f0686e6bdfc13b51
 learn_web_development/core/styling_basics/attribute_selectors,no_hash_commit
 learn_web_development/core/styling_basics/backgrounds_and_borders,no_hash_commit
 learn_web_development/core/styling_basics/basic_selectors,no_hash_commit
@@ -440,7 +440,7 @@ learn_web_development/howto/web_mechanics/what_is_a_web_server,479ea4c8bff4b900a
 learn_web_development,f22e2f56c6cc82b43b6a14fa213755512e23cd8f
 mdn/community/getting_started,no_hash_commit
 mdn/community,no_hash_commit
-mdn/community/our_repositories,no_hash_commit
+mdn/community/our_repositories,405633ae19118004716a450d26ad3916b0cc86fa
 mdn/community/translated_content,4c6b993ad0d43bc679688a3488e13a4ec0b2c3ec
 mdn/guides,no_hash_commit
 mdn,no_hash_commit
@@ -1222,7 +1222,7 @@ web/css/guides/box_model,no_hash_commit
 web/css/guides/box_model/introduction,no_hash_commit
 web/css/guides/box_model/margin_collapsing,no_hash_commit
 web/css/guides/cascade/inheritance,no_hash_commit
-web/css/guides/cascade/property_value_processing,no_hash_commit
+web/css/guides/cascade/property_value_processing,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a
 web/css/guides/cascade/shorthand_properties,no_hash_commit
 web/css/guides/cascade/specificity,no_hash_commit
 web/css/guides/cascading_variables/using_custom_properties,no_hash_commit
@@ -1437,7 +1437,7 @@ web/css/reference/properties/float,no_hash_commit
 web/css/reference/properties/font-family,no_hash_commit
 web/css/reference/properties/font-language-override,c77cfcd17e85db6c1b93160c70668f2ff6c2809c
 web/css/reference/properties/font-size-adjust,no_hash_commit
-web/css/reference/properties/font-size,no_hash_commit
+web/css/reference/properties/font-size,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9
 web/css/reference/properties/font-style,no_hash_commit
 web/css/reference/properties/font-variant-alternates,no_hash_commit
 web/css/reference/properties/font-variant,no_hash_commit
@@ -1675,7 +1675,7 @@ web/css/reference/values/image,no_hash_commit
 web/css/reference/values/inherit,no_hash_commit
 web/css/reference/values/initial,no_hash_commit
 web/css/reference/values/integer,no_hash_commit
-web/css/reference/values/length,no_hash_commit
+web/css/reference/values/length,b25b4a98b757fbd05ce1fb74b1b78f3fcf917729
 web/css/reference/values/min,no_hash_commit
 web/css/reference/values/minmax,no_hash_commit
 web/css/reference/values/number,no_hash_commit
