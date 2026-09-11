@@ -807,7 +807,7 @@ learn_web_development/core/structuring_content/test_your_skills/forms_and_button
 learn_web_development/core/structuring_content/test_your_skills/html_text_basics,0
 learn_web_development/core/structuring_content/test_your_skills/images,1
 learn_web_development/core/structuring_content/test_your_skills/links,0
-learn_web_development/core/structuring_content/webpage_metadata,0
+learn_web_development/core/structuring_content/webpage_metadata,1
 learn_web_development/core/styling_basics,0
 learn_web_development/core/styling_basics/advanced_styling_effects,1
 learn_web_development/core/styling_basics/attribute_selectors,0
@@ -845,7 +845,7 @@ learn_web_development/core/text_styling,3
 learn_web_development/core/text_styling/fundamentals,2
 learn_web_development/core/text_styling/styling_links,5
 learn_web_development/core/text_styling/styling_lists,7
-learn_web_development/core/text_styling/typesetting_a_homepage,8
+learn_web_development/core/text_styling/typesetting_a_homepage,9
 learn_web_development/core/text_styling/web_fonts,12
 learn_web_development/core/version_control,8
 learn_web_development/educators,3
@@ -880,7 +880,7 @@ learn_web_development/extensions/forms/advanced_form_styling,3
 learn_web_development/extensions/forms/basic_native_form_controls,5
 learn_web_development/extensions/forms/customizable_select,2
 learn_web_development/extensions/forms/customizable_select_listboxes,0
-learn_web_development/extensions/forms/form_validation,1
+learn_web_development/extensions/forms/form_validation,2
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,2
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,0
@@ -890,7 +890,7 @@ learn_web_development/extensions/forms/how_to_build_custom_form_controls/example
 learn_web_development/extensions/forms/how_to_structure_a_web_form,1
 learn_web_development/extensions/forms/how_to_structure_a_web_form/example,4
 learn_web_development/extensions/forms/html5_input_types,2
-learn_web_development/extensions/forms/html_forms_in_legacy_browsers,0
+learn_web_development/extensions/forms/html_forms_in_legacy_browsers,1
 learn_web_development/extensions/forms/other_form_controls,2
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,1
 learn_web_development/extensions/forms/sending_forms_through_javascript,0
@@ -923,7 +923,7 @@ learn_web_development/extensions/server-side/django/forms,null
 learn_web_development/extensions/server-side/django/generic_views,null
 learn_web_development/extensions/server-side/django/home_page,null
 learn_web_development/extensions/server-side/django/introduction,0
-learn_web_development/extensions/server-side/django/models,0
+learn_web_development/extensions/server-side/django/models,1
 learn_web_development/extensions/server-side/django/sessions,null
 learn_web_development/extensions/server-side/django/skeleton_website,1
 learn_web_development/extensions/server-side/django/testing,null
@@ -952,7 +952,7 @@ learn_web_development/extensions/server-side/express_nodejs/forms/create_genre_f
 learn_web_development/extensions/server-side/express_nodejs/forms/delete_author_form,null
 learn_web_development/extensions/server-side/express_nodejs/forms/update_book_form,null
 learn_web_development/extensions/server-side/express_nodejs/introduction,3
-learn_web_development/extensions/server-side/express_nodejs/mongoose,5
+learn_web_development/extensions/server-side/express_nodejs/mongoose,6
 learn_web_development/extensions/server-side/express_nodejs/routes,null
 learn_web_development/extensions/server-side/express_nodejs/skeleton_website,1
 learn_web_development/extensions/server-side/express_nodejs/tutorial_local_library_website,1
@@ -974,7 +974,7 @@ learn_web_development/getting_started/environment_setup,0
 learn_web_development/getting_started/environment_setup/browsing_the_web,0
 learn_web_development/getting_started/environment_setup/code_editors,0
 learn_web_development/getting_started/environment_setup/command_line,11
-learn_web_development/getting_started/environment_setup/dealing_with_files,10
+learn_web_development/getting_started/environment_setup/dealing_with_files,11
 learn_web_development/getting_started/environment_setup/installing_software,0
 learn_web_development/getting_started/soft_skills,4
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,9
@@ -1078,7 +1078,7 @@ mdn/writing_guidelines/page_structures/banners_and_notices,7
 mdn/writing_guidelines/page_structures/code_examples,3
 mdn/writing_guidelines/page_structures/compatibility_tables,1
 mdn/writing_guidelines/page_structures/feature_status,10
-mdn/writing_guidelines/page_structures/links,8
+mdn/writing_guidelines/page_structures/links,9
 mdn/writing_guidelines/page_structures/live_samples,2
 mdn/writing_guidelines/page_structures/macros,3
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,12
@@ -1881,7 +1881,7 @@ mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
-mozilla/add-ons/webextensions/your_second_webextension,8
+mozilla/add-ons/webextensions/your_second_webextension,9
 mozilla/firefox,0
 mozilla/firefox/experimental_features,9
 mozilla/firefox/releases,0
@@ -2090,7 +2090,7 @@ web,0
 web/accessibility,1
 web/accessibility/aria,3
 web/accessibility/aria/guides,0
-web/accessibility/aria/guides/live_regions,1
+web/accessibility/aria/guides/live_regions,2
 web/accessibility/aria/guides/multipart_labels,null
 web/accessibility/aria/guides/screen_reader_implementors,null
 web/accessibility/aria/guides/techniques,0
@@ -2246,7 +2246,7 @@ web/accessibility/guides/colors_and_luminance,0
 web/accessibility/guides/information_for_web_authors,1
 web/accessibility/guides/keyboard-navigable_javascript_widgets,0
 web/accessibility/guides/mobile_accessibility_checklist,0
-web/accessibility/guides/seizure_disorders,0
+web/accessibility/guides/seizure_disorders,1
 web/accessibility/guides/understanding_wcag,0
 web/accessibility/guides/understanding_wcag/keyboard,0
 web/accessibility/guides/understanding_wcag/operable,2
@@ -2733,7 +2733,7 @@ web/api/canvas_api,7
 web/api/canvas_api/manipulating_video_using_canvas,6
 web/api/canvas_api/tutorial,0
 web/api/canvas_api/tutorial/advanced_animations,1
-web/api/canvas_api/tutorial/applying_styles_and_colors,0
+web/api/canvas_api/tutorial/applying_styles_and_colors,1
 web/api/canvas_api/tutorial/basic_animations,0
 web/api/canvas_api/tutorial/basic_usage,0
 web/api/canvas_api/tutorial/compositing,1
@@ -3607,8 +3607,8 @@ web/api/document/xmlencoding,3
 web/api/document/xmlversion,2
 web/api/document_object_model,2
 web/api/document_object_model/anatomy_of_the_dom,1
-web/api/document_object_model/building_and_updating_the_dom_tree,0
-web/api/document_object_model/events,2
+web/api/document_object_model/building_and_updating_the_dom_tree,1
+web/api/document_object_model/events,3
 web/api/document_object_model/reflected_attributes,0
 web/api/document_object_model/selection_and_traversal_on_the_dom_tree,0
 web/api/document_picture-in-picture_api,2
@@ -3975,7 +3975,7 @@ web/api/element/removeattributenode,2
 web/api/element/removeattributens,2
 web/api/element/replacechildren,2
 web/api/element/replacewith,3
-web/api/element/requestfullscreen,12
+web/api/element/requestfullscreen,13
 web/api/element/requestpointerlock,6
 web/api/element/role,0
 web/api/element/scroll,4
@@ -4425,7 +4425,7 @@ web/api/geolocation,0
 web/api/geolocation/clearwatch,0
 web/api/geolocation/getcurrentposition,1
 web/api/geolocation/watchposition,0
-web/api/geolocation_api,1
+web/api/geolocation_api,2
 web/api/geolocation_api/using_the_geolocation_api,0
 web/api/geolocationcoordinates,0
 web/api/geolocationcoordinates/accuracy,0
@@ -5668,7 +5668,7 @@ web/api/imagetracklist/selectedtrack,null
 web/api/indexeddb_api,13
 web/api/indexeddb_api/basic_terminology,3
 web/api/indexeddb_api/checking_when_a_deadline_is_due,2
-web/api/indexeddb_api/using_indexeddb,4
+web/api/indexeddb_api/using_indexeddb,5
 web/api/ink,0
 web/api/ink/requestpresenter,0
 web/api/ink_api,2
@@ -5877,7 +5877,7 @@ web/api/media_capture_and_streams_api,7
 web/api/media_capture_and_streams_api/constraints,10
 web/api/media_capture_and_streams_api/taking_still_photos,1
 web/api/media_session_api,5
-web/api/media_source_extensions_api,4
+web/api/media_source_extensions_api,6
 web/api/media_source_extensions_api/dash_adaptive_streaming,null
 web/api/media_source_extensions_api/transcoding_assets_for_mse,4
 web/api/mediacapabilities,1
@@ -7725,7 +7725,7 @@ web/api/screen_capture_api/captured_surface_control,null
 web/api/screen_capture_api/element_region_capture,null
 web/api/screen_capture_api/using_screen_capture,6
 web/api/screen_orientation_api,0
-web/api/screen_wake_lock_api,1
+web/api/screen_wake_lock_api,2
 web/api/screendetailed,null
 web/api/screendetailed/availleft,null
 web/api/screendetailed/availtop,null
@@ -8163,7 +8163,7 @@ web/api/summarizer/type,null
 web/api/summarizer_api,null
 web/api/summarizer_api/using,null
 web/api/svg_api,1
-web/api/svgaelement,1
+web/api/svgaelement,2
 web/api/svgaelement/download,1
 web/api/svgaelement/hash,3
 web/api/svgaelement/host,3
@@ -9323,7 +9323,7 @@ web/api/waveshapernode/curve,null
 web/api/waveshapernode/oversample,null
 web/api/waveshapernode/waveshapernode,null
 web/api/web-based_payment_handler_api,null
-web/api/web_animations_api,0
+web/api/web_animations_api,1
 web/api/web_animations_api/keyframe_formats,0
 web/api/web_animations_api/tips,0
 web/api/web_animations_api/using_the_web_animations_api,0
@@ -9904,9 +9904,9 @@ web/api/window/setinterval,0
 web/api/window/setresizable,1
 web/api/window/settimeout,0
 web/api/window/sharedstorage,null
-web/api/window/showdirectorypicker,10
-web/api/window/showopenfilepicker,12
-web/api/window/showsavefilepicker,13
+web/api/window/showdirectorypicker,11
+web/api/window/showopenfilepicker,13
+web/api/window/showsavefilepicker,14
 web/api/window/sizetocontent,null
 web/api/window/speechsynthesis,0
 web/api/window/status,2
@@ -10723,7 +10723,7 @@ web/css/reference/properties/alignment-baseline,2
 web/css/reference/properties/all,4
 web/css/reference/properties/anchor-name,3
 web/css/reference/properties/anchor-scope,1
-web/css/reference/properties/animation,4
+web/css/reference/properties/animation,5
 web/css/reference/properties/animation-composition,4
 web/css/reference/properties/animation-delay,2
 web/css/reference/properties/animation-direction,2
@@ -11237,7 +11237,7 @@ web/css/reference/properties/transition-behavior,1
 web/css/reference/properties/transition-delay,1
 web/css/reference/properties/transition-duration,2
 web/css/reference/properties/transition-property,2
-web/css/reference/properties/transition-timing-function,1
+web/css/reference/properties/transition-timing-function,2
 web/css/reference/properties/translate,1
 web/css/reference/properties/unicode-bidi,0
 web/css/reference/properties/user-modify,3
@@ -11281,7 +11281,7 @@ web/css/reference/selectors/_colon_-moz-suppressed,null
 web/css/reference/selectors/_colon_-moz-user-disabled,1
 web/css/reference/selectors/_colon_-moz-window-inactive,null
 web/css/reference/selectors/_colon_active,1
-web/css/reference/selectors/_colon_active-view-transition,1
+web/css/reference/selectors/_colon_active-view-transition,2
 web/css/reference/selectors/_colon_active-view-transition-type,1
 web/css/reference/selectors/_colon_any-link,0
 web/css/reference/selectors/_colon_autofill,1
@@ -11591,7 +11591,7 @@ web/css/reference/values/tan,0
 web/css/reference/values/text-edge,1
 web/css/reference/values/time,1
 web/css/reference/values/time-percentage,1
-web/css/reference/values/timeline-range-name,6
+web/css/reference/values/timeline-range-name,7
 web/css/reference/values/transform-function,1
 web/css/reference/values/transform-function/matrix,0
 web/css/reference/values/transform-function/matrix3d,0
@@ -11809,7 +11809,7 @@ web/html/reference/elements/script/type/importmap,0
 web/html/reference/elements/script/type/speculationrules,1
 web/html/reference/elements/search,0
 web/html/reference/elements/section,1
-web/html/reference/elements/select,1
+web/html/reference/elements/select,2
 web/html/reference/elements/selectedcontent,0
 web/html/reference/elements/slot,1
 web/html/reference/elements/small,1
@@ -11886,7 +11886,7 @@ web/http/guides/client_hints,4
 web/http/guides/compression,1
 web/http/guides/compression_dictionary_transport,4
 web/http/guides/conditional_requests,1
-web/http/guides/connection_management_in_http_1.x,1
+web/http/guides/connection_management_in_http_1.x,2
 web/http/guides/content_negotiation,1
 web/http/guides/content_negotiation/list_of_default_accept_values,1
 web/http/guides/cookies,4
@@ -12149,7 +12149,7 @@ web/http/reference/headers/set-cookie,5
 web/http/reference/headers/set-login,null
 web/http/reference/headers/sourcemap,null
 web/http/reference/headers/speculation-rules,null
-web/http/reference/headers/strict-transport-security,4
+web/http/reference/headers/strict-transport-security,5
 web/http/reference/headers/supports-loading-mode,null
 web/http/reference/headers/te,0
 web/http/reference/headers/timing-allow-origin,0
@@ -12189,7 +12189,7 @@ web/http/reference/methods/patch,1
 web/http/reference/methods/post,0
 web/http/reference/methods/put,1
 web/http/reference/methods/trace,1
-web/http/reference/resources_and_specifications,2
+web/http/reference/resources_and_specifications,3
 web/http/reference/status,1
 web/http/reference/status/100,0
 web/http/reference/status/101,0
@@ -12427,7 +12427,7 @@ web/javascript/reference/errors/unexpected_type,0
 web/javascript/reference/errors/unnamed_function_statement,1
 web/javascript/reference/errors/unparenthesized_unary_expr_lhs_exponentiation,null
 web/javascript/reference/execution_model,0
-web/javascript/reference/functions,0
+web/javascript/reference/functions,1
 web/javascript/reference/functions/arguments,0
 web/javascript/reference/functions/arguments/callee,1
 web/javascript/reference/functions/arguments/length,0
@@ -13763,7 +13763,7 @@ web/progressive_web_apps/reference,1
 web/progressive_web_apps/tutorials,4
 web/progressive_web_apps/tutorials/cycletracker,2
 web/progressive_web_apps/tutorials/cycletracker/html_and_css,10
-web/progressive_web_apps/tutorials/cycletracker/javascript_functionality,4
+web/progressive_web_apps/tutorials/cycletracker/javascript_functionality,5
 web/progressive_web_apps/tutorials/cycletracker/manifest_file,null
 web/progressive_web_apps/tutorials/cycletracker/secure_connection,null
 web/progressive_web_apps/tutorials/cycletracker/service_workers,null
@@ -14038,7 +14038,7 @@ web/svg/reference/attribute/z,null
 web/svg/reference/attribute/zoomandpan,null
 web/svg/reference/element,0
 web/svg/reference/element/a,1
-web/svg/reference/element/animate,1
+web/svg/reference/element/animate,2
 web/svg/reference/element/animatemotion,0
 web/svg/reference/element/animatetransform,0
 web/svg/reference/element/circle,0
@@ -14134,7 +14134,7 @@ web/uri/reference/schemes/blob,1
 web/uri/reference/schemes/data,2
 web/uri/reference/schemes/javascript,0
 web/uri/reference/schemes/resource,0
-web/uri/reference/schemes/urn,0
+web/uri/reference/schemes/urn,1
 web/webdriver,13
 web/webdriver/how_to,null
 web/webdriver/how_to/create_bidi_connection,null
