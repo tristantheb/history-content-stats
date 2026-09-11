@@ -3925,7 +3925,7 @@ web/api/element/hasattribute,0
 web/api/element/hasattributens,null
 web/api/element/hasattributes,0
 web/api/element/haspointercapture,null
-web/api/element/id,3
+web/api/element/id,4
 web/api/element/innerhtml,null
 web/api/element/input_event,null
 web/api/element/insertadjacentelement,null

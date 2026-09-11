@@ -2090,7 +2090,7 @@ web,5
 web/accessibility,null
 web/accessibility/aria,null
 web/accessibility/aria/guides,1
-web/accessibility/aria/guides/live_regions,7
+web/accessibility/aria/guides/live_regions,8
 web/accessibility/aria/guides/multipart_labels,2
 web/accessibility/aria/guides/screen_reader_implementors,2
 web/accessibility/aria/guides/techniques,1
@@ -3925,7 +3925,7 @@ web/api/element/hasattribute,0
 web/api/element/hasattributens,1
 web/api/element/hasattributes,0
 web/api/element/haspointercapture,null
-web/api/element/id,4
+web/api/element/id,5
 web/api/element/innerhtml,null
 web/api/element/input_event,null
 web/api/element/insertadjacentelement,4
@@ -10558,7 +10558,7 @@ web/css/guides/values_and_units/value_definition_syntax,null
 web/css/guides/view_transitions,2
 web/css/guides/viewport,null
 web/css/guides/webxr_dom_overlays,null
-web/css/guides/will_change,null
+web/css/guides/will_change,0
 web/css/guides/writing_modes,3
 web/css/guides/writing_modes/vertical_controls,null
 web/css/guides/writing_modes/writing_mode_systems,null
@@ -11047,7 +11047,7 @@ web/css/reference/properties/offset-position,null
 web/css/reference/properties/offset-rotate,null
 web/css/reference/properties/opacity,null
 web/css/reference/properties/order,3
-web/css/reference/properties/orphans,3
+web/css/reference/properties/orphans,4
 web/css/reference/properties/outline,null
 web/css/reference/properties/outline-color,null
 web/css/reference/properties/outline-offset,2
@@ -11669,7 +11669,7 @@ web/html/reference/elements/acronym,4
 web/html/reference/elements/address,4
 web/html/reference/elements/area,8
 web/html/reference/elements/article,4
-web/html/reference/elements/aside,2
+web/html/reference/elements/aside,3
 web/html/reference/elements/audio,null
 web/html/reference/elements/b,3
 web/html/reference/elements/base,null
