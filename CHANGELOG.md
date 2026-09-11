@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.3](https://github.com/tristantheb/history-content-stats/compare/v1.1.2...v1.1.3) (2026-09-03)
+
+
+### Miscellaneous
+
+* **deps:** bump actions/setup-python from 6.3.0 to 7.0.0 ([#609](https://github.com/tristantheb/history-content-stats/issues/609)) ([1a2b97c](https://github.com/tristantheb/history-content-stats/commit/1a2b97c9529f84a41d395abd1e5403b1bad3ff4b))
+
+
+### CI/CD changes
+
+* group codeql bumps ([9af1a59](https://github.com/tristantheb/history-content-stats/commit/9af1a59e5d25b46ebb318ba248a9d372bb443bbd))
+
 ## [1.1.2](https://github.com/tristantheb/history-content-stats/compare/v1.1.1...v1.1.2) (2026-06-28)
 
 
