@@ -7137,7 +7137,7 @@ web/api/reportingobserver/disconnect,null
 web/api/reportingobserver/observe,null
 web/api/reportingobserver/reportingobserver,null
 web/api/reportingobserver/takerecords,null
-web/api/request,0
+web/api/request,1
 web/api/request/arraybuffer,0
 web/api/request/blob,0
 web/api/request/body,0
@@ -7151,7 +7151,7 @@ web/api/request/duplex,0
 web/api/request/formdata,0
 web/api/request/headers,0
 web/api/request/integrity,0
-web/api/request/ishistorynavigation,0
+web/api/request/ishistorynavigation,1
 web/api/request/isreloadnavigation,null
 web/api/request/json,0
 web/api/request/keepalive,0
@@ -7182,7 +7182,7 @@ web/api/resizeobserverentry/target,null
 web/api/resizeobserversize,null
 web/api/resizeobserversize/blocksize,null
 web/api/resizeobserversize/inlinesize,null
-web/api/response,0
+web/api/response,1
 web/api/response/arraybuffer,0
 web/api/response/blob,0
 web/api/response/body,0
@@ -10838,7 +10838,7 @@ web/css/reference/properties/color-scheme,0
 web/css/reference/properties/column-count,0
 web/css/reference/properties/column-fill,0
 web/css/reference/properties/column-gap,1
-web/css/reference/properties/column-height,0
+web/css/reference/properties/column-height,1
 web/css/reference/properties/column-rule,0
 web/css/reference/properties/column-rule-break,0
 web/css/reference/properties/column-rule-color,0
@@ -10848,7 +10848,7 @@ web/css/reference/properties/column-rule-visibility-items,0
 web/css/reference/properties/column-rule-width,0
 web/css/reference/properties/column-span,0
 web/css/reference/properties/column-width,0
-web/css/reference/properties/column-wrap,0
+web/css/reference/properties/column-wrap,1
 web/css/reference/properties/columns,0
 web/css/reference/properties/contain,1
 web/css/reference/properties/contain-intrinsic-block-size,0
@@ -11606,7 +11606,7 @@ web/css/reference/values/url_value,1
 web/css/reference/values/var,1
 web/css/reference/webkit_extensions,0
 web/css/tutorials,0
-web/html,0
+web/html,1
 web/html/guides,0
 web/html/guides/cheatsheet,0
 web/html/guides/comments,0
@@ -11718,7 +11718,7 @@ web/html/reference/elements/hr,0
 web/html/reference/elements/html,0
 web/html/reference/elements/i,0
 web/html/reference/elements/iframe,0
-web/html/reference/elements/img,0
+web/html/reference/elements/img,1
 web/html/reference/elements/input,0
 web/html/reference/elements/input/button,0
 web/html/reference/elements/input/checkbox,0
@@ -12270,7 +12270,7 @@ web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,4
 web/javascript/guide/using_promises,null
 web/javascript/guide/working_with_objects,null
-web/javascript/reference,0
+web/javascript/reference,1
 web/javascript/reference/classes,null
 web/javascript/reference/classes/constructor,null
 web/javascript/reference/classes/extends,null
@@ -12423,7 +12423,8 @@ web/javascript/reference/functions/get,null
 web/javascript/reference/functions/method_definitions,null
 web/javascript/reference/functions/rest_parameters,null
 web/javascript/reference/functions/set,null
-web/javascript/reference/global_objects,0
+web/javascript/reference/global_objects,1
+web/javascript/reference/global_objects/abstractmodulesource,null
 web/javascript/reference/global_objects/aggregateerror,0
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,0
 web/javascript/reference/global_objects/aggregateerror/errors,0
@@ -13440,7 +13441,7 @@ web/javascript/reference/global_objects/weakset/weakset,null
 web/javascript/reference/iteration_protocols,1
 web/javascript/reference/javascript_technologies_overview,null
 web/javascript/reference/lexical_grammar,null
-web/javascript/reference/operators,0
+web/javascript/reference/operators,1
 web/javascript/reference/operators/addition,0
 web/javascript/reference/operators/addition_assignment,0
 web/javascript/reference/operators/assignment,0
@@ -13470,9 +13471,10 @@ web/javascript/reference/operators/function_star_,null
 web/javascript/reference/operators/greater_than,null
 web/javascript/reference/operators/greater_than_or_equal,null
 web/javascript/reference/operators/grouping,null
-web/javascript/reference/operators/import,28
+web/javascript/reference/operators/import,29
 web/javascript/reference/operators/import.meta,null
 web/javascript/reference/operators/import.meta/resolve,12
+web/javascript/reference/operators/import/source,null
 web/javascript/reference/operators/in,null
 web/javascript/reference/operators/increment,null
 web/javascript/reference/operators/inequality,null
@@ -13558,6 +13560,7 @@ web/javascript/reference/statements/function,null
 web/javascript/reference/statements/function_star_,null
 web/javascript/reference/statements/if...else,7
 web/javascript/reference/statements/import,null
+web/javascript/reference/statements/import/source,null
 web/javascript/reference/statements/import/with,null
 web/javascript/reference/statements/label,null
 web/javascript/reference/statements/let,null
@@ -13780,7 +13783,7 @@ web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,1
 web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,0
-web/security/defenses/secure_contexts,0
+web/security/defenses/secure_contexts,1
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,null
 web/security/defenses/subresource_integrity,3
 web/security/defenses/transport_layer_security,null

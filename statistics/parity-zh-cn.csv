@@ -18,7 +18,7 @@ games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas,1
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/editor,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/engine,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,3
-games/techniques/3d_on_the_web/glsl_shaders,null
+games/techniques/3d_on_the_web/glsl_shaders,0
 games/techniques/3d_on_the_web/webxr,null
 games/techniques/async_scripts,null
 games/techniques/audio_for_web_games,null
@@ -42,7 +42,7 @@ games/tutorials/2d_breakout_game_phaser/bounce_off_the_walls,0
 games/tutorials/2d_breakout_game_phaser/build_the_brick_field,null
 games/tutorials/2d_breakout_game_phaser/buttons,0
 games/tutorials/2d_breakout_game_phaser/collision_detection,0
-games/tutorials/2d_breakout_game_phaser/extra_lives,null
+games/tutorials/2d_breakout_game_phaser/extra_lives,0
 games/tutorials/2d_breakout_game_phaser/game_over,0
 games/tutorials/2d_breakout_game_phaser/initialize_the_framework,0
 games/tutorials/2d_breakout_game_phaser/load_the_assets_and_print_them_on_screen,null
@@ -2623,7 +2623,7 @@ web/api/biquadfilternode/gain,null
 web/api/biquadfilternode/getfrequencyresponse,null
 web/api/biquadfilternode/q,null
 web/api/biquadfilternode/type,null
-web/api/blob,3
+web/api/blob,4
 web/api/blob/arraybuffer,0
 web/api/blob/blob,2
 web/api/blob/bytes,0
@@ -9678,7 +9678,7 @@ web/api/websocketstream/closed,null
 web/api/websocketstream/opened,null
 web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,null
-web/api/webtransport,9
+web/api/webtransport,10
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
@@ -11718,7 +11718,7 @@ web/html/reference/elements/hr,null
 web/html/reference/elements/html,5
 web/html/reference/elements/i,1
 web/html/reference/elements/iframe,20
-web/html/reference/elements/img,15
+web/html/reference/elements/img,16
 web/html/reference/elements/input,6
 web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,null
@@ -11893,7 +11893,7 @@ web/http/guides/cors/errors/corsoriginheadernotadded,null
 web/http/guides/cors/errors/corspreflightdidnotsucceed,null
 web/http/guides/cors/errors/corsrequestnothttp,null
 web/http/guides/cross-origin_resource_policy,0
-web/http/guides/csp,null
+web/http/guides/csp,0
 web/http/guides/csp/errors,null
 web/http/guides/csp/errors/cspviolation,null
 web/http/guides/evolution_of_http,null
@@ -12270,7 +12270,7 @@ web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,3
 web/javascript/guide/using_promises,null
 web/javascript/guide/working_with_objects,null
-web/javascript/reference,12
+web/javascript/reference,13
 web/javascript/reference/classes,6
 web/javascript/reference/classes/constructor,8
 web/javascript/reference/classes/extends,7
@@ -12424,6 +12424,7 @@ web/javascript/reference/functions/method_definitions,null
 web/javascript/reference/functions/rest_parameters,0
 web/javascript/reference/functions/set,null
 web/javascript/reference/global_objects,null
+web/javascript/reference/global_objects/abstractmodulesource,null
 web/javascript/reference/global_objects/aggregateerror,null
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,null
 web/javascript/reference/global_objects/aggregateerror/errors,0
@@ -13440,7 +13441,7 @@ web/javascript/reference/global_objects/weakset/weakset,null
 web/javascript/reference/iteration_protocols,null
 web/javascript/reference/javascript_technologies_overview,8
 web/javascript/reference/lexical_grammar,null
-web/javascript/reference/operators,6
+web/javascript/reference/operators,7
 web/javascript/reference/operators/addition,null
 web/javascript/reference/operators/addition_assignment,null
 web/javascript/reference/operators/assignment,null
@@ -13470,9 +13471,10 @@ web/javascript/reference/operators/function_star_,null
 web/javascript/reference/operators/greater_than,null
 web/javascript/reference/operators/greater_than_or_equal,null
 web/javascript/reference/operators/grouping,null
-web/javascript/reference/operators/import,8
+web/javascript/reference/operators/import,9
 web/javascript/reference/operators/import.meta,1
 web/javascript/reference/operators/import.meta/resolve,1
+web/javascript/reference/operators/import/source,null
 web/javascript/reference/operators/in,null
 web/javascript/reference/operators/increment,null
 web/javascript/reference/operators/inequality,null
@@ -13536,7 +13538,7 @@ web/javascript/reference/regular_expressions/quantifier,5
 web/javascript/reference/regular_expressions/unicode_character_class_escape,1
 web/javascript/reference/regular_expressions/wildcard,0
 web/javascript/reference/regular_expressions/word_boundary_assertion,0
-web/javascript/reference/statements,7
+web/javascript/reference/statements,8
 web/javascript/reference/statements/async_function,6
 web/javascript/reference/statements/async_function_star_,7
 web/javascript/reference/statements/await_using,null
@@ -13548,7 +13550,7 @@ web/javascript/reference/statements/continue,6
 web/javascript/reference/statements/debugger,1
 web/javascript/reference/statements/do...while,4
 web/javascript/reference/statements/empty,4
-web/javascript/reference/statements/export,9
+web/javascript/reference/statements/export,10
 web/javascript/reference/statements/expression_statement,4
 web/javascript/reference/statements/for,9
 web/javascript/reference/statements/for-await...of,13
@@ -13557,8 +13559,9 @@ web/javascript/reference/statements/for...of,14
 web/javascript/reference/statements/function,4
 web/javascript/reference/statements/function_star_,13
 web/javascript/reference/statements/if...else,4
-web/javascript/reference/statements/import,13
-web/javascript/reference/statements/import/with,2
+web/javascript/reference/statements/import,14
+web/javascript/reference/statements/import/source,null
+web/javascript/reference/statements/import/with,3
 web/javascript/reference/statements/label,7
 web/javascript/reference/statements/let,8
 web/javascript/reference/statements/return,4
@@ -14411,7 +14414,7 @@ webassembly/reference/javascript_interface/memory,null
 webassembly/reference/javascript_interface/memory/buffer,null
 webassembly/reference/javascript_interface/memory/grow,null
 webassembly/reference/javascript_interface/memory/memory,null
-webassembly/reference/javascript_interface/module,0
+webassembly/reference/javascript_interface/module,1
 webassembly/reference/javascript_interface/module/customsections_static,null
 webassembly/reference/javascript_interface/module/exports_static,null
 webassembly/reference/javascript_interface/module/imports_static,null
