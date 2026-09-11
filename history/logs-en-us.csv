@@ -1883,7 +1883,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,f99d00a1c3697e26a679925954e26564e7e79b98,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Mozilla|Firefox
+mozilla/firefox/experimental_features,9ba3ab2c48fb51423f811d329818071e4c79caca,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1951,8 +1951,8 @@ mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Fi
 mozilla/firefox/releases/152,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,a31068ba2df086b7aba127b26d28b083537d5894,Mozilla|Firefox|Versions
-mozilla/firefox/releases/155,1a1ae3db9b94004fef31e64cef0f27c6116356e2,Mozilla|Firefox|Versions
-mozilla/firefox/releases/156,03cb7e674d176cbb03bef39afa55e23f9f193e5a,Mozilla|Firefox|Versions
+mozilla/firefox/releases/155,9ba3ab2c48fb51423f811d329818071e4c79caca,Mozilla|Firefox|Versions
+mozilla/firefox/releases/156,15cab338c83330f0efe31cd18bfbcbbbfb28e56f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,d38616f73d7bfbd6c6f698390657da14a92bbb2f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -4763,12 +4763,12 @@ web/api/htmlanchorelement/password,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web 
 web/api/htmlanchorelement/pathname,a3d9f61a8990ba7b53bda9748d1f26a9e9810b18,Web APIs
 web/api/htmlanchorelement/ping,e9e2ec643ac69c132f31427a0b586ab2cf83ed58,Web APIs
 web/api/htmlanchorelement/port,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
-web/api/htmlanchorelement/protocol,82acf2a065dc00a1bd0cbf5e73de696e1bedee91,Web APIs
+web/api/htmlanchorelement/protocol,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
 web/api/htmlanchorelement/referrerpolicy,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/htmlanchorelement/rel,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlanchorelement/rellist,c053b4b3bb0f34736e9f4402d4254830670af723,Web APIs
-web/api/htmlanchorelement/search,1eabc08d295e60d7d8eab6bce858d2fb0833be2b,Web APIs
-web/api/htmlanchorelement/target,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
+web/api/htmlanchorelement/search,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/htmlanchorelement/target,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
 web/api/htmlanchorelement/text,5d670c42df8ede57e3d6341cb15d8251eb188dc4,Web APIs
 web/api/htmlanchorelement/tostring,b829b2fae917b5b931011ddeb6a0d1b2d2b81c54,Web APIs
 web/api/htmlanchorelement/type,10346c8cf5dfe6e030bd1cdc32f04461afaa8c64,Web APIs
@@ -5847,6 +5847,21 @@ web/api/managedmediasource/startstreaming_event,aea2d29336c910940abb1f8e71e02158
 web/api/managedmediasource/streaming,aea2d29336c910940abb1f8e71e02158ac51e7c4,Web APIs
 web/api/managedsourcebuffer,aea2d29336c910940abb1f8e71e02158ac51e7c4,Web APIs
 web/api/managedsourcebuffer/bufferedchange_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
+web/api/mathmlanchorelement,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/hash,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/host,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/hostname,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/href,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/hreflang,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/origin,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/password,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/pathname,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/port,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/protocol,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/search,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/target,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/type,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
+web/api/mathmlanchorelement/username,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
 web/api/mathmlelement,bfec9e17373a24d6c70cc52fad82719b811e7985,Web APIs
 web/api/mathmlelement/attributestylemap,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
 web/api/mathmlelement/autofocus,c486da8298cdfdba0556a190d8e3f92e9aa117bb,Web APIs
@@ -11199,7 +11214,7 @@ web/css/reference/properties/text-emphasis-style,56f3d7018159127dbe92842413fb45d
 web/css/reference/properties/text-indent,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-justify,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-orientation,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/text-overflow,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
+web/css/reference/properties/text-overflow,a0ee03344e973471ea75e61dd194221b172d7d5e,CSS|Properties
 web/css/reference/properties/text-rendering,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-shadow,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-size-adjust,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
@@ -13583,7 +13598,8 @@ web/mathml/guides/fonts,96eca1db30582588adb0d71944d93d5040682233,MathML|Guides
 web/mathml/guides/proving_the_pythagorean_theorem,c263f06fa14ed56153e345006bb459c9df014b98,MathML|Guides
 web/mathml/reference,c263f06fa14ed56153e345006bb459c9df014b98,MathML
 web/mathml/reference/attribute,2d78abb3e793352e24e976ce0e68c08d817bd7f3,MathML
-web/mathml/reference/element,c263f06fa14ed56153e345006bb459c9df014b98,MathML|Element
+web/mathml/reference/element,9ba3ab2c48fb51423f811d329818071e4c79caca,MathML|Element
+web/mathml/reference/element/a,9ba3ab2c48fb51423f811d329818071e4c79caca,MathML|Element
 web/mathml/reference/element/annotation,702cd9e4d2834e13aea345943efc8d0c03d92ec9,MathML|Element
 web/mathml/reference/element/annotation-xml,5f2a755c4fa7d126f85b56fbca90b15c5f039eff,MathML|Element
 web/mathml/reference/element/maction,56f3d7018159127dbe92842413fb45d0aa7e8193,MathML|Element
@@ -13620,7 +13636,7 @@ web/mathml/reference/global_attributes,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,
 web/mathml/reference/global_attributes/data-_star_,5f4ef6f614202ab1b748708d3e1d95e396f6ee63,MathML|Global Attributes
 web/mathml/reference/global_attributes/dir,4c302cd01003cf42f175d5ba149e536ab1923df6,MathML|Global Attributes
 web/mathml/reference/global_attributes/displaystyle,2d78abb3e793352e24e976ce0e68c08d817bd7f3,MathML|Global Attributes
-web/mathml/reference/global_attributes/href,ca6052779ddca9f6d99665f12c39aa2d85d85733,MathML|Global Attributes
+web/mathml/reference/global_attributes/href,9ba3ab2c48fb51423f811d329818071e4c79caca,MathML|Global Attributes
 web/mathml/reference/global_attributes/mathbackground,ca6052779ddca9f6d99665f12c39aa2d85d85733,MathML|Global Attributes
 web/mathml/reference/global_attributes/mathcolor,ca6052779ddca9f6d99665f12c39aa2d85d85733,MathML|Global Attributes
 web/mathml/reference/global_attributes/mathsize,ca6052779ddca9f6d99665f12c39aa2d85d85733,MathML|Global Attributes
