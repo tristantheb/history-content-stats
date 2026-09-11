@@ -829,7 +829,7 @@ learn_web_development/core/styling_basics/pseudo_classes_and_elements,null
 learn_web_development/core/styling_basics/size_decorate_content_panel,null
 learn_web_development/core/styling_basics/sizing,null
 learn_web_development/core/styling_basics/styling_a_bio_page,null
-learn_web_development/core/styling_basics/tables,null
+learn_web_development/core/styling_basics/tables,1
 learn_web_development/core/styling_basics/test_your_skills,null
 learn_web_development/core/styling_basics/test_your_skills/backgrounds_and_borders,null
 learn_web_development/core/styling_basics/test_your_skills/box_model,null
@@ -880,7 +880,7 @@ learn_web_development/extensions/forms/advanced_form_styling,null
 learn_web_development/extensions/forms/basic_native_form_controls,null
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
-learn_web_development/extensions/forms/form_validation,null
+learn_web_development/extensions/forms/form_validation,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,2
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,null
@@ -889,7 +889,7 @@ learn_web_development/extensions/forms/how_to_build_custom_form_controls/example
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_5,null
 learn_web_development/extensions/forms/how_to_structure_a_web_form,null
 learn_web_development/extensions/forms/how_to_structure_a_web_form/example,null
-learn_web_development/extensions/forms/html5_input_types,null
+learn_web_development/extensions/forms/html5_input_types,2
 learn_web_development/extensions/forms/html_forms_in_legacy_browsers,null
 learn_web_development/extensions/forms/other_form_controls,null
 learn_web_development/extensions/forms/sending_and_retrieving_form_data,null
@@ -957,9 +957,9 @@ learn_web_development/extensions/server-side/express_nodejs/routes,null
 learn_web_development/extensions/server-side/express_nodejs/skeleton_website,null
 learn_web_development/extensions/server-side/express_nodejs/tutorial_local_library_website,null
 learn_web_development/extensions/server-side/first_steps,null
-learn_web_development/extensions/server-side/first_steps/client-server_overview,null
+learn_web_development/extensions/server-side/first_steps/client-server_overview,1
 learn_web_development/extensions/server-side/first_steps/introduction,0
-learn_web_development/extensions/server-side/first_steps/web_frameworks,null
+learn_web_development/extensions/server-side/first_steps/web_frameworks,2
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
 learn_web_development/extensions/testing,null
@@ -11616,7 +11616,7 @@ web/html/guides/date_and_time_formats,null
 web/html/guides/microdata,null
 web/html/guides/microformats,null
 web/html/guides/quirks_mode_and_standards_mode,3
-web/html/guides/responsive_images,null
+web/html/guides/responsive_images,0
 web/html/how_to,null
 web/html/how_to/add_a_hit_map_on_top_of_an_image,null
 web/html/how_to/add_javascript_to_your_web_page,null

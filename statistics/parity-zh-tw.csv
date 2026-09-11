@@ -3355,7 +3355,7 @@ web/api/cssviewtransitionrule/navigation,null
 web/api/cssviewtransitionrule/types,null
 web/api/customelementregistry,null
 web/api/customelementregistry/customelementregistry,null
-web/api/customelementregistry/define,1
+web/api/customelementregistry/define,2
 web/api/customelementregistry/get,null
 web/api/customelementregistry/getname,null
 web/api/customelementregistry/initialize,null
