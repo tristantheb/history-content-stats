@@ -2090,7 +2090,7 @@ web,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a,Other
 web/accessibility,04158640487c17d515de8078c9307a2f906377d0,Accessibility
 web/accessibility/aria,cab1109a0c225299a9fb2b3402bcd4a1931b8ab7,Accessibility|ARIA
 web/accessibility/aria/guides,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Accessibility|ARIA|Guides
-web/accessibility/aria/guides/live_regions,5e815d522e796fb2209fa8470616b37e31c572b4,Accessibility|ARIA|Guides
+web/accessibility/aria/guides/live_regions,04cf692e8b950c028aca8fab9664d52e7cbfaebf,Accessibility|ARIA|Guides
 web/accessibility/aria/guides/multipart_labels,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Guides
 web/accessibility/aria/guides/screen_reader_implementors,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Accessibility|ARIA|Guides
 web/accessibility/aria/guides/techniques,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Accessibility|ARIA|Guides
@@ -2162,7 +2162,7 @@ web/accessibility/aria/reference/roles/columnheader_role,26fb7eaa7b398a35c2463fa
 web/accessibility/aria/reference/roles/combobox_role,d86426e69aaed1dbf19f09d92d78d1d320737733,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/command_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/comment_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/complementary_role,5e815d522e796fb2209fa8470616b37e31c572b4,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/complementary_role,63e6075c870f818291e857d0ad5b291d1b5afe5b,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/composite_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/contentinfo_role,5e815d522e796fb2209fa8470616b37e31c572b4,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/definition_role,ceb2902838a2752d55e05158584426dd342911c5,Accessibility|ARIA|Roles
@@ -3355,7 +3355,7 @@ web/api/cssviewtransitionrule/navigation,baf0cb6bfe8bf2418122300d3f93e3aa94f72dc
 web/api/cssviewtransitionrule/types,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
 web/api/customelementregistry,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/customelementregistry/customelementregistry,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Web APIs
-web/api/customelementregistry/define,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
+web/api/customelementregistry/define,fed985f0944d1f8bdd3ff85b34b3e31069b8eb9c,Web APIs
 web/api/customelementregistry/get,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
 web/api/customelementregistry/getname,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
 web/api/customelementregistry/initialize,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
@@ -3878,7 +3878,7 @@ web/api/element/checkvisibility,978aef2f7339917b6032c687b675402ae664de4d,Web API
 web/api/element/childelementcount,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf,Web APIs
 web/api/element/children,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf,Web APIs
 web/api/element/classlist,c053b4b3bb0f34736e9f4402d4254830670af723,Web APIs
-web/api/element/classname,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
+web/api/element/classname,88c33ab5f4ccd88d13a0a5272de45d4d33f9f636,Web APIs
 web/api/element/click_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/element/clientheight,0916e1754652f3a7c663ef031faa26c98f492023,Web APIs
 web/api/element/clientleft,1e0a16464b11cde9eddbb9795fe74e737dba0598,Web APIs
@@ -3925,7 +3925,7 @@ web/api/element/hasattribute,990ab6637bb4d44f059597262cbf3c51abae79eb,Web APIs
 web/api/element/hasattributens,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/element/hasattributes,990ab6637bb4d44f059597262cbf3c51abae79eb,Web APIs
 web/api/element/haspointercapture,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
-web/api/element/id,c52ed787442db9d65b21f5c2874fa6bfd08a253a,Web APIs
+web/api/element/id,88c33ab5f4ccd88d13a0a5272de45d4d33f9f636,Web APIs
 web/api/element/innerhtml,ad01ed9218be15d7aeaa0666ec0bc2a2d17f3574,Web APIs
 web/api/element/input_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/element/insertadjacentelement,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -4003,7 +4003,7 @@ web/api/element/sethtml,afcdfa050626bb7eb05ee693df8997020db9ff2e,Web APIs
 web/api/element/sethtmlunsafe,cda9415220ba812ba2ee24e0af1c8e8001ab9924,Web APIs
 web/api/element/setpointercapture,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
 web/api/element/shadowroot,1099567e480ad28fa86729e02a9fa8fa4cea9331,Web APIs
-web/api/element/slot,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
+web/api/element/slot,88c33ab5f4ccd88d13a0a5272de45d4d33f9f636,Web APIs
 web/api/element/startviewtransition,afcdfa050626bb7eb05ee693df8997020db9ff2e,Web APIs
 web/api/element/tagname,bc7e82aa6db60568d7146ee285918550bbe4b8ce,Web APIs
 web/api/element/toggleattribute,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
@@ -5074,8 +5074,8 @@ web/api/htmlinputelement/min,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlinputelement/minlength,3e097148b4c6cb9c6d8824275599f855ca63827b,Web APIs
 web/api/htmlinputelement/multiple,d47348199a379f68bea876a403eb510628ec4ccb,Web APIs
 web/api/htmlinputelement/name,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
-web/api/htmlinputelement/pattern,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
-web/api/htmlinputelement/placeholder,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
+web/api/htmlinputelement/pattern,61986210fa785119daed1c121491fef615ec2bc8,Web APIs
+web/api/htmlinputelement/placeholder,61986210fa785119daed1c121491fef615ec2bc8,Web APIs
 web/api/htmlinputelement/popovertargetaction,847f754b374ed8928a270ab17672a1675802776f,Web APIs
 web/api/htmlinputelement/popovertargetelement,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/htmlinputelement/readonly,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -5093,7 +5093,7 @@ web/api/htmlinputelement/setrangetext,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,W
 web/api/htmlinputelement/setselectionrange,76d6c2c2bcca61d0d14ed464356716090097bc7a,Web APIs
 web/api/htmlinputelement/showpicker,cc66f2b97b465aef7a1781ee479ec8c42ee2fe7c,Web APIs
 web/api/htmlinputelement/size,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
-web/api/htmlinputelement/src,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
+web/api/htmlinputelement/src,61986210fa785119daed1c121491fef615ec2bc8,Web APIs
 web/api/htmlinputelement/step,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlinputelement/stepdown,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/htmlinputelement/stepup,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -5338,7 +5338,7 @@ web/api/htmlselectelement/validity,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web 
 web/api/htmlselectelement/value,7f38ec3d1324a031bc25e70b3c103ca78c2cf04d,Web APIs
 web/api/htmlselectelement/willvalidate,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlslotelement,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
-web/api/htmlslotelement/assign,4904c4f3e4ea8f8efd27e9cf51b51d5c5a03de26,Web APIs
+web/api/htmlslotelement/assign,8ec7a537a8756184ceb9544220279c186b270f73,Web APIs
 web/api/htmlslotelement/assignedelements,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/htmlslotelement/assignednodes,f4c221962681b1472cd57da60379ad7825fe5081,Web APIs
 web/api/htmlslotelement/name,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web APIs
@@ -8150,25 +8150,25 @@ web/api/summarizer_api/using,d19dec85109590176f946fcceef48c787d578b1e,Web APIs
 web/api/svg_api,03d7663c2965d67eca296f6a27aa8a651de7dfee,Web APIs
 web/api/svgaelement,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
 web/api/svgaelement/download,94a841dba1498c685a18e72d041fd9057f302d6c,Web APIs
-web/api/svgaelement/hash,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
-web/api/svgaelement/host,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
-web/api/svgaelement/hostname,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
+web/api/svgaelement/hash,c41febcc1658a64561687d36e5b79a89c3f7f676,Web APIs
+web/api/svgaelement/host,c41febcc1658a64561687d36e5b79a89c3f7f676,Web APIs
+web/api/svgaelement/hostname,c41febcc1658a64561687d36e5b79a89c3f7f676,Web APIs
 web/api/svgaelement/href,0bb352f93d19c62cd07807479975f610f7b02cf4,Web APIs
 web/api/svgaelement/hreflang,acb7e62eb10471075a46e78542cdb4798e82bfe7,Web APIs
 web/api/svgaelement/interestforelement,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
-web/api/svgaelement/origin,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
-web/api/svgaelement/password,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
-web/api/svgaelement/pathname,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
+web/api/svgaelement/origin,c41febcc1658a64561687d36e5b79a89c3f7f676,Web APIs
+web/api/svgaelement/password,c41febcc1658a64561687d36e5b79a89c3f7f676,Web APIs
+web/api/svgaelement/pathname,c41febcc1658a64561687d36e5b79a89c3f7f676,Web APIs
 web/api/svgaelement/ping,acb7e62eb10471075a46e78542cdb4798e82bfe7,Web APIs
-web/api/svgaelement/port,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
-web/api/svgaelement/protocol,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
+web/api/svgaelement/port,c41febcc1658a64561687d36e5b79a89c3f7f676,Web APIs
+web/api/svgaelement/protocol,c41febcc1658a64561687d36e5b79a89c3f7f676,Web APIs
 web/api/svgaelement/referrerpolicy,f76cc7aec7241e425ad934ace8760f4cdae14b25,Web APIs
-web/api/svgaelement/rel,99d723c4f77d7f537292a07dd7b5e5c13cb610da,Web APIs
+web/api/svgaelement/rel,c41febcc1658a64561687d36e5b79a89c3f7f676,Web APIs
 web/api/svgaelement/rellist,c053b4b3bb0f34736e9f4402d4254830670af723,Web APIs
-web/api/svgaelement/search,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
+web/api/svgaelement/search,c41febcc1658a64561687d36e5b79a89c3f7f676,Web APIs
 web/api/svgaelement/target,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/svgaelement/type,acb7e62eb10471075a46e78542cdb4798e82bfe7,Web APIs
-web/api/svgaelement/username,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
+web/api/svgaelement/username,c41febcc1658a64561687d36e5b79a89c3f7f676,Web APIs
 web/api/svgangle,2e39a37874913a1e3fd82999467505fd525e9177,Web APIs
 web/api/svgangle/converttospecifiedunits,d0e6d8d712a33b9d3c7a9fb9a8ba85d4dd1b7002,Web APIs
 web/api/svgangle/newvaluespecifiedunits,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -11047,7 +11047,7 @@ web/css/reference/properties/offset-position,bcbb4bd6a80292c0663b723d5466759cfaa
 web/css/reference/properties/offset-rotate,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/order,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/orphans,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/orphans,e4ed2e4bfb88dab98ae65c44c134e3359b623d9b,CSS|Properties
 web/css/reference/properties/outline,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/outline-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/outline-offset,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11239,7 +11239,7 @@ web/css/reference/properties/view-transition-scope,b6de98eb9cd52ce7e37f22a340352
 web/css/reference/properties/visibility,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/white-space,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/white-space-collapse,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/widows,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/widows,e4ed2e4bfb88dab98ae65c44c134e3359b623d9b,CSS|Properties
 web/css/reference/properties/width,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/will-change,c655f38c10ba17b853b0e66b43cf4cf2b176e424,CSS|Properties
 web/css/reference/properties/word-break,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11669,7 +11669,7 @@ web/html/reference/elements/acronym,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTM
 web/html/reference/elements/address,c9f3d85f24d7839c9fe36a68d8042d088d906147,HTML|Elements
 web/html/reference/elements/area,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/article,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
-web/html/reference/elements/aside,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/aside,63e6075c870f818291e857d0ad5b291d1b5afe5b,HTML|Elements
 web/html/reference/elements/audio,d1aa0dbd7441564e6ce8f6706c2022a2e1912d8c,HTML|Elements
 web/html/reference/elements/b,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/base,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11773,7 +11773,7 @@ web/html/reference/elements/object,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML
 web/html/reference/elements/ol,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/optgroup,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,HTML|Elements
 web/html/reference/elements/option,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,HTML|Elements
-web/html/reference/elements/output,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/output,04cf692e8b950c028aca8fab9664d52e7cbfaebf,HTML|Elements
 web/html/reference/elements/p,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/param,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/picture,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -14101,7 +14101,7 @@ web/svg/tutorials/svg_from_scratch/patterns,fd216f3c4358f24fef043d32b28d6e980a78
 web/svg/tutorials/svg_from_scratch/positions,787e8f0d2e6796a5973ba1ec431e288d66860063,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/svg_and_css,a988fe7e721539634bad936da7259ffbad37d0e5,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/texts,27bb49e1849433e05c964c8a645c448f184380ce,SVG|Tutorials
-web/svg/tutorials/svg_from_scratch/tools_for_svg,a23122d0e86fb376234614beb5b350b217068054,SVG|Tutorials
+web/svg/tutorials/svg_from_scratch/tools_for_svg,a9023c101b08304fba10f43175c60413cbe50ab3,SVG|Tutorials
 web/svg/tutorials/svg_from_scratch/using_fonts,9cfc2285428932f448a1747e347b1e35a3e0172b,SVG|Tutorials
 web/uri,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,URI
 web/uri/guides,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,URI
