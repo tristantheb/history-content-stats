@@ -881,7 +881,7 @@ learn_web_development/extensions/forms/basic_native_form_controls,null
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
 learn_web_development/extensions/forms/form_validation,1
-learn_web_development/extensions/forms/how_to_build_custom_form_controls,2
+learn_web_development/extensions/forms/how_to_build_custom_form_controls,3
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_3,null
@@ -959,7 +959,7 @@ learn_web_development/extensions/server-side/express_nodejs/tutorial_local_libra
 learn_web_development/extensions/server-side/first_steps,null
 learn_web_development/extensions/server-side/first_steps/client-server_overview,1
 learn_web_development/extensions/server-side/first_steps/introduction,1
-learn_web_development/extensions/server-side/first_steps/web_frameworks,2
+learn_web_development/extensions/server-side/first_steps/web_frameworks,3
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
 learn_web_development/extensions/testing,null
@@ -970,7 +970,7 @@ learn_web_development/extensions/testing/introduction,null
 learn_web_development/extensions/testing/testing_strategies,null
 learn_web_development/extensions/testing/your_own_automation_environment,null
 learn_web_development/getting_started,5
-learn_web_development/getting_started/environment_setup,4
+learn_web_development/getting_started/environment_setup,5
 learn_web_development/getting_started/environment_setup/browsing_the_web,17
 learn_web_development/getting_started/environment_setup/code_editors,4
 learn_web_development/getting_started/environment_setup/command_line,null
@@ -988,7 +988,7 @@ learn_web_development/getting_started/web_standards/the_web_standards_model,null
 learn_web_development/getting_started/your_first_website,null
 learn_web_development/getting_started/your_first_website/adding_interactivity,null
 learn_web_development/getting_started/your_first_website/creating_the_content,null
-learn_web_development/getting_started/your_first_website/publishing_your_website,0
+learn_web_development/getting_started/your_first_website/publishing_your_website,1
 learn_web_development/getting_started/your_first_website/styling_the_content,null
 learn_web_development/getting_started/your_first_website/what_will_your_website_look_like,null
 learn_web_development/howto,0
@@ -4228,7 +4228,7 @@ web/api/file/webkitrelativepath,null
 web/api/file_and_directory_entries_api,null
 web/api/file_api,null
 web/api/file_api/using_files_from_web_applications,null
-web/api/file_system_api,2
+web/api/file_system_api,3
 web/api/file_system_api/origin_private_file_system,null
 web/api/fileentrysync,null
 web/api/filelist,null

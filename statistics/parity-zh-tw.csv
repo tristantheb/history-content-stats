@@ -1030,7 +1030,7 @@ learn_web_development/howto/web_mechanics/what_is_a_domain_name,null
 learn_web_development/howto/web_mechanics/what_is_a_url,null
 learn_web_development/howto/web_mechanics/what_is_a_web_server,null
 mdn,null
-mdn/community,0
+mdn/community,1
 mdn/community/communication_channels,null
 mdn/community/community_participation_guidelines,null
 mdn/community/discussions,null
@@ -9680,7 +9680,7 @@ web/api/websocket/readystate,null
 web/api/websocket/send,null
 web/api/websocket/url,null
 web/api/websocket/websocket,null
-web/api/websockets_api,2
+web/api/websockets_api,3
 web/api/websockets_api/using_websocketstream,null
 web/api/websockets_api/writing_a_websocket_server_in_java,null
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,null
@@ -11929,7 +11929,7 @@ web/http/guides/session,4
 web/http/guides/user-agent_reduction,null
 web/http/reference,null
 web/http/reference/headers,null
-web/http/reference/headers/accept,1
+web/http/reference/headers/accept,2
 web/http/reference/headers/accept-ch,3
 web/http/reference/headers/accept-encoding,1
 web/http/reference/headers/accept-language,0
