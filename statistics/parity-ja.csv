@@ -1950,8 +1950,8 @@ mozilla/firefox/releases/150,3
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,3
-mozilla/firefox/releases/154,3
-mozilla/firefox/releases/155,null
+mozilla/firefox/releases/154,0
+mozilla/firefox/releases/155,1
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
 mozilla/firefox/releases/16,0
@@ -2988,10 +2988,10 @@ web/api/convolvernode/buffer,null
 web/api/convolvernode/convolvernode,null
 web/api/convolvernode/normalize,null
 web/api/cookie_store_api,6
-web/api/cookiechangeevent,5
-web/api/cookiechangeevent/changed,13
-web/api/cookiechangeevent/cookiechangeevent,4
-web/api/cookiechangeevent/deleted,12
+web/api/cookiechangeevent,0
+web/api/cookiechangeevent/changed,0
+web/api/cookiechangeevent/cookiechangeevent,0
+web/api/cookiechangeevent/deleted,0
 web/api/cookiestore,0
 web/api/cookiestore/change_event,3
 web/api/cookiestore/delete,1
@@ -3802,7 +3802,7 @@ web/api/editcontext/updateselectionbounds,1
 web/api/editcontext/updatetext,2
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,12
+web/api/element,0
 web/api/element/activeviewtransition,null
 web/api/element/after,3
 web/api/element/afterscriptexecute_event,4
@@ -3909,7 +3909,7 @@ web/api/element/gesturechange_event,2
 web/api/element/gestureend_event,2
 web/api/element/gesturestart_event,2
 web/api/element/getanimations,7
-web/api/element/getattribute,5
+web/api/element/getattribute,0
 web/api/element/getattributenames,0
 web/api/element/getattributenode,3
 web/api/element/getattributenodens,4
@@ -4165,10 +4165,10 @@ web/api/ext_texture_compression_bptc,null
 web/api/ext_texture_compression_rgtc,null
 web/api/ext_texture_filter_anisotropic,null
 web/api/ext_texture_norm16,null
-web/api/extendablecookiechangeevent,5
-web/api/extendablecookiechangeevent/changed,13
-web/api/extendablecookiechangeevent/deleted,12
-web/api/extendablecookiechangeevent/extendablecookiechangeevent,4
+web/api/extendablecookiechangeevent,0
+web/api/extendablecookiechangeevent/changed,0
+web/api/extendablecookiechangeevent/deleted,0
+web/api/extendablecookiechangeevent/extendablecookiechangeevent,0
 web/api/extendableevent,10
 web/api/extendableevent/extendableevent,0
 web/api/extendableevent/waituntil,8
@@ -9776,7 +9776,7 @@ web/api/window/appinstalled_event,6
 web/api/window/atob,0
 web/api/window/beforeinstallprompt_event,1
 web/api/window/beforeprint_event,1
-web/api/window/beforeunload_event,1
+web/api/window/beforeunload_event,0
 web/api/window/blur,null
 web/api/window/blur_event,2
 web/api/window/btoa,0
@@ -9831,7 +9831,7 @@ web/api/window/issecurecontext,1
 web/api/window/languagechange_event,null
 web/api/window/launchqueue,1
 web/api/window/length,1
-web/api/window/load_event,10
+web/api/window/load_event,0
 web/api/window/localstorage,0
 web/api/window/location,2
 web/api/window/locationbar,1
@@ -13685,7 +13685,7 @@ web/performance/guides/dns-prefetch,1
 web/performance/guides/fundamentals,2
 web/performance/guides/how_browsers_work,3
 web/performance/guides/how_long_is_too_long,0
-web/performance/guides/lazy_loading,2
+web/performance/guides/lazy_loading,0
 web/performance/guides/navigation_and_resource_timings,1
 web/performance/guides/optimizing_startup_performance,0
 web/performance/guides/performance_budgets,3
