@@ -3975,7 +3975,7 @@ web/api/element/removeattributenode,1
 web/api/element/removeattributens,1
 web/api/element/replacechildren,null
 web/api/element/replacewith,null
-web/api/element/requestfullscreen,11
+web/api/element/requestfullscreen,12
 web/api/element/requestpointerlock,2
 web/api/element/role,0
 web/api/element/scroll,null

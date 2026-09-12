@@ -958,7 +958,7 @@ learn_web_development/extensions/server-side/express_nodejs/skeleton_website,nul
 learn_web_development/extensions/server-side/express_nodejs/tutorial_local_library_website,null
 learn_web_development/extensions/server-side/first_steps,null
 learn_web_development/extensions/server-side/first_steps/client-server_overview,null
-learn_web_development/extensions/server-side/first_steps/introduction,0
+learn_web_development/extensions/server-side/first_steps/introduction,1
 learn_web_development/extensions/server-side/first_steps/web_frameworks,null
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
@@ -2115,7 +2115,7 @@ web/accessibility/aria/reference/attributes/aria-details,0
 web/accessibility/aria/reference/attributes/aria-disabled,0
 web/accessibility/aria/reference/attributes/aria-dropeffect,0
 web/accessibility/aria/reference/attributes/aria-errormessage,0
-web/accessibility/aria/reference/attributes/aria-expanded,0
+web/accessibility/aria/reference/attributes/aria-expanded,1
 web/accessibility/aria/reference/attributes/aria-flowto,0
 web/accessibility/aria/reference/attributes/aria-grabbed,0
 web/accessibility/aria/reference/attributes/aria-haspopup,0
@@ -2226,7 +2226,7 @@ web/accessibility/aria/reference/roles/switch_role,0
 web/accessibility/aria/reference/roles/tab_role,0
 web/accessibility/aria/reference/roles/table_role,0
 web/accessibility/aria/reference/roles/tablist_role,0
-web/accessibility/aria/reference/roles/tabpanel_role,1
+web/accessibility/aria/reference/roles/tabpanel_role,2
 web/accessibility/aria/reference/roles/term_role,0
 web/accessibility/aria/reference/roles/textbox_role,0
 web/accessibility/aria/reference/roles/timer_role,0
@@ -3927,7 +3927,7 @@ web/api/element/hasattributes,0
 web/api/element/haspointercapture,0
 web/api/element/id,1
 web/api/element/innerhtml,0
-web/api/element/input_event,0
+web/api/element/input_event,1
 web/api/element/insertadjacentelement,0
 web/api/element/insertadjacenthtml,0
 web/api/element/insertadjacenttext,0
@@ -3975,7 +3975,7 @@ web/api/element/removeattributenode,0
 web/api/element/removeattributens,0
 web/api/element/replacechildren,0
 web/api/element/replacewith,0
-web/api/element/requestfullscreen,2
+web/api/element/requestfullscreen,3
 web/api/element/requestpointerlock,0
 web/api/element/role,0
 web/api/element/scroll,0
