@@ -101,7 +101,7 @@ glossary/baseline,1
 glossary/baseline/compatibility,0
 glossary/baseline/typography,5
 glossary/bcp_47_language_tag,null
-glossary/beacon,3
+glossary/beacon,4
 glossary/bezier_curve,3
 glossary/bfcache,2
 glossary/bidi,1
@@ -270,7 +270,7 @@ glossary/flexbox,5
 glossary/flow_relative_values,2
 glossary/forbidden_request_header,8
 glossary/forbidden_response_header_name,4
-glossary/fork,5
+glossary/fork,6
 glossary/fps,2
 glossary/fragmentainer,4
 glossary/ftp,2
@@ -287,7 +287,7 @@ glossary/global_object,4
 glossary/global_scope,1
 glossary/global_variable,1
 glossary/glyph,1
-glossary/google_chrome,6
+glossary/google_chrome,7
 glossary/gpl,1
 glossary/gpu,1
 glossary/graceful_degradation,3
@@ -387,7 +387,7 @@ glossary/local_variable,1
 glossary/locale,1
 glossary/localization,3
 glossary/logical_properties,2
-glossary/long_task,2
+glossary/long_task,3
 glossary/loop,1
 glossary/lossless_compression,2
 glossary/lossy_compression,4
@@ -495,7 +495,7 @@ glossary/pseudo-class,3
 glossary/pseudo-element,3
 glossary/pseudocode,1
 glossary/public-key_cryptography,4
-glossary/python,5
+glossary/python,6
 glossary/quality_values,3
 glossary/quaternion,2
 glossary/quic,2
@@ -571,7 +571,7 @@ glossary/simd,2
 glossary/sisd,1
 glossary/site,10
 glossary/site_map,2
-glossary/sld,2
+glossary/sld,3
 glossary/sloppy_mode,2
 glossary/slug,2
 glossary/smoke_test,2
@@ -620,7 +620,7 @@ glossary/tag,2
 glossary/tcp,3
 glossary/tcp_handshake,2
 glossary/tcp_slow_start,4
-glossary/telnet,1
+glossary/telnet,2
 glossary/texel,2
 glossary/thread,3
 glossary/three_js,1
@@ -864,11 +864,11 @@ learn_web_development/extensions/async_js/introducing,null
 learn_web_development/extensions/async_js/introducing_workers,null
 learn_web_development/extensions/async_js/promises,7
 learn_web_development/extensions/async_js/sequencing_animations,null
-learn_web_development/extensions/client-side_apis,6
+learn_web_development/extensions/client-side_apis,7
 learn_web_development/extensions/client-side_apis/client-side_storage,6
 learn_web_development/extensions/client-side_apis/drawing_graphics,17
 learn_web_development/extensions/client-side_apis/introduction,7
-learn_web_development/extensions/client-side_apis/third_party_apis,9
+learn_web_development/extensions/client-side_apis/third_party_apis,10
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,18
 learn_web_development/extensions/client-side_tools,3
 learn_web_development/extensions/client-side_tools/deployment,2
@@ -963,17 +963,17 @@ learn_web_development/extensions/server-side/first_steps/web_frameworks,null
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
 learn_web_development/extensions/testing,5
-learn_web_development/extensions/testing/automated_testing,15
+learn_web_development/extensions/testing/automated_testing,16
 learn_web_development/extensions/testing/feature_detection,13
 learn_web_development/extensions/testing/html_and_css,21
 learn_web_development/extensions/testing/introduction,10
 learn_web_development/extensions/testing/testing_strategies,11
 learn_web_development/extensions/testing/your_own_automation_environment,15
 learn_web_development/getting_started,5
-learn_web_development/getting_started/environment_setup,4
+learn_web_development/getting_started/environment_setup,5
 learn_web_development/getting_started/environment_setup/browsing_the_web,10
 learn_web_development/getting_started/environment_setup/code_editors,4
-learn_web_development/getting_started/environment_setup/command_line,0
+learn_web_development/getting_started/environment_setup/command_line,1
 learn_web_development/getting_started/environment_setup/dealing_with_files,12
 learn_web_development/getting_started/environment_setup/installing_software,14
 learn_web_development/getting_started/soft_skills,0
@@ -988,7 +988,7 @@ learn_web_development/getting_started/web_standards/the_web_standards_model,13
 learn_web_development/getting_started/your_first_website,0
 learn_web_development/getting_started/your_first_website/adding_interactivity,15
 learn_web_development/getting_started/your_first_website/creating_the_content,2
-learn_web_development/getting_started/your_first_website/publishing_your_website,11
+learn_web_development/getting_started/your_first_website/publishing_your_website,12
 learn_web_development/getting_started/your_first_website/styling_the_content,15
 learn_web_development/getting_started/your_first_website/what_will_your_website_look_like,9
 learn_web_development/howto,5
@@ -1019,7 +1019,7 @@ learn_web_development/howto/tools_and_setup/checking_that_your_web_site_is_worki
 learn_web_development/howto/tools_and_setup/how_much_does_it_cost,null
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,null
 learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,null
-learn_web_development/howto/tools_and_setup/using_github_pages,6
+learn_web_development/howto/tools_and_setup/using_github_pages,7
 learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,2
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,13
 learn_web_development/howto/web_mechanics,null
@@ -2533,7 +2533,7 @@ web/api/authenticatorattestationresponse/getpublickeyalgorithm,0
 web/api/authenticatorattestationresponse/gettransports,null
 web/api/authenticatorresponse,null
 web/api/authenticatorresponse/clientdatajson,null
-web/api/background_fetch_api,2
+web/api/background_fetch_api,3
 web/api/background_synchronization_api,0
 web/api/background_tasks_api,null
 web/api/backgroundfetchevent,null
@@ -3802,7 +3802,7 @@ web/api/editcontext/updateselectionbounds,null
 web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,13
+web/api/element,14
 web/api/element/activeviewtransition,0
 web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
@@ -3821,7 +3821,7 @@ web/api/element/ariabusy,0
 web/api/element/ariachecked,0
 web/api/element/ariacolcount,0
 web/api/element/ariacolindex,0
-web/api/element/ariacolindextext,0
+web/api/element/ariacolindextext,1
 web/api/element/ariacolspan,null
 web/api/element/ariacontrolselements,null
 web/api/element/ariacurrent,null
@@ -4228,7 +4228,7 @@ web/api/file/webkitrelativepath,null
 web/api/file_and_directory_entries_api,null
 web/api/file_api,1
 web/api/file_api/using_files_from_web_applications,8
-web/api/file_system_api,3
+web/api/file_system_api,4
 web/api/file_system_api/origin_private_file_system,2
 web/api/fileentrysync,null
 web/api/filelist,0
@@ -9680,7 +9680,7 @@ web/api/websocket/readystate,0
 web/api/websocket/send,null
 web/api/websocket/url,0
 web/api/websocket/websocket,null
-web/api/websockets_api,13
+web/api/websockets_api,14
 web/api/websockets_api/using_websocketstream,null
 web/api/websockets_api/writing_a_websocket_server_in_java,1
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,2
@@ -10679,7 +10679,7 @@ web/css/reference/at-rules/@media/vertical-viewport-segments,null
 web/css/reference/at-rules/@media/video-dynamic-range,null
 web/css/reference/at-rules/@media/width,null
 web/css/reference/at-rules/@namespace,null
-web/css/reference/at-rules/@page,6
+web/css/reference/at-rules/@page,7
 web/css/reference/at-rules/@page/page-orientation,null
 web/css/reference/at-rules/@page/size,null
 web/css/reference/at-rules/@position-try,null
@@ -11929,7 +11929,7 @@ web/http/guides/session,null
 web/http/guides/user-agent_reduction,null
 web/http/reference,1
 web/http/reference/headers,20
-web/http/reference/headers/accept,0
+web/http/reference/headers/accept,1
 web/http/reference/headers/accept-ch,5
 web/http/reference/headers/accept-encoding,5
 web/http/reference/headers/accept-language,3
@@ -13592,7 +13592,7 @@ web/javascript/reference/template_literals,null
 web/javascript/reference/trailing_commas,null
 web/mathml,11
 web/mathml/guides,null
-web/mathml/guides/authoring,8
+web/mathml/guides/authoring,10
 web/mathml/guides/deriving_the_quadratic_formula,null
 web/mathml/guides/fonts,6
 web/mathml/guides/proving_the_pythagorean_theorem,1

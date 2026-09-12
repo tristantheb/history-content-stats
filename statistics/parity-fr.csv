@@ -101,7 +101,7 @@ glossary/baseline,0
 glossary/baseline/compatibility,0
 glossary/baseline/typography,0
 glossary/bcp_47_language_tag,0
-glossary/beacon,0
+glossary/beacon,1
 glossary/bezier_curve,0
 glossary/bfcache,0
 glossary/bidi,0
@@ -270,7 +270,7 @@ glossary/flexbox,0
 glossary/flow_relative_values,0
 glossary/forbidden_request_header,0
 glossary/forbidden_response_header_name,0
-glossary/fork,0
+glossary/fork,1
 glossary/fps,0
 glossary/fragmentainer,0
 glossary/ftp,0
@@ -287,7 +287,7 @@ glossary/global_object,0
 glossary/global_scope,0
 glossary/global_variable,0
 glossary/glyph,0
-glossary/google_chrome,0
+glossary/google_chrome,1
 glossary/gpl,0
 glossary/gpu,0
 glossary/graceful_degradation,0
@@ -387,7 +387,7 @@ glossary/local_variable,0
 glossary/locale,0
 glossary/localization,0
 glossary/logical_properties,0
-glossary/long_task,0
+glossary/long_task,1
 glossary/loop,0
 glossary/lossless_compression,0
 glossary/lossy_compression,0
@@ -495,7 +495,7 @@ glossary/pseudo-class,0
 glossary/pseudo-element,0
 glossary/pseudocode,0
 glossary/public-key_cryptography,0
-glossary/python,0
+glossary/python,1
 glossary/quality_values,0
 glossary/quaternion,0
 glossary/quic,0
@@ -571,7 +571,7 @@ glossary/simd,0
 glossary/sisd,0
 glossary/site,0
 glossary/site_map,0
-glossary/sld,0
+glossary/sld,1
 glossary/sloppy_mode,0
 glossary/slug,0
 glossary/smoke_test,0
@@ -620,7 +620,7 @@ glossary/tag,0
 glossary/tcp,0
 glossary/tcp_handshake,0
 glossary/tcp_slow_start,0
-glossary/telnet,0
+glossary/telnet,1
 glossary/texel,0
 glossary/thread,0
 glossary/three_js,0
@@ -711,7 +711,7 @@ learn_web_development/core/accessibility/test_your_skills/css_and_javascript,nul
 learn_web_development/core/accessibility/test_your_skills/html,null
 learn_web_development/core/accessibility/test_your_skills/wai-aria,null
 learn_web_development/core/accessibility/tooling,3
-learn_web_development/core/accessibility/wai-aria_basics,21
+learn_web_development/core/accessibility/wai-aria_basics,22
 learn_web_development/core/accessibility/what_is_accessibility,null
 learn_web_development/core/css_layout,null
 learn_web_development/core/css_layout/flexbox,0
@@ -853,7 +853,7 @@ learn_web_development/extensions,0
 learn_web_development/extensions/advanced_javascript_objects,5
 learn_web_development/extensions/advanced_javascript_objects/adding_bouncing_balls_features,null
 learn_web_development/extensions/advanced_javascript_objects/classes_in_javascript,null
-learn_web_development/extensions/advanced_javascript_objects/object-oriented_programming,0
+learn_web_development/extensions/advanced_javascript_objects/object-oriented_programming,1
 learn_web_development/extensions/advanced_javascript_objects/object_building_practice,null
 learn_web_development/extensions/advanced_javascript_objects/object_prototypes,null
 learn_web_development/extensions/advanced_javascript_objects/test_your_skills,null
@@ -970,15 +970,15 @@ learn_web_development/extensions/testing/introduction,null
 learn_web_development/extensions/testing/testing_strategies,null
 learn_web_development/extensions/testing/your_own_automation_environment,null
 learn_web_development/getting_started,0
-learn_web_development/getting_started/environment_setup,0
+learn_web_development/getting_started/environment_setup,1
 learn_web_development/getting_started/environment_setup/browsing_the_web,0
 learn_web_development/getting_started/environment_setup/code_editors,0
-learn_web_development/getting_started/environment_setup/command_line,0
+learn_web_development/getting_started/environment_setup/command_line,1
 learn_web_development/getting_started/environment_setup/dealing_with_files,1
 learn_web_development/getting_started/environment_setup/installing_software,0
 learn_web_development/getting_started/soft_skills,0
-learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,0
-learn_web_development/getting_started/soft_skills/finding_a_job,0
+learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,1
+learn_web_development/getting_started/soft_skills/finding_a_job,1
 learn_web_development/getting_started/soft_skills/research_and_learning,0
 learn_web_development/getting_started/soft_skills/workflows_and_processes,0
 learn_web_development/getting_started/web_standards,0
@@ -988,7 +988,7 @@ learn_web_development/getting_started/web_standards/the_web_standards_model,0
 learn_web_development/getting_started/your_first_website,0
 learn_web_development/getting_started/your_first_website/adding_interactivity,0
 learn_web_development/getting_started/your_first_website/creating_the_content,0
-learn_web_development/getting_started/your_first_website/publishing_your_website,0
+learn_web_development/getting_started/your_first_website/publishing_your_website,1
 learn_web_development/getting_started/your_first_website/styling_the_content,0
 learn_web_development/getting_started/your_first_website/what_will_your_website_look_like,0
 learn_web_development/howto,null
@@ -1030,19 +1030,19 @@ learn_web_development/howto/web_mechanics/what_is_a_domain_name,null
 learn_web_development/howto/web_mechanics/what_is_a_url,10
 learn_web_development/howto/web_mechanics/what_is_a_web_server,null
 mdn,0
-mdn/community,0
+mdn/community,1
 mdn/community/communication_channels,0
 mdn/community/community_participation_guidelines,0
 mdn/community/discussions,0
 mdn/community/discussions/managing_and_resolving_discussions,0
-mdn/community/getting_started,0
-mdn/community/issues,0
+mdn/community/getting_started,1
+mdn/community/issues,1
 mdn/community/issues/content_suggestions_feature_proposals,0
 mdn/community/learn_forum,0
-mdn/community/open_source_etiquette,0
+mdn/community/open_source_etiquette,1
 mdn/community/our_repositories,0
 mdn/community/pull_requests,0
-mdn/community/roles_teams,0
+mdn/community/roles_teams,1
 mdn/community/translated_content,0
 mdn/guides,0
 mdn/kitchensink,1
@@ -1954,7 +1954,7 @@ mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,1
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
-mozilla/firefox/releases/16,0
+mozilla/firefox/releases/16,1
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
 mozilla/firefox/releases/19,0
@@ -1999,13 +1999,13 @@ mozilla/firefox/releases/32,0
 mozilla/firefox/releases/33,0
 mozilla/firefox/releases/34,0
 mozilla/firefox/releases/35,0
-mozilla/firefox/releases/36,0
+mozilla/firefox/releases/36,1
 mozilla/firefox/releases/37,0
 mozilla/firefox/releases/38,0
 mozilla/firefox/releases/39,0
 mozilla/firefox/releases/4,0
 mozilla/firefox/releases/4/the_add-on_bar,0
-mozilla/firefox/releases/4/updating_extensions_for_firefox_4,0
+mozilla/firefox/releases/4/updating_extensions_for_firefox_4,1
 mozilla/firefox/releases/40,0
 mozilla/firefox/releases/41,0
 mozilla/firefox/releases/42,0
@@ -3555,7 +3555,7 @@ web/api/document/laststylesheetset,0
 web/api/document/linkcolor,0
 web/api/document/links,0
 web/api/document/location,0
-web/api/document/movebefore,0
+web/api/document/movebefore,1
 web/api/document/mozsetimageelement,0
 web/api/document/open,0
 web/api/document/parsehtml_static,0
@@ -3589,7 +3589,7 @@ web/api/document/scrollend_event,0
 web/api/document/scrollingelement,0
 web/api/document/scrollsnapchange_event,0
 web/api/document/scrollsnapchanging_event,0
-web/api/document/securitypolicyviolation_event,0
+web/api/document/securitypolicyviolation_event,1
 web/api/document/selectedstylesheetset,0
 web/api/document/selectionchange_event,0
 web/api/document/startviewtransition,0
@@ -3802,7 +3802,7 @@ web/api/editcontext/updateselectionbounds,null
 web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,0
+web/api/element,1
 web/api/element/activeviewtransition,0
 web/api/element/after,0
 web/api/element/afterscriptexecute_event,0
@@ -3821,7 +3821,7 @@ web/api/element/ariabusy,0
 web/api/element/ariachecked,0
 web/api/element/ariacolcount,0
 web/api/element/ariacolindex,0
-web/api/element/ariacolindextext,0
+web/api/element/ariacolindextext,1
 web/api/element/ariacolspan,0
 web/api/element/ariacontrolselements,0
 web/api/element/ariacurrent,0
@@ -3855,7 +3855,7 @@ web/api/element/ariarequired,0
 web/api/element/ariaroledescription,0
 web/api/element/ariarowcount,0
 web/api/element/ariarowindex,0
-web/api/element/ariarowindextext,0
+web/api/element/ariarowindextext,1
 web/api/element/ariarowspan,0
 web/api/element/ariaselected,0
 web/api/element/ariasetsize,0
@@ -3926,10 +3926,10 @@ web/api/element/hasattributens,0
 web/api/element/hasattributes,0
 web/api/element/haspointercapture,0
 web/api/element/id,1
-web/api/element/innerhtml,0
+web/api/element/innerhtml,1
 web/api/element/input_event,1
 web/api/element/insertadjacentelement,0
-web/api/element/insertadjacenthtml,0
+web/api/element/insertadjacenthtml,1
 web/api/element/insertadjacenttext,0
 web/api/element/keydown_event,0
 web/api/element/keypress_event,0
@@ -3946,7 +3946,7 @@ web/api/element/mouseout_event,0
 web/api/element/mouseover_event,0
 web/api/element/mouseup_event,0
 web/api/element/mousewheel_event,0
-web/api/element/movebefore,0
+web/api/element/movebefore,1
 web/api/element/mozmousepixelscroll_event,0
 web/api/element/namespaceuri,0
 web/api/element/nextelementsibling,0
@@ -3993,7 +3993,7 @@ web/api/element/scrollto,0
 web/api/element/scrolltop,0
 web/api/element/scrolltopmax,0
 web/api/element/scrollwidth,0
-web/api/element/securitypolicyviolation_event,0
+web/api/element/securitypolicyviolation_event,1
 web/api/element/setattribute,0
 web/api/element/setattributenode,0
 web/api/element/setattributenodens,0
@@ -4228,7 +4228,7 @@ web/api/file/webkitrelativepath,null
 web/api/file_and_directory_entries_api,null
 web/api/file_api,null
 web/api/file_api/using_files_from_web_applications,23
-web/api/file_system_api,0
+web/api/file_system_api,1
 web/api/file_system_api/origin_private_file_system,null
 web/api/fileentrysync,null
 web/api/filelist,4
@@ -6780,8 +6780,8 @@ web/api/performancenavigationtiming/notrestoredreasons,null
 web/api/performancenavigationtiming/redirectcount,null
 web/api/performancenavigationtiming/tojson,null
 web/api/performancenavigationtiming/type,null
-web/api/performancenavigationtiming/unloadeventend,0
-web/api/performancenavigationtiming/unloadeventstart,0
+web/api/performancenavigationtiming/unloadeventend,1
+web/api/performancenavigationtiming/unloadeventstart,1
 web/api/performanceobserver,null
 web/api/performanceobserver/disconnect,null
 web/api/performanceobserver/observe,null
@@ -9680,7 +9680,7 @@ web/api/websocket/readystate,0
 web/api/websocket/send,0
 web/api/websocket/url,0
 web/api/websocket/websocket,0
-web/api/websockets_api,0
+web/api/websockets_api,1
 web/api/websockets_api/using_websocketstream,null
 web/api/websockets_api/writing_a_websocket_server_in_java,null
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,null
@@ -10626,7 +10626,7 @@ web/css/reference/at-rules/@font-face/src,1
 web/css/reference/at-rules/@font-face/unicode-range,0
 web/css/reference/at-rules/@font-feature-values,0
 web/css/reference/at-rules/@font-feature-values/font-display,0
-web/css/reference/at-rules/@font-palette-values,0
+web/css/reference/at-rules/@font-palette-values,1
 web/css/reference/at-rules/@font-palette-values/base-palette,0
 web/css/reference/at-rules/@font-palette-values/font-family,0
 web/css/reference/at-rules/@font-palette-values/override-colors,0
@@ -10679,7 +10679,7 @@ web/css/reference/at-rules/@media/vertical-viewport-segments,0
 web/css/reference/at-rules/@media/video-dynamic-range,0
 web/css/reference/at-rules/@media/width,0
 web/css/reference/at-rules/@namespace,0
-web/css/reference/at-rules/@page,0
+web/css/reference/at-rules/@page,1
 web/css/reference/at-rules/@page/page-orientation,0
 web/css/reference/at-rules/@page/size,0
 web/css/reference/at-rules/@position-try,0
@@ -11502,7 +11502,7 @@ web/css/reference/values/easing-function/cubic-bezier,0
 web/css/reference/values/easing-function/linear,0
 web/css/reference/values/easing-function/steps,0
 web/css/reference/values/element,0
-web/css/reference/values/env,0
+web/css/reference/values/env,1
 web/css/reference/values/exp,0
 web/css/reference/values/filter-function,0
 web/css/reference/values/filter-function/blur,0
@@ -11539,7 +11539,7 @@ web/css/reference/values/image,0
 web/css/reference/values/image/image,0
 web/css/reference/values/image/image-set,0
 web/css/reference/values/image/paint,0
-web/css/reference/values/important,0
+web/css/reference/values/important,1
 web/css/reference/values/inherit,0
 web/css/reference/values/initial,0
 web/css/reference/values/integer,0
@@ -11558,7 +11558,7 @@ web/css/reference/values/named-color,0
 web/css/reference/values/number,0
 web/css/reference/values/overflow-position,0
 web/css/reference/values/overflow_value,0
-web/css/reference/values/param,0
+web/css/reference/values/param,1
 web/css/reference/values/percentage,0
 web/css/reference/values/position-area_value,0
 web/css/reference/values/position_value,0
@@ -11929,7 +11929,7 @@ web/http/guides/session,null
 web/http/guides/user-agent_reduction,null
 web/http/reference,0
 web/http/reference/headers,1
-web/http/reference/headers/accept,0
+web/http/reference/headers/accept,1
 web/http/reference/headers/accept-ch,0
 web/http/reference/headers/accept-encoding,0
 web/http/reference/headers/accept-language,0
@@ -13765,7 +13765,7 @@ web/progressive_web_apps/tutorials/cycletracker,9
 web/progressive_web_apps/tutorials/cycletracker/html_and_css,1
 web/progressive_web_apps/tutorials/cycletracker/javascript_functionality,14
 web/progressive_web_apps/tutorials/cycletracker/manifest_file,25
-web/progressive_web_apps/tutorials/cycletracker/secure_connection,15
+web/progressive_web_apps/tutorials/cycletracker/secure_connection,16
 web/progressive_web_apps/tutorials/cycletracker/service_workers,null
 web/progressive_web_apps/tutorials/js13kgames,5
 web/progressive_web_apps/tutorials/js13kgames/app_structure,9
