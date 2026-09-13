@@ -1068,7 +1068,7 @@ mdn/writing_guidelines/howto/markdown_in_mdn,0
 mdn/writing_guidelines/howto/research_technology,0
 mdn/writing_guidelines/howto/retiring_content,0
 mdn/writing_guidelines/howto/retiring_content/retired_content,1
-mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,0
+mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,1
 mdn/writing_guidelines/howto/write_an_api_reference,0
 mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,1
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,0
@@ -1083,7 +1083,7 @@ mdn/writing_guidelines/page_structures/live_samples,0
 mdn/writing_guidelines/page_structures/macros,0
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,2
 mdn/writing_guidelines/page_structures/macros/other,0
-mdn/writing_guidelines/page_structures/page_types,1
+mdn/writing_guidelines/page_structures/page_types,2
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,1
