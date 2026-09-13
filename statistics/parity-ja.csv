@@ -1,7 +1,7 @@
 Path,ParityCount
-games,9
+games,0
 games/anatomy,null
-games/introduction,3
+games/introduction,0
 games/publishing_games,2
 games/publishing_games/game_distribution,null
 games/publishing_games/game_monetization,null
@@ -1951,7 +1951,7 @@ mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,3
 mozilla/firefox/releases/154,0
-mozilla/firefox/releases/155,1
+mozilla/firefox/releases/155,2
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
 mozilla/firefox/releases/16,1
@@ -3911,8 +3911,8 @@ web/api/element/gesturestart_event,2
 web/api/element/getanimations,7
 web/api/element/getattribute,0
 web/api/element/getattributenames,0
-web/api/element/getattributenode,3
-web/api/element/getattributenodens,4
+web/api/element/getattributenode,0
+web/api/element/getattributenodens,0
 web/api/element/getattributens,7
 web/api/element/getboundingclientrect,1
 web/api/element/getclientrects,7
