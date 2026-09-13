@@ -915,7 +915,7 @@ mdn/community/roles_teams,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 mdn/community/translated_content,0b2ddf6c871a55eebe31f4d8808b8c975bfa41a8
 mdn/guides,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 mdn,cdf5bebefe9bb292b3aa6c9e733ba06a8466016e
-mdn/kitchensink,f69b6693212029ce4b9fa0c753729044577af548
+mdn/kitchensink,32ba792708c61221f9ddf725c0a52dba573414bc
 mdn/tutorials,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 mdn/writing_guidelines/attrib_copyright_license,24b4a3d9e5488d5c5600cf8eb278484d47bca07e
 mdn/writing_guidelines/changelog,702cd9e4d2834e13aea345943efc8d0c03d92ec9
@@ -1305,7 +1305,7 @@ mozilla/add-ons/webextensions/api/runtime/id,no_hash_commit
 mozilla/add-ons/webextensions/api/runtime,9791add3508e087982097f25fbd367c21bcb8305
 mozilla/add-ons/webextensions/api/runtime/lasterror,no_hash_commit
 mozilla/add-ons/webextensions/api/runtime/messagesender,no_hash_commit
-mozilla/add-ons/webextensions/api/runtime/onbrowserupdateavailable,no_hash_commit
+mozilla/add-ons/webextensions/api/runtime/onbrowserupdateavailable,32ba792708c61221f9ddf725c0a52dba573414bc
 mozilla/add-ons/webextensions/api/runtime/onconnect,no_hash_commit
 mozilla/add-ons/webextensions/api/runtime/onconnectexternal,no_hash_commit
 mozilla/add-ons/webextensions/api/runtime/oninstalled,no_hash_commit
@@ -2692,7 +2692,7 @@ web/api/html_drag_and_drop_api/file_drag_and_drop,b2c48c8b7c097aeab4bc15a388c913
 web/api/html_drag_and_drop_api,3385bda58637833eedc9b8dc41a2804e653208a7
 web/api/html_drag_and_drop_api/kanban_board,8432c4ca716350c34d197c130e6fe93de5c8250c
 web/api/html_sanitizer_api,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5
-web/api/htmlallcollection,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7
+web/api/htmlallcollection,32ba792708c61221f9ddf725c0a52dba573414bc
 web/api/htmlallcollection/item,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7
 web/api/htmlallcollection/length,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7
 web/api/htmlallcollection/nameditem,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7
