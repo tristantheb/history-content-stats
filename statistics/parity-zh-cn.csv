@@ -495,7 +495,7 @@ glossary/pseudo-class,3
 glossary/pseudo-element,3
 glossary/pseudocode,1
 glossary/public-key_cryptography,4
-glossary/python,6
+glossary/python,7
 glossary/quality_values,3
 glossary/quaternion,2
 glossary/quic,2
@@ -866,7 +866,7 @@ learn_web_development/extensions/async_js/promises,7
 learn_web_development/extensions/async_js/sequencing_animations,null
 learn_web_development/extensions/client-side_apis,7
 learn_web_development/extensions/client-side_apis/client-side_storage,6
-learn_web_development/extensions/client-side_apis/drawing_graphics,17
+learn_web_development/extensions/client-side_apis/drawing_graphics,18
 learn_web_development/extensions/client-side_apis/introduction,7
 learn_web_development/extensions/client-side_apis/third_party_apis,10
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,18
@@ -10465,7 +10465,7 @@ web/css/guides/flexible_box_layout/use_cases,5
 web/css/guides/flexible_box_layout/wrapping_items,null
 web/css/guides/font_loading,null
 web/css/guides/fonts,null
-web/css/guides/fonts/opentype_fonts,3
+web/css/guides/fonts/opentype_fonts,4
 web/css/guides/fonts/variable_fonts,null
 web/css/guides/fonts/woff,null
 web/css/guides/fragmentation,null
@@ -11223,7 +11223,7 @@ web/css/reference/properties/text-decoration-style,null
 web/css/reference/properties/text-decoration-thickness,2
 web/css/reference/properties/text-emphasis,8
 web/css/reference/properties/text-emphasis-color,3
-web/css/reference/properties/text-emphasis-position,3
+web/css/reference/properties/text-emphasis-position,4
 web/css/reference/properties/text-emphasis-style,3
 web/css/reference/properties/text-indent,9
 web/css/reference/properties/text-justify,null

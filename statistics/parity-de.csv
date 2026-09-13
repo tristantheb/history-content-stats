@@ -16,7 +16,7 @@ games/techniques/3d_on_the_web/building_up_a_basic_demo_with_a-frame,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_babylon.js,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/editor,0
-games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/engine,0
+games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/engine,1
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,0
 games/techniques/3d_on_the_web/glsl_shaders,0
 games/techniques/3d_on_the_web/webxr,0
@@ -29,7 +29,7 @@ games/techniques/control_mechanisms/mobile_touch,0
 games/techniques/control_mechanisms/other,0
 games/techniques/controls_gamepad_api,0
 games/techniques/crisp_pixel_art_look,0
-games/techniques/tilemaps,0
+games/techniques/tilemaps,1
 games/techniques/tilemaps/square_tilemaps_implementation_colon__scrolling_maps,0
 games/techniques/tilemaps/square_tilemaps_implementation_colon__static_maps,0
 games/techniques/webrtc_data_channels,0
@@ -495,7 +495,7 @@ glossary/pseudo-class,0
 glossary/pseudo-element,0
 glossary/pseudocode,0
 glossary/public-key_cryptography,0
-glossary/python,0
+glossary/python,1
 glossary/quality_values,0
 glossary/quaternion,0
 glossary/quic,0
@@ -866,7 +866,7 @@ learn_web_development/extensions/async_js/promises,0
 learn_web_development/extensions/async_js/sequencing_animations,0
 learn_web_development/extensions/client-side_apis,0
 learn_web_development/extensions/client-side_apis/client-side_storage,0
-learn_web_development/extensions/client-side_apis/drawing_graphics,0
+learn_web_development/extensions/client-side_apis/drawing_graphics,1
 learn_web_development/extensions/client-side_apis/introduction,0
 learn_web_development/extensions/client-side_apis/third_party_apis,0
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,0
@@ -1018,7 +1018,7 @@ learn_web_development/howto/tools_and_setup/available_text_editors,0
 learn_web_development/howto/tools_and_setup/checking_that_your_web_site_is_working_properly,0
 learn_web_development/howto/tools_and_setup/how_much_does_it_cost,0
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,0
-learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,0
+learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,1
 learn_web_development/howto/tools_and_setup/using_github_pages,0
 learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,0
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,0
@@ -1068,7 +1068,7 @@ mdn/writing_guidelines/howto/markdown_in_mdn,0
 mdn/writing_guidelines/howto/research_technology,0
 mdn/writing_guidelines/howto/retiring_content,0
 mdn/writing_guidelines/howto/retiring_content/retired_content,0
-mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,0
+mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,1
 mdn/writing_guidelines/howto/write_an_api_reference,0
 mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,0
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,0
@@ -1083,7 +1083,7 @@ mdn/writing_guidelines/page_structures/live_samples,0
 mdn/writing_guidelines/page_structures/macros,0
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,0
 mdn/writing_guidelines/page_structures/macros/other,0
-mdn/writing_guidelines/page_structures/page_types,1
+mdn/writing_guidelines/page_structures/page_types,2
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,0
@@ -7250,7 +7250,7 @@ web/api/rtcaudiosourcestats/trackidentifier,0
 web/api/rtcaudiosourcestats/type,0
 web/api/rtccertificate,0
 web/api/rtccertificate/expires,0
-web/api/rtccertificate/getfingerprints,0
+web/api/rtccertificate/getfingerprints,1
 web/api/rtccertificatestats,0
 web/api/rtccertificatestats/base64certificate,0
 web/api/rtccertificatestats/fingerprint,0
@@ -7572,7 +7572,7 @@ web/api/rtcpeerconnectioniceevent,0
 web/api/rtcpeerconnectioniceevent/candidate,0
 web/api/rtcpeerconnectioniceevent/rtcpeerconnectioniceevent,0
 web/api/rtcpeerconnectioniceevent/url,0
-web/api/rtcpeerconnectionstats,0
+web/api/rtcpeerconnectionstats,1
 web/api/rtcpeerconnectionstats/datachannelsclosed,0
 web/api/rtcpeerconnectionstats/datachannelsopened,0
 web/api/rtcpeerconnectionstats/id,0
@@ -9363,7 +9363,7 @@ web/api/web_components/using_custom_elements,0
 web/api/web_components/using_shadow_dom,0
 web/api/web_components/using_templates_and_slots,0
 web/api/web_crypto_api,0
-web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,0
+web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,1
 web/api/web_locks_api,0
 web/api/web_midi_api,0
 web/api/web_nfc_api,0
@@ -10465,7 +10465,7 @@ web/css/guides/flexible_box_layout/use_cases,0
 web/css/guides/flexible_box_layout/wrapping_items,0
 web/css/guides/font_loading,0
 web/css/guides/fonts,0
-web/css/guides/fonts/opentype_fonts,0
+web/css/guides/fonts/opentype_fonts,1
 web/css/guides/fonts/variable_fonts,0
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
@@ -11223,7 +11223,7 @@ web/css/reference/properties/text-decoration-style,0
 web/css/reference/properties/text-decoration-thickness,0
 web/css/reference/properties/text-emphasis,0
 web/css/reference/properties/text-emphasis-color,0
-web/css/reference/properties/text-emphasis-position,0
+web/css/reference/properties/text-emphasis-position,1
 web/css/reference/properties/text-emphasis-style,0
 web/css/reference/properties/text-indent,0
 web/css/reference/properties/text-justify,0
@@ -13734,7 +13734,7 @@ web/progressive_web_apps/guides/best_practices,0
 web/progressive_web_apps/guides/caching,0
 web/progressive_web_apps/guides/installing,0
 web/progressive_web_apps/guides/making_pwas_installable,0
-web/progressive_web_apps/guides/offline_and_background_operation,0
+web/progressive_web_apps/guides/offline_and_background_operation,1
 web/progressive_web_apps/guides/what_is_a_progressive_web_app,0
 web/progressive_web_apps/how_to,0
 web/progressive_web_apps/how_to/associate_files_with_your_pwa,0

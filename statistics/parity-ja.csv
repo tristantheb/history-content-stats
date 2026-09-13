@@ -495,7 +495,7 @@ glossary/pseudo-class,null
 glossary/pseudo-element,3
 glossary/pseudocode,null
 glossary/public-key_cryptography,1
-glossary/python,1
+glossary/python,2
 glossary/quality_values,3
 glossary/quaternion,null
 glossary/quic,3
@@ -866,7 +866,7 @@ learn_web_development/extensions/async_js/promises,5
 learn_web_development/extensions/async_js/sequencing_animations,2
 learn_web_development/extensions/client-side_apis,3
 learn_web_development/extensions/client-side_apis/client-side_storage,1
-learn_web_development/extensions/client-side_apis/drawing_graphics,3
+learn_web_development/extensions/client-side_apis/drawing_graphics,4
 learn_web_development/extensions/client-side_apis/introduction,1
 learn_web_development/extensions/client-side_apis/third_party_apis,2
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,2
@@ -1018,7 +1018,7 @@ learn_web_development/howto/tools_and_setup/available_text_editors,8
 learn_web_development/howto/tools_and_setup/checking_that_your_web_site_is_working_properly,2
 learn_web_development/howto/tools_and_setup/how_much_does_it_cost,6
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,2
-learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,1
+learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,2
 learn_web_development/howto/tools_and_setup/using_github_pages,2
 learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,4
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,5
@@ -1068,7 +1068,7 @@ mdn/writing_guidelines/howto/markdown_in_mdn,9
 mdn/writing_guidelines/howto/research_technology,5
 mdn/writing_guidelines/howto/retiring_content,0
 mdn/writing_guidelines/howto/retiring_content/retired_content,0
-mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,3
+mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,4
 mdn/writing_guidelines/howto/write_an_api_reference,13
 mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,2
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,5
@@ -1083,7 +1083,7 @@ mdn/writing_guidelines/page_structures/live_samples,2
 mdn/writing_guidelines/page_structures/macros,3
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,12
 mdn/writing_guidelines/page_structures/macros/other,0
-mdn/writing_guidelines/page_structures/page_types,1
+mdn/writing_guidelines/page_structures/page_types,2
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,1
@@ -9363,7 +9363,7 @@ web/api/web_components/using_custom_elements,7
 web/api/web_components/using_shadow_dom,4
 web/api/web_components/using_templates_and_slots,4
 web/api/web_crypto_api,0
-web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,0
+web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,1
 web/api/web_locks_api,5
 web/api/web_midi_api,6
 web/api/web_nfc_api,0
@@ -10465,7 +10465,7 @@ web/css/guides/flexible_box_layout/use_cases,2
 web/css/guides/flexible_box_layout/wrapping_items,1
 web/css/guides/font_loading,0
 web/css/guides/fonts,2
-web/css/guides/fonts/opentype_fonts,2
+web/css/guides/fonts/opentype_fonts,3
 web/css/guides/fonts/variable_fonts,2
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
@@ -11223,7 +11223,7 @@ web/css/reference/properties/text-decoration-style,1
 web/css/reference/properties/text-decoration-thickness,1
 web/css/reference/properties/text-emphasis,3
 web/css/reference/properties/text-emphasis-color,2
-web/css/reference/properties/text-emphasis-position,2
+web/css/reference/properties/text-emphasis-position,3
 web/css/reference/properties/text-emphasis-style,2
 web/css/reference/properties/text-indent,3
 web/css/reference/properties/text-justify,2
@@ -13734,7 +13734,7 @@ web/progressive_web_apps/guides/best_practices,5
 web/progressive_web_apps/guides/caching,3
 web/progressive_web_apps/guides/installing,5
 web/progressive_web_apps/guides/making_pwas_installable,10
-web/progressive_web_apps/guides/offline_and_background_operation,6
+web/progressive_web_apps/guides/offline_and_background_operation,7
 web/progressive_web_apps/guides/what_is_a_progressive_web_app,5
 web/progressive_web_apps/how_to,1
 web/progressive_web_apps/how_to/associate_files_with_your_pwa,2
