@@ -1050,7 +1050,7 @@ mdn/tutorials,5
 mdn/writing_guidelines,1
 mdn/writing_guidelines/attrib_copyright_license,1
 mdn/writing_guidelines/changelog,0
-mdn/writing_guidelines/code_style_guide,0
+mdn/writing_guidelines/code_style_guide,1
 mdn/writing_guidelines/code_style_guide/css,1
 mdn/writing_guidelines/code_style_guide/html,0
 mdn/writing_guidelines/code_style_guide/javascript,1
@@ -1968,6 +1968,7 @@ mozilla/firefox/releases/154,null
 mozilla/firefox/releases/155,null
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
+mozilla/firefox/releases/158,null
 mozilla/firefox/releases/16,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
@@ -12098,6 +12099,7 @@ web/http/reference/headers/permissions-policy/speaker-selection,null
 web/http/reference/headers/permissions-policy/storage-access,null
 web/http/reference/headers/permissions-policy/summarizer,null
 web/http/reference/headers/permissions-policy/translator,null
+web/http/reference/headers/permissions-policy/unload,null
 web/http/reference/headers/permissions-policy/usb,null
 web/http/reference/headers/permissions-policy/web-share,null
 web/http/reference/headers/permissions-policy/window-management,null

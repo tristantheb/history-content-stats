@@ -1968,6 +1968,7 @@ mozilla/firefox/releases/154,null
 mozilla/firefox/releases/155,null
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
+mozilla/firefox/releases/158,null
 mozilla/firefox/releases/16,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
@@ -9933,7 +9934,7 @@ web/api/window/toolbar,1
 web/api/window/top,null
 web/api/window/trustedtypes,null
 web/api/window/unhandledrejection_event,null
-web/api/window/unload_event,5
+web/api/window/unload_event,6
 web/api/window/viewport,null
 web/api/window/visualviewport,null
 web/api/window/vrdisplayactivate_event,null
@@ -12098,6 +12099,7 @@ web/http/reference/headers/permissions-policy/speaker-selection,null
 web/http/reference/headers/permissions-policy/storage-access,null
 web/http/reference/headers/permissions-policy/summarizer,null
 web/http/reference/headers/permissions-policy/translator,null
+web/http/reference/headers/permissions-policy/unload,null
 web/http/reference/headers/permissions-policy/usb,null
 web/http/reference/headers/permissions-policy/web-share,null
 web/http/reference/headers/permissions-policy/window-management,null

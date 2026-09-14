@@ -1050,7 +1050,7 @@ mdn/tutorials,0
 mdn/writing_guidelines,0
 mdn/writing_guidelines/attrib_copyright_license,0
 mdn/writing_guidelines/changelog,0
-mdn/writing_guidelines/code_style_guide,0
+mdn/writing_guidelines/code_style_guide,1
 mdn/writing_guidelines/code_style_guide/css,0
 mdn/writing_guidelines/code_style_guide/html,0
 mdn/writing_guidelines/code_style_guide/javascript,0
@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,5
 mozilla/firefox,0
-mozilla/firefox/experimental_features,18
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1964,10 +1964,11 @@ mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
-mozilla/firefox/releases/154,1
-mozilla/firefox/releases/155,3
-mozilla/firefox/releases/156,null
+mozilla/firefox/releases/154,0
+mozilla/firefox/releases/155,0
+mozilla/firefox/releases/156,0
 mozilla/firefox/releases/157,null
+mozilla/firefox/releases/158,null
 mozilla/firefox/releases/16,1
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -12050,7 +12051,7 @@ web/http/reference/headers/no-vary-search,0
 web/http/reference/headers/observe-browsing-topics,0
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,0
-web/http/reference/headers/permissions-policy,0
+web/http/reference/headers/permissions-policy,1
 web/http/reference/headers/permissions-policy-report-only,0
 web/http/reference/headers/permissions-policy/accelerometer,0
 web/http/reference/headers/permissions-policy/ambient-light-sensor,0
@@ -12098,6 +12099,7 @@ web/http/reference/headers/permissions-policy/speaker-selection,0
 web/http/reference/headers/permissions-policy/storage-access,0
 web/http/reference/headers/permissions-policy/summarizer,0
 web/http/reference/headers/permissions-policy/translator,0
+web/http/reference/headers/permissions-policy/unload,null
 web/http/reference/headers/permissions-policy/usb,0
 web/http/reference/headers/permissions-policy/web-share,0
 web/http/reference/headers/permissions-policy/window-management,0

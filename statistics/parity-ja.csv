@@ -1050,7 +1050,7 @@ mdn/tutorials,3
 mdn/writing_guidelines,5
 mdn/writing_guidelines/attrib_copyright_license,1
 mdn/writing_guidelines/changelog,1
-mdn/writing_guidelines/code_style_guide,3
+mdn/writing_guidelines/code_style_guide,4
 mdn/writing_guidelines/code_style_guide/css,9
 mdn/writing_guidelines/code_style_guide/html,2
 mdn/writing_guidelines/code_style_guide/javascript,4
@@ -1965,9 +1965,10 @@ mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,3
 mozilla/firefox/releases/154,1
-mozilla/firefox/releases/155,3
+mozilla/firefox/releases/155,4
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
+mozilla/firefox/releases/158,null
 mozilla/firefox/releases/16,1
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -9933,7 +9934,7 @@ web/api/window/toolbar,1
 web/api/window/top,1
 web/api/window/trustedtypes,0
 web/api/window/unhandledrejection_event,1
-web/api/window/unload_event,6
+web/api/window/unload_event,7
 web/api/window/viewport,0
 web/api/window/visualviewport,0
 web/api/window/vrdisplayactivate_event,9
@@ -12050,7 +12051,7 @@ web/http/reference/headers/no-vary-search,null
 web/http/reference/headers/observe-browsing-topics,null
 web/http/reference/headers/origin,1
 web/http/reference/headers/origin-agent-cluster,null
-web/http/reference/headers/permissions-policy,3
+web/http/reference/headers/permissions-policy,4
 web/http/reference/headers/permissions-policy-report-only,null
 web/http/reference/headers/permissions-policy/accelerometer,2
 web/http/reference/headers/permissions-policy/ambient-light-sensor,2
@@ -12098,6 +12099,7 @@ web/http/reference/headers/permissions-policy/speaker-selection,2
 web/http/reference/headers/permissions-policy/storage-access,3
 web/http/reference/headers/permissions-policy/summarizer,null
 web/http/reference/headers/permissions-policy/translator,null
+web/http/reference/headers/permissions-policy/unload,null
 web/http/reference/headers/permissions-policy/usb,2
 web/http/reference/headers/permissions-policy/web-share,2
 web/http/reference/headers/permissions-policy/window-management,2
