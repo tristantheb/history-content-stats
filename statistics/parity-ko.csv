@@ -13813,7 +13813,7 @@ web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,3
 web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,1
-web/security/defenses/secure_contexts,4
+web/security/defenses/secure_contexts,5
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,3
 web/security/defenses/subresource_integrity,4
 web/security/defenses/transport_layer_security,4

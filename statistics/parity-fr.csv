@@ -3475,7 +3475,7 @@ web/api/directoryreadersync,null
 web/api/document,1
 web/api/document/activeelement,0
 web/api/document/activeviewtransition,0
-web/api/document/adoptedstylesheets,0
+web/api/document/adoptedstylesheets,1
 web/api/document/adoptnode,0
 web/api/document/afterscriptexecute_event,0
 web/api/document/alinkcolor,0
@@ -13813,7 +13813,7 @@ web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,1
 web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,0
-web/security/defenses/secure_contexts,1
+web/security/defenses/secure_contexts,2
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,null
 web/security/defenses/subresource_integrity,3
 web/security/defenses/transport_layer_security,null
