@@ -10714,7 +10714,7 @@ web/css/reference/properties/-moz-force-broken-image-icon,4
 web/css/reference/properties/-moz-orient,3
 web/css/reference/properties/-moz-user-focus,4
 web/css/reference/properties/-moz-user-input,null
-web/css/reference/properties/-webkit-border-before,3
+web/css/reference/properties/-webkit-border-before,4
 web/css/reference/properties/-webkit-box-reflect,4
 web/css/reference/properties/-webkit-mask-box-image,1
 web/css/reference/properties/-webkit-mask-composite,null
@@ -10864,7 +10864,7 @@ web/css/reference/properties/color,null
 web/css/reference/properties/color-interpolation,null
 web/css/reference/properties/color-interpolation-filters,null
 web/css/reference/properties/color-scheme,null
-web/css/reference/properties/column-count,5
+web/css/reference/properties/column-count,6
 web/css/reference/properties/column-fill,4
 web/css/reference/properties/column-gap,null
 web/css/reference/properties/column-height,null
@@ -10876,7 +10876,7 @@ web/css/reference/properties/column-rule-style,4
 web/css/reference/properties/column-rule-visibility-items,null
 web/css/reference/properties/column-rule-width,4
 web/css/reference/properties/column-span,null
-web/css/reference/properties/column-width,6
+web/css/reference/properties/column-width,7
 web/css/reference/properties/column-wrap,null
 web/css/reference/properties/columns,null
 web/css/reference/properties/contain,null
@@ -11012,7 +11012,7 @@ web/css/reference/properties/left,null
 web/css/reference/properties/letter-spacing,null
 web/css/reference/properties/lighting-color,null
 web/css/reference/properties/line-break,null
-web/css/reference/properties/line-clamp,3
+web/css/reference/properties/line-clamp,4
 web/css/reference/properties/line-height,null
 web/css/reference/properties/line-height-step,null
 web/css/reference/properties/link-parameters,null
@@ -12967,11 +12967,11 @@ web/javascript/reference/global_objects/promise/finally,10
 web/javascript/reference/global_objects/promise/promise,9
 web/javascript/reference/global_objects/promise/race,null
 web/javascript/reference/global_objects/promise/reject,null
-web/javascript/reference/global_objects/promise/resolve,4
+web/javascript/reference/global_objects/promise/resolve,5
 web/javascript/reference/global_objects/promise/symbol.species,null
 web/javascript/reference/global_objects/promise/then,null
-web/javascript/reference/global_objects/promise/try,3
-web/javascript/reference/global_objects/promise/withresolvers,3
+web/javascript/reference/global_objects/promise/try,4
+web/javascript/reference/global_objects/promise/withresolvers,4
 web/javascript/reference/global_objects/proxy,0
 web/javascript/reference/global_objects/proxy/proxy,4
 web/javascript/reference/global_objects/proxy/proxy/apply,null
