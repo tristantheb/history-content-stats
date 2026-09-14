@@ -1050,7 +1050,7 @@ mdn/tutorials,5
 mdn/writing_guidelines,null
 mdn/writing_guidelines/attrib_copyright_license,null
 mdn/writing_guidelines/changelog,null
-mdn/writing_guidelines/code_style_guide,8
+mdn/writing_guidelines/code_style_guide,9
 mdn/writing_guidelines/code_style_guide/css,10
 mdn/writing_guidelines/code_style_guide/html,null
 mdn/writing_guidelines/code_style_guide/javascript,null
@@ -1968,6 +1968,7 @@ mozilla/firefox/releases/154,null
 mozilla/firefox/releases/155,null
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
+mozilla/firefox/releases/158,null
 mozilla/firefox/releases/16,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
@@ -12050,7 +12051,7 @@ web/http/reference/headers/no-vary-search,null
 web/http/reference/headers/observe-browsing-topics,null
 web/http/reference/headers/origin,null
 web/http/reference/headers/origin-agent-cluster,null
-web/http/reference/headers/permissions-policy,2
+web/http/reference/headers/permissions-policy,3
 web/http/reference/headers/permissions-policy-report-only,null
 web/http/reference/headers/permissions-policy/accelerometer,3
 web/http/reference/headers/permissions-policy/ambient-light-sensor,3
@@ -12098,6 +12099,7 @@ web/http/reference/headers/permissions-policy/speaker-selection,null
 web/http/reference/headers/permissions-policy/storage-access,null
 web/http/reference/headers/permissions-policy/summarizer,null
 web/http/reference/headers/permissions-policy/translator,null
+web/http/reference/headers/permissions-policy/unload,null
 web/http/reference/headers/permissions-policy/usb,null
 web/http/reference/headers/permissions-policy/web-share,2
 web/http/reference/headers/permissions-policy/window-management,null
