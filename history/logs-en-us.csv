@@ -1050,7 +1050,7 @@ mdn/tutorials,85fccefc8066bd49af4ddafc12c77f35265c7e2d,MDN
 mdn/writing_guidelines,f99d00a1c3697e26a679925954e26564e7e79b98,MDN|Writing Guidelines
 mdn/writing_guidelines/attrib_copyright_license,f4c221962681b1472cd57da60379ad7825fe5081,MDN|Writing Guidelines
 mdn/writing_guidelines/changelog,702cd9e4d2834e13aea345943efc8d0c03d92ec9,MDN|Writing Guidelines
-mdn/writing_guidelines/code_style_guide,7ff752fba26e0bb950998bb5476157ff96c7d314,MDN|Writing Guidelines
+mdn/writing_guidelines/code_style_guide,ad54ecbfce4d029128ac83686707dd500e8e7b1c,MDN|Writing Guidelines
 mdn/writing_guidelines/code_style_guide/css,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,MDN|Writing Guidelines
 mdn/writing_guidelines/code_style_guide/html,c7a8b2584452bcd5d2c135b637f4ec659ff74b99,MDN|Writing Guidelines
 mdn/writing_guidelines/code_style_guide/javascript,56f3d7018159127dbe92842413fb45d0aa7e8193,MDN|Writing Guidelines
@@ -1965,9 +1965,10 @@ mozilla/firefox/releases/151,681ee4beb90b7e0d001f8938df41d5af0f602fe7,Mozilla|Fi
 mozilla/firefox/releases/152,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff,Mozilla|Firefox|Versions
-mozilla/firefox/releases/155,31f59429991c155326e3c5dfb4ddfae6c3ee6e74,Mozilla|Firefox|Versions
-mozilla/firefox/releases/156,78c72a7d42bdbe19e94c98de316fb0a74b93f4e0,Mozilla|Firefox|Versions
-mozilla/firefox/releases/157,d38616f73d7bfbd6c6f698390657da14a92bbb2f,Mozilla|Firefox|Versions
+mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
+mozilla/firefox/releases/156,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
+mozilla/firefox/releases/157,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
+mozilla/firefox/releases/158,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -9933,7 +9934,7 @@ web/api/window/toolbar,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/top,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/trustedtypes,fc4f2ea893df340f8b41ef8ec956f2d36242bee4,Web APIs
 web/api/window/unhandledrejection_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
-web/api/window/unload_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
+web/api/window/unload_event,75b6c08573c39a7d6557c911502912f1a3c7da9f,Web APIs
 web/api/window/viewport,9be502ee0f8b030908e59d30884190281acb8054,Web APIs
 web/api/window/visualviewport,896a41d7d9832367a1e24af567fb419e9d4182f8,Web APIs
 web/api/window/vrdisplayactivate_event,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -12050,7 +12051,7 @@ web/http/reference/headers/no-vary-search,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1
 web/http/reference/headers/observe-browsing-topics,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTTP|Headers
 web/http/reference/headers/origin,4db27688840b67e416373ea571d9e3a17bafa92d,HTTP|Headers
 web/http/reference/headers/origin-agent-cluster,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
-web/http/reference/headers/permissions-policy,7a2016c1eec26048dce86e8af0b2127395db7f46,HTTP|Headers
+web/http/reference/headers/permissions-policy,75b6c08573c39a7d6557c911502912f1a3c7da9f,HTTP|Headers
 web/http/reference/headers/permissions-policy-report-only,dd1e8282ab6621b62399d65cad46177d426d1d93,HTTP|Headers
 web/http/reference/headers/permissions-policy/accelerometer,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/permissions-policy/ambient-light-sensor,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -12098,6 +12099,7 @@ web/http/reference/headers/permissions-policy/speaker-selection,ad5b5e31f81795d6
 web/http/reference/headers/permissions-policy/storage-access,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/permissions-policy/summarizer,8cae6b8c772e3f9ce2fbd73cad17fcb0adda966f,HTTP|Headers
 web/http/reference/headers/permissions-policy/translator,8cae6b8c772e3f9ce2fbd73cad17fcb0adda966f,HTTP|Headers
+web/http/reference/headers/permissions-policy/unload,75b6c08573c39a7d6557c911502912f1a3c7da9f,HTTP|Headers
 web/http/reference/headers/permissions-policy/usb,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/permissions-policy/web-share,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/permissions-policy/window-management,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
