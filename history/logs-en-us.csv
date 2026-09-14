@@ -1966,7 +1966,7 @@ mozilla/firefox/releases/152,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Fi
 mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,a31068ba2df086b7aba127b26d28b083537d5894,Mozilla|Firefox|Versions
 mozilla/firefox/releases/155,fb3b56f801565812abdb36d5adbbcadb10ab5fae,Mozilla|Firefox|Versions
-mozilla/firefox/releases/156,fb3b56f801565812abdb36d5adbbcadb10ab5fae,Mozilla|Firefox|Versions
+mozilla/firefox/releases/156,78c72a7d42bdbe19e94c98de316fb0a74b93f4e0,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,d38616f73d7bfbd6c6f698390657da14a92bbb2f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -4381,14 +4381,14 @@ web/api/force_touch_events,7972ac25580ffbfb160e6d40013bbab3013d7cbe,Web APIs
 web/api/formdata,58ad1df59f2ffb9ecab4e27fe1bdf1eb5a55f89b,Web APIs
 web/api/formdata/append,f216422c99b6c7014e398803b70600501bce8a48,Web APIs
 web/api/formdata/delete,2c641e08878722bf29fb784d58c61873ce4a133a,Web APIs
-web/api/formdata/entries,bd15d43260b7e72b1066c04d9d9f3b79129c619c,Web APIs
+web/api/formdata/entries,b264328c7abee284014e09d5bfe1bab88898b27a,Web APIs
 web/api/formdata/formdata,ad01ed9218be15d7aeaa0666ec0bc2a2d17f3574,Web APIs
 web/api/formdata/get,2c641e08878722bf29fb784d58c61873ce4a133a,Web APIs
 web/api/formdata/getall,2c641e08878722bf29fb784d58c61873ce4a133a,Web APIs
 web/api/formdata/has,2c641e08878722bf29fb784d58c61873ce4a133a,Web APIs
-web/api/formdata/keys,2c641e08878722bf29fb784d58c61873ce4a133a,Web APIs
+web/api/formdata/keys,b264328c7abee284014e09d5bfe1bab88898b27a,Web APIs
 web/api/formdata/set,f216422c99b6c7014e398803b70600501bce8a48,Web APIs
-web/api/formdata/values,2c641e08878722bf29fb784d58c61873ce4a133a,Web APIs
+web/api/formdata/values,b264328c7abee284014e09d5bfe1bab88898b27a,Web APIs
 web/api/formdataevent,58ad1df59f2ffb9ecab4e27fe1bdf1eb5a55f89b,Web APIs
 web/api/formdataevent/formdata,be1922d62a0d31e4e3441db0e943aed8df736481,Web APIs
 web/api/formdataevent/formdataevent,339595951b78774e951b1a9d215a6db6b856f6b2,Web APIs
@@ -10714,7 +10714,7 @@ web/css/reference/properties/-moz-force-broken-image-icon,22c0b3059ff71d769af670
 web/css/reference/properties/-moz-orient,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
 web/css/reference/properties/-moz-user-focus,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
 web/css/reference/properties/-moz-user-input,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
-web/css/reference/properties/-webkit-border-before,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/-webkit-border-before,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/-webkit-box-reflect,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
 web/css/reference/properties/-webkit-mask-box-image,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/-webkit-mask-composite,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
@@ -10722,7 +10722,7 @@ web/css/reference/properties/-webkit-mask-position-x,22c0b3059ff71d769af670478cc
 web/css/reference/properties/-webkit-mask-position-y,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
 web/css/reference/properties/-webkit-mask-repeat-x,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
 web/css/reference/properties/-webkit-mask-repeat-y,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
-web/css/reference/properties/-webkit-tap-highlight-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/-webkit-tap-highlight-color,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/-webkit-text-fill-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/-webkit-text-security,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/-webkit-text-stroke,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
@@ -10737,7 +10737,7 @@ web/css/reference/properties/alignment-baseline,071fd0613b1b5728d2d83845ea11512c
 web/css/reference/properties/all,8a13259a44523cd17b4fe347088b62c6d7a35265,CSS|Properties
 web/css/reference/properties/anchor-name,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/anchor-scope,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/animation,3064cbe8212ea919874fb21120a89657afccba25,CSS|Properties
+web/css/reference/properties/animation,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/animation-composition,d4dc9d899ebec0e9c22a5bb9229f39f33457d8df,CSS|Properties
 web/css/reference/properties/animation-delay,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/animation-direction,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
@@ -10774,7 +10774,7 @@ web/css/reference/properties/background-size,bcbb4bd6a80292c0663b723d5466759cfaa
 web/css/reference/properties/baseline-shift,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/baseline-source,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/block-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/border,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/border,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/border-block,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/border-block-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/border-block-end,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
@@ -10864,10 +10864,10 @@ web/css/reference/properties/color,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|
 web/css/reference/properties/color-interpolation,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/color-interpolation-filters,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/color-scheme,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/column-count,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
+web/css/reference/properties/column-count,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
 web/css/reference/properties/column-fill,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/column-gap,7b535c422322a8a330bd68075541abfc78efc4b7,CSS|Properties
-web/css/reference/properties/column-height,8e2fe58f37aad757276d6bfdfa8f2a57aac73749,CSS|Properties
+web/css/reference/properties/column-height,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
 web/css/reference/properties/column-rule,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/column-rule-break,1474534461893381d54c502e655f334b5568e597,CSS|Properties
 web/css/reference/properties/column-rule-color,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|Properties
@@ -10876,7 +10876,7 @@ web/css/reference/properties/column-rule-style,e9c03ba87f9ff4123150d8f7dc457bd54
 web/css/reference/properties/column-rule-visibility-items,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/column-rule-width,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
 web/css/reference/properties/column-span,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/column-width,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
+web/css/reference/properties/column-width,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
 web/css/reference/properties/column-wrap,8e2fe58f37aad757276d6bfdfa8f2a57aac73749,CSS|Properties
 web/css/reference/properties/columns,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/contain,316367d0a304cf967691602672795825c05f835a,CSS|Properties
@@ -10927,7 +10927,7 @@ web/css/reference/properties/filter,d19dec85109590176f946fcceef48c787d578b1e,CSS
 web/css/reference/properties/flex,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/flex-basis,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/flex-direction,c965bd5938085b2dab7d19734adbe3db0914ba5d,CSS|Properties
-web/css/reference/properties/flex-flow,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/flex-flow,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/flex-grow,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/flex-line-count,e5cd1cab36e2fdcf5dfe28e10b0a7cb235354e62,CSS|Properties
 web/css/reference/properties/flex-shrink,efbef0da1dbe29be125eb7db0b831a4e4bd9220d,CSS|Properties
@@ -11012,7 +11012,7 @@ web/css/reference/properties/left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|P
 web/css/reference/properties/letter-spacing,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|Properties
 web/css/reference/properties/lighting-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/line-break,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
-web/css/reference/properties/line-clamp,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/line-clamp,0451ba52048b172d3c2c1b8b5ce21950384ecbb2,CSS|Properties
 web/css/reference/properties/line-height,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/line-height-step,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/link-parameters,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
@@ -11049,7 +11049,7 @@ web/css/reference/properties/mask-composite,bcbb4bd6a80292c0663b723d5466759cfaaa
 web/css/reference/properties/mask-image,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/mask-mode,4ad860d817cf6d8ca24f41b3846b29e158934d27,CSS|Properties
 web/css/reference/properties/mask-origin,1474534461893381d54c502e655f334b5568e597,CSS|Properties
-web/css/reference/properties/mask-position,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/mask-position,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/mask-repeat,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/mask-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/mask-type,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11077,7 +11077,7 @@ web/css/reference/properties/offset-rotate,bcbb4bd6a80292c0663b723d5466759cfaaa8
 web/css/reference/properties/opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/order,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/orphans,e4ed2e4bfb88dab98ae65c44c134e3359b623d9b,CSS|Properties
-web/css/reference/properties/outline,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/outline,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
 web/css/reference/properties/outline-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/outline-offset,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/outline-style,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
@@ -11116,15 +11116,15 @@ web/css/reference/properties/path-length,a9dc3374034d357cbfea717fd5d641605359e3c
 web/css/reference/properties/perspective,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/perspective-origin,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/place-content,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
-web/css/reference/properties/place-items,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/place-items,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/place-self,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/pointer-events,b9c07e549a6e66272c589a254ebcd5a8c91f37a5,CSS|Properties
 web/css/reference/properties/position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/position-anchor,31086145b865d6c5c2fec3ba700fd424d57fdf42,CSS|Properties
-web/css/reference/properties/position-area,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/position-try,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
-web/css/reference/properties/position-try-fallbacks,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/position-try-order,7c56e442e76d472eff1c6a06eb5432bb11a47f3e,CSS|Properties
+web/css/reference/properties/position-area,c9f812354ae36bbafc6f6d9b0961f3b25f350f4c,CSS|Properties
+web/css/reference/properties/position-try,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
+web/css/reference/properties/position-try-fallbacks,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
+web/css/reference/properties/position-try-order,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
 web/css/reference/properties/position-visibility,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/print-color-adjust,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,CSS|Properties
 web/css/reference/properties/quotes,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
@@ -11135,7 +11135,7 @@ web/css/reference/properties/resize,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS
 web/css/reference/properties/right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/rotate,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/row-gap,7b535c422322a8a330bd68075541abfc78efc4b7,CSS|Properties
-web/css/reference/properties/row-rule,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/row-rule,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/row-rule-break,1474534461893381d54c502e655f334b5568e597,CSS|Properties
 web/css/reference/properties/row-rule-color,9b7a110e601556b82af6b5d46f01c757c5a11719,CSS|Properties
 web/css/reference/properties/row-rule-style,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
@@ -11178,13 +11178,13 @@ web/css/reference/properties/scroll-padding-inline-start,bcbb4bd6a80292c0663b723
 web/css/reference/properties/scroll-padding-left,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-padding-right,ab63f9fa055a0d5b1b4eeac21e9a1e98c4f62c82,CSS|Properties
 web/css/reference/properties/scroll-padding-top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/scroll-snap-align,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/scroll-snap-align,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/scroll-snap-stop,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/scroll-snap-type,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/scroll-target-group,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scroll-timeline,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/scroll-timeline-axis,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
-web/css/reference/properties/scroll-timeline-name,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/scroll-timeline-name,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/scrollbar-color,2e2dfb27a085911dd64aa4798d4a1071660c2397,CSS|Properties
 web/css/reference/properties/scrollbar-gutter,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scrollbar-width,2e2dfb27a085911dd64aa4798d4a1071660c2397,CSS|Properties
@@ -11210,12 +11210,12 @@ web/css/reference/properties/text-align-last,071fd0613b1b5728d2d83845ea11512cb61
 web/css/reference/properties/text-anchor,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-autospace,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-box,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
-web/css/reference/properties/text-box-edge,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/text-box-trim,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/text-box-edge,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
+web/css/reference/properties/text-box-trim,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
 web/css/reference/properties/text-combine-upright,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-decoration,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/text-decoration-color,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
-web/css/reference/properties/text-decoration-inset,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
+web/css/reference/properties/text-decoration-inset,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/text-decoration-line,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/text-decoration-skip,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|Properties
 web/css/reference/properties/text-decoration-skip-ink,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
@@ -11239,7 +11239,7 @@ web/css/reference/properties/text-underline-position,071fd0613b1b5728d2d83845ea1
 web/css/reference/properties/text-wrap,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/text-wrap-mode,7d82de65fb43700d2053f13d8344ec4a78759b2c,CSS|Properties
 web/css/reference/properties/text-wrap-style,7d82de65fb43700d2053f13d8344ec4a78759b2c,CSS|Properties
-web/css/reference/properties/timeline-scope,c9f3d85f24d7839c9fe36a68d8042d088d906147,CSS|Properties
+web/css/reference/properties/timeline-scope,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/touch-action,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/transform,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
@@ -11574,7 +11574,7 @@ web/css/reference/values/overflow-position,c88e03530319b73272fd4f9a9f6ebe878f026
 web/css/reference/values/overflow_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/param,d571e753a6e1aa3f37c775f0308690bc738cdbe6,CSS|Values
 web/css/reference/values/percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/position-area_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
+web/css/reference/values/position-area_value,c9f812354ae36bbafc6f6d9b0961f3b25f350f4c,CSS|Values
 web/css/reference/values/position_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/pow,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/progress,d35a7643766c8f8d1d92044ca771dbf8dc843906,CSS|Values
@@ -12956,7 +12956,7 @@ web/javascript/reference/global_objects/object/valueof,79fdc26fea835d65c9361541b
 web/javascript/reference/global_objects/object/values,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/parsefloat,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Global Objects
 web/javascript/reference/global_objects/parseint,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise,9bda33365e40b6c609fa5190a0af9b5dc6438cf0,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise,a6a2daec3965d85ef6dfc06cfd3507c1b2f886e2,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/all,9bda33365e40b6c609fa5190a0af9b5dc6438cf0,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/allkeyed,f8759faac983abbcd8276fd45ae881bb39efdf7a,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/allsettled,cbf7f4b55e2c0bc0c096773435b159edcaa8c9e2,JavaScript|Global Objects
@@ -12966,12 +12966,12 @@ web/javascript/reference/global_objects/promise/catch,cd22b9f18cf2450c0cc488379b
 web/javascript/reference/global_objects/promise/finally,a99bc85f30c0c5a8dc5c85b7b552b442d411a082,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/promise,3b7310aac5ffd95db697bf136b7323cffc7e5bd2,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/race,9bda33365e40b6c609fa5190a0af9b5dc6438cf0,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise/reject,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise/resolve,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/reject,a6a2daec3965d85ef6dfc06cfd3507c1b2f886e2,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/resolve,a6a2daec3965d85ef6dfc06cfd3507c1b2f886e2,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/symbol.species,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/then,9bda33365e40b6c609fa5190a0af9b5dc6438cf0,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise/try,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise/withresolvers,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/try,a6a2daec3965d85ef6dfc06cfd3507c1b2f886e2,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/withresolvers,a6a2daec3965d85ef6dfc06cfd3507c1b2f886e2,JavaScript|Global Objects
 web/javascript/reference/global_objects/proxy,79fdc26fea835d65c9361541bb8ab1896f307475,JavaScript|Global Objects
 web/javascript/reference/global_objects/proxy/proxy,1ddd95504b4507beeda0f08bd772eb167922b86a,JavaScript|Global Objects
 web/javascript/reference/global_objects/proxy/proxy/apply,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects

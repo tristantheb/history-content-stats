@@ -10737,7 +10737,7 @@ web/css/reference/properties/alignment-baseline,null
 web/css/reference/properties/all,null
 web/css/reference/properties/anchor-name,null
 web/css/reference/properties/anchor-scope,null
-web/css/reference/properties/animation,11
+web/css/reference/properties/animation,12
 web/css/reference/properties/animation-composition,null
 web/css/reference/properties/animation-delay,null
 web/css/reference/properties/animation-direction,null
@@ -11116,7 +11116,7 @@ web/css/reference/properties/path-length,null
 web/css/reference/properties/perspective,null
 web/css/reference/properties/perspective-origin,null
 web/css/reference/properties/place-content,7
-web/css/reference/properties/place-items,7
+web/css/reference/properties/place-items,8
 web/css/reference/properties/place-self,8
 web/css/reference/properties/pointer-events,5
 web/css/reference/properties/position,null
@@ -12956,7 +12956,7 @@ web/javascript/reference/global_objects/object/valueof,null
 web/javascript/reference/global_objects/object/values,null
 web/javascript/reference/global_objects/parsefloat,null
 web/javascript/reference/global_objects/parseint,null
-web/javascript/reference/global_objects/promise,35
+web/javascript/reference/global_objects/promise,36
 web/javascript/reference/global_objects/promise/all,null
 web/javascript/reference/global_objects/promise/allkeyed,null
 web/javascript/reference/global_objects/promise/allsettled,null
@@ -12970,8 +12970,8 @@ web/javascript/reference/global_objects/promise/reject,null
 web/javascript/reference/global_objects/promise/resolve,null
 web/javascript/reference/global_objects/promise/symbol.species,null
 web/javascript/reference/global_objects/promise/then,null
-web/javascript/reference/global_objects/promise/try,3
-web/javascript/reference/global_objects/promise/withresolvers,3
+web/javascript/reference/global_objects/promise/try,4
+web/javascript/reference/global_objects/promise/withresolvers,4
 web/javascript/reference/global_objects/proxy,null
 web/javascript/reference/global_objects/proxy/proxy,null
 web/javascript/reference/global_objects/proxy/proxy/apply,null
