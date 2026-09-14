@@ -3475,7 +3475,7 @@ web/api/directoryreadersync,null
 web/api/document,8
 web/api/document/activeelement,6
 web/api/document/activeviewtransition,null
-web/api/document/adoptedstylesheets,5
+web/api/document/adoptedstylesheets,6
 web/api/document/adoptnode,1
 web/api/document/afterscriptexecute_event,6
 web/api/document/alinkcolor,3
@@ -4088,7 +4088,7 @@ web/api/elementinternals/ariavaluenow,null
 web/api/elementinternals/ariavaluetext,null
 web/api/elementinternals/checkvalidity,null
 web/api/elementinternals/form,null
-web/api/elementinternals/labels,0
+web/api/elementinternals/labels,1
 web/api/elementinternals/reportvalidity,null
 web/api/elementinternals/role,1
 web/api/elementinternals/setformvalue,null

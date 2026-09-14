@@ -3475,7 +3475,7 @@ web/api/directoryreadersync,null
 web/api/document,2
 web/api/document/activeelement,6
 web/api/document/activeviewtransition,1
-web/api/document/adoptedstylesheets,5
+web/api/document/adoptedstylesheets,6
 web/api/document/adoptnode,1
 web/api/document/afterscriptexecute_event,6
 web/api/document/alinkcolor,3
@@ -4088,7 +4088,7 @@ web/api/elementinternals/ariavaluenow,3
 web/api/elementinternals/ariavaluetext,3
 web/api/elementinternals/checkvalidity,1
 web/api/elementinternals/form,0
-web/api/elementinternals/labels,0
+web/api/elementinternals/labels,1
 web/api/elementinternals/reportvalidity,1
 web/api/elementinternals/role,4
 web/api/elementinternals/setformvalue,1
@@ -13813,7 +13813,7 @@ web/security/defenses/local_network_access,1
 web/security/defenses/mixed_content,1
 web/security/defenses/operational_security,null
 web/security/defenses/same-origin_policy,0
-web/security/defenses/secure_contexts,2
+web/security/defenses/secure_contexts,3
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,1
 web/security/defenses/subresource_integrity,2
 web/security/defenses/transport_layer_security,2

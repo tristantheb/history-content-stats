@@ -16,7 +16,7 @@ games/techniques/3d_on_the_web/building_up_a_basic_demo_with_a-frame,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_babylon.js,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/editor,0
-games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/engine,1
+games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/engine,0
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,0
 games/techniques/3d_on_the_web/glsl_shaders,0
 games/techniques/3d_on_the_web/webxr,0
@@ -29,7 +29,7 @@ games/techniques/control_mechanisms/mobile_touch,0
 games/techniques/control_mechanisms/other,0
 games/techniques/controls_gamepad_api,0
 games/techniques/crisp_pixel_art_look,0
-games/techniques/tilemaps,1
+games/techniques/tilemaps,0
 games/techniques/tilemaps/square_tilemaps_implementation_colon__scrolling_maps,0
 games/techniques/tilemaps/square_tilemaps_implementation_colon__static_maps,0
 games/techniques/webrtc_data_channels,0
@@ -495,7 +495,7 @@ glossary/pseudo-class,0
 glossary/pseudo-element,0
 glossary/pseudocode,0
 glossary/public-key_cryptography,0
-glossary/python,1
+glossary/python,0
 glossary/quality_values,0
 glossary/quaternion,0
 glossary/quic,0
@@ -866,7 +866,7 @@ learn_web_development/extensions/async_js/promises,0
 learn_web_development/extensions/async_js/sequencing_animations,0
 learn_web_development/extensions/client-side_apis,0
 learn_web_development/extensions/client-side_apis/client-side_storage,0
-learn_web_development/extensions/client-side_apis/drawing_graphics,1
+learn_web_development/extensions/client-side_apis/drawing_graphics,0
 learn_web_development/extensions/client-side_apis/introduction,0
 learn_web_development/extensions/client-side_apis/third_party_apis,0
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,0
@@ -1018,7 +1018,7 @@ learn_web_development/howto/tools_and_setup/available_text_editors,0
 learn_web_development/howto/tools_and_setup/checking_that_your_web_site_is_working_properly,0
 learn_web_development/howto/tools_and_setup/how_much_does_it_cost,0
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,0
-learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,1
+learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,0
 learn_web_development/howto/tools_and_setup/using_github_pages,0
 learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,0
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,0
@@ -1068,7 +1068,7 @@ mdn/writing_guidelines/howto/markdown_in_mdn,0
 mdn/writing_guidelines/howto/research_technology,0
 mdn/writing_guidelines/howto/retiring_content,0
 mdn/writing_guidelines/howto/retiring_content/retired_content,0
-mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,1
+mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,0
 mdn/writing_guidelines/howto/write_an_api_reference,0
 mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,0
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,0
@@ -1083,7 +1083,7 @@ mdn/writing_guidelines/page_structures/live_samples,0
 mdn/writing_guidelines/page_structures/macros,0
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,0
 mdn/writing_guidelines/page_structures/macros/other,0
-mdn/writing_guidelines/page_structures/page_types,2
+mdn/writing_guidelines/page_structures/page_types,0
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,0
@@ -1099,20 +1099,20 @@ mdn/writing_guidelines/page_structures/page_types/glossary_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,0
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,0
-mdn/writing_guidelines/page_structures/page_types/javascript_class_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_constructor_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_error_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_function_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_global_property_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_instance_accessor_property_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_instance_data_property_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_instance_method_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_namespace_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_operator_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_statement_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_static_accessor_property_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_static_data_property_page_template,null
-mdn/writing_guidelines/page_structures/page_types/javascript_static_method_page_template,null
+mdn/writing_guidelines/page_structures/page_types/javascript_class_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_constructor_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_error_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_function_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_global_property_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_instance_accessor_property_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_instance_data_property_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_instance_method_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_namespace_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_operator_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_statement_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_static_accessor_property_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_static_data_property_page_template,0
+mdn/writing_guidelines/page_structures/page_types/javascript_static_method_page_template,0
 mdn/writing_guidelines/page_structures/page_types/page_type_key,0
 mdn/writing_guidelines/page_structures/page_types/svg_element_page_template,0
 mdn/writing_guidelines/page_structures/polyfills,0
@@ -3475,7 +3475,7 @@ web/api/directoryreadersync,0
 web/api/document,0
 web/api/document/activeelement,0
 web/api/document/activeviewtransition,0
-web/api/document/adoptedstylesheets,0
+web/api/document/adoptedstylesheets,1
 web/api/document/adoptnode,0
 web/api/document/afterscriptexecute_event,0
 web/api/document/alinkcolor,0
@@ -4088,7 +4088,7 @@ web/api/elementinternals/ariavaluenow,0
 web/api/elementinternals/ariavaluetext,0
 web/api/elementinternals/checkvalidity,0
 web/api/elementinternals/form,0
-web/api/elementinternals/labels,0
+web/api/elementinternals/labels,1
 web/api/elementinternals/reportvalidity,0
 web/api/elementinternals/role,0
 web/api/elementinternals/setformvalue,0
@@ -7250,7 +7250,7 @@ web/api/rtcaudiosourcestats/trackidentifier,0
 web/api/rtcaudiosourcestats/type,0
 web/api/rtccertificate,0
 web/api/rtccertificate/expires,0
-web/api/rtccertificate/getfingerprints,1
+web/api/rtccertificate/getfingerprints,0
 web/api/rtccertificatestats,0
 web/api/rtccertificatestats/base64certificate,0
 web/api/rtccertificatestats/fingerprint,0
@@ -7572,7 +7572,7 @@ web/api/rtcpeerconnectioniceevent,0
 web/api/rtcpeerconnectioniceevent/candidate,0
 web/api/rtcpeerconnectioniceevent/rtcpeerconnectioniceevent,0
 web/api/rtcpeerconnectioniceevent/url,0
-web/api/rtcpeerconnectionstats,1
+web/api/rtcpeerconnectionstats,0
 web/api/rtcpeerconnectionstats/datachannelsclosed,0
 web/api/rtcpeerconnectionstats/datachannelsopened,0
 web/api/rtcpeerconnectionstats/id,0
@@ -9363,7 +9363,7 @@ web/api/web_components/using_custom_elements,0
 web/api/web_components/using_shadow_dom,0
 web/api/web_components/using_templates_and_slots,0
 web/api/web_crypto_api,0
-web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,1
+web/api/web_crypto_api/non-cryptographic_uses_of_subtle_crypto,0
 web/api/web_locks_api,0
 web/api/web_midi_api,0
 web/api/web_nfc_api,0
@@ -10465,7 +10465,7 @@ web/css/guides/flexible_box_layout/use_cases,0
 web/css/guides/flexible_box_layout/wrapping_items,0
 web/css/guides/font_loading,0
 web/css/guides/fonts,0
-web/css/guides/fonts/opentype_fonts,1
+web/css/guides/fonts/opentype_fonts,0
 web/css/guides/fonts/variable_fonts,0
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
@@ -11223,7 +11223,7 @@ web/css/reference/properties/text-decoration-style,0
 web/css/reference/properties/text-decoration-thickness,0
 web/css/reference/properties/text-emphasis,0
 web/css/reference/properties/text-emphasis-color,0
-web/css/reference/properties/text-emphasis-position,1
+web/css/reference/properties/text-emphasis-position,0
 web/css/reference/properties/text-emphasis-style,0
 web/css/reference/properties/text-indent,0
 web/css/reference/properties/text-justify,0
@@ -12323,7 +12323,7 @@ web/javascript/reference/errors/bad_radix,0
 web/javascript/reference/errors/bad_regexp_flag,0
 web/javascript/reference/errors/bad_return,0
 web/javascript/reference/errors/bad_strict_arguments_eval,0
-web/javascript/reference/errors/bad_super_call,0
+web/javascript/reference/errors/bad_super_call,1
 web/javascript/reference/errors/bad_super_prop,0
 web/javascript/reference/errors/bigint_division_by_zero,0
 web/javascript/reference/errors/bigint_negative_exponent,0
@@ -13155,7 +13155,7 @@ web/javascript/reference/global_objects/temporal/duration/add,0
 web/javascript/reference/global_objects/temporal/duration/blank,0
 web/javascript/reference/global_objects/temporal/duration/compare,0
 web/javascript/reference/global_objects/temporal/duration/days,0
-web/javascript/reference/global_objects/temporal/duration/duration,1
+web/javascript/reference/global_objects/temporal/duration/duration,0
 web/javascript/reference/global_objects/temporal/duration/from,0
 web/javascript/reference/global_objects/temporal/duration/hours,0
 web/javascript/reference/global_objects/temporal/duration/microseconds,0
@@ -13185,7 +13185,7 @@ web/javascript/reference/global_objects/temporal/instant/equals,0
 web/javascript/reference/global_objects/temporal/instant/from,0
 web/javascript/reference/global_objects/temporal/instant/fromepochmilliseconds,0
 web/javascript/reference/global_objects/temporal/instant/fromepochnanoseconds,0
-web/javascript/reference/global_objects/temporal/instant/instant,1
+web/javascript/reference/global_objects/temporal/instant/instant,0
 web/javascript/reference/global_objects/temporal/instant/round,0
 web/javascript/reference/global_objects/temporal/instant/since,0
 web/javascript/reference/global_objects/temporal/instant/subtract,0
@@ -13220,7 +13220,7 @@ web/javascript/reference/global_objects/temporal/plaindate/inleapyear,0
 web/javascript/reference/global_objects/temporal/plaindate/month,0
 web/javascript/reference/global_objects/temporal/plaindate/monthcode,0
 web/javascript/reference/global_objects/temporal/plaindate/monthsinyear,0
-web/javascript/reference/global_objects/temporal/plaindate/plaindate,1
+web/javascript/reference/global_objects/temporal/plaindate/plaindate,0
 web/javascript/reference/global_objects/temporal/plaindate/since,0
 web/javascript/reference/global_objects/temporal/plaindate/subtract,0
 web/javascript/reference/global_objects/temporal/plaindate/tojson,0
@@ -13260,7 +13260,7 @@ web/javascript/reference/global_objects/temporal/plaindatetime/month,0
 web/javascript/reference/global_objects/temporal/plaindatetime/monthcode,0
 web/javascript/reference/global_objects/temporal/plaindatetime/monthsinyear,0
 web/javascript/reference/global_objects/temporal/plaindatetime/nanosecond,0
-web/javascript/reference/global_objects/temporal/plaindatetime/plaindatetime,1
+web/javascript/reference/global_objects/temporal/plaindatetime/plaindatetime,0
 web/javascript/reference/global_objects/temporal/plaindatetime/round,0
 web/javascript/reference/global_objects/temporal/plaindatetime/second,0
 web/javascript/reference/global_objects/temporal/plaindatetime/since,0
@@ -13285,7 +13285,7 @@ web/javascript/reference/global_objects/temporal/plainmonthday/day,0
 web/javascript/reference/global_objects/temporal/plainmonthday/equals,0
 web/javascript/reference/global_objects/temporal/plainmonthday/from,0
 web/javascript/reference/global_objects/temporal/plainmonthday/monthcode,0
-web/javascript/reference/global_objects/temporal/plainmonthday/plainmonthday,1
+web/javascript/reference/global_objects/temporal/plainmonthday/plainmonthday,0
 web/javascript/reference/global_objects/temporal/plainmonthday/tojson,0
 web/javascript/reference/global_objects/temporal/plainmonthday/tolocalestring,0
 web/javascript/reference/global_objects/temporal/plainmonthday/toplaindate,0
@@ -13302,7 +13302,7 @@ web/javascript/reference/global_objects/temporal/plaintime/microsecond,0
 web/javascript/reference/global_objects/temporal/plaintime/millisecond,0
 web/javascript/reference/global_objects/temporal/plaintime/minute,0
 web/javascript/reference/global_objects/temporal/plaintime/nanosecond,0
-web/javascript/reference/global_objects/temporal/plaintime/plaintime,1
+web/javascript/reference/global_objects/temporal/plaintime/plaintime,0
 web/javascript/reference/global_objects/temporal/plaintime/round,0
 web/javascript/reference/global_objects/temporal/plaintime/second,0
 web/javascript/reference/global_objects/temporal/plaintime/since,0
@@ -13327,7 +13327,7 @@ web/javascript/reference/global_objects/temporal/plainyearmonth/inleapyear,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/month,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/monthcode,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/monthsinyear,0
-web/javascript/reference/global_objects/temporal/plainyearmonth/plainyearmonth,1
+web/javascript/reference/global_objects/temporal/plainyearmonth/plainyearmonth,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/since,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/subtract,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/tojson,0
@@ -13389,7 +13389,7 @@ web/javascript/reference/global_objects/temporal/zoneddatetime/withplaintime,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/withtimezone,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/year,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/yearofweek,0
-web/javascript/reference/global_objects/temporal/zoneddatetime/zoneddatetime,1
+web/javascript/reference/global_objects/temporal/zoneddatetime/zoneddatetime,0
 web/javascript/reference/global_objects/typedarray,0
 web/javascript/reference/global_objects/typedarray/at,0
 web/javascript/reference/global_objects/typedarray/buffer,0
@@ -13734,7 +13734,7 @@ web/progressive_web_apps/guides/best_practices,0
 web/progressive_web_apps/guides/caching,0
 web/progressive_web_apps/guides/installing,0
 web/progressive_web_apps/guides/making_pwas_installable,0
-web/progressive_web_apps/guides/offline_and_background_operation,1
+web/progressive_web_apps/guides/offline_and_background_operation,0
 web/progressive_web_apps/guides/what_is_a_progressive_web_app,0
 web/progressive_web_apps/how_to,0
 web/progressive_web_apps/how_to/associate_files_with_your_pwa,0
@@ -13813,7 +13813,7 @@ web/security/defenses/local_network_access,0
 web/security/defenses/mixed_content,0
 web/security/defenses/operational_security,0
 web/security/defenses/same-origin_policy,0
-web/security/defenses/secure_contexts,0
+web/security/defenses/secure_contexts,1
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,0
 web/security/defenses/subresource_integrity,0
 web/security/defenses/transport_layer_security,0
