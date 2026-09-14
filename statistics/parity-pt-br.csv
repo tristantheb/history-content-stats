@@ -6813,6 +6813,7 @@ web/api/performancepainttiming/tojson,null
 web/api/performanceresourcetiming,null
 web/api/performanceresourcetiming/connectend,null
 web/api/performanceresourcetiming/connectstart,null
+web/api/performanceresourcetiming/contentencoding,null
 web/api/performanceresourcetiming/contenttype,null
 web/api/performanceresourcetiming/decodedbodysize,null
 web/api/performanceresourcetiming/deliverytype,null

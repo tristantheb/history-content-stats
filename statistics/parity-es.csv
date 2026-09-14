@@ -775,7 +775,7 @@ learn_web_development/core/scripting/test_your_skills/math,null
 learn_web_development/core/scripting/test_your_skills/object_basics,null
 learn_web_development/core/scripting/test_your_skills/strings,null
 learn_web_development/core/scripting/test_your_skills/variables,null
-learn_web_development/core/scripting/useful_string_methods,null
+learn_web_development/core/scripting/useful_string_methods,0
 learn_web_development/core/scripting/variables,null
 learn_web_development/core/scripting/what_is_javascript,null
 learn_web_development/core/scripting/what_went_wrong,null
@@ -789,8 +789,8 @@ learn_web_development/core/structuring_content/forms_challenge,null
 learn_web_development/core/structuring_content/general_embedding_technologies,null
 learn_web_development/core/structuring_content/headings_and_paragraphs,null
 learn_web_development/core/structuring_content/html_forms,14
-learn_web_development/core/structuring_content/html_images,null
-learn_web_development/core/structuring_content/html_table_basics,0
+learn_web_development/core/structuring_content/html_images,0
+learn_web_development/core/structuring_content/html_table_basics,1
 learn_web_development/core/structuring_content/html_video_and_audio,null
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,null
 learn_web_development/core/structuring_content/lists,5
@@ -844,7 +844,7 @@ learn_web_development/core/styling_basics/what_is_css,null
 learn_web_development/core/text_styling,null
 learn_web_development/core/text_styling/fundamentals,1
 learn_web_development/core/text_styling/styling_links,null
-learn_web_development/core/text_styling/styling_lists,null
+learn_web_development/core/text_styling/styling_lists,0
 learn_web_development/core/text_styling/typesetting_a_homepage,8
 learn_web_development/core/text_styling/web_fonts,null
 learn_web_development/core/version_control,null
@@ -915,15 +915,15 @@ learn_web_development/extensions/server-side/apache_configuration_htaccess,null
 learn_web_development/extensions/server-side/configuring_server_mime_types,null
 learn_web_development/extensions/server-side/django,null
 learn_web_development/extensions/server-side/django/admin_site,1
-learn_web_development/extensions/server-side/django/authentication,null
-learn_web_development/extensions/server-side/django/deployment,null
-learn_web_development/extensions/server-side/django/development_environment,null
+learn_web_development/extensions/server-side/django/authentication,0
+learn_web_development/extensions/server-side/django/deployment,7
+learn_web_development/extensions/server-side/django/development_environment,0
 learn_web_development/extensions/server-side/django/django_assessment_blog,null
-learn_web_development/extensions/server-side/django/forms,null
-learn_web_development/extensions/server-side/django/generic_views,null
-learn_web_development/extensions/server-side/django/home_page,null
+learn_web_development/extensions/server-side/django/forms,0
+learn_web_development/extensions/server-side/django/generic_views,0
+learn_web_development/extensions/server-side/django/home_page,1
 learn_web_development/extensions/server-side/django/introduction,null
-learn_web_development/extensions/server-side/django/models,null
+learn_web_development/extensions/server-side/django/models,3
 learn_web_development/extensions/server-side/django/sessions,0
 learn_web_development/extensions/server-side/django/skeleton_website,1
 learn_web_development/extensions/server-side/django/testing,null
@@ -1089,7 +1089,7 @@ mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,1
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,1
-mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,1
+mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,2
 mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,1
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,0
@@ -6813,6 +6813,7 @@ web/api/performancepainttiming/tojson,null
 web/api/performanceresourcetiming,null
 web/api/performanceresourcetiming/connectend,null
 web/api/performanceresourcetiming/connectstart,null
+web/api/performanceresourcetiming/contentencoding,null
 web/api/performanceresourcetiming/contenttype,null
 web/api/performanceresourcetiming/decodedbodysize,null
 web/api/performanceresourcetiming/deliverytype,null
@@ -7511,7 +7512,7 @@ web/api/rtcoutboundrtpstreamstats/totalencodetime,null
 web/api/rtcoutboundrtpstreamstats/totalpacketsenddelay,null
 web/api/rtcoutboundrtpstreamstats/transportid,null
 web/api/rtcoutboundrtpstreamstats/type,null
-web/api/rtcpeerconnection,11
+web/api/rtcpeerconnection,12
 web/api/rtcpeerconnection/addicecandidate,null
 web/api/rtcpeerconnection/addstream,null
 web/api/rtcpeerconnection/addstream_event,null
@@ -8151,7 +8152,7 @@ web/api/subtlecrypto/decrypt,null
 web/api/subtlecrypto/derivebits,null
 web/api/subtlecrypto/derivekey,null
 web/api/subtlecrypto/digest,null
-web/api/subtlecrypto/encrypt,0
+web/api/subtlecrypto/encrypt,1
 web/api/subtlecrypto/exportkey,null
 web/api/subtlecrypto/generatekey,0
 web/api/subtlecrypto/importkey,null
