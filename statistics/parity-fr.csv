@@ -790,7 +790,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
-learn_web_development/core/structuring_content/html_table_basics,0
+learn_web_development/core/structuring_content/html_table_basics,1
 learn_web_development/core/structuring_content/html_video_and_audio,0
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
 learn_web_development/core/structuring_content/lists,0
@@ -1089,7 +1089,7 @@ mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,0
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,0
-mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,0
+mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,1
 mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,0
@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,5
 mozilla/firefox,0
-mozilla/firefox/experimental_features,15
+mozilla/firefox/experimental_features,18
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1964,8 +1964,8 @@ mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
-mozilla/firefox/releases/154,0
-mozilla/firefox/releases/155,2
+mozilla/firefox/releases/154,1
+mozilla/firefox/releases/155,3
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
 mozilla/firefox/releases/16,1
@@ -3516,7 +3516,7 @@ web/api/document/createtouch,0
 web/api/document/createtouchlist,0
 web/api/document/createtreewalker,0
 web/api/document/currentscript,0
-web/api/document/customelementregistry,0
+web/api/document/customelementregistry,1
 web/api/document/defaultview,0
 web/api/document/designmode,0
 web/api/document/dir,0
@@ -3907,7 +3907,7 @@ web/api/element/contentvisibilityautostatechange_event,0
 web/api/element/contextmenu_event,0
 web/api/element/copy_event,0
 web/api/element/currentcsszoom,0
-web/api/element/customelementregistry,0
+web/api/element/customelementregistry,1
 web/api/element/cut_event,0
 web/api/element/dblclick_event,0
 web/api/element/domactivate_event,0
@@ -6813,6 +6813,7 @@ web/api/performancepainttiming/tojson,null
 web/api/performanceresourcetiming,null
 web/api/performanceresourcetiming/connectend,null
 web/api/performanceresourcetiming/connectstart,null
+web/api/performanceresourcetiming/contentencoding,null
 web/api/performanceresourcetiming/contenttype,null
 web/api/performanceresourcetiming/decodedbodysize,null
 web/api/performanceresourcetiming/deliverytype,0
@@ -7552,7 +7553,7 @@ web/api/rtcpeerconnection/removestream,null
 web/api/rtcpeerconnection/removestream_event,null
 web/api/rtcpeerconnection/removetrack,null
 web/api/rtcpeerconnection/restartice,null
-web/api/rtcpeerconnection/rtcpeerconnection,4
+web/api/rtcpeerconnection/rtcpeerconnection,5
 web/api/rtcpeerconnection/sctp,null
 web/api/rtcpeerconnection/setconfiguration,null
 web/api/rtcpeerconnection/setidentityprovider,null
@@ -10703,7 +10704,7 @@ web/css/reference/at-rules/@property/initial-value,0
 web/css/reference/at-rules/@property/syntax,0
 web/css/reference/at-rules/@scope,0
 web/css/reference/at-rules/@starting-style,0
-web/css/reference/at-rules/@supports,0
+web/css/reference/at-rules/@supports,1
 web/css/reference/at-rules/@view-transition,0
 web/css/reference/at-rules/at-rule_functions,0
 web/css/reference/mozilla_extensions,0
@@ -10737,7 +10738,7 @@ web/css/reference/properties/alignment-baseline,0
 web/css/reference/properties/all,0
 web/css/reference/properties/anchor-name,0
 web/css/reference/properties/anchor-scope,0
-web/css/reference/properties/animation,2
+web/css/reference/properties/animation,3
 web/css/reference/properties/animation-composition,0
 web/css/reference/properties/animation-delay,0
 web/css/reference/properties/animation-direction,0
@@ -11239,7 +11240,7 @@ web/css/reference/properties/text-underline-position,0
 web/css/reference/properties/text-wrap,0
 web/css/reference/properties/text-wrap-mode,0
 web/css/reference/properties/text-wrap-style,0
-web/css/reference/properties/timeline-scope,1
+web/css/reference/properties/timeline-scope,2
 web/css/reference/properties/top,0
 web/css/reference/properties/touch-action,0
 web/css/reference/properties/transform,0

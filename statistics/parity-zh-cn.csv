@@ -6810,9 +6810,10 @@ web/api/performancepainttiming,null
 web/api/performancepainttiming/painttime,null
 web/api/performancepainttiming/presentationtime,null
 web/api/performancepainttiming/tojson,null
-web/api/performanceresourcetiming,6
+web/api/performanceresourcetiming,7
 web/api/performanceresourcetiming/connectend,null
 web/api/performanceresourcetiming/connectstart,null
+web/api/performanceresourcetiming/contentencoding,null
 web/api/performanceresourcetiming/contenttype,null
 web/api/performanceresourcetiming/decodedbodysize,null
 web/api/performanceresourcetiming/deliverytype,null
@@ -7511,7 +7512,7 @@ web/api/rtcoutboundrtpstreamstats/totalencodetime,null
 web/api/rtcoutboundrtpstreamstats/totalpacketsenddelay,null
 web/api/rtcoutboundrtpstreamstats/transportid,null
 web/api/rtcoutboundrtpstreamstats/type,null
-web/api/rtcpeerconnection,8
+web/api/rtcpeerconnection,9
 web/api/rtcpeerconnection/addicecandidate,2
 web/api/rtcpeerconnection/addstream,null
 web/api/rtcpeerconnection/addstream_event,null
@@ -7522,9 +7523,9 @@ web/api/rtcpeerconnection/close,null
 web/api/rtcpeerconnection/connectionstate,null
 web/api/rtcpeerconnection/connectionstatechange_event,null
 web/api/rtcpeerconnection/createanswer,null
-web/api/rtcpeerconnection/createdatachannel,0
+web/api/rtcpeerconnection/createdatachannel,1
 web/api/rtcpeerconnection/createdtmfsender,null
-web/api/rtcpeerconnection/createoffer,3
+web/api/rtcpeerconnection/createoffer,4
 web/api/rtcpeerconnection/currentlocaldescription,null
 web/api/rtcpeerconnection/currentremotedescription,null
 web/api/rtcpeerconnection/datachannel_event,null
@@ -9659,7 +9660,7 @@ web/api/webgpu_api,null
 web/api/webhid_api,0
 web/api/webkitpoint,1
 web/api/webotp_api,null
-web/api/webrtc_api,4
+web/api/webrtc_api,5
 web/api/webrtc_api/build_a_phone_with_peerjs,10
 web/api/webrtc_api/build_a_phone_with_peerjs/build_the_server,2
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers,0
