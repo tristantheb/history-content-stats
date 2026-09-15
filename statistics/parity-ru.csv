@@ -12302,7 +12302,7 @@ web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,null
 web/javascript/guide/using_promises,null
 web/javascript/guide/working_with_objects,null
-web/javascript/reference,19
+web/javascript/reference,20
 web/javascript/reference/classes,null
 web/javascript/reference/classes/constructor,null
 web/javascript/reference/classes/extends,null
@@ -13506,6 +13506,7 @@ web/javascript/reference/operators/grouping,null
 web/javascript/reference/operators/import,null
 web/javascript/reference/operators/import.meta,null
 web/javascript/reference/operators/import.meta/resolve,null
+web/javascript/reference/operators/import/defer,null
 web/javascript/reference/operators/import/source,null
 web/javascript/reference/operators/in,9
 web/javascript/reference/operators/increment,null
@@ -13592,6 +13593,7 @@ web/javascript/reference/statements/function,null
 web/javascript/reference/statements/function_star_,null
 web/javascript/reference/statements/if...else,null
 web/javascript/reference/statements/import,null
+web/javascript/reference/statements/import/defer,null
 web/javascript/reference/statements/import/source,null
 web/javascript/reference/statements/import/with,null
 web/javascript/reference/statements/label,null

@@ -9199,7 +9199,7 @@ web/api/videotracklist/length,null
 web/api/videotracklist/removetrack_event,null
 web/api/videotracklist/selectedindex,null
 web/api/view_transition_api,9
-web/api/view_transition_api/using,12
+web/api/view_transition_api/using,13
 web/api/view_transition_api/using_element-scoped,null
 web/api/view_transition_api/using_types,null
 web/api/viewport,null
@@ -12302,7 +12302,7 @@ web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,3
 web/javascript/guide/using_promises,null
 web/javascript/guide/working_with_objects,null
-web/javascript/reference,13
+web/javascript/reference,14
 web/javascript/reference/classes,6
 web/javascript/reference/classes/constructor,8
 web/javascript/reference/classes/extends,7
@@ -13473,7 +13473,7 @@ web/javascript/reference/global_objects/weakset/weakset,null
 web/javascript/reference/iteration_protocols,null
 web/javascript/reference/javascript_technologies_overview,8
 web/javascript/reference/lexical_grammar,null
-web/javascript/reference/operators,7
+web/javascript/reference/operators,8
 web/javascript/reference/operators/addition,null
 web/javascript/reference/operators/addition_assignment,null
 web/javascript/reference/operators/assignment,null
@@ -13503,9 +13503,10 @@ web/javascript/reference/operators/function_star_,null
 web/javascript/reference/operators/greater_than,null
 web/javascript/reference/operators/greater_than_or_equal,null
 web/javascript/reference/operators/grouping,null
-web/javascript/reference/operators/import,9
+web/javascript/reference/operators/import,10
 web/javascript/reference/operators/import.meta,1
 web/javascript/reference/operators/import.meta/resolve,1
+web/javascript/reference/operators/import/defer,null
 web/javascript/reference/operators/import/source,null
 web/javascript/reference/operators/in,null
 web/javascript/reference/operators/increment,null
@@ -13570,7 +13571,7 @@ web/javascript/reference/regular_expressions/quantifier,5
 web/javascript/reference/regular_expressions/unicode_character_class_escape,1
 web/javascript/reference/regular_expressions/wildcard,0
 web/javascript/reference/regular_expressions/word_boundary_assertion,0
-web/javascript/reference/statements,8
+web/javascript/reference/statements,9
 web/javascript/reference/statements/async_function,6
 web/javascript/reference/statements/async_function_star_,7
 web/javascript/reference/statements/await_using,null
@@ -13582,7 +13583,7 @@ web/javascript/reference/statements/continue,6
 web/javascript/reference/statements/debugger,1
 web/javascript/reference/statements/do...while,4
 web/javascript/reference/statements/empty,4
-web/javascript/reference/statements/export,10
+web/javascript/reference/statements/export,11
 web/javascript/reference/statements/expression_statement,4
 web/javascript/reference/statements/for,9
 web/javascript/reference/statements/for-await...of,13
@@ -13592,6 +13593,7 @@ web/javascript/reference/statements/function,4
 web/javascript/reference/statements/function_star_,13
 web/javascript/reference/statements/if...else,4
 web/javascript/reference/statements/import,14
+web/javascript/reference/statements/import/defer,null
 web/javascript/reference/statements/import/source,null
 web/javascript/reference/statements/import/with,3
 web/javascript/reference/statements/label,7
