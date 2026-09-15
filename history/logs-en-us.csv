@@ -1819,7 +1819,7 @@ mozilla/add-ons/webextensions/differences_between_api_implementations,83b221d295
 mozilla/add-ons/webextensions/examples,ee33efab7300d7bf7319921a22f2eb2b60df91da,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/extending_the_developer_tools,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/implement_a_settings_page,673a473ab4b40c5f6787b2d3438370269fff31c7,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/interact_with_the_clipboard,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/interact_with_the_clipboard,d2635245ab110f84ef26cf0946d84478e597a42d,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/intercept_http_requests,6d0f39cf8d43b264b732d3056cea62a2e31fbca2,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/internationalization,65692fd4d256d5647749b7c7005dcf53d425a533,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json,ef11240e109e4b39ff9e8cac248d1c7d7c842112,Mozilla|Firefox Add-ons
@@ -5535,7 +5535,7 @@ web/api/idbdatabase/versionchange_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec
 web/api/idbfactory,dbd4ba01220a5031d3a26a3ac1490d3269210124,Web APIs
 web/api/idbfactory/cmp,d16706e4e930c57161d473287374a9286c663147,Web APIs
 web/api/idbfactory/databases,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/idbfactory/deletedatabase,a60464b0dfb623542aeee6a3fa3d28f0351fbf01,Web APIs
+web/api/idbfactory/deletedatabase,4c947bdeae2d9f574a3b59135f53c71ec4a3e87d,Web APIs
 web/api/idbfactory/open,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/idbindex,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/idbindex/count,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
@@ -5665,7 +5665,7 @@ web/api/imagedecoder/close,a7482281c4570bb7f932dce381f510d87ddf9924,Web APIs
 web/api/imagedecoder/complete,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/imagedecoder/completed,a7482281c4570bb7f932dce381f510d87ddf9924,Web APIs
 web/api/imagedecoder/decode,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
-web/api/imagedecoder/imagedecoder,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
+web/api/imagedecoder/imagedecoder,cda389d5c936131bfd781ec8044bf528cdf8ff23,Web APIs
 web/api/imagedecoder/istypesupported_static,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/imagedecoder/reset,a7482281c4570bb7f932dce381f510d87ddf9924,Web APIs
 web/api/imagedecoder/tracks,a7482281c4570bb7f932dce381f510d87ddf9924,Web APIs
@@ -13472,7 +13472,7 @@ web/javascript/reference/global_objects/weakset/has,7b63b90d24ad8945977bb9dc2735
 web/javascript/reference/global_objects/weakset/weakset,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/iteration_protocols,f34bebcf0fec2d69b96bb313c37f7e67b0355830,JavaScript
 web/javascript/reference/javascript_technologies_overview,1474534461893381d54c502e655f334b5568e597,JavaScript
-web/javascript/reference/lexical_grammar,5c8d0ac21db572edebbd4ad428efca0af3ec1734,JavaScript
+web/javascript/reference/lexical_grammar,febd0de3773b270df7ff405a3f282e8fb7cbee00,JavaScript
 web/javascript/reference/operators,f693fdeb65be430fdf3b7fc5cdf44a10a13f2bbf,JavaScript|Operators
 web/javascript/reference/operators/addition,1133f9e054bad2340b98a608b7894fd7daa62af6,JavaScript|Operators
 web/javascript/reference/operators/addition_assignment,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
