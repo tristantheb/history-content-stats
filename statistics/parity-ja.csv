@@ -1819,7 +1819,7 @@ mozilla/add-ons/webextensions/differences_between_api_implementations,null
 mozilla/add-ons/webextensions/examples,0
 mozilla/add-ons/webextensions/extending_the_developer_tools,null
 mozilla/add-ons/webextensions/implement_a_settings_page,null
-mozilla/add-ons/webextensions/interact_with_the_clipboard,0
+mozilla/add-ons/webextensions/interact_with_the_clipboard,1
 mozilla/add-ons/webextensions/intercept_http_requests,7
 mozilla/add-ons/webextensions/internationalization,1
 mozilla/add-ons/webextensions/manifest.json,4
@@ -5535,7 +5535,7 @@ web/api/idbdatabase/versionchange_event,5
 web/api/idbfactory,0
 web/api/idbfactory/cmp,0
 web/api/idbfactory/databases,1
-web/api/idbfactory/deletedatabase,2
+web/api/idbfactory/deletedatabase,3
 web/api/idbfactory/open,1
 web/api/idbindex,10
 web/api/idbindex/count,3
@@ -13472,7 +13472,7 @@ web/javascript/reference/global_objects/weakset/has,0
 web/javascript/reference/global_objects/weakset/weakset,0
 web/javascript/reference/iteration_protocols,1
 web/javascript/reference/javascript_technologies_overview,1
-web/javascript/reference/lexical_grammar,1
+web/javascript/reference/lexical_grammar,2
 web/javascript/reference/operators,4
 web/javascript/reference/operators/addition,2
 web/javascript/reference/operators/addition_assignment,0

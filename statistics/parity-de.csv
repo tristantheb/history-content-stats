@@ -1819,7 +1819,7 @@ mozilla/add-ons/webextensions/differences_between_api_implementations,0
 mozilla/add-ons/webextensions/examples,0
 mozilla/add-ons/webextensions/extending_the_developer_tools,0
 mozilla/add-ons/webextensions/implement_a_settings_page,0
-mozilla/add-ons/webextensions/interact_with_the_clipboard,0
+mozilla/add-ons/webextensions/interact_with_the_clipboard,1
 mozilla/add-ons/webextensions/intercept_http_requests,0
 mozilla/add-ons/webextensions/internationalization,0
 mozilla/add-ons/webextensions/manifest.json,0
@@ -5535,7 +5535,7 @@ web/api/idbdatabase/versionchange_event,0
 web/api/idbfactory,0
 web/api/idbfactory/cmp,0
 web/api/idbfactory/databases,0
-web/api/idbfactory/deletedatabase,0
+web/api/idbfactory/deletedatabase,1
 web/api/idbfactory/open,0
 web/api/idbindex,0
 web/api/idbindex/count,0
@@ -5665,7 +5665,7 @@ web/api/imagedecoder/close,0
 web/api/imagedecoder/complete,0
 web/api/imagedecoder/completed,0
 web/api/imagedecoder/decode,0
-web/api/imagedecoder/imagedecoder,0
+web/api/imagedecoder/imagedecoder,1
 web/api/imagedecoder/istypesupported_static,0
 web/api/imagedecoder/reset,0
 web/api/imagedecoder/tracks,0
@@ -13472,7 +13472,7 @@ web/javascript/reference/global_objects/weakset/has,0
 web/javascript/reference/global_objects/weakset/weakset,0
 web/javascript/reference/iteration_protocols,0
 web/javascript/reference/javascript_technologies_overview,0
-web/javascript/reference/lexical_grammar,0
+web/javascript/reference/lexical_grammar,1
 web/javascript/reference/operators,0
 web/javascript/reference/operators/addition,0
 web/javascript/reference/operators/addition_assignment,0
