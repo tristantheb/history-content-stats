@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,9
 mozilla/firefox,0
-mozilla/firefox/experimental_features,12
+mozilla/firefox/experimental_features,13
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -9199,7 +9199,7 @@ web/api/videotracklist/length,3
 web/api/videotracklist/removetrack_event,6
 web/api/videotracklist/selectedindex,2
 web/api/view_transition_api,10
-web/api/view_transition_api/using,2
+web/api/view_transition_api/using,3
 web/api/view_transition_api/using_element-scoped,null
 web/api/view_transition_api/using_types,2
 web/api/viewport,0
@@ -12140,7 +12140,7 @@ web/http/reference/headers/sec-ch-ua-wow64,null
 web/http/reference/headers/sec-ch-viewport-height,null
 web/http/reference/headers/sec-ch-viewport-width,null
 web/http/reference/headers/sec-ch-width,null
-web/http/reference/headers/sec-fetch-dest,2
+web/http/reference/headers/sec-fetch-dest,3
 web/http/reference/headers/sec-fetch-mode,1
 web/http/reference/headers/sec-fetch-site,1
 web/http/reference/headers/sec-fetch-storage-access,null
@@ -12302,7 +12302,7 @@ web/javascript/guide/typed_arrays,0
 web/javascript/guide/using_classes,0
 web/javascript/guide/using_promises,0
 web/javascript/guide/working_with_objects,1
-web/javascript/reference,3
+web/javascript/reference,4
 web/javascript/reference/classes,1
 web/javascript/reference/classes/constructor,0
 web/javascript/reference/classes/extends,0
@@ -13473,7 +13473,7 @@ web/javascript/reference/global_objects/weakset/weakset,0
 web/javascript/reference/iteration_protocols,1
 web/javascript/reference/javascript_technologies_overview,1
 web/javascript/reference/lexical_grammar,1
-web/javascript/reference/operators,3
+web/javascript/reference/operators,4
 web/javascript/reference/operators/addition,2
 web/javascript/reference/operators/addition_assignment,0
 web/javascript/reference/operators/assignment,0
@@ -13503,9 +13503,10 @@ web/javascript/reference/operators/function_star_,0
 web/javascript/reference/operators/greater_than,0
 web/javascript/reference/operators/greater_than_or_equal,0
 web/javascript/reference/operators/grouping,1
-web/javascript/reference/operators/import,3
+web/javascript/reference/operators/import,4
 web/javascript/reference/operators/import.meta,0
 web/javascript/reference/operators/import.meta/resolve,2
+web/javascript/reference/operators/import/defer,null
 web/javascript/reference/operators/import/source,null
 web/javascript/reference/operators/in,0
 web/javascript/reference/operators/increment,0
@@ -13570,7 +13571,7 @@ web/javascript/reference/regular_expressions/quantifier,8
 web/javascript/reference/regular_expressions/unicode_character_class_escape,14
 web/javascript/reference/regular_expressions/wildcard,0
 web/javascript/reference/regular_expressions/word_boundary_assertion,0
-web/javascript/reference/statements,3
+web/javascript/reference/statements,4
 web/javascript/reference/statements/async_function,0
 web/javascript/reference/statements/async_function_star_,13
 web/javascript/reference/statements/await_using,0
@@ -13582,7 +13583,7 @@ web/javascript/reference/statements/continue,0
 web/javascript/reference/statements/debugger,0
 web/javascript/reference/statements/do...while,0
 web/javascript/reference/statements/empty,5
-web/javascript/reference/statements/export,2
+web/javascript/reference/statements/export,3
 web/javascript/reference/statements/expression_statement,4
 web/javascript/reference/statements/for,2
 web/javascript/reference/statements/for-await...of,1
@@ -13592,6 +13593,7 @@ web/javascript/reference/statements/function,0
 web/javascript/reference/statements/function_star_,1
 web/javascript/reference/statements/if...else,1
 web/javascript/reference/statements/import,2
+web/javascript/reference/statements/import/defer,null
 web/javascript/reference/statements/import/source,null
 web/javascript/reference/statements/import/with,14
 web/javascript/reference/statements/label,11
