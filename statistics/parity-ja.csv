@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,9
 mozilla/firefox,0
-mozilla/firefox/experimental_features,13
+mozilla/firefox/experimental_features,14
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -2246,7 +2246,7 @@ web/accessibility/aria/reference/roles/term_role,3
 web/accessibility/aria/reference/roles/textbox_role,9
 web/accessibility/aria/reference/roles/timer_role,4
 web/accessibility/aria/reference/roles/toolbar_role,0
-web/accessibility/aria/reference/roles/tooltip_role,7
+web/accessibility/aria/reference/roles/tooltip_role,8
 web/accessibility/aria/reference/roles/tree_role,2
 web/accessibility/aria/reference/roles/treegrid_role,2
 web/accessibility/aria/reference/roles/treeitem_role,0

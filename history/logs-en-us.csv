@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,0af4dd8fa2007f51373931068e6f524e4f2bf86a,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,41260cba50c6af210780709a7fc53d3a90f45f00,Mozilla|Firefox
+mozilla/firefox/experimental_features,89e9d2f0101cff4fcb158fc3a62e053aa6ce9f61,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1966,7 +1966,7 @@ mozilla/firefox/releases/152,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Fi
 mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff,Mozilla|Firefox|Versions
 mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
-mozilla/firefox/releases/156,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
+mozilla/firefox/releases/156,05af1a8fbb6316c6ecc8a7b1493e711b637e23b9,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
 mozilla/firefox/releases/158,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
@@ -2246,7 +2246,7 @@ web/accessibility/aria/reference/roles/term_role,a8b25483994fa47cf949b432ddf34a6
 web/accessibility/aria/reference/roles/textbox_role,fd2acb039cc1caee4af10f76ffb839c8da7da5b8,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/timer_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/toolbar_role,c833741444aba4d524992813eda1cd8d64563aed,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/tooltip_role,c9f3d85f24d7839c9fe36a68d8042d088d906147,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/tooltip_role,0091c5e7d19dd48ae2a9236b89159651a19ecee1,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tree_role,d1fd21c87a4917e56dab84fc0b1d321ebb22874e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treegrid_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treeitem_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
