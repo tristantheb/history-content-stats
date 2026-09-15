@@ -8640,8 +8640,8 @@ web/api/svgradialgradientelement/fx,null
 web/api/svgradialgradientelement/fy,null
 web/api/svgradialgradientelement/r,null
 web/api/svgrect,null
-web/api/svgrect/height,null
-web/api/svgrect/width,null
+web/api/svgrect/height,0
+web/api/svgrect/width,0
 web/api/svgrect/x,null
 web/api/svgrect/y,null
 web/api/svgrectelement,null
@@ -14336,7 +14336,7 @@ web/xml/xslt/guides/pi_parameters,null
 web/xml/xslt/guides/transforming_xml_with_xslt,null
 web/xml/xslt/reference,null
 web/xml/xslt/reference/element,null
-web/xml/xslt/reference/element/apply-imports,null
+web/xml/xslt/reference/element/apply-imports,0
 web/xml/xslt/reference/element/apply-templates,null
 web/xml/xslt/reference/element/attribute,null
 web/xml/xslt/reference/element/attribute-set,null

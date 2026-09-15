@@ -790,7 +790,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
-learn_web_development/core/structuring_content/html_table_basics,1
+learn_web_development/core/structuring_content/html_table_basics,0
 learn_web_development/core/structuring_content/html_video_and_audio,0
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
 learn_web_development/core/structuring_content/lists,0
@@ -1089,7 +1089,7 @@ mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,0
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,0
-mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,1
+mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,0
 mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,0
@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,3
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1964,11 +1964,11 @@ mozilla/firefox/releases/150,0
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
-mozilla/firefox/releases/154,1
-mozilla/firefox/releases/155,2
-mozilla/firefox/releases/156,1
-mozilla/firefox/releases/157,1
-mozilla/firefox/releases/158,null
+mozilla/firefox/releases/154,0
+mozilla/firefox/releases/155,0
+mozilla/firefox/releases/156,0
+mozilla/firefox/releases/157,0
+mozilla/firefox/releases/158,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -3369,7 +3369,7 @@ web/api/cssviewtransitionrule,0
 web/api/cssviewtransitionrule/navigation,0
 web/api/cssviewtransitionrule/types,0
 web/api/customelementregistry,0
-web/api/customelementregistry/customelementregistry,1
+web/api/customelementregistry/customelementregistry,0
 web/api/customelementregistry/define,0
 web/api/customelementregistry/get,0
 web/api/customelementregistry/getname,0
@@ -3517,7 +3517,7 @@ web/api/document/createtouch,0
 web/api/document/createtouchlist,0
 web/api/document/createtreewalker,0
 web/api/document/currentscript,0
-web/api/document/customelementregistry,1
+web/api/document/customelementregistry,0
 web/api/document/defaultview,0
 web/api/document/designmode,0
 web/api/document/dir,0
@@ -3908,7 +3908,7 @@ web/api/element/contentvisibilityautostatechange_event,0
 web/api/element/contextmenu_event,0
 web/api/element/copy_event,0
 web/api/element/currentcsszoom,0
-web/api/element/customelementregistry,1
+web/api/element/customelementregistry,0
 web/api/element/cut_event,0
 web/api/element/dblclick_event,0
 web/api/element/domactivate_event,0
@@ -6811,10 +6811,10 @@ web/api/performancepainttiming,0
 web/api/performancepainttiming/painttime,0
 web/api/performancepainttiming/presentationtime,0
 web/api/performancepainttiming/tojson,0
-web/api/performanceresourcetiming,1
+web/api/performanceresourcetiming,0
 web/api/performanceresourcetiming/connectend,0
 web/api/performanceresourcetiming/connectstart,0
-web/api/performanceresourcetiming/contentencoding,null
+web/api/performanceresourcetiming/contentencoding,0
 web/api/performanceresourcetiming/contenttype,0
 web/api/performanceresourcetiming/decodedbodysize,0
 web/api/performanceresourcetiming/deliverytype,0
@@ -7513,7 +7513,7 @@ web/api/rtcoutboundrtpstreamstats/totalencodetime,0
 web/api/rtcoutboundrtpstreamstats/totalpacketsenddelay,0
 web/api/rtcoutboundrtpstreamstats/transportid,0
 web/api/rtcoutboundrtpstreamstats/type,0
-web/api/rtcpeerconnection,1
+web/api/rtcpeerconnection,0
 web/api/rtcpeerconnection/addicecandidate,0
 web/api/rtcpeerconnection/addstream,0
 web/api/rtcpeerconnection/addstream_event,0
@@ -7524,9 +7524,9 @@ web/api/rtcpeerconnection/close,0
 web/api/rtcpeerconnection/connectionstate,0
 web/api/rtcpeerconnection/connectionstatechange_event,0
 web/api/rtcpeerconnection/createanswer,0
-web/api/rtcpeerconnection/createdatachannel,1
+web/api/rtcpeerconnection/createdatachannel,0
 web/api/rtcpeerconnection/createdtmfsender,0
-web/api/rtcpeerconnection/createoffer,1
+web/api/rtcpeerconnection/createoffer,0
 web/api/rtcpeerconnection/currentlocaldescription,0
 web/api/rtcpeerconnection/currentremotedescription,0
 web/api/rtcpeerconnection/datachannel_event,0
@@ -7554,9 +7554,9 @@ web/api/rtcpeerconnection/removestream,0
 web/api/rtcpeerconnection/removestream_event,0
 web/api/rtcpeerconnection/removetrack,0
 web/api/rtcpeerconnection/restartice,0
-web/api/rtcpeerconnection/rtcpeerconnection,1
+web/api/rtcpeerconnection/rtcpeerconnection,0
 web/api/rtcpeerconnection/sctp,0
-web/api/rtcpeerconnection/setconfiguration,1
+web/api/rtcpeerconnection/setconfiguration,0
 web/api/rtcpeerconnection/setidentityprovider,0
 web/api/rtcpeerconnection/setlocaldescription,0
 web/api/rtcpeerconnection/setremotedescription,0
@@ -7907,7 +7907,7 @@ web/api/shadowroot,0
 web/api/shadowroot/activeelement,0
 web/api/shadowroot/adoptedstylesheets,0
 web/api/shadowroot/clonable,0
-web/api/shadowroot/customelementregistry,1
+web/api/shadowroot/customelementregistry,0
 web/api/shadowroot/delegatesfocus,0
 web/api/shadowroot/elementfrompoint,0
 web/api/shadowroot/elementsfrompoint,0
@@ -8153,7 +8153,7 @@ web/api/subtlecrypto/decrypt,0
 web/api/subtlecrypto/derivebits,0
 web/api/subtlecrypto/derivekey,0
 web/api/subtlecrypto/digest,0
-web/api/subtlecrypto/encrypt,1
+web/api/subtlecrypto/encrypt,0
 web/api/subtlecrypto/exportkey,0
 web/api/subtlecrypto/generatekey,0
 web/api/subtlecrypto/importkey,0
@@ -8516,7 +8516,7 @@ web/api/svggradientelement/gradientunits,0
 web/api/svggradientelement/href,0
 web/api/svggradientelement/spreadmethod,0
 web/api/svggraphicselement,0
-web/api/svggraphicselement/getbbox,1
+web/api/svggraphicselement/getbbox,0
 web/api/svggraphicselement/getctm,0
 web/api/svggraphicselement/getscreenctm,0
 web/api/svggraphicselement/requiredextensions,0
@@ -9210,7 +9210,7 @@ web/api/viewtimeline,0
 web/api/viewtimeline/endoffset,0
 web/api/viewtimeline/startoffset,0
 web/api/viewtimeline/subject,0
-web/api/viewtimeline/viewtimeline,1
+web/api/viewtimeline/viewtimeline,0
 web/api/viewtransition,0
 web/api/viewtransition/finished,0
 web/api/viewtransition/ready,0
@@ -9661,7 +9661,7 @@ web/api/webgpu_api,0
 web/api/webhid_api,0
 web/api/webkitpoint,0
 web/api/webotp_api,0
-web/api/webrtc_api,1
+web/api/webrtc_api,0
 web/api/webrtc_api/build_a_phone_with_peerjs,0
 web/api/webrtc_api/build_a_phone_with_peerjs/build_the_server,0
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers,0
@@ -9934,7 +9934,7 @@ web/api/window/toolbar,0
 web/api/window/top,0
 web/api/window/trustedtypes,0
 web/api/window/unhandledrejection_event,0
-web/api/window/unload_event,1
+web/api/window/unload_event,0
 web/api/window/viewport,0
 web/api/window/visualviewport,0
 web/api/window/vrdisplayactivate_event,0
@@ -10705,7 +10705,7 @@ web/css/reference/at-rules/@property/initial-value,0
 web/css/reference/at-rules/@property/syntax,0
 web/css/reference/at-rules/@scope,0
 web/css/reference/at-rules/@starting-style,0
-web/css/reference/at-rules/@supports,1
+web/css/reference/at-rules/@supports,0
 web/css/reference/at-rules/@view-transition,0
 web/css/reference/at-rules/at-rule_functions,0
 web/css/reference/mozilla_extensions,0
@@ -10739,7 +10739,7 @@ web/css/reference/properties/alignment-baseline,0
 web/css/reference/properties/all,0
 web/css/reference/properties/anchor-name,0
 web/css/reference/properties/anchor-scope,0
-web/css/reference/properties/animation,1
+web/css/reference/properties/animation,0
 web/css/reference/properties/animation-composition,0
 web/css/reference/properties/animation-delay,0
 web/css/reference/properties/animation-direction,0
@@ -11014,7 +11014,7 @@ web/css/reference/properties/left,0
 web/css/reference/properties/letter-spacing,0
 web/css/reference/properties/lighting-color,0
 web/css/reference/properties/line-break,0
-web/css/reference/properties/line-clamp,1
+web/css/reference/properties/line-clamp,0
 web/css/reference/properties/line-height,0
 web/css/reference/properties/line-height-step,0
 web/css/reference/properties/link-parameters,0
@@ -11241,7 +11241,7 @@ web/css/reference/properties/text-underline-position,0
 web/css/reference/properties/text-wrap,0
 web/css/reference/properties/text-wrap-mode,0
 web/css/reference/properties/text-wrap-style,0
-web/css/reference/properties/timeline-scope,1
+web/css/reference/properties/timeline-scope,0
 web/css/reference/properties/top,0
 web/css/reference/properties/touch-action,0
 web/css/reference/properties/transform,0
@@ -12051,7 +12051,7 @@ web/http/reference/headers/no-vary-search,0
 web/http/reference/headers/observe-browsing-topics,0
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,0
-web/http/reference/headers/permissions-policy,1
+web/http/reference/headers/permissions-policy,0
 web/http/reference/headers/permissions-policy-report-only,0
 web/http/reference/headers/permissions-policy/accelerometer,0
 web/http/reference/headers/permissions-policy/ambient-light-sensor,0
@@ -12099,7 +12099,7 @@ web/http/reference/headers/permissions-policy/speaker-selection,0
 web/http/reference/headers/permissions-policy/storage-access,0
 web/http/reference/headers/permissions-policy/summarizer,0
 web/http/reference/headers/permissions-policy/translator,0
-web/http/reference/headers/permissions-policy/unload,null
+web/http/reference/headers/permissions-policy/unload,0
 web/http/reference/headers/permissions-policy/usb,0
 web/http/reference/headers/permissions-policy/web-share,0
 web/http/reference/headers/permissions-policy/window-management,0
