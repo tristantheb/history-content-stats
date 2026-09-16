@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,0af4dd8fa2007f51373931068e6f524e4f2bf86a,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,89e9d2f0101cff4fcb158fc3a62e053aa6ce9f61,Mozilla|Firefox
+mozilla/firefox/experimental_features,e1d75786a9ba2607af68a3fe2ef8dc3aaba99661,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1966,7 +1966,7 @@ mozilla/firefox/releases/152,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Fi
 mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff,Mozilla|Firefox|Versions
 mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
-mozilla/firefox/releases/156,05af1a8fbb6316c6ecc8a7b1493e711b637e23b9,Mozilla|Firefox|Versions
+mozilla/firefox/releases/156,e1d75786a9ba2607af68a3fe2ef8dc3aaba99661,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
 mozilla/firefox/releases/158,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
@@ -10571,7 +10571,7 @@ web/css/guides/syntax/comments,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guid
 web/css/guides/syntax/error_handling,a397ab763a6686a4056af755e4da32ac735b9fa5,CSS|Guides
 web/css/guides/syntax/introduction,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/table,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/text,93b85a5bc2b4589d93185263fd2c14381c36f821,CSS|Guides
+web/css/guides/text,8e307de115d41e9214fcacbd7fe89532756816b4,CSS|Guides
 web/css/guides/text/whitespace,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
 web/css/guides/text/wrapping_breaking_text,d4569d185ccab9b722eb849c033ef69f8f44d107,CSS|Guides
 web/css/guides/text_decoration,c5c748631460fdad4eaba40349ece8408fe24195,CSS|Guides
@@ -10739,7 +10739,7 @@ web/css/reference/properties/alignment-baseline,071fd0613b1b5728d2d83845ea11512c
 web/css/reference/properties/all,8a13259a44523cd17b4fe347088b62c6d7a35265,CSS|Properties
 web/css/reference/properties/anchor-name,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/anchor-scope,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/animation,84058a6d6c891f39718617e98db2a6db1387096b,CSS|Properties
+web/css/reference/properties/animation,0937bc9595c0cc914b82ae9c56b7e1cc52209f25,CSS|Properties
 web/css/reference/properties/animation-composition,d4dc9d899ebec0e9c22a5bb9229f39f33457d8df,CSS|Properties
 web/css/reference/properties/animation-delay,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/animation-direction,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
@@ -11227,6 +11227,7 @@ web/css/reference/properties/text-emphasis,5381238460a48ff323a93e652d15cb62598f0
 web/css/reference/properties/text-emphasis-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-emphasis-position,09a34cfd2a50cad3d6b520027cbab56f05d4d731,CSS|Properties
 web/css/reference/properties/text-emphasis-style,56f3d7018159127dbe92842413fb45d0aa7e8193,CSS|Properties
+web/css/reference/properties/text-fit,8e307de115d41e9214fcacbd7fe89532756816b4,CSS|Properties
 web/css/reference/properties/text-indent,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-justify,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-orientation,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties

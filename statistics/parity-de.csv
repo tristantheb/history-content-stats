@@ -779,14 +779,14 @@ learn_web_development/core/scripting/useful_string_methods,0
 learn_web_development/core/scripting/variables,0
 learn_web_development/core/scripting/what_is_javascript,0
 learn_web_development/core/scripting/what_went_wrong,0
-learn_web_development/core/structuring_content,1
+learn_web_development/core/structuring_content,0
 learn_web_development/core/structuring_content/advanced_text_features,0
 learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
 learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,0
 learn_web_development/core/structuring_content/forms_challenge,0
-learn_web_development/core/structuring_content/general_embedding_technologies,1
+learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1966,7 +1966,7 @@ mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,0
-mozilla/firefox/releases/156,0
+mozilla/firefox/releases/156,1
 mozilla/firefox/releases/157,0
 mozilla/firefox/releases/158,0
 mozilla/firefox/releases/16,0
@@ -4499,7 +4499,7 @@ web/api/gpucanvascontext/getconfiguration,0
 web/api/gpucanvascontext/getcurrenttexture,0
 web/api/gpucanvascontext/unconfigure,0
 web/api/gpucommandbuffer,0
-web/api/gpucommandbuffer/label,1
+web/api/gpucommandbuffer/label,0
 web/api/gpucommandencoder,0
 web/api/gpucommandencoder/begincomputepass,0
 web/api/gpucommandencoder/beginrenderpass,0
@@ -4510,7 +4510,7 @@ web/api/gpucommandencoder/copytexturetobuffer,0
 web/api/gpucommandencoder/copytexturetotexture,0
 web/api/gpucommandencoder/finish,0
 web/api/gpucommandencoder/insertdebugmarker,0
-web/api/gpucommandencoder/label,1
+web/api/gpucommandencoder/label,0
 web/api/gpucommandencoder/popdebuggroup,0
 web/api/gpucommandencoder/pushdebuggroup,0
 web/api/gpucommandencoder/resolvequeryset,0
@@ -4529,7 +4529,7 @@ web/api/gpucomputepassencoder/dispatchworkgroups,0
 web/api/gpucomputepassencoder/dispatchworkgroupsindirect,0
 web/api/gpucomputepassencoder/end,0
 web/api/gpucomputepassencoder/insertdebugmarker,0
-web/api/gpucomputepassencoder/label,1
+web/api/gpucomputepassencoder/label,0
 web/api/gpucomputepassencoder/popdebuggroup,0
 web/api/gpucomputepassencoder/pushdebuggroup,0
 web/api/gpucomputepassencoder/setbindgroup,0
@@ -4556,7 +4556,7 @@ web/api/gpudevice/createtexture,0
 web/api/gpudevice/destroy,0
 web/api/gpudevice/features,0
 web/api/gpudevice/importexternaltexture,0
-web/api/gpudevice/label,1
+web/api/gpudevice/label,0
 web/api/gpudevice/limits,0
 web/api/gpudevice/lost,0
 web/api/gpudevice/poperrorscope,0
@@ -4586,13 +4586,13 @@ web/api/gpuqueryset/label,0
 web/api/gpuqueryset/type,0
 web/api/gpuqueue,0
 web/api/gpuqueue/copyexternalimagetotexture,0
-web/api/gpuqueue/label,1
+web/api/gpuqueue/label,0
 web/api/gpuqueue/onsubmittedworkdone,0
 web/api/gpuqueue/submit,0
 web/api/gpuqueue/writebuffer,0
 web/api/gpuqueue/writetexture,0
 web/api/gpurenderbundle,0
-web/api/gpurenderbundle/label,1
+web/api/gpurenderbundle/label,0
 web/api/gpurenderbundleencoder,0
 web/api/gpurenderbundleencoder/draw,0
 web/api/gpurenderbundleencoder/drawindexed,0
@@ -4600,7 +4600,7 @@ web/api/gpurenderbundleencoder/drawindexedindirect,0
 web/api/gpurenderbundleencoder/drawindirect,0
 web/api/gpurenderbundleencoder/finish,0
 web/api/gpurenderbundleencoder/insertdebugmarker,0
-web/api/gpurenderbundleencoder/label,1
+web/api/gpurenderbundleencoder/label,0
 web/api/gpurenderbundleencoder/popdebuggroup,0
 web/api/gpurenderbundleencoder/pushdebuggroup,0
 web/api/gpurenderbundleencoder/setbindgroup,0
@@ -4617,7 +4617,7 @@ web/api/gpurenderpassencoder/end,0
 web/api/gpurenderpassencoder/endocclusionquery,0
 web/api/gpurenderpassencoder/executebundles,0
 web/api/gpurenderpassencoder/insertdebugmarker,0
-web/api/gpurenderpassencoder/label,1
+web/api/gpurenderpassencoder/label,0
 web/api/gpurenderpassencoder/popdebuggroup,0
 web/api/gpurenderpassencoder/pushdebuggroup,0
 web/api/gpurenderpassencoder/setbindgroup,0
@@ -5568,7 +5568,7 @@ web/api/idbobjectstore/add,0
 web/api/idbobjectstore/autoincrement,0
 web/api/idbobjectstore/clear,0
 web/api/idbobjectstore/count,0
-web/api/idbobjectstore/createindex,1
+web/api/idbobjectstore/createindex,0
 web/api/idbobjectstore/delete,0
 web/api/idbobjectstore/deleteindex,0
 web/api/idbobjectstore/get,0
@@ -9346,7 +9346,7 @@ web/api/web_animations_api/using_the_web_animations_api,0
 web/api/web_animations_api/web_animations_api_concepts,0
 web/api/web_audio_api,0
 web/api/web_audio_api/advanced_techniques,0
-web/api/web_audio_api/basic_concepts_behind_web_audio_api,1
+web/api/web_audio_api/basic_concepts_behind_web_audio_api,0
 web/api/web_audio_api/best_practices,0
 web/api/web_audio_api/controlling_multiple_parameters_with_constantsourcenode,0
 web/api/web_audio_api/simple_synth,0
@@ -10571,7 +10571,7 @@ web/css/guides/syntax/comments,0
 web/css/guides/syntax/error_handling,0
 web/css/guides/syntax/introduction,0
 web/css/guides/table,0
-web/css/guides/text,0
+web/css/guides/text,1
 web/css/guides/text/whitespace,0
 web/css/guides/text/wrapping_breaking_text,0
 web/css/guides/text_decoration,0
@@ -10739,7 +10739,7 @@ web/css/reference/properties/alignment-baseline,0
 web/css/reference/properties/all,0
 web/css/reference/properties/anchor-name,0
 web/css/reference/properties/anchor-scope,0
-web/css/reference/properties/animation,0
+web/css/reference/properties/animation,1
 web/css/reference/properties/animation-composition,0
 web/css/reference/properties/animation-delay,0
 web/css/reference/properties/animation-direction,0
@@ -11227,6 +11227,7 @@ web/css/reference/properties/text-emphasis,0
 web/css/reference/properties/text-emphasis-color,0
 web/css/reference/properties/text-emphasis-position,0
 web/css/reference/properties/text-emphasis-style,0
+web/css/reference/properties/text-fit,null
 web/css/reference/properties/text-indent,0
 web/css/reference/properties/text-justify,0
 web/css/reference/properties/text-orientation,0
@@ -11693,7 +11694,7 @@ web/html/reference/attributes/rel/prerender,0
 web/html/reference/attributes/required,0
 web/html/reference/attributes/size,0
 web/html/reference/attributes/step,0
-web/html/reference/elements,1
+web/html/reference/elements,0
 web/html/reference/elements/a,0
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,0
@@ -11730,7 +11731,7 @@ web/html/reference/elements/div,0
 web/html/reference/elements/dl,0
 web/html/reference/elements/dt,0
 web/html/reference/elements/em,0
-web/html/reference/elements/embed,1
+web/html/reference/elements/embed,0
 web/html/reference/elements/fencedframe,0
 web/html/reference/elements/fieldset,0
 web/html/reference/elements/figcaption,0
@@ -11748,7 +11749,7 @@ web/html/reference/elements/hgroup,0
 web/html/reference/elements/hr,0
 web/html/reference/elements/html,0
 web/html/reference/elements/i,0
-web/html/reference/elements/iframe,1
+web/html/reference/elements/iframe,0
 web/html/reference/elements/img,0
 web/html/reference/elements/input,0
 web/html/reference/elements/input/button,0
@@ -11800,7 +11801,7 @@ web/html/reference/elements/nobr,0
 web/html/reference/elements/noembed,0
 web/html/reference/elements/noframes,0
 web/html/reference/elements/noscript,0
-web/html/reference/elements/object,1
+web/html/reference/elements/object,0
 web/html/reference/elements/ol,0
 web/html/reference/elements/optgroup,0
 web/html/reference/elements/option,0
@@ -12956,7 +12957,7 @@ web/javascript/reference/global_objects/object/setprototypeof,0
 web/javascript/reference/global_objects/object/tolocalestring,0
 web/javascript/reference/global_objects/object/tostring,0
 web/javascript/reference/global_objects/object/valueof,0
-web/javascript/reference/global_objects/object/values,1
+web/javascript/reference/global_objects/object/values,0
 web/javascript/reference/global_objects/parsefloat,0
 web/javascript/reference/global_objects/parseint,0
 web/javascript/reference/global_objects/promise,0

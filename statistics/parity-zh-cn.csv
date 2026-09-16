@@ -10571,7 +10571,7 @@ web/css/guides/syntax/comments,null
 web/css/guides/syntax/error_handling,null
 web/css/guides/syntax/introduction,null
 web/css/guides/table,null
-web/css/guides/text,2
+web/css/guides/text,3
 web/css/guides/text/whitespace,3
 web/css/guides/text/wrapping_breaking_text,null
 web/css/guides/text_decoration,2
@@ -11227,6 +11227,7 @@ web/css/reference/properties/text-emphasis,8
 web/css/reference/properties/text-emphasis-color,3
 web/css/reference/properties/text-emphasis-position,4
 web/css/reference/properties/text-emphasis-style,3
+web/css/reference/properties/text-fit,null
 web/css/reference/properties/text-indent,9
 web/css/reference/properties/text-justify,null
 web/css/reference/properties/text-orientation,null
