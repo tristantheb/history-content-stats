@@ -779,14 +779,14 @@ learn_web_development/core/scripting/useful_string_methods,null
 learn_web_development/core/scripting/variables,null
 learn_web_development/core/scripting/what_is_javascript,null
 learn_web_development/core/scripting/what_went_wrong,null
-learn_web_development/core/structuring_content,0
+learn_web_development/core/structuring_content,1
 learn_web_development/core/structuring_content/advanced_text_features,0
 learn_web_development/core/structuring_content/basic_html_syntax,0
 learn_web_development/core/structuring_content/creating_links,0
 learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,0
 learn_web_development/core/structuring_content/forms_challenge,0
-learn_web_development/core/structuring_content/general_embedding_technologies,0
+learn_web_development/core/structuring_content/general_embedding_technologies,1
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
@@ -11693,7 +11693,7 @@ web/html/reference/attributes/rel/prerender,0
 web/html/reference/attributes/required,0
 web/html/reference/attributes/size,0
 web/html/reference/attributes/step,0
-web/html/reference/elements,1
+web/html/reference/elements,2
 web/html/reference/elements/a,0
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,0
@@ -11730,7 +11730,7 @@ web/html/reference/elements/div,1
 web/html/reference/elements/dl,0
 web/html/reference/elements/dt,0
 web/html/reference/elements/em,0
-web/html/reference/elements/embed,0
+web/html/reference/elements/embed,1
 web/html/reference/elements/fencedframe,0
 web/html/reference/elements/fieldset,0
 web/html/reference/elements/figcaption,0
@@ -11748,7 +11748,7 @@ web/html/reference/elements/hgroup,0
 web/html/reference/elements/hr,0
 web/html/reference/elements/html,0
 web/html/reference/elements/i,0
-web/html/reference/elements/iframe,0
+web/html/reference/elements/iframe,1
 web/html/reference/elements/img,1
 web/html/reference/elements/input,1
 web/html/reference/elements/input/button,0
@@ -11800,7 +11800,7 @@ web/html/reference/elements/nobr,0
 web/html/reference/elements/noembed,0
 web/html/reference/elements/noframes,0
 web/html/reference/elements/noscript,0
-web/html/reference/elements/object,0
+web/html/reference/elements/object,1
 web/html/reference/elements/ol,0
 web/html/reference/elements/optgroup,0
 web/html/reference/elements/option,0
@@ -12956,7 +12956,7 @@ web/javascript/reference/global_objects/object/setprototypeof,0
 web/javascript/reference/global_objects/object/tolocalestring,0
 web/javascript/reference/global_objects/object/tostring,0
 web/javascript/reference/global_objects/object/valueof,0
-web/javascript/reference/global_objects/object/values,0
+web/javascript/reference/global_objects/object/values,1
 web/javascript/reference/global_objects/parsefloat,0
 web/javascript/reference/global_objects/parseint,0
 web/javascript/reference/global_objects/promise,1
