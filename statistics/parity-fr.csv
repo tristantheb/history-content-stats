@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,5
 mozilla/firefox,0
-mozilla/firefox/experimental_features,2
+mozilla/firefox/experimental_features,3
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1966,7 +1966,7 @@ mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,0
-mozilla/firefox/releases/156,1
+mozilla/firefox/releases/156,2
 mozilla/firefox/releases/157,null
 mozilla/firefox/releases/158,null
 mozilla/firefox/releases/16,1
@@ -10739,7 +10739,7 @@ web/css/reference/properties/alignment-baseline,0
 web/css/reference/properties/all,0
 web/css/reference/properties/anchor-name,0
 web/css/reference/properties/anchor-scope,0
-web/css/reference/properties/animation,3
+web/css/reference/properties/animation,4
 web/css/reference/properties/animation-composition,0
 web/css/reference/properties/animation-delay,0
 web/css/reference/properties/animation-direction,0
@@ -11227,6 +11227,7 @@ web/css/reference/properties/text-emphasis,0
 web/css/reference/properties/text-emphasis-color,0
 web/css/reference/properties/text-emphasis-position,1
 web/css/reference/properties/text-emphasis-style,0
+web/css/reference/properties/text-fit,null
 web/css/reference/properties/text-indent,0
 web/css/reference/properties/text-justify,0
 web/css/reference/properties/text-orientation,0

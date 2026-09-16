@@ -10571,7 +10571,7 @@ web/css/guides/syntax/comments,null
 web/css/guides/syntax/error_handling,null
 web/css/guides/syntax/introduction,null
 web/css/guides/table,null
-web/css/guides/text,2
+web/css/guides/text,3
 web/css/guides/text/whitespace,null
 web/css/guides/text/wrapping_breaking_text,3
 web/css/guides/text_decoration,null
@@ -10739,7 +10739,7 @@ web/css/reference/properties/alignment-baseline,null
 web/css/reference/properties/all,null
 web/css/reference/properties/anchor-name,null
 web/css/reference/properties/anchor-scope,null
-web/css/reference/properties/animation,13
+web/css/reference/properties/animation,14
 web/css/reference/properties/animation-composition,null
 web/css/reference/properties/animation-delay,null
 web/css/reference/properties/animation-direction,null
@@ -11227,6 +11227,7 @@ web/css/reference/properties/text-emphasis,null
 web/css/reference/properties/text-emphasis-color,null
 web/css/reference/properties/text-emphasis-position,null
 web/css/reference/properties/text-emphasis-style,null
+web/css/reference/properties/text-fit,null
 web/css/reference/properties/text-indent,null
 web/css/reference/properties/text-justify,null
 web/css/reference/properties/text-orientation,null
