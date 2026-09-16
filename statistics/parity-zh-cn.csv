@@ -730,7 +730,7 @@ learn_web_development/core/css_layout/supporting_older_browsers,null
 learn_web_development/core/css_layout/test_your_skills,1
 learn_web_development/core/css_layout/test_your_skills/flexbox,null
 learn_web_development/core/css_layout/test_your_skills/floats,null
-learn_web_development/core/css_layout/test_your_skills/grid,null
+learn_web_development/core/css_layout/test_your_skills/grid,0
 learn_web_development/core/css_layout/test_your_skills/position,null
 learn_web_development/core/css_layout/test_your_skills/responsive_design,4
 learn_web_development/core/design_for_developers,null
@@ -2168,10 +2168,10 @@ web/accessibility/aria/reference/roles,3
 web/accessibility/aria/reference/roles/alert_role,0
 web/accessibility/aria/reference/roles/alertdialog_role,0
 web/accessibility/aria/reference/roles/application_role,0
-web/accessibility/aria/reference/roles/article_role,null
+web/accessibility/aria/reference/roles/article_role,0
 web/accessibility/aria/reference/roles/banner_role,0
 web/accessibility/aria/reference/roles/button_role,11
-web/accessibility/aria/reference/roles/cell_role,null
+web/accessibility/aria/reference/roles/cell_role,0
 web/accessibility/aria/reference/roles/checkbox_role,null
 web/accessibility/aria/reference/roles/columnheader_role,null
 web/accessibility/aria/reference/roles/combobox_role,null
@@ -3864,9 +3864,9 @@ web/api/element/ariaownselements,null
 web/api/element/ariaplaceholder,null
 web/api/element/ariaposinset,0
 web/api/element/ariapressed,null
-web/api/element/ariareadonly,null
+web/api/element/ariareadonly,0
 web/api/element/ariarelevant,null
-web/api/element/ariarequired,null
+web/api/element/ariarequired,0
 web/api/element/ariaroledescription,null
 web/api/element/ariarowcount,null
 web/api/element/ariarowindex,null
@@ -3874,7 +3874,7 @@ web/api/element/ariarowindextext,null
 web/api/element/ariarowspan,null
 web/api/element/ariaselected,null
 web/api/element/ariasetsize,null
-web/api/element/ariasort,null
+web/api/element/ariasort,0
 web/api/element/ariavaluemax,null
 web/api/element/ariavaluemin,null
 web/api/element/ariavaluenow,0
@@ -13623,7 +13623,7 @@ web/mathml/reference/element/annotation,null
 web/mathml/reference/element/annotation-xml,null
 web/mathml/reference/element/maction,4
 web/mathml/reference/element/math,null
-web/mathml/reference/element/menclose,3
+web/mathml/reference/element/menclose,0
 web/mathml/reference/element/merror,1
 web/mathml/reference/element/mfenced,2
 web/mathml/reference/element/mfrac,1
@@ -14052,8 +14052,8 @@ web/svg/reference/attribute/xml_colon_space,null
 web/svg/reference/attribute/y,null
 web/svg/reference/attribute/y1,null
 web/svg/reference/attribute/y2,0
-web/svg/reference/attribute/ychannelselector,null
-web/svg/reference/attribute/z,null
+web/svg/reference/attribute/ychannelselector,0
+web/svg/reference/attribute/z,0
 web/svg/reference/attribute/zoomandpan,1
 web/svg/reference/element,2
 web/svg/reference/element/a,0
@@ -14255,7 +14255,7 @@ web/webdriver/reference/errors/scripttimeout,null
 web/webdriver/reference/errors/staleelementreference,null
 web/webdriver/reference/errors/unknowncommand,null
 web/webdriver/reference/errors/unknownerror,0
-web/webdriver/reference/errors/unknownmethod,null
+web/webdriver/reference/errors/unknownmethod,0
 web/xml,0
 web/xml/exslt,null
 web/xml/exslt/reference,null
@@ -14329,7 +14329,7 @@ web/xml/xpath/reference/functions/substring-before,null
 web/xml/xpath/reference/functions/sum,null
 web/xml/xpath/reference/functions/system-property,null
 web/xml/xpath/reference/functions/translate,null
-web/xml/xpath/reference/functions/true,null
+web/xml/xpath/reference/functions/true,0
 web/xml/xpath/reference/functions/unparsed-entity-url,null
 web/xml/xslt,null
 web/xml/xslt/guides,null

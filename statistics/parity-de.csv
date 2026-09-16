@@ -4499,7 +4499,7 @@ web/api/gpucanvascontext/getconfiguration,0
 web/api/gpucanvascontext/getcurrenttexture,0
 web/api/gpucanvascontext/unconfigure,0
 web/api/gpucommandbuffer,0
-web/api/gpucommandbuffer/label,0
+web/api/gpucommandbuffer/label,1
 web/api/gpucommandencoder,0
 web/api/gpucommandencoder/begincomputepass,0
 web/api/gpucommandencoder/beginrenderpass,0
@@ -4510,7 +4510,7 @@ web/api/gpucommandencoder/copytexturetobuffer,0
 web/api/gpucommandencoder/copytexturetotexture,0
 web/api/gpucommandencoder/finish,0
 web/api/gpucommandencoder/insertdebugmarker,0
-web/api/gpucommandencoder/label,0
+web/api/gpucommandencoder/label,1
 web/api/gpucommandencoder/popdebuggroup,0
 web/api/gpucommandencoder/pushdebuggroup,0
 web/api/gpucommandencoder/resolvequeryset,0
@@ -4529,7 +4529,7 @@ web/api/gpucomputepassencoder/dispatchworkgroups,0
 web/api/gpucomputepassencoder/dispatchworkgroupsindirect,0
 web/api/gpucomputepassencoder/end,0
 web/api/gpucomputepassencoder/insertdebugmarker,0
-web/api/gpucomputepassencoder/label,0
+web/api/gpucomputepassencoder/label,1
 web/api/gpucomputepassencoder/popdebuggroup,0
 web/api/gpucomputepassencoder/pushdebuggroup,0
 web/api/gpucomputepassencoder/setbindgroup,0
@@ -4556,7 +4556,7 @@ web/api/gpudevice/createtexture,0
 web/api/gpudevice/destroy,0
 web/api/gpudevice/features,0
 web/api/gpudevice/importexternaltexture,0
-web/api/gpudevice/label,0
+web/api/gpudevice/label,1
 web/api/gpudevice/limits,0
 web/api/gpudevice/lost,0
 web/api/gpudevice/poperrorscope,0
@@ -4586,13 +4586,13 @@ web/api/gpuqueryset/label,0
 web/api/gpuqueryset/type,0
 web/api/gpuqueue,0
 web/api/gpuqueue/copyexternalimagetotexture,0
-web/api/gpuqueue/label,0
+web/api/gpuqueue/label,1
 web/api/gpuqueue/onsubmittedworkdone,0
 web/api/gpuqueue/submit,0
 web/api/gpuqueue/writebuffer,0
 web/api/gpuqueue/writetexture,0
 web/api/gpurenderbundle,0
-web/api/gpurenderbundle/label,0
+web/api/gpurenderbundle/label,1
 web/api/gpurenderbundleencoder,0
 web/api/gpurenderbundleencoder/draw,0
 web/api/gpurenderbundleencoder/drawindexed,0
@@ -4600,7 +4600,7 @@ web/api/gpurenderbundleencoder/drawindexedindirect,0
 web/api/gpurenderbundleencoder/drawindirect,0
 web/api/gpurenderbundleencoder/finish,0
 web/api/gpurenderbundleencoder/insertdebugmarker,0
-web/api/gpurenderbundleencoder/label,0
+web/api/gpurenderbundleencoder/label,1
 web/api/gpurenderbundleencoder/popdebuggroup,0
 web/api/gpurenderbundleencoder/pushdebuggroup,0
 web/api/gpurenderbundleencoder/setbindgroup,0
@@ -4617,7 +4617,7 @@ web/api/gpurenderpassencoder/end,0
 web/api/gpurenderpassencoder/endocclusionquery,0
 web/api/gpurenderpassencoder/executebundles,0
 web/api/gpurenderpassencoder/insertdebugmarker,0
-web/api/gpurenderpassencoder/label,0
+web/api/gpurenderpassencoder/label,1
 web/api/gpurenderpassencoder/popdebuggroup,0
 web/api/gpurenderpassencoder/pushdebuggroup,0
 web/api/gpurenderpassencoder/setbindgroup,0

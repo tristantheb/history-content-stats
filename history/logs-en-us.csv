@@ -4499,7 +4499,7 @@ web/api/gpucanvascontext/getconfiguration,5f226b6f08c5cff7f96b7cc49a164fdc43d11a
 web/api/gpucanvascontext/getcurrenttexture,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpucanvascontext/unconfigure,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpucommandbuffer,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
-web/api/gpucommandbuffer/label,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
+web/api/gpucommandbuffer/label,fd69b5246378644ee2949180c83856fad474886b,Web APIs
 web/api/gpucommandencoder,8ede6c458a7f2fd3b217e01062354748bda4992f,Web APIs
 web/api/gpucommandencoder/begincomputepass,4b47c0aad363dcc69a6ccca5940055491fa03594,Web APIs
 web/api/gpucommandencoder/beginrenderpass,e5909a8f548695b72649ce32216c8fada21479c9,Web APIs
@@ -4510,7 +4510,7 @@ web/api/gpucommandencoder/copytexturetobuffer,0abb70602b0b3b11a2909c417a03e10eab
 web/api/gpucommandencoder/copytexturetotexture,3c4d1e7134c9cca1807ebc01bbdd5fe0c288ae87,Web APIs
 web/api/gpucommandencoder/finish,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpucommandencoder/insertdebugmarker,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
-web/api/gpucommandencoder/label,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
+web/api/gpucommandencoder/label,fd69b5246378644ee2949180c83856fad474886b,Web APIs
 web/api/gpucommandencoder/popdebuggroup,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpucommandencoder/pushdebuggroup,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpucommandencoder/resolvequeryset,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
@@ -4529,7 +4529,7 @@ web/api/gpucomputepassencoder/dispatchworkgroups,0abb70602b0b3b11a2909c417a03e10
 web/api/gpucomputepassencoder/dispatchworkgroupsindirect,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpucomputepassencoder/end,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpucomputepassencoder/insertdebugmarker,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
-web/api/gpucomputepassencoder/label,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
+web/api/gpucomputepassencoder/label,fd69b5246378644ee2949180c83856fad474886b,Web APIs
 web/api/gpucomputepassencoder/popdebuggroup,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpucomputepassencoder/pushdebuggroup,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpucomputepassencoder/setbindgroup,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
@@ -4556,7 +4556,7 @@ web/api/gpudevice/createtexture,e5909a8f548695b72649ce32216c8fada21479c9,Web API
 web/api/gpudevice/destroy,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpudevice/features,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpudevice/importexternaltexture,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
-web/api/gpudevice/label,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
+web/api/gpudevice/label,fd69b5246378644ee2949180c83856fad474886b,Web APIs
 web/api/gpudevice/limits,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpudevice/lost,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpudevice/poperrorscope,754b68246f4e69e404309fee4a1699e047e43994,Web APIs
@@ -4586,13 +4586,13 @@ web/api/gpuqueryset/label,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpuqueryset/type,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpuqueue,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpuqueue/copyexternalimagetotexture,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
-web/api/gpuqueue/label,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
+web/api/gpuqueue/label,fd69b5246378644ee2949180c83856fad474886b,Web APIs
 web/api/gpuqueue/onsubmittedworkdone,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpuqueue/submit,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpuqueue/writebuffer,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpuqueue/writetexture,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpurenderbundle,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
-web/api/gpurenderbundle/label,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
+web/api/gpurenderbundle/label,fd69b5246378644ee2949180c83856fad474886b,Web APIs
 web/api/gpurenderbundleencoder,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/gpurenderbundleencoder/draw,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpurenderbundleencoder/drawindexed,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
@@ -4600,7 +4600,7 @@ web/api/gpurenderbundleencoder/drawindexedindirect,0abb70602b0b3b11a2909c417a03e
 web/api/gpurenderbundleencoder/drawindirect,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpurenderbundleencoder/finish,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpurenderbundleencoder/insertdebugmarker,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
-web/api/gpurenderbundleencoder/label,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
+web/api/gpurenderbundleencoder/label,fd69b5246378644ee2949180c83856fad474886b,Web APIs
 web/api/gpurenderbundleencoder/popdebuggroup,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpurenderbundleencoder/pushdebuggroup,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpurenderbundleencoder/setbindgroup,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
@@ -4617,7 +4617,7 @@ web/api/gpurenderpassencoder/end,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web AP
 web/api/gpurenderpassencoder/endocclusionquery,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpurenderpassencoder/executebundles,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpurenderpassencoder/insertdebugmarker,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
-web/api/gpurenderpassencoder/label,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
+web/api/gpurenderpassencoder/label,fd69b5246378644ee2949180c83856fad474886b,Web APIs
 web/api/gpurenderpassencoder/popdebuggroup,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpurenderpassencoder/pushdebuggroup,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpurenderpassencoder/setbindgroup,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs

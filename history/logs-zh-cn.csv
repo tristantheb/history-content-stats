@@ -696,7 +696,7 @@ learn_web_development/core/css_layout/positioning,no_hash_commit
 learn_web_development/core/css_layout/practical_positioning_examples,no_hash_commit
 learn_web_development/core/css_layout/responsive_design,no_hash_commit
 learn_web_development/core/css_layout/supporting_older_browsers,no_hash_commit
-learn_web_development/core/css_layout/test_your_skills/grid,no_hash_commit
+learn_web_development/core/css_layout/test_your_skills/grid,143f7345a4276156679d816a153470fe1fc6f3f8
 learn_web_development/core/css_layout/test_your_skills,c44c4d14527eddf441079e3623abccd711adfc23
 learn_web_development/core/css_layout/test_your_skills/position,no_hash_commit
 learn_web_development/core/css_layout/test_your_skills/responsive_design,73a73bc44e12181c778910f3b7d73962e0dd9a29
@@ -1615,8 +1615,10 @@ web/accessibility/aria/reference,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/accessibility/aria/reference/roles/alert_role,5e815d522e796fb2209fa8470616b37e31c572b4
 web/accessibility/aria/reference/roles/alertdialog_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/accessibility/aria/reference/roles/application_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
+web/accessibility/aria/reference/roles/article_role,a84b606ffd77c40a7306be6c932a74ab9ce6ab96
 web/accessibility/aria/reference/roles/banner_role,6193c69cb71e80e45e7dff97188253ed15d58321
 web/accessibility/aria/reference/roles/button_role,019ca5c9ce641bfa02825e1ba0444f35dfb646cc
+web/accessibility/aria/reference/roles/cell_role,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/accessibility/aria/reference/roles/command_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/composite_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/directory_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
@@ -2576,6 +2578,9 @@ web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1
 web/api/element/arialabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/arialive,no_hash_commit
 web/api/element/ariaposinset,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
+web/api/element/ariareadonly,ce12c10364f35c64184dec44be85537b7e10d91f
+web/api/element/ariarequired,ce12c10364f35c64184dec44be85537b7e10d91f
+web/api/element/ariasort,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariavaluenow,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/assignedslot,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
 web/api/element/attachshadow,no_hash_commit
@@ -7216,7 +7221,7 @@ web/mathml/reference/attribute,4d5e2c11f4b8cc32e54d2527d9576ed26ced9458
 web/mathml/reference/element,3558f9be9acfcfd4b625229962b6f1b38f1b85af
 web/mathml/reference/element/maction,024a9231e504e2c0d4051f47de36567e82ca432f
 web/mathml/reference/element/math,no_hash_commit
-web/mathml/reference/element/menclose,8eece0b998c23e8ea35f936d7371a169974130f5
+web/mathml/reference/element/menclose,d65519931193d5324b1751ea291824f465f4643f
 web/mathml/reference/element/merror,8eece0b998c23e8ea35f936d7371a169974130f5
 web/mathml/reference/element/mfenced,e3faa375b0179de77a5eff00074e3d168a0a904c
 web/mathml/reference/element/mfrac,4d5e2c11f4b8cc32e54d2527d9576ed26ced9458
@@ -7430,6 +7435,8 @@ web/svg/reference/attribute/width,no_hash_commit
 web/svg/reference/attribute/x,no_hash_commit
 web/svg/reference/attribute/y,no_hash_commit
 web/svg/reference/attribute/y2,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/ychannelselector,c2fd97474834e061404b992c8397d4ccc4439a71
+web/svg/reference/attribute/z,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
 web/svg/reference/attribute/zoomandpan,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/element/a,94a841dba1498c685a18e72d041fd9057f302d6c
 web/svg/reference/element/animate,no_hash_commit
@@ -7526,6 +7533,7 @@ web/uri/reference/query,be9ba40fbef7f96beae73e5dd6d48a3ca875826f
 web/uri/reference/schemes/data,no_hash_commit
 web/webdriver,no_hash_commit
 web/webdriver/reference/errors/unknownerror,de5b264fa7bf6bb49811bf79f8f28f10835bfb79
+web/webdriver/reference/errors/unknownmethod,f99d00a1c3697e26a679925954e26564e7e79b98
 web/xml/exslt/reference/regexp,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
 web/xml/guides/opensearch,5309f49a300166809b098f1b7604d563f3332af2
 web/xml/guides/parsing_and_serializing_xml,no_hash_commit
@@ -7535,6 +7543,7 @@ web/xml/xpath/guides/comparison_with_css_selectors,no_hash_commit
 web/xml/xpath/guides/introduction_to_using_xpath_in_javascript,no_hash_commit
 web/xml/xpath,no_hash_commit
 web/xml/xpath/reference/axes,no_hash_commit
+web/xml/xpath/reference/functions/true,636b90011532e3fd2cf9333aaf1754fdc8de7938
 web/xml/xslt/guides/transforming_xml_with_xslt,no_hash_commit
 web/xml/xslt,no_hash_commit
 web/xml/xslt/reference/element/apply-imports,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
