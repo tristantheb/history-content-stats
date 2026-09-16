@@ -10731,7 +10731,7 @@ web/css/reference/properties/-webkit-text-stroke,null
 web/css/reference/properties/-webkit-text-stroke-color,null
 web/css/reference/properties/-webkit-text-stroke-width,3
 web/css/reference/properties/-webkit-touch-callout,3
-web/css/reference/properties/accent-color,6
+web/css/reference/properties/accent-color,7
 web/css/reference/properties/align-content,null
 web/css/reference/properties/align-items,null
 web/css/reference/properties/align-self,null
@@ -10992,7 +10992,7 @@ web/css/reference/properties/hyphens,null
 web/css/reference/properties/image-orientation,null
 web/css/reference/properties/image-rendering,2
 web/css/reference/properties/image-resolution,null
-web/css/reference/properties/initial-letter,3
+web/css/reference/properties/initial-letter,4
 web/css/reference/properties/inline-size,null
 web/css/reference/properties/inset,6
 web/css/reference/properties/inset-block,null
@@ -11030,8 +11030,8 @@ web/css/reference/properties/margin-bottom,null
 web/css/reference/properties/margin-inline,null
 web/css/reference/properties/margin-inline-end,null
 web/css/reference/properties/margin-inline-start,null
-web/css/reference/properties/margin-left,3
-web/css/reference/properties/margin-right,4
+web/css/reference/properties/margin-left,4
+web/css/reference/properties/margin-right,5
 web/css/reference/properties/margin-top,null
 web/css/reference/properties/margin-trim,null
 web/css/reference/properties/marker,null
@@ -11187,7 +11187,7 @@ web/css/reference/properties/scroll-target-group,null
 web/css/reference/properties/scroll-timeline,null
 web/css/reference/properties/scroll-timeline-axis,null
 web/css/reference/properties/scroll-timeline-name,null
-web/css/reference/properties/scrollbar-color,5
+web/css/reference/properties/scrollbar-color,6
 web/css/reference/properties/scrollbar-gutter,null
 web/css/reference/properties/scrollbar-width,null
 web/css/reference/properties/shape-image-threshold,null
@@ -11245,7 +11245,7 @@ web/css/reference/properties/text-wrap-style,null
 web/css/reference/properties/timeline-scope,null
 web/css/reference/properties/top,null
 web/css/reference/properties/touch-action,null
-web/css/reference/properties/transform,7
+web/css/reference/properties/transform,8
 web/css/reference/properties/transform-box,null
 web/css/reference/properties/transform-origin,null
 web/css/reference/properties/transform-style,null
@@ -11255,7 +11255,7 @@ web/css/reference/properties/transition-delay,null
 web/css/reference/properties/transition-duration,null
 web/css/reference/properties/transition-property,null
 web/css/reference/properties/transition-timing-function,null
-web/css/reference/properties/translate,2
+web/css/reference/properties/translate,3
 web/css/reference/properties/unicode-bidi,null
 web/css/reference/properties/user-modify,null
 web/css/reference/properties/user-select,null
@@ -11266,7 +11266,7 @@ web/css/reference/properties/view-timeline-axis,null
 web/css/reference/properties/view-timeline-inset,null
 web/css/reference/properties/view-timeline-name,null
 web/css/reference/properties/view-transition-class,null
-web/css/reference/properties/view-transition-name,4
+web/css/reference/properties/view-transition-name,5
 web/css/reference/properties/view-transition-scope,null
 web/css/reference/properties/visibility,null
 web/css/reference/properties/white-space,8
