@@ -11027,7 +11027,7 @@ web/css/reference/properties/margin-block,null
 web/css/reference/properties/margin-block-end,null
 web/css/reference/properties/margin-block-start,null
 web/css/reference/properties/margin-bottom,null
-web/css/reference/properties/margin-inline,6
+web/css/reference/properties/margin-inline,7
 web/css/reference/properties/margin-inline-end,null
 web/css/reference/properties/margin-inline-start,null
 web/css/reference/properties/margin-left,null
@@ -11552,7 +11552,7 @@ web/css/reference/values/hue-interpolation-method,null
 web/css/reference/values/hypot,null
 web/css/reference/values/ident,null
 web/css/reference/values/if,null
-web/css/reference/values/image,null
+web/css/reference/values/image,0
 web/css/reference/values/image/image,null
 web/css/reference/values/image/image-set,null
 web/css/reference/values/image/paint,null

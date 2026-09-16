@@ -10731,7 +10731,7 @@ web/css/reference/properties/-webkit-text-stroke,null
 web/css/reference/properties/-webkit-text-stroke-color,null
 web/css/reference/properties/-webkit-text-stroke-width,null
 web/css/reference/properties/-webkit-touch-callout,null
-web/css/reference/properties/accent-color,6
+web/css/reference/properties/accent-color,7
 web/css/reference/properties/align-content,null
 web/css/reference/properties/align-items,6
 web/css/reference/properties/align-self,null
@@ -11154,7 +11154,7 @@ web/css/reference/properties/rule-visibility-items,null
 web/css/reference/properties/rule-width,null
 web/css/reference/properties/rx,null
 web/css/reference/properties/ry,null
-web/css/reference/properties/scale,2
+web/css/reference/properties/scale,3
 web/css/reference/properties/scroll-behavior,3
 web/css/reference/properties/scroll-initial-target,null
 web/css/reference/properties/scroll-margin,null
@@ -11169,7 +11169,7 @@ web/css/reference/properties/scroll-margin-left,null
 web/css/reference/properties/scroll-margin-right,null
 web/css/reference/properties/scroll-margin-top,null
 web/css/reference/properties/scroll-marker-group,null
-web/css/reference/properties/scroll-padding,6
+web/css/reference/properties/scroll-padding,7
 web/css/reference/properties/scroll-padding-block,null
 web/css/reference/properties/scroll-padding-block-end,null
 web/css/reference/properties/scroll-padding-block-start,null
@@ -11255,7 +11255,7 @@ web/css/reference/properties/transition-delay,null
 web/css/reference/properties/transition-duration,4
 web/css/reference/properties/transition-property,7
 web/css/reference/properties/transition-timing-function,null
-web/css/reference/properties/translate,2
+web/css/reference/properties/translate,3
 web/css/reference/properties/unicode-bidi,null
 web/css/reference/properties/user-modify,null
 web/css/reference/properties/user-select,null
