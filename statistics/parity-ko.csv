@@ -786,7 +786,7 @@ learn_web_development/core/structuring_content/creating_links,17
 learn_web_development/core/structuring_content/debugging_html,null
 learn_web_development/core/structuring_content/emphasis_and_importance,null
 learn_web_development/core/structuring_content/forms_challenge,null
-learn_web_development/core/structuring_content/general_embedding_technologies,13
+learn_web_development/core/structuring_content/general_embedding_technologies,14
 learn_web_development/core/structuring_content/headings_and_paragraphs,null
 learn_web_development/core/structuring_content/html_forms,null
 learn_web_development/core/structuring_content/html_images,18
@@ -11693,7 +11693,7 @@ web/html/reference/attributes/rel/prerender,null
 web/html/reference/attributes/required,null
 web/html/reference/attributes/size,3
 web/html/reference/attributes/step,null
-web/html/reference/elements,6
+web/html/reference/elements,7
 web/html/reference/elements/a,null
 web/html/reference/elements/abbr,null
 web/html/reference/elements/acronym,null

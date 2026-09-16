@@ -779,14 +779,14 @@ learn_web_development/core/scripting/useful_string_methods,0
 learn_web_development/core/scripting/variables,0
 learn_web_development/core/scripting/what_is_javascript,4
 learn_web_development/core/scripting/what_went_wrong,1
-learn_web_development/core/structuring_content,0
+learn_web_development/core/structuring_content,1
 learn_web_development/core/structuring_content/advanced_text_features,1
 learn_web_development/core/structuring_content/basic_html_syntax,1
 learn_web_development/core/structuring_content/creating_links,0
 learn_web_development/core/structuring_content/debugging_html,3
 learn_web_development/core/structuring_content/emphasis_and_importance,0
 learn_web_development/core/structuring_content/forms_challenge,3
-learn_web_development/core/structuring_content/general_embedding_technologies,0
+learn_web_development/core/structuring_content/general_embedding_technologies,1
 learn_web_development/core/structuring_content/headings_and_paragraphs,1
 learn_web_development/core/structuring_content/html_forms,2
 learn_web_development/core/structuring_content/html_images,2
@@ -5568,7 +5568,7 @@ web/api/idbobjectstore/add,2
 web/api/idbobjectstore/autoincrement,2
 web/api/idbobjectstore/clear,3
 web/api/idbobjectstore/count,1
-web/api/idbobjectstore/createindex,9
+web/api/idbobjectstore/createindex,10
 web/api/idbobjectstore/delete,3
 web/api/idbobjectstore/deleteindex,4
 web/api/idbobjectstore/get,5
@@ -9346,7 +9346,7 @@ web/api/web_animations_api/using_the_web_animations_api,0
 web/api/web_animations_api/web_animations_api_concepts,0
 web/api/web_audio_api,1
 web/api/web_audio_api/advanced_techniques,7
-web/api/web_audio_api/basic_concepts_behind_web_audio_api,1
+web/api/web_audio_api/basic_concepts_behind_web_audio_api,2
 web/api/web_audio_api/best_practices,null
 web/api/web_audio_api/controlling_multiple_parameters_with_constantsourcenode,null
 web/api/web_audio_api/simple_synth,null
@@ -11693,7 +11693,7 @@ web/html/reference/attributes/rel/prerender,4
 web/html/reference/attributes/required,2
 web/html/reference/attributes/size,2
 web/html/reference/attributes/step,3
-web/html/reference/elements,1
+web/html/reference/elements,2
 web/html/reference/elements/a,0
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,0
@@ -11730,7 +11730,7 @@ web/html/reference/elements/div,1
 web/html/reference/elements/dl,1
 web/html/reference/elements/dt,0
 web/html/reference/elements/em,0
-web/html/reference/elements/embed,0
+web/html/reference/elements/embed,1
 web/html/reference/elements/fencedframe,1
 web/html/reference/elements/fieldset,1
 web/html/reference/elements/figcaption,0
@@ -11748,7 +11748,7 @@ web/html/reference/elements/hgroup,0
 web/html/reference/elements/hr,1
 web/html/reference/elements/html,1
 web/html/reference/elements/i,0
-web/html/reference/elements/iframe,0
+web/html/reference/elements/iframe,1
 web/html/reference/elements/img,2
 web/html/reference/elements/input,3
 web/html/reference/elements/input/button,1
@@ -11800,7 +11800,7 @@ web/html/reference/elements/nobr,1
 web/html/reference/elements/noembed,2
 web/html/reference/elements/noframes,1
 web/html/reference/elements/noscript,0
-web/html/reference/elements/object,0
+web/html/reference/elements/object,1
 web/html/reference/elements/ol,0
 web/html/reference/elements/optgroup,2
 web/html/reference/elements/option,1
@@ -12956,7 +12956,7 @@ web/javascript/reference/global_objects/object/setprototypeof,1
 web/javascript/reference/global_objects/object/tolocalestring,0
 web/javascript/reference/global_objects/object/tostring,0
 web/javascript/reference/global_objects/object/valueof,1
-web/javascript/reference/global_objects/object/values,1
+web/javascript/reference/global_objects/object/values,2
 web/javascript/reference/global_objects/parsefloat,0
 web/javascript/reference/global_objects/parseint,0
 web/javascript/reference/global_objects/promise,10

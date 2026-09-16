@@ -779,14 +779,14 @@ learn_web_development/core/scripting/useful_string_methods,0
 learn_web_development/core/scripting/variables,null
 learn_web_development/core/scripting/what_is_javascript,3
 learn_web_development/core/scripting/what_went_wrong,null
-learn_web_development/core/structuring_content,14
+learn_web_development/core/structuring_content,15
 learn_web_development/core/structuring_content/advanced_text_features,9
 learn_web_development/core/structuring_content/basic_html_syntax,4
 learn_web_development/core/structuring_content/creating_links,null
 learn_web_development/core/structuring_content/debugging_html,null
 learn_web_development/core/structuring_content/emphasis_and_importance,3
 learn_web_development/core/structuring_content/forms_challenge,null
-learn_web_development/core/structuring_content/general_embedding_technologies,13
+learn_web_development/core/structuring_content/general_embedding_technologies,14
 learn_web_development/core/structuring_content/headings_and_paragraphs,5
 learn_web_development/core/structuring_content/html_forms,6
 learn_web_development/core/structuring_content/html_images,18
@@ -11693,7 +11693,7 @@ web/html/reference/attributes/rel/prerender,4
 web/html/reference/attributes/required,4
 web/html/reference/attributes/size,3
 web/html/reference/attributes/step,4
-web/html/reference/elements,2
+web/html/reference/elements,3
 web/html/reference/elements/a,2
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,4
@@ -11730,7 +11730,7 @@ web/html/reference/elements/div,8
 web/html/reference/elements/dl,null
 web/html/reference/elements/dt,4
 web/html/reference/elements/em,null
-web/html/reference/elements/embed,0
+web/html/reference/elements/embed,1
 web/html/reference/elements/fencedframe,8
 web/html/reference/elements/fieldset,null
 web/html/reference/elements/figcaption,7
@@ -11748,7 +11748,7 @@ web/html/reference/elements/hgroup,null
 web/html/reference/elements/hr,null
 web/html/reference/elements/html,5
 web/html/reference/elements/i,1
-web/html/reference/elements/iframe,20
+web/html/reference/elements/iframe,21
 web/html/reference/elements/img,16
 web/html/reference/elements/input,7
 web/html/reference/elements/input/button,null
