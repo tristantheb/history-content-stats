@@ -1699,7 +1699,7 @@ web/html/guides/microformats,no_hash_commit
 web/html/guides/quirks_mode_and_standards_mode,ba96f2f183353872db6d9242c7d2dffe2dbc0c35
 web/html/guides/responsive_images,f69b6693212029ce4b9fa0c753729044577af548
 web/html/how_to/author_fast-loading_html_pages,no_hash_commit
-web/html/how_to/cors_enabled_image,no_hash_commit
+web/html/how_to/cors_enabled_image,6036cd414b2214f85901158bdf3e3a96123d4553
 web/html/how_to/use_data_attributes,no_hash_commit
 web/html,d1f3f179175c80c18b1b78ba0df0ea7d15ca32cc
 web/html/reference/attributes/accept,no_hash_commit
@@ -1763,7 +1763,7 @@ web/html/reference/elements/hr,no_hash_commit
 web/html/reference/elements/html,no_hash_commit
 web/html/reference/elements/i,no_hash_commit
 web/html/reference/elements/iframe,no_hash_commit
-web/html/reference/elements/img,no_hash_commit
+web/html/reference/elements/img,74a39db9d03ec63426b0740dc0bd3cb85e5461a4
 web/html/reference/elements,005ee0dd179c8dead097251e8d028355b8cf183f
 web/html/reference/elements/input/button,no_hash_commit
 web/html/reference/elements/input/checkbox,3944506d4afeeed774687cf3fd950878c6229bbc
