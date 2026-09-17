@@ -2050,7 +2050,7 @@ mozilla/firefox/releases/61,null
 mozilla/firefox/releases/62,null
 mozilla/firefox/releases/63,null
 mozilla/firefox/releases/64,null
-mozilla/firefox/releases/65,6
+mozilla/firefox/releases/65,7
 mozilla/firefox/releases/66,null
 mozilla/firefox/releases/67,null
 mozilla/firefox/releases/68,null
@@ -4228,7 +4228,6 @@ web/api/fetchevent/fetchevent,null
 web/api/fetchevent/handled,null
 web/api/fetchevent/isreload,null
 web/api/fetchevent/preloadresponse,null
-web/api/fetchevent/replacesclientid,null
 web/api/fetchevent/request,null
 web/api/fetchevent/respondwith,null
 web/api/fetchevent/resultingclientid,null
