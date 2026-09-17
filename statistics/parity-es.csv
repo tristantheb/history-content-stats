@@ -915,7 +915,7 @@ learn_web_development/extensions/server-side/apache_configuration_htaccess,null
 learn_web_development/extensions/server-side/configuring_server_mime_types,null
 learn_web_development/extensions/server-side/django,null
 learn_web_development/extensions/server-side/django/admin_site,1
-learn_web_development/extensions/server-side/django/authentication,0
+learn_web_development/extensions/server-side/django/authentication,1
 learn_web_development/extensions/server-side/django/deployment,7
 learn_web_development/extensions/server-side/django/development_environment,0
 learn_web_development/extensions/server-side/django/django_assessment_blog,null
@@ -959,7 +959,7 @@ learn_web_development/extensions/server-side/express_nodejs/tutorial_local_libra
 learn_web_development/extensions/server-side/first_steps,null
 learn_web_development/extensions/server-side/first_steps/client-server_overview,1
 learn_web_development/extensions/server-side/first_steps/introduction,1
-learn_web_development/extensions/server-side/first_steps/web_frameworks,3
+learn_web_development/extensions/server-side/first_steps/web_frameworks,4
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
 learn_web_development/extensions/testing,null
@@ -971,7 +971,7 @@ learn_web_development/extensions/testing/testing_strategies,null
 learn_web_development/extensions/testing/your_own_automation_environment,null
 learn_web_development/getting_started,5
 learn_web_development/getting_started/environment_setup,5
-learn_web_development/getting_started/environment_setup/browsing_the_web,17
+learn_web_development/getting_started/environment_setup/browsing_the_web,18
 learn_web_development/getting_started/environment_setup/code_editors,4
 learn_web_development/getting_started/environment_setup/command_line,null
 learn_web_development/getting_started/environment_setup/dealing_with_files,null
@@ -1046,7 +1046,7 @@ mdn/community/roles_teams,null
 mdn/community/translated_content,5
 mdn/guides,null
 mdn/kitchensink,null
-mdn/tutorials,5
+mdn/tutorials,6
 mdn/writing_guidelines,1
 mdn/writing_guidelines/attrib_copyright_license,1
 mdn/writing_guidelines/changelog,0
@@ -1060,9 +1060,9 @@ mdn/writing_guidelines/experimental_deprecated_obsolete,0
 mdn/writing_guidelines/howto,0
 mdn/writing_guidelines/howto/creating_moving_deleting,0
 mdn/writing_guidelines/howto/document_a_css_property,0
-mdn/writing_guidelines/howto/document_an_http_header,0
+mdn/writing_guidelines/howto/document_an_http_header,1
 mdn/writing_guidelines/howto/document_web_errors,0
-mdn/writing_guidelines/howto/images_media,0
+mdn/writing_guidelines/howto/images_media,1
 mdn/writing_guidelines/howto/json_structured_data,0
 mdn/writing_guidelines/howto/markdown_in_mdn,0
 mdn/writing_guidelines/howto/research_technology,0
@@ -1093,7 +1093,7 @@ mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,2
 mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,1
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,0
-mdn/writing_guidelines/page_structures/page_types/css_property_page_template,3
+mdn/writing_guidelines/page_structures/page_types/css_property_page_template,4
 mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,1
 mdn/writing_guidelines/page_structures/page_types/glossary_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,1
@@ -11677,7 +11677,7 @@ web/html/reference/attributes/multiple,null
 web/html/reference/attributes/pattern,null
 web/html/reference/attributes/placeholder,null
 web/html/reference/attributes/readonly,null
-web/html/reference/attributes/rel,0
+web/html/reference/attributes/rel,1
 web/html/reference/attributes/rel/alternate_stylesheet,null
 web/html/reference/attributes/rel/compression-dictionary,null
 web/html/reference/attributes/rel/dns-prefetch,null
@@ -12110,7 +12110,7 @@ web/http/reference/headers/preference-applied,null
 web/http/reference/headers/priority,null
 web/http/reference/headers/proxy-authenticate,null
 web/http/reference/headers/proxy-authorization,null
-web/http/reference/headers/range,4
+web/http/reference/headers/range,5
 web/http/reference/headers/referer,null
 web/http/reference/headers/referrer-policy,null
 web/http/reference/headers/refresh,null
@@ -13823,7 +13823,7 @@ web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,nul
 web/security/defenses/subresource_integrity,null
 web/security/defenses/transport_layer_security,null
 web/security/defenses/user_activation,null
-web/security/practical_implementation_guides,6
+web/security/practical_implementation_guides,7
 web/security/practical_implementation_guides/cookies,null
 web/security/practical_implementation_guides/corp,null
 web/security/practical_implementation_guides/cors,null
