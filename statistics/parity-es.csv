@@ -11653,7 +11653,7 @@ web/html/how_to,null
 web/html/how_to/add_a_hit_map_on_top_of_an_image,null
 web/html/how_to/add_javascript_to_your_web_page,null
 web/html/how_to/author_fast-loading_html_pages,null
-web/html/how_to/cors_enabled_image,null
+web/html/how_to/cors_enabled_image,0
 web/html/how_to/define_terms_with_html,null
 web/html/how_to/use_data_attributes,null
 web/html/reference,0
@@ -11750,7 +11750,7 @@ web/html/reference/elements/hr,null
 web/html/reference/elements/html,null
 web/html/reference/elements/i,null
 web/html/reference/elements/iframe,null
-web/html/reference/elements/img,null
+web/html/reference/elements/img,0
 web/html/reference/elements/input,2
 web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,0
