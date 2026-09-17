@@ -2050,7 +2050,7 @@ mozilla/firefox/releases/61,051d02b402b7f76c2078b12283aa18318c34c38b,Mozilla|Fir
 mozilla/firefox/releases/62,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
 mozilla/firefox/releases/63,56f3d7018159127dbe92842413fb45d0aa7e8193,Mozilla|Firefox|Versions
 mozilla/firefox/releases/64,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
-mozilla/firefox/releases/65,f69b6693212029ce4b9fa0c753729044577af548,Mozilla|Firefox|Versions
+mozilla/firefox/releases/65,b19a19b1f3563c8f24fe7146c21cec2abdf68c9a,Mozilla|Firefox|Versions
 mozilla/firefox/releases/66,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/67,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Mozilla|Firefox|Versions
 mozilla/firefox/releases/68,f0179562ad8e2a4dd1f0916c529792198d7e06b2,Mozilla|Firefox|Versions
@@ -4222,13 +4222,12 @@ web/api/fencedframeconfig/setsharedstoragecontext,e316526e520d8163e9151dca8973eb
 web/api/fetch_api,75016e5d37ecff3b11de4c2ef6665178f654797e,Web APIs
 web/api/fetch_api/using_deferred_fetch,a417ab306b1c4c675959ff77be5f685bf991e3ae,Web APIs
 web/api/fetch_api/using_fetch,fe1d7fb9b67ce826c4a748ce00e7b35ac4a54c7f,Web APIs
-web/api/fetchevent,c640274a19227cd5790912ea76841732baa6731f,Web APIs
+web/api/fetchevent,b19a19b1f3563c8f24fe7146c21cec2abdf68c9a,Web APIs
 web/api/fetchevent/clientid,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
-web/api/fetchevent/fetchevent,e4cc8b707a1056c14a6316079798b95cb39b725f,Web APIs
+web/api/fetchevent/fetchevent,b19a19b1f3563c8f24fe7146c21cec2abdf68c9a,Web APIs
 web/api/fetchevent/handled,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
 web/api/fetchevent/isreload,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/fetchevent/preloadresponse,d81234a2ce0cc4ceb06622e3cd5d8cb5e447cb6f,Web APIs
-web/api/fetchevent/replacesclientid,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
 web/api/fetchevent/request,58ad1df59f2ffb9ecab4e27fe1bdf1eb5a55f89b,Web APIs
 web/api/fetchevent/respondwith,0c81cbce5f95a0be935724bcd936f5592774eb3a,Web APIs
 web/api/fetchevent/resultingclientid,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
