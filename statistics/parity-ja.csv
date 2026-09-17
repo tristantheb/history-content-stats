@@ -2050,7 +2050,7 @@ mozilla/firefox/releases/61,null
 mozilla/firefox/releases/62,0
 mozilla/firefox/releases/63,null
 mozilla/firefox/releases/64,null
-mozilla/firefox/releases/65,0
+mozilla/firefox/releases/65,1
 mozilla/firefox/releases/66,0
 mozilla/firefox/releases/67,null
 mozilla/firefox/releases/68,null
@@ -4222,13 +4222,12 @@ web/api/fencedframeconfig/setsharedstoragecontext,null
 web/api/fetch_api,0
 web/api/fetch_api/using_deferred_fetch,0
 web/api/fetch_api/using_fetch,0
-web/api/fetchevent,6
+web/api/fetchevent,7
 web/api/fetchevent/clientid,5
-web/api/fetchevent/fetchevent,5
+web/api/fetchevent/fetchevent,6
 web/api/fetchevent/handled,0
 web/api/fetchevent/isreload,7
 web/api/fetchevent/preloadresponse,2
-web/api/fetchevent/replacesclientid,4
 web/api/fetchevent/request,6
 web/api/fetchevent/respondwith,13
 web/api/fetchevent/resultingclientid,4
