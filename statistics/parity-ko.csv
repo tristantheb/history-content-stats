@@ -79,7 +79,7 @@ glossary/algorithm,3
 glossary/alignment_container,5
 glossary/alignment_subject,4
 glossary/alpha,6
-glossary/alpn,2
+glossary/alpn,3
 glossary/api,3
 glossary/apple_safari,7
 glossary/application_context,5
@@ -183,7 +183,7 @@ glossary/cors-safelisted_response_header,7
 glossary/crawler,4
 glossary/credential,null
 glossary/crlf,3
-glossary/cross-site_scripting,3
+glossary/cross-site_scripting,4
 glossary/cross_axis,5
 glossary/crud,1
 glossary/cryptanalysis,1
@@ -204,7 +204,7 @@ glossary/decryption,4
 glossary/deep_copy,7
 glossary/deep_equality,null
 glossary/delta,2
-glossary/denial_of_service,4
+glossary/denial_of_service,5
 glossary/deno,null
 glossary/deserialization,3
 glossary/developer_tools,6
@@ -407,9 +407,9 @@ glossary/microsoft_edge,8
 glossary/microsoft_internet_explorer,3
 glossary/middleware,1
 glossary/mime,2
-glossary/mime_type,5
+glossary/mime_type,6
 glossary/minification,1
-glossary/mitm,3
+glossary/mitm,4
 glossary/mixin,1
 glossary/mobile_first,2
 glossary/modem,1
@@ -441,7 +441,7 @@ glossary/object_reference,2
 glossary/oop,3
 glossary/opengl,1
 glossary/openssl,1
-glossary/opera_browser,4
+glossary/opera_browser,5
 glossary/operand,1
 glossary/operator,1
 glossary/origin,7
@@ -542,7 +542,7 @@ glossary/salt,null
 glossary/same-origin_policy,5
 glossary/scm,1
 glossary/scope,2
-glossary/screen_reader,6
+glossary/screen_reader,7
 glossary/script-supporting_element,2
 glossary/scroll_boundary,null
 glossary/scroll_chaining,null
@@ -588,7 +588,7 @@ glossary/specification,1
 glossary/speculative_parsing,1
 glossary/speed_index,3
 glossary/sql,2
-glossary/sql_injection,5
+glossary/sql_injection,6
 glossary/sri,2
 glossary/ssg,0
 glossary/ssl,3
@@ -712,7 +712,7 @@ learn_web_development/core/accessibility/test_your_skills/html,null
 learn_web_development/core/accessibility/test_your_skills/wai-aria,null
 learn_web_development/core/accessibility/tooling,null
 learn_web_development/core/accessibility/wai-aria_basics,null
-learn_web_development/core/accessibility/what_is_accessibility,15
+learn_web_development/core/accessibility/what_is_accessibility,16
 learn_web_development/core/css_layout,9
 learn_web_development/core/css_layout/flexbox,null
 learn_web_development/core/css_layout/floats,null
@@ -10738,7 +10738,7 @@ web/css/reference/properties/alignment-baseline,null
 web/css/reference/properties/all,null
 web/css/reference/properties/anchor-name,null
 web/css/reference/properties/anchor-scope,null
-web/css/reference/properties/animation,14
+web/css/reference/properties/animation,15
 web/css/reference/properties/animation-composition,null
 web/css/reference/properties/animation-delay,null
 web/css/reference/properties/animation-direction,null
@@ -11895,7 +11895,7 @@ web/html/reference/global_attributes/virtualkeyboardpolicy,null
 web/html/reference/global_attributes/writingsuggestions,null
 web/http,14
 web/http/guides,0
-web/http/guides/authentication,7
+web/http/guides/authentication,8
 web/http/guides/browser_detection_using_the_user_agent,11
 web/http/guides/caching,null
 web/http/guides/client_hints,null
@@ -11931,8 +11931,8 @@ web/http/guides/evolution_of_http,7
 web/http/guides/fetch_metadata,null
 web/http/guides/iframe_credentialless,3
 web/http/guides/messages,6
-web/http/guides/mime_types,9
-web/http/guides/mime_types/common_types,7
+web/http/guides/mime_types,10
+web/http/guides/mime_types/common_types,8
 web/http/guides/network_error_logging,null
 web/http/guides/overview,null
 web/http/guides/permissions_policy,null
@@ -11949,8 +11949,8 @@ web/http/reference/headers/accept,null
 web/http/reference/headers/accept-ch,null
 web/http/reference/headers/accept-encoding,null
 web/http/reference/headers/accept-language,null
-web/http/reference/headers/accept-patch,5
-web/http/reference/headers/accept-post,4
+web/http/reference/headers/accept-patch,6
+web/http/reference/headers/accept-post,5
 web/http/reference/headers/accept-ranges,null
 web/http/reference/headers/access-control-allow-credentials,null
 web/http/reference/headers/access-control-allow-headers,null
@@ -13817,13 +13817,13 @@ web/security/defenses/input_validation,null
 web/security/defenses/local_network_access,null
 web/security/defenses/mixed_content,3
 web/security/defenses/operational_security,null
-web/security/defenses/same-origin_policy,1
+web/security/defenses/same-origin_policy,2
 web/security/defenses/secure_contexts,5
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,3
 web/security/defenses/subresource_integrity,4
 web/security/defenses/transport_layer_security,4
 web/security/defenses/user_activation,5
-web/security/practical_implementation_guides,6
+web/security/practical_implementation_guides,7
 web/security/practical_implementation_guides/cookies,null
 web/security/practical_implementation_guides/corp,null
 web/security/practical_implementation_guides/cors,null
@@ -14148,11 +14148,11 @@ web/uri/reference/fragment/media_fragments,null
 web/uri/reference/fragment/text_fragments,null
 web/uri/reference/path,null
 web/uri/reference/query,null
-web/uri/reference/schemes,1
-web/uri/reference/schemes/blob,0
+web/uri/reference/schemes,2
+web/uri/reference/schemes/blob,1
 web/uri/reference/schemes/data,8
 web/uri/reference/schemes/javascript,null
-web/uri/reference/schemes/resource,4
+web/uri/reference/schemes/resource,5
 web/uri/reference/schemes/urn,null
 web/webdriver,null
 web/webdriver/how_to,null
