@@ -1619,6 +1619,7 @@ web/accessibility/aria/reference/roles/article_role,a84b606ffd77c40a7306be6c932a
 web/accessibility/aria/reference/roles/banner_role,6193c69cb71e80e45e7dff97188253ed15d58321
 web/accessibility/aria/reference/roles/button_role,019ca5c9ce641bfa02825e1ba0444f35dfb646cc
 web/accessibility/aria/reference/roles/cell_role,2d78abb3e793352e24e976ce0e68c08d817bd7f3
+web/accessibility/aria/reference/roles/combobox_role,d86426e69aaed1dbf19f09d92d78d1d320737733
 web/accessibility/aria/reference/roles/command_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/composite_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/directory_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
@@ -2546,7 +2547,7 @@ web/api/domtokenlist/tostring,494edeb208c312a26b7f5efb0902799d89a2bb33
 web/api/domtokenlist/value,41a8b9c9832359d445d136b6d7a8a28737badc6b
 web/api/dragevent/datatransfer,976891fb78ba24cb4ac6e58ae8a903b20eae4337
 web/api/dragevent/dragevent,no_hash_commit
-web/api/dragevent,no_hash_commit
+web/api/dragevent,3385bda58637833eedc9b8dc41a2804e653208a7
 web/api/dynamicscompressornode,no_hash_commit
 web/api/dynamicscompressornode/reduction,41a8b9c9832359d445d136b6d7a8a28737badc6b
 web/api/ecdhkeyderiveparams,223d903a52fb6a381b7c14f10e956822af38930c
@@ -2576,6 +2577,7 @@ web/api/element/ariacolindextext,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariadescribedbyelements,3b4a7a32fc2fe8cb6bd9a1e62f4ca52e002599ef
 web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1
 web/api/element/arialabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
+web/api/element/arialevel,ce12c10364f35c64184dec44be85537b7e10d91f
 web/api/element/arialive,no_hash_commit
 web/api/element/ariaposinset,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariareadonly,ce12c10364f35c64184dec44be85537b7e10d91f
@@ -2639,7 +2641,7 @@ web/api/element/insertadjacentelement,1e2e601d0d05dca2ab93e0e28f904aa92e4102e1
 web/api/element/insertadjacenthtml,no_hash_commit
 web/api/element/insertadjacenttext,no_hash_commit
 web/api/element/keydown_event,no_hash_commit
-web/api/element/keypress_event,no_hash_commit
+web/api/element/keypress_event,ca6052779ddca9f6d99665f12c39aa2d85d85733
 web/api/element/keyup_event,no_hash_commit
 web/api/element/lastelementchild,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/localname,no_hash_commit
@@ -4435,7 +4437,7 @@ web/api/toggleevent,672033be010ddec986fd7e12fd01297995ecc9b0
 web/api/touch/clientx,no_hash_commit
 web/api/touch/clienty,no_hash_commit
 web/api/touch/force,no_hash_commit
-web/api/touch/identifier,no_hash_commit
+web/api/touch/identifier,f71683f74da0078d9371c4d0c1ff9d3898fc7b59
 web/api/touch,no_hash_commit
 web/api/touch/pagex,b71d118ffc6d72b77efad9661110fcc9ede464eb
 web/api/touch/pagey,b71d118ffc6d72b77efad9661110fcc9ede464eb
@@ -4814,7 +4816,7 @@ web/api/window/history,no_hash_commit
 web/api/window,no_hash_commit
 web/api/window/indexeddb,no_hash_commit
 web/api/window/innerheight,no_hash_commit
-web/api/window/innerwidth,no_hash_commit
+web/api/window/innerwidth,285941521a9a7c2c1b3c443d5f785e5f663a8fc9
 web/api/window/issecurecontext,964e2254ff85284e27121394dc5b6c5ac34a5ee3
 web/api/window/languagechange_event,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/length,62cedc63226017e9e7d0718b6fea3529ca8dbf37
