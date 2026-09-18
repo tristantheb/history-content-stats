@@ -704,7 +704,7 @@ learn_web_development/core/accessibility,0
 learn_web_development/core/accessibility/accessibility_troubleshooting,0
 learn_web_development/core/accessibility/css_and_javascript,0
 learn_web_development/core/accessibility/html,0
-learn_web_development/core/accessibility/mobile,0
+learn_web_development/core/accessibility/mobile,1
 learn_web_development/core/accessibility/multimedia,0
 learn_web_development/core/accessibility/test_your_skills,0
 learn_web_development/core/accessibility/test_your_skills/css_and_javascript,0
@@ -4988,11 +4988,11 @@ web/api/htmlformelement/submit,2
 web/api/htmlformelement/submit_event,10
 web/api/htmlformelement/target,3
 web/api/htmlframesetelement,4
-web/api/htmlgeolocationelement,2
+web/api/htmlgeolocationelement,3
 web/api/htmlgeolocationelement/autolocate,1
 web/api/htmlgeolocationelement/error,1
 web/api/htmlgeolocationelement/htmlgeolocationelement,2
-web/api/htmlgeolocationelement/initialpermissionstatus,2
+web/api/htmlgeolocationelement/initialpermissionstatus,3
 web/api/htmlgeolocationelement/invalidreason,2
 web/api/htmlgeolocationelement/isvalid,1
 web/api/htmlgeolocationelement/location_event,1
@@ -9725,7 +9725,7 @@ web/api/webtransport/protocol,null
 web/api/webtransport/ready,null
 web/api/webtransport/reliability,null
 web/api/webtransport/webtransport,null
-web/api/webtransport_api,3
+web/api/webtransport_api,4
 web/api/webtransportbidirectionalstream,null
 web/api/webtransportbidirectionalstream/readable,null
 web/api/webtransportbidirectionalstream/writable,null
@@ -11970,7 +11970,7 @@ web/http/reference/headers/attribution-reporting-register-source,null
 web/http/reference/headers/attribution-reporting-register-trigger,null
 web/http/reference/headers/authorization,1
 web/http/reference/headers/available-dictionary,null
-web/http/reference/headers/cache-control,4
+web/http/reference/headers/cache-control,5
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
 web/http/reference/headers/content-digest,5
@@ -12806,7 +12806,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,6
 web/javascript/reference/global_objects/isfinite,0
 web/javascript/reference/global_objects/isnan,1
-web/javascript/reference/global_objects/iterator,1
+web/javascript/reference/global_objects/iterator,2
 web/javascript/reference/global_objects/iterator/chunks,0
 web/javascript/reference/global_objects/iterator/concat,0
 web/javascript/reference/global_objects/iterator/drop,0
@@ -12816,7 +12816,7 @@ web/javascript/reference/global_objects/iterator/find,0
 web/javascript/reference/global_objects/iterator/flatmap,0
 web/javascript/reference/global_objects/iterator/foreach,0
 web/javascript/reference/global_objects/iterator/from,0
-web/javascript/reference/global_objects/iterator/includes,0
+web/javascript/reference/global_objects/iterator/includes,1
 web/javascript/reference/global_objects/iterator/iterator,0
 web/javascript/reference/global_objects/iterator/join,1
 web/javascript/reference/global_objects/iterator/map,0
@@ -13038,7 +13038,7 @@ web/javascript/reference/global_objects/regexp/symbol.split,1
 web/javascript/reference/global_objects/regexp/test,0
 web/javascript/reference/global_objects/regexp/tostring,0
 web/javascript/reference/global_objects/regexp/unicode,1
-web/javascript/reference/global_objects/regexp/unicodesets,0
+web/javascript/reference/global_objects/regexp/unicodesets,1
 web/javascript/reference/global_objects/set,5
 web/javascript/reference/global_objects/set/add,1
 web/javascript/reference/global_objects/set/clear,0
@@ -13122,7 +13122,7 @@ web/javascript/reference/global_objects/string/trim,1
 web/javascript/reference/global_objects/string/trimend,0
 web/javascript/reference/global_objects/string/trimstart,0
 web/javascript/reference/global_objects/string/valueof,0
-web/javascript/reference/global_objects/suppressederror,1
+web/javascript/reference/global_objects/suppressederror,2
 web/javascript/reference/global_objects/suppressederror/error,null
 web/javascript/reference/global_objects/suppressederror/suppressed,null
 web/javascript/reference/global_objects/suppressederror/suppressederror,null
@@ -13179,7 +13179,7 @@ web/javascript/reference/global_objects/temporal/duration/valueof,null
 web/javascript/reference/global_objects/temporal/duration/weeks,null
 web/javascript/reference/global_objects/temporal/duration/with,null
 web/javascript/reference/global_objects/temporal/duration/years,null
-web/javascript/reference/global_objects/temporal/instant,0
+web/javascript/reference/global_objects/temporal/instant,1
 web/javascript/reference/global_objects/temporal/instant/add,null
 web/javascript/reference/global_objects/temporal/instant/compare,null
 web/javascript/reference/global_objects/temporal/instant/epochmilliseconds,null
@@ -13205,7 +13205,7 @@ web/javascript/reference/global_objects/temporal/now/plaindatetimeiso,null
 web/javascript/reference/global_objects/temporal/now/plaintimeiso,null
 web/javascript/reference/global_objects/temporal/now/timezoneid,null
 web/javascript/reference/global_objects/temporal/now/zoneddatetimeiso,null
-web/javascript/reference/global_objects/temporal/plaindate,1
+web/javascript/reference/global_objects/temporal/plaindate,2
 web/javascript/reference/global_objects/temporal/plaindate/add,null
 web/javascript/reference/global_objects/temporal/plaindate/calendarid,null
 web/javascript/reference/global_objects/temporal/plaindate/compare,null
@@ -13240,7 +13240,7 @@ web/javascript/reference/global_objects/temporal/plaindate/with,null
 web/javascript/reference/global_objects/temporal/plaindate/withcalendar,null
 web/javascript/reference/global_objects/temporal/plaindate/year,null
 web/javascript/reference/global_objects/temporal/plaindate/yearofweek,null
-web/javascript/reference/global_objects/temporal/plaindatetime,0
+web/javascript/reference/global_objects/temporal/plaindatetime,1
 web/javascript/reference/global_objects/temporal/plaindatetime/add,null
 web/javascript/reference/global_objects/temporal/plaindatetime/calendarid,null
 web/javascript/reference/global_objects/temporal/plaindatetime/compare,null
@@ -13282,7 +13282,7 @@ web/javascript/reference/global_objects/temporal/plaindatetime/withcalendar,null
 web/javascript/reference/global_objects/temporal/plaindatetime/withplaintime,null
 web/javascript/reference/global_objects/temporal/plaindatetime/year,null
 web/javascript/reference/global_objects/temporal/plaindatetime/yearofweek,null
-web/javascript/reference/global_objects/temporal/plainmonthday,0
+web/javascript/reference/global_objects/temporal/plainmonthday,1
 web/javascript/reference/global_objects/temporal/plainmonthday/calendarid,null
 web/javascript/reference/global_objects/temporal/plainmonthday/day,null
 web/javascript/reference/global_objects/temporal/plainmonthday/equals,null
@@ -13316,7 +13316,7 @@ web/javascript/reference/global_objects/temporal/plaintime/tostring,null
 web/javascript/reference/global_objects/temporal/plaintime/until,null
 web/javascript/reference/global_objects/temporal/plaintime/valueof,null
 web/javascript/reference/global_objects/temporal/plaintime/with,null
-web/javascript/reference/global_objects/temporal/plainyearmonth,0
+web/javascript/reference/global_objects/temporal/plainyearmonth,1
 web/javascript/reference/global_objects/temporal/plainyearmonth/add,null
 web/javascript/reference/global_objects/temporal/plainyearmonth/calendarid,null
 web/javascript/reference/global_objects/temporal/plainyearmonth/compare,null
@@ -13341,7 +13341,7 @@ web/javascript/reference/global_objects/temporal/plainyearmonth/until,null
 web/javascript/reference/global_objects/temporal/plainyearmonth/valueof,null
 web/javascript/reference/global_objects/temporal/plainyearmonth/with,null
 web/javascript/reference/global_objects/temporal/plainyearmonth/year,null
-web/javascript/reference/global_objects/temporal/zoneddatetime,1
+web/javascript/reference/global_objects/temporal/zoneddatetime,2
 web/javascript/reference/global_objects/temporal/zoneddatetime/add,null
 web/javascript/reference/global_objects/temporal/zoneddatetime/calendarid,null
 web/javascript/reference/global_objects/temporal/zoneddatetime/compare,null

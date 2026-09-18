@@ -13038,7 +13038,7 @@ web/javascript/reference/global_objects/regexp/symbol.split,null
 web/javascript/reference/global_objects/regexp/test,null
 web/javascript/reference/global_objects/regexp/tostring,null
 web/javascript/reference/global_objects/regexp/unicode,6
-web/javascript/reference/global_objects/regexp/unicodesets,4
+web/javascript/reference/global_objects/regexp/unicodesets,5
 web/javascript/reference/global_objects/set,3
 web/javascript/reference/global_objects/set/add,5
 web/javascript/reference/global_objects/set/clear,4
