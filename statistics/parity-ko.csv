@@ -4009,7 +4009,7 @@ web/api/element/scrolltop,null
 web/api/element/scrolltopmax,null
 web/api/element/scrollwidth,null
 web/api/element/securitypolicyviolation_event,null
-web/api/element/setattribute,null
+web/api/element/setattribute,11
 web/api/element/setattributenode,null
 web/api/element/setattributenodens,null
 web/api/element/setattributens,null
