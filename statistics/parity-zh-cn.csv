@@ -2174,7 +2174,7 @@ web/accessibility/aria/reference/roles/button_role,11
 web/accessibility/aria/reference/roles/cell_role,0
 web/accessibility/aria/reference/roles/checkbox_role,null
 web/accessibility/aria/reference/roles/columnheader_role,null
-web/accessibility/aria/reference/roles/combobox_role,null
+web/accessibility/aria/reference/roles/combobox_role,0
 web/accessibility/aria/reference/roles/command_role,0
 web/accessibility/aria/reference/roles/comment_role,null
 web/accessibility/aria/reference/roles/complementary_role,null
@@ -3782,7 +3782,7 @@ web/api/domtokenlist/toggle,null
 web/api/domtokenlist/tostring,0
 web/api/domtokenlist/value,0
 web/api/domtokenlist/values,null
-web/api/dragevent,null
+web/api/dragevent,0
 web/api/dragevent/datatransfer,0
 web/api/dragevent/dragevent,null
 web/api/dynamicscompressornode,null
@@ -3853,7 +3853,7 @@ web/api/element/ariainvalid,null
 web/api/element/ariakeyshortcuts,0
 web/api/element/arialabel,0
 web/api/element/arialabelledbyelements,null
-web/api/element/arialevel,null
+web/api/element/arialevel,0
 web/api/element/arialive,null
 web/api/element/ariamodal,null
 web/api/element/ariamultiline,null
@@ -3947,7 +3947,7 @@ web/api/element/insertadjacentelement,4
 web/api/element/insertadjacenthtml,null
 web/api/element/insertadjacenttext,null
 web/api/element/keydown_event,null
-web/api/element/keypress_event,null
+web/api/element/keypress_event,0
 web/api/element/keyup_event,null
 web/api/element/lastelementchild,1
 web/api/element/localname,null
@@ -8896,7 +8896,7 @@ web/api/touch/azimuthangle,null
 web/api/touch/clientx,null
 web/api/touch/clienty,null
 web/api/touch/force,null
-web/api/touch/identifier,null
+web/api/touch/identifier,0
 web/api/touch/pagex,1
 web/api/touch/pagey,1
 web/api/touch/radiusx,null
@@ -9679,7 +9679,7 @@ web/api/webrtc_api/session_lifetime,null
 web/api/webrtc_api/signaling_and_video_calling,null
 web/api/webrtc_api/simple_rtcdatachannel_sample,null
 web/api/webrtc_api/using_data_channels,6
-web/api/webrtc_api/using_dtmf,6
+web/api/webrtc_api/using_dtmf,7
 web/api/webrtc_api/using_encoded_transforms,7
 web/api/websocket,0
 web/api/websocket/binarytype,0
@@ -9841,7 +9841,7 @@ web/api/window/hashchange_event,5
 web/api/window/history,null
 web/api/window/indexeddb,null
 web/api/window/innerheight,null
-web/api/window/innerwidth,null
+web/api/window/innerwidth,0
 web/api/window/issecurecontext,2
 web/api/window/languagechange_event,2
 web/api/window/launchqueue,null
@@ -12806,7 +12806,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,null
 web/javascript/reference/global_objects/isfinite,null
 web/javascript/reference/global_objects/isnan,7
-web/javascript/reference/global_objects/iterator,24
+web/javascript/reference/global_objects/iterator,25
 web/javascript/reference/global_objects/iterator/chunks,null
 web/javascript/reference/global_objects/iterator/concat,null
 web/javascript/reference/global_objects/iterator/drop,5
