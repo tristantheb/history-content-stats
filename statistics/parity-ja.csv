@@ -1,6 +1,6 @@
 Path,ParityCount
 games,0
-games/anatomy,null
+games/anatomy,0
 games/introduction,0
 games/publishing_games,2
 games/publishing_games/game_distribution,null
@@ -11607,7 +11607,7 @@ web/css/reference/values/tan,0
 web/css/reference/values/text-edge,1
 web/css/reference/values/time,1
 web/css/reference/values/time-percentage,1
-web/css/reference/values/timeline-range-name,7
+web/css/reference/values/timeline-range-name,0
 web/css/reference/values/transform-function,1
 web/css/reference/values/transform-function/matrix,0
 web/css/reference/values/transform-function/matrix3d,0
