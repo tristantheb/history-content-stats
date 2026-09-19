@@ -1299,6 +1299,7 @@ mozilla/add-ons/webextensions/api/privacy/network,b8a0743ca8b1e1b1b1a95cc93a4413
 mozilla/add-ons/webextensions/api/privacy/services,b8a0743ca8b1e1b1b1a95cc93a4413c020f11262
 mozilla/add-ons/webextensions/api/privacy/websites,b8a0743ca8b1e1b1b1a95cc93a4413c020f11262
 mozilla/add-ons/webextensions/api/proxy,no_hash_commit
+mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4
 mozilla/add-ons/webextensions/api/runtime/connectnative,no_hash_commit
 mozilla/add-ons/webextensions/api/runtime/getmanifest,no_hash_commit
 mozilla/add-ons/webextensions/api/runtime,no_hash_commit
@@ -1619,8 +1620,11 @@ web/accessibility/aria/reference/roles/article_role,a84b606ffd77c40a7306be6c932a
 web/accessibility/aria/reference/roles/banner_role,6193c69cb71e80e45e7dff97188253ed15d58321
 web/accessibility/aria/reference/roles/button_role,019ca5c9ce641bfa02825e1ba0444f35dfb646cc
 web/accessibility/aria/reference/roles/cell_role,2d78abb3e793352e24e976ce0e68c08d817bd7f3
+web/accessibility/aria/reference/roles/checkbox_role,1474534461893381d54c502e655f334b5568e597
+web/accessibility/aria/reference/roles/columnheader_role,26fb7eaa7b398a35c2463fa15ab6ccfa46a9e06d
 web/accessibility/aria/reference/roles/combobox_role,d86426e69aaed1dbf19f09d92d78d1d320737733
 web/accessibility/aria/reference/roles/command_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
+web/accessibility/aria/reference/roles/comment_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/composite_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/directory_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e
 web/accessibility/aria/reference/roles/group_role,019ca5c9ce641bfa02825e1ba0444f35dfb646cc
@@ -1700,6 +1704,7 @@ web/api/animation/playstate,no_hash_commit
 web/api/animation/replacestate,e9bba35f2ae2943431ae2dfb752f5856ef79769d
 web/api/animation/timeline,135b8311a5e3d12789e8421845be3ce026ef72b8
 web/api/animationeffect,76717f752447b6eef25bf29c12272e407ee5cb6b
+web/api/animationevent/animation,513146a616213fee548fdcf72dc1359030eb3395
 web/api/animationevent/animationname,76717f752447b6eef25bf29c12272e407ee5cb6b
 web/api/animationevent/elapsedtime,76717f752447b6eef25bf29c12272e407ee5cb6b
 web/api/animationevent/pseudoelement,76717f752447b6eef25bf29c12272e407ee5cb6b
@@ -3244,7 +3249,7 @@ web/api/htmlmediaelement/error_event,no_hash_commit
 web/api/htmlmediaelement,no_hash_commit
 web/api/htmlmediaelement/load,no_hash_commit
 web/api/htmlmediaelement/loadeddata_event,no_hash_commit
-web/api/htmlmediaelement/loadedmetadata_event,no_hash_commit
+web/api/htmlmediaelement/loadedmetadata_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec
 web/api/htmlmediaelement/loadstart_event,no_hash_commit
 web/api/htmlmediaelement/loop,no_hash_commit
 web/api/htmlmediaelement/mediagroup,8beb479c558d4220932721e61b6a334d5b5c274a
@@ -3810,7 +3815,7 @@ web/api/node/lastchild,7de82e7152a2891e9aee5b6f630f1f43849748df
 web/api/node/lookupnamespaceuri,no_hash_commit
 web/api/node/lookupprefix,f9c2ae293074c49f1ed2b86913ef24b0042e0047
 web/api/node/nextsibling,no_hash_commit
-web/api/node/nodename,no_hash_commit
+web/api/node/nodename,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f
 web/api/node/nodetype,no_hash_commit
 web/api/node/nodevalue,312081aabba3885b35a81107b3c2fc53428896c5
 web/api/node/normalize,312081aabba3885b35a81107b3c2fc53428896c5
@@ -6093,7 +6098,7 @@ web/html/reference/global_attributes/itemscope,no_hash_commit
 web/html/reference/global_attributes/itemtype,no_hash_commit
 web/html/reference/global_attributes/lang,no_hash_commit
 web/html/reference/global_attributes/nonce,ba96f2f183353872db6d9242c7d2dffe2dbc0c35
-web/html/reference/global_attributes/part,no_hash_commit
+web/html/reference/global_attributes/part,9c70c6ff09189cad43d40e241fbd2fe67349c3c2
 web/html/reference/global_attributes/popover,e492ae4891e1f0a454fd452ee2e67986f8e1150f
 web/html/reference/global_attributes/slot,no_hash_commit
 web/html/reference/global_attributes/spellcheck,d49a9ceb7a22f48dd27a6742a098a915c2243ddc

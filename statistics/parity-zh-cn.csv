@@ -1521,7 +1521,7 @@ mozilla/add-ons/webextensions/api/proxy/proxyinfo,null
 mozilla/add-ons/webextensions/api/proxy/requestdetails,null
 mozilla/add-ons/webextensions/api/proxy/settings,null
 mozilla/add-ons/webextensions/api/publicsuffix,null
-mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,null
+mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,0
 mozilla/add-ons/webextensions/api/publicsuffix/getdomain,null
 mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,null
 mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,null
@@ -2172,11 +2172,11 @@ web/accessibility/aria/reference/roles/article_role,0
 web/accessibility/aria/reference/roles/banner_role,0
 web/accessibility/aria/reference/roles/button_role,11
 web/accessibility/aria/reference/roles/cell_role,0
-web/accessibility/aria/reference/roles/checkbox_role,null
-web/accessibility/aria/reference/roles/columnheader_role,null
+web/accessibility/aria/reference/roles/checkbox_role,0
+web/accessibility/aria/reference/roles/columnheader_role,0
 web/accessibility/aria/reference/roles/combobox_role,0
 web/accessibility/aria/reference/roles/command_role,0
-web/accessibility/aria/reference/roles/comment_role,null
+web/accessibility/aria/reference/roles/comment_role,0
 web/accessibility/aria/reference/roles/complementary_role,null
 web/accessibility/aria/reference/roles/composite_role,0
 web/accessibility/aria/reference/roles/contentinfo_role,null
@@ -2350,7 +2350,7 @@ web/api/animationeffect/getcomputedtiming,null
 web/api/animationeffect/gettiming,null
 web/api/animationeffect/updatetiming,null
 web/api/animationevent,null
-web/api/animationevent/animation,null
+web/api/animationevent/animation,0
 web/api/animationevent/animationevent,null
 web/api/animationevent/animationname,1
 web/api/animationevent/elapsedtime,1
@@ -5182,7 +5182,7 @@ web/api/htmlmediaelement/fastseek,null
 web/api/htmlmediaelement/getstartdate,null
 web/api/htmlmediaelement/load,null
 web/api/htmlmediaelement/loadeddata_event,null
-web/api/htmlmediaelement/loadedmetadata_event,null
+web/api/htmlmediaelement/loadedmetadata_event,0
 web/api/htmlmediaelement/loading,null
 web/api/htmlmediaelement/loadstart_event,null
 web/api/htmlmediaelement/loop,null
@@ -6464,7 +6464,7 @@ web/api/node/lastchild,2
 web/api/node/lookupnamespaceuri,null
 web/api/node/lookupprefix,0
 web/api/node/nextsibling,null
-web/api/node/nodename,null
+web/api/node/nodename,0
 web/api/node/nodetype,null
 web/api/node/nodevalue,2
 web/api/node/normalize,1
@@ -11883,7 +11883,7 @@ web/html/reference/global_attributes/itemscope,null
 web/html/reference/global_attributes/itemtype,null
 web/html/reference/global_attributes/lang,null
 web/html/reference/global_attributes/nonce,6
-web/html/reference/global_attributes/part,null
+web/html/reference/global_attributes/part,0
 web/html/reference/global_attributes/popover,12
 web/html/reference/global_attributes/slot,null
 web/html/reference/global_attributes/spellcheck,5
