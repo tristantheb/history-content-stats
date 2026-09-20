@@ -7187,7 +7187,7 @@ web/api/request/json,0
 web/api/request/keepalive,0
 web/api/request/method,0
 web/api/request/mode,0
-web/api/request/redirect,0
+web/api/request/redirect,1
 web/api/request/referrer,0
 web/api/request/referrerpolicy,0
 web/api/request/request,0
