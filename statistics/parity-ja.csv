@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,9
 mozilla/firefox,0
-mozilla/firefox/experimental_features,15
+mozilla/firefox/experimental_features,16
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -10738,7 +10738,7 @@ web/css/reference/properties/alignment-baseline,2
 web/css/reference/properties/all,4
 web/css/reference/properties/anchor-name,3
 web/css/reference/properties/anchor-scope,1
-web/css/reference/properties/animation,2
+web/css/reference/properties/animation,3
 web/css/reference/properties/animation-composition,4
 web/css/reference/properties/animation-delay,2
 web/css/reference/properties/animation-direction,2
@@ -10867,7 +10867,7 @@ web/css/reference/properties/color-interpolation-filters,null
 web/css/reference/properties/color-scheme,2
 web/css/reference/properties/column-count,2
 web/css/reference/properties/column-fill,1
-web/css/reference/properties/column-gap,3
+web/css/reference/properties/column-gap,4
 web/css/reference/properties/column-height,4
 web/css/reference/properties/column-rule,2
 web/css/reference/properties/column-rule-break,1
@@ -10958,7 +10958,7 @@ web/css/reference/properties/font-variant,3
 web/css/reference/properties/font-variant-alternates,2
 web/css/reference/properties/font-variant-caps,2
 web/css/reference/properties/font-variant-east-asian,2
-web/css/reference/properties/font-variant-emoji,2
+web/css/reference/properties/font-variant-emoji,3
 web/css/reference/properties/font-variant-ligatures,3
 web/css/reference/properties/font-variant-numeric,3
 web/css/reference/properties/font-variant-position,2
