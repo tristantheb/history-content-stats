@@ -6922,7 +6922,7 @@ web/api/pointer_events/multi-touch_interaction,null
 web/api/pointer_events/pinch_zoom_gestures,null
 web/api/pointer_events/using_pointer_events,null
 web/api/pointer_lock_api,null
-web/api/pointerevent,null
+web/api/pointerevent,0
 web/api/pointerevent/altitudeangle,null
 web/api/pointerevent/azimuthangle,null
 web/api/pointerevent/getcoalescedevents,null
@@ -7187,7 +7187,7 @@ web/api/request/json,0
 web/api/request/keepalive,0
 web/api/request/method,0
 web/api/request/mode,0
-web/api/request/redirect,0
+web/api/request/redirect,1
 web/api/request/referrer,0
 web/api/request/referrerpolicy,0
 web/api/request/request,0
@@ -10106,7 +10106,7 @@ web/api/xmlhttprequesteventtarget,null
 web/api/xmlhttprequesteventtarget/abort_event,null
 web/api/xmlhttprequesteventtarget/error_event,null
 web/api/xmlhttprequesteventtarget/load_event,null
-web/api/xmlhttprequesteventtarget/loadend_event,null
+web/api/xmlhttprequesteventtarget/loadend_event,0
 web/api/xmlhttprequesteventtarget/loadstart_event,null
 web/api/xmlhttprequesteventtarget/progress_event,null
 web/api/xmlhttprequesteventtarget/timeout_event,null

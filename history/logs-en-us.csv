@@ -7187,7 +7187,7 @@ web/api/request/json,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/request/keepalive,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/request/method,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/request/mode,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/request/redirect,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
+web/api/request/redirect,6e2806da0f8202df37c0ca641eab4d53a3797950,Web APIs
 web/api/request/referrer,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/request/referrerpolicy,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Web APIs
 web/api/request/request,f6e66d18205c93fcaeb2ea9ad51541b5b4d7d2b1,Web APIs

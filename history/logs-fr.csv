@@ -3868,7 +3868,7 @@ web/api/plugin,no_hash_commit
 web/api/pointer_events,a69f7c732da7be334fc2c679c5cb9484baf79ba9
 web/api/pointer_events/pinch_zoom_gestures,no_hash_commit
 web/api/pointer_lock_api,no_hash_commit
-web/api/pointerevent,no_hash_commit
+web/api/pointerevent,bec7ef59277e752985de0ee963c86f6e8e4b3400
 web/api/popover_api,0c13af55e869cbc54830fd1a601fd05f60717375
 web/api/popover_api/using,913b2dc28956617354dfb63bf93e56c48ac754af
 web/api/popover_api/using_interest_invokers,995f8bcede5aa8ca40921b030deef7524ce9e1a3
@@ -4339,7 +4339,7 @@ web/api/xmlhttprequest_api/using_formdata_objects,2024a508694208f0316c484fb41e2c
 web/api/xmlhttprequest_api/using_xmlhttprequest,2024a508694208f0316c484fb41e2c5823deae88
 web/api/xmlhttprequesteventtarget/abort_event,no_hash_commit
 web/api/xmlhttprequesteventtarget,no_hash_commit
-web/api/xmlhttprequesteventtarget/loadend_event,no_hash_commit
+web/api/xmlhttprequesteventtarget/loadend_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/xmlserializer,no_hash_commit
 web/api/xpathexpression,no_hash_commit
 web/api/xsltprocessor,f22e72998f4e8f48b18ef358521bfc9ad1ae9446
