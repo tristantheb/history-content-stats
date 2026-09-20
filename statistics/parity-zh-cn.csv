@@ -8638,11 +8638,11 @@ web/api/svgradialgradientelement/fr,null
 web/api/svgradialgradientelement/fx,null
 web/api/svgradialgradientelement/fy,null
 web/api/svgradialgradientelement/r,null
-web/api/svgrect,null
+web/api/svgrect,0
 web/api/svgrect/height,0
 web/api/svgrect/width,0
-web/api/svgrect/x,null
-web/api/svgrect/y,null
+web/api/svgrect/x,0
+web/api/svgrect/y,0
 web/api/svgrectelement,null
 web/api/svgrectelement/height,null
 web/api/svgrectelement/rx,null
@@ -12274,7 +12274,7 @@ web/javascript/guide/closures,10
 web/javascript/guide/control_flow_and_error_handling,7
 web/javascript/guide/data_structures,3
 web/javascript/guide/enumerability_and_ownership_of_properties,2
-web/javascript/guide/equality_comparisons_and_sameness,6
+web/javascript/guide/equality_comparisons_and_sameness,7
 web/javascript/guide/expressions_and_operators,null
 web/javascript/guide/functions,null
 web/javascript/guide/grammar_and_types,13
