@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1966,8 +1966,8 @@ mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,0
-mozilla/firefox/releases/156,0
-mozilla/firefox/releases/157,0
+mozilla/firefox/releases/156,1
+mozilla/firefox/releases/157,1
 mozilla/firefox/releases/158,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -10738,7 +10738,7 @@ web/css/reference/properties/alignment-baseline,0
 web/css/reference/properties/all,0
 web/css/reference/properties/anchor-name,0
 web/css/reference/properties/anchor-scope,0
-web/css/reference/properties/animation,0
+web/css/reference/properties/animation,1
 web/css/reference/properties/animation-composition,0
 web/css/reference/properties/animation-delay,0
 web/css/reference/properties/animation-direction,0
@@ -10867,7 +10867,7 @@ web/css/reference/properties/color-interpolation-filters,0
 web/css/reference/properties/color-scheme,0
 web/css/reference/properties/column-count,0
 web/css/reference/properties/column-fill,0
-web/css/reference/properties/column-gap,0
+web/css/reference/properties/column-gap,1
 web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,0
 web/css/reference/properties/column-rule-break,0
@@ -10958,7 +10958,7 @@ web/css/reference/properties/font-variant,0
 web/css/reference/properties/font-variant-alternates,0
 web/css/reference/properties/font-variant-caps,0
 web/css/reference/properties/font-variant-east-asian,0
-web/css/reference/properties/font-variant-emoji,0
+web/css/reference/properties/font-variant-emoji,1
 web/css/reference/properties/font-variant-ligatures,0
 web/css/reference/properties/font-variant-numeric,0
 web/css/reference/properties/font-variant-position,0
@@ -12274,7 +12274,7 @@ web/javascript/guide/closures,0
 web/javascript/guide/control_flow_and_error_handling,0
 web/javascript/guide/data_structures,0
 web/javascript/guide/enumerability_and_ownership_of_properties,0
-web/javascript/guide/equality_comparisons_and_sameness,1
+web/javascript/guide/equality_comparisons_and_sameness,0
 web/javascript/guide/expressions_and_operators,0
 web/javascript/guide/functions,0
 web/javascript/guide/grammar_and_types,0
