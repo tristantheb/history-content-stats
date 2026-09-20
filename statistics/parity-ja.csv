@@ -6,7 +6,7 @@ games/publishing_games,2
 games/publishing_games/game_distribution,null
 games/publishing_games/game_monetization,null
 games/publishing_games/game_promotion,null
-games/techniques,null
+games/techniques,0
 games/techniques/2d_collision_detection,0
 games/techniques/3d_collision_detection,3
 games/techniques/3d_collision_detection/bounding_volume_collision_detection_with_three.js,null
@@ -22,7 +22,7 @@ games/techniques/3d_on_the_web/glsl_shaders,0
 games/techniques/3d_on_the_web/webxr,null
 games/techniques/async_scripts,null
 games/techniques/audio_for_web_games,null
-games/techniques/control_mechanisms,null
+games/techniques/control_mechanisms,0
 games/techniques/control_mechanisms/desktop_with_gamepad,null
 games/techniques/control_mechanisms/desktop_with_mouse_and_keyboard,null
 games/techniques/control_mechanisms/mobile_touch,null
@@ -158,7 +158,7 @@ glossary/cls,2
 glossary/cms,null
 glossary/code_point,null
 glossary/code_splitting,4
-glossary/code_unit,2
+glossary/code_unit,0
 glossary/codec,null
 glossary/color_space,3
 glossary/color_wheel,6
@@ -1965,7 +1965,7 @@ mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,3
 mozilla/firefox/releases/154,1
-mozilla/firefox/releases/155,4
+mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
 mozilla/firefox/releases/158,null
@@ -12274,7 +12274,7 @@ web/javascript/guide/closures,0
 web/javascript/guide/control_flow_and_error_handling,0
 web/javascript/guide/data_structures,0
 web/javascript/guide/enumerability_and_ownership_of_properties,0
-web/javascript/guide/equality_comparisons_and_sameness,2
+web/javascript/guide/equality_comparisons_and_sameness,3
 web/javascript/guide/expressions_and_operators,0
 web/javascript/guide/functions,0
 web/javascript/guide/grammar_and_types,2
