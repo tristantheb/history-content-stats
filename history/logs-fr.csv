@@ -4425,9 +4425,10 @@ web/css/guides/flexible_box_layout,ae836b44d9faa0e9f581631ed1dcccd2a502b618
 web/css/guides/flexible_box_layout/ordering_items,03e93e0948768ea78474e77a53795698ebca5836
 web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,08c6d21d1e741aa3d96296edaa4964ebfcdbaded
 web/css/guides/flexible_box_layout/use_cases,32bdfdb82cf91ce9942b694286dec62be2cc20aa
-web/css/guides/flexible_box_layout/wrapping_items,ec9d2eb49c0916c394842d5caa923e1d86ed47ed
-web/css/guides/fonts,no_hash_commit
-web/css/guides/fonts/opentype_fonts,no_hash_commit
+web/css/guides/flexible_box_layout/wrapping_items,ae836b44d9faa0e9f581631ed1dcccd2a502b618
+web/css/guides/font_loading,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/guides/fonts,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5
+web/css/guides/fonts/opentype_fonts,6f5921b2634db4bd565e5e0cd38eafdadb4bb383
 web/css/guides/fonts/variable_fonts,no_hash_commit
 web/css/guides/fragmentation,no_hash_commit
 web/css/guides/generated_content,no_hash_commit
