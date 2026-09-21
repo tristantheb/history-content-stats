@@ -10916,7 +10916,7 @@ web/css/reference/properties/cx,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Pro
 web/css/reference/properties/cy,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/d,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/direction,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/display,b02c4fe0f8c485fa3fd0af10005310aaecef64ca,CSS|Properties
+web/css/reference/properties/display,1017b716a13c17fb4afcc2aefc904692fa670460,CSS|Properties
 web/css/reference/properties/dominant-baseline,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/dynamic-range-limit,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/empty-cells,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
@@ -11536,7 +11536,7 @@ web/css/reference/values/fit-content_function,5e4520f9cd84f65d470ec57efef7a73bbe
 web/css/reference/values/flex_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/frequency,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/frequency-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/functions,d35a7643766c8f8d1d92044ca771dbf8dc843906,CSS|Values
+web/css/reference/values/functions,08a5a4313166a8f36f8c0c1320ac970423239b9a,CSS|Values
 web/css/reference/values/generic-family,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/gradient,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Values
 web/css/reference/values/gradient/conic-gradient,a1da408d85bfa1fc180d15fdc29746ad5f9e9cff,CSS|Values
