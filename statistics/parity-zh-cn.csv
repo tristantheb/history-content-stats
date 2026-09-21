@@ -9898,8 +9898,8 @@ web/api/window/scheduler,null
 web/api/window/screen,0
 web/api/window/screenleft,null
 web/api/window/screentop,null
-web/api/window/screenx,null
-web/api/window/screeny,null
+web/api/window/screenx,0
+web/api/window/screeny,0
 web/api/window/scroll,4
 web/api/window/scrollbars,2
 web/api/window/scrollby,null
