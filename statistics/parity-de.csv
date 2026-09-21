@@ -866,7 +866,7 @@ learn_web_development/extensions/async_js/promises,0
 learn_web_development/extensions/async_js/sequencing_animations,0
 learn_web_development/extensions/client-side_apis,0
 learn_web_development/extensions/client-side_apis/client-side_storage,0
-learn_web_development/extensions/client-side_apis/drawing_graphics,0
+learn_web_development/extensions/client-side_apis/drawing_graphics,1
 learn_web_development/extensions/client-side_apis/introduction,0
 learn_web_development/extensions/client-side_apis/third_party_apis,0
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,0
@@ -4211,7 +4211,7 @@ web/api/federatedcredential/federatedcredential,0
 web/api/federatedcredential/protocol,0
 web/api/federatedcredential/provider,0
 web/api/federatedcredentialinit,0
-web/api/fence,0
+web/api/fence,1
 web/api/fence/getnestedconfigs,0
 web/api/fence/reportevent,0
 web/api/fence/setreporteventdataforautomaticbeacons,0
@@ -8215,7 +8215,7 @@ web/api/svganimatedboolean/animval,0
 web/api/svganimatedboolean/baseval,0
 web/api/svganimatedenumeration,0
 web/api/svganimatedenumeration/animval,0
-web/api/svganimatedenumeration/baseval,0
+web/api/svganimatedenumeration/baseval,1
 web/api/svganimatedinteger,0
 web/api/svganimatedinteger/animval,0
 web/api/svganimatedinteger/baseval,0
@@ -10419,7 +10419,7 @@ web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,0
 web/css/guides/color_adjustment,0
 web/css/guides/colors,0
-web/css/guides/colors/applying_color,0
+web/css/guides/colors/applying_color,1
 web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,0
 web/css/guides/colors/color_values,0
@@ -10610,7 +10610,7 @@ web/css/reference,0
 web/css/reference/at-rules,0
 web/css/reference/at-rules/@charset,0
 web/css/reference/at-rules/@color-profile,0
-web/css/reference/at-rules/@container,0
+web/css/reference/at-rules/@container,1
 web/css/reference/at-rules/@counter-style,0
 web/css/reference/at-rules/@counter-style/additive-symbols,0
 web/css/reference/at-rules/@counter-style/fallback,0
@@ -11751,7 +11751,7 @@ web/html/reference/elements/i,0
 web/html/reference/elements/iframe,0
 web/html/reference/elements/img,0
 web/html/reference/elements/input,0
-web/html/reference/elements/input/button,0
+web/html/reference/elements/input/button,1
 web/html/reference/elements/input/checkbox,0
 web/html/reference/elements/input/color,0
 web/html/reference/elements/input/date,0
@@ -12973,7 +12973,7 @@ web/javascript/reference/global_objects/promise/reject,0
 web/javascript/reference/global_objects/promise/resolve,0
 web/javascript/reference/global_objects/promise/symbol.species,0
 web/javascript/reference/global_objects/promise/then,0
-web/javascript/reference/global_objects/promise/try,0
+web/javascript/reference/global_objects/promise/try,1
 web/javascript/reference/global_objects/promise/withresolvers,0
 web/javascript/reference/global_objects/proxy,0
 web/javascript/reference/global_objects/proxy/proxy,0

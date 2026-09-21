@@ -866,7 +866,7 @@ learn_web_development/extensions/async_js/promises,5
 learn_web_development/extensions/async_js/sequencing_animations,2
 learn_web_development/extensions/client-side_apis,3
 learn_web_development/extensions/client-side_apis/client-side_storage,1
-learn_web_development/extensions/client-side_apis/drawing_graphics,4
+learn_web_development/extensions/client-side_apis/drawing_graphics,5
 learn_web_development/extensions/client-side_apis/introduction,1
 learn_web_development/extensions/client-side_apis/third_party_apis,2
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,2
@@ -8215,7 +8215,7 @@ web/api/svganimatedboolean/animval,1
 web/api/svganimatedboolean/baseval,1
 web/api/svganimatedenumeration,2
 web/api/svganimatedenumeration/animval,2
-web/api/svganimatedenumeration/baseval,1
+web/api/svganimatedenumeration/baseval,2
 web/api/svganimatedinteger,1
 web/api/svganimatedinteger/animval,0
 web/api/svganimatedinteger/baseval,0
@@ -10419,7 +10419,7 @@ web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,1
 web/css/guides/color_adjustment,0
 web/css/guides/colors,0
-web/css/guides/colors/applying_color,1
+web/css/guides/colors/applying_color,2
 web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,1
 web/css/guides/colors/color_values,3
@@ -10610,7 +10610,7 @@ web/css/reference,0
 web/css/reference/at-rules,0
 web/css/reference/at-rules/@charset,1
 web/css/reference/at-rules/@color-profile,0
-web/css/reference/at-rules/@container,0
+web/css/reference/at-rules/@container,1
 web/css/reference/at-rules/@counter-style,1
 web/css/reference/at-rules/@counter-style/additive-symbols,2
 web/css/reference/at-rules/@counter-style/fallback,1
@@ -11751,7 +11751,7 @@ web/html/reference/elements/i,0
 web/html/reference/elements/iframe,1
 web/html/reference/elements/img,2
 web/html/reference/elements/input,3
-web/html/reference/elements/input/button,1
+web/html/reference/elements/input/button,2
 web/html/reference/elements/input/checkbox,1
 web/html/reference/elements/input/color,1
 web/html/reference/elements/input/date,1
@@ -12973,7 +12973,7 @@ web/javascript/reference/global_objects/promise/reject,1
 web/javascript/reference/global_objects/promise/resolve,1
 web/javascript/reference/global_objects/promise/symbol.species,0
 web/javascript/reference/global_objects/promise/then,1
-web/javascript/reference/global_objects/promise/try,1
+web/javascript/reference/global_objects/promise/try,2
 web/javascript/reference/global_objects/promise/withresolvers,1
 web/javascript/reference/global_objects/proxy,0
 web/javascript/reference/global_objects/proxy/proxy,1

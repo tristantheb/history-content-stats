@@ -866,7 +866,7 @@ learn_web_development/extensions/async_js/promises,7
 learn_web_development/extensions/async_js/sequencing_animations,null
 learn_web_development/extensions/client-side_apis,7
 learn_web_development/extensions/client-side_apis/client-side_storage,6
-learn_web_development/extensions/client-side_apis/drawing_graphics,18
+learn_web_development/extensions/client-side_apis/drawing_graphics,19
 learn_web_development/extensions/client-side_apis/introduction,7
 learn_web_development/extensions/client-side_apis/third_party_apis,10
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,18
@@ -4211,7 +4211,7 @@ web/api/federatedcredential/federatedcredential,null
 web/api/federatedcredential/protocol,null
 web/api/federatedcredential/provider,null
 web/api/federatedcredentialinit,null
-web/api/fence,2
+web/api/fence,3
 web/api/fence/getnestedconfigs,2
 web/api/fence/reportevent,4
 web/api/fence/setreporteventdataforautomaticbeacons,4
@@ -10419,7 +10419,7 @@ web/css/guides/cascading_variables,null
 web/css/guides/cascading_variables/using_custom_properties,null
 web/css/guides/color_adjustment,1
 web/css/guides/colors,10
-web/css/guides/colors/applying_color,5
+web/css/guides/colors/applying_color,6
 web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,2
 web/css/guides/colors/color_values,1
@@ -12973,7 +12973,7 @@ web/javascript/reference/global_objects/promise/reject,null
 web/javascript/reference/global_objects/promise/resolve,5
 web/javascript/reference/global_objects/promise/symbol.species,null
 web/javascript/reference/global_objects/promise/then,null
-web/javascript/reference/global_objects/promise/try,4
+web/javascript/reference/global_objects/promise/try,5
 web/javascript/reference/global_objects/promise/withresolvers,4
 web/javascript/reference/global_objects/proxy,0
 web/javascript/reference/global_objects/proxy/proxy,4

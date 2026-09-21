@@ -4211,7 +4211,7 @@ web/api/federatedcredential/federatedcredential,null
 web/api/federatedcredential/protocol,null
 web/api/federatedcredential/provider,null
 web/api/federatedcredentialinit,null
-web/api/fence,0
+web/api/fence,1
 web/api/fence/getnestedconfigs,0
 web/api/fence/reportevent,0
 web/api/fence/setreporteventdataforautomaticbeacons,0
@@ -10419,7 +10419,7 @@ web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,0
 web/css/guides/color_adjustment,0
 web/css/guides/colors,0
-web/css/guides/colors/applying_color,0
+web/css/guides/colors/applying_color,1
 web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,0
 web/css/guides/colors/color_values,0
@@ -10610,7 +10610,7 @@ web/css/reference,0
 web/css/reference/at-rules,0
 web/css/reference/at-rules/@charset,1
 web/css/reference/at-rules/@color-profile,0
-web/css/reference/at-rules/@container,0
+web/css/reference/at-rules/@container,1
 web/css/reference/at-rules/@counter-style,0
 web/css/reference/at-rules/@counter-style/additive-symbols,0
 web/css/reference/at-rules/@counter-style/fallback,0
@@ -11751,7 +11751,7 @@ web/html/reference/elements/i,0
 web/html/reference/elements/iframe,1
 web/html/reference/elements/img,1
 web/html/reference/elements/input,1
-web/html/reference/elements/input/button,0
+web/html/reference/elements/input/button,1
 web/html/reference/elements/input/checkbox,0
 web/html/reference/elements/input/color,0
 web/html/reference/elements/input/date,0
@@ -12973,7 +12973,7 @@ web/javascript/reference/global_objects/promise/reject,1
 web/javascript/reference/global_objects/promise/resolve,1
 web/javascript/reference/global_objects/promise/symbol.species,0
 web/javascript/reference/global_objects/promise/then,0
-web/javascript/reference/global_objects/promise/try,1
+web/javascript/reference/global_objects/promise/try,2
 web/javascript/reference/global_objects/promise/withresolvers,1
 web/javascript/reference/global_objects/proxy,null
 web/javascript/reference/global_objects/proxy/proxy,null
