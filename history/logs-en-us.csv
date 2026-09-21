@@ -866,7 +866,7 @@ learn_web_development/extensions/async_js/promises,7dea5a04405d1bfce4f471d9284f7
 learn_web_development/extensions/async_js/sequencing_animations,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0,Learn|Extensions
 learn_web_development/extensions/client-side_apis,d93983dfe60b65633f67fffe04676c241ff92960,Learn|Extensions
 learn_web_development/extensions/client-side_apis/client-side_storage,b5ee197a87ea18acbc4dd9544efa8c0e46253785,Learn|Extensions
-learn_web_development/extensions/client-side_apis/drawing_graphics,6f5921b2634db4bd565e5e0cd38eafdadb4bb383,Learn|Extensions
+learn_web_development/extensions/client-side_apis/drawing_graphics,3a839eeed13a60d34db1d39a5ce1594050d56ab0,Learn|Extensions
 learn_web_development/extensions/client-side_apis/introduction,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Learn|Extensions
 learn_web_development/extensions/client-side_apis/third_party_apis,d93983dfe60b65633f67fffe04676c241ff92960,Learn|Extensions
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,91e08923c809ca8deded3e3294f49bbe1a4a00b3,Learn|Extensions
@@ -4211,7 +4211,7 @@ web/api/federatedcredential/federatedcredential,4ee6823d1ae58f39e1863b9fc6f6b34d
 web/api/federatedcredential/protocol,339595951b78774e951b1a9d215a6db6b856f6b2,Web APIs
 web/api/federatedcredential/provider,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/federatedcredentialinit,bb48907e64eb4bf60f17efd7d39b46c771d220a0,Web APIs
-web/api/fence,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
+web/api/fence,3a839eeed13a60d34db1d39a5ce1594050d56ab0,Web APIs
 web/api/fence/getnestedconfigs,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
 web/api/fence/reportevent,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
 web/api/fence/setreporteventdataforautomaticbeacons,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
@@ -8215,7 +8215,7 @@ web/api/svganimatedboolean/animval,c2fd97474834e061404b992c8397d4ccc4439a71,Web 
 web/api/svganimatedboolean/baseval,c2fd97474834e061404b992c8397d4ccc4439a71,Web APIs
 web/api/svganimatedenumeration,afcdfa050626bb7eb05ee693df8997020db9ff2e,Web APIs
 web/api/svganimatedenumeration/animval,7f138099644a02640a903b2abc39e685ca8ca7cd,Web APIs
-web/api/svganimatedenumeration/baseval,73f93cb9449dc42059d2f8835338e8674b3d8bdd,Web APIs
+web/api/svganimatedenumeration/baseval,3a839eeed13a60d34db1d39a5ce1594050d56ab0,Web APIs
 web/api/svganimatedinteger,2e39a37874913a1e3fd82999467505fd525e9177,Web APIs
 web/api/svganimatedinteger/animval,c2fd97474834e061404b992c8397d4ccc4439a71,Web APIs
 web/api/svganimatedinteger/baseval,c2fd97474834e061404b992c8397d4ccc4439a71,Web APIs
@@ -10419,7 +10419,7 @@ web/css/guides/cascading_variables,33094d735e90b4dcae5733331b79c51fee997410,CSS|
 web/css/guides/cascading_variables/using_custom_properties,56f3d7018159127dbe92842413fb45d0aa7e8193,CSS|Guides
 web/css/guides/color_adjustment,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/colors,1055ee79c55c33ef82e2efc27ed248a561365724,CSS|Guides
-web/css/guides/colors/applying_color,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
+web/css/guides/colors/applying_color,13d38933aaeea619fe441656e9d8e1bec263331b,CSS|Guides
 web/css/guides/colors/color_format_converter,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/colors/color_mixer,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/colors/color_values,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,CSS|Guides
@@ -10610,7 +10610,7 @@ web/css/reference,93b85a5bc2b4589d93185263fd2c14381c36f821,CSS
 web/css/reference/at-rules,3ee2355c3c90cf92c3119b82f8ebfa5d16c91c53,CSS|At-rules
 web/css/reference/at-rules/@charset,a4c63d2855b2f557e7d1ee821dee65011d569a41,CSS|At-rules
 web/css/reference/at-rules/@color-profile,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
-web/css/reference/at-rules/@container,2ce88199869b63f8da3bbeafd899400f7579cce9,CSS|At-rules
+web/css/reference/at-rules/@container,dc6f92b8877c1c53c187ad6cb6ba677db3ab179a,CSS|At-rules
 web/css/reference/at-rules/@counter-style,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@counter-style/additive-symbols,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@counter-style/fallback,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
@@ -11751,7 +11751,7 @@ web/html/reference/elements/i,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elem
 web/html/reference/elements/iframe,456c370394c0cd8869feb60c4e9926f35422beaf,HTML|Elements
 web/html/reference/elements/img,74a39db9d03ec63426b0740dc0bd3cb85e5461a4,HTML|Elements
 web/html/reference/elements/input,6488b82388db9e593ec28be1d845688e29c679e1,HTML|Elements
-web/html/reference/elements/input/button,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/button,3a839eeed13a60d34db1d39a5ce1594050d56ab0,HTML|Elements
 web/html/reference/elements/input/checkbox,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/color,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/date,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
@@ -12973,7 +12973,7 @@ web/javascript/reference/global_objects/promise/reject,a6a2daec3965d85ef6dfc06cf
 web/javascript/reference/global_objects/promise/resolve,a6a2daec3965d85ef6dfc06cfd3507c1b2f886e2,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/symbol.species,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/then,9bda33365e40b6c609fa5190a0af9b5dc6438cf0,JavaScript|Global Objects
-web/javascript/reference/global_objects/promise/try,a6a2daec3965d85ef6dfc06cfd3507c1b2f886e2,JavaScript|Global Objects
+web/javascript/reference/global_objects/promise/try,ff5a8ae3b5d69a777068b9571934342443e14ab0,JavaScript|Global Objects
 web/javascript/reference/global_objects/promise/withresolvers,a6a2daec3965d85ef6dfc06cfd3507c1b2f886e2,JavaScript|Global Objects
 web/javascript/reference/global_objects/proxy,79fdc26fea835d65c9361541bb8ab1896f307475,JavaScript|Global Objects
 web/javascript/reference/global_objects/proxy/proxy,1ddd95504b4507beeda0f08bd772eb167922b86a,JavaScript|Global Objects
