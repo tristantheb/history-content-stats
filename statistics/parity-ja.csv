@@ -75,7 +75,7 @@ glossary/accessible_name,1
 glossary/adobe_flash,6
 glossary/advance_measure,2
 glossary/ajax,1
-glossary/algorithm,null
+glossary/algorithm,0
 glossary/alignment_container,2
 glossary/alignment_subject,2
 glossary/alpha,13
@@ -84,14 +84,14 @@ glossary/api,3
 glossary/apple_safari,null
 glossary/application_context,0
 glossary/argument,4
-glossary/aria,null
+glossary/aria,0
 glossary/arpa,null
 glossary/arpanet,null
 glossary/array,null
 glossary/ascii,4
 glossary/aspect_ratio,4
 glossary/asynchronous,1
-glossary/atag,null
+glossary/atag,0
 glossary/attribute,0
 glossary/authentication,2
 glossary/authenticator,0
@@ -175,7 +175,7 @@ glossary/contentful_paint,null
 glossary/continuous_integration,null
 glossary/continuous_media,3
 glossary/control_flow,null
-glossary/cookie,null
+glossary/cookie,0
 glossary/copyleft,null
 glossary/cors,0
 glossary/cors-safelisted_request_header,7
@@ -230,7 +230,7 @@ glossary/dtls,2
 glossary/dtmf,1
 glossary/dynamic_typing,null
 glossary/ecma,2
-glossary/ecmascript,null
+glossary/ecmascript,0
 glossary/effective_connection_type,null
 glossary/element,0
 glossary/encapsulation,1
@@ -255,7 +255,7 @@ glossary/federated_identity,null
 glossary/fetch_directive,null
 glossary/fetch_metadata_request_header,8
 glossary/fingerprinting,3
-glossary/firefox_os,null
+glossary/firefox_os,0
 glossary/firewall,1
 glossary/first-class_function,0
 glossary/first_contentful_paint,null
@@ -275,7 +275,7 @@ glossary/fps,null
 glossary/fragmentainer,0
 glossary/ftp,2
 glossary/ftu,null
-glossary/function,null
+glossary/function,0
 glossary/fuzzing,null
 glossary/gamut,0
 glossary/garbage_collection,2
@@ -310,7 +310,7 @@ glossary/head_of_line_blocking,null
 glossary/high-level_programming_language,null
 glossary/hmac,null
 glossary/hoisting,0
-glossary/host,null
+glossary/host,0
 glossary/hotlink,null
 glossary/houdini,null
 glossary/hpkp,1
@@ -355,7 +355,7 @@ glossary/interpolation,4
 glossary/intrinsic_size,0
 glossary/invariant,null
 glossary/ip_address,0
-glossary/ipv4,null
+glossary/ipv4,0
 glossary/ipv6,null
 glossary/irc,0
 glossary/iso,null
@@ -405,7 +405,7 @@ glossary/metadata,null
 glossary/method,null
 glossary/microsoft_edge,null
 glossary/microsoft_internet_explorer,null
-glossary/middleware,null
+glossary/middleware,0
 glossary/mime,null
 glossary/mime_type,1
 glossary/minification,null
@@ -493,7 +493,7 @@ glossary/prototype-based_programming,1
 glossary/proxy_server,2
 glossary/pseudo-class,null
 glossary/pseudo-element,3
-glossary/pseudocode,null
+glossary/pseudocode,0
 glossary/public-key_cryptography,1
 glossary/python,2
 glossary/quality_values,3
@@ -542,7 +542,7 @@ glossary/salt,2
 glossary/same-origin_policy,6
 glossary/scm,null
 glossary/scope,0
-glossary/screen_reader,null
+glossary/screen_reader,1
 glossary/script-supporting_element,null
 glossary/scroll_boundary,3
 glossary/scroll_chaining,3
@@ -600,7 +600,7 @@ glossary/static_method,6
 glossary/static_typing,6
 glossary/sticky_activation,7
 glossary/strict_mode,null
-glossary/string,null
+glossary/string,0
 glossary/stringifier,null
 glossary/stun,1
 glossary/style_origin,1
@@ -644,7 +644,7 @@ glossary/typescript,2
 glossary/uaag,0
 glossary/udp,0
 glossary/ui,null
-glossary/undefined,null
+glossary/undefined,0
 glossary/unicode,null
 glossary/unix_time,4
 glossary/uri,null
@@ -666,7 +666,7 @@ glossary/void_element,0
 glossary/voip,null
 glossary/w3c,null
 glossary/wai,2
-glossary/wcag,null
+glossary/wcag,0
 glossary/web_performance,2
 glossary/web_server,2
 glossary/web_standards,null
@@ -690,7 +690,7 @@ glossary/xforms,null
 glossary/xhtml,0
 glossary/xinclude,6
 glossary/xlink,3
-glossary/xml,null
+glossary/xml,0
 glossary/xmlhttprequest,null
 glossary/xpath,null
 glossary/xquery,null
@@ -3542,7 +3542,7 @@ web/api/document/firstelementchild,1
 web/api/document/fonts,2
 web/api/document/forms,5
 web/api/document/fragmentdirective,5
-web/api/document/fullscreen,2
+web/api/document/fullscreen,0
 web/api/document/fullscreenchange_event,3
 web/api/document/fullscreenelement,2
 web/api/document/fullscreenenabled,1
@@ -10740,17 +10740,17 @@ web/css/reference/properties/anchor-name,3
 web/css/reference/properties/anchor-scope,1
 web/css/reference/properties/animation,3
 web/css/reference/properties/animation-composition,4
-web/css/reference/properties/animation-delay,2
-web/css/reference/properties/animation-direction,2
+web/css/reference/properties/animation-delay,0
+web/css/reference/properties/animation-direction,0
 web/css/reference/properties/animation-duration,0
-web/css/reference/properties/animation-fill-mode,2
+web/css/reference/properties/animation-fill-mode,0
 web/css/reference/properties/animation-iteration-count,2
 web/css/reference/properties/animation-name,0
-web/css/reference/properties/animation-play-state,2
-web/css/reference/properties/animation-range,6
+web/css/reference/properties/animation-play-state,0
+web/css/reference/properties/animation-range,0
 web/css/reference/properties/animation-range-end,0
 web/css/reference/properties/animation-range-start,0
-web/css/reference/properties/animation-timeline,5
+web/css/reference/properties/animation-timeline,1
 web/css/reference/properties/animation-timeline/scroll,2
 web/css/reference/properties/animation-timeline/view,3
 web/css/reference/properties/animation-timing-function,0
@@ -10916,7 +10916,7 @@ web/css/reference/properties/cx,1
 web/css/reference/properties/cy,0
 web/css/reference/properties/d,1
 web/css/reference/properties/direction,2
-web/css/reference/properties/display,2
+web/css/reference/properties/display,3
 web/css/reference/properties/dominant-baseline,2
 web/css/reference/properties/dynamic-range-limit,null
 web/css/reference/properties/empty-cells,2
@@ -11536,7 +11536,7 @@ web/css/reference/values/fit-content_function,1
 web/css/reference/values/flex_value,1
 web/css/reference/values/frequency,1
 web/css/reference/values/frequency-percentage,0
-web/css/reference/values/functions,7
+web/css/reference/values/functions,8
 web/css/reference/values/generic-family,1
 web/css/reference/values/gradient,1
 web/css/reference/values/gradient/conic-gradient,1
@@ -12965,7 +12965,7 @@ web/javascript/reference/global_objects/promise/allkeyed,null
 web/javascript/reference/global_objects/promise/allsettled,1
 web/javascript/reference/global_objects/promise/allsettledkeyed,null
 web/javascript/reference/global_objects/promise/any,3
-web/javascript/reference/global_objects/promise/catch,1
+web/javascript/reference/global_objects/promise/catch,0
 web/javascript/reference/global_objects/promise/finally,1
 web/javascript/reference/global_objects/promise/promise,1
 web/javascript/reference/global_objects/promise/race,3
