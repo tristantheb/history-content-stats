@@ -12047,7 +12047,7 @@ web/http/reference/headers/link,a4c63d2855b2f557e7d1ee821dee65011d569a41,HTTP|He
 web/http/reference/headers/location,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
 web/http/reference/headers/max-forwards,77b4195dec3174497169d2e2de35e1eae29139f0,HTTP|Headers
 web/http/reference/headers/nel,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
-web/http/reference/headers/no-vary-search,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7,HTTP|Headers
+web/http/reference/headers/no-vary-search,d260e0bf3f2ba3091e71ba1a7d0427c7d396e6ac,HTTP|Headers
 web/http/reference/headers/observe-browsing-topics,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTTP|Headers
 web/http/reference/headers/origin,4db27688840b67e416373ea571d9e3a17bafa92d,HTTP|Headers
 web/http/reference/headers/origin-agent-cluster,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
