@@ -4875,8 +4875,8 @@ web/api/window/resizeto,no_hash_commit
 web/api/window/screen,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/screenleft,no_hash_commit
 web/api/window/screentop,no_hash_commit
-web/api/window/screenx,no_hash_commit
-web/api/window/screeny,no_hash_commit
+web/api/window/screenx,6b9bb948a570848254e2023fda959cf86721f8e4
+web/api/window/screeny,6b9bb948a570848254e2023fda959cf86721f8e4
 web/api/window/scroll,20c51db7895b1b6f41d4fa90e71830f4b6678eea
 web/api/window/scrollbars,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/scrollby,no_hash_commit

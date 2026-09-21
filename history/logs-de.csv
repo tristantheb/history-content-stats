@@ -1895,7 +1895,7 @@ mozilla/add-ons/webextensions/working_with_files,09109b6f9444d22215ba330ec1e64e7
 mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b123e98f5eeb7e43923
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a
 mozilla/add-ons/webextensions/your_second_webextension,0af4dd8fa2007f51373931068e6f524e4f2bf86a
-mozilla/firefox/experimental_features,e1d75786a9ba2607af68a3fe2ef8dc3aaba99661
+mozilla/firefox/experimental_features,c504268d235d82b3408e35d5ab6544af60719974
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -1964,8 +1964,8 @@ mozilla/firefox/releases/152,cb5a9829f49b8ef7a28311ca419538194fd6525e
 mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494
 mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff
 mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731
-mozilla/firefox/releases/156,e1d75786a9ba2607af68a3fe2ef8dc3aaba99661
-mozilla/firefox/releases/157,79f0b295d759e9bb6e3c49197434a1d34c449731
+mozilla/firefox/releases/156,ca2450d9c15ffa15965776dbf5d277eb5c3d0b3f
+mozilla/firefox/releases/157,c504268d235d82b3408e35d5ab6544af60719974
 mozilla/firefox/releases/158,79f0b295d759e9bb6e3c49197434a1d34c449731
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
@@ -7186,7 +7186,7 @@ web/api/request/json,562051c4ad20e9ecb5faf905286cdfca545a340d
 web/api/request/keepalive,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/api/request/method,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/api/request/mode,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
-web/api/request/redirect,4d929bb0a021c7130d5a71a4bf505bcb8070378d
+web/api/request/redirect,6e2806da0f8202df37c0ca641eab4d53a3797950
 web/api/request/referrer,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/api/request/referrerpolicy,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/api/request/request,f6e66d18205c93fcaeb2ea9ad51541b5b4d7d2b1
@@ -10751,7 +10751,7 @@ web/css/reference/properties/animation-timeline,880c2c4b113c6fe127ca3ae3603a56ef
 web/css/reference/properties/animation-timeline/scroll,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf
 web/css/reference/properties/animation-timeline/view,bf3142e11b227fb3e7c6de298ea9049aa1999d6f
 web/css/reference/properties/animation-timing-function,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/animation,3f221b9845703eb21db70cdc321f843d5c1c072b
+web/css/reference/properties/animation,a8ef14ed998f5554b834200ba9b0ff0425765416
 web/css/reference/properties/appearance,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/aspect-ratio,c0c85c3dc0d6ff4247c85b0144149e584d74b625
 web/css/reference/properties/backdrop-filter,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -10865,7 +10865,7 @@ web/css/reference/properties/color-scheme,c0c85c3dc0d6ff4247c85b0144149e584d74b6
 web/css/reference/properties/color,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6
 web/css/reference/properties/column-count,d1cf7346516383565b51a125c064ae3d5d893526
 web/css/reference/properties/column-fill,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9
-web/css/reference/properties/column-gap,7b535c422322a8a330bd68075541abfc78efc4b7
+web/css/reference/properties/column-gap,82406a500abd9cd9c9469d9180e62cf9a37deb50
 web/css/reference/properties/column-height,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6
 web/css/reference/properties/column-rule-break,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6
 web/css/reference/properties/column-rule-color,b6de98eb9cd52ce7e37f22a340352f0af4c9d597
@@ -10954,7 +10954,7 @@ web/css/reference/properties/font-synthesis,5381238460a48ff323a93e652d15cb62598f
 web/css/reference/properties/font-variant-alternates,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9
 web/css/reference/properties/font-variant-caps,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9
 web/css/reference/properties/font-variant-east-asian,071fd0613b1b5728d2d83845ea11512cb615067a
-web/css/reference/properties/font-variant-emoji,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9
+web/css/reference/properties/font-variant-emoji,874031f6f50908d8679b8debc6bbd807870c8dbb
 web/css/reference/properties/font-variant-ligatures,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9
 web/css/reference/properties/font-variant-numeric,3fb9ea0187429234b47cb0385a9515a69757fe63
 web/css/reference/properties/font-variant-position,c0c85c3dc0d6ff4247c85b0144149e584d74b625
