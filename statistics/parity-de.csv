@@ -12047,7 +12047,7 @@ web/http/reference/headers/link,0
 web/http/reference/headers/location,0
 web/http/reference/headers/max-forwards,0
 web/http/reference/headers/nel,0
-web/http/reference/headers/no-vary-search,0
+web/http/reference/headers/no-vary-search,1
 web/http/reference/headers/observe-browsing-topics,0
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,0

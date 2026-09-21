@@ -10461,8 +10461,8 @@ web/css/guides/flexible_box_layout/aligning_items,0
 web/css/guides/flexible_box_layout/basic_concepts,0
 web/css/guides/flexible_box_layout/controlling_flex_item_ratios,0
 web/css/guides/flexible_box_layout/ordering_items,0
-web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,null
-web/css/guides/flexible_box_layout/use_cases,5
+web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,0
+web/css/guides/flexible_box_layout/use_cases,0
 web/css/guides/flexible_box_layout/wrapping_items,2
 web/css/guides/font_loading,null
 web/css/guides/fonts,null
@@ -12047,7 +12047,7 @@ web/http/reference/headers/link,1
 web/http/reference/headers/location,0
 web/http/reference/headers/max-forwards,0
 web/http/reference/headers/nel,0
-web/http/reference/headers/no-vary-search,0
+web/http/reference/headers/no-vary-search,1
 web/http/reference/headers/observe-browsing-topics,0
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,0
