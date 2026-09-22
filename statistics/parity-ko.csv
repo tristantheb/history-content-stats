@@ -11939,8 +11939,8 @@ web/http/guides/evolution_of_http,7
 web/http/guides/fetch_metadata,null
 web/http/guides/iframe_credentialless,3
 web/http/guides/messages,6
-web/http/guides/mime_types,10
-web/http/guides/mime_types/common_types,8
+web/http/guides/mime_types,11
+web/http/guides/mime_types/common_types,9
 web/http/guides/network_error_logging,null
 web/http/guides/overview,null
 web/http/guides/permissions_policy,null

@@ -2966,7 +2966,7 @@ web/api/console/table_static,null
 web/api/console/time_static,null
 web/api/console/timeend_static,null
 web/api/console/timelog_static,null
-web/api/console/timestamp_static,7
+web/api/console/timestamp_static,8
 web/api/console/trace_static,null
 web/api/console/warn_static,null
 web/api/console_api,null

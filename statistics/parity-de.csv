@@ -293,7 +293,7 @@ glossary/google_chrome,0
 glossary/gpl,0
 glossary/gpu,0
 glossary/graceful_degradation,0
-glossary/grid,1
+glossary/grid,0
 glossary/grid_areas,0
 glossary/grid_axis,0
 glossary/grid_cell,0
@@ -10407,7 +10407,7 @@ web/css/guides/box_alignment/in_grid_layout,0
 web/css/guides/box_alignment/in_multi-column_layout,0
 web/css/guides/box_alignment/overview,0
 web/css/guides/box_model,0
-web/css/guides/box_model/introduction,1
+web/css/guides/box_model/introduction,0
 web/css/guides/box_model/margin_collapsing,0
 web/css/guides/box_sizing,0
 web/css/guides/box_sizing/aspect_ratios,0
@@ -10416,7 +10416,7 @@ web/css/guides/cascade/inheritance,0
 web/css/guides/cascade/introduction,0
 web/css/guides/cascade/property_value_processing,0
 web/css/guides/cascade/shorthand_properties,0
-web/css/guides/cascade/specificity,1
+web/css/guides/cascade/specificity,0
 web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,0
 web/css/guides/color_adjustment,0
@@ -10474,7 +10474,7 @@ web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
 web/css/guides/gaps,0
 web/css/guides/generated_content,0
-web/css/guides/grid_layout,1
+web/css/guides/grid_layout,0
 web/css/guides/grid_layout/accessibility,0
 web/css/guides/grid_layout/auto-placement,0
 web/css/guides/grid_layout/basic_concepts,0
@@ -10544,7 +10544,7 @@ web/css/guides/pseudo-elements,0
 web/css/guides/round_display,0
 web/css/guides/ruby_layout,0
 web/css/guides/scoping,0
-web/css/guides/scroll-driven_animations,1
+web/css/guides/scroll-driven_animations,0
 web/css/guides/scroll-driven_animations/timeline_insets,0
 web/css/guides/scroll-driven_animations/timeline_range_names,0
 web/css/guides/scroll-driven_animations/timelines,0
@@ -10558,7 +10558,7 @@ web/css/guides/selectors,0
 web/css/guides/selectors/privacy_and__colon_visited,0
 web/css/guides/selectors/selector_structure,0
 web/css/guides/selectors/selectors_and_combinators,0
-web/css/guides/selectors/using__colon_target,1
+web/css/guides/selectors/using__colon_target,0
 web/css/guides/shadow_parts,0
 web/css/guides/shapes,0
 web/css/guides/shapes/from_box_values,0
@@ -10874,9 +10874,9 @@ web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,0
 web/css/reference/properties/column-rule-break,0
 web/css/reference/properties/column-rule-color,0
-web/css/reference/properties/column-rule-inset-cap,null
-web/css/reference/properties/column-rule-inset-cap-end,1
-web/css/reference/properties/column-rule-inset-cap-start,null
+web/css/reference/properties/column-rule-inset-cap,0
+web/css/reference/properties/column-rule-inset-cap-end,0
+web/css/reference/properties/column-rule-inset-cap-start,0
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,0
 web/css/reference/properties/column-rule-width,0
@@ -11143,9 +11143,9 @@ web/css/reference/properties/row-gap,0
 web/css/reference/properties/row-rule,0
 web/css/reference/properties/row-rule-break,0
 web/css/reference/properties/row-rule-color,0
-web/css/reference/properties/row-rule-inset-cap,null
-web/css/reference/properties/row-rule-inset-cap-end,null
-web/css/reference/properties/row-rule-inset-cap-start,null
+web/css/reference/properties/row-rule-inset-cap,0
+web/css/reference/properties/row-rule-inset-cap-end,0
+web/css/reference/properties/row-rule-inset-cap-start,0
 web/css/reference/properties/row-rule-style,0
 web/css/reference/properties/row-rule-visibility-items,0
 web/css/reference/properties/row-rule-width,0
@@ -11155,7 +11155,7 @@ web/css/reference/properties/ruby-position,0
 web/css/reference/properties/rule,0
 web/css/reference/properties/rule-break,0
 web/css/reference/properties/rule-color,0
-web/css/reference/properties/rule-inset-cap,null
+web/css/reference/properties/rule-inset-cap,0
 web/css/reference/properties/rule-style,0
 web/css/reference/properties/rule-visibility-items,0
 web/css/reference/properties/rule-width,0
@@ -12308,7 +12308,7 @@ web/javascript/guide/representing_dates_times,0
 web/javascript/guide/resource_management,0
 web/javascript/guide/typed_arrays,0
 web/javascript/guide/using_classes,0
-web/javascript/guide/using_promises,1
+web/javascript/guide/using_promises,0
 web/javascript/guide/working_with_objects,0
 web/javascript/reference,0
 web/javascript/reference/classes,0
@@ -14114,7 +14114,7 @@ web/svg/reference/element/polygon,0
 web/svg/reference/element/polyline,0
 web/svg/reference/element/radialgradient,0
 web/svg/reference/element/rect,0
-web/svg/reference/element/script,1
+web/svg/reference/element/script,0
 web/svg/reference/element/set,0
 web/svg/reference/element/stop,0
 web/svg/reference/element/style,0
