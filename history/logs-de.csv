@@ -10914,7 +10914,7 @@ web/css/reference/properties/cx,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/cy,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/d,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/direction,071fd0613b1b5728d2d83845ea11512cb615067a
-web/css/reference/properties/display,b02c4fe0f8c485fa3fd0af10005310aaecef64ca
+web/css/reference/properties/display,1017b716a13c17fb4afcc2aefc904692fa670460
 web/css/reference/properties/dominant-baseline,737b931225e92e0cba47e57a150878b1a78ee45a
 web/css/reference/properties/dynamic-range-limit,737b931225e92e0cba47e57a150878b1a78ee45a
 web/css/reference/properties/empty-cells,c0c85c3dc0d6ff4247c85b0144149e584d74b625
@@ -11534,7 +11534,7 @@ web/css/reference/values/fit-content_function,5e4520f9cd84f65d470ec57efef7a73bbe
 web/css/reference/values/flex_value,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/frequency-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/frequency,c88e03530319b73272fd4f9a9f6ebe878f026004
-web/css/reference/values/functions,d35a7643766c8f8d1d92044ca771dbf8dc843906
+web/css/reference/values/functions,08a5a4313166a8f36f8c0c1320ac970423239b9a
 web/css/reference/values/generic-family,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/gradient/conic-gradient,a1da408d85bfa1fc180d15fdc29746ad5f9e9cff
 web/css/reference/values/gradient,3fb9ea0187429234b47cb0385a9515a69757fe63
@@ -12045,7 +12045,7 @@ web/http/reference/headers/link,a4c63d2855b2f557e7d1ee821dee65011d569a41
 web/http/reference/headers/location,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/max-forwards,77b4195dec3174497169d2e2de35e1eae29139f0
 web/http/reference/headers/nel,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
-web/http/reference/headers/no-vary-search,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7
+web/http/reference/headers/no-vary-search,d260e0bf3f2ba3091e71ba1a7d0427c7d396e6ac
 web/http/reference/headers/observe-browsing-topics,ca6052779ddca9f6d99665f12c39aa2d85d85733
 web/http/reference/headers/origin-agent-cluster,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/origin,4db27688840b67e416373ea571d9e3a17bafa92d
