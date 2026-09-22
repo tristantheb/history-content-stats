@@ -2946,7 +2946,7 @@ web/api/compressionstream/compressionstream,10
 web/api/compressionstream/readable,5
 web/api/compressionstream/writable,5
 web/api/compute_pressure_api,null
-web/api/console,0
+web/api/console,1
 web/api/console/assert_static,0
 web/api/console/clear_static,0
 web/api/console/count_static,0
@@ -2963,10 +2963,10 @@ web/api/console/log_static,0
 web/api/console/profile_static,0
 web/api/console/profileend_static,0
 web/api/console/table_static,0
-web/api/console/time_static,0
-web/api/console/timeend_static,0
+web/api/console/time_static,1
+web/api/console/timeend_static,1
 web/api/console/timelog_static,0
-web/api/console/timestamp_static,2
+web/api/console/timestamp_static,3
 web/api/console/trace_static,0
 web/api/console/warn_static,0
 web/api/console_api,1
@@ -6714,7 +6714,7 @@ web/api/performance/getentries,2
 web/api/performance/getentriesbyname,3
 web/api/performance/getentriesbytype,3
 web/api/performance/interactioncount,1
-web/api/performance/mark,2
+web/api/performance/mark,3
 web/api/performance/measure,6
 web/api/performance/measureuseragentspecificmemory,7
 web/api/performance/memory,4
@@ -11939,8 +11939,8 @@ web/http/guides/evolution_of_http,3
 web/http/guides/fetch_metadata,null
 web/http/guides/iframe_credentialless,1
 web/http/guides/messages,2
-web/http/guides/mime_types,4
-web/http/guides/mime_types/common_types,3
+web/http/guides/mime_types,5
+web/http/guides/mime_types/common_types,4
 web/http/guides/network_error_logging,1
 web/http/guides/overview,3
 web/http/guides/permissions_policy,3

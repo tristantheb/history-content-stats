@@ -2963,7 +2963,7 @@ web/api/console/log_static,null
 web/api/console/profile_static,null
 web/api/console/profileend_static,null
 web/api/console/table_static,0
-web/api/console/time_static,7
+web/api/console/time_static,8
 web/api/console/timeend_static,null
 web/api/console/timelog_static,null
 web/api/console/timestamp_static,null
@@ -14435,7 +14435,7 @@ webassembly/reference/javascript_interface,2
 webassembly/reference/javascript_interface/compile_static,0
 webassembly/reference/javascript_interface/compileerror,1
 webassembly/reference/javascript_interface/compileerror/compileerror,1
-webassembly/reference/javascript_interface/compilestreaming_static,0
+webassembly/reference/javascript_interface/compilestreaming_static,1
 webassembly/reference/javascript_interface/exception,-1
 webassembly/reference/javascript_interface/exception/exception,5
 webassembly/reference/javascript_interface/exception/getarg,2
@@ -14449,7 +14449,7 @@ webassembly/reference/javascript_interface/instance,0
 webassembly/reference/javascript_interface/instance/exports,0
 webassembly/reference/javascript_interface/instance/instance,0
 webassembly/reference/javascript_interface/instantiate_static,1
-webassembly/reference/javascript_interface/instantiatestreaming_static,0
+webassembly/reference/javascript_interface/instantiatestreaming_static,1
 webassembly/reference/javascript_interface/jstag_static,null
 webassembly/reference/javascript_interface/linkerror,1
 webassembly/reference/javascript_interface/linkerror/linkerror,1
