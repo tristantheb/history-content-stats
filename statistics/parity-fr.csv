@@ -790,7 +790,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,1
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
-learn_web_development/core/structuring_content/html_table_basics,1
+learn_web_development/core/structuring_content/html_table_basics,2
 learn_web_development/core/structuring_content/html_video_and_audio,0
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
 learn_web_development/core/structuring_content/lists,0
@@ -11463,7 +11463,7 @@ web/css/reference/values/atan2,0
 web/css/reference/values/attr,0
 web/css/reference/values/axis,0
 web/css/reference/values/baseline-position,0
-web/css/reference/values/basic-shape,0
+web/css/reference/values/basic-shape,1
 web/css/reference/values/basic-shape/circle,0
 web/css/reference/values/basic-shape/ellipse,0
 web/css/reference/values/basic-shape/inset,0
@@ -11656,7 +11656,7 @@ web/html/how_to/cors_enabled_image,0
 web/html/how_to/define_terms_with_html,0
 web/html/how_to/use_data_attributes,0
 web/html/reference,0
-web/html/reference/attributes,0
+web/html/reference/attributes,1
 web/html/reference/attributes/accept,0
 web/html/reference/attributes/autocomplete,0
 web/html/reference/attributes/capture,0

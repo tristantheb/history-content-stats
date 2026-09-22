@@ -790,7 +790,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
-learn_web_development/core/structuring_content/html_table_basics,0
+learn_web_development/core/structuring_content/html_table_basics,1
 learn_web_development/core/structuring_content/html_video_and_audio,0
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
 learn_web_development/core/structuring_content/lists,0
@@ -1831,7 +1831,7 @@ mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,0
 mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,0
 mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,0
 mozilla/add-ons/webextensions/manifest.json/commands,0
-mozilla/add-ons/webextensions/manifest.json/content_scripts,0
+mozilla/add-ons/webextensions/manifest.json/content_scripts,1
 mozilla/add-ons/webextensions/manifest.json/content_security_policy,0
 mozilla/add-ons/webextensions/manifest.json/dark_theme,0
 mozilla/add-ons/webextensions/manifest.json/declarative_net_request,0
@@ -3374,7 +3374,7 @@ web/api/customelementregistry/define,0
 web/api/customelementregistry/get,0
 web/api/customelementregistry/getname,0
 web/api/customelementregistry/initialize,0
-web/api/customelementregistry/upgrade,0
+web/api/customelementregistry/upgrade,1
 web/api/customelementregistry/whendefined,0
 web/api/customevent,0
 web/api/customevent/customevent,0
@@ -4205,7 +4205,7 @@ web/api/featurepolicy/features,0
 web/api/featurepolicy/getallowlistforfeature,0
 web/api/fedcm_api,0
 web/api/fedcm_api/idp_integration,0
-web/api/fedcm_api/rp_sign-in,0
+web/api/fedcm_api/rp_sign-in,1
 web/api/federatedcredential,0
 web/api/federatedcredential/federatedcredential,0
 web/api/federatedcredential/protocol,0
@@ -5595,7 +5595,7 @@ web/api/idbrequest/result,0
 web/api/idbrequest/source,0
 web/api/idbrequest/success_event,0
 web/api/idbrequest/transaction,0
-web/api/idbtransaction,0
+web/api/idbtransaction,1
 web/api/idbtransaction/abort,0
 web/api/idbtransaction/abort_event,0
 web/api/idbtransaction/commit,0
@@ -9676,7 +9676,7 @@ web/api/webrtc_api/intro_to_rtp,0
 web/api/webrtc_api/perfect_negotiation,0
 web/api/webrtc_api/protocols,0
 web/api/webrtc_api/session_lifetime,0
-web/api/webrtc_api/signaling_and_video_calling,0
+web/api/webrtc_api/signaling_and_video_calling,1
 web/api/webrtc_api/simple_rtcdatachannel_sample,0
 web/api/webrtc_api/using_data_channels,0
 web/api/webrtc_api/using_dtmf,0
@@ -10527,7 +10527,7 @@ web/css/guides/overflow/carousels,0
 web/css/guides/overscroll_behavior,0
 web/css/guides/paged_media,0
 web/css/guides/positioned_layout,0
-web/css/guides/positioned_layout/stacking_context,0
+web/css/guides/positioned_layout/stacking_context,1
 web/css/guides/positioned_layout/stacking_context/example_1,0
 web/css/guides/positioned_layout/stacking_context/example_2,0
 web/css/guides/positioned_layout/stacking_context/example_3,0
@@ -10916,7 +10916,7 @@ web/css/reference/properties/cx,0
 web/css/reference/properties/cy,0
 web/css/reference/properties/d,0
 web/css/reference/properties/direction,0
-web/css/reference/properties/display,1
+web/css/reference/properties/display,0
 web/css/reference/properties/dominant-baseline,0
 web/css/reference/properties/dynamic-range-limit,0
 web/css/reference/properties/empty-cells,0
@@ -11463,7 +11463,7 @@ web/css/reference/values/atan2,0
 web/css/reference/values/attr,0
 web/css/reference/values/axis,0
 web/css/reference/values/baseline-position,0
-web/css/reference/values/basic-shape,0
+web/css/reference/values/basic-shape,1
 web/css/reference/values/basic-shape/circle,0
 web/css/reference/values/basic-shape/ellipse,0
 web/css/reference/values/basic-shape/inset,0
@@ -11536,7 +11536,7 @@ web/css/reference/values/fit-content_function,0
 web/css/reference/values/flex_value,0
 web/css/reference/values/frequency,0
 web/css/reference/values/frequency-percentage,0
-web/css/reference/values/functions,1
+web/css/reference/values/functions,0
 web/css/reference/values/generic-family,0
 web/css/reference/values/gradient,0
 web/css/reference/values/gradient/conic-gradient,0
@@ -11656,7 +11656,7 @@ web/html/how_to/cors_enabled_image,0
 web/html/how_to/define_terms_with_html,0
 web/html/how_to/use_data_attributes,0
 web/html/reference,0
-web/html/reference/attributes,0
+web/html/reference/attributes,1
 web/html/reference/attributes/accept,0
 web/html/reference/attributes/autocomplete,0
 web/html/reference/attributes/capture,0
@@ -12047,7 +12047,7 @@ web/http/reference/headers/link,0
 web/http/reference/headers/location,0
 web/http/reference/headers/max-forwards,0
 web/http/reference/headers/nel,0
-web/http/reference/headers/no-vary-search,1
+web/http/reference/headers/no-vary-search,0
 web/http/reference/headers/observe-browsing-topics,0
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,0
@@ -13593,7 +13593,7 @@ web/javascript/reference/statements/function,0
 web/javascript/reference/statements/function_star_,0
 web/javascript/reference/statements/if...else,0
 web/javascript/reference/statements/import,0
-web/javascript/reference/statements/import/defer,0
+web/javascript/reference/statements/import/defer,1
 web/javascript/reference/statements/import/source,0
 web/javascript/reference/statements/import/with,0
 web/javascript/reference/statements/label,0
@@ -13688,7 +13688,7 @@ web/media/guides/formats/audio_concepts,0
 web/media/guides/formats/codecs_parameter,0
 web/media/guides/formats/configuring_servers_for_ogg_media,0
 web/media/guides/formats/containers,0
-web/media/guides/formats/image_types,0
+web/media/guides/formats/image_types,1
 web/media/guides/formats/support_issues,0
 web/media/guides/formats/video_codecs,0
 web/media/guides/formats/video_concepts,0
@@ -13808,7 +13808,7 @@ web/security/attacks/xss,0
 web/security/authentication,0
 web/security/authentication/federated_identity,0
 web/security/authentication/otp,0
-web/security/authentication/passkeys,0
+web/security/authentication/passkeys,1
 web/security/authentication/passwords,0
 web/security/authentication/session_management,0
 web/security/defenses,0
@@ -13936,7 +13936,7 @@ web/svg/reference/attribute/keypoints,0
 web/svg/reference/attribute/keysplines,0
 web/svg/reference/attribute/keytimes,0
 web/svg/reference/attribute/lang,0
-web/svg/reference/attribute/lengthadjust,0
+web/svg/reference/attribute/lengthadjust,1
 web/svg/reference/attribute/letter-spacing,0
 web/svg/reference/attribute/lighting-color,0
 web/svg/reference/attribute/limitingconeangle,0
