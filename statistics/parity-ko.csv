@@ -790,7 +790,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,14
 learn_web_development/core/structuring_content/headings_and_paragraphs,null
 learn_web_development/core/structuring_content/html_forms,null
 learn_web_development/core/structuring_content/html_images,18
-learn_web_development/core/structuring_content/html_table_basics,17
+learn_web_development/core/structuring_content/html_table_basics,18
 learn_web_development/core/structuring_content/html_video_and_audio,null
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,12
 learn_web_development/core/structuring_content/lists,null
@@ -10527,7 +10527,7 @@ web/css/guides/overflow/carousels,null
 web/css/guides/overscroll_behavior,null
 web/css/guides/paged_media,2
 web/css/guides/positioned_layout,1
-web/css/guides/positioned_layout/stacking_context,7
+web/css/guides/positioned_layout/stacking_context,8
 web/css/guides/positioned_layout/stacking_context/example_1,null
 web/css/guides/positioned_layout/stacking_context/example_2,null
 web/css/guides/positioned_layout/stacking_context/example_3,null
