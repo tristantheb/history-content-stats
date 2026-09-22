@@ -120,6 +120,7 @@ glossary/boolean/aria,null
 glossary/boolean/html,null
 glossary/boolean/javascript,null
 glossary/bounding_box,null
+glossary/box_fragment,null
 glossary/breadcrumb,null
 glossary/brotli_compression,null
 glossary/browser,null
@@ -200,6 +201,7 @@ glossary/cssom,null
 glossary/data_structure,null
 glossary/database,null
 glossary/debounce,null
+glossary/decorating_box,null
 glossary/decryption,null
 glossary/deep_copy,null
 glossary/deep_equality,null

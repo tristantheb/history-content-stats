@@ -120,6 +120,7 @@ glossary/boolean/aria,null
 glossary/boolean/html,12
 glossary/boolean/javascript,2
 glossary/bounding_box,null
+glossary/box_fragment,null
 glossary/breadcrumb,3
 glossary/brotli_compression,13
 glossary/browser,1
@@ -200,6 +201,7 @@ glossary/cssom,null
 glossary/data_structure,null
 glossary/database,null
 glossary/debounce,2
+glossary/decorating_box,null
 glossary/decryption,0
 glossary/deep_copy,6
 glossary/deep_equality,null
@@ -291,7 +293,7 @@ glossary/google_chrome,1
 glossary/gpl,null
 glossary/gpu,null
 glossary/graceful_degradation,null
-glossary/grid,4
+glossary/grid,5
 glossary/grid_areas,4
 glossary/grid_axis,5
 glossary/grid_cell,3
@@ -4773,10 +4775,10 @@ web/api/htmlanchorelement/href,1
 web/api/htmlanchorelement/hreflang,1
 web/api/htmlanchorelement/interestforelement,null
 web/api/htmlanchorelement/origin,1
-web/api/htmlanchorelement/password,1
+web/api/htmlanchorelement/password,2
 web/api/htmlanchorelement/pathname,0
 web/api/htmlanchorelement/ping,0
-web/api/htmlanchorelement/port,2
+web/api/htmlanchorelement/port,3
 web/api/htmlanchorelement/protocol,3
 web/api/htmlanchorelement/referrerpolicy,4
 web/api/htmlanchorelement/rel,1
@@ -4786,7 +4788,7 @@ web/api/htmlanchorelement/target,2
 web/api/htmlanchorelement/text,0
 web/api/htmlanchorelement/tostring,0
 web/api/htmlanchorelement/type,0
-web/api/htmlanchorelement/username,1
+web/api/htmlanchorelement/username,2
 web/api/htmlareaelement,2
 web/api/htmlareaelement/alt,0
 web/api/htmlareaelement/coords,0
@@ -4797,10 +4799,10 @@ web/api/htmlareaelement/hostname,0
 web/api/htmlareaelement/href,0
 web/api/htmlareaelement/interestforelement,null
 web/api/htmlareaelement/origin,0
-web/api/htmlareaelement/password,0
+web/api/htmlareaelement/password,1
 web/api/htmlareaelement/pathname,0
 web/api/htmlareaelement/ping,1
-web/api/htmlareaelement/port,0
+web/api/htmlareaelement/port,1
 web/api/htmlareaelement/protocol,0
 web/api/htmlareaelement/referrerpolicy,3
 web/api/htmlareaelement/rel,0
@@ -4809,7 +4811,7 @@ web/api/htmlareaelement/search,0
 web/api/htmlareaelement/shape,0
 web/api/htmlareaelement/target,0
 web/api/htmlareaelement/tostring,0
-web/api/htmlareaelement/username,0
+web/api/htmlareaelement/username,1
 web/api/htmlaudioelement,3
 web/api/htmlaudioelement/audio,2
 web/api/htmlbaseelement,1
@@ -10405,7 +10407,7 @@ web/css/guides/box_alignment/in_grid_layout,0
 web/css/guides/box_alignment/in_multi-column_layout,0
 web/css/guides/box_alignment/overview,1
 web/css/guides/box_model,0
-web/css/guides/box_model/introduction,0
+web/css/guides/box_model/introduction,1
 web/css/guides/box_model/margin_collapsing,0
 web/css/guides/box_sizing,1
 web/css/guides/box_sizing/aspect_ratios,0
@@ -10414,7 +10416,7 @@ web/css/guides/cascade/inheritance,0
 web/css/guides/cascade/introduction,0
 web/css/guides/cascade/property_value_processing,0
 web/css/guides/cascade/shorthand_properties,5
-web/css/guides/cascade/specificity,3
+web/css/guides/cascade/specificity,4
 web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,1
 web/css/guides/color_adjustment,0
@@ -10472,7 +10474,7 @@ web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
 web/css/guides/gaps,5
 web/css/guides/generated_content,0
-web/css/guides/grid_layout,0
+web/css/guides/grid_layout,1
 web/css/guides/grid_layout/accessibility,0
 web/css/guides/grid_layout/auto-placement,0
 web/css/guides/grid_layout/basic_concepts,2
@@ -10556,7 +10558,7 @@ web/css/guides/selectors,1
 web/css/guides/selectors/privacy_and__colon_visited,0
 web/css/guides/selectors/selector_structure,0
 web/css/guides/selectors/selectors_and_combinators,0
-web/css/guides/selectors/using__colon_target,0
+web/css/guides/selectors/using__colon_target,1
 web/css/guides/shadow_parts,0
 web/css/guides/shapes,1
 web/css/guides/shapes/from_box_values,0
@@ -11216,7 +11218,7 @@ web/css/reference/properties/text-box-trim,3
 web/css/reference/properties/text-combine-upright,2
 web/css/reference/properties/text-decoration,6
 web/css/reference/properties/text-decoration-color,3
-web/css/reference/properties/text-decoration-inset,1
+web/css/reference/properties/text-decoration-inset,2
 web/css/reference/properties/text-decoration-line,3
 web/css/reference/properties/text-decoration-skip,3
 web/css/reference/properties/text-decoration-skip-ink,3
@@ -12300,7 +12302,7 @@ web/javascript/guide/representing_dates_times,0
 web/javascript/guide/resource_management,3
 web/javascript/guide/typed_arrays,0
 web/javascript/guide/using_classes,0
-web/javascript/guide/using_promises,0
+web/javascript/guide/using_promises,1
 web/javascript/guide/working_with_objects,1
 web/javascript/reference,4
 web/javascript/reference/classes,1
@@ -14106,7 +14108,7 @@ web/svg/reference/element/polygon,0
 web/svg/reference/element/polyline,0
 web/svg/reference/element/radialgradient,1
 web/svg/reference/element/rect,0
-web/svg/reference/element/script,4
+web/svg/reference/element/script,5
 web/svg/reference/element/set,0
 web/svg/reference/element/stop,1
 web/svg/reference/element/style,2

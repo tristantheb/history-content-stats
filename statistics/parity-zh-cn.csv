@@ -120,6 +120,7 @@ glossary/boolean/aria,2
 glossary/boolean/html,6
 glossary/boolean/javascript,2
 glossary/bounding_box,3
+glossary/box_fragment,null
 glossary/breadcrumb,3
 glossary/brotli_compression,3
 glossary/browser,6
@@ -200,6 +201,7 @@ glossary/cssom,2
 glossary/data_structure,1
 glossary/database,3
 glossary/debounce,1
+glossary/decorating_box,null
 glossary/decryption,2
 glossary/deep_copy,5
 glossary/deep_equality,null
@@ -291,7 +293,7 @@ glossary/google_chrome,7
 glossary/gpl,1
 glossary/gpu,1
 glossary/graceful_degradation,3
-glossary/grid,4
+glossary/grid,5
 glossary/grid_areas,4
 glossary/grid_axis,5
 glossary/grid_cell,3
@@ -4773,10 +4775,10 @@ web/api/htmlanchorelement/href,1
 web/api/htmlanchorelement/hreflang,1
 web/api/htmlanchorelement/interestforelement,null
 web/api/htmlanchorelement/origin,1
-web/api/htmlanchorelement/password,1
+web/api/htmlanchorelement/password,2
 web/api/htmlanchorelement/pathname,0
 web/api/htmlanchorelement/ping,0
-web/api/htmlanchorelement/port,1
+web/api/htmlanchorelement/port,2
 web/api/htmlanchorelement/protocol,3
 web/api/htmlanchorelement/referrerpolicy,4
 web/api/htmlanchorelement/rel,1
@@ -4786,7 +4788,7 @@ web/api/htmlanchorelement/target,2
 web/api/htmlanchorelement/text,0
 web/api/htmlanchorelement/tostring,0
 web/api/htmlanchorelement/type,0
-web/api/htmlanchorelement/username,1
+web/api/htmlanchorelement/username,2
 web/api/htmlareaelement,null
 web/api/htmlareaelement/alt,null
 web/api/htmlareaelement/coords,null
@@ -10556,7 +10558,7 @@ web/css/guides/selectors,null
 web/css/guides/selectors/privacy_and__colon_visited,null
 web/css/guides/selectors/selector_structure,null
 web/css/guides/selectors/selectors_and_combinators,null
-web/css/guides/selectors/using__colon_target,0
+web/css/guides/selectors/using__colon_target,1
 web/css/guides/shadow_parts,4
 web/css/guides/shapes,3
 web/css/guides/shapes/from_box_values,1
