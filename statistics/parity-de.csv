@@ -120,7 +120,7 @@ glossary/boolean/aria,0
 glossary/boolean/html,0
 glossary/boolean/javascript,0
 glossary/bounding_box,0
-glossary/box_fragment,null
+glossary/box_fragment,0
 glossary/breadcrumb,0
 glossary/brotli_compression,0
 glossary/browser,0
@@ -201,7 +201,7 @@ glossary/cssom,0
 glossary/data_structure,0
 glossary/database,0
 glossary/debounce,0
-glossary/decorating_box,null
+glossary/decorating_box,0
 glossary/decryption,0
 glossary/deep_copy,0
 glossary/deep_equality,0
@@ -792,7 +792,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,0
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
-learn_web_development/core/structuring_content/html_table_basics,1
+learn_web_development/core/structuring_content/html_table_basics,0
 learn_web_development/core/structuring_content/html_video_and_audio,0
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
 learn_web_development/core/structuring_content/lists,0
@@ -1833,7 +1833,7 @@ mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,0
 mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,0
 mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,0
 mozilla/add-ons/webextensions/manifest.json/commands,0
-mozilla/add-ons/webextensions/manifest.json/content_scripts,1
+mozilla/add-ons/webextensions/manifest.json/content_scripts,0
 mozilla/add-ons/webextensions/manifest.json/content_security_policy,0
 mozilla/add-ons/webextensions/manifest.json/dark_theme,0
 mozilla/add-ons/webextensions/manifest.json/declarative_net_request,0
@@ -3376,7 +3376,7 @@ web/api/customelementregistry/define,0
 web/api/customelementregistry/get,0
 web/api/customelementregistry/getname,0
 web/api/customelementregistry/initialize,0
-web/api/customelementregistry/upgrade,1
+web/api/customelementregistry/upgrade,0
 web/api/customelementregistry/whendefined,0
 web/api/customevent,0
 web/api/customevent/customevent,0
@@ -4207,7 +4207,7 @@ web/api/featurepolicy/features,0
 web/api/featurepolicy/getallowlistforfeature,0
 web/api/fedcm_api,0
 web/api/fedcm_api/idp_integration,0
-web/api/fedcm_api/rp_sign-in,1
+web/api/fedcm_api/rp_sign-in,0
 web/api/federatedcredential,0
 web/api/federatedcredential/federatedcredential,0
 web/api/federatedcredential/protocol,0
@@ -4775,10 +4775,10 @@ web/api/htmlanchorelement/href,0
 web/api/htmlanchorelement/hreflang,0
 web/api/htmlanchorelement/interestforelement,0
 web/api/htmlanchorelement/origin,0
-web/api/htmlanchorelement/password,1
+web/api/htmlanchorelement/password,0
 web/api/htmlanchorelement/pathname,0
 web/api/htmlanchorelement/ping,0
-web/api/htmlanchorelement/port,1
+web/api/htmlanchorelement/port,0
 web/api/htmlanchorelement/protocol,0
 web/api/htmlanchorelement/referrerpolicy,0
 web/api/htmlanchorelement/rel,0
@@ -4788,7 +4788,7 @@ web/api/htmlanchorelement/target,0
 web/api/htmlanchorelement/text,0
 web/api/htmlanchorelement/tostring,0
 web/api/htmlanchorelement/type,0
-web/api/htmlanchorelement/username,1
+web/api/htmlanchorelement/username,0
 web/api/htmlareaelement,0
 web/api/htmlareaelement/alt,0
 web/api/htmlareaelement/coords,0
@@ -4799,10 +4799,10 @@ web/api/htmlareaelement/hostname,0
 web/api/htmlareaelement/href,0
 web/api/htmlareaelement/interestforelement,0
 web/api/htmlareaelement/origin,0
-web/api/htmlareaelement/password,1
+web/api/htmlareaelement/password,0
 web/api/htmlareaelement/pathname,0
 web/api/htmlareaelement/ping,0
-web/api/htmlareaelement/port,1
+web/api/htmlareaelement/port,0
 web/api/htmlareaelement/protocol,0
 web/api/htmlareaelement/referrerpolicy,0
 web/api/htmlareaelement/rel,0
@@ -4811,7 +4811,7 @@ web/api/htmlareaelement/search,0
 web/api/htmlareaelement/shape,0
 web/api/htmlareaelement/target,0
 web/api/htmlareaelement/tostring,0
-web/api/htmlareaelement/username,1
+web/api/htmlareaelement/username,0
 web/api/htmlaudioelement,0
 web/api/htmlaudioelement/audio,0
 web/api/htmlbaseelement,0
@@ -5597,7 +5597,7 @@ web/api/idbrequest/result,0
 web/api/idbrequest/source,0
 web/api/idbrequest/success_event,0
 web/api/idbrequest/transaction,0
-web/api/idbtransaction,1
+web/api/idbtransaction,0
 web/api/idbtransaction/abort,0
 web/api/idbtransaction/abort_event,0
 web/api/idbtransaction/commit,0
@@ -9678,7 +9678,7 @@ web/api/webrtc_api/intro_to_rtp,0
 web/api/webrtc_api/perfect_negotiation,0
 web/api/webrtc_api/protocols,0
 web/api/webrtc_api/session_lifetime,0
-web/api/webrtc_api/signaling_and_video_calling,1
+web/api/webrtc_api/signaling_and_video_calling,0
 web/api/webrtc_api/simple_rtcdatachannel_sample,0
 web/api/webrtc_api/using_data_channels,0
 web/api/webrtc_api/using_dtmf,0
@@ -10529,7 +10529,7 @@ web/css/guides/overflow/carousels,0
 web/css/guides/overscroll_behavior,0
 web/css/guides/paged_media,0
 web/css/guides/positioned_layout,0
-web/css/guides/positioned_layout/stacking_context,1
+web/css/guides/positioned_layout/stacking_context,0
 web/css/guides/positioned_layout/stacking_context/example_1,0
 web/css/guides/positioned_layout/stacking_context/example_2,0
 web/css/guides/positioned_layout/stacking_context/example_3,0
@@ -10544,7 +10544,7 @@ web/css/guides/pseudo-elements,0
 web/css/guides/round_display,0
 web/css/guides/ruby_layout,0
 web/css/guides/scoping,0
-web/css/guides/scroll-driven_animations,0
+web/css/guides/scroll-driven_animations,1
 web/css/guides/scroll-driven_animations/timeline_insets,0
 web/css/guides/scroll-driven_animations/timeline_range_names,0
 web/css/guides/scroll-driven_animations/timelines,0
@@ -10874,7 +10874,9 @@ web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,0
 web/css/reference/properties/column-rule-break,0
 web/css/reference/properties/column-rule-color,0
-web/css/reference/properties/column-rule-inset-cap-end,0
+web/css/reference/properties/column-rule-inset-cap,null
+web/css/reference/properties/column-rule-inset-cap-end,1
+web/css/reference/properties/column-rule-inset-cap-start,null
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,0
 web/css/reference/properties/column-rule-width,0
@@ -11141,6 +11143,9 @@ web/css/reference/properties/row-gap,0
 web/css/reference/properties/row-rule,0
 web/css/reference/properties/row-rule-break,0
 web/css/reference/properties/row-rule-color,0
+web/css/reference/properties/row-rule-inset-cap,null
+web/css/reference/properties/row-rule-inset-cap-end,null
+web/css/reference/properties/row-rule-inset-cap-start,null
 web/css/reference/properties/row-rule-style,0
 web/css/reference/properties/row-rule-visibility-items,0
 web/css/reference/properties/row-rule-width,0
@@ -11150,6 +11155,7 @@ web/css/reference/properties/ruby-position,0
 web/css/reference/properties/rule,0
 web/css/reference/properties/rule-break,0
 web/css/reference/properties/rule-color,0
+web/css/reference/properties/rule-inset-cap,null
 web/css/reference/properties/rule-style,0
 web/css/reference/properties/rule-visibility-items,0
 web/css/reference/properties/rule-width,0
@@ -11218,7 +11224,7 @@ web/css/reference/properties/text-box-trim,0
 web/css/reference/properties/text-combine-upright,0
 web/css/reference/properties/text-decoration,0
 web/css/reference/properties/text-decoration-color,0
-web/css/reference/properties/text-decoration-inset,1
+web/css/reference/properties/text-decoration-inset,0
 web/css/reference/properties/text-decoration-line,0
 web/css/reference/properties/text-decoration-skip,0
 web/css/reference/properties/text-decoration-skip-ink,0
@@ -11465,7 +11471,7 @@ web/css/reference/values/atan2,0
 web/css/reference/values/attr,0
 web/css/reference/values/axis,0
 web/css/reference/values/baseline-position,0
-web/css/reference/values/basic-shape,1
+web/css/reference/values/basic-shape,0
 web/css/reference/values/basic-shape/circle,0
 web/css/reference/values/basic-shape/ellipse,0
 web/css/reference/values/basic-shape/inset,0
@@ -11658,7 +11664,7 @@ web/html/how_to/cors_enabled_image,0
 web/html/how_to/define_terms_with_html,0
 web/html/how_to/use_data_attributes,0
 web/html/reference,0
-web/html/reference/attributes,1
+web/html/reference/attributes,0
 web/html/reference/attributes/accept,0
 web/html/reference/attributes/autocomplete,0
 web/html/reference/attributes/capture,0
@@ -13595,7 +13601,7 @@ web/javascript/reference/statements/function,0
 web/javascript/reference/statements/function_star_,0
 web/javascript/reference/statements/if...else,0
 web/javascript/reference/statements/import,0
-web/javascript/reference/statements/import/defer,1
+web/javascript/reference/statements/import/defer,0
 web/javascript/reference/statements/import/source,0
 web/javascript/reference/statements/import/with,0
 web/javascript/reference/statements/label,0
@@ -13690,7 +13696,7 @@ web/media/guides/formats/audio_concepts,0
 web/media/guides/formats/codecs_parameter,0
 web/media/guides/formats/configuring_servers_for_ogg_media,0
 web/media/guides/formats/containers,0
-web/media/guides/formats/image_types,1
+web/media/guides/formats/image_types,0
 web/media/guides/formats/support_issues,0
 web/media/guides/formats/video_codecs,0
 web/media/guides/formats/video_concepts,0
@@ -13810,7 +13816,7 @@ web/security/attacks/xss,0
 web/security/authentication,0
 web/security/authentication/federated_identity,0
 web/security/authentication/otp,0
-web/security/authentication/passkeys,1
+web/security/authentication/passkeys,0
 web/security/authentication/passwords,0
 web/security/authentication/session_management,0
 web/security/defenses,0
@@ -13938,7 +13944,7 @@ web/svg/reference/attribute/keypoints,0
 web/svg/reference/attribute/keysplines,0
 web/svg/reference/attribute/keytimes,0
 web/svg/reference/attribute/lang,0
-web/svg/reference/attribute/lengthadjust,1
+web/svg/reference/attribute/lengthadjust,0
 web/svg/reference/attribute/letter-spacing,0
 web/svg/reference/attribute/lighting-color,0
 web/svg/reference/attribute/limitingconeangle,0
