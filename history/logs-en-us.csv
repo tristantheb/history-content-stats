@@ -120,6 +120,7 @@ glossary/boolean/aria,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/boolean/html,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,Glossary
 glossary/boolean/javascript,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/bounding_box,13839b2979cc244034ffb1fe243240778b0cd23f,Glossary
+glossary/box_fragment,3a04f324f1fb55e3c073c32d0ead28b5803a6284,Glossary
 glossary/breadcrumb,f3bf4e2bd456159093d3820253be9f266ace070a,Glossary
 glossary/brotli_compression,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/browser,afcdfa050626bb7eb05ee693df8997020db9ff2e,Glossary
@@ -200,6 +201,7 @@ glossary/cssom,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/data_structure,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/database,7d4f930455a349e3c73836500add3d4840c76f5d,Glossary
 glossary/debounce,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
+glossary/decorating_box,3a04f324f1fb55e3c073c32d0ead28b5803a6284,Glossary
 glossary/decryption,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/deep_copy,b7c5617fc1d8eb00c6884a708983da21ad61b228,Glossary
 glossary/deep_equality,b7c5617fc1d8eb00c6884a708983da21ad61b228,Glossary
@@ -291,7 +293,7 @@ glossary/google_chrome,da7287ff61b6ea4db7f9a5e07be11263b525b7d0,Glossary
 glossary/gpl,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/gpu,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
 glossary/graceful_degradation,2547f622337d6cbf8c3794776b17ed377d6aad57,Glossary
-glossary/grid,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
+glossary/grid,298079b550c76f20de6611c4ecdde4c30dc68b2b,Glossary
 glossary/grid_areas,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
 glossary/grid_axis,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
 glossary/grid_cell,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Glossary
@@ -4773,10 +4775,10 @@ web/api/htmlanchorelement/href,1d75851e2915508d4680e8a744c0b2b85736a588,Web APIs
 web/api/htmlanchorelement/hreflang,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
 web/api/htmlanchorelement/interestforelement,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
 web/api/htmlanchorelement/origin,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
-web/api/htmlanchorelement/password,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
+web/api/htmlanchorelement/password,e02a864c445ce44efe815d921ab8fcc46fbfd4c5,Web APIs
 web/api/htmlanchorelement/pathname,a3d9f61a8990ba7b53bda9748d1f26a9e9810b18,Web APIs
 web/api/htmlanchorelement/ping,e9e2ec643ac69c132f31427a0b586ab2cf83ed58,Web APIs
-web/api/htmlanchorelement/port,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
+web/api/htmlanchorelement/port,e02a864c445ce44efe815d921ab8fcc46fbfd4c5,Web APIs
 web/api/htmlanchorelement/protocol,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
 web/api/htmlanchorelement/referrerpolicy,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/htmlanchorelement/rel,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -4786,7 +4788,7 @@ web/api/htmlanchorelement/target,9ba3ab2c48fb51423f811d329818071e4c79caca,Web AP
 web/api/htmlanchorelement/text,5d670c42df8ede57e3d6341cb15d8251eb188dc4,Web APIs
 web/api/htmlanchorelement/tostring,b829b2fae917b5b931011ddeb6a0d1b2d2b81c54,Web APIs
 web/api/htmlanchorelement/type,10346c8cf5dfe6e030bd1cdc32f04461afaa8c64,Web APIs
-web/api/htmlanchorelement/username,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
+web/api/htmlanchorelement/username,e02a864c445ce44efe815d921ab8fcc46fbfd4c5,Web APIs
 web/api/htmlareaelement,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
 web/api/htmlareaelement/alt,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlareaelement/coords,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -4797,10 +4799,10 @@ web/api/htmlareaelement/hostname,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web AP
 web/api/htmlareaelement/href,a3d9f61a8990ba7b53bda9748d1f26a9e9810b18,Web APIs
 web/api/htmlareaelement/interestforelement,995f8bcede5aa8ca40921b030deef7524ce9e1a3,Web APIs
 web/api/htmlareaelement/origin,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
-web/api/htmlareaelement/password,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
+web/api/htmlareaelement/password,e02a864c445ce44efe815d921ab8fcc46fbfd4c5,Web APIs
 web/api/htmlareaelement/pathname,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
 web/api/htmlareaelement/ping,aff319cd81d10cfda31b13adb3263deafb284b20,Web APIs
-web/api/htmlareaelement/port,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
+web/api/htmlareaelement/port,e02a864c445ce44efe815d921ab8fcc46fbfd4c5,Web APIs
 web/api/htmlareaelement/protocol,82acf2a065dc00a1bd0cbf5e73de696e1bedee91,Web APIs
 web/api/htmlareaelement/referrerpolicy,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/htmlareaelement/rel,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -4809,7 +4811,7 @@ web/api/htmlareaelement/search,1eabc08d295e60d7d8eab6bce858d2fb0833be2b,Web APIs
 web/api/htmlareaelement/shape,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlareaelement/target,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlareaelement/tostring,b829b2fae917b5b931011ddeb6a0d1b2d2b81c54,Web APIs
-web/api/htmlareaelement/username,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
+web/api/htmlareaelement/username,e02a864c445ce44efe815d921ab8fcc46fbfd4c5,Web APIs
 web/api/htmlaudioelement,be1922d62a0d31e4e3441db0e943aed8df736481,Web APIs
 web/api/htmlaudioelement/audio,ce85e3fb7865330e4ac2a6dad25db5cf5d27ea74,Web APIs
 web/api/htmlbaseelement,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -10405,7 +10407,7 @@ web/css/guides/box_alignment/in_grid_layout,ca5d9f9e63b460fc0c9e15ac57d9739e10e4
 web/css/guides/box_alignment/in_multi-column_layout,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
 web/css/guides/box_alignment/overview,e1e7e2ac2cb1e40293c32c24bc0667905e9a7a04,CSS|Guides
 web/css/guides/box_model,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/box_model/introduction,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
+web/css/guides/box_model/introduction,298079b550c76f20de6611c4ecdde4c30dc68b2b,CSS|Guides
 web/css/guides/box_model/margin_collapsing,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
 web/css/guides/box_sizing,04c41175b160dc00b1a1b8e4e13b2183d89fdf1a,CSS|Guides
 web/css/guides/box_sizing/aspect_ratios,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10414,7 +10416,7 @@ web/css/guides/cascade/inheritance,33094d735e90b4dcae5733331b79c51fee997410,CSS|
 web/css/guides/cascade/introduction,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/cascade/property_value_processing,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a,CSS|Guides
 web/css/guides/cascade/shorthand_properties,9dad06197b9a4c09d7c1e03b5aac47458a30cb2e,CSS|Guides
-web/css/guides/cascade/specificity,3fbc8b2ba17c1cf331fb67ce2e6561b15bf4f197,CSS|Guides
+web/css/guides/cascade/specificity,298079b550c76f20de6611c4ecdde4c30dc68b2b,CSS|Guides
 web/css/guides/cascading_variables,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/cascading_variables/using_custom_properties,56f3d7018159127dbe92842413fb45d0aa7e8193,CSS|Guides
 web/css/guides/color_adjustment,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10472,7 +10474,7 @@ web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/gaps,8a13259a44523cd17b4fe347088b62c6d7a35265,CSS|Guides
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/grid_layout,b02c4fe0f8c485fa3fd0af10005310aaecef64ca,CSS|Guides
+web/css/guides/grid_layout,298079b550c76f20de6611c4ecdde4c30dc68b2b,CSS|Guides
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/grid_layout/auto-placement,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/grid_layout/basic_concepts,0f31456d7b82342100cef65812b413ec6f2fa352,CSS|Guides
@@ -10556,7 +10558,7 @@ web/css/guides/selectors,a75edf682e5e346b4f97582db6cbccaae800ef73,CSS|Guides
 web/css/guides/selectors/privacy_and__colon_visited,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/selectors/selector_structure,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/selectors/selectors_and_combinators,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/selectors/using__colon_target,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/selectors/using__colon_target,298079b550c76f20de6611c4ecdde4c30dc68b2b,CSS|Guides
 web/css/guides/shadow_parts,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/shapes,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Guides
 web/css/guides/shapes/from_box_values,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -11216,7 +11218,7 @@ web/css/reference/properties/text-box-trim,880c2c4b113c6fe127ca3ae3603a56ef7a2eb
 web/css/reference/properties/text-combine-upright,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-decoration,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/text-decoration-color,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
-web/css/reference/properties/text-decoration-inset,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
+web/css/reference/properties/text-decoration-inset,3a04f324f1fb55e3c073c32d0ead28b5803a6284,CSS|Properties
 web/css/reference/properties/text-decoration-line,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/text-decoration-skip,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|Properties
 web/css/reference/properties/text-decoration-skip-ink,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
@@ -12300,7 +12302,7 @@ web/javascript/guide/representing_dates_times,fad67be4431d8e6c2a89ac880735233aa7
 web/javascript/guide/resource_management,4b111fc009d4844d407dd1b5c791c07b0fb326fc,JavaScript|Guides
 web/javascript/guide/typed_arrays,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Guides
 web/javascript/guide/using_classes,8fc371f14e899fc9389ed98b20b9ee57e6b0886d,JavaScript|Guides
-web/javascript/guide/using_promises,d8a5165fd3c3b35ea9d07a914459e8d468f62276,JavaScript|Guides
+web/javascript/guide/using_promises,298079b550c76f20de6611c4ecdde4c30dc68b2b,JavaScript|Guides
 web/javascript/guide/working_with_objects,1474534461893381d54c502e655f334b5568e597,JavaScript|Guides
 web/javascript/reference,f693fdeb65be430fdf3b7fc5cdf44a10a13f2bbf,JavaScript
 web/javascript/reference/classes,1ddd95504b4507beeda0f08bd772eb167922b86a,JavaScript|Classes
@@ -14106,7 +14108,7 @@ web/svg/reference/element/polygon,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|E
 web/svg/reference/element/polyline,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
 web/svg/reference/element/radialgradient,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
 web/svg/reference/element/rect,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
-web/svg/reference/element/script,56f3d7018159127dbe92842413fb45d0aa7e8193,SVG|Element
+web/svg/reference/element/script,298079b550c76f20de6611c4ecdde4c30dc68b2b,SVG|Element
 web/svg/reference/element/set,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
 web/svg/reference/element/stop,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
 web/svg/reference/element/style,f69b6693212029ce4b9fa0c753729044577af548,SVG|Element
