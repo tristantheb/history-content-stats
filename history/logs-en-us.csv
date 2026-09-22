@@ -790,7 +790,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,45
 learn_web_development/core/structuring_content/headings_and_paragraphs,2066cc916dfdcbb782340bf0ce562b230e947cba,Learn|Core Modules
 learn_web_development/core/structuring_content/html_forms,7d93b0f639e37e9340ed707e3cb7f9a75c1b3048,Learn|Core Modules
 learn_web_development/core/structuring_content/html_images,2066cc916dfdcbb782340bf0ce562b230e947cba,Learn|Core Modules
-learn_web_development/core/structuring_content/html_table_basics,f39795639d5e4cce0640c18ad09566de11227be0,Learn|Core Modules
+learn_web_development/core/structuring_content/html_table_basics,2e0b9415ed31484a4830e214eff9e06e408c7261,Learn|Core Modules
 learn_web_development/core/structuring_content/html_video_and_audio,daad50a992d56b23573fdd50517c75df176747cf,Learn|Core Modules
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,2066cc916dfdcbb782340bf0ce562b230e947cba,Learn|Core Modules
 learn_web_development/core/structuring_content/lists,27f34d8b137f9bb2b467f9f9a1c4e1d04e12ed89,Learn|Core Modules
@@ -1831,7 +1831,7 @@ mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,c27b843b70
 mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,a4c63d2855b2f557e7d1ee821dee65011d569a41,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/commands,ceaac5d55bef85edef9a4a716e6bd6ca3d3ec9c1,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/content_scripts,ff9896b8f5e8a16696ca8ef50d8a9baa0ae8b1f8,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/content_scripts,2e0b9415ed31484a4830e214eff9e06e408c7261,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/content_security_policy,ef11240e109e4b39ff9e8cac248d1c7d7c842112,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/dark_theme,ee9431bdd896f41c2860ef340f01554c75fd7f29,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/declarative_net_request,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -3374,7 +3374,7 @@ web/api/customelementregistry/define,fed985f0944d1f8bdd3ff85b34b3e31069b8eb9c,We
 web/api/customelementregistry/get,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
 web/api/customelementregistry/getname,730741c750cc299b85798f1adbaf7adbd6e2016d,Web APIs
 web/api/customelementregistry/initialize,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
-web/api/customelementregistry/upgrade,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
+web/api/customelementregistry/upgrade,2e0b9415ed31484a4830e214eff9e06e408c7261,Web APIs
 web/api/customelementregistry/whendefined,ff9dd829bb17d272b7d14c41a442f2c2e3680521,Web APIs
 web/api/customevent,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a,Web APIs
 web/api/customevent/customevent,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a,Web APIs
@@ -4205,7 +4205,7 @@ web/api/featurepolicy/features,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/featurepolicy/getallowlistforfeature,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/fedcm_api,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Web APIs
 web/api/fedcm_api/idp_integration,30bb7c6b5b9f3e19276a8c528134fe78f131c9a5,Web APIs
-web/api/fedcm_api/rp_sign-in,4761340e600daad008747fb9aa48e28748a78422,Web APIs
+web/api/fedcm_api/rp_sign-in,2e0b9415ed31484a4830e214eff9e06e408c7261,Web APIs
 web/api/federatedcredential,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c,Web APIs
 web/api/federatedcredential/federatedcredential,4ee6823d1ae58f39e1863b9fc6f6b34d4a417336,Web APIs
 web/api/federatedcredential/protocol,339595951b78774e951b1a9d215a6db6b856f6b2,Web APIs
@@ -5595,7 +5595,7 @@ web/api/idbrequest/result,8623f4af1cb6a9f904d6c18f5f772675bdce3411,Web APIs
 web/api/idbrequest/source,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/idbrequest/success_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/idbrequest/transaction,56de3bc3b3304ecc18775a1d0049ae4415c7cf51,Web APIs
-web/api/idbtransaction,8f0171397993605739530a8d32f24a804d06f882,Web APIs
+web/api/idbtransaction,2e0b9415ed31484a4830e214eff9e06e408c7261,Web APIs
 web/api/idbtransaction/abort,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
 web/api/idbtransaction/abort_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/idbtransaction/commit,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
@@ -9676,7 +9676,7 @@ web/api/webrtc_api/intro_to_rtp,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac,Web API
 web/api/webrtc_api/perfect_negotiation,ffa6f5871f50856c60983a125cef7de267be7aeb,Web APIs
 web/api/webrtc_api/protocols,a4c63d2855b2f557e7d1ee821dee65011d569a41,Web APIs
 web/api/webrtc_api/session_lifetime,7336c394a1406850b293f743c7dcb3f2ee661952,Web APIs
-web/api/webrtc_api/signaling_and_video_calling,b3cd597b58940518a7712487ce94efc0881cb549,Web APIs
+web/api/webrtc_api/signaling_and_video_calling,2e0b9415ed31484a4830e214eff9e06e408c7261,Web APIs
 web/api/webrtc_api/simple_rtcdatachannel_sample,9fac65196ac2b9a26afabbcb7f14fd58621916ae,Web APIs
 web/api/webrtc_api/using_data_channels,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
 web/api/webrtc_api/using_dtmf,0fd1f93376bb12cf086a17c4537bbdc7e68dc331,Web APIs
@@ -10527,7 +10527,7 @@ web/css/guides/overflow/carousels,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d,CSS|G
 web/css/guides/overscroll_behavior,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/paged_media,74d9a1227d110a152bf4d68f5d5f753e723ea01b,CSS|Guides
 web/css/guides/positioned_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/positioned_layout/stacking_context,d1a90acef8a6fb1f75a3e4d937f78d7038d7bfc4,CSS|Guides
+web/css/guides/positioned_layout/stacking_context,2e0b9415ed31484a4830e214eff9e06e408c7261,CSS|Guides
 web/css/guides/positioned_layout/stacking_context/example_1,c1bbbf977b4fd477104265cd87f74cdf42616b0d,CSS|Guides
 web/css/guides/positioned_layout/stacking_context/example_2,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/positioned_layout/stacking_context/example_3,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -11463,7 +11463,7 @@ web/css/reference/values/atan2,daa035392f8466e6d75f290d9ffa4317adca4070,CSS|Valu
 web/css/reference/values/attr,e2c34c75df6238fbeff790100cea1ab7e552e49e,CSS|Values
 web/css/reference/values/axis,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/baseline-position,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/basic-shape,6edb918a9e6bd17858d48dcfa5d76aa5ed5b9659,CSS|Values
+web/css/reference/values/basic-shape,2e0b9415ed31484a4830e214eff9e06e408c7261,CSS|Values
 web/css/reference/values/basic-shape/circle,30e0adab23668217555b7ed37df7e6e61b002bf3,CSS|Values
 web/css/reference/values/basic-shape/ellipse,30e0adab23668217555b7ed37df7e6e61b002bf3,CSS|Values
 web/css/reference/values/basic-shape/inset,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Values
@@ -11656,7 +11656,7 @@ web/html/how_to/cors_enabled_image,6036cd414b2214f85901158bdf3e3a96123d4553,HTML
 web/html/how_to/define_terms_with_html,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML|How To
 web/html/how_to/use_data_attributes,7c28cd21b705e7b7664d53b4d7822469ea8e6e15,HTML|How To
 web/html/reference,0754cd805a8e010d2e3a2a065f634a3bcf358252,HTML
-web/html/reference/attributes,b8ffa5128ed5afe5f76b8936723f91d86b8fc7df,HTML|Attributes
+web/html/reference/attributes,2e0b9415ed31484a4830e214eff9e06e408c7261,HTML|Attributes
 web/html/reference/attributes/accept,2066cc916dfdcbb782340bf0ce562b230e947cba,HTML|Attributes
 web/html/reference/attributes/autocomplete,87adaa5384b1015690f3435ce0ba64ac097764eb,HTML|Attributes
 web/html/reference/attributes/capture,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
@@ -13593,7 +13593,7 @@ web/javascript/reference/statements/function,fad67be4431d8e6c2a89ac880735233aa76
 web/javascript/reference/statements/function_star_,bdb19290fc91b32b03d5e117e7e12df71c2a85ad,JavaScript|Statements
 web/javascript/reference/statements/if...else,0dff7c501b844de960d5a180c1348a9ce01b82fe,JavaScript|Statements
 web/javascript/reference/statements/import,31bad7cd99cccf47f6332b81bbff4371e2bc551f,JavaScript|Statements
-web/javascript/reference/statements/import/defer,76c2e04d720aa8260ba7d75788ed96776aac35c6,JavaScript|Statements
+web/javascript/reference/statements/import/defer,2e0b9415ed31484a4830e214eff9e06e408c7261,JavaScript|Statements
 web/javascript/reference/statements/import/source,76c2e04d720aa8260ba7d75788ed96776aac35c6,JavaScript|Statements
 web/javascript/reference/statements/import/with,31bad7cd99cccf47f6332b81bbff4371e2bc551f,JavaScript|Statements
 web/javascript/reference/statements/label,5c8d0ac21db572edebbd4ad428efca0af3ec1734,JavaScript|Statements
@@ -13688,7 +13688,7 @@ web/media/guides/formats/audio_concepts,26e46f8c13ebea65dc65a6e99e51e8fa4d5d619d
 web/media/guides/formats/codecs_parameter,517b6108edc9a1eae8723f7f3ae434c1724d89ac,Media|Guides
 web/media/guides/formats/configuring_servers_for_ogg_media,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Media|Guides
 web/media/guides/formats/containers,a8ba4ed3061cddb88d40977dbb855cf27cedcfc2,Media|Guides
-web/media/guides/formats/image_types,03e93e0948768ea78474e77a53795698ebca5836,Media|Guides
+web/media/guides/formats/image_types,2e0b9415ed31484a4830e214eff9e06e408c7261,Media|Guides
 web/media/guides/formats/support_issues,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
 web/media/guides/formats/video_codecs,64d995ef99a84226348832ed398e9edc7809e53e,Media|Guides
 web/media/guides/formats/video_concepts,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
@@ -13808,7 +13808,7 @@ web/security/attacks/xss,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,Security|Attac
 web/security/authentication,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Security|Authentication
 web/security/authentication/federated_identity,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Security|Authentication
 web/security/authentication/otp,815f1a18f44059500b337719295c6eda14b6228e,Security|Authentication
-web/security/authentication/passkeys,051d02b402b7f76c2078b12283aa18318c34c38b,Security|Authentication
+web/security/authentication/passkeys,2e0b9415ed31484a4830e214eff9e06e408c7261,Security|Authentication
 web/security/authentication/passwords,545c1267ae9642d850ef539956442c2bb4de280a,Security|Authentication
 web/security/authentication/session_management,7e1cf6ab1fbd41b0430021a2044d658de5d857a3,Security|Authentication
 web/security/defenses,f14623f12f092d92558ecb1d766069c1567fd347,Security|Defenses
@@ -13936,7 +13936,7 @@ web/svg/reference/attribute/keypoints,0866ba32ea22d8c2817e7c851c0ee82ad4aa17c8,S
 web/svg/reference/attribute/keysplines,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
 web/svg/reference/attribute/keytimes,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/lang,e7bc0ed5466f5834641d75d416fa81886cf6b37e,SVG|Attribute
-web/svg/reference/attribute/lengthadjust,7c03abf6c6abaf0013f6606cae9cb97717415cce,SVG|Attribute
+web/svg/reference/attribute/lengthadjust,fde1db177713e51507e342f3d56794aaeaef5cef,SVG|Attribute
 web/svg/reference/attribute/letter-spacing,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
 web/svg/reference/attribute/lighting-color,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/limitingconeangle,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
