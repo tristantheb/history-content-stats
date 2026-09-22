@@ -120,6 +120,7 @@ glossary/boolean/aria,null
 glossary/boolean/html,null
 glossary/boolean/javascript,null
 glossary/bounding_box,null
+glossary/box_fragment,null
 glossary/breadcrumb,null
 glossary/brotli_compression,null
 glossary/browser,null
@@ -200,6 +201,7 @@ glossary/cssom,null
 glossary/data_structure,null
 glossary/database,0
 glossary/debounce,null
+glossary/decorating_box,null
 glossary/decryption,null
 glossary/deep_copy,null
 glossary/deep_equality,null
@@ -4773,10 +4775,10 @@ web/api/htmlanchorelement/href,1
 web/api/htmlanchorelement/hreflang,null
 web/api/htmlanchorelement/interestforelement,null
 web/api/htmlanchorelement/origin,null
-web/api/htmlanchorelement/password,1
+web/api/htmlanchorelement/password,2
 web/api/htmlanchorelement/pathname,0
 web/api/htmlanchorelement/ping,null
-web/api/htmlanchorelement/port,2
+web/api/htmlanchorelement/port,3
 web/api/htmlanchorelement/protocol,3
 web/api/htmlanchorelement/referrerpolicy,null
 web/api/htmlanchorelement/rel,null

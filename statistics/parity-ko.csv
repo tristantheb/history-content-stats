@@ -120,6 +120,7 @@ glossary/boolean/aria,4
 glossary/boolean/html,11
 glossary/boolean/javascript,2
 glossary/bounding_box,4
+glossary/box_fragment,null
 glossary/breadcrumb,4
 glossary/brotli_compression,7
 glossary/browser,9
@@ -200,6 +201,7 @@ glossary/cssom,2
 glossary/data_structure,1
 glossary/database,5
 glossary/debounce,1
+glossary/decorating_box,null
 glossary/decryption,4
 glossary/deep_copy,7
 glossary/deep_equality,null
@@ -291,7 +293,7 @@ glossary/google_chrome,7
 glossary/gpl,1
 glossary/gpu,1
 glossary/graceful_degradation,4
-glossary/grid,4
+glossary/grid,5
 glossary/grid_areas,4
 glossary/grid_axis,5
 glossary/grid_cell,11
