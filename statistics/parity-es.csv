@@ -10874,7 +10874,9 @@ web/css/reference/properties/column-height,null
 web/css/reference/properties/column-rule,null
 web/css/reference/properties/column-rule-break,null
 web/css/reference/properties/column-rule-color,null
+web/css/reference/properties/column-rule-inset-cap,null
 web/css/reference/properties/column-rule-inset-cap-end,null
+web/css/reference/properties/column-rule-inset-cap-start,null
 web/css/reference/properties/column-rule-style,null
 web/css/reference/properties/column-rule-visibility-items,null
 web/css/reference/properties/column-rule-width,null
@@ -11141,6 +11143,9 @@ web/css/reference/properties/row-gap,null
 web/css/reference/properties/row-rule,null
 web/css/reference/properties/row-rule-break,null
 web/css/reference/properties/row-rule-color,null
+web/css/reference/properties/row-rule-inset-cap,null
+web/css/reference/properties/row-rule-inset-cap-end,null
+web/css/reference/properties/row-rule-inset-cap-start,null
 web/css/reference/properties/row-rule-style,null
 web/css/reference/properties/row-rule-visibility-items,null
 web/css/reference/properties/row-rule-width,null
@@ -11150,6 +11155,7 @@ web/css/reference/properties/ruby-position,null
 web/css/reference/properties/rule,null
 web/css/reference/properties/rule-break,null
 web/css/reference/properties/rule-color,null
+web/css/reference/properties/rule-inset-cap,null
 web/css/reference/properties/rule-style,null
 web/css/reference/properties/rule-visibility-items,null
 web/css/reference/properties/rule-width,null

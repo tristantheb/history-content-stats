@@ -10544,7 +10544,7 @@ web/css/guides/pseudo-elements,55fa0e2b797b1358464b42ceb32167675a03ca8d,CSS|Guid
 web/css/guides/round_display,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/ruby_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/scoping,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/scroll-driven_animations,3ad3708851fee2f25927c90e0062f259dab5df18,CSS|Guides
+web/css/guides/scroll-driven_animations,f538091795d2ae7ddde4c03d939bd6efb451ef39,CSS|Guides
 web/css/guides/scroll-driven_animations/timeline_insets,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,CSS|Guides
 web/css/guides/scroll-driven_animations/timeline_range_names,e5cd1cab36e2fdcf5dfe28e10b0a7cb235354e62,CSS|Guides
 web/css/guides/scroll-driven_animations/timelines,f94b7a0b06a0e32df81ec8197720d306fe50a4a0,CSS|Guides
@@ -10874,7 +10874,9 @@ web/css/reference/properties/column-height,880c2c4b113c6fe127ca3ae3603a56ef7a2eb
 web/css/reference/properties/column-rule,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/column-rule-break,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/column-rule-color,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|Properties
-web/css/reference/properties/column-rule-inset-cap-end,9fac65196ac2b9a26afabbcb7f14fd58621916ae,CSS|Properties
+web/css/reference/properties/column-rule-inset-cap,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
+web/css/reference/properties/column-rule-inset-cap-end,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
+web/css/reference/properties/column-rule-inset-cap-start,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
 web/css/reference/properties/column-rule-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
 web/css/reference/properties/column-rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/column-rule-width,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
@@ -11141,6 +11143,9 @@ web/css/reference/properties/row-gap,7b535c422322a8a330bd68075541abfc78efc4b7,CS
 web/css/reference/properties/row-rule,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/row-rule-break,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/row-rule-color,9b7a110e601556b82af6b5d46f01c757c5a11719,CSS|Properties
+web/css/reference/properties/row-rule-inset-cap,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
+web/css/reference/properties/row-rule-inset-cap-end,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
+web/css/reference/properties/row-rule-inset-cap-start,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
 web/css/reference/properties/row-rule-style,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/row-rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/row-rule-width,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
@@ -11150,6 +11155,7 @@ web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb6150
 web/css/reference/properties/rule,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/rule-break,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/rule-color,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/rule-inset-cap,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
 web/css/reference/properties/rule-style,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/rule-width,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
