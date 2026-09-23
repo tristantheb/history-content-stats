@@ -9864,7 +9864,7 @@ web/api/window/name,null
 web/api/window/navigation,2
 web/api/window/navigator,2
 web/api/window/offline_event,null
-web/api/window/online_event,null
+web/api/window/online_event,0
 web/api/window/open,null
 web/api/window/opener,null
 web/api/window/orientation,1
@@ -11936,7 +11936,7 @@ web/http/guides/csp,0
 web/http/guides/csp/errors,null
 web/http/guides/csp/errors/cspviolation,null
 web/http/guides/evolution_of_http,null
-web/http/guides/fetch_metadata,null
+web/http/guides/fetch_metadata,0
 web/http/guides/iframe_credentialless,null
 web/http/guides/messages,null
 web/http/guides/mime_types,null
