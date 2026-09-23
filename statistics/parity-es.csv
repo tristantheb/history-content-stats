@@ -933,7 +933,7 @@ learn_web_development/extensions/server-side/django/tutorial_local_library_websi
 learn_web_development/extensions/server-side/django/web_application_security,null
 learn_web_development/extensions/server-side/express_nodejs,null
 learn_web_development/extensions/server-side/express_nodejs/deployment,null
-learn_web_development/extensions/server-side/express_nodejs/development_environment,null
+learn_web_development/extensions/server-side/express_nodejs/development_environment,5
 learn_web_development/extensions/server-side/express_nodejs/displaying_data,null
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/author_detail_page,null
 learn_web_development/extensions/server-side/express_nodejs/displaying_data/author_list_page,null
@@ -953,7 +953,7 @@ learn_web_development/extensions/server-side/express_nodejs/forms/create_bookins
 learn_web_development/extensions/server-side/express_nodejs/forms/create_genre_form,null
 learn_web_development/extensions/server-side/express_nodejs/forms/delete_author_form,null
 learn_web_development/extensions/server-side/express_nodejs/forms/update_book_form,null
-learn_web_development/extensions/server-side/express_nodejs/introduction,null
+learn_web_development/extensions/server-side/express_nodejs/introduction,5
 learn_web_development/extensions/server-side/express_nodejs/mongoose,null
 learn_web_development/extensions/server-side/express_nodejs/routes,null
 learn_web_development/extensions/server-side/express_nodejs/skeleton_website,0
@@ -10730,7 +10730,7 @@ web/css/reference/properties/-webkit-text-fill-color,null
 web/css/reference/properties/-webkit-text-security,null
 web/css/reference/properties/-webkit-text-stroke,null
 web/css/reference/properties/-webkit-text-stroke-color,null
-web/css/reference/properties/-webkit-text-stroke-width,null
+web/css/reference/properties/-webkit-text-stroke-width,0
 web/css/reference/properties/-webkit-touch-callout,null
 web/css/reference/properties/accent-color,null
 web/css/reference/properties/align-content,null
@@ -11817,7 +11817,7 @@ web/html/reference/elements/p,null
 web/html/reference/elements/param,7
 web/html/reference/elements/picture,null
 web/html/reference/elements/plaintext,null
-web/html/reference/elements/pre,null
+web/html/reference/elements/pre,0
 web/html/reference/elements/progress,null
 web/html/reference/elements/q,null
 web/html/reference/elements/rb,null

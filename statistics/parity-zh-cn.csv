@@ -58,7 +58,7 @@ games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,0
 games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,null
 games/tutorials/2d_breakout_game_pure_javascript/collision_detection,null
 games/tutorials/2d_breakout_game_pure_javascript/create_the_canvas_and_draw_on_it,1
-games/tutorials/2d_breakout_game_pure_javascript/finishing_up,null
+games/tutorials/2d_breakout_game_pure_javascript/finishing_up,0
 games/tutorials/2d_breakout_game_pure_javascript/game_over,0
 games/tutorials/2d_breakout_game_pure_javascript/mouse_controls,0
 games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,0
@@ -3841,7 +3841,7 @@ web/api/element/ariacolindex,0
 web/api/element/ariacolindextext,1
 web/api/element/ariacolspan,null
 web/api/element/ariacontrolselements,null
-web/api/element/ariacurrent,null
+web/api/element/ariacurrent,0
 web/api/element/ariadescribedbyelements,0
 web/api/element/ariadescription,null
 web/api/element/ariadetailselements,null
