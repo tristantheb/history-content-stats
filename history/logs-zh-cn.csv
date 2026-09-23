@@ -4845,7 +4845,7 @@ web/api/window/name,no_hash_commit
 web/api/window/navigation,38d151f66619ac3c8f527b9e4dd402b9a3cf32dd
 web/api/window/navigator,cc070123f72376faec06e36622c4fc723a75325f
 web/api/window/offline_event,no_hash_commit
-web/api/window/online_event,no_hash_commit
+web/api/window/online_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9
 web/api/window/open,no_hash_commit
 web/api/window/opener,no_hash_commit
 web/api/window/orientation,cc070123f72376faec06e36622c4fc723a75325f
@@ -6143,6 +6143,7 @@ web/http/guides/cors,a19e6ab98874804411266067ccdb9898b2afa7bf
 web/http/guides/cross-origin_resource_policy,d5c3db4df1e063769b8113567f4558ad4298b00b
 web/http/guides/csp,6720d579bd658f02c56363805e97e69f93dc79f1
 web/http/guides/evolution_of_http,no_hash_commit
+web/http/guides/fetch_metadata,f648561b1db8502f28a9d3664175c2000cbe9ea7
 web/http/guides,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/guides/messages,no_hash_commit
 web/http/guides/mime_types/common_types,no_hash_commit
