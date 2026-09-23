@@ -11959,6 +11959,7 @@ web/http/reference/headers/accept-encoding,null
 web/http/reference/headers/accept-language,null
 web/http/reference/headers/accept-patch,null
 web/http/reference/headers/accept-post,null
+web/http/reference/headers/accept-query,null
 web/http/reference/headers/accept-ranges,null
 web/http/reference/headers/access-control-allow-credentials,null
 web/http/reference/headers/access-control-allow-headers,null
@@ -12213,6 +12214,7 @@ web/http/reference/methods/options,null
 web/http/reference/methods/patch,null
 web/http/reference/methods/post,null
 web/http/reference/methods/put,null
+web/http/reference/methods/query,null
 web/http/reference/methods/trace,null
 web/http/reference/resources_and_specifications,null
 web/http/reference/status,null

@@ -11959,6 +11959,7 @@ web/http/reference/headers/accept-encoding,2
 web/http/reference/headers/accept-language,0
 web/http/reference/headers/accept-patch,3
 web/http/reference/headers/accept-post,3
+web/http/reference/headers/accept-query,null
 web/http/reference/headers/accept-ranges,3
 web/http/reference/headers/access-control-allow-credentials,1
 web/http/reference/headers/access-control-allow-headers,6
@@ -12204,7 +12205,7 @@ web/http/reference/headers/x-permitted-cross-domain-policies,null
 web/http/reference/headers/x-powered-by,null
 web/http/reference/headers/x-robots-tag,3
 web/http/reference/headers/x-xss-protection,null
-web/http/reference/methods,0
+web/http/reference/methods,1
 web/http/reference/methods/connect,4
 web/http/reference/methods/delete,4
 web/http/reference/methods/get,3
@@ -12213,6 +12214,7 @@ web/http/reference/methods/options,2
 web/http/reference/methods/patch,5
 web/http/reference/methods/post,4
 web/http/reference/methods/put,4
+web/http/reference/methods/query,null
 web/http/reference/methods/trace,6
 web/http/reference/resources_and_specifications,null
 web/http/reference/status,5

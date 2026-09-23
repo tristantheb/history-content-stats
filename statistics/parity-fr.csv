@@ -821,7 +821,7 @@ learn_web_development/core/styling_basics/combinators,0
 learn_web_development/core/styling_basics/debugging_css,0
 learn_web_development/core/styling_basics/fixing_blog_styles,0
 learn_web_development/core/styling_basics/getting_started,0
-learn_web_development/core/styling_basics/handling_conflicts,0
+learn_web_development/core/styling_basics/handling_conflicts,1
 learn_web_development/core/styling_basics/handling_different_text_directions,null
 learn_web_development/core/styling_basics/home_color_scheme_search,0
 learn_web_development/core/styling_basics/images_media_forms,0
@@ -11801,7 +11801,7 @@ web/html/reference/elements/meta/name/responsive-embedded-sizing,0
 web/html/reference/elements/meta/name/robots,0
 web/html/reference/elements/meta/name/text-scale,0
 web/html/reference/elements/meta/name/theme-color,0
-web/html/reference/elements/meta/name/viewport,0
+web/html/reference/elements/meta/name/viewport,1
 web/html/reference/elements/meter,0
 web/html/reference/elements/nav,0
 web/html/reference/elements/nobr,0
@@ -11952,13 +11952,14 @@ web/http/guides/redirections,null
 web/http/guides/session,null
 web/http/guides/user-agent_reduction,null
 web/http/reference,0
-web/http/reference/headers,2
+web/http/reference/headers,3
 web/http/reference/headers/accept,1
 web/http/reference/headers/accept-ch,0
 web/http/reference/headers/accept-encoding,1
 web/http/reference/headers/accept-language,0
 web/http/reference/headers/accept-patch,1
 web/http/reference/headers/accept-post,1
+web/http/reference/headers/accept-query,null
 web/http/reference/headers/accept-ranges,1
 web/http/reference/headers/access-control-allow-credentials,0
 web/http/reference/headers/access-control-allow-headers,0
@@ -12204,7 +12205,7 @@ web/http/reference/headers/x-permitted-cross-domain-policies,null
 web/http/reference/headers/x-powered-by,null
 web/http/reference/headers/x-robots-tag,null
 web/http/reference/headers/x-xss-protection,null
-web/http/reference/methods,0
+web/http/reference/methods,1
 web/http/reference/methods/connect,0
 web/http/reference/methods/delete,0
 web/http/reference/methods/get,0
@@ -12213,6 +12214,7 @@ web/http/reference/methods/options,0
 web/http/reference/methods/patch,0
 web/http/reference/methods/post,0
 web/http/reference/methods/put,0
+web/http/reference/methods/query,null
 web/http/reference/methods/trace,1
 web/http/reference/resources_and_specifications,1
 web/http/reference/status,2
