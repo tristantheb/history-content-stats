@@ -718,7 +718,7 @@ learn_web_development/core/accessibility/what_is_accessibility,16
 learn_web_development/core/css_layout,9
 learn_web_development/core/css_layout/flexbox,null
 learn_web_development/core/css_layout/floats,null
-learn_web_development/core/css_layout/fundamental_layout_comprehension,11
+learn_web_development/core/css_layout/fundamental_layout_comprehension,12
 learn_web_development/core/css_layout/grids,15
 learn_web_development/core/css_layout/introduction,8
 learn_web_development/core/css_layout/legacy_layout_methods,null
@@ -11801,7 +11801,7 @@ web/html/reference/elements/meta/name/responsive-embedded-sizing,null
 web/html/reference/elements/meta/name/robots,null
 web/html/reference/elements/meta/name/text-scale,null
 web/html/reference/elements/meta/name/theme-color,null
-web/html/reference/elements/meta/name/viewport,9
+web/html/reference/elements/meta/name/viewport,10
 web/html/reference/elements/meter,null
 web/html/reference/elements/nav,null
 web/html/reference/elements/nobr,null
@@ -11959,6 +11959,7 @@ web/http/reference/headers/accept-encoding,null
 web/http/reference/headers/accept-language,null
 web/http/reference/headers/accept-patch,6
 web/http/reference/headers/accept-post,5
+web/http/reference/headers/accept-query,null
 web/http/reference/headers/accept-ranges,null
 web/http/reference/headers/access-control-allow-credentials,null
 web/http/reference/headers/access-control-allow-headers,null
@@ -12213,6 +12214,7 @@ web/http/reference/methods/options,4
 web/http/reference/methods/patch,null
 web/http/reference/methods/post,null
 web/http/reference/methods/put,null
+web/http/reference/methods/query,null
 web/http/reference/methods/trace,null
 web/http/reference/resources_and_specifications,6
 web/http/reference/status,null

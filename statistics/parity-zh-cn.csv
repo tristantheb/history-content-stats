@@ -871,7 +871,7 @@ learn_web_development/extensions/client-side_apis/client-side_storage,6
 learn_web_development/extensions/client-side_apis/drawing_graphics,19
 learn_web_development/extensions/client-side_apis/introduction,7
 learn_web_development/extensions/client-side_apis/third_party_apis,10
-learn_web_development/extensions/client-side_apis/video_and_audio_apis,18
+learn_web_development/extensions/client-side_apis/video_and_audio_apis,19
 learn_web_development/extensions/client-side_tools,3
 learn_web_development/extensions/client-side_tools/deployment,2
 learn_web_development/extensions/client-side_tools/introducing_complete_toolchain,null
@@ -9672,7 +9672,7 @@ web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/creating_a_call,3
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/end_a_call,2
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/get_microphone_permission,4
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/show_hide_html,1
-web/api/webrtc_api/build_a_phone_with_peerjs/setup,2
+web/api/webrtc_api/build_a_phone_with_peerjs/setup,3
 web/api/webrtc_api/connectivity,null
 web/api/webrtc_api/intro_to_rtp,0
 web/api/webrtc_api/perfect_negotiation,4
@@ -11952,13 +11952,14 @@ web/http/guides/redirections,6
 web/http/guides/session,null
 web/http/guides/user-agent_reduction,null
 web/http/reference,1
-web/http/reference/headers,21
+web/http/reference/headers,22
 web/http/reference/headers/accept,1
 web/http/reference/headers/accept-ch,5
 web/http/reference/headers/accept-encoding,6
 web/http/reference/headers/accept-language,3
 web/http/reference/headers/accept-patch,6
 web/http/reference/headers/accept-post,5
+web/http/reference/headers/accept-query,null
 web/http/reference/headers/accept-ranges,5
 web/http/reference/headers/access-control-allow-credentials,4
 web/http/reference/headers/access-control-allow-headers,6
@@ -12213,6 +12214,7 @@ web/http/reference/methods/options,0
 web/http/reference/methods/patch,null
 web/http/reference/methods/post,null
 web/http/reference/methods/put,null
+web/http/reference/methods/query,null
 web/http/reference/methods/trace,2
 web/http/reference/resources_and_specifications,null
 web/http/reference/status,null

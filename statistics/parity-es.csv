@@ -564,7 +564,7 @@ glossary/server_timing,null
 glossary/session_hijacking,null
 glossary/sgml,null
 glossary/shadow_tree,null
-glossary/shallow_copy,null
+glossary/shallow_copy,0
 glossary/shim,null
 glossary/signature,null
 glossary/signature/function,null
@@ -718,7 +718,7 @@ learn_web_development/core/accessibility/what_is_accessibility,null
 learn_web_development/core/css_layout,null
 learn_web_development/core/css_layout/flexbox,null
 learn_web_development/core/css_layout/floats,null
-learn_web_development/core/css_layout/fundamental_layout_comprehension,9
+learn_web_development/core/css_layout/fundamental_layout_comprehension,10
 learn_web_development/core/css_layout/grids,null
 learn_web_development/core/css_layout/introduction,null
 learn_web_development/core/css_layout/legacy_layout_methods,null
@@ -821,7 +821,7 @@ learn_web_development/core/styling_basics/combinators,9
 learn_web_development/core/styling_basics/debugging_css,null
 learn_web_development/core/styling_basics/fixing_blog_styles,null
 learn_web_development/core/styling_basics/getting_started,null
-learn_web_development/core/styling_basics/handling_conflicts,1
+learn_web_development/core/styling_basics/handling_conflicts,2
 learn_web_development/core/styling_basics/handling_different_text_directions,0
 learn_web_development/core/styling_basics/home_color_scheme_search,null
 learn_web_development/core/styling_basics/images_media_forms,null
@@ -11959,6 +11959,7 @@ web/http/reference/headers/accept-encoding,null
 web/http/reference/headers/accept-language,null
 web/http/reference/headers/accept-patch,null
 web/http/reference/headers/accept-post,null
+web/http/reference/headers/accept-query,null
 web/http/reference/headers/accept-ranges,null
 web/http/reference/headers/access-control-allow-credentials,null
 web/http/reference/headers/access-control-allow-headers,null
@@ -12213,6 +12214,7 @@ web/http/reference/methods/options,null
 web/http/reference/methods/patch,null
 web/http/reference/methods/post,null
 web/http/reference/methods/put,null
+web/http/reference/methods/query,null
 web/http/reference/methods/trace,null
 web/http/reference/resources_and_specifications,null
 web/http/reference/status,null
@@ -12842,7 +12844,7 @@ web/javascript/reference/global_objects/json/israwjson,null
 web/javascript/reference/global_objects/json/parse,null
 web/javascript/reference/global_objects/json/rawjson,null
 web/javascript/reference/global_objects/json/stringify,null
-web/javascript/reference/global_objects/map,17
+web/javascript/reference/global_objects/map,0
 web/javascript/reference/global_objects/map/clear,4
 web/javascript/reference/global_objects/map/delete,5
 web/javascript/reference/global_objects/map/entries,4
