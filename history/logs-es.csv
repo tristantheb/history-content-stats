@@ -386,9 +386,9 @@ learn_web_development/extensions/server-side/django/sessions,48d220a8cffdfd5f088
 learn_web_development/extensions/server-side/django/skeleton_website,be1922d62a0d31e4e3441db0e943aed8df736481
 learn_web_development/extensions/server-side/django/testing,no_hash_commit
 learn_web_development/extensions/server-side/django/tutorial_local_library_website,no_hash_commit
-learn_web_development/extensions/server-side/express_nodejs/development_environment,no_hash_commit
+learn_web_development/extensions/server-side/express_nodejs/development_environment,6d363614de8a40c33d1afe92e4e846b75beea986
 learn_web_development/extensions/server-side/express_nodejs,no_hash_commit
-learn_web_development/extensions/server-side/express_nodejs/introduction,no_hash_commit
+learn_web_development/extensions/server-side/express_nodejs/introduction,2aa175159b0354f7c5ba36574ef99e37e95b19c8
 learn_web_development/extensions/server-side/express_nodejs/skeleton_website,afcdfa050626bb7eb05ee693df8997020db9ff2e
 learn_web_development/extensions/server-side/express_nodejs/tutorial_local_library_website,no_hash_commit
 learn_web_development/extensions/server-side/first_steps/client-server_overview,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
@@ -1326,7 +1326,7 @@ web/css/reference/properties/-webkit-mask-repeat-y,no_hash_commit
 web/css/reference/properties/-webkit-tap-highlight-color,no_hash_commit
 web/css/reference/properties/-webkit-text-fill-color,no_hash_commit
 web/css/reference/properties/-webkit-text-stroke-color,no_hash_commit
-web/css/reference/properties/-webkit-text-stroke-width,no_hash_commit
+web/css/reference/properties/-webkit-text-stroke-width,22c0b3059ff71d769af670478cc41605581108d1
 web/css/reference/properties/-webkit-text-stroke,no_hash_commit
 web/css/reference/properties/-webkit-touch-callout,no_hash_commit
 web/css/reference/properties/align-content,no_hash_commit
@@ -1802,7 +1802,7 @@ web/html/reference/elements/option,no_hash_commit
 web/html/reference/elements/p,no_hash_commit
 web/html/reference/elements/param,942a529383ee7ee3996fb234187641c08935f3ff
 web/html/reference/elements/picture,no_hash_commit
-web/html/reference/elements/pre,no_hash_commit
+web/html/reference/elements/pre,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/progress,no_hash_commit
 web/html/reference/elements/q,no_hash_commit
 web/html/reference/elements/s,no_hash_commit
