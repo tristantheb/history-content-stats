@@ -214,6 +214,7 @@ glossary/scm,no_hash_commit
 glossary/scope,no_hash_commit
 glossary/seo,no_hash_commit
 glossary/sgml,no_hash_commit
+glossary/shallow_copy,b7c5617fc1d8eb00c6884a708983da21ad61b228
 glossary/simd,no_hash_commit
 glossary/sisd,no_hash_commit
 glossary/sld,no_hash_commit
@@ -2152,7 +2153,7 @@ web/javascript/reference/global_objects/map/foreach,27180875516cc311342e74b596bf
 web/javascript/reference/global_objects/map/get,3cfd663738e9963157d90f359789d675a6662ec2
 web/javascript/reference/global_objects/map/groupby,8421c0cd94fa5aa237c833ac6d24885edbc7d721
 web/javascript/reference/global_objects/map/has,3cfd663738e9963157d90f359789d675a6662ec2
-web/javascript/reference/global_objects/map,8421c0cd94fa5aa237c833ac6d24885edbc7d721
+web/javascript/reference/global_objects/map,c808a24d4e4f7bda00e7117f315965ed39b780e5
 web/javascript/reference/global_objects/map/keys,27180875516cc311342e74b596bfb589b7211e0c
 web/javascript/reference/global_objects/map/map,70f09675ddcfc75a3bb66d2dce4cf82738948a37
 web/javascript/reference/global_objects/map/set,3cfd663738e9963157d90f359789d675a6662ec2
