@@ -964,13 +964,13 @@ learn_web_development/extensions/server-side/first_steps/introduction,8
 learn_web_development/extensions/server-side/first_steps/web_frameworks,4
 learn_web_development/extensions/server-side/first_steps/website_security,5
 learn_web_development/extensions/server-side/node_server_without_framework,0
-learn_web_development/extensions/testing,4
-learn_web_development/extensions/testing/automated_testing,15
-learn_web_development/extensions/testing/feature_detection,12
-learn_web_development/extensions/testing/html_and_css,3
-learn_web_development/extensions/testing/introduction,9
-learn_web_development/extensions/testing/testing_strategies,10
-learn_web_development/extensions/testing/your_own_automation_environment,14
+learn_web_development/extensions/testing,0
+learn_web_development/extensions/testing/automated_testing,0
+learn_web_development/extensions/testing/feature_detection,0
+learn_web_development/extensions/testing/html_and_css,0
+learn_web_development/extensions/testing/introduction,0
+learn_web_development/extensions/testing/testing_strategies,0
+learn_web_development/extensions/testing/your_own_automation_environment,0
 learn_web_development/getting_started,6
 learn_web_development/getting_started/environment_setup,1
 learn_web_development/getting_started/environment_setup/browsing_the_web,1
@@ -1899,7 +1899,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,9
 mozilla/firefox,0
-mozilla/firefox/experimental_features,16
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -1925,7 +1925,7 @@ mozilla/firefox/releases/113,0
 mozilla/firefox/releases/114,1
 mozilla/firefox/releases/115,0
 mozilla/firefox/releases/116,1
-mozilla/firefox/releases/117,14
+mozilla/firefox/releases/117,0
 mozilla/firefox/releases/118,0
 mozilla/firefox/releases/119,0
 mozilla/firefox/releases/12,null
@@ -3535,7 +3535,7 @@ web/api/document/embeds,1
 web/api/document/enablestylesheetsforset,2
 web/api/document/evaluate,8
 web/api/document/execcommand,2
-web/api/document/exitfullscreen,2
+web/api/document/exitfullscreen,0
 web/api/document/exitpictureinpicture,2
 web/api/document/exitpointerlock,1
 web/api/document/featurepolicy,2
@@ -3545,10 +3545,10 @@ web/api/document/fonts,2
 web/api/document/forms,5
 web/api/document/fragmentdirective,5
 web/api/document/fullscreen,0
-web/api/document/fullscreenchange_event,3
-web/api/document/fullscreenelement,2
-web/api/document/fullscreenenabled,1
-web/api/document/fullscreenerror_event,2
+web/api/document/fullscreenchange_event,0
+web/api/document/fullscreenelement,0
+web/api/document/fullscreenenabled,0
+web/api/document/fullscreenerror_event,0
 web/api/document/getanimations,1
 web/api/document/getelementbyid,3
 web/api/document/getelementsbyclassname,3
@@ -3920,8 +3920,8 @@ web/api/element/firstelementchild,1
 web/api/element/focus_event,4
 web/api/element/focusin_event,6
 web/api/element/focusout_event,6
-web/api/element/fullscreenchange_event,3
-web/api/element/fullscreenerror_event,2
+web/api/element/fullscreenchange_event,0
+web/api/element/fullscreenerror_event,0
 web/api/element/gesturechange_event,2
 web/api/element/gestureend_event,2
 web/api/element/gesturestart_event,2
@@ -3992,7 +3992,7 @@ web/api/element/removeattributenode,2
 web/api/element/removeattributens,2
 web/api/element/replacechildren,2
 web/api/element/replacewith,3
-web/api/element/requestfullscreen,14
+web/api/element/requestfullscreen,0
 web/api/element/requestpointerlock,6
 web/api/element/role,0
 web/api/element/scroll,4
@@ -4395,8 +4395,8 @@ web/api/formdataevent,3
 web/api/formdataevent/formdata,2
 web/api/formdataevent/formdataevent,0
 web/api/fragmentdirective,7
-web/api/fullscreen_api,10
-web/api/fullscreen_api/guide,9
+web/api/fullscreen_api,0
+web/api/fullscreen_api/guide,0
 web/api/gainnode,0
 web/api/gainnode/gain,1
 web/api/gainnode/gainnode,3
@@ -7912,7 +7912,7 @@ web/api/shadowroot/customelementregistry,1
 web/api/shadowroot/delegatesfocus,3
 web/api/shadowroot/elementfrompoint,null
 web/api/shadowroot/elementsfrompoint,null
-web/api/shadowroot/fullscreenelement,1
+web/api/shadowroot/fullscreenelement,0
 web/api/shadowroot/getanimations,1
 web/api/shadowroot/gethtml,6
 web/api/shadowroot/host,4
@@ -11014,7 +11014,7 @@ web/css/reference/properties/justify-content,2
 web/css/reference/properties/justify-items,2
 web/css/reference/properties/justify-self,1
 web/css/reference/properties/left,1
-web/css/reference/properties/letter-spacing,6
+web/css/reference/properties/letter-spacing,0
 web/css/reference/properties/lighting-color,2
 web/css/reference/properties/line-break,2
 web/css/reference/properties/line-clamp,3
@@ -11222,7 +11222,7 @@ web/css/reference/properties/text-box,2
 web/css/reference/properties/text-box-edge,2
 web/css/reference/properties/text-box-trim,3
 web/css/reference/properties/text-combine-upright,2
-web/css/reference/properties/text-decoration,6
+web/css/reference/properties/text-decoration,0
 web/css/reference/properties/text-decoration-color,3
 web/css/reference/properties/text-decoration-inset,2
 web/css/reference/properties/text-decoration-line,3
@@ -11468,7 +11468,7 @@ web/css/reference/values/angle-percentage,1
 web/css/reference/values/asin,1
 web/css/reference/values/atan,1
 web/css/reference/values/atan2,1
-web/css/reference/values/attr,6
+web/css/reference/values/attr,0
 web/css/reference/values/axis,1
 web/css/reference/values/baseline-position,1
 web/css/reference/values/basic-shape,5
@@ -11544,7 +11544,7 @@ web/css/reference/values/fit-content_function,1
 web/css/reference/values/flex_value,1
 web/css/reference/values/frequency,1
 web/css/reference/values/frequency-percentage,0
-web/css/reference/values/functions,8
+web/css/reference/values/functions,1
 web/css/reference/values/generic-family,1
 web/css/reference/values/gradient,1
 web/css/reference/values/gradient/conic-gradient,1
@@ -11593,7 +11593,7 @@ web/css/reference/values/ratio,1
 web/css/reference/values/ray,0
 web/css/reference/values/relative-size,1
 web/css/reference/values/rem,0
-web/css/reference/values/repeat,6
+web/css/reference/values/repeat,0
 web/css/reference/values/resolution,1
 web/css/reference/values/revert,2
 web/css/reference/values/revert-layer,2
