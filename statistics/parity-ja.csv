@@ -7169,7 +7169,7 @@ web/api/reportingobserver/disconnect,null
 web/api/reportingobserver/observe,null
 web/api/reportingobserver/reportingobserver,null
 web/api/reportingobserver/takerecords,null
-web/api/request,14
+web/api/request,0
 web/api/request/arraybuffer,0
 web/api/request/blob,0
 web/api/request/body,0
@@ -7178,7 +7178,7 @@ web/api/request/bytes,0
 web/api/request/cache,0
 web/api/request/clone,0
 web/api/request/credentials,0
-web/api/request/destination,9
+web/api/request/destination,0
 web/api/request/duplex,0
 web/api/request/formdata,0
 web/api/request/headers,0
@@ -9923,7 +9923,7 @@ web/api/window/settimeout,0
 web/api/window/sharedstorage,null
 web/api/window/showdirectorypicker,11
 web/api/window/showopenfilepicker,13
-web/api/window/showsavefilepicker,14
+web/api/window/showsavefilepicker,0
 web/api/window/sizetocontent,null
 web/api/window/speechsynthesis,0
 web/api/window/status,2
@@ -10877,6 +10877,7 @@ web/css/reference/properties/column-rule-color,2
 web/css/reference/properties/column-rule-inset-cap,null
 web/css/reference/properties/column-rule-inset-cap-end,null
 web/css/reference/properties/column-rule-inset-cap-start,null
+web/css/reference/properties/column-rule-inset-junction-end,null
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,1
 web/css/reference/properties/column-rule-width,0
@@ -12333,7 +12334,7 @@ web/javascript/reference/errors/bad_continue,null
 web/javascript/reference/errors/bad_new_optional,null
 web/javascript/reference/errors/bad_optional_template,null
 web/javascript/reference/errors/bad_radix,null
-web/javascript/reference/errors/bad_regexp_flag,null
+web/javascript/reference/errors/bad_regexp_flag,0
 web/javascript/reference/errors/bad_return,null
 web/javascript/reference/errors/bad_strict_arguments_eval,null
 web/javascript/reference/errors/bad_super_call,null
@@ -12393,8 +12394,8 @@ web/javascript/reference/errors/malformed_uri,null
 web/javascript/reference/errors/missing_bracket_after_list,null
 web/javascript/reference/errors/missing_colon_after_property_id,0
 web/javascript/reference/errors/missing_curly_after_function_body,null
-web/javascript/reference/errors/missing_curly_after_property_list,null
-web/javascript/reference/errors/missing_formal_parameter,null
+web/javascript/reference/errors/missing_curly_after_property_list,0
+web/javascript/reference/errors/missing_formal_parameter,0
 web/javascript/reference/errors/missing_initializer_in_const,null
 web/javascript/reference/errors/missing_name_after_dot_operator,null
 web/javascript/reference/errors/missing_parenthesis_after_argument_list,0

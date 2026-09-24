@@ -10877,6 +10877,7 @@ web/css/reference/properties/column-rule-color,b6de98eb9cd52ce7e37f22a340352f0af
 web/css/reference/properties/column-rule-inset-cap,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
 web/css/reference/properties/column-rule-inset-cap-end,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
 web/css/reference/properties/column-rule-inset-cap-start,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
+web/css/reference/properties/column-rule-inset-junction-end,c297ca81510b69e602e8fef4732d558b7ed020b0,CSS|Properties
 web/css/reference/properties/column-rule-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
 web/css/reference/properties/column-rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/column-rule-width,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
