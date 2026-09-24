@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,0
-mozilla/firefox/releases/157,0
+mozilla/firefox/releases/157,1
 mozilla/firefox/releases/158,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -10877,7 +10877,7 @@ web/css/reference/properties/column-rule-color,0
 web/css/reference/properties/column-rule-inset-cap,0
 web/css/reference/properties/column-rule-inset-cap-end,0
 web/css/reference/properties/column-rule-inset-cap-start,0
-web/css/reference/properties/column-rule-inset-junction-end,null
+web/css/reference/properties/column-rule-inset-junction-end,0
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,0
 web/css/reference/properties/column-rule-width,0
@@ -11156,7 +11156,7 @@ web/css/reference/properties/ruby-position,0
 web/css/reference/properties/rule,0
 web/css/reference/properties/rule-break,0
 web/css/reference/properties/rule-color,0
-web/css/reference/properties/rule-inset-cap,0
+web/css/reference/properties/rule-inset-cap,1
 web/css/reference/properties/rule-style,0
 web/css/reference/properties/rule-visibility-items,0
 web/css/reference/properties/rule-width,0
