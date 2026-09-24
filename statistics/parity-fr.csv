@@ -10877,6 +10877,7 @@ web/css/reference/properties/column-rule-color,0
 web/css/reference/properties/column-rule-inset-cap,null
 web/css/reference/properties/column-rule-inset-cap-end,null
 web/css/reference/properties/column-rule-inset-cap-start,null
+web/css/reference/properties/column-rule-inset-junction-end,null
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,1
 web/css/reference/properties/column-rule-width,0
