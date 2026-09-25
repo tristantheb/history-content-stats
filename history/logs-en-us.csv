@@ -10914,7 +10914,7 @@ web/css/reference/properties/corner-top-left-shape,bcbb4bd6a80292c0663b723d54667
 web/css/reference/properties/corner-top-right-shape,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/corner-top-shape,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/counter-increment,fd30a91f7c0f5bc65445dd931ec9754806bbd5fb,CSS|Properties
-web/css/reference/properties/counter-reset,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
+web/css/reference/properties/counter-reset,a326384789bf2f13f96506d4e2fdb4688d873cd0,CSS|Properties
 web/css/reference/properties/counter-set,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/cursor,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/cx,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11142,7 +11142,7 @@ web/css/reference/properties/right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|
 web/css/reference/properties/rotate,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/row-gap,7b535c422322a8a330bd68075541abfc78efc4b7,CSS|Properties
 web/css/reference/properties/row-rule,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
-web/css/reference/properties/row-rule-break,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
+web/css/reference/properties/row-rule-break,b6f3d1e0efeff683860ea49a89730ef90643e955,CSS|Properties
 web/css/reference/properties/row-rule-color,9b7a110e601556b82af6b5d46f01c757c5a11719,CSS|Properties
 web/css/reference/properties/row-rule-inset-cap,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
 web/css/reference/properties/row-rule-inset-cap-end,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
