@@ -1539,7 +1539,7 @@ mozilla/add-ons/webextensions/api/runtime/getmanifest,9a1a8665d37c3b75f9d9a545c4
 mozilla/add-ons/webextensions/api/runtime/getpackagedirectoryentry,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/getplatforminfo,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/geturl,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/runtime/getversion,9a1a8665d37c3b75f9d9a545c4c2407296615a41,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/runtime/getversion,3dad2299b9d045afbcefc2fd5500ed7257ceedda,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/id,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/lasterror,38199423810927262c9cb4dec7ea7de4cb0c5e0f,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/messagesender,9791add3508e087982097f25fbd367c21bcb8305,Mozilla|Firefox Add-ons
@@ -1812,7 +1812,7 @@ mozilla/add-ons/webextensions/background_scripts,4ecb85924cb9982ab3dc6b849ccfac0
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/build_a_cross_browser_extension,83b221d2955a42bed9b87a5206a7953d1b57d8a9,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/chrome_incompatibilities,ada91b2a91e483138528d3c79e9350eb493d3d22,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/content_scripts,f7b2fd667af5f310356b46ed4920acac1da82dbe,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/content_scripts,3dad2299b9d045afbcefc2fd5500ed7257ceedda,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/content_scripts/cloneinto,f99d00a1c3697e26a679925954e26564e7e79b98,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/content_scripts/exportfunction,6036cd414b2214f85901158bdf3e3a96123d4553,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/content_security_policy,f99d00a1c3697e26a679925954e26564e7e79b98,Mozilla|Firefox Add-ons
@@ -1970,7 +1970,7 @@ mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff,Mozilla|Fi
 mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
 mozilla/firefox/releases/156,ca2450d9c15ffa15965776dbf5d277eb5c3d0b3f,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,c37fc5cbb2093f7fad32f196033332d168db217d,Mozilla|Firefox|Versions
-mozilla/firefox/releases/158,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
+mozilla/firefox/releases/158,3dad2299b9d045afbcefc2fd5500ed7257ceedda,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -4918,7 +4918,7 @@ web/api/htmlelement/inputmode,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlelement/interest_event,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
 web/api/htmlelement/iscontenteditable,6d2000984203c51f1aad49107ebcebe14d3c1238,Web APIs
 web/api/htmlelement/lang,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
-web/api/htmlelement/load_event,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
+web/api/htmlelement/load_event,d227f4ac374be9efd0d9e502c9ffdb050253eb43,Web APIs
 web/api/htmlelement/loseinterest_event,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
 web/api/htmlelement/nonce,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlelement/offsetheight,0916e1754652f3a7c663ef031faa26c98f492023,Web APIs
@@ -7843,7 +7843,7 @@ web/api/serialport/writable,6fe7a18b80e55d9d25dcc16dfb010eec09460bb8,Web APIs
 web/api/server-sent_events,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Web APIs
 web/api/server-sent_events/using_server-sent_events,051d02b402b7f76c2078b12283aa18318c34c38b,Web APIs
 web/api/service_worker_api,972c6cc542e271e4c00def9465d7a0cc81011378,Web APIs
-web/api/service_worker_api/using_service_workers,d81234a2ce0cc4ceb06622e3cd5d8cb5e447cb6f,Web APIs
+web/api/service_worker_api/using_service_workers,cce594ebff79d155da35415eeebb144251355cce,Web APIs
 web/api/serviceworker,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/serviceworker/error_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/serviceworker/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e,Web APIs
@@ -9057,7 +9057,7 @@ web/api/usb,a10e3f00a346a0ec35380513f65915849d99f895,Web APIs
 web/api/usb/connect_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/usb/disconnect_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/usb/getdevices,a10e3f00a346a0ec35380513f65915849d99f895,Web APIs
-web/api/usb/requestdevice,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
+web/api/usb/requestdevice,a49976f8a055175d39d1806a1646de3824cf9edf,Web APIs
 web/api/usbalternateinterface,a10e3f00a346a0ec35380513f65915849d99f895,Web APIs
 web/api/usbconfiguration,a10e3f00a346a0ec35380513f65915849d99f895,Web APIs
 web/api/usbconfiguration/configurationname,a10e3f00a346a0ec35380513f65915849d99f895,Web APIs
@@ -9716,7 +9716,7 @@ web/api/webtransport/closed,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/congestioncontrol,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
 web/api/webtransport/createbidirectionalstream,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/webtransport/createsendgroup,c4ced66f871dd67ff683526ecc38e9eb7ebb5c9a,Web APIs
-web/api/webtransport/createunidirectionalstream,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
+web/api/webtransport/createunidirectionalstream,64685d67035fa6c3ad63a36e89ce8f59d670c3ac,Web APIs
 web/api/webtransport/datagrams,50e0237a64ecc8107c0a608b37aae241448a5d80,Web APIs
 web/api/webtransport/draining,3064cbe8212ea919874fb21120a89657afccba25,Web APIs
 web/api/webtransport/exportkeyingmaterial,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7,Web APIs
@@ -9727,7 +9727,7 @@ web/api/webtransport/protocol,8413520d9fd826c98db89ff8165408139635d454,Web APIs
 web/api/webtransport/ready,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/reliability,e1e7e2ac2cb1e40293c32c24bc0667905e9a7a04,Web APIs
 web/api/webtransport/webtransport,8413520d9fd826c98db89ff8165408139635d454,Web APIs
-web/api/webtransport_api,9fac65196ac2b9a26afabbcb7f14fd58621916ae,Web APIs
+web/api/webtransport_api,64685d67035fa6c3ad63a36e89ce8f59d670c3ac,Web APIs
 web/api/webtransportbidirectionalstream,cc41ecd796870c2b6c77ad0b04fcb8d8c7d877d2,Web APIs
 web/api/webtransportbidirectionalstream/readable,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/webtransportbidirectionalstream/writable,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
@@ -9786,7 +9786,7 @@ web/api/wheelevent/deltax,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltay,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltaz,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/wheelevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
-web/api/window,6b9bb948a570848254e2023fda959cf86721f8e4,Web APIs
+web/api/window,6daf06123a4c7d8b8e2a038e339a05666b22695f,Web APIs
 web/api/window/afterprint_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/alert,e3faa375b0179de77a5eff00074e3d168a0a904c,Web APIs
 web/api/window/appinstalled_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -9795,7 +9795,7 @@ web/api/window/beforeinstallprompt_event,ac7f589f2471fde8e5ee910a7fbd8a4bff93114
 web/api/window/beforeprint_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/beforeunload_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/blur,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
-web/api/window/blur_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
+web/api/window/blur_event,6daf06123a4c7d8b8e2a038e339a05666b22695f,Web APIs
 web/api/window/btoa,3e097148b4c6cb9c6d8824275599f855ca63827b,Web APIs
 web/api/window/caches,4a0413ef319179b7d0d833c42a156629544c8248,Web APIs
 web/api/window/cancelanimationframe,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
@@ -9829,7 +9829,7 @@ web/api/window/fetch,f6e66d18205c93fcaeb2ea9ad51541b5b4d7d2b1,Web APIs
 web/api/window/fetchlater,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
 web/api/window/find,950f04d94b48f259c471175bdafb52933b2b038d,Web APIs
 web/api/window/focus,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
-web/api/window/focus_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
+web/api/window/focus_event,6daf06123a4c7d8b8e2a038e339a05666b22695f,Web APIs
 web/api/window/frameelement,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/frames,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/fullscreen,a23122d0e86fb376234614beb5b350b217068054,Web APIs
