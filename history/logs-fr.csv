@@ -4434,10 +4434,10 @@ web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/gaps,8a13259a44523cd17b4fe347088b62c6d7a35265
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410
-web/css/guides/grid_layout/accessibility,no_hash_commit
-web/css/guides/grid_layout/auto-placement,b906098e63b1eb3512b4381fe7c105b67037aff1
-web/css/guides/grid_layout/basic_concepts,3a22bb59de072d368ad47cf36f8c385f1f3494fe
-web/css/guides/grid_layout/box_alignment,no_hash_commit
+web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/guides/grid_layout/auto-placement,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/guides/grid_layout/basic_concepts,0f31456d7b82342100cef65812b413ec6f2fa352
+web/css/guides/grid_layout/box_alignment,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/grid_layout/common_grid_layouts,72304bf90ccd530ff9dc9e5ff12397b2600248ed
 web/css/guides/grid_layout/grid_lanes,b02c4fe0f8c485fa3fd0af10005310aaecef64ca
 web/css/guides/grid_layout/grid_template_areas,no_hash_commit

@@ -1967,7 +1967,7 @@ mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494
 mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff
 mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731
 mozilla/firefox/releases/156,ca2450d9c15ffa15965776dbf5d277eb5c3d0b3f
-mozilla/firefox/releases/157,c504268d235d82b3408e35d5ab6544af60719974
+mozilla/firefox/releases/157,c37fc5cbb2093f7fad32f196033332d168db217d
 mozilla/firefox/releases/158,79f0b295d759e9bb6e3c49197434a1d34c449731
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
@@ -11154,7 +11154,7 @@ web/css/reference/properties/ruby-overhang,071fd0613b1b5728d2d83845ea11512cb6150
 web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/rule-break,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6
 web/css/reference/properties/rule-color,5381238460a48ff323a93e652d15cb62598f0262
-web/css/reference/properties/rule-inset-cap,2c2390b77141b960cac32c1843dac4d907e9c6c2
+web/css/reference/properties/rule-inset-cap,16bd5315b5fa374b4fa37e3c8907614c987f4275
 web/css/reference/properties/rule-style,5381238460a48ff323a93e652d15cb62598f0262
 web/css/reference/properties/rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6
 web/css/reference/properties/rule-width,5381238460a48ff323a93e652d15cb62598f0262
