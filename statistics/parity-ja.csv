@@ -11909,7 +11909,7 @@ web/http/guides/browser_detection_using_the_user_agent,5
 web/http/guides/caching,5
 web/http/guides/client_hints,4
 web/http/guides/compression,1
-web/http/guides/compression_dictionary_transport,4
+web/http/guides/compression_dictionary_transport,5
 web/http/guides/conditional_requests,1
 web/http/guides/connection_management_in_http_1.x,2
 web/http/guides/content_negotiation,1
