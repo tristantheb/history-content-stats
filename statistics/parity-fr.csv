@@ -4918,7 +4918,7 @@ web/api/htmlelement/inputmode,0
 web/api/htmlelement/interest_event,0
 web/api/htmlelement/iscontenteditable,0
 web/api/htmlelement/lang,0
-web/api/htmlelement/load_event,0
+web/api/htmlelement/load_event,1
 web/api/htmlelement/loseinterest_event,0
 web/api/htmlelement/nonce,0
 web/api/htmlelement/offsetheight,0
@@ -7843,7 +7843,7 @@ web/api/serialport/writable,null
 web/api/server-sent_events,null
 web/api/server-sent_events/using_server-sent_events,null
 web/api/service_worker_api,0
-web/api/service_worker_api/using_service_workers,0
+web/api/service_worker_api/using_service_workers,1
 web/api/serviceworker,null
 web/api/serviceworker/error_event,null
 web/api/serviceworker/postmessage,null
@@ -9786,7 +9786,7 @@ web/api/wheelevent/deltax,null
 web/api/wheelevent/deltay,null
 web/api/wheelevent/deltaz,null
 web/api/wheelevent/wheelevent,null
-web/api/window,0
+web/api/window,1
 web/api/window/afterprint_event,0
 web/api/window/alert,0
 web/api/window/appinstalled_event,0
@@ -9795,7 +9795,7 @@ web/api/window/beforeinstallprompt_event,0
 web/api/window/beforeprint_event,0
 web/api/window/beforeunload_event,0
 web/api/window/blur,0
-web/api/window/blur_event,0
+web/api/window/blur_event,1
 web/api/window/btoa,0
 web/api/window/caches,0
 web/api/window/cancelanimationframe,0
@@ -9829,7 +9829,7 @@ web/api/window/fetch,0
 web/api/window/fetchlater,0
 web/api/window/find,0
 web/api/window/focus,0
-web/api/window/focus_event,0
+web/api/window/focus_event,1
 web/api/window/frameelement,0
 web/api/window/frames,0
 web/api/window/fullscreen,1

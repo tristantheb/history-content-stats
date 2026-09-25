@@ -1539,7 +1539,7 @@ mozilla/add-ons/webextensions/api/runtime/getmanifest,0
 mozilla/add-ons/webextensions/api/runtime/getpackagedirectoryentry,0
 mozilla/add-ons/webextensions/api/runtime/getplatforminfo,0
 mozilla/add-ons/webextensions/api/runtime/geturl,0
-mozilla/add-ons/webextensions/api/runtime/getversion,0
+mozilla/add-ons/webextensions/api/runtime/getversion,1
 mozilla/add-ons/webextensions/api/runtime/id,0
 mozilla/add-ons/webextensions/api/runtime/lasterror,0
 mozilla/add-ons/webextensions/api/runtime/messagesender,0
@@ -1812,7 +1812,7 @@ mozilla/add-ons/webextensions/background_scripts,0
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,0
 mozilla/add-ons/webextensions/build_a_cross_browser_extension,0
 mozilla/add-ons/webextensions/chrome_incompatibilities,0
-mozilla/add-ons/webextensions/content_scripts,0
+mozilla/add-ons/webextensions/content_scripts,1
 mozilla/add-ons/webextensions/content_scripts/cloneinto,0
 mozilla/add-ons/webextensions/content_scripts/exportfunction,0
 mozilla/add-ons/webextensions/content_security_policy,0
@@ -1970,7 +1970,7 @@ mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,0
 mozilla/firefox/releases/157,0
-mozilla/firefox/releases/158,0
+mozilla/firefox/releases/158,1
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -4918,7 +4918,7 @@ web/api/htmlelement/inputmode,0
 web/api/htmlelement/interest_event,0
 web/api/htmlelement/iscontenteditable,0
 web/api/htmlelement/lang,0
-web/api/htmlelement/load_event,0
+web/api/htmlelement/load_event,1
 web/api/htmlelement/loseinterest_event,0
 web/api/htmlelement/nonce,0
 web/api/htmlelement/offsetheight,0
@@ -7843,7 +7843,7 @@ web/api/serialport/writable,0
 web/api/server-sent_events,0
 web/api/server-sent_events/using_server-sent_events,0
 web/api/service_worker_api,0
-web/api/service_worker_api/using_service_workers,0
+web/api/service_worker_api/using_service_workers,1
 web/api/serviceworker,0
 web/api/serviceworker/error_event,0
 web/api/serviceworker/postmessage,0
@@ -9057,7 +9057,7 @@ web/api/usb,0
 web/api/usb/connect_event,0
 web/api/usb/disconnect_event,0
 web/api/usb/getdevices,0
-web/api/usb/requestdevice,0
+web/api/usb/requestdevice,1
 web/api/usbalternateinterface,0
 web/api/usbconfiguration,0
 web/api/usbconfiguration/configurationname,0
@@ -9716,7 +9716,7 @@ web/api/webtransport/closed,0
 web/api/webtransport/congestioncontrol,0
 web/api/webtransport/createbidirectionalstream,0
 web/api/webtransport/createsendgroup,0
-web/api/webtransport/createunidirectionalstream,0
+web/api/webtransport/createunidirectionalstream,1
 web/api/webtransport/datagrams,0
 web/api/webtransport/draining,0
 web/api/webtransport/exportkeyingmaterial,0
@@ -9727,7 +9727,7 @@ web/api/webtransport/protocol,0
 web/api/webtransport/ready,0
 web/api/webtransport/reliability,0
 web/api/webtransport/webtransport,0
-web/api/webtransport_api,0
+web/api/webtransport_api,1
 web/api/webtransportbidirectionalstream,0
 web/api/webtransportbidirectionalstream/readable,0
 web/api/webtransportbidirectionalstream/writable,0
@@ -9786,7 +9786,7 @@ web/api/wheelevent/deltax,0
 web/api/wheelevent/deltay,0
 web/api/wheelevent/deltaz,0
 web/api/wheelevent/wheelevent,0
-web/api/window,0
+web/api/window,1
 web/api/window/afterprint_event,0
 web/api/window/alert,0
 web/api/window/appinstalled_event,0
@@ -9795,7 +9795,7 @@ web/api/window/beforeinstallprompt_event,0
 web/api/window/beforeprint_event,0
 web/api/window/beforeunload_event,0
 web/api/window/blur,0
-web/api/window/blur_event,0
+web/api/window/blur_event,1
 web/api/window/btoa,0
 web/api/window/caches,0
 web/api/window/cancelanimationframe,0
@@ -9829,7 +9829,7 @@ web/api/window/fetch,0
 web/api/window/fetchlater,0
 web/api/window/find,0
 web/api/window/focus,0
-web/api/window/focus_event,0
+web/api/window/focus_event,1
 web/api/window/frameelement,0
 web/api/window/frames,0
 web/api/window/fullscreen,0

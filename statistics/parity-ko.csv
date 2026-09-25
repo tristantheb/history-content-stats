@@ -9786,7 +9786,7 @@ web/api/wheelevent/deltax,null
 web/api/wheelevent/deltay,null
 web/api/wheelevent/deltaz,null
 web/api/wheelevent/wheelevent,null
-web/api/window,77
+web/api/window,78
 web/api/window/afterprint_event,null
 web/api/window/alert,null
 web/api/window/appinstalled_event,null
@@ -9795,7 +9795,7 @@ web/api/window/beforeinstallprompt_event,null
 web/api/window/beforeprint_event,null
 web/api/window/beforeunload_event,17
 web/api/window/blur,null
-web/api/window/blur_event,5
+web/api/window/blur_event,6
 web/api/window/btoa,6
 web/api/window/caches,1
 web/api/window/cancelanimationframe,null
@@ -9829,7 +9829,7 @@ web/api/window/fetch,12
 web/api/window/fetchlater,null
 web/api/window/find,null
 web/api/window/focus,null
-web/api/window/focus_event,5
+web/api/window/focus_event,6
 web/api/window/frameelement,null
 web/api/window/frames,null
 web/api/window/fullscreen,null

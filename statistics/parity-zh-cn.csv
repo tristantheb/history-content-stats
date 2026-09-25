@@ -9829,7 +9829,7 @@ web/api/window/fetch,11
 web/api/window/fetchlater,null
 web/api/window/find,2
 web/api/window/focus,1
-web/api/window/focus_event,5
+web/api/window/focus_event,6
 web/api/window/frameelement,2
 web/api/window/frames,null
 web/api/window/fullscreen,null
