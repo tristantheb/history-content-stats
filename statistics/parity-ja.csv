@@ -11767,7 +11767,7 @@ web/html/reference/elements/input/date,1
 web/html/reference/elements/input/datetime-local,2
 web/html/reference/elements/input/email,2
 web/html/reference/elements/input/file,0
-web/html/reference/elements/input/hidden,3
+web/html/reference/elements/input/hidden,0
 web/html/reference/elements/input/image,0
 web/html/reference/elements/input/month,1
 web/html/reference/elements/input/number,2
@@ -11849,7 +11849,7 @@ web/html/reference/elements/sup,0
 web/html/reference/elements/table,0
 web/html/reference/elements/tbody,1
 web/html/reference/elements/td,1
-web/html/reference/elements/template,3
+web/html/reference/elements/template,0
 web/html/reference/elements/textarea,1
 web/html/reference/elements/tfoot,0
 web/html/reference/elements/th,1
