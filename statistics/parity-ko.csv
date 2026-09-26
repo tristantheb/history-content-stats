@@ -3622,7 +3622,7 @@ web/api/document/write,null
 web/api/document/writeln,null
 web/api/document/xmlencoding,null
 web/api/document/xmlversion,null
-web/api/document_object_model,6
+web/api/document_object_model,7
 web/api/document_object_model/anatomy_of_the_dom,null
 web/api/document_object_model/building_and_updating_the_dom_tree,null
 web/api/document_object_model/events,7
