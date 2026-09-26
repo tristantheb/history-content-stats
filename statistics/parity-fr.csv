@@ -1861,7 +1861,7 @@ mozilla/add-ons/webextensions/manifest.json/sandbox,null
 mozilla/add-ons/webextensions/manifest.json/short_name,null
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,null
 mozilla/add-ons/webextensions/manifest.json/storage,null
-mozilla/add-ons/webextensions/manifest.json/theme,null
+mozilla/add-ons/webextensions/manifest.json/theme,0
 mozilla/add-ons/webextensions/manifest.json/theme_experiment,null
 mozilla/add-ons/webextensions/manifest.json/user_scripts,null
 mozilla/add-ons/webextensions/manifest.json/version,null
@@ -3622,12 +3622,12 @@ web/api/document/write,0
 web/api/document/writeln,0
 web/api/document/xmlencoding,0
 web/api/document/xmlversion,0
-web/api/document_object_model,0
+web/api/document_object_model,1
 web/api/document_object_model/anatomy_of_the_dom,null
 web/api/document_object_model/building_and_updating_the_dom_tree,1
 web/api/document_object_model/events,1
 web/api/document_object_model/reflected_attributes,0
-web/api/document_object_model/selection_and_traversal_on_the_dom_tree,0
+web/api/document_object_model/selection_and_traversal_on_the_dom_tree,1
 web/api/document_picture-in-picture_api,null
 web/api/document_picture-in-picture_api/using,null
 web/api/documentfragment,null
@@ -13634,7 +13634,7 @@ web/mathml/reference/element/annotation,null
 web/mathml/reference/element/annotation-xml,null
 web/mathml/reference/element/maction,null
 web/mathml/reference/element/math,null
-web/mathml/reference/element/menclose,null
+web/mathml/reference/element/menclose,0
 web/mathml/reference/element/merror,null
 web/mathml/reference/element/mfenced,null
 web/mathml/reference/element/mfrac,null
