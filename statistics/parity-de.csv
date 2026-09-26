@@ -3622,12 +3622,12 @@ web/api/document/write,0
 web/api/document/writeln,0
 web/api/document/xmlencoding,0
 web/api/document/xmlversion,0
-web/api/document_object_model,1
+web/api/document_object_model,0
 web/api/document_object_model/anatomy_of_the_dom,0
 web/api/document_object_model/building_and_updating_the_dom_tree,0
 web/api/document_object_model/events,0
 web/api/document_object_model/reflected_attributes,0
-web/api/document_object_model/selection_and_traversal_on_the_dom_tree,1
+web/api/document_object_model/selection_and_traversal_on_the_dom_tree,0
 web/api/document_picture-in-picture_api,0
 web/api/document_picture-in-picture_api/using,0
 web/api/documentfragment,0
