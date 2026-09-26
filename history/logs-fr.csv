@@ -1561,7 +1561,7 @@ mozilla/add-ons/webextensions/manifest.json/protocol_handlers,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/short_name,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/storage,no_hash_commit
-mozilla/add-ons/webextensions/manifest.json/theme,no_hash_commit
+mozilla/add-ons/webextensions/manifest.json/theme,03cb7e674d176cbb03bef39afa55e23f9f193e5a
 mozilla/add-ons/webextensions/manifest.json/theme_experiment,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/user_scripts,no_hash_commit
 mozilla/add-ons/webextensions/manifest.json/version,no_hash_commit
@@ -7345,7 +7345,7 @@ web/mathml/reference/attribute,no_hash_commit
 web/mathml/reference/element,no_hash_commit
 web/mathml/reference/element/maction,no_hash_commit
 web/mathml/reference/element/math,no_hash_commit
-web/mathml/reference/element/menclose,no_hash_commit
+web/mathml/reference/element/menclose,d65519931193d5324b1751ea291824f465f4643f
 web/mathml/reference/element/merror,no_hash_commit
 web/mathml/reference/element/mfenced,no_hash_commit
 web/mathml/reference/element/mfrac,no_hash_commit
