@@ -8155,7 +8155,7 @@ web/html/reference/elements/input/date,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/input/datetime-local,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/input/email,bf5017c389132af39b50106cf1763fa7106e87b4
 web/html/reference/elements/input/file,6488b82388db9e593ec28be1d845688e29c679e1
-web/html/reference/elements/input/hidden,bf5017c389132af39b50106cf1763fa7106e87b4
+web/html/reference/elements/input/hidden,2066cc916dfdcbb782340bf0ce562b230e947cba
 web/html/reference/elements/input/image,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b
 web/html/reference/elements/input,6488b82388db9e593ec28be1d845688e29c679e1
 web/html/reference/elements/input/month,bf5017c389132af39b50106cf1763fa7106e87b4
@@ -8237,7 +8237,7 @@ web/html/reference/elements/sup,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/table,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/tbody,44a5fa2aace490e0114349d9d683675b2f5cacce
 web/html/reference/elements/td,599ae8b7ad414e91df473d91983f4ffc5cafabb3
-web/html/reference/elements/template,29e6ba9d844b835a1f00346ef1a78fa5d9e7c1a8
+web/html/reference/elements/template,a447d93f8c264d39c49e9f465ad780a81e92ed71
 web/html/reference/elements/textarea,f29e825161ee6776a395cd846f8570686f784341
 web/html/reference/elements/tfoot,44a5fa2aace490e0114349d9d683675b2f5cacce
 web/html/reference/elements/th,599ae8b7ad414e91df473d91983f4ffc5cafabb3
