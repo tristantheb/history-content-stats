@@ -10479,9 +10479,9 @@ web/css/guides/grid_layout/accessibility,0
 web/css/guides/grid_layout/auto-placement,0
 web/css/guides/grid_layout/basic_concepts,0
 web/css/guides/grid_layout/box_alignment,0
-web/css/guides/grid_layout/common_grid_layouts,3
-web/css/guides/grid_layout/grid_lanes,1
-web/css/guides/grid_layout/grid_template_areas,null
+web/css/guides/grid_layout/common_grid_layouts,0
+web/css/guides/grid_layout/grid_lanes,0
+web/css/guides/grid_layout/grid_template_areas,0
 web/css/guides/grid_layout/line-based_placement,null
 web/css/guides/grid_layout/logical_values_and_writing_modes,1
 web/css/guides/grid_layout/named_grid_lines,null
@@ -12285,7 +12285,7 @@ web/javascript/guide/closures,null
 web/javascript/guide/control_flow_and_error_handling,null
 web/javascript/guide/data_structures,null
 web/javascript/guide/enumerability_and_ownership_of_properties,null
-web/javascript/guide/equality_comparisons_and_sameness,1
+web/javascript/guide/equality_comparisons_and_sameness,2
 web/javascript/guide/expressions_and_operators,null
 web/javascript/guide/functions,null
 web/javascript/guide/grammar_and_types,null
