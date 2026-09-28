@@ -37,7 +37,7 @@ games/tools,1
 games/tools/asm.js,2
 games/tutorials,null
 games/tutorials/2d_breakout_game_phaser,null
-games/tutorials/2d_breakout_game_phaser/animations_and_tweens,null
+games/tutorials/2d_breakout_game_phaser/animations_and_tweens,0
 games/tutorials/2d_breakout_game_phaser/bounce_off_the_walls,0
 games/tutorials/2d_breakout_game_phaser/build_the_brick_field,null
 games/tutorials/2d_breakout_game_phaser/buttons,0
@@ -3839,7 +3839,7 @@ web/api/element/ariachecked,0
 web/api/element/ariacolcount,0
 web/api/element/ariacolindex,0
 web/api/element/ariacolindextext,1
-web/api/element/ariacolspan,null
+web/api/element/ariacolspan,0
 web/api/element/ariacontrolselements,null
 web/api/element/ariacurrent,0
 web/api/element/ariadescribedbyelements,0
@@ -3948,7 +3948,7 @@ web/api/element/input_event,null
 web/api/element/insertadjacentelement,4
 web/api/element/insertadjacenthtml,null
 web/api/element/insertadjacenttext,null
-web/api/element/keydown_event,null
+web/api/element/keydown_event,0
 web/api/element/keypress_event,0
 web/api/element/keyup_event,null
 web/api/element/lastelementchild,1
@@ -3995,7 +3995,7 @@ web/api/element/replacewith,null
 web/api/element/requestfullscreen,12
 web/api/element/requestpointerlock,2
 web/api/element/role,0
-web/api/element/scroll,null
+web/api/element/scroll,0
 web/api/element/scroll_event,null
 web/api/element/scrollby,0
 web/api/element/scrollend_event,0
@@ -4020,7 +4020,7 @@ web/api/element/sethtml,null
 web/api/element/sethtmlunsafe,null
 web/api/element/setpointercapture,null
 web/api/element/shadowroot,null
-web/api/element/slot,null
+web/api/element/slot,0
 web/api/element/startviewtransition,null
 web/api/element/tagname,null
 web/api/element/toggleattribute,1
@@ -5131,7 +5131,7 @@ web/api/htmllegendelement,1
 web/api/htmllegendelement/form,null
 web/api/htmllielement,null
 web/api/htmllielement/value,0
-web/api/htmllinkelement,4
+web/api/htmllinkelement,5
 web/api/htmllinkelement/as,1
 web/api/htmllinkelement/blocking,2
 web/api/htmllinkelement/crossorigin,0
@@ -5146,7 +5146,7 @@ web/api/htmllinkelement/media,1
 web/api/htmllinkelement/referrerpolicy,3
 web/api/htmllinkelement/rel,1
 web/api/htmllinkelement/rellist,2
-web/api/htmllinkelement/sheet,1
+web/api/htmllinkelement/sheet,2
 web/api/htmllinkelement/sizes,null
 web/api/htmllinkelement/type,0
 web/api/htmlmapelement,0
@@ -5889,7 +5889,7 @@ web/api/mathmlelement/style,null
 web/api/mathmlelement/tabindex,null
 web/api/media_capabilities_api,null
 web/api/media_capabilities_api/using_the_media_capabilities_api,null
-web/api/media_capture_and_streams_api,4
+web/api/media_capture_and_streams_api,5
 web/api/media_capture_and_streams_api/constraints,null
 web/api/media_capture_and_streams_api/taking_still_photos,null
 web/api/media_session_api,0
@@ -6125,26 +6125,6 @@ web/api/mediatracksettings/screenpixelratio,null
 web/api/mediatracksettings/suppresslocalaudioplayback,null
 web/api/mediatracksettings/volume,null
 web/api/mediatracksettings/width,null
-web/api/mediatracksupportedconstraints,null
-web/api/mediatracksupportedconstraints/aspectratio,null
-web/api/mediatracksupportedconstraints/autogaincontrol,null
-web/api/mediatracksupportedconstraints/channelcount,null
-web/api/mediatracksupportedconstraints/deviceid,null
-web/api/mediatracksupportedconstraints/displaysurface,null
-web/api/mediatracksupportedconstraints/echocancellation,null
-web/api/mediatracksupportedconstraints/facingmode,null
-web/api/mediatracksupportedconstraints/framerate,null
-web/api/mediatracksupportedconstraints/groupid,null
-web/api/mediatracksupportedconstraints/height,null
-web/api/mediatracksupportedconstraints/latency,null
-web/api/mediatracksupportedconstraints/logicalsurface,null
-web/api/mediatracksupportedconstraints/noisesuppression,null
-web/api/mediatracksupportedconstraints/restrictownaudio,null
-web/api/mediatracksupportedconstraints/samplerate,null
-web/api/mediatracksupportedconstraints/samplesize,null
-web/api/mediatracksupportedconstraints/suppresslocalaudioplayback,null
-web/api/mediatracksupportedconstraints/volume,null
-web/api/mediatracksupportedconstraints/width,null
 web/api/merchantvalidationevent,null
 web/api/merchantvalidationevent/complete,null
 web/api/merchantvalidationevent/merchantvalidationevent,null
@@ -7013,7 +6993,7 @@ web/api/processinginstruction/hasattributes,null
 web/api/processinginstruction/processinginstruction,null
 web/api/processinginstruction/removeattribute,null
 web/api/processinginstruction/setattribute,null
-web/api/processinginstruction/sheet,0
+web/api/processinginstruction/sheet,1
 web/api/processinginstruction/target,0
 web/api/processinginstruction/toggleattribute,null
 web/api/profiler,null
@@ -7224,7 +7204,7 @@ web/api/response/clone,null
 web/api/response/error_static,null
 web/api/response/formdata,2
 web/api/response/headers,null
-web/api/response/json,null
+web/api/response/json,0
 web/api/response/json_static,null
 web/api/response/ok,null
 web/api/response/redirect_static,null
