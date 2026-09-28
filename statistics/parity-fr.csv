@@ -10456,7 +10456,7 @@ web/css/guides/gaps,0
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,0
 web/css/guides/grid_layout/accessibility,0
-web/css/guides/grid_layout/auto-placement,0
+web/css/guides/grid_layout/auto-placement,1
 web/css/guides/grid_layout/basic_concepts,0
 web/css/guides/grid_layout/box_alignment,0
 web/css/guides/grid_layout/common_grid_layouts,0
