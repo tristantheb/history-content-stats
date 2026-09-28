@@ -1899,7 +1899,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,9
 mozilla/firefox,0
-mozilla/firefox/experimental_features,1
+mozilla/firefox/experimental_features,2
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -3819,7 +3819,7 @@ web/api/editcontext/updateselectionbounds,1
 web/api/editcontext/updatetext,2
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,1
+web/api/element,2
 web/api/element/activeviewtransition,null
 web/api/element/after,3
 web/api/element/afterscriptexecute_event,4
@@ -4786,7 +4786,7 @@ web/api/htmlanchorelement/rellist,3
 web/api/htmlanchorelement/search,4
 web/api/htmlanchorelement/target,2
 web/api/htmlanchorelement/text,0
-web/api/htmlanchorelement/tostring,0
+web/api/htmlanchorelement/tostring,1
 web/api/htmlanchorelement/type,0
 web/api/htmlanchorelement/username,2
 web/api/htmlareaelement,2
@@ -4810,7 +4810,7 @@ web/api/htmlareaelement/rellist,2
 web/api/htmlareaelement/search,0
 web/api/htmlareaelement/shape,0
 web/api/htmlareaelement/target,0
-web/api/htmlareaelement/tostring,0
+web/api/htmlareaelement/tostring,1
 web/api/htmlareaelement/username,1
 web/api/htmlaudioelement,3
 web/api/htmlaudioelement/audio,2
@@ -5844,7 +5844,7 @@ web/api/location/protocol,3
 web/api/location/reload,4
 web/api/location/replace,3
 web/api/location/search,3
-web/api/location/tostring,1
+web/api/location/tostring,2
 web/api/lock,4
 web/api/lock/mode,5
 web/api/lock/name,5
@@ -7005,7 +7005,7 @@ web/api/pressurerecord/tojson,null
 web/api/prioritized_task_scheduling_api,null
 web/api/private_state_token_api,null
 web/api/private_state_token_api/using,null
-web/api/processinginstruction,10
+web/api/processinginstruction,11
 web/api/processinginstruction/getattribute,null
 web/api/processinginstruction/getattributenames,null
 web/api/processinginstruction/hasattribute,null
@@ -9018,7 +9018,7 @@ web/api/url/revokeobjecturl_static,2
 web/api/url/search,3
 web/api/url/searchparams,5
 web/api/url/tojson,1
-web/api/url/tostring,2
+web/api/url/tostring,3
 web/api/url/url,4
 web/api/url/username,1
 web/api/url_api,5
@@ -12150,11 +12150,11 @@ web/http/reference/headers/sec-ch-ua-wow64,null
 web/http/reference/headers/sec-ch-viewport-height,null
 web/http/reference/headers/sec-ch-viewport-width,null
 web/http/reference/headers/sec-ch-width,null
-web/http/reference/headers/sec-fetch-dest,3
-web/http/reference/headers/sec-fetch-mode,1
-web/http/reference/headers/sec-fetch-site,1
+web/http/reference/headers/sec-fetch-dest,4
+web/http/reference/headers/sec-fetch-mode,2
+web/http/reference/headers/sec-fetch-site,2
 web/http/reference/headers/sec-fetch-storage-access,null
-web/http/reference/headers/sec-fetch-user,1
+web/http/reference/headers/sec-fetch-user,2
 web/http/reference/headers/sec-gpc,null
 web/http/reference/headers/sec-private-state-token,null
 web/http/reference/headers/sec-private-state-token-crypto-version,null

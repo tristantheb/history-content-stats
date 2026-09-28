@@ -3819,7 +3819,7 @@ web/api/editcontext/updateselectionbounds,null
 web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,14
+web/api/element,15
 web/api/element/activeviewtransition,0
 web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
@@ -4422,7 +4422,7 @@ web/api/gamepadbutton/value,null
 web/api/gamepadevent,null
 web/api/gamepadevent/gamepad,null
 web/api/gamepadevent/gamepadevent,null
-web/api/gamepadhapticactuator,5
+web/api/gamepadhapticactuator,6
 web/api/gamepadhapticactuator/effects,null
 web/api/gamepadhapticactuator/playeffect,3
 web/api/gamepadhapticactuator/pulse,2
@@ -4786,7 +4786,7 @@ web/api/htmlanchorelement/rellist,2
 web/api/htmlanchorelement/search,3
 web/api/htmlanchorelement/target,2
 web/api/htmlanchorelement/text,0
-web/api/htmlanchorelement/tostring,0
+web/api/htmlanchorelement/tostring,1
 web/api/htmlanchorelement/type,0
 web/api/htmlanchorelement/username,2
 web/api/htmlareaelement,null
@@ -5844,7 +5844,7 @@ web/api/location/protocol,null
 web/api/location/reload,0
 web/api/location/replace,null
 web/api/location/search,null
-web/api/location/tostring,0
+web/api/location/tostring,1
 web/api/lock,1
 web/api/lock/mode,1
 web/api/lock/name,1
@@ -7005,7 +7005,7 @@ web/api/pressurerecord/tojson,null
 web/api/prioritized_task_scheduling_api,null
 web/api/private_state_token_api,null
 web/api/private_state_token_api/using,null
-web/api/processinginstruction,9
+web/api/processinginstruction,10
 web/api/processinginstruction/getattribute,null
 web/api/processinginstruction/getattributenames,null
 web/api/processinginstruction/hasattribute,null
@@ -9018,7 +9018,7 @@ web/api/url/revokeobjecturl_static,2
 web/api/url/search,2
 web/api/url/searchparams,3
 web/api/url/tojson,0
-web/api/url/tostring,0
+web/api/url/tostring,1
 web/api/url/url,null
 web/api/url/username,1
 web/api/url_api,6
@@ -11937,7 +11937,7 @@ web/http/guides/csp,0
 web/http/guides/csp/errors,null
 web/http/guides/csp/errors/cspviolation,null
 web/http/guides/evolution_of_http,null
-web/http/guides/fetch_metadata,0
+web/http/guides/fetch_metadata,1
 web/http/guides/iframe_credentialless,null
 web/http/guides/messages,null
 web/http/guides/mime_types,null

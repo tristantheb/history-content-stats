@@ -1899,7 +1899,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,5
 mozilla/firefox,0
-mozilla/firefox/experimental_features,4
+mozilla/firefox/experimental_features,5
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -3819,7 +3819,7 @@ web/api/editcontext/updateselectionbounds,null
 web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,1
+web/api/element,2
 web/api/element/activeviewtransition,0
 web/api/element/after,0
 web/api/element/afterscriptexecute_event,0
@@ -4786,7 +4786,7 @@ web/api/htmlanchorelement/rellist,0
 web/api/htmlanchorelement/search,1
 web/api/htmlanchorelement/target,1
 web/api/htmlanchorelement/text,0
-web/api/htmlanchorelement/tostring,0
+web/api/htmlanchorelement/tostring,1
 web/api/htmlanchorelement/type,0
 web/api/htmlanchorelement/username,1
 web/api/htmlareaelement,0
@@ -4810,7 +4810,7 @@ web/api/htmlareaelement/rellist,0
 web/api/htmlareaelement/search,0
 web/api/htmlareaelement/shape,0
 web/api/htmlareaelement/target,0
-web/api/htmlareaelement/tostring,0
+web/api/htmlareaelement/tostring,1
 web/api/htmlareaelement/username,1
 web/api/htmlaudioelement,0
 web/api/htmlaudioelement/audio,0
@@ -10482,8 +10482,8 @@ web/css/guides/grid_layout/box_alignment,0
 web/css/guides/grid_layout/common_grid_layouts,0
 web/css/guides/grid_layout/grid_lanes,0
 web/css/guides/grid_layout/grid_template_areas,0
-web/css/guides/grid_layout/line-based_placement,null
-web/css/guides/grid_layout/logical_values_and_writing_modes,1
+web/css/guides/grid_layout/line-based_placement,0
+web/css/guides/grid_layout/logical_values_and_writing_modes,0
 web/css/guides/grid_layout/named_grid_lines,null
 web/css/guides/grid_layout/relationship_with_other_layout_methods,null
 web/css/guides/grid_layout/subgrid,null
