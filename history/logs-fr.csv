@@ -4445,9 +4445,9 @@ web/css/guides/grid_layout/grid_template_areas,32bdfdb82cf91ce9942b694286dec62be
 web/css/guides/grid_layout,298079b550c76f20de6611c4ecdde4c30dc68b2b
 web/css/guides/grid_layout/line-based_placement,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/grid_layout/logical_values_and_writing_modes,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/guides/grid_layout/named_grid_lines,no_hash_commit
-web/css/guides/grid_layout/relationship_with_other_layout_methods,no_hash_commit
-web/css/guides/grid_layout/subgrid,no_hash_commit
+web/css/guides/grid_layout/named_grid_lines,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/guides/grid_layout/relationship_with_other_layout_methods,98066c71788a31f0f8726f5bf3d4a2acf4a6ff88
+web/css/guides/grid_layout/subgrid,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/images/implementing_image_sprites,no_hash_commit
 web/css/guides/images,no_hash_commit
 web/css/guides/images/replaced_element_properties,no_hash_commit

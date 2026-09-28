@@ -3733,7 +3733,7 @@ web/api/dompointreadonly/w,0
 web/api/dompointreadonly/x,0
 web/api/dompointreadonly/y,0
 web/api/dompointreadonly/z,0
-web/api/domquad,2
+web/api/domquad,3
 web/api/domquad/domquad,null
 web/api/domquad/fromquad_static,null
 web/api/domquad/fromrect_static,null
@@ -5801,7 +5801,7 @@ web/api/languagemodel/destroy,null
 web/api/languagemodel/measurecontextusage,null
 web/api/languagemodel/prompt,null
 web/api/languagemodel/promptstreaming,null
-web/api/largestcontentfulpaint,4
+web/api/largestcontentfulpaint,5
 web/api/largestcontentfulpaint/element,null
 web/api/largestcontentfulpaint/id,null
 web/api/largestcontentfulpaint/loadtime,null
@@ -6391,7 +6391,7 @@ web/api/navigator/windowcontrolsoverlay,3
 web/api/navigator/xr,1
 web/api/navigatorlogin,null
 web/api/navigatorlogin/setstatus,null
-web/api/navigatoruadata,1
+web/api/navigatoruadata,2
 web/api/navigatoruadata/brands,0
 web/api/navigatoruadata/gethighentropyvalues,0
 web/api/navigatoruadata/mobile,0
@@ -6751,7 +6751,7 @@ web/api/performancelonganimationframetiming/renderstart,null
 web/api/performancelonganimationframetiming/scripts,null
 web/api/performancelonganimationframetiming/styleandlayoutstart,null
 web/api/performancelonganimationframetiming/tojson,null
-web/api/performancelongtasktiming,0
+web/api/performancelongtasktiming,1
 web/api/performancelongtasktiming/attribution,null
 web/api/performancelongtasktiming/tojson,null
 web/api/performancemark,null
@@ -6793,7 +6793,7 @@ web/api/performancepainttiming,null
 web/api/performancepainttiming/painttime,null
 web/api/performancepainttiming/presentationtime,null
 web/api/performancepainttiming/tojson,null
-web/api/performanceresourcetiming,7
+web/api/performanceresourcetiming,8
 web/api/performanceresourcetiming/connectend,null
 web/api/performanceresourcetiming/connectstart,null
 web/api/performanceresourcetiming/contentencoding,null
@@ -7325,7 +7325,7 @@ web/api/rtcerror/sentalert,null
 web/api/rtcerrorevent,null
 web/api/rtcerrorevent/error,null
 web/api/rtcerrorevent/rtcerrorevent,null
-web/api/rtcicecandidate,4
+web/api/rtcicecandidate,5
 web/api/rtcicecandidate/address,2
 web/api/rtcicecandidate/candidate,2
 web/api/rtcicecandidate/component,null

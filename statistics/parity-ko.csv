@@ -4444,7 +4444,7 @@ web/api/geolocation/getcurrentposition,null
 web/api/geolocation/watchposition,null
 web/api/geolocation_api,10
 web/api/geolocation_api/using_the_geolocation_api,6
-web/api/geolocationcoordinates,8
+web/api/geolocationcoordinates,9
 web/api/geolocationcoordinates/accuracy,1
 web/api/geolocationcoordinates/altitude,1
 web/api/geolocationcoordinates/altitudeaccuracy,1
@@ -7052,7 +7052,7 @@ web/api/pushmessagedata/blob,null
 web/api/pushmessagedata/bytes,null
 web/api/pushmessagedata/json,null
 web/api/pushmessagedata/text,null
-web/api/pushsubscription,4
+web/api/pushsubscription,5
 web/api/pushsubscription/endpoint,null
 web/api/pushsubscription/expirationtime,null
 web/api/pushsubscription/getkey,2
