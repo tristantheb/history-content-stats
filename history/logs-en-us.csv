@@ -1899,7 +1899,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,0af4dd8fa2007f51373931068e6f524e4f2bf86a,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,c504268d235d82b3408e35d5ab6544af60719974,Mozilla|Firefox
+mozilla/firefox/experimental_features,0f9ddc51f2298275e5399e750e84cfea180091e2,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494,Mozilla|Fi
 mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff,Mozilla|Firefox|Versions
 mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
 mozilla/firefox/releases/156,ca2450d9c15ffa15965776dbf5d277eb5c3d0b3f,Mozilla|Firefox|Versions
-mozilla/firefox/releases/157,c37fc5cbb2093f7fad32f196033332d168db217d,Mozilla|Firefox|Versions
+mozilla/firefox/releases/157,7ff2a2b2103ab1230eb4382f97deddc3917efff0,Mozilla|Firefox|Versions
 mozilla/firefox/releases/158,6667e73bf698511ffd956b8a9eafc8ea7c6adb46,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -3819,7 +3819,7 @@ web/api/editcontext/updateselectionbounds,ffff697fbd3004c3da50323ef4d868b3ad47e4
 web/api/editcontext/updatetext,ffff697fbd3004c3da50323ef4d868b3ad47e4d0,Web APIs
 web/api/editcontext_api,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/editcontext_api/guide,886f2641ae90a70858c5e7d0d20959c70ee44d9d,Web APIs
-web/api/element,868de6e278b0e5c635cea5ee4bb06d35fbc3e11b,Web APIs
+web/api/element,50269fbebe683be12c76678bf11d03126c7610a4,Web APIs
 web/api/element/activeviewtransition,361dd9caf4ac5db8a73cc33e4d8ee43fa2e35fcc,Web APIs
 web/api/element/after,8374946642c18a9cc4bf510de767011124e832a2,Web APIs
 web/api/element/afterscriptexecute_event,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -4422,7 +4422,7 @@ web/api/gamepadbutton/value,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/gamepadevent,3020adac456187cf18edeb20613482fb73b38c1e,Web APIs
 web/api/gamepadevent/gamepad,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/gamepadevent/gamepadevent,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
-web/api/gamepadhapticactuator,3020adac456187cf18edeb20613482fb73b38c1e,Web APIs
+web/api/gamepadhapticactuator,06a96ca44a86fef907996bb01ecf72cc0f1a36d0,Web APIs
 web/api/gamepadhapticactuator/effects,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c,Web APIs
 web/api/gamepadhapticactuator/playeffect,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/gamepadhapticactuator/pulse,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c,Web APIs
@@ -4786,7 +4786,7 @@ web/api/htmlanchorelement/rellist,c053b4b3bb0f34736e9f4402d4254830670af723,Web A
 web/api/htmlanchorelement/search,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
 web/api/htmlanchorelement/target,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
 web/api/htmlanchorelement/text,5d670c42df8ede57e3d6341cb15d8251eb188dc4,Web APIs
-web/api/htmlanchorelement/tostring,b829b2fae917b5b931011ddeb6a0d1b2d2b81c54,Web APIs
+web/api/htmlanchorelement/tostring,06a96ca44a86fef907996bb01ecf72cc0f1a36d0,Web APIs
 web/api/htmlanchorelement/type,10346c8cf5dfe6e030bd1cdc32f04461afaa8c64,Web APIs
 web/api/htmlanchorelement/username,e02a864c445ce44efe815d921ab8fcc46fbfd4c5,Web APIs
 web/api/htmlareaelement,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,Web APIs
@@ -4810,7 +4810,7 @@ web/api/htmlareaelement/rellist,c053b4b3bb0f34736e9f4402d4254830670af723,Web API
 web/api/htmlareaelement/search,1eabc08d295e60d7d8eab6bce858d2fb0833be2b,Web APIs
 web/api/htmlareaelement/shape,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlareaelement/target,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
-web/api/htmlareaelement/tostring,b829b2fae917b5b931011ddeb6a0d1b2d2b81c54,Web APIs
+web/api/htmlareaelement/tostring,06a96ca44a86fef907996bb01ecf72cc0f1a36d0,Web APIs
 web/api/htmlareaelement/username,e02a864c445ce44efe815d921ab8fcc46fbfd4c5,Web APIs
 web/api/htmlaudioelement,be1922d62a0d31e4e3441db0e943aed8df736481,Web APIs
 web/api/htmlaudioelement/audio,ce85e3fb7865330e4ac2a6dad25db5cf5d27ea74,Web APIs
@@ -5844,7 +5844,7 @@ web/api/location/protocol,82acf2a065dc00a1bd0cbf5e73de696e1bedee91,Web APIs
 web/api/location/reload,c7d112ad5dc6f88a05cfc96e6d5dca36ec0250a7,Web APIs
 web/api/location/replace,2e40017af745c716c510927deabcbe559be638d2,Web APIs
 web/api/location/search,1eabc08d295e60d7d8eab6bce858d2fb0833be2b,Web APIs
-web/api/location/tostring,1238ffad886924b20549d0cf3adca735cb0d074f,Web APIs
+web/api/location/tostring,06a96ca44a86fef907996bb01ecf72cc0f1a36d0,Web APIs
 web/api/lock,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/lock/mode,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/lock/name,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
@@ -5942,7 +5942,7 @@ web/api/mediakeysession/message_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,W
 web/api/mediakeysession/remove,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f,Web APIs
 web/api/mediakeysession/sessionid,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f,Web APIs
 web/api/mediakeysession/update,bc7e82aa6db60568d7146ee285918550bbe4b8ce,Web APIs
-web/api/mediakeystatusmap,73b2b6ee411ac094b9fc57dafac6f9c232fc20d9,Web APIs
+web/api/mediakeystatusmap,06a96ca44a86fef907996bb01ecf72cc0f1a36d0,Web APIs
 web/api/mediakeystatusmap/entries,d666d5ed812b56cbc9c6cba853494976da1f1dd2,Web APIs
 web/api/mediakeystatusmap/foreach,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/mediakeystatusmap/get,b01f35e069ca9d1c343f24b5d755d210c6107164,Web APIs
@@ -7005,7 +7005,7 @@ web/api/pressurerecord/tojson,e1d2d6a3880d47638de6b5a54b58df92826ec58e,Web APIs
 web/api/prioritized_task_scheduling_api,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Web APIs
 web/api/private_state_token_api,f6e66d18205c93fcaeb2ea9ad51541b5b4d7d2b1,Web APIs
 web/api/private_state_token_api/using,f37e438c6dece2b381d2b9f35dc53af21a916a75,Web APIs
-web/api/processinginstruction,96c0e251ee3d12f373fa1c4b3370a14b3a726db6,Web APIs
+web/api/processinginstruction,06a96ca44a86fef907996bb01ecf72cc0f1a36d0,Web APIs
 web/api/processinginstruction/getattribute,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
 web/api/processinginstruction/getattributenames,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
 web/api/processinginstruction/hasattribute,e316526e520d8163e9151dca8973eb777b5285e0,Web APIs
@@ -9018,7 +9018,7 @@ web/api/url/revokeobjecturl_static,879e68dbfa6b0275c66988a0d92ae5f2c0103958,Web 
 web/api/url/search,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
 web/api/url/searchparams,1eabc08d295e60d7d8eab6bce858d2fb0833be2b,Web APIs
 web/api/url/tojson,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
-web/api/url/tostring,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
+web/api/url/tostring,06a96ca44a86fef907996bb01ecf72cc0f1a36d0,Web APIs
 web/api/url/url,6ef7bc04d63cf8b512bdbea149a6cb875cc063e3,Web APIs
 web/api/url/username,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
 web/api/url_api,11c356e4d1021b204c0d3e4bc41a571877215367,Web APIs
@@ -10319,7 +10319,7 @@ web/api/xrtransientinputhittestresult/inputsource,89c435da452257b944b403cc9e4503
 web/api/xrtransientinputhittestresult/results,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrtransientinputhittestsource,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web APIs
 web/api/xrtransientinputhittestsource/cancel,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
-web/api/xrview,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
+web/api/xrview,06a96ca44a86fef907996bb01ecf72cc0f1a36d0,Web APIs
 web/api/xrview/eye,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrview/index,8330e7c1afd31d53ae12c3271e96d681bba9e223,Web APIs
 web/api/xrview/isfirstpersonobserver,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
@@ -11937,7 +11937,7 @@ web/http/guides/csp,6720d579bd658f02c56363805e97e69f93dc79f1,HTTP|Guides
 web/http/guides/csp/errors,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,HTTP|Guides
 web/http/guides/csp/errors/cspviolation,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/evolution_of_http,f9a9e52d36680ee55fb9f3f1dfc41ca3cdce046f,HTTP|Guides
-web/http/guides/fetch_metadata,f648561b1db8502f28a9d3664175c2000cbe9ea7,HTTP|Guides
+web/http/guides/fetch_metadata,7e4e8954972d77196e4beedca4a3f8610da34dc9,HTTP|Guides
 web/http/guides/iframe_credentialless,11a5944cd0a3bf015b2ee9c7ee4c55025dd878ca,HTTP|Guides
 web/http/guides/messages,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,HTTP|Guides
 web/http/guides/mime_types,1e333526315c95488d86013289a114f0f75f9f5f,HTTP|Guides
@@ -12150,11 +12150,11 @@ web/http/reference/headers/sec-ch-ua-wow64,ad5b5e31f81795d692e66dadb7818ba8b220a
 web/http/reference/headers/sec-ch-viewport-height,423161782178b119c64cd0b41bff8df20dc84a56,HTTP|Headers
 web/http/reference/headers/sec-ch-viewport-width,423161782178b119c64cd0b41bff8df20dc84a56,HTTP|Headers
 web/http/reference/headers/sec-ch-width,f8ef875113a7d3e9952f41de68be1e3a3a1e6988,HTTP|Headers
-web/http/reference/headers/sec-fetch-dest,6aefc4cf3fcf5b340d5090f207e3a1a8a66c566f,HTTP|Headers
-web/http/reference/headers/sec-fetch-mode,81bf621759d3a52fdf737c2d75f186a0073d1406,HTTP|Headers
-web/http/reference/headers/sec-fetch-site,81bf621759d3a52fdf737c2d75f186a0073d1406,HTTP|Headers
+web/http/reference/headers/sec-fetch-dest,7e4e8954972d77196e4beedca4a3f8610da34dc9,HTTP|Headers
+web/http/reference/headers/sec-fetch-mode,7e4e8954972d77196e4beedca4a3f8610da34dc9,HTTP|Headers
+web/http/reference/headers/sec-fetch-site,7e4e8954972d77196e4beedca4a3f8610da34dc9,HTTP|Headers
 web/http/reference/headers/sec-fetch-storage-access,e936e7271df947f25184a5ba8a21445bbd4d056c,HTTP|Headers
-web/http/reference/headers/sec-fetch-user,81bf621759d3a52fdf737c2d75f186a0073d1406,HTTP|Headers
+web/http/reference/headers/sec-fetch-user,7e4e8954972d77196e4beedca4a3f8610da34dc9,HTTP|Headers
 web/http/reference/headers/sec-gpc,513146a616213fee548fdcf72dc1359030eb3395,HTTP|Headers
 web/http/reference/headers/sec-private-state-token,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678,HTTP|Headers
 web/http/reference/headers/sec-private-state-token-crypto-version,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678,HTTP|Headers
@@ -12215,7 +12215,7 @@ web/http/reference/methods/options,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP
 web/http/reference/methods/patch,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Methods
 web/http/reference/methods/post,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Methods
 web/http/reference/methods/put,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Methods
-web/http/reference/methods/query,346e46c6e10334bf60df2a0a4ef58ebea4c80a4e,HTTP|Methods
+web/http/reference/methods/query,2a973f388561148f5a8001e572dac8143c5a5914,HTTP|Methods
 web/http/reference/methods/trace,13ef67a4ffbdb929415dfa1b3d65ab1aa9ebe5da,HTTP|Methods
 web/http/reference/resources_and_specifications,f0311fa176576faf8be270e23eaf25b725740d87,HTTP
 web/http/reference/status,a4c63d2855b2f557e7d1ee821dee65011d569a41,HTTP|Status
