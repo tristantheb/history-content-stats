@@ -2975,7 +2975,7 @@ web/api/constantsourcenode,2
 web/api/constantsourcenode/constantsourcenode,3
 web/api/constantsourcenode/offset,2
 web/api/contact_picker_api,7
-web/api/contactaddress,6
+web/api/contactaddress,7
 web/api/contactaddress/addressline,null
 web/api/contactaddress/city,null
 web/api/contactaddress/country,null
@@ -3690,7 +3690,7 @@ web/api/dommatrix/setmatrixvalue,0
 web/api/dommatrix/skewxself,0
 web/api/dommatrix/skewyself,0
 web/api/dommatrix/translateself,0
-web/api/dommatrixreadonly,1
+web/api/dommatrixreadonly,2
 web/api/dommatrixreadonly/dommatrixreadonly,0
 web/api/dommatrixreadonly/flipx,0
 web/api/dommatrixreadonly/flipy,0
@@ -3724,7 +3724,7 @@ web/api/dompoint/w,1
 web/api/dompoint/x,2
 web/api/dompoint/y,3
 web/api/dompoint/z,2
-web/api/dompointreadonly,2
+web/api/dompointreadonly,3
 web/api/dompointreadonly/dompointreadonly,2
 web/api/dompointreadonly/frompoint_static,null
 web/api/dompointreadonly/matrixtransform,null
@@ -3733,7 +3733,7 @@ web/api/dompointreadonly/w,1
 web/api/dompointreadonly/x,2
 web/api/dompointreadonly/y,4
 web/api/dompointreadonly/z,2
-web/api/domquad,5
+web/api/domquad,6
 web/api/domquad/domquad,null
 web/api/domquad/fromquad_static,null
 web/api/domquad/fromrect_static,null
@@ -3753,7 +3753,7 @@ web/api/domrect/y,0
 web/api/domrectlist,1
 web/api/domrectlist/item,0
 web/api/domrectlist/length,1
-web/api/domrectreadonly,0
+web/api/domrectreadonly,1
 web/api/domrectreadonly/bottom,0
 web/api/domrectreadonly/domrectreadonly,0
 web/api/domrectreadonly/fromrect_static,0
@@ -4444,7 +4444,7 @@ web/api/geolocation/getcurrentposition,1
 web/api/geolocation/watchposition,0
 web/api/geolocation_api,2
 web/api/geolocation_api/using_the_geolocation_api,0
-web/api/geolocationcoordinates,0
+web/api/geolocationcoordinates,1
 web/api/geolocationcoordinates/accuracy,0
 web/api/geolocationcoordinates/altitude,1
 web/api/geolocationcoordinates/altitudeaccuracy,0
@@ -4453,7 +4453,7 @@ web/api/geolocationcoordinates/latitude,0
 web/api/geolocationcoordinates/longitude,0
 web/api/geolocationcoordinates/speed,0
 web/api/geolocationcoordinates/tojson,0
-web/api/geolocationposition,0
+web/api/geolocationposition,1
 web/api/geolocationposition/coords,0
 web/api/geolocationposition/timestamp,0
 web/api/geolocationposition/tojson,0
@@ -5801,7 +5801,7 @@ web/api/languagemodel/destroy,null
 web/api/languagemodel/measurecontextusage,null
 web/api/languagemodel/prompt,null
 web/api/languagemodel/promptstreaming,null
-web/api/largestcontentfulpaint,2
+web/api/largestcontentfulpaint,3
 web/api/largestcontentfulpaint/element,0
 web/api/largestcontentfulpaint/id,0
 web/api/largestcontentfulpaint/loadtime,0
@@ -5900,7 +5900,7 @@ web/api/media_source_extensions_api/transcoding_assets_for_mse,4
 web/api/mediacapabilities,1
 web/api/mediacapabilities/decodinginfo,12
 web/api/mediacapabilities/encodinginfo,7
-web/api/mediadeviceinfo,2
+web/api/mediadeviceinfo,3
 web/api/mediadeviceinfo/deviceid,1
 web/api/mediadeviceinfo/groupid,4
 web/api/mediadeviceinfo/kind,1
@@ -6391,7 +6391,7 @@ web/api/navigator/windowcontrolsoverlay,3
 web/api/navigator/xr,0
 web/api/navigatorlogin,null
 web/api/navigatorlogin/setstatus,null
-web/api/navigatoruadata,1
+web/api/navigatoruadata,2
 web/api/navigatoruadata/brands,1
 web/api/navigatoruadata/gethighentropyvalues,5
 web/api/navigatoruadata/mobile,1
@@ -6624,7 +6624,7 @@ web/api/payment_request_api,9
 web/api/payment_request_api/concepts,9
 web/api/payment_request_api/using_secure_payment_confirmation,null
 web/api/payment_request_api/using_the_payment_request_api,12
-web/api/paymentaddress,1
+web/api/paymentaddress,2
 web/api/paymentaddress/addressline,null
 web/api/paymentaddress/city,null
 web/api/paymentaddress/country,null
@@ -6686,7 +6686,7 @@ web/api/paymentresponse/shippingaddress,null
 web/api/paymentresponse/shippingoption,null
 web/api/paymentresponse/tojson,null
 web/api/pbkdf2params,0
-web/api/performance,7
+web/api/performance,8
 web/api/performance/clearmarks,2
 web/api/performance/clearmeasures,2
 web/api/performance/clearresourcetimings,2
@@ -6715,7 +6715,7 @@ web/api/performance_api/performance_data,0
 web/api/performance_api/resource_timing,2
 web/api/performance_api/server_timing,null
 web/api/performance_api/user_timing,1
-web/api/performanceelementtiming,6
+web/api/performanceelementtiming,7
 web/api/performanceelementtiming/element,1
 web/api/performanceelementtiming/id,2
 web/api/performanceelementtiming/identifier,1
@@ -6728,14 +6728,14 @@ web/api/performanceelementtiming/presentationtime,null
 web/api/performanceelementtiming/rendertime,5
 web/api/performanceelementtiming/tojson,0
 web/api/performanceelementtiming/url,1
-web/api/performanceentry,5
+web/api/performanceentry,6
 web/api/performanceentry/duration,1
 web/api/performanceentry/entrytype,5
 web/api/performanceentry/name,4
 web/api/performanceentry/navigationid,null
 web/api/performanceentry/starttime,5
 web/api/performanceentry/tojson,1
-web/api/performanceeventtiming,1
+web/api/performanceeventtiming,2
 web/api/performanceeventtiming/cancelable,0
 web/api/performanceeventtiming/interactionid,3
 web/api/performanceeventtiming/processingend,0
@@ -6759,11 +6759,11 @@ web/api/performancemark/detail,1
 web/api/performancemark/performancemark,2
 web/api/performancemeasure,3
 web/api/performancemeasure/detail,1
-web/api/performancenavigation,7
+web/api/performancenavigation,8
 web/api/performancenavigation/redirectcount,5
 web/api/performancenavigation/tojson,null
 web/api/performancenavigation/type,7
-web/api/performancenavigationtiming,2
+web/api/performancenavigationtiming,3
 web/api/performancenavigationtiming/activationstart,0
 web/api/performancenavigationtiming/confidence,null
 web/api/performancenavigationtiming/criticalchrestart,null
@@ -6789,11 +6789,11 @@ web/api/performanceobserverentrylist,1
 web/api/performanceobserverentrylist/getentries,2
 web/api/performanceobserverentrylist/getentriesbyname,1
 web/api/performanceobserverentrylist/getentriesbytype,1
-web/api/performancepainttiming,6
+web/api/performancepainttiming,7
 web/api/performancepainttiming/painttime,null
 web/api/performancepainttiming/presentationtime,null
 web/api/performancepainttiming/tojson,null
-web/api/performanceresourcetiming,3
+web/api/performanceresourcetiming,4
 web/api/performanceresourcetiming/connectend,3
 web/api/performanceresourcetiming/connectstart,3
 web/api/performanceresourcetiming/contentencoding,null
@@ -7015,7 +7015,7 @@ web/api/prompt_api/adding_context,null
 web/api/prompt_api/multimodal,null
 web/api/prompt_api/preserving_sessions,null
 web/api/prompt_api/using,null
-web/api/publickeycredential,0
+web/api/publickeycredential,1
 web/api/publickeycredential/authenticatorattachment,0
 web/api/publickeycredential/getclientcapabilities_static,0
 web/api/publickeycredential/getclientextensionresults,0
@@ -7052,7 +7052,7 @@ web/api/pushmessagedata/blob,2
 web/api/pushmessagedata/bytes,null
 web/api/pushmessagedata/json,2
 web/api/pushmessagedata/text,2
-web/api/pushsubscription,4
+web/api/pushsubscription,5
 web/api/pushsubscription/endpoint,2
 web/api/pushsubscription/expirationtime,3
 web/api/pushsubscription/getkey,5
@@ -7634,7 +7634,7 @@ web/api/rtcsctptransport/maxmessagesize,null
 web/api/rtcsctptransport/state,null
 web/api/rtcsctptransport/statechange_event,null
 web/api/rtcsctptransport/transport,null
-web/api/rtcsessiondescription,2
+web/api/rtcsessiondescription,3
 web/api/rtcsessiondescription/rtcsessiondescription,null
 web/api/rtcsessiondescription/sdp,null
 web/api/rtcsessiondescription/tojson,null
@@ -8753,7 +8753,7 @@ web/api/syncevent/tag,null
 web/api/syncmanager,null
 web/api/syncmanager/gettags,0
 web/api/syncmanager/register,0
-web/api/taskattributiontiming,0
+web/api/taskattributiontiming,1
 web/api/taskattributiontiming/containerid,2
 web/api/taskattributiontiming/containername,4
 web/api/taskattributiontiming/containersrc,4
@@ -8948,13 +8948,13 @@ web/api/treewalker/previoussibling,0
 web/api/treewalker/root,0
 web/api/treewalker/whattoshow,0
 web/api/trusted_types_api,1
-web/api/trustedhtml,0
+web/api/trustedhtml,1
 web/api/trustedhtml/tojson,0
 web/api/trustedhtml/tostring,0
-web/api/trustedscript,0
+web/api/trustedscript,1
 web/api/trustedscript/tojson,0
 web/api/trustedscript/tostring,0
-web/api/trustedscripturl,0
+web/api/trustedscripturl,1
 web/api/trustedscripturl/tojson,1
 web/api/trustedscripturl/tostring,1
 web/api/trustedtypepolicy,0
@@ -8982,7 +8982,7 @@ web/api/uievent/sourcecapabilities,1
 web/api/uievent/uievent,2
 web/api/uievent/view,0
 web/api/uievent/which,3
-web/api/url,3
+web/api/url,4
 web/api/url/canparse_static,3
 web/api/url/createobjecturl_static,1
 web/api/url/hash,4
@@ -9107,7 +9107,7 @@ web/api/validitystate/typemismatch,7
 web/api/validitystate/valid,null
 web/api/validitystate/valuemissing,7
 web/api/vibration_api,0
-web/api/videocolorspace,0
+web/api/videocolorspace,1
 web/api/videocolorspace/fullrange,null
 web/api/videocolorspace/matrix,null
 web/api/videocolorspace/primaries,null

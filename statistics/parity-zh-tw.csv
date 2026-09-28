@@ -4444,7 +4444,7 @@ web/api/geolocation/getcurrentposition,1
 web/api/geolocation/watchposition,0
 web/api/geolocation_api,null
 web/api/geolocation_api/using_the_geolocation_api,null
-web/api/geolocationcoordinates,0
+web/api/geolocationcoordinates,1
 web/api/geolocationcoordinates/accuracy,0
 web/api/geolocationcoordinates/altitude,0
 web/api/geolocationcoordinates/altitudeaccuracy,0

@@ -10465,9 +10465,9 @@ web/css/guides/grid_layout/grid_lanes,0
 web/css/guides/grid_layout/grid_template_areas,0
 web/css/guides/grid_layout/line-based_placement,0
 web/css/guides/grid_layout/logical_values_and_writing_modes,0
-web/css/guides/grid_layout/named_grid_lines,null
-web/css/guides/grid_layout/relationship_with_other_layout_methods,null
-web/css/guides/grid_layout/subgrid,null
+web/css/guides/grid_layout/named_grid_lines,0
+web/css/guides/grid_layout/relationship_with_other_layout_methods,0
+web/css/guides/grid_layout/subgrid,0
 web/css/guides/images,null
 web/css/guides/images/implementing_image_sprites,null
 web/css/guides/images/replaced_element_properties,null
