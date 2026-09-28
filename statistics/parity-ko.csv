@@ -714,7 +714,7 @@ learn_web_development/core/accessibility/test_your_skills/html,null
 learn_web_development/core/accessibility/test_your_skills/wai-aria,null
 learn_web_development/core/accessibility/tooling,null
 learn_web_development/core/accessibility/wai-aria_basics,null
-learn_web_development/core/accessibility/what_is_accessibility,16
+learn_web_development/core/accessibility/what_is_accessibility,17
 learn_web_development/core/css_layout,9
 learn_web_development/core/css_layout/flexbox,null
 learn_web_development/core/css_layout/floats,null
@@ -1971,6 +1971,7 @@ mozilla/firefox/releases/155,null
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
 mozilla/firefox/releases/158,null
+mozilla/firefox/releases/159,null
 mozilla/firefox/releases/16,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
@@ -6181,7 +6182,7 @@ web/api/midiport/type,null
 web/api/midiport/version,null
 web/api/mimetype,null
 web/api/mimetypearray,null
-web/api/mouseevent,9
+web/api/mouseevent,10
 web/api/mouseevent/altkey,null
 web/api/mouseevent/button,null
 web/api/mouseevent/buttons,1
@@ -9179,7 +9180,7 @@ web/api/videotracklist/gettrackbyid,null
 web/api/videotracklist/length,null
 web/api/videotracklist/removetrack_event,null
 web/api/videotracklist/selectedindex,null
-web/api/view_transition_api,12
+web/api/view_transition_api,13
 web/api/view_transition_api/using,null
 web/api/view_transition_api/using_element-scoped,null
 web/api/view_transition_api/using_types,null
@@ -10470,7 +10471,7 @@ web/css/guides/grid_layout/subgrid,null
 web/css/guides/images,null
 web/css/guides/images/implementing_image_sprites,null
 web/css/guides/images/replaced_element_properties,null
-web/css/guides/images/using_gradients,3
+web/css/guides/images/using_gradients,4
 web/css/guides/images/using_object-view-box,null
 web/css/guides/inline_layout,null
 web/css/guides/inline_layout/inline_formatting_context,null
@@ -10509,7 +10510,7 @@ web/css/guides/overflow/carousels,null
 web/css/guides/overscroll_behavior,null
 web/css/guides/paged_media,2
 web/css/guides/positioned_layout,1
-web/css/guides/positioned_layout/stacking_context,8
+web/css/guides/positioned_layout/stacking_context,9
 web/css/guides/positioned_layout/stacking_context/example_1,null
 web/css/guides/positioned_layout/stacking_context/example_2,null
 web/css/guides/positioned_layout/stacking_context/example_3,null

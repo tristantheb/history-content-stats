@@ -1064,7 +1064,7 @@ mdn/writing_guidelines/howto/creating_moving_deleting,null
 mdn/writing_guidelines/howto/document_a_css_property,null
 mdn/writing_guidelines/howto/document_an_http_header,null
 mdn/writing_guidelines/howto/document_web_errors,null
-mdn/writing_guidelines/howto/images_media,13
+mdn/writing_guidelines/howto/images_media,14
 mdn/writing_guidelines/howto/json_structured_data,null
 mdn/writing_guidelines/howto/markdown_in_mdn,0
 mdn/writing_guidelines/howto/research_technology,null
@@ -1123,7 +1123,7 @@ mdn/writing_guidelines/page_structures/specification_tables,null
 mdn/writing_guidelines/page_structures/syntax_sections,null
 mdn/writing_guidelines/what_we_write,null
 mdn/writing_guidelines/writing_style_guide,null
-mozilla,2
+mozilla,3
 mozilla/add-ons,null
 mozilla/add-ons/contact_us,null
 mozilla/add-ons/webextensions,null
@@ -1971,6 +1971,7 @@ mozilla/firefox/releases/155,null
 mozilla/firefox/releases/156,null
 mozilla/firefox/releases/157,null
 mozilla/firefox/releases/158,null
+mozilla/firefox/releases/159,null
 mozilla/firefox/releases/16,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
@@ -2167,7 +2168,7 @@ web/accessibility/aria/reference/attributes/aria-valuemin,null
 web/accessibility/aria/reference/attributes/aria-valuenow,null
 web/accessibility/aria/reference/attributes/aria-valuetext,null
 web/accessibility/aria/reference/roles,3
-web/accessibility/aria/reference/roles/alert_role,0
+web/accessibility/aria/reference/roles/alert_role,1
 web/accessibility/aria/reference/roles/alertdialog_role,0
 web/accessibility/aria/reference/roles/application_role,0
 web/accessibility/aria/reference/roles/article_role,0
@@ -2259,7 +2260,7 @@ web/accessibility/guides/accessibility_and_spatial_patterns,4
 web/accessibility/guides/accessible_web_applications_and_widgets,3
 web/accessibility/guides/browsing_safely,4
 web/accessibility/guides/cognitive_accessibility,7
-web/accessibility/guides/colors_and_luminance,16
+web/accessibility/guides/colors_and_luminance,17
 web/accessibility/guides/information_for_web_authors,4
 web/accessibility/guides/keyboard-navigable_javascript_widgets,5
 web/accessibility/guides/mobile_accessibility_checklist,6
@@ -3260,7 +3261,7 @@ web/api/csspseudoelement/element,null
 web/api/csspseudoelement/parent,null
 web/api/csspseudoelement/pseudo,null
 web/api/csspseudoelement/type,null
-web/api/cssrotate,4
+web/api/cssrotate,5
 web/api/cssrotate/angle,3
 web/api/cssrotate/cssrotate,null
 web/api/cssrotate/x,3
@@ -9179,7 +9180,7 @@ web/api/videotracklist/gettrackbyid,null
 web/api/videotracklist/length,null
 web/api/videotracklist/removetrack_event,null
 web/api/videotracklist/selectedindex,null
-web/api/view_transition_api,9
+web/api/view_transition_api,10
 web/api/view_transition_api/using,13
 web/api/view_transition_api/using_element-scoped,null
 web/api/view_transition_api/using_types,null
@@ -10619,7 +10620,7 @@ web/css/reference/at-rules/@font-face/font-weight,null
 web/css/reference/at-rules/@font-face/font-width,null
 web/css/reference/at-rules/@font-face/line-gap-override,2
 web/css/reference/at-rules/@font-face/size-adjust,null
-web/css/reference/at-rules/@font-face/src,3
+web/css/reference/at-rules/@font-face/src,4
 web/css/reference/at-rules/@font-face/unicode-range,null
 web/css/reference/at-rules/@font-feature-values,0
 web/css/reference/at-rules/@font-feature-values/font-display,null
@@ -11806,7 +11807,7 @@ web/html/reference/elements/rp,null
 web/html/reference/elements/rt,null
 web/html/reference/elements/rtc,1
 web/html/reference/elements/ruby,null
-web/html/reference/elements/s,3
+web/html/reference/elements/s,4
 web/html/reference/elements/samp,null
 web/html/reference/elements/script,0
 web/html/reference/elements/script/type,null
@@ -14423,7 +14424,7 @@ webassembly/reference/javascript_interface/exception,-1
 webassembly/reference/javascript_interface/exception/exception,5
 webassembly/reference/javascript_interface/exception/getarg,2
 webassembly/reference/javascript_interface/exception/is,2
-webassembly/reference/javascript_interface/exception/stack,3
+webassembly/reference/javascript_interface/exception/stack,4
 webassembly/reference/javascript_interface/global,1
 webassembly/reference/javascript_interface/global/global,5
 webassembly/reference/javascript_interface/global/value,null
