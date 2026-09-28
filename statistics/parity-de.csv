@@ -706,7 +706,7 @@ learn_web_development/core/accessibility,0
 learn_web_development/core/accessibility/accessibility_troubleshooting,0
 learn_web_development/core/accessibility/css_and_javascript,0
 learn_web_development/core/accessibility/html,0
-learn_web_development/core/accessibility/mobile,0
+learn_web_development/core/accessibility/mobile,1
 learn_web_development/core/accessibility/multimedia,0
 learn_web_development/core/accessibility/test_your_skills,0
 learn_web_development/core/accessibility/test_your_skills/css_and_javascript,0
@@ -714,17 +714,17 @@ learn_web_development/core/accessibility/test_your_skills/html,0
 learn_web_development/core/accessibility/test_your_skills/wai-aria,0
 learn_web_development/core/accessibility/tooling,0
 learn_web_development/core/accessibility/wai-aria_basics,0
-learn_web_development/core/accessibility/what_is_accessibility,0
+learn_web_development/core/accessibility/what_is_accessibility,1
 learn_web_development/core/css_layout,0
 learn_web_development/core/css_layout/flexbox,0
 learn_web_development/core/css_layout/floats,0
 learn_web_development/core/css_layout/fundamental_layout_comprehension,0
 learn_web_development/core/css_layout/grids,0
 learn_web_development/core/css_layout/introduction,0
-learn_web_development/core/css_layout/legacy_layout_methods,0
+learn_web_development/core/css_layout/legacy_layout_methods,1
 learn_web_development/core/css_layout/media_queries,0
 learn_web_development/core/css_layout/mobile-first_challenge,0
-learn_web_development/core/css_layout/multiple-column_layout,0
+learn_web_development/core/css_layout/multiple-column_layout,1
 learn_web_development/core/css_layout/positioning,0
 learn_web_development/core/css_layout/practical_positioning_examples,0
 learn_web_development/core/css_layout/responsive_design,0
@@ -813,7 +813,7 @@ learn_web_development/core/structuring_content/webpage_metadata,0
 learn_web_development/core/styling_basics,0
 learn_web_development/core/styling_basics/advanced_styling_effects,0
 learn_web_development/core/styling_basics/attribute_selectors,0
-learn_web_development/core/styling_basics/backgrounds_and_borders,0
+learn_web_development/core/styling_basics/backgrounds_and_borders,1
 learn_web_development/core/styling_basics/basic_selectors,0
 learn_web_development/core/styling_basics/box_model,0
 learn_web_development/core/styling_basics/cascade_layers,0
@@ -883,7 +883,7 @@ learn_web_development/extensions/forms/basic_native_form_controls,0
 learn_web_development/extensions/forms/customizable_select,0
 learn_web_development/extensions/forms/customizable_select_listboxes,0
 learn_web_development/extensions/forms/form_validation,0
-learn_web_development/extensions/forms/how_to_build_custom_form_controls,0
+learn_web_development/extensions/forms/how_to_build_custom_form_controls,1
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_3,0
@@ -982,7 +982,7 @@ learn_web_development/getting_started/soft_skills,0
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,0
 learn_web_development/getting_started/soft_skills/finding_a_job,0
 learn_web_development/getting_started/soft_skills/research_and_learning,0
-learn_web_development/getting_started/soft_skills/workflows_and_processes,0
+learn_web_development/getting_started/soft_skills/workflows_and_processes,1
 learn_web_development/getting_started/web_standards,0
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
 learn_web_development/getting_started/web_standards/how_the_web_works,0
@@ -1064,7 +1064,7 @@ mdn/writing_guidelines/howto/creating_moving_deleting,0
 mdn/writing_guidelines/howto/document_a_css_property,0
 mdn/writing_guidelines/howto/document_an_http_header,0
 mdn/writing_guidelines/howto/document_web_errors,0
-mdn/writing_guidelines/howto/images_media,0
+mdn/writing_guidelines/howto/images_media,1
 mdn/writing_guidelines/howto/json_structured_data,0
 mdn/writing_guidelines/howto/markdown_in_mdn,0
 mdn/writing_guidelines/howto/research_technology,0
@@ -1123,7 +1123,7 @@ mdn/writing_guidelines/page_structures/specification_tables,0
 mdn/writing_guidelines/page_structures/syntax_sections,0
 mdn/writing_guidelines/what_we_write,0
 mdn/writing_guidelines/writing_style_guide,0
-mozilla,0
+mozilla,1
 mozilla/add-ons,0
 mozilla/add-ons/contact_us,0
 mozilla/add-ons/webextensions,0
@@ -1899,7 +1899,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,3
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1968,9 +1968,10 @@ mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,0
-mozilla/firefox/releases/156,0
-mozilla/firefox/releases/157,2
-mozilla/firefox/releases/158,0
+mozilla/firefox/releases/156,1
+mozilla/firefox/releases/157,7
+mozilla/firefox/releases/158,2
+mozilla/firefox/releases/159,null
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -2167,7 +2168,7 @@ web/accessibility/aria/reference/attributes/aria-valuemin,0
 web/accessibility/aria/reference/attributes/aria-valuenow,0
 web/accessibility/aria/reference/attributes/aria-valuetext,0
 web/accessibility/aria/reference/roles,0
-web/accessibility/aria/reference/roles/alert_role,0
+web/accessibility/aria/reference/roles/alert_role,1
 web/accessibility/aria/reference/roles/alertdialog_role,0
 web/accessibility/aria/reference/roles/application_role,0
 web/accessibility/aria/reference/roles/article_role,0
@@ -2248,7 +2249,7 @@ web/accessibility/aria/reference/roles/term_role,0
 web/accessibility/aria/reference/roles/textbox_role,0
 web/accessibility/aria/reference/roles/timer_role,0
 web/accessibility/aria/reference/roles/toolbar_role,0
-web/accessibility/aria/reference/roles/tooltip_role,0
+web/accessibility/aria/reference/roles/tooltip_role,1
 web/accessibility/aria/reference/roles/tree_role,0
 web/accessibility/aria/reference/roles/treegrid_role,0
 web/accessibility/aria/reference/roles/treeitem_role,0
@@ -2259,7 +2260,7 @@ web/accessibility/guides/accessibility_and_spatial_patterns,0
 web/accessibility/guides/accessible_web_applications_and_widgets,0
 web/accessibility/guides/browsing_safely,0
 web/accessibility/guides/cognitive_accessibility,0
-web/accessibility/guides/colors_and_luminance,0
+web/accessibility/guides/colors_and_luminance,1
 web/accessibility/guides/information_for_web_authors,0
 web/accessibility/guides/keyboard-navigable_javascript_widgets,0
 web/accessibility/guides/mobile_accessibility_checklist,0
@@ -3077,7 +3078,7 @@ web/api/css_font_loading_api,0
 web/api/css_object_model,0
 web/api/css_object_model/css_declaration,0
 web/api/css_object_model/css_declaration_block,0
-web/api/css_object_model/css_value_serialization,0
+web/api/css_object_model/css_value_serialization,1
 web/api/css_object_model/determining_the_dimensions_of_elements,0
 web/api/css_object_model/managing_screen_orientation,0
 web/api/css_object_model/using_dynamic_styling_information,0
@@ -3260,7 +3261,7 @@ web/api/csspseudoelement/element,0
 web/api/csspseudoelement/parent,0
 web/api/csspseudoelement/pseudo,0
 web/api/csspseudoelement/type,0
-web/api/cssrotate,0
+web/api/cssrotate,1
 web/api/cssrotate/angle,0
 web/api/cssrotate/cssrotate,0
 web/api/cssrotate/x,0
@@ -3367,7 +3368,7 @@ web/api/cssvariablereferencevalue,0
 web/api/cssvariablereferencevalue/cssvariablereferencevalue,0
 web/api/cssvariablereferencevalue/fallback,0
 web/api/cssvariablereferencevalue/variable,0
-web/api/cssviewtransitionrule,0
+web/api/cssviewtransitionrule,1
 web/api/cssviewtransitionrule/navigation,0
 web/api/cssviewtransitionrule/types,0
 web/api/customelementregistry,0
@@ -4591,7 +4592,7 @@ web/api/gpuqueue/label,0
 web/api/gpuqueue/onsubmittedworkdone,0
 web/api/gpuqueue/submit,0
 web/api/gpuqueue/writebuffer,0
-web/api/gpuqueue/writetexture,0
+web/api/gpuqueue/writetexture,1
 web/api/gpurenderbundle,0
 web/api/gpurenderbundle/label,0
 web/api/gpurenderbundleencoder,0
@@ -6181,7 +6182,7 @@ web/api/midiport/type,0
 web/api/midiport/version,0
 web/api/mimetype,0
 web/api/mimetypearray,0
-web/api/mouseevent,0
+web/api/mouseevent,1
 web/api/mouseevent/altkey,0
 web/api/mouseevent/button,0
 web/api/mouseevent/buttons,0
@@ -6190,8 +6191,8 @@ web/api/mouseevent/clienty,0
 web/api/mouseevent/ctrlkey,0
 web/api/mouseevent/getmodifierstate,0
 web/api/mouseevent/initmouseevent,0
-web/api/mouseevent/layerx,0
-web/api/mouseevent/layery,0
+web/api/mouseevent/layerx,1
+web/api/mouseevent/layery,1
 web/api/mouseevent/metakey,0
 web/api/mouseevent/mouseevent,0
 web/api/mouseevent/movementx,0
@@ -7147,7 +7148,7 @@ web/api/reporting_api,0
 web/api/reportingobserver,0
 web/api/reportingobserver/disconnect,0
 web/api/reportingobserver/observe,0
-web/api/reportingobserver/reportingobserver,0
+web/api/reportingobserver/reportingobserver,1
 web/api/reportingobserver/takerecords,0
 web/api/request,0
 web/api/request/arraybuffer,0
@@ -9179,7 +9180,7 @@ web/api/videotracklist/gettrackbyid,0
 web/api/videotracklist/length,0
 web/api/videotracklist/removetrack_event,0
 web/api/videotracklist/selectedindex,0
-web/api/view_transition_api,0
+web/api/view_transition_api,1
 web/api/view_transition_api/using,0
 web/api/view_transition_api/using_element-scoped,0
 web/api/view_transition_api/using_types,0
@@ -9757,7 +9758,7 @@ web/api/webxr_device_api/permissions_and_security,0
 web/api/webxr_device_api/perspective,0
 web/api/webxr_device_api/rendering,0
 web/api/webxr_device_api/spatial_tracking,0
-web/api/webxr_device_api/startup_and_shutdown,0
+web/api/webxr_device_api/startup_and_shutdown,1
 web/api/webxr_device_api/targeting,0
 web/api/wgsllanguagefeatures,0
 web/api/wheelevent,0
@@ -10470,7 +10471,7 @@ web/css/guides/grid_layout/subgrid,0
 web/css/guides/images,0
 web/css/guides/images/implementing_image_sprites,0
 web/css/guides/images/replaced_element_properties,0
-web/css/guides/images/using_gradients,0
+web/css/guides/images/using_gradients,1
 web/css/guides/images/using_object-view-box,0
 web/css/guides/inline_layout,0
 web/css/guides/inline_layout/inline_formatting_context,0
@@ -10509,7 +10510,7 @@ web/css/guides/overflow/carousels,0
 web/css/guides/overscroll_behavior,0
 web/css/guides/paged_media,0
 web/css/guides/positioned_layout,0
-web/css/guides/positioned_layout/stacking_context,0
+web/css/guides/positioned_layout/stacking_context,1
 web/css/guides/positioned_layout/stacking_context/example_1,0
 web/css/guides/positioned_layout/stacking_context/example_2,0
 web/css/guides/positioned_layout/stacking_context/example_3,0
@@ -10525,7 +10526,7 @@ web/css/guides/round_display,0
 web/css/guides/ruby_layout,0
 web/css/guides/scoping,0
 web/css/guides/scroll-driven_animations,0
-web/css/guides/scroll-driven_animations/timeline_insets,0
+web/css/guides/scroll-driven_animations/timeline_insets,1
 web/css/guides/scroll-driven_animations/timeline_range_names,0
 web/css/guides/scroll-driven_animations/timelines,0
 web/css/guides/scroll_anchoring,0
@@ -10573,7 +10574,7 @@ web/css/guides/webxr_dom_overlays,0
 web/css/guides/will_change,0
 web/css/guides/writing_modes,0
 web/css/guides/writing_modes/vertical_controls,0
-web/css/guides/writing_modes/writing_mode_systems,0
+web/css/guides/writing_modes/writing_mode_systems,1
 web/css/how_to,0
 web/css/how_to/layout_cookbook,0
 web/css/how_to/layout_cookbook/breadcrumb_navigation,0
@@ -10619,7 +10620,7 @@ web/css/reference/at-rules/@font-face/font-weight,0
 web/css/reference/at-rules/@font-face/font-width,0
 web/css/reference/at-rules/@font-face/line-gap-override,0
 web/css/reference/at-rules/@font-face/size-adjust,0
-web/css/reference/at-rules/@font-face/src,0
+web/css/reference/at-rules/@font-face/src,1
 web/css/reference/at-rules/@font-face/unicode-range,0
 web/css/reference/at-rules/@font-feature-values,0
 web/css/reference/at-rules/@font-feature-values/font-display,0
@@ -10856,8 +10857,8 @@ web/css/reference/properties/column-rule-break,0
 web/css/reference/properties/column-rule-color,0
 web/css/reference/properties/column-rule-inset-cap,0
 web/css/reference/properties/column-rule-inset-cap-end,0
-web/css/reference/properties/column-rule-inset-cap-start,0
-web/css/reference/properties/column-rule-inset-junction-end,0
+web/css/reference/properties/column-rule-inset-cap-start,1
+web/css/reference/properties/column-rule-inset-junction-end,1
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,0
 web/css/reference/properties/column-rule-width,0
@@ -10943,7 +10944,7 @@ web/css/reference/properties/font-variant,0
 web/css/reference/properties/font-variant-alternates,0
 web/css/reference/properties/font-variant-caps,0
 web/css/reference/properties/font-variant-east-asian,0
-web/css/reference/properties/font-variant-emoji,0
+web/css/reference/properties/font-variant-emoji,1
 web/css/reference/properties/font-variant-ligatures,0
 web/css/reference/properties/font-variant-numeric,0
 web/css/reference/properties/font-variant-position,0
@@ -10971,7 +10972,7 @@ web/css/reference/properties/grid-template-rows,0
 web/css/reference/properties/hanging-punctuation,0
 web/css/reference/properties/height,0
 web/css/reference/properties/hyphenate-character,0
-web/css/reference/properties/hyphenate-limit-chars,0
+web/css/reference/properties/hyphenate-limit-chars,1
 web/css/reference/properties/hyphens,0
 web/css/reference/properties/image-orientation,0
 web/css/reference/properties/image-rendering,0
@@ -11098,7 +11099,7 @@ web/css/reference/properties/page-break-after,0
 web/css/reference/properties/page-break-before,0
 web/css/reference/properties/page-break-inside,0
 web/css/reference/properties/paint-order,0
-web/css/reference/properties/path-length,0
+web/css/reference/properties/path-length,1
 web/css/reference/properties/perspective,0
 web/css/reference/properties/perspective-origin,0
 web/css/reference/properties/place-content,0
@@ -11124,9 +11125,9 @@ web/css/reference/properties/row-gap,0
 web/css/reference/properties/row-rule,0
 web/css/reference/properties/row-rule-break,0
 web/css/reference/properties/row-rule-color,0
-web/css/reference/properties/row-rule-inset-cap,0
+web/css/reference/properties/row-rule-inset-cap,1
 web/css/reference/properties/row-rule-inset-cap-end,0
-web/css/reference/properties/row-rule-inset-cap-start,0
+web/css/reference/properties/row-rule-inset-cap-start,2
 web/css/reference/properties/row-rule-style,0
 web/css/reference/properties/row-rule-visibility-items,0
 web/css/reference/properties/row-rule-width,0
@@ -11136,7 +11137,7 @@ web/css/reference/properties/ruby-position,0
 web/css/reference/properties/rule,0
 web/css/reference/properties/rule-break,0
 web/css/reference/properties/rule-color,0
-web/css/reference/properties/rule-inset-cap,0
+web/css/reference/properties/rule-inset-cap,1
 web/css/reference/properties/rule-style,0
 web/css/reference/properties/rule-visibility-items,0
 web/css/reference/properties/rule-width,0
@@ -11144,7 +11145,7 @@ web/css/reference/properties/rx,0
 web/css/reference/properties/ry,0
 web/css/reference/properties/scale,0
 web/css/reference/properties/scroll-behavior,0
-web/css/reference/properties/scroll-initial-target,0
+web/css/reference/properties/scroll-initial-target,1
 web/css/reference/properties/scroll-margin,0
 web/css/reference/properties/scroll-margin-block,0
 web/css/reference/properties/scroll-margin-block-end,0
@@ -11472,7 +11473,7 @@ web/css/reference/values/color-interpolation-method,0
 web/css/reference/values/color_value,0
 web/css/reference/values/color_value/alpha,0
 web/css/reference/values/color_value/color,0
-web/css/reference/values/color_value/color-mix,0
+web/css/reference/values/color_value/color-mix,1
 web/css/reference/values/color_value/contrast-color,0
 web/css/reference/values/color_value/device-cmyk,0
 web/css/reference/values/color_value/hsl,0
@@ -11541,7 +11542,7 @@ web/css/reference/values/hypot,0
 web/css/reference/values/ident,0
 web/css/reference/values/if,0
 web/css/reference/values/image,0
-web/css/reference/values/image/image,0
+web/css/reference/values/image/image,1
 web/css/reference/values/image/image-set,0
 web/css/reference/values/image/paint,0
 web/css/reference/values/important,0
@@ -11563,13 +11564,13 @@ web/css/reference/values/named-color,0
 web/css/reference/values/number,0
 web/css/reference/values/overflow-position,0
 web/css/reference/values/overflow_value,0
-web/css/reference/values/param,0
+web/css/reference/values/param,1
 web/css/reference/values/percentage,0
 web/css/reference/values/position-area_value,0
 web/css/reference/values/position_value,0
 web/css/reference/values/pow,0
 web/css/reference/values/progress,0
-web/css/reference/values/random,0
+web/css/reference/values/random,1
 web/css/reference/values/ratio,0
 web/css/reference/values/ray,0
 web/css/reference/values/relative-size,0
@@ -11585,7 +11586,7 @@ web/css/reference/values/self-position,0
 web/css/reference/values/shape,0
 web/css/reference/values/sibling-count,0
 web/css/reference/values/sibling-index,0
-web/css/reference/values/sign,0
+web/css/reference/values/sign,1
 web/css/reference/values/sin,0
 web/css/reference/values/sqrt,0
 web/css/reference/values/string,0
@@ -11710,7 +11711,7 @@ web/html/reference/elements/colgroup,0
 web/html/reference/elements/data,0
 web/html/reference/elements/datalist,0
 web/html/reference/elements/dd,0
-web/html/reference/elements/del,0
+web/html/reference/elements/del,1
 web/html/reference/elements/details,0
 web/html/reference/elements/dfn,0
 web/html/reference/elements/dialog,0
@@ -11762,7 +11763,7 @@ web/html/reference/elements/input/text,0
 web/html/reference/elements/input/time,0
 web/html/reference/elements/input/url,0
 web/html/reference/elements/input/week,0
-web/html/reference/elements/ins,0
+web/html/reference/elements/ins,1
 web/html/reference/elements/kbd,0
 web/html/reference/elements/label,0
 web/html/reference/elements/legend,0
@@ -11770,7 +11771,7 @@ web/html/reference/elements/li,0
 web/html/reference/elements/link,0
 web/html/reference/elements/main,0
 web/html/reference/elements/map,0
-web/html/reference/elements/mark,0
+web/html/reference/elements/mark,1
 web/html/reference/elements/marquee,0
 web/html/reference/elements/menu,0
 web/html/reference/elements/meta,0
@@ -11806,7 +11807,7 @@ web/html/reference/elements/rp,0
 web/html/reference/elements/rt,0
 web/html/reference/elements/rtc,0
 web/html/reference/elements/ruby,0
-web/html/reference/elements/s,0
+web/html/reference/elements/s,1
 web/html/reference/elements/samp,0
 web/html/reference/elements/script,0
 web/html/reference/elements/script/type,0
@@ -14375,7 +14376,7 @@ webassembly/guides/javascript_builtins,0
 webassembly/guides/loading_and_running,0
 webassembly/guides/rust_to_wasm,0
 webassembly/guides/text_format_to_wasm,0
-webassembly/guides/understanding_the_text_format,0
+webassembly/guides/understanding_the_text_format,1
 webassembly/guides/using_the_javascript_api,0
 webassembly/reference,0
 webassembly/reference/control_flow,0
@@ -14423,7 +14424,7 @@ webassembly/reference/javascript_interface/exception,0
 webassembly/reference/javascript_interface/exception/exception,0
 webassembly/reference/javascript_interface/exception/getarg,0
 webassembly/reference/javascript_interface/exception/is,0
-webassembly/reference/javascript_interface/exception/stack,0
+webassembly/reference/javascript_interface/exception/stack,1
 webassembly/reference/javascript_interface/global,0
 webassembly/reference/javascript_interface/global/global,0
 webassembly/reference/javascript_interface/global/value,0

@@ -706,7 +706,7 @@ learn_web_development/core/accessibility,89e8e67d44039717f685a98d8b161f3d1ed1b23
 learn_web_development/core/accessibility/accessibility_troubleshooting,1b7c3c1e03f14c3878e4d8518b0f1a89bedfdc9c,Learn|Core Modules
 learn_web_development/core/accessibility/css_and_javascript,0c62b082755017d0773ecaaee7e74efd5e066d0b,Learn|Core Modules
 learn_web_development/core/accessibility/html,1b7c3c1e03f14c3878e4d8518b0f1a89bedfdc9c,Learn|Core Modules
-learn_web_development/core/accessibility/mobile,9fac65196ac2b9a26afabbcb7f14fd58621916ae,Learn|Core Modules
+learn_web_development/core/accessibility/mobile,b7e9f482c51817d3a885e26092f8219fd0d9d278,Learn|Core Modules
 learn_web_development/core/accessibility/multimedia,ef78a9a3336c884fb3587e4ff833e64704296f01,Learn|Core Modules
 learn_web_development/core/accessibility/test_your_skills,89e8e67d44039717f685a98d8b161f3d1ed1b233,Learn|Core Modules
 learn_web_development/core/accessibility/test_your_skills/css_and_javascript,2bda943b59604eb44f5d759708845c5f56970635,Learn|Core Modules
@@ -714,17 +714,17 @@ learn_web_development/core/accessibility/test_your_skills/html,2bda943b59604eb44
 learn_web_development/core/accessibility/test_your_skills/wai-aria,2bda943b59604eb44f5d759708845c5f56970635,Learn|Core Modules
 learn_web_development/core/accessibility/tooling,483ce811e1ea52cb2d9d2a5af0c4d1c4d591ea4a,Learn|Core Modules
 learn_web_development/core/accessibility/wai-aria_basics,d93983dfe60b65633f67fffe04676c241ff92960,Learn|Core Modules
-learn_web_development/core/accessibility/what_is_accessibility,03e93e0948768ea78474e77a53795698ebca5836,Learn|Core Modules
+learn_web_development/core/accessibility/what_is_accessibility,15e1155ab8a0587405601cc4753bb789cd6ac47c,Learn|Core Modules
 learn_web_development/core/css_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Learn|Core Modules
 learn_web_development/core/css_layout/flexbox,c55a38c71a356502e6d3df5e246b6e89f9e83498,Learn|Core Modules
 learn_web_development/core/css_layout/floats,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Learn|Core Modules
 learn_web_development/core/css_layout/fundamental_layout_comprehension,1402df2877308c09ea2aa1460f1c97c634bd7624,Learn|Core Modules
 learn_web_development/core/css_layout/grids,b5ee197a87ea18acbc4dd9544efa8c0e46253785,Learn|Core Modules
 learn_web_development/core/css_layout/introduction,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Learn|Core Modules
-learn_web_development/core/css_layout/legacy_layout_methods,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Learn|Core Modules
+learn_web_development/core/css_layout/legacy_layout_methods,b7e9f482c51817d3a885e26092f8219fd0d9d278,Learn|Core Modules
 learn_web_development/core/css_layout/media_queries,4c58f4735f986a91bee1b77e336143630df727a2,Learn|Core Modules
 learn_web_development/core/css_layout/mobile-first_challenge,4c58f4735f986a91bee1b77e336143630df727a2,Learn|Core Modules
-learn_web_development/core/css_layout/multiple-column_layout,1b7c3c1e03f14c3878e4d8518b0f1a89bedfdc9c,Learn|Core Modules
+learn_web_development/core/css_layout/multiple-column_layout,b7e9f482c51817d3a885e26092f8219fd0d9d278,Learn|Core Modules
 learn_web_development/core/css_layout/positioning,1b7c3c1e03f14c3878e4d8518b0f1a89bedfdc9c,Learn|Core Modules
 learn_web_development/core/css_layout/practical_positioning_examples,5658facd7100855113a75ce508ab8d825a4d97b0,Learn|Core Modules
 learn_web_development/core/css_layout/responsive_design,4c58f4735f986a91bee1b77e336143630df727a2,Learn|Core Modules
@@ -813,7 +813,7 @@ learn_web_development/core/structuring_content/webpage_metadata,a2e0aee81b78bd02
 learn_web_development/core/styling_basics,cdf7db9ffe08cb952243d7e20b9beee4e9c9451b,Learn|Core Modules
 learn_web_development/core/styling_basics/advanced_styling_effects,1b7c3c1e03f14c3878e4d8518b0f1a89bedfdc9c,Learn|Core Modules
 learn_web_development/core/styling_basics/attribute_selectors,c9f602a26092661130a031b7148d696a3ac9802e,Learn|Core Modules
-learn_web_development/core/styling_basics/backgrounds_and_borders,1b7c3c1e03f14c3878e4d8518b0f1a89bedfdc9c,Learn|Core Modules
+learn_web_development/core/styling_basics/backgrounds_and_borders,b7e9f482c51817d3a885e26092f8219fd0d9d278,Learn|Core Modules
 learn_web_development/core/styling_basics/basic_selectors,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,Learn|Core Modules
 learn_web_development/core/styling_basics/box_model,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Learn|Core Modules
 learn_web_development/core/styling_basics/cascade_layers,d805adc1604ad27fbee00598dc81bcdfe5635bd3,Learn|Core Modules
@@ -883,7 +883,7 @@ learn_web_development/extensions/forms/basic_native_form_controls,c9f3d85f24d783
 learn_web_development/extensions/forms/customizable_select,a25c283c3fe8986e9d31f0bb64b345ad1bb7b64d,Learn|Extensions
 learn_web_development/extensions/forms/customizable_select_listboxes,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Learn|Extensions
 learn_web_development/extensions/forms/form_validation,f5ea8950d5cc7bc42691e0bb8a3e634160814bac,Learn|Extensions
-learn_web_development/extensions/forms/how_to_build_custom_form_controls,d93983dfe60b65633f67fffe04676c241ff92960,Learn|Extensions
+learn_web_development/extensions/forms/how_to_build_custom_form_controls,15e1155ab8a0587405601cc4753bb789cd6ac47c,Learn|Extensions
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,9cfc2285428932f448a1747e347b1e35a3e0172b,Learn|Extensions
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,9cfc2285428932f448a1747e347b1e35a3e0172b,Learn|Extensions
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_3,9cfc2285428932f448a1747e347b1e35a3e0172b,Learn|Extensions
@@ -982,7 +982,7 @@ learn_web_development/getting_started/soft_skills,48d220a8cffdfd5f088f8ca89724a9
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,da7287ff61b6ea4db7f9a5e07be11263b525b7d0,Learn|Getting Started
 learn_web_development/getting_started/soft_skills/finding_a_job,da7287ff61b6ea4db7f9a5e07be11263b525b7d0,Learn|Getting Started
 learn_web_development/getting_started/soft_skills/research_and_learning,0b396a7ed30cad25ebc30c464cfbafc77bc2c7d9,Learn|Getting Started
-learn_web_development/getting_started/soft_skills/workflows_and_processes,f542ed344953b3312fc92150bba11536667e288a,Learn|Getting Started
+learn_web_development/getting_started/soft_skills/workflows_and_processes,15e1155ab8a0587405601cc4753bb789cd6ac47c,Learn|Getting Started
 learn_web_development/getting_started/web_standards,48d220a8cffdfd5f088f8ca89724a9a92e34d8c0,Learn|Getting Started
 learn_web_development/getting_started/web_standards/how_browsers_load_websites,cab1109a0c225299a9fb2b3402bcd4a1931b8ab7,Learn|Getting Started
 learn_web_development/getting_started/web_standards/how_the_web_works,b5ee197a87ea18acbc4dd9544efa8c0e46253785,Learn|Getting Started
@@ -1064,7 +1064,7 @@ mdn/writing_guidelines/howto/creating_moving_deleting,ca0b474bb2e153ce72718cb304
 mdn/writing_guidelines/howto/document_a_css_property,719645a32546d9e514ac530a5eb66aa4c26d4f51,MDN|Writing Guidelines
 mdn/writing_guidelines/howto/document_an_http_header,a4c63d2855b2f557e7d1ee821dee65011d569a41,MDN|Writing Guidelines
 mdn/writing_guidelines/howto/document_web_errors,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,MDN|Writing Guidelines
-mdn/writing_guidelines/howto/images_media,03e93e0948768ea78474e77a53795698ebca5836,MDN|Writing Guidelines
+mdn/writing_guidelines/howto/images_media,15e1155ab8a0587405601cc4753bb789cd6ac47c,MDN|Writing Guidelines
 mdn/writing_guidelines/howto/json_structured_data,6d363614de8a40c33d1afe92e4e846b75beea986,MDN|Writing Guidelines
 mdn/writing_guidelines/howto/markdown_in_mdn,49f3eb321cf6a491c3bcef1c3590f9bf6f90c9b8,MDN|Writing Guidelines
 mdn/writing_guidelines/howto/research_technology,bdb97b3e01499ce52f02caa3f51d6dd245a48782,MDN|Writing Guidelines
@@ -1123,7 +1123,7 @@ mdn/writing_guidelines/page_structures/specification_tables,f65f7f6e4fda2cb1bd0e
 mdn/writing_guidelines/page_structures/syntax_sections,de1ffe9d19ce381ed182255fcc8fe0517029cfa2,MDN|Writing Guidelines
 mdn/writing_guidelines/what_we_write,de5b264fa7bf6bb49811bf79f8f28f10835bfb79,MDN|Writing Guidelines
 mdn/writing_guidelines/writing_style_guide,f4c221962681b1472cd57da60379ad7825fe5081,MDN|Writing Guidelines
-mozilla,7dcd1a300afce3509445dae18888997c30a0bdaf,Mozilla
+mozilla,15e1155ab8a0587405601cc4753bb789cd6ac47c,Mozilla
 mozilla/add-ons,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/contact_us,0c81cbce5f95a0be935724bcd936f5592774eb3a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1899,7 +1899,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,8bc98818dfbc851ee6749b12
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,0af4dd8fa2007f51373931068e6f524e4f2bf86a,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,0f9ddc51f2298275e5399e750e84cfea180091e2,Mozilla|Firefox
+mozilla/firefox/experimental_features,9b3380201ec1399f3ae0ed1ba96155807ae55afa,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1968,9 +1968,10 @@ mozilla/firefox/releases/152,cb5a9829f49b8ef7a28311ca419538194fd6525e,Mozilla|Fi
 mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494,Mozilla|Firefox|Versions
 mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff,Mozilla|Firefox|Versions
 mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
-mozilla/firefox/releases/156,ca2450d9c15ffa15965776dbf5d277eb5c3d0b3f,Mozilla|Firefox|Versions
-mozilla/firefox/releases/157,bad5b95383526babb0d778fb6b693973d1790cfb,Mozilla|Firefox|Versions
-mozilla/firefox/releases/158,6667e73bf698511ffd956b8a9eafc8ea7c6adb46,Mozilla|Firefox|Versions
+mozilla/firefox/releases/156,91c6fa25d660ab9d0f8b60b19b103518cc3c1603,Mozilla|Firefox|Versions
+mozilla/firefox/releases/157,91c6fa25d660ab9d0f8b60b19b103518cc3c1603,Mozilla|Firefox|Versions
+mozilla/firefox/releases/158,15e1155ab8a0587405601cc4753bb789cd6ac47c,Mozilla|Firefox|Versions
+mozilla/firefox/releases/159,91c6fa25d660ab9d0f8b60b19b103518cc3c1603,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -2167,7 +2168,7 @@ web/accessibility/aria/reference/attributes/aria-valuemin,a8b25483994fa47cf949b4
 web/accessibility/aria/reference/attributes/aria-valuenow,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Attributes
 web/accessibility/aria/reference/attributes/aria-valuetext,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Attributes
 web/accessibility/aria/reference/roles,4a39dedf2c57c6947339a63a8de0e18a7abe8e2c,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/alert_role,5e815d522e796fb2209fa8470616b37e31c572b4,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/alert_role,15e1155ab8a0587405601cc4753bb789cd6ac47c,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/alertdialog_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/application_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/article_role,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Accessibility|ARIA|Roles
@@ -2248,7 +2249,7 @@ web/accessibility/aria/reference/roles/term_role,a8b25483994fa47cf949b432ddf34a6
 web/accessibility/aria/reference/roles/textbox_role,fd2acb039cc1caee4af10f76ffb839c8da7da5b8,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/timer_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/toolbar_role,c833741444aba4d524992813eda1cd8d64563aed,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/tooltip_role,0091c5e7d19dd48ae2a9236b89159651a19ecee1,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/tooltip_role,b7e9f482c51817d3a885e26092f8219fd0d9d278,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tree_role,d1fd21c87a4917e56dab84fc0b1d321ebb22874e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treegrid_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treeitem_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
@@ -2259,7 +2260,7 @@ web/accessibility/guides/accessibility_and_spatial_patterns,30c9f71e6a6cac4d8946
 web/accessibility/guides/accessible_web_applications_and_widgets,c1564acf160ef4b320fb7b89ab65211b9c50cf1b,Accessibility|Guides
 web/accessibility/guides/browsing_safely,813a03e3affaad31a6c975628a1b705fa568f095,Accessibility|Guides
 web/accessibility/guides/cognitive_accessibility,051d02b402b7f76c2078b12283aa18318c34c38b,Accessibility|Guides
-web/accessibility/guides/colors_and_luminance,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,Accessibility|Guides
+web/accessibility/guides/colors_and_luminance,15e1155ab8a0587405601cc4753bb789cd6ac47c,Accessibility|Guides
 web/accessibility/guides/information_for_web_authors,f0179562ad8e2a4dd1f0916c529792198d7e06b2,Accessibility|Guides
 web/accessibility/guides/keyboard-navigable_javascript_widgets,fc52eb81b630ca02c16addc346924295bdb5aaa8,Accessibility|Guides
 web/accessibility/guides/mobile_accessibility_checklist,5e815d522e796fb2209fa8470616b37e31c572b4,Accessibility|Guides
@@ -3077,7 +3078,7 @@ web/api/css_font_loading_api,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/css_object_model,8f0171397993605739530a8d32f24a804d06f882,Web APIs
 web/api/css_object_model/css_declaration,b07efa13f8459a44a2cbc7b6cdb3279967565e63,Web APIs
 web/api/css_object_model/css_declaration_block,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
-web/api/css_object_model/css_value_serialization,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
+web/api/css_object_model/css_value_serialization,b7e9f482c51817d3a885e26092f8219fd0d9d278,Web APIs
 web/api/css_object_model/determining_the_dimensions_of_elements,636b90011532e3fd2cf9333aaf1754fdc8de7938,Web APIs
 web/api/css_object_model/managing_screen_orientation,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/css_object_model/using_dynamic_styling_information,56bbf59f4ea2566d64ad2e5c669a7a597626b7f3,Web APIs
@@ -3260,7 +3261,7 @@ web/api/csspseudoelement/element,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web AP
 web/api/csspseudoelement/parent,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
 web/api/csspseudoelement/pseudo,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web APIs
 web/api/csspseudoelement/type,55fa0e2b797b1358464b42ceb32167675a03ca8d,Web APIs
-web/api/cssrotate,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
+web/api/cssrotate,b7e9f482c51817d3a885e26092f8219fd0d9d278,Web APIs
 web/api/cssrotate/angle,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
 web/api/cssrotate/cssrotate,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
 web/api/cssrotate/x,b9426971d8a2176ad015a0fd01df59ec79760898,Web APIs
@@ -3367,7 +3368,7 @@ web/api/cssvariablereferencevalue,285179734bb0505a755c76aa556b6cb12d81b643,Web A
 web/api/cssvariablereferencevalue/cssvariablereferencevalue,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssvariablereferencevalue/fallback,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssvariablereferencevalue/variable,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
-web/api/cssviewtransitionrule,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
+web/api/cssviewtransitionrule,b7e9f482c51817d3a885e26092f8219fd0d9d278,Web APIs
 web/api/cssviewtransitionrule/navigation,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
 web/api/cssviewtransitionrule/types,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
 web/api/customelementregistry,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
@@ -4591,7 +4592,7 @@ web/api/gpuqueue/label,fd69b5246378644ee2949180c83856fad474886b,Web APIs
 web/api/gpuqueue/onsubmittedworkdone,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpuqueue/submit,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/gpuqueue/writebuffer,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
-web/api/gpuqueue/writetexture,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
+web/api/gpuqueue/writetexture,15e1155ab8a0587405601cc4753bb789cd6ac47c,Web APIs
 web/api/gpurenderbundle,5f226b6f08c5cff7f96b7cc49a164fdc43d11a0c,Web APIs
 web/api/gpurenderbundle/label,fd69b5246378644ee2949180c83856fad474886b,Web APIs
 web/api/gpurenderbundleencoder,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -6181,7 +6182,7 @@ web/api/midiport/type,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1,Web APIs
 web/api/midiport/version,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1,Web APIs
 web/api/mimetype,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/mimetypearray,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
-web/api/mouseevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
+web/api/mouseevent,15e1155ab8a0587405601cc4753bb789cd6ac47c,Web APIs
 web/api/mouseevent/altkey,cfb7587e3e3122630ad6cbd94d834ecadbe0a746,Web APIs
 web/api/mouseevent/button,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/mouseevent/buttons,d783c87acb536c6c142792d263f813c88808551b,Web APIs
@@ -6190,8 +6191,8 @@ web/api/mouseevent/clienty,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/mouseevent/ctrlkey,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/mouseevent/getmodifierstate,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/mouseevent/initmouseevent,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
-web/api/mouseevent/layerx,d783c87acb536c6c142792d263f813c88808551b,Web APIs
-web/api/mouseevent/layery,d783c87acb536c6c142792d263f813c88808551b,Web APIs
+web/api/mouseevent/layerx,15e1155ab8a0587405601cc4753bb789cd6ac47c,Web APIs
+web/api/mouseevent/layery,15e1155ab8a0587405601cc4753bb789cd6ac47c,Web APIs
 web/api/mouseevent/metakey,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/mouseevent/mouseevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/mouseevent/movementx,4d90fa2de9c90af02c581e294adaa67093fdfd4e,Web APIs
@@ -7147,7 +7148,7 @@ web/api/reporting_api,dd1e8282ab6621b62399d65cad46177d426d1d93,Web APIs
 web/api/reportingobserver,09d8ff096be97b28ea415fc4c68fb1cff0ff8af9,Web APIs
 web/api/reportingobserver/disconnect,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
 web/api/reportingobserver/observe,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
-web/api/reportingobserver/reportingobserver,927ef5f1b2906bae06ff98ea5148a1808b01f07b,Web APIs
+web/api/reportingobserver/reportingobserver,15e1155ab8a0587405601cc4753bb789cd6ac47c,Web APIs
 web/api/reportingobserver/takerecords,6720d579bd658f02c56363805e97e69f93dc79f1,Web APIs
 web/api/request,ad1fac9d8dd0c9ab8f560e98c5c923559617ba54,Web APIs
 web/api/request/arraybuffer,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
@@ -9179,7 +9180,7 @@ web/api/videotracklist/gettrackbyid,8a9085b96d0135920be9b281d4500ff72a7a8369,Web
 web/api/videotracklist/length,8a9085b96d0135920be9b281d4500ff72a7a8369,Web APIs
 web/api/videotracklist/removetrack_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/videotracklist/selectedindex,532ecbca7b68e7defa4612bc7b00885a13163641,Web APIs
-web/api/view_transition_api,3114d1b72a4d46d314caa7f73f775a1f6f7407dc,Web APIs
+web/api/view_transition_api,15e1155ab8a0587405601cc4753bb789cd6ac47c,Web APIs
 web/api/view_transition_api/using,6a5c66fd39deaf266d332f7e04a885751d1d691c,Web APIs
 web/api/view_transition_api/using_element-scoped,c655f38c10ba17b853b0e66b43cf4cf2b176e424,Web APIs
 web/api/view_transition_api/using_types,870fe25a3e6ed1a44222c52dd8a992b731c1a383,Web APIs
@@ -9757,7 +9758,7 @@ web/api/webxr_device_api/permissions_and_security,db443a6062d0e858a62af2f9a3a755
 web/api/webxr_device_api/perspective,1fc327ab47c4fc89eff6e1d05780babd720e4b13,Web APIs
 web/api/webxr_device_api/rendering,9a4005caa5cc13f5174e3b8981eeec5631ed83d1,Web APIs
 web/api/webxr_device_api/spatial_tracking,cda88aaf82e8bc03b3826396d96aab18a669134c,Web APIs
-web/api/webxr_device_api/startup_and_shutdown,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
+web/api/webxr_device_api/startup_and_shutdown,15e1155ab8a0587405601cc4753bb789cd6ac47c,Web APIs
 web/api/webxr_device_api/targeting,4f0f7386262363103a3e9cf482bb348d8570b331,Web APIs
 web/api/wgsllanguagefeatures,69c9bd804959412056a66ad9c36312c1dff928d8,Web APIs
 web/api/wheelevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
@@ -10470,7 +10471,7 @@ web/css/guides/grid_layout/subgrid,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|
 web/css/guides/images,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/images/implementing_image_sprites,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/images/replaced_element_properties,ba3c8980510073ee92674aa71cb2c8c5b71294ab,CSS|Guides
-web/css/guides/images/using_gradients,4f1188d6d007e5f57aa62326f89a849aa4cae707,CSS|Guides
+web/css/guides/images/using_gradients,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Guides
 web/css/guides/images/using_object-view-box,ef62db148244eb03c862aa7f1b3865a3f727deaf,CSS|Guides
 web/css/guides/inline_layout,caab35a9191642d8d0362bba385f260b40683ccf,CSS|Guides
 web/css/guides/inline_layout/inline_formatting_context,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10509,7 +10510,7 @@ web/css/guides/overflow/carousels,6aca3e5157dbc163fe8209d9bf8cc3f2e8ec3f9d,CSS|G
 web/css/guides/overscroll_behavior,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/paged_media,74d9a1227d110a152bf4d68f5d5f753e723ea01b,CSS|Guides
 web/css/guides/positioned_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/positioned_layout/stacking_context,2e0b9415ed31484a4830e214eff9e06e408c7261,CSS|Guides
+web/css/guides/positioned_layout/stacking_context,15e1155ab8a0587405601cc4753bb789cd6ac47c,CSS|Guides
 web/css/guides/positioned_layout/stacking_context/example_1,c1bbbf977b4fd477104265cd87f74cdf42616b0d,CSS|Guides
 web/css/guides/positioned_layout/stacking_context/example_2,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/positioned_layout/stacking_context/example_3,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10525,7 +10526,7 @@ web/css/guides/round_display,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/ruby_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/scoping,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/scroll-driven_animations,f538091795d2ae7ddde4c03d939bd6efb451ef39,CSS|Guides
-web/css/guides/scroll-driven_animations/timeline_insets,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,CSS|Guides
+web/css/guides/scroll-driven_animations/timeline_insets,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Guides
 web/css/guides/scroll-driven_animations/timeline_range_names,e5cd1cab36e2fdcf5dfe28e10b0a7cb235354e62,CSS|Guides
 web/css/guides/scroll-driven_animations/timelines,f94b7a0b06a0e32df81ec8197720d306fe50a4a0,CSS|Guides
 web/css/guides/scroll_anchoring,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10573,7 +10574,7 @@ web/css/guides/webxr_dom_overlays,52a247932646cc4cb4b3a9bb50d7bd66d1fdc713,CSS|G
 web/css/guides/will_change,c655f38c10ba17b853b0e66b43cf4cf2b176e424,CSS|Guides
 web/css/guides/writing_modes,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
 web/css/guides/writing_modes/vertical_controls,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
-web/css/guides/writing_modes/writing_mode_systems,c53bfa01f3bf436d486f4032c16f592855a2af2c,CSS|Guides
+web/css/guides/writing_modes/writing_mode_systems,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Guides
 web/css/how_to,f3bf4e2bd456159093d3820253be9f266ace070a,CSS|How To
 web/css/how_to/layout_cookbook,754b68246f4e69e404309fee4a1699e047e43994,CSS|How To
 web/css/how_to/layout_cookbook/breadcrumb_navigation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|How To
@@ -10619,7 +10620,7 @@ web/css/reference/at-rules/@font-face/font-weight,c66cecb0ec58ddea1bd624aa89dd35
 web/css/reference/at-rules/@font-face/font-width,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/line-gap-override,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-face/size-adjust,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
-web/css/reference/at-rules/@font-face/src,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|At-rules
+web/css/reference/at-rules/@font-face/src,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|At-rules
 web/css/reference/at-rules/@font-face/unicode-range,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@font-feature-values,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/@font-feature-values/font-display,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
@@ -10856,8 +10857,8 @@ web/css/reference/properties/column-rule-break,880c2c4b113c6fe127ca3ae3603a56ef7
 web/css/reference/properties/column-rule-color,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|Properties
 web/css/reference/properties/column-rule-inset-cap,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
 web/css/reference/properties/column-rule-inset-cap-end,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
-web/css/reference/properties/column-rule-inset-cap-start,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
-web/css/reference/properties/column-rule-inset-junction-end,c297ca81510b69e602e8fef4732d558b7ed020b0,CSS|Properties
+web/css/reference/properties/column-rule-inset-cap-start,15e1155ab8a0587405601cc4753bb789cd6ac47c,CSS|Properties
+web/css/reference/properties/column-rule-inset-junction-end,15e1155ab8a0587405601cc4753bb789cd6ac47c,CSS|Properties
 web/css/reference/properties/column-rule-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
 web/css/reference/properties/column-rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/column-rule-width,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
@@ -10943,7 +10944,7 @@ web/css/reference/properties/font-variant,5381238460a48ff323a93e652d15cb62598f02
 web/css/reference/properties/font-variant-alternates,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-variant-caps,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-variant-east-asian,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/font-variant-emoji,874031f6f50908d8679b8debc6bbd807870c8dbb,CSS|Properties
+web/css/reference/properties/font-variant-emoji,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Properties
 web/css/reference/properties/font-variant-ligatures,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-variant-numeric,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/font-variant-position,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
@@ -10971,7 +10972,7 @@ web/css/reference/properties/grid-template-rows,2f710bc43d966483d0204330b14f841b
 web/css/reference/properties/hanging-punctuation,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/height,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/hyphenate-character,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/hyphenate-limit-chars,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/hyphenate-limit-chars,367f942b096f97d4c3063e31a0dc5002736db81b,CSS|Properties
 web/css/reference/properties/hyphens,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/image-orientation,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/image-rendering,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
@@ -11098,7 +11099,7 @@ web/css/reference/properties/page-break-after,ca6052779ddca9f6d99665f12c39aa2d85
 web/css/reference/properties/page-break-before,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|Properties
 web/css/reference/properties/page-break-inside,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|Properties
 web/css/reference/properties/paint-order,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/path-length,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
+web/css/reference/properties/path-length,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Properties
 web/css/reference/properties/perspective,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/perspective-origin,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/place-content,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
@@ -11124,9 +11125,9 @@ web/css/reference/properties/row-gap,7b535c422322a8a330bd68075541abfc78efc4b7,CS
 web/css/reference/properties/row-rule,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/row-rule-break,b6f3d1e0efeff683860ea49a89730ef90643e955,CSS|Properties
 web/css/reference/properties/row-rule-color,9b7a110e601556b82af6b5d46f01c757c5a11719,CSS|Properties
-web/css/reference/properties/row-rule-inset-cap,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
+web/css/reference/properties/row-rule-inset-cap,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Properties
 web/css/reference/properties/row-rule-inset-cap-end,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
-web/css/reference/properties/row-rule-inset-cap-start,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
+web/css/reference/properties/row-rule-inset-cap-start,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Properties
 web/css/reference/properties/row-rule-style,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/row-rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/row-rule-width,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
@@ -11136,7 +11137,7 @@ web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb6150
 web/css/reference/properties/rule,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/rule-break,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/rule-color,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
-web/css/reference/properties/rule-inset-cap,16bd5315b5fa374b4fa37e3c8907614c987f4275,CSS|Properties
+web/css/reference/properties/rule-inset-cap,15e1155ab8a0587405601cc4753bb789cd6ac47c,CSS|Properties
 web/css/reference/properties/rule-style,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/rule-width,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
@@ -11144,7 +11145,7 @@ web/css/reference/properties/rx,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Pro
 web/css/reference/properties/ry,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scale,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/scroll-behavior,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/scroll-initial-target,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/scroll-initial-target,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Properties
 web/css/reference/properties/scroll-margin,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/scroll-margin-block,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/scroll-margin-block-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11472,7 +11473,7 @@ web/css/reference/values/color-interpolation-method,c88e03530319b73272fd4f9a9f6e
 web/css/reference/values/color_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/color_value/alpha,77ee105b32c153b8822321ce54462134d4767c50,CSS|Values
 web/css/reference/values/color_value/color,99251a2a7cc534462d5c0ad6fbcb17905e4df826,CSS|Values
-web/css/reference/values/color_value/color-mix,b01888f5bfa93e23fdf398afc3073d61d6d3c832,CSS|Values
+web/css/reference/values/color_value/color-mix,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Values
 web/css/reference/values/color_value/contrast-color,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Values
 web/css/reference/values/color_value/device-cmyk,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/color_value/hsl,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Values
@@ -11541,7 +11542,7 @@ web/css/reference/values/hypot,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Valu
 web/css/reference/values/ident,cad9096502d2a74b34a67377bbb0ac88fcfa58c2,CSS|Values
 web/css/reference/values/if,f0179562ad8e2a4dd1f0916c529792198d7e06b2,CSS|Values
 web/css/reference/values/image,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/image/image,61f27416f7cfa79bd102042eeb3e44fe629d9c95,CSS|Values
+web/css/reference/values/image/image,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Values
 web/css/reference/values/image/image-set,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/image/paint,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/important,d93983dfe60b65633f67fffe04676c241ff92960,CSS|Values
@@ -11563,13 +11564,13 @@ web/css/reference/values/named-color,c88e03530319b73272fd4f9a9f6ebe878f026004,CS
 web/css/reference/values/number,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/overflow-position,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/overflow_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/param,216676f18e04a1adcc31fa22b5878b39338671cd,CSS|Values
+web/css/reference/values/param,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Values
 web/css/reference/values/percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/position-area_value,c9f812354ae36bbafc6f6d9b0961f3b25f350f4c,CSS|Values
 web/css/reference/values/position_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/pow,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/progress,d35a7643766c8f8d1d92044ca771dbf8dc843906,CSS|Values
-web/css/reference/values/random,ba3c8980510073ee92674aa71cb2c8c5b71294ab,CSS|Values
+web/css/reference/values/random,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Values
 web/css/reference/values/ratio,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/ray,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/relative-size,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
@@ -11585,7 +11586,7 @@ web/css/reference/values/self-position,c88e03530319b73272fd4f9a9f6ebe878f026004,
 web/css/reference/values/shape,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|Values
 web/css/reference/values/sibling-count,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/sibling-index,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/sign,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/sign,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Values
 web/css/reference/values/sin,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/sqrt,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/string,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
@@ -11710,7 +11711,7 @@ web/html/reference/elements/colgroup,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HT
 web/html/reference/elements/data,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/datalist,c9f3d85f24d7839c9fe36a68d8042d088d906147,HTML|Elements
 web/html/reference/elements/dd,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/del,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
+web/html/reference/elements/del,15e1155ab8a0587405601cc4753bb789cd6ac47c,HTML|Elements
 web/html/reference/elements/details,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/dfn,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/dialog,c03648dd993f7afd0c17ce57061dc31d64f5e943,HTML|Elements
@@ -11762,7 +11763,7 @@ web/html/reference/elements/input/text,3944506d4afeeed774687cf3fd950878c6229bbc,
 web/html/reference/elements/input/time,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/url,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/input/week,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/ins,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/ins,15e1155ab8a0587405601cc4753bb789cd6ac47c,HTML|Elements
 web/html/reference/elements/kbd,f201fb25d8aeda059065686c180e161c995369d2,HTML|Elements
 web/html/reference/elements/label,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/legend,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11770,7 +11771,7 @@ web/html/reference/elements/li,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Ele
 web/html/reference/elements/link,fc7c0c6df803d5ce26e7b2a72725a7d021ed0694,HTML|Elements
 web/html/reference/elements/main,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/map,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/mark,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/mark,15e1155ab8a0587405601cc4753bb789cd6ac47c,HTML|Elements
 web/html/reference/elements/marquee,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/menu,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/meta,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11806,7 +11807,7 @@ web/html/reference/elements/rp,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Ele
 web/html/reference/elements/rt,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/rtc,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/ruby,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/s,2bb6edfe996e099d7cbe0d0e2635a76e00a788cc,HTML|Elements
+web/html/reference/elements/s,15e1155ab8a0587405601cc4753bb789cd6ac47c,HTML|Elements
 web/html/reference/elements/samp,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/script,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/script/type,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Elements
@@ -14375,7 +14376,7 @@ webassembly/guides/javascript_builtins,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,
 webassembly/guides/loading_and_running,0cc63ce1d7f43eb98746a908a9aba68ef6a36f7b,WebAssembly|Guides
 webassembly/guides/rust_to_wasm,9e69ea9db9ec62df101e83cbc07d447e1984c57e,WebAssembly|Guides
 webassembly/guides/text_format_to_wasm,95a7913cbb3523812bbff003e4d4015e928e35c9,WebAssembly|Guides
-webassembly/guides/understanding_the_text_format,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Guides
+webassembly/guides/understanding_the_text_format,15e1155ab8a0587405601cc4753bb789cd6ac47c,WebAssembly|Guides
 webassembly/guides/using_the_javascript_api,e134d50d779647ba26ee41d7bbefc8d3b4e8fba6,WebAssembly|Guides
 webassembly/reference,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly
 webassembly/reference/control_flow,ebf92d37f836b490640a7881c4e5db5c1dea8fe7,WebAssembly|Control Flow
@@ -14423,7 +14424,7 @@ webassembly/reference/javascript_interface/exception,5b9e4bb67e5cb4bb2b780e7338a
 webassembly/reference/javascript_interface/exception/exception,ad01ed9218be15d7aeaa0666ec0bc2a2d17f3574,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/exception/getarg,870fe25a3e6ed1a44222c52dd8a992b731c1a383,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/exception/is,48b0dc43b7c13a2c9a5d2c56f110444d2550b90e,WebAssembly|JavaScript Interface
-webassembly/reference/javascript_interface/exception/stack,5b9e4bb67e5cb4bb2b780e7338a6560463e5a1a7,WebAssembly|JavaScript Interface
+webassembly/reference/javascript_interface/exception/stack,15e1155ab8a0587405601cc4753bb789cd6ac47c,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/global,a21bf857ac668ad72a36aad0d8ad7e87c6bdc4d8,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/global/global,3f858cef76c9af1deb489f87331e9452e74b082a,WebAssembly|JavaScript Interface
 webassembly/reference/javascript_interface/global/value,a21bf857ac668ad72a36aad0d8ad7e87c6bdc4d8,WebAssembly|JavaScript Interface
