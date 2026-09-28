@@ -1025,7 +1025,7 @@ learn_web_development/howto/tools_and_setup/using_github_pages,2
 learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,4
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,5
 learn_web_development/howto/web_mechanics,0
-learn_web_development/howto/web_mechanics/file_browser_bugs,3
+learn_web_development/howto/web_mechanics/file_browser_bugs,0
 learn_web_development/howto/web_mechanics/how_does_the_internet_work,2
 learn_web_development/howto/web_mechanics/what_are_hyperlinks,0
 learn_web_development/howto/web_mechanics/what_is_a_domain_name,0
@@ -10456,7 +10456,7 @@ web/css/guides/gaps,5
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,1
 web/css/guides/grid_layout/accessibility,0
-web/css/guides/grid_layout/auto-placement,0
+web/css/guides/grid_layout/auto-placement,1
 web/css/guides/grid_layout/basic_concepts,2
 web/css/guides/grid_layout/box_alignment,0
 web/css/guides/grid_layout/common_grid_layouts,0
@@ -13734,7 +13734,7 @@ web/progressive_web_apps/guides/offline_and_background_operation,7
 web/progressive_web_apps/guides/what_is_a_progressive_web_app,5
 web/progressive_web_apps/how_to,1
 web/progressive_web_apps/how_to/associate_files_with_your_pwa,2
-web/progressive_web_apps/how_to/create_a_standalone_app,1
+web/progressive_web_apps/how_to/create_a_standalone_app,2
 web/progressive_web_apps/how_to/customize_your_app_colors,4
 web/progressive_web_apps/how_to/define_app_icons,2
 web/progressive_web_apps/how_to/display_badge_on_app_icon,3
