@@ -2518,7 +2518,7 @@ web/api/domquad/p1,c486da8298cdfdba0556a190d8e3f92e9aa117bb
 web/api/domquad/p2,c486da8298cdfdba0556a190d8e3f92e9aa117bb
 web/api/domquad/p3,c486da8298cdfdba0556a190d8e3f92e9aa117bb
 web/api/domquad/p4,c486da8298cdfdba0556a190d8e3f92e9aa117bb
-web/api/domrect/domrect,no_hash_commit
+web/api/domrect/domrect,dc82e604c805cd2eae887a371111e902c8c52241
 web/api/domrect/height,dc82e604c805cd2eae887a371111e902c8c52241
 web/api/domrect,no_hash_commit
 web/api/domrect/width,dc82e604c805cd2eae887a371111e902c8c52241
@@ -3807,7 +3807,7 @@ web/api/node/contains,no_hash_commit
 web/api/node/firstchild,no_hash_commit
 web/api/node/getrootnode,no_hash_commit
 web/api/node/haschildnodes,no_hash_commit
-web/api/node,no_hash_commit
+web/api/node,5cfd038b0d37452042461cfe169c0c9ab87be94d
 web/api/node/insertbefore,aa8fa82a902746b0bd97839180fc2b5397088140
 web/api/node/isconnected,no_hash_commit
 web/api/node/isdefaultnamespace,f9c2ae293074c49f1ed2b86913ef24b0042e0047
