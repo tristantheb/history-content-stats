@@ -1966,7 +1966,7 @@ mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,4
-mozilla/firefox/releases/157,0
+mozilla/firefox/releases/157,1
 mozilla/firefox/releases/158,null
 mozilla/firefox/releases/159,null
 mozilla/firefox/releases/16,0
@@ -2166,7 +2166,7 @@ web/accessibility/aria/reference/attributes/aria-valuenow,0
 web/accessibility/aria/reference/attributes/aria-valuetext,0
 web/accessibility/aria/reference/roles,0
 web/accessibility/aria/reference/roles/alert_role,1
-web/accessibility/aria/reference/roles/alertdialog_role,0
+web/accessibility/aria/reference/roles/alertdialog_role,1
 web/accessibility/aria/reference/roles/application_role,0
 web/accessibility/aria/reference/roles/article_role,0
 web/accessibility/aria/reference/roles/banner_role,0
@@ -2181,14 +2181,14 @@ web/accessibility/aria/reference/roles/complementary_role,0
 web/accessibility/aria/reference/roles/composite_role,0
 web/accessibility/aria/reference/roles/contentinfo_role,0
 web/accessibility/aria/reference/roles/definition_role,0
-web/accessibility/aria/reference/roles/dialog_role,0
+web/accessibility/aria/reference/roles/dialog_role,1
 web/accessibility/aria/reference/roles/directory_role,0
 web/accessibility/aria/reference/roles/document_role,0
 web/accessibility/aria/reference/roles/feed_role,0
 web/accessibility/aria/reference/roles/figure_role,0
-web/accessibility/aria/reference/roles/form_role,0
+web/accessibility/aria/reference/roles/form_role,1
 web/accessibility/aria/reference/roles/generic_role,0
-web/accessibility/aria/reference/roles/grid_role,0
+web/accessibility/aria/reference/roles/grid_role,1
 web/accessibility/aria/reference/roles/gridcell_role,0
 web/accessibility/aria/reference/roles/group_role,0
 web/accessibility/aria/reference/roles/heading_role,0
@@ -2217,7 +2217,7 @@ web/accessibility/aria/reference/roles/option_role,0
 web/accessibility/aria/reference/roles/presentation_role,0
 web/accessibility/aria/reference/roles/progressbar_role,0
 web/accessibility/aria/reference/roles/radio_role,0
-web/accessibility/aria/reference/roles/radiogroup_role,0
+web/accessibility/aria/reference/roles/radiogroup_role,1
 web/accessibility/aria/reference/roles/range_role,0
 web/accessibility/aria/reference/roles/region_role,0
 web/accessibility/aria/reference/roles/roletype_role,0
@@ -2239,7 +2239,7 @@ web/accessibility/aria/reference/roles/structure_role,0
 web/accessibility/aria/reference/roles/suggestion_role,0
 web/accessibility/aria/reference/roles/switch_role,0
 web/accessibility/aria/reference/roles/tab_role,0
-web/accessibility/aria/reference/roles/table_role,0
+web/accessibility/aria/reference/roles/table_role,1
 web/accessibility/aria/reference/roles/tablist_role,0
 web/accessibility/aria/reference/roles/tabpanel_role,0
 web/accessibility/aria/reference/roles/term_role,0
@@ -11062,7 +11062,7 @@ web/css/reference/properties/opacity,0
 web/css/reference/properties/order,0
 web/css/reference/properties/orphans,1
 web/css/reference/properties/outline,1
-web/css/reference/properties/outline-color,0
+web/css/reference/properties/outline-color,1
 web/css/reference/properties/outline-offset,0
 web/css/reference/properties/outline-style,1
 web/css/reference/properties/outline-width,1

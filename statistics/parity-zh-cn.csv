@@ -1234,7 +1234,7 @@ mozilla/add-ons/webextensions/api/browsingdata/removehistory,5
 mozilla/add-ons/webextensions/api/browsingdata/removelocalstorage,5
 mozilla/add-ons/webextensions/api/browsingdata/removepasswords,5
 mozilla/add-ons/webextensions/api/browsingdata/removeplugindata,5
-mozilla/add-ons/webextensions/api/browsingdata/settings,6
+mozilla/add-ons/webextensions/api/browsingdata/settings,7
 mozilla/add-ons/webextensions/api/captiveportal,2
 mozilla/add-ons/webextensions/api/captiveportal/canonicalurl,4
 mozilla/add-ons/webextensions/api/captiveportal/getlastchecked,1
@@ -1572,7 +1572,7 @@ mozilla/add-ons/webextensions/api/runtime/sendnativemessage,null
 mozilla/add-ons/webextensions/api/runtime/setuninstallurl,null
 mozilla/add-ons/webextensions/api/scripting,2
 mozilla/add-ons/webextensions/api/scripting/contentscriptfilter,2
-mozilla/add-ons/webextensions/api/scripting/executescript,7
+mozilla/add-ons/webextensions/api/scripting/executescript,8
 mozilla/add-ons/webextensions/api/scripting/executionworld,1
 mozilla/add-ons/webextensions/api/scripting/getregisteredcontentscripts,1
 mozilla/add-ons/webextensions/api/scripting/injectiontarget,5
@@ -2166,7 +2166,7 @@ web/accessibility/aria/reference/attributes/aria-valuenow,null
 web/accessibility/aria/reference/attributes/aria-valuetext,null
 web/accessibility/aria/reference/roles,3
 web/accessibility/aria/reference/roles/alert_role,1
-web/accessibility/aria/reference/roles/alertdialog_role,0
+web/accessibility/aria/reference/roles/alertdialog_role,1
 web/accessibility/aria/reference/roles/application_role,0
 web/accessibility/aria/reference/roles/article_role,0
 web/accessibility/aria/reference/roles/banner_role,0
