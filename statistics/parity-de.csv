@@ -2388,14 +2388,14 @@ web/api/audiobuffer/getchanneldata,0
 web/api/audiobuffer/length,0
 web/api/audiobuffer/numberofchannels,0
 web/api/audiobuffer/samplerate,0
-web/api/audiobuffersourcenode,0
+web/api/audiobuffersourcenode,1
 web/api/audiobuffersourcenode/audiobuffersourcenode,0
 web/api/audiobuffersourcenode/buffer,0
 web/api/audiobuffersourcenode/detune,0
 web/api/audiobuffersourcenode/loop,0
 web/api/audiobuffersourcenode/loopend,0
 web/api/audiobuffersourcenode/loopstart,0
-web/api/audiobuffersourcenode/playbackrate,0
+web/api/audiobuffersourcenode/playbackrate,1
 web/api/audiobuffersourcenode/start,0
 web/api/audiocontext,0
 web/api/audiocontext/audiocontext,0
@@ -2436,7 +2436,7 @@ web/api/audiodecoder/flush,0
 web/api/audiodecoder/isconfigsupported_static,0
 web/api/audiodecoder/reset,0
 web/api/audiodecoder/state,0
-web/api/audiodestinationnode,0
+web/api/audiodestinationnode,1
 web/api/audiodestinationnode/maxchannelcount,0
 web/api/audioencoder,0
 web/api/audioencoder/audioencoder,0
@@ -2449,7 +2449,7 @@ web/api/audioencoder/flush,0
 web/api/audioencoder/isconfigsupported_static,0
 web/api/audioencoder/reset,0
 web/api/audioencoder/state,0
-web/api/audiolistener,0
+web/api/audiolistener,1
 web/api/audiolistener/forwardx,0
 web/api/audiolistener/forwardy,0
 web/api/audiolistener/forwardz,0
@@ -2468,8 +2468,8 @@ web/api/audionode/channelinterpretation,0
 web/api/audionode/connect,0
 web/api/audionode/context,0
 web/api/audionode/disconnect,0
-web/api/audionode/numberofinputs,0
-web/api/audionode/numberofoutputs,0
+web/api/audionode/numberofinputs,1
+web/api/audionode/numberofoutputs,1
 web/api/audioparam,0
 web/api/audioparam/cancelandholdattime,0
 web/api/audioparam/cancelscheduledvalues,0
@@ -2540,7 +2540,7 @@ web/api/audioworkletprocessor/parameterdescriptors_static,0
 web/api/audioworkletprocessor/port,0
 web/api/audioworkletprocessor/process,0
 web/api/authenticatorassertionresponse,0
-web/api/authenticatorassertionresponse/authenticatordata,0
+web/api/authenticatorassertionresponse/authenticatordata,1
 web/api/authenticatorassertionresponse/signature,0
 web/api/authenticatorassertionresponse/userhandle,0
 web/api/authenticatorattestationresponse,0
@@ -2549,7 +2549,7 @@ web/api/authenticatorattestationresponse/getauthenticatordata,0
 web/api/authenticatorattestationresponse/getpublickey,0
 web/api/authenticatorattestationresponse/getpublickeyalgorithm,0
 web/api/authenticatorattestationresponse/gettransports,0
-web/api/authenticatorresponse,0
+web/api/authenticatorresponse,1
 web/api/authenticatorresponse/clientdatajson,0
 web/api/background_fetch_api,0
 web/api/background_synchronization_api,0
@@ -2610,9 +2610,9 @@ web/api/baseaudiocontext/createstereopanner,0
 web/api/baseaudiocontext/createwaveshaper,0
 web/api/baseaudiocontext/currenttime,0
 web/api/baseaudiocontext/decodeaudiodata,0
-web/api/baseaudiocontext/destination,0
-web/api/baseaudiocontext/listener,0
-web/api/baseaudiocontext/samplerate,0
+web/api/baseaudiocontext/destination,1
+web/api/baseaudiocontext/listener,1
+web/api/baseaudiocontext/samplerate,1
 web/api/baseaudiocontext/state,0
 web/api/baseaudiocontext/statechange_event,0
 web/api/battery_status_api,0
@@ -2769,7 +2769,7 @@ web/api/canvasgradient,0
 web/api/canvasgradient/addcolorstop,0
 web/api/canvaspattern,0
 web/api/canvaspattern/settransform,0
-web/api/canvasrenderingcontext2d,0
+web/api/canvasrenderingcontext2d,1
 web/api/canvasrenderingcontext2d/arc,0
 web/api/canvasrenderingcontext2d/arcto,0
 web/api/canvasrenderingcontext2d/beginpath,0
@@ -2843,7 +2843,7 @@ web/api/canvasrenderingcontext2d/textrendering,0
 web/api/canvasrenderingcontext2d/transform,0
 web/api/canvasrenderingcontext2d/translate,0
 web/api/canvasrenderingcontext2d/wordspacing,0
-web/api/capturecontroller,0
+web/api/capturecontroller,1
 web/api/capturecontroller/capturecontroller,0
 web/api/capturecontroller/decreasezoomlevel,0
 web/api/capturecontroller/forwardwheel,0
@@ -2942,7 +2942,7 @@ web/api/compositionevent/data,0
 web/api/compositionevent/initcompositionevent,0
 web/api/compositionevent/locale,0
 web/api/compression_streams_api,0
-web/api/compressionstream,0
+web/api/compressionstream,1
 web/api/compressionstream/compressionstream,0
 web/api/compressionstream/readable,0
 web/api/compressionstream/writable,0
@@ -2971,7 +2971,7 @@ web/api/console/timestamp_static,0
 web/api/console/trace_static,0
 web/api/console/warn_static,0
 web/api/console_api,0
-web/api/constantsourcenode,0
+web/api/constantsourcenode,1
 web/api/constantsourcenode/constantsourcenode,0
 web/api/constantsourcenode/offset,0
 web/api/contact_picker_api,0
@@ -3066,7 +3066,7 @@ web/api/cspviolationreport/referrer,0
 web/api/cspviolationreport/sample,0
 web/api/cspviolationreport/sourcefile,0
 web/api/cspviolationreport/statuscode,0
-web/api/css,0
+web/api/css,1
 web/api/css/escape_static,0
 web/api/css/factory_functions_static,0
 web/api/css/highlights_static,0
@@ -3123,7 +3123,7 @@ web/api/cssfontfeaturevaluesmap/set,0
 web/api/cssfontfeaturevaluesmap/size,0
 web/api/cssfontfeaturevaluesmap/symbol.iterator,0
 web/api/cssfontfeaturevaluesmap/values,0
-web/api/cssfontfeaturevaluesrule,0
+web/api/cssfontfeaturevaluesrule,1
 web/api/cssfontfeaturevaluesrule/annotation,0
 web/api/cssfontfeaturevaluesrule/charactervariant,0
 web/api/cssfontfeaturevaluesrule/fontfamily,0
@@ -3202,7 +3202,7 @@ web/api/cssmatrixcomponent/cssmatrixcomponent,0
 web/api/cssmatrixcomponent/matrix,0
 web/api/cssmediarule,0
 web/api/cssmediarule/media,0
-web/api/cssnamespacerule,0
+web/api/cssnamespacerule,1
 web/api/cssnamespacerule/namespaceuri,0
 web/api/cssnamespacerule/prefix,0
 web/api/cssnesteddeclarations,0
@@ -3269,8 +3269,8 @@ web/api/cssrotate/y,0
 web/api/cssrotate/z,0
 web/api/cssrule,0
 web/api/cssrule/csstext,0
-web/api/cssrule/parentrule,0
-web/api/cssrule/parentstylesheet,0
+web/api/cssrule/parentrule,1
+web/api/cssrule/parentstylesheet,1
 web/api/cssrule/type,0
 web/api/cssrulelist,0
 web/api/cssrulelist/item,0
@@ -3280,7 +3280,7 @@ web/api/cssscale/cssscale,0
 web/api/cssscale/x,0
 web/api/cssscale/y,0
 web/api/cssscale/z,0
-web/api/cssscoperule,0
+web/api/cssscoperule,1
 web/api/cssscoperule/end,0
 web/api/cssscoperule/start,0
 web/api/cssskew,0
@@ -3321,7 +3321,7 @@ web/api/cssstylesheet/ownerrule,0
 web/api/cssstylesheet/removerule,0
 web/api/cssstylesheet/replace,0
 web/api/cssstylesheet/replacesync,0
-web/api/cssstylesheet/rules,0
+web/api/cssstylesheet/rules,1
 web/api/cssstylevalue,0
 web/api/cssstylevalue/parse_static,0
 web/api/cssstylevalue/parseall_static,0
@@ -3421,7 +3421,7 @@ web/api/datatransferitemlist/add,0
 web/api/datatransferitemlist/clear,0
 web/api/datatransferitemlist/length,0
 web/api/datatransferitemlist/remove,0
-web/api/decompressionstream,0
+web/api/decompressionstream,1
 web/api/decompressionstream/decompressionstream,0
 web/api/decompressionstream/readable,0
 web/api/decompressionstream/writable,0
@@ -3651,7 +3651,7 @@ web/api/documentpictureinpicture/window,0
 web/api/documentpictureinpictureevent,0
 web/api/documentpictureinpictureevent/documentpictureinpictureevent,0
 web/api/documentpictureinpictureevent/window,0
-web/api/documenttimeline,0
+web/api/documenttimeline,1
 web/api/documenttimeline/documenttimeline,0
 web/api/documenttype,0
 web/api/documenttype/after,0
@@ -3743,7 +3743,7 @@ web/api/domquad/p2,0
 web/api/domquad/p3,0
 web/api/domquad/p4,0
 web/api/domquad/tojson,0
-web/api/domrect,0
+web/api/domrect,1
 web/api/domrect/domrect,0
 web/api/domrect/fromrect_static,0
 web/api/domrect/height,0
@@ -3820,7 +3820,7 @@ web/api/editcontext/updateselectionbounds,0
 web/api/editcontext/updatetext,0
 web/api/editcontext_api,0
 web/api/editcontext_api/guide,0
-web/api/element,0
+web/api/element,1
 web/api/element/activeviewtransition,0
 web/api/element/after,0
 web/api/element/afterscriptexecute_event,0
@@ -4038,7 +4038,7 @@ web/api/element/webkitmouseforcedown_event,0
 web/api/element/webkitmouseforceup_event,0
 web/api/element/webkitmouseforcewillbegin_event,0
 web/api/element/wheel_event,0
-web/api/elementinternals,0
+web/api/elementinternals,1
 web/api/elementinternals/ariaactivedescendantelement,0
 web/api/elementinternals/ariaatomic,0
 web/api/elementinternals/ariaautocomplete,0
@@ -4212,7 +4212,7 @@ web/api/fedcm_api/rp_sign-in,0
 web/api/federatedcredential,0
 web/api/federatedcredential/federatedcredential,0
 web/api/federatedcredential/protocol,0
-web/api/federatedcredential/provider,0
+web/api/federatedcredential/provider,1
 web/api/federatedcredentialinit,0
 web/api/fence,0
 web/api/fence/getnestedconfigs,0
@@ -4228,7 +4228,7 @@ web/api/fetch_api/using_fetch,0
 web/api/fetchevent,0
 web/api/fetchevent/clientid,0
 web/api/fetchevent/fetchevent,0
-web/api/fetchevent/handled,0
+web/api/fetchevent/handled,1
 web/api/fetchevent/isreload,0
 web/api/fetchevent/preloadresponse,0
 web/api/fetchevent/request,0
@@ -4334,7 +4334,7 @@ web/api/filesystemwritablefilestream,0
 web/api/filesystemwritablefilestream/seek,0
 web/api/filesystemwritablefilestream/truncate,0
 web/api/filesystemwritablefilestream/write,0
-web/api/focusevent,0
+web/api/focusevent,1
 web/api/focusevent/focusevent,0
 web/api/focusevent/relatedtarget,0
 web/api/fontdata,0
@@ -4374,7 +4374,7 @@ web/api/fontfaceset/loading_event,0
 web/api/fontfaceset/loadingdone_event,0
 web/api/fontfaceset/loadingerror_event,0
 web/api/fontfaceset/ready,0
-web/api/fontfaceset/size,0
+web/api/fontfaceset/size,1
 web/api/fontfaceset/status,0
 web/api/fontfaceset/values,0
 web/api/fontfacesetloadevent,0
@@ -4392,7 +4392,7 @@ web/api/formdata/has,0
 web/api/formdata/keys,0
 web/api/formdata/set,0
 web/api/formdata/values,0
-web/api/formdataevent,0
+web/api/formdataevent,1
 web/api/formdataevent/formdata,0
 web/api/formdataevent/formdataevent,0
 web/api/fragmentdirective,0
@@ -4402,17 +4402,17 @@ web/api/gainnode,0
 web/api/gainnode/gain,0
 web/api/gainnode/gainnode,0
 web/api/gamepad,0
-web/api/gamepad/axes,0
-web/api/gamepad/buttons,0
-web/api/gamepad/connected,0
+web/api/gamepad/axes,1
+web/api/gamepad/buttons,1
+web/api/gamepad/connected,1
 web/api/gamepad/displayid,0
 web/api/gamepad/hand,0
 web/api/gamepad/hapticactuators,0
-web/api/gamepad/id,0
-web/api/gamepad/index,0
-web/api/gamepad/mapping,0
+web/api/gamepad/id,1
+web/api/gamepad/index,1
+web/api/gamepad/mapping,1
 web/api/gamepad/pose,0
-web/api/gamepad/timestamp,0
+web/api/gamepad/timestamp,1
 web/api/gamepad/vibrationactuator,0
 web/api/gamepad_api,0
 web/api/gamepad_api/using_the_gamepad_api,0
@@ -4639,7 +4639,7 @@ web/api/gpushadermodule,0
 web/api/gpushadermodule/getcompilationinfo,0
 web/api/gpushadermodule/label,0
 web/api/gpusupportedfeatures,0
-web/api/gpusupportedlimits,0
+web/api/gpusupportedlimits,1
 web/api/gputexture,0
 web/api/gputexture/createview,0
 web/api/gputexture/depthorarraylayers,0
@@ -5228,7 +5228,7 @@ web/api/htmlmediaelement/waiting_event,0
 web/api/htmlmediaelement/waitingforkey_event,0
 web/api/htmlmenuelement,0
 web/api/htmlmenuelement/compact,0
-web/api/htmlmetaelement,0
+web/api/htmlmetaelement,1
 web/api/htmlmetaelement/content,0
 web/api/htmlmetaelement/httpequiv,0
 web/api/htmlmetaelement/media,0
@@ -5532,7 +5532,7 @@ web/api/idbdatabase/deleteobjectstore,0
 web/api/idbdatabase/name,0
 web/api/idbdatabase/objectstorenames,0
 web/api/idbdatabase/transaction,0
-web/api/idbdatabase/version,0
+web/api/idbdatabase/version,1
 web/api/idbdatabase/versionchange_event,0
 web/api/idbfactory,0
 web/api/idbfactory/cmp,0
@@ -5547,11 +5547,11 @@ web/api/idbindex/getallkeys,0
 web/api/idbindex/getallrecords,0
 web/api/idbindex/getkey,0
 web/api/idbindex/isautolocale,0
-web/api/idbindex/keypath,0
+web/api/idbindex/keypath,1
 web/api/idbindex/locale,0
 web/api/idbindex/multientry,0
 web/api/idbindex/name,0
-web/api/idbindex/objectstore,0
+web/api/idbindex/objectstore,1
 web/api/idbindex/opencursor,0
 web/api/idbindex/openkeycursor,0
 web/api/idbindex/unique,0
@@ -5605,7 +5605,7 @@ web/api/idbtransaction/commit,0
 web/api/idbtransaction/complete_event,0
 web/api/idbtransaction/db,0
 web/api/idbtransaction/durability,0
-web/api/idbtransaction/error,0
+web/api/idbtransaction/error,1
 web/api/idbtransaction/error_event,0
 web/api/idbtransaction/mode,0
 web/api/idbtransaction/objectstore,0
@@ -5920,7 +5920,7 @@ web/api/mediaencryptedevent,0
 web/api/mediaencryptedevent/initdata,0
 web/api/mediaencryptedevent/initdatatype,0
 web/api/mediaencryptedevent/mediaencryptedevent,0
-web/api/mediaerror,0
+web/api/mediaerror,1
 web/api/mediaerror/code,0
 web/api/mediaerror/message,0
 web/api/mediakeymessageevent,0
@@ -6013,7 +6013,7 @@ web/api/mediasession/setscreenshareactive,0
 web/api/mediasource,0
 web/api/mediasource/activesourcebuffers,0
 web/api/mediasource/addsourcebuffer,0
-web/api/mediasource/canconstructindedicatedworker_static,0
+web/api/mediasource/canconstructindedicatedworker_static,1
 web/api/mediasource/clearliveseekablerange,0
 web/api/mediasource/duration,0
 web/api/mediasource/endofstream,0
@@ -6045,7 +6045,7 @@ web/api/mediastream_image_capture_api,0
 web/api/mediastream_recording_api,0
 web/api/mediastream_recording_api/recording_a_media_element,0
 web/api/mediastream_recording_api/using_the_mediastream_recording_api,0
-web/api/mediastreamaudiodestinationnode,0
+web/api/mediastreamaudiodestinationnode,1
 web/api/mediastreamaudiodestinationnode/mediastreamaudiodestinationnode,0
 web/api/mediastreamaudiodestinationnode/stream,0
 web/api/mediastreamaudiosourcenode,0
@@ -6079,7 +6079,7 @@ web/api/mediastreamtrackevent/track,0
 web/api/mediastreamtrackgenerator,0
 web/api/mediastreamtrackgenerator/mediastreamtrackgenerator,0
 web/api/mediastreamtrackgenerator/writable,0
-web/api/mediastreamtrackprocessor,0
+web/api/mediastreamtrackprocessor,1
 web/api/mediastreamtrackprocessor/discardedframes,0
 web/api/mediastreamtrackprocessor/mediastreamtrackprocessor,0
 web/api/mediastreamtrackprocessor/readable,0
@@ -6126,7 +6126,7 @@ web/api/mediatracksettings/screenpixelratio,0
 web/api/mediatracksettings/suppresslocalaudioplayback,0
 web/api/mediatracksettings/volume,0
 web/api/mediatracksettings/width,0
-web/api/merchantvalidationevent,0
+web/api/merchantvalidationevent,1
 web/api/merchantvalidationevent/complete,0
 web/api/merchantvalidationevent/merchantvalidationevent,0
 web/api/merchantvalidationevent/methodname,0
@@ -6162,7 +6162,7 @@ web/api/midiconnectionevent/port,0
 web/api/midiinput,0
 web/api/midiinput/midimessage_event,0
 web/api/midiinputmap,0
-web/api/midimessageevent,0
+web/api/midimessageevent,1
 web/api/midimessageevent/data,0
 web/api/midimessageevent/midimessageevent,0
 web/api/midioutput,0
@@ -6180,8 +6180,8 @@ web/api/midiport/state,0
 web/api/midiport/statechange_event,0
 web/api/midiport/type,0
 web/api/midiport/version,0
-web/api/mimetype,0
-web/api/mimetypearray,0
+web/api/mimetype,1
+web/api/mimetypearray,1
 web/api/mouseevent,0
 web/api/mouseevent/altkey,0
 web/api/mouseevent/button,0
@@ -6557,12 +6557,12 @@ web/api/offscreencanvas/height,0
 web/api/offscreencanvas/offscreencanvas,0
 web/api/offscreencanvas/transfertoimagebitmap,0
 web/api/offscreencanvas/width,0
-web/api/offscreencanvasrenderingcontext2d,0
+web/api/offscreencanvasrenderingcontext2d,1
 web/api/offscreencanvasrenderingcontext2d/commit,0
 web/api/orientationsensor,0
 web/api/orientationsensor/populatematrix,0
 web/api/orientationsensor/quaternion,0
-web/api/oscillatornode,0
+web/api/oscillatornode,1
 web/api/oscillatornode/detune,0
 web/api/oscillatornode/frequency,0
 web/api/oscillatornode/oscillatornode,0
@@ -6593,7 +6593,7 @@ web/api/paintsize/width,0
 web/api/paintworkletglobalscope,0
 web/api/paintworkletglobalscope/devicepixelratio,0
 web/api/paintworkletglobalscope/registerpaint,0
-web/api/pannernode,0
+web/api/pannernode,1
 web/api/pannernode/coneinnerangle,0
 web/api/pannernode/coneouterangle,0
 web/api/pannernode/coneoutergain,0
@@ -6757,7 +6757,7 @@ web/api/performancelongtasktiming/tojson,0
 web/api/performancemark,0
 web/api/performancemark/detail,0
 web/api/performancemark/performancemark,0
-web/api/performancemeasure,0
+web/api/performancemeasure,1
 web/api/performancemeasure/detail,0
 web/api/performancenavigation,1
 web/api/performancenavigation/redirectcount,0
@@ -6789,7 +6789,7 @@ web/api/performanceobserverentrylist,0
 web/api/performanceobserverentrylist/getentries,0
 web/api/performanceobserverentrylist/getentriesbyname,0
 web/api/performanceobserverentrylist/getentriesbytype,0
-web/api/performancepainttiming,1
+web/api/performancepainttiming,2
 web/api/performancepainttiming/painttime,0
 web/api/performancepainttiming/presentationtime,0
 web/api/performancepainttiming/tojson,0
@@ -6891,7 +6891,7 @@ web/api/permissionstatus/change_event,0
 web/api/permissionstatus/name,0
 web/api/permissionstatus/state,0
 web/api/picture-in-picture_api,0
-web/api/pictureinpictureevent,0
+web/api/pictureinpictureevent,1
 web/api/pictureinpictureevent/pictureinpictureevent,0
 web/api/pictureinpictureevent/pictureinpicturewindow,0
 web/api/pictureinpicturewindow,0
@@ -6942,11 +6942,11 @@ web/api/preferencemanager/reducedtransparency,0
 web/api/preferenceobject,0
 web/api/preferenceobject/change_event,0
 web/api/preferenceobject/clearoverride,0
-web/api/preferenceobject/override,0
+web/api/preferenceobject/override,1
 web/api/preferenceobject/requestoverride,0
 web/api/preferenceobject/validvalues,0
 web/api/preferenceobject/value,0
-web/api/presentation,0
+web/api/presentation,1
 web/api/presentation/defaultrequest,0
 web/api/presentation/receiver,0
 web/api/presentation_api,0
@@ -6955,9 +6955,9 @@ web/api/presentationavailability/value,0
 web/api/presentationconnection,0
 web/api/presentationconnection/binarytype,0
 web/api/presentationconnection/close,0
-web/api/presentationconnection/id,0
+web/api/presentationconnection/id,1
 web/api/presentationconnection/send,0
-web/api/presentationconnection/state,0
+web/api/presentationconnection/state,1
 web/api/presentationconnection/terminate,0
 web/api/presentationconnection/url,0
 web/api/presentationconnectionavailableevent,0
@@ -7037,7 +7037,7 @@ web/api/push_api/best_practices,0
 web/api/pushevent,0
 web/api/pushevent/data,0
 web/api/pushevent/pushevent,0
-web/api/pushmanager,0
+web/api/pushmanager,1
 web/api/pushmanager/getsubscription,0
 web/api/pushmanager/haspermission,0
 web/api/pushmanager/permissionstate,0
@@ -7299,7 +7299,7 @@ web/api/rtcdtlstransport/statechange_event,0
 web/api/rtcdtmfsender,0
 web/api/rtcdtmfsender/caninsertdtmf,0
 web/api/rtcdtmfsender/insertdtmf,0
-web/api/rtcdtmfsender/tonebuffer,0
+web/api/rtcdtmfsender/tonebuffer,1
 web/api/rtcdtmfsender/tonechange_event,0
 web/api/rtcdtmftonechangeevent,0
 web/api/rtcdtmftonechangeevent/rtcdtmftonechangeevent,0
@@ -7342,7 +7342,7 @@ web/api/rtcicecandidate/tcptype,0
 web/api/rtcicecandidate/tojson,0
 web/api/rtcicecandidate/type,0
 web/api/rtcicecandidate/usernamefragment,0
-web/api/rtcicecandidatepair,0
+web/api/rtcicecandidatepair,1
 web/api/rtcicecandidatepair/local,0
 web/api/rtcicecandidatepair/remote,0
 web/api/rtcicecandidatepairstats,0
@@ -7828,7 +7828,7 @@ web/api/service_worker_api/using_service_workers,0
 web/api/serviceworker,0
 web/api/serviceworker/error_event,0
 web/api/serviceworker/postmessage,0
-web/api/serviceworker/scripturl,0
+web/api/serviceworker/scripturl,1
 web/api/serviceworker/state,0
 web/api/serviceworker/statechange_event,0
 web/api/serviceworkercontainer,0
@@ -7918,7 +7918,7 @@ web/api/sharedstoragerunoperation/run,0
 web/api/sharedstorageselecturloperation,0
 web/api/sharedstorageselecturloperation/run,0
 web/api/sharedstorageworklet,0
-web/api/sharedstorageworkletglobalscope,0
+web/api/sharedstorageworkletglobalscope,1
 web/api/sharedstorageworkletglobalscope/register,0
 web/api/sharedstorageworkletglobalscope/sharedstorage,0
 web/api/sharedworker,0
@@ -8120,10 +8120,10 @@ web/api/stylesheet,0
 web/api/stylesheet/disabled,0
 web/api/stylesheet/href,0
 web/api/stylesheet/media,0
-web/api/stylesheet/ownernode,0
-web/api/stylesheet/parentstylesheet,0
-web/api/stylesheet/title,0
-web/api/stylesheet/type,0
+web/api/stylesheet/ownernode,1
+web/api/stylesheet/parentstylesheet,1
+web/api/stylesheet/title,1
+web/api/stylesheet/type,1
 web/api/stylesheetlist,0
 web/api/stylesheetlist/item,0
 web/api/stylesheetlist/length,0
@@ -8182,7 +8182,7 @@ web/api/svgaelement/search,0
 web/api/svgaelement/target,0
 web/api/svgaelement/type,0
 web/api/svgaelement/username,0
-web/api/svgangle,0
+web/api/svgangle,1
 web/api/svgangle/converttospecifiedunits,0
 web/api/svgangle/newvaluespecifiedunits,0
 web/api/svgangle/unittype,0
@@ -8270,10 +8270,10 @@ web/api/svgelement/error_event,0
 web/api/svgelement/focus,0
 web/api/svgelement/load_event,0
 web/api/svgelement/nonce,0
-web/api/svgelement/ownersvgelement,0
+web/api/svgelement/ownersvgelement,1
 web/api/svgelement/style,0
 web/api/svgelement/tabindex,0
-web/api/svgelement/viewportelement,0
+web/api/svgelement/viewportelement,1
 web/api/svgellipseelement,0
 web/api/svgellipseelement/cx,0
 web/api/svgellipseelement/cy,0
@@ -8304,7 +8304,7 @@ web/api/svgfecomponenttransferelement/result,0
 web/api/svgfecomponenttransferelement/width,0
 web/api/svgfecomponenttransferelement/x,0
 web/api/svgfecomponenttransferelement/y,0
-web/api/svgfecompositeelement,0
+web/api/svgfecompositeelement,1
 web/api/svgfecompositeelement/height,0
 web/api/svgfecompositeelement/in1,0
 web/api/svgfecompositeelement/in2,0
@@ -8514,14 +8514,14 @@ web/api/svgimageelement/preserveaspectratio,0
 web/api/svgimageelement/width,0
 web/api/svgimageelement/x,0
 web/api/svgimageelement/y,0
-web/api/svglength,0
+web/api/svglength,1
 web/api/svglength/converttospecifiedunits,0
 web/api/svglength/newvaluespecifiedunits,0
 web/api/svglength/unittype,0
 web/api/svglength/value,0
 web/api/svglength/valueasstring,0
 web/api/svglength/valueinspecifiedunits,0
-web/api/svglengthlist,0
+web/api/svglengthlist,1
 web/api/svglengthlist/appenditem,0
 web/api/svglengthlist/clear,0
 web/api/svglengthlist/getitem,0
@@ -8566,7 +8566,7 @@ web/api/svgmpathelement,0
 web/api/svgmpathelement/href,0
 web/api/svgnumber,0
 web/api/svgnumber/value,0
-web/api/svgnumberlist,0
+web/api/svgnumberlist,1
 web/api/svgnumberlist/appenditem,0
 web/api/svgnumberlist/clear,0
 web/api/svgnumberlist/getitem,0
@@ -8642,7 +8642,7 @@ web/api/svgscriptelement/type,0
 web/api/svgsetelement,0
 web/api/svgstopelement,0
 web/api/svgstopelement/offset,0
-web/api/svgstringlist,0
+web/api/svgstringlist,1
 web/api/svgstringlist/appenditem,0
 web/api/svgstringlist/clear,0
 web/api/svgstringlist/getitem,0
@@ -8713,7 +8713,7 @@ web/api/svgtextpositioningelement/rotate,0
 web/api/svgtextpositioningelement/x,0
 web/api/svgtextpositioningelement/y,0
 web/api/svgtitleelement,0
-web/api/svgtransform,0
+web/api/svgtransform,1
 web/api/svgtransform/angle,0
 web/api/svgtransform/matrix,0
 web/api/svgtransform/setmatrix,0
@@ -8723,7 +8723,7 @@ web/api/svgtransform/setskewx,0
 web/api/svgtransform/setskewy,0
 web/api/svgtransform/settranslate,0
 web/api/svgtransform/type,0
-web/api/svgtransformlist,0
+web/api/svgtransformlist,1
 web/api/svgtransformlist/appenditem,0
 web/api/svgtransformlist/clear,0
 web/api/svgtransformlist/consolidate,0
@@ -9081,7 +9081,7 @@ web/api/usbdevice/usbversionmajor,0
 web/api/usbdevice/usbversionminor,0
 web/api/usbdevice/usbversionsubminor,0
 web/api/usbdevice/vendorid,0
-web/api/usbendpoint,0
+web/api/usbendpoint,1
 web/api/usbinterface,0
 web/api/usbintransferresult,0
 web/api/usbisochronousintransferpacket,0
@@ -9123,7 +9123,7 @@ web/api/videodecoder/dequeue_event,0
 web/api/videodecoder/flush,0
 web/api/videodecoder/isconfigsupported_static,0
 web/api/videodecoder/reset,0
-web/api/videodecoder/state,0
+web/api/videodecoder/state,1
 web/api/videodecoder/videodecoder,0
 web/api/videoencoder,0
 web/api/videoencoder/close,0
@@ -9168,7 +9168,7 @@ web/api/videotrack/label,0
 web/api/videotrack/language,0
 web/api/videotrack/selected,0
 web/api/videotrack/sourcebuffer,0
-web/api/videotrackgenerator,0
+web/api/videotrackgenerator,1
 web/api/videotrackgenerator/muted,0
 web/api/videotrackgenerator/track,0
 web/api/videotrackgenerator/videotrackgenerator,0
@@ -9209,7 +9209,7 @@ web/api/virtualkeyboard/hide,0
 web/api/virtualkeyboard/overlayscontent,0
 web/api/virtualkeyboard/show,0
 web/api/virtualkeyboard_api,0
-web/api/visibilitystateentry,0
+web/api/visibilitystateentry,1
 web/api/visualviewport,0
 web/api/visualviewport/height,0
 web/api/visualviewport/offsetleft,0
@@ -9282,10 +9282,10 @@ web/api/vrpose/linearacceleration,0
 web/api/vrpose/linearvelocity,0
 web/api/vrpose/orientation,0
 web/api/vrpose/position,0
-web/api/vrstageparameters,0
+web/api/vrstageparameters,1
 web/api/vrstageparameters/sittingtostandingtransform,0
 web/api/vrstageparameters/sizex,0
-web/api/vrstageparameters/sizey,0
+web/api/vrstageparameters/sizez,null
 web/api/vttcue,0
 web/api/vttcue/align,0
 web/api/vttcue/getcueashtml,0
@@ -9502,7 +9502,7 @@ web/api/webglactiveinfo/name,0
 web/api/webglactiveinfo/size,0
 web/api/webglactiveinfo/type,0
 web/api/webglbuffer,0
-web/api/webglcontextevent,0
+web/api/webglcontextevent,1
 web/api/webglcontextevent/statusmessage,0
 web/api/webglcontextevent/webglcontextevent,0
 web/api/webglframebuffer,0
@@ -9510,7 +9510,7 @@ web/api/webglobject,0
 web/api/webglprogram,0
 web/api/webglquery,0
 web/api/webglrenderbuffer,0
-web/api/webglrenderingcontext,0
+web/api/webglrenderingcontext,1
 web/api/webglrenderingcontext/activetexture,0
 web/api/webglrenderingcontext/attachshader,0
 web/api/webglrenderingcontext/bindattriblocation,0
@@ -9945,7 +9945,7 @@ web/api/windowcontrolsoverlaygeometrychangeevent,0
 web/api/windowcontrolsoverlaygeometrychangeevent/titlebararearect,0
 web/api/windowcontrolsoverlaygeometrychangeevent/visible,0
 web/api/windowcontrolsoverlaygeometrychangeevent/windowcontrolsoverlaygeometrychangeevent,0
-web/api/windowsharedstorage,0
+web/api/windowsharedstorage,1
 web/api/windowsharedstorage/run,0
 web/api/windowsharedstorage/selecturl,0
 web/api/windowsharedstorage/worklet,0
@@ -10030,7 +10030,7 @@ web/api/workernavigator/useragentdata,0
 web/api/worklet,0
 web/api/worklet/addmodule,0
 web/api/workletglobalscope,0
-web/api/workletsharedstorage,0
+web/api/workletsharedstorage,1
 web/api/workletsharedstorage/context,0
 web/api/workletsharedstorage/entries,0
 web/api/workletsharedstorage/get,0
@@ -10062,9 +10062,9 @@ web/api/xmlhttprequest/getallresponseheaders,0
 web/api/xmlhttprequest/getresponseheader,0
 web/api/xmlhttprequest/open,0
 web/api/xmlhttprequest/overridemimetype,0
-web/api/xmlhttprequest/readystate,0
+web/api/xmlhttprequest/readystate,1
 web/api/xmlhttprequest/readystatechange_event,0
-web/api/xmlhttprequest/response,0
+web/api/xmlhttprequest/response,1
 web/api/xmlhttprequest/responsetext,0
 web/api/xmlhttprequest/responsetype,0
 web/api/xmlhttprequest/responseurl,0
@@ -10076,7 +10076,7 @@ web/api/xmlhttprequest/setrequestheader,0
 web/api/xmlhttprequest/status,0
 web/api/xmlhttprequest/statustext,0
 web/api/xmlhttprequest/timeout,0
-web/api/xmlhttprequest/upload,0
+web/api/xmlhttprequest/upload,1
 web/api/xmlhttprequest/withcredentials,0
 web/api/xmlhttprequest/xmlhttprequest,0
 web/api/xmlhttprequest_api,0
@@ -10193,7 +10193,7 @@ web/api/xrinputsourceevent/xrinputsourceevent,0
 web/api/xrinputsourceschangeevent,0
 web/api/xrinputsourceschangeevent/added,0
 web/api/xrinputsourceschangeevent/removed,0
-web/api/xrinputsourceschangeevent/session,0
+web/api/xrinputsourceschangeevent/session,1
 web/api/xrinputsourceschangeevent/xrinputsourceschangeevent,0
 web/api/xrjointpose,0
 web/api/xrjointpose/radius,0
@@ -11579,7 +11579,7 @@ web/css/reference/values/repeat,0
 web/css/reference/values/resolution,0
 web/css/reference/values/revert,0
 web/css/reference/values/revert-layer,0
-web/css/reference/values/revert-rule,0
+web/css/reference/values/revert-rule,1
 web/css/reference/values/round,0
 web/css/reference/values/rule-list,0
 web/css/reference/values/self-position,0

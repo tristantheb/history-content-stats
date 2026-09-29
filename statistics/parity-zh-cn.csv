@@ -2540,7 +2540,7 @@ web/api/audioworkletprocessor/parameterdescriptors_static,null
 web/api/audioworkletprocessor/port,0
 web/api/audioworkletprocessor/process,null
 web/api/authenticatorassertionresponse,null
-web/api/authenticatorassertionresponse/authenticatordata,1
+web/api/authenticatorassertionresponse/authenticatordata,2
 web/api/authenticatorassertionresponse/signature,0
 web/api/authenticatorassertionresponse/userhandle,0
 web/api/authenticatorattestationresponse,null
@@ -2769,7 +2769,7 @@ web/api/canvasgradient,0
 web/api/canvasgradient/addcolorstop,0
 web/api/canvaspattern,0
 web/api/canvaspattern/settransform,2
-web/api/canvasrenderingcontext2d,6
+web/api/canvasrenderingcontext2d,7
 web/api/canvasrenderingcontext2d/arc,2
 web/api/canvasrenderingcontext2d/arcto,12
 web/api/canvasrenderingcontext2d/beginpath,1
@@ -3270,7 +3270,7 @@ web/api/cssrotate/z,4
 web/api/cssrule,null
 web/api/cssrule/csstext,null
 web/api/cssrule/parentrule,null
-web/api/cssrule/parentstylesheet,1
+web/api/cssrule/parentstylesheet,2
 web/api/cssrule/type,null
 web/api/cssrulelist,null
 web/api/cssrulelist/item,null
@@ -3651,7 +3651,7 @@ web/api/documentpictureinpicture/window,2
 web/api/documentpictureinpictureevent,1
 web/api/documentpictureinpictureevent/documentpictureinpictureevent,1
 web/api/documentpictureinpictureevent/window,1
-web/api/documenttimeline,0
+web/api/documenttimeline,1
 web/api/documenttimeline/documenttimeline,null
 web/api/documenttype,null
 web/api/documenttype/after,null
@@ -3820,7 +3820,7 @@ web/api/editcontext/updateselectionbounds,null
 web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,15
+web/api/element,16
 web/api/element/activeviewtransition,0
 web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
@@ -4392,7 +4392,7 @@ web/api/formdata/has,null
 web/api/formdata/keys,null
 web/api/formdata/set,null
 web/api/formdata/values,null
-web/api/formdataevent,1
+web/api/formdataevent,2
 web/api/formdataevent/formdata,1
 web/api/formdataevent/formdataevent,0
 web/api/fragmentdirective,6
@@ -5228,7 +5228,7 @@ web/api/htmlmediaelement/waiting_event,null
 web/api/htmlmediaelement/waitingforkey_event,null
 web/api/htmlmenuelement,1
 web/api/htmlmenuelement/compact,1
-web/api/htmlmetaelement,6
+web/api/htmlmetaelement,7
 web/api/htmlmetaelement/content,3
 web/api/htmlmetaelement/httpequiv,2
 web/api/htmlmetaelement/media,5
@@ -6891,7 +6891,7 @@ web/api/permissionstatus/change_event,1
 web/api/permissionstatus/name,0
 web/api/permissionstatus/state,0
 web/api/picture-in-picture_api,7
-web/api/pictureinpictureevent,0
+web/api/pictureinpictureevent,1
 web/api/pictureinpictureevent/pictureinpictureevent,0
 web/api/pictureinpictureevent/pictureinpicturewindow,0
 web/api/pictureinpicturewindow,0
@@ -6955,9 +6955,9 @@ web/api/presentationavailability/value,0
 web/api/presentationconnection,null
 web/api/presentationconnection/binarytype,0
 web/api/presentationconnection/close,null
-web/api/presentationconnection/id,0
+web/api/presentationconnection/id,1
 web/api/presentationconnection/send,null
-web/api/presentationconnection/state,0
+web/api/presentationconnection/state,1
 web/api/presentationconnection/terminate,null
 web/api/presentationconnection/url,0
 web/api/presentationconnectionavailableevent,null
@@ -7342,7 +7342,7 @@ web/api/rtcicecandidate/tcptype,0
 web/api/rtcicecandidate/tojson,3
 web/api/rtcicecandidate/type,1
 web/api/rtcicecandidate/usernamefragment,3
-web/api/rtcicecandidatepair,1
+web/api/rtcicecandidatepair,2
 web/api/rtcicecandidatepair/local,null
 web/api/rtcicecandidatepair/remote,null
 web/api/rtcicecandidatepairstats,null
@@ -8120,10 +8120,10 @@ web/api/stylesheet,1
 web/api/stylesheet/disabled,1
 web/api/stylesheet/href,3
 web/api/stylesheet/media,3
-web/api/stylesheet/ownernode,4
-web/api/stylesheet/parentstylesheet,0
-web/api/stylesheet/title,0
-web/api/stylesheet/type,0
+web/api/stylesheet/ownernode,5
+web/api/stylesheet/parentstylesheet,1
+web/api/stylesheet/title,1
+web/api/stylesheet/type,1
 web/api/stylesheetlist,null
 web/api/stylesheetlist/item,null
 web/api/stylesheetlist/length,null
@@ -9285,7 +9285,7 @@ web/api/vrpose/position,null
 web/api/vrstageparameters,null
 web/api/vrstageparameters/sittingtostandingtransform,null
 web/api/vrstageparameters/sizex,null
-web/api/vrstageparameters/sizey,null
+web/api/vrstageparameters/sizez,null
 web/api/vttcue,null
 web/api/vttcue/align,null
 web/api/vttcue/getcueashtml,null
@@ -10193,7 +10193,7 @@ web/api/xrinputsourceevent/xrinputsourceevent,null
 web/api/xrinputsourceschangeevent,null
 web/api/xrinputsourceschangeevent/added,null
 web/api/xrinputsourceschangeevent/removed,0
-web/api/xrinputsourceschangeevent/session,0
+web/api/xrinputsourceschangeevent/session,1
 web/api/xrinputsourceschangeevent/xrinputsourceschangeevent,null
 web/api/xrjointpose,null
 web/api/xrjointpose/radius,null
@@ -14050,7 +14050,7 @@ web/svg/reference/attribute/zoomandpan,1
 web/svg/reference/element,2
 web/svg/reference/element/a,0
 web/svg/reference/element/animate,null
-web/svg/reference/element/animatemotion,null
+web/svg/reference/element/animatemotion,0
 web/svg/reference/element/animatetransform,null
 web/svg/reference/element/circle,0
 web/svg/reference/element/clippath,0
@@ -14092,7 +14092,7 @@ web/svg/reference/element/marker,null
 web/svg/reference/element/mask,null
 web/svg/reference/element/metadata,null
 web/svg/reference/element/mpath,2
-web/svg/reference/element/path,null
+web/svg/reference/element/path,0
 web/svg/reference/element/pattern,null
 web/svg/reference/element/polygon,0
 web/svg/reference/element/polyline,null

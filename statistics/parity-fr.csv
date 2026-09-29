@@ -3820,7 +3820,7 @@ web/api/editcontext/updateselectionbounds,null
 web/api/editcontext/updatetext,null
 web/api/editcontext_api,null
 web/api/editcontext_api/guide,null
-web/api/element,2
+web/api/element,3
 web/api/element/activeviewtransition,0
 web/api/element/after,0
 web/api/element/afterscriptexecute_event,0
@@ -5228,7 +5228,7 @@ web/api/htmlmediaelement/waiting_event,0
 web/api/htmlmediaelement/waitingforkey_event,0
 web/api/htmlmenuelement,0
 web/api/htmlmenuelement/compact,0
-web/api/htmlmetaelement,0
+web/api/htmlmetaelement,1
 web/api/htmlmetaelement/content,0
 web/api/htmlmetaelement/httpequiv,0
 web/api/htmlmetaelement/media,0
@@ -7037,7 +7037,7 @@ web/api/push_api/best_practices,null
 web/api/pushevent,null
 web/api/pushevent/data,null
 web/api/pushevent/pushevent,null
-web/api/pushmanager,5
+web/api/pushmanager,6
 web/api/pushmanager/getsubscription,2
 web/api/pushmanager/haspermission,null
 web/api/pushmanager/permissionstate,4
@@ -9285,7 +9285,7 @@ web/api/vrpose/position,null
 web/api/vrstageparameters,null
 web/api/vrstageparameters/sittingtostandingtransform,null
 web/api/vrstageparameters/sizex,null
-web/api/vrstageparameters/sizey,null
+web/api/vrstageparameters/sizez,null
 web/api/vttcue,null
 web/api/vttcue/align,null
 web/api/vttcue/getcueashtml,null
@@ -11579,7 +11579,7 @@ web/css/reference/values/repeat,1
 web/css/reference/values/resolution,0
 web/css/reference/values/revert,0
 web/css/reference/values/revert-layer,0
-web/css/reference/values/revert-rule,0
+web/css/reference/values/revert-rule,1
 web/css/reference/values/round,1
 web/css/reference/values/rule-list,0
 web/css/reference/values/self-position,0
