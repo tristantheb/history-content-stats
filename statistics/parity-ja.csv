@@ -2181,7 +2181,7 @@ web/accessibility/aria/reference/roles/complementary_role,null
 web/accessibility/aria/reference/roles/composite_role,0
 web/accessibility/aria/reference/roles/contentinfo_role,null
 web/accessibility/aria/reference/roles/definition_role,1
-web/accessibility/aria/reference/roles/dialog_role,0
+web/accessibility/aria/reference/roles/dialog_role,1
 web/accessibility/aria/reference/roles/directory_role,0
 web/accessibility/aria/reference/roles/document_role,null
 web/accessibility/aria/reference/roles/feed_role,null
@@ -2217,7 +2217,7 @@ web/accessibility/aria/reference/roles/option_role,1
 web/accessibility/aria/reference/roles/presentation_role,0
 web/accessibility/aria/reference/roles/progressbar_role,null
 web/accessibility/aria/reference/roles/radio_role,8
-web/accessibility/aria/reference/roles/radiogroup_role,2
+web/accessibility/aria/reference/roles/radiogroup_role,3
 web/accessibility/aria/reference/roles/range_role,0
 web/accessibility/aria/reference/roles/region_role,0
 web/accessibility/aria/reference/roles/roletype_role,0
@@ -11062,7 +11062,7 @@ web/css/reference/properties/opacity,1
 web/css/reference/properties/order,1
 web/css/reference/properties/orphans,2
 web/css/reference/properties/outline,4
-web/css/reference/properties/outline-color,1
+web/css/reference/properties/outline-color,2
 web/css/reference/properties/outline-offset,1
 web/css/reference/properties/outline-style,4
 web/css/reference/properties/outline-width,4
@@ -11316,8 +11316,8 @@ web/css/reference/selectors/_colon_host_function,1
 web/css/reference/selectors/_colon_hover,1
 web/css/reference/selectors/_colon_in-range,0
 web/css/reference/selectors/_colon_indeterminate,0
-web/css/reference/selectors/_colon_interest-source,null
-web/css/reference/selectors/_colon_interest-target,null
+web/css/reference/selectors/_colon_interest-source,0
+web/css/reference/selectors/_colon_interest-target,0
 web/css/reference/selectors/_colon_invalid,1
 web/css/reference/selectors/_colon_is,1
 web/css/reference/selectors/_colon_lang,0
