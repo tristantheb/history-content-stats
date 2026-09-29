@@ -2769,7 +2769,7 @@ web/api/canvasgradient,null
 web/api/canvasgradient/addcolorstop,null
 web/api/canvaspattern,null
 web/api/canvaspattern/settransform,null
-web/api/canvasrenderingcontext2d,13
+web/api/canvasrenderingcontext2d,14
 web/api/canvasrenderingcontext2d/arc,null
 web/api/canvasrenderingcontext2d/arcto,null
 web/api/canvasrenderingcontext2d/beginpath,null
@@ -2942,7 +2942,7 @@ web/api/compositionevent/data,null
 web/api/compositionevent/initcompositionevent,null
 web/api/compositionevent/locale,null
 web/api/compression_streams_api,2
-web/api/compressionstream,1
+web/api/compressionstream,2
 web/api/compressionstream/compressionstream,4
 web/api/compressionstream/readable,1
 web/api/compressionstream/writable,1
@@ -3421,7 +3421,7 @@ web/api/datatransferitemlist/add,null
 web/api/datatransferitemlist/clear,null
 web/api/datatransferitemlist/length,null
 web/api/datatransferitemlist/remove,null
-web/api/decompressionstream,1
+web/api/decompressionstream,2
 web/api/decompressionstream/decompressionstream,4
 web/api/decompressionstream/readable,1
 web/api/decompressionstream/writable,1
@@ -7037,7 +7037,7 @@ web/api/push_api/best_practices,null
 web/api/pushevent,null
 web/api/pushevent/data,null
 web/api/pushevent/pushevent,null
-web/api/pushmanager,5
+web/api/pushmanager,6
 web/api/pushmanager/getsubscription,null
 web/api/pushmanager/haspermission,null
 web/api/pushmanager/permissionstate,null
@@ -7828,7 +7828,7 @@ web/api/service_worker_api/using_service_workers,2
 web/api/serviceworker,0
 web/api/serviceworker/error_event,0
 web/api/serviceworker/postmessage,2
-web/api/serviceworker/scripturl,0
+web/api/serviceworker/scripturl,1
 web/api/serviceworker/state,0
 web/api/serviceworker/statechange_event,0
 web/api/serviceworkercontainer,1
@@ -9285,7 +9285,7 @@ web/api/vrpose/position,null
 web/api/vrstageparameters,null
 web/api/vrstageparameters/sittingtostandingtransform,null
 web/api/vrstageparameters/sizex,null
-web/api/vrstageparameters/sizey,null
+web/api/vrstageparameters/sizez,null
 web/api/vttcue,null
 web/api/vttcue/align,null
 web/api/vttcue/getcueashtml,null

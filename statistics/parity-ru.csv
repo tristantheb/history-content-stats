@@ -5920,7 +5920,7 @@ web/api/mediaencryptedevent,null
 web/api/mediaencryptedevent/initdata,null
 web/api/mediaencryptedevent/initdatatype,null
 web/api/mediaencryptedevent/mediaencryptedevent,null
-web/api/mediaerror,0
+web/api/mediaerror,1
 web/api/mediaerror/code,null
 web/api/mediaerror/message,null
 web/api/mediakeymessageevent,null
@@ -9285,7 +9285,7 @@ web/api/vrpose/position,3
 web/api/vrstageparameters,null
 web/api/vrstageparameters/sittingtostandingtransform,3
 web/api/vrstageparameters/sizex,3
-web/api/vrstageparameters/sizey,3
+web/api/vrstageparameters/sizez,null
 web/api/vttcue,null
 web/api/vttcue/align,null
 web/api/vttcue/getcueashtml,null

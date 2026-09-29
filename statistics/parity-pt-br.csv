@@ -9285,7 +9285,7 @@ web/api/vrpose/position,null
 web/api/vrstageparameters,null
 web/api/vrstageparameters/sittingtostandingtransform,null
 web/api/vrstageparameters/sizex,null
-web/api/vrstageparameters/sizey,null
+web/api/vrstageparameters/sizez,null
 web/api/vttcue,null
 web/api/vttcue/align,null
 web/api/vttcue/getcueashtml,null

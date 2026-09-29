@@ -4334,7 +4334,7 @@ web/api/filesystemwritablefilestream,null
 web/api/filesystemwritablefilestream/seek,null
 web/api/filesystemwritablefilestream/truncate,null
 web/api/filesystemwritablefilestream/write,null
-web/api/focusevent,0
+web/api/focusevent,1
 web/api/focusevent/focusevent,null
 web/api/focusevent/relatedtarget,null
 web/api/fontdata,null
@@ -7037,7 +7037,7 @@ web/api/push_api/best_practices,null
 web/api/pushevent,0
 web/api/pushevent/data,null
 web/api/pushevent/pushevent,null
-web/api/pushmanager,1
+web/api/pushmanager,2
 web/api/pushmanager/getsubscription,null
 web/api/pushmanager/haspermission,null
 web/api/pushmanager/permissionstate,null
@@ -9285,7 +9285,7 @@ web/api/vrpose/position,null
 web/api/vrstageparameters,null
 web/api/vrstageparameters/sittingtostandingtransform,null
 web/api/vrstageparameters/sizex,null
-web/api/vrstageparameters/sizey,null
+web/api/vrstageparameters/sizez,null
 web/api/vttcue,null
 web/api/vttcue/align,null
 web/api/vttcue/getcueashtml,null
