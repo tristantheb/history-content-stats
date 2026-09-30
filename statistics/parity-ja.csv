@@ -54,11 +54,11 @@ games/tutorials/2d_breakout_game_pure_javascript/animations_and_tweens,null
 games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,1
 games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,1
 games/tutorials/2d_breakout_game_pure_javascript/buttons,null
-games/tutorials/2d_breakout_game_pure_javascript/extra_lives,null
+games/tutorials/2d_breakout_game_pure_javascript/extra_lives,1
 games/tutorials/2d_breakout_game_pure_javascript/game_over,1
-games/tutorials/2d_breakout_game_pure_javascript/initialize_the_canvas,null
+games/tutorials/2d_breakout_game_pure_javascript/initialize_the_canvas,1
 games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,1
-games/tutorials/2d_breakout_game_pure_javascript/player_paddle_and_controls,null
+games/tutorials/2d_breakout_game_pure_javascript/player_paddle_and_controls,1
 games/tutorials/2d_breakout_game_pure_javascript/randomizing_gameplay,null
 games/tutorials/2d_breakout_game_pure_javascript/track_the_score_and_win,1
 games/tutorials/html5_gamedev_phaser_device_orientation,null
@@ -2149,7 +2149,7 @@ web/accessibility/aria/reference/attributes/aria-owns,2
 web/accessibility/aria/reference/attributes/aria-placeholder,3
 web/accessibility/aria/reference/attributes/aria-posinset,1
 web/accessibility/aria/reference/attributes/aria-pressed,2
-web/accessibility/aria/reference/attributes/aria-readonly,3
+web/accessibility/aria/reference/attributes/aria-readonly,4
 web/accessibility/aria/reference/attributes/aria-relevant,2
 web/accessibility/aria/reference/attributes/aria-required,3
 web/accessibility/aria/reference/attributes/aria-roledescription,2
@@ -2248,7 +2248,7 @@ web/accessibility/aria/reference/roles/timer_role,4
 web/accessibility/aria/reference/roles/toolbar_role,0
 web/accessibility/aria/reference/roles/tooltip_role,9
 web/accessibility/aria/reference/roles/tree_role,3
-web/accessibility/aria/reference/roles/treegrid_role,2
+web/accessibility/aria/reference/roles/treegrid_role,3
 web/accessibility/aria/reference/roles/treeitem_role,1
 web/accessibility/aria/reference/roles/widget_role,0
 web/accessibility/aria/reference/roles/window_role,0
@@ -2606,7 +2606,7 @@ web/api/baseaudiocontext/createscriptprocessor,6
 web/api/baseaudiocontext/createstereopanner,2
 web/api/baseaudiocontext/createwaveshaper,3
 web/api/baseaudiocontext/currenttime,2
-web/api/baseaudiocontext/decodeaudiodata,3
+web/api/baseaudiocontext/decodeaudiodata,4
 web/api/baseaudiocontext/destination,2
 web/api/baseaudiocontext/listener,3
 web/api/baseaudiocontext/samplerate,3
@@ -7855,7 +7855,7 @@ web/api/serviceworkerglobalscope/message_event,2
 web/api/serviceworkerglobalscope/messageerror_event,2
 web/api/serviceworkerglobalscope/notificationclick_event,3
 web/api/serviceworkerglobalscope/notificationclose_event,2
-web/api/serviceworkerglobalscope/paymentrequest_event,4
+web/api/serviceworkerglobalscope/paymentrequest_event,5
 web/api/serviceworkerglobalscope/periodicsync_event,4
 web/api/serviceworkerglobalscope/push_event,3
 web/api/serviceworkerglobalscope/pushsubscriptionchange_event,2
@@ -9282,7 +9282,7 @@ web/api/vrpose/position,7
 web/api/vrstageparameters,8
 web/api/vrstageparameters/sittingtostandingtransform,6
 web/api/vrstageparameters/sizex,6
-web/api/vrstageparameters/sizez,null
+web/api/vrstageparameters/sizez,1
 web/api/vttcue,3
 web/api/vttcue/align,1
 web/api/vttcue/getcueashtml,2

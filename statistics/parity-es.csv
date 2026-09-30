@@ -986,7 +986,7 @@ learn_web_development/getting_started/web_standards/how_the_web_works,null
 learn_web_development/getting_started/web_standards/the_web_standards_model,null
 learn_web_development/getting_started/your_first_website,null
 learn_web_development/getting_started/your_first_website/adding_interactivity,null
-learn_web_development/getting_started/your_first_website/creating_the_content,null
+learn_web_development/getting_started/your_first_website/creating_the_content,0
 learn_web_development/getting_started/your_first_website/publishing_your_website,1
 learn_web_development/getting_started/your_first_website/styling_the_content,null
 learn_web_development/getting_started/your_first_website/what_will_your_website_look_like,null
@@ -4242,7 +4242,7 @@ web/api/file/webkitrelativepath,null
 web/api/file_and_directory_entries_api,null
 web/api/file_api,null
 web/api/file_api/using_files_from_web_applications,null
-web/api/file_system_api,3
+web/api/file_system_api,0
 web/api/file_system_api/origin_private_file_system,null
 web/api/fileentrysync,null
 web/api/filelist,null
@@ -9321,7 +9321,7 @@ web/api/web-based_payment_handler_api,null
 web/api/web_animations_api,null
 web/api/web_animations_api/keyframe_formats,null
 web/api/web_animations_api/tips,null
-web/api/web_animations_api/using_the_web_animations_api,null
+web/api/web_animations_api/using_the_web_animations_api,0
 web/api/web_animations_api/web_animations_api_concepts,null
 web/api/web_audio_api,null
 web/api/web_audio_api/advanced_techniques,null
@@ -11450,7 +11450,7 @@ web/css/reference/values/atan2,null
 web/css/reference/values/attr,null
 web/css/reference/values/axis,null
 web/css/reference/values/baseline-position,null
-web/css/reference/values/basic-shape,null
+web/css/reference/values/basic-shape,0
 web/css/reference/values/basic-shape/circle,null
 web/css/reference/values/basic-shape/ellipse,null
 web/css/reference/values/basic-shape/inset,null
@@ -11637,7 +11637,7 @@ web/html/guides/quirks_mode_and_standards_mode,3
 web/html/guides/responsive_images,0
 web/html/how_to,null
 web/html/how_to/add_a_hit_map_on_top_of_an_image,null
-web/html/how_to/add_javascript_to_your_web_page,null
+web/html/how_to/add_javascript_to_your_web_page,0
 web/html/how_to/author_fast-loading_html_pages,null
 web/html/how_to/cors_enabled_image,0
 web/html/how_to/define_terms_with_html,null
@@ -11719,7 +11719,7 @@ web/html/reference/elements/dt,null
 web/html/reference/elements/em,null
 web/html/reference/elements/embed,null
 web/html/reference/elements/fencedframe,null
-web/html/reference/elements/fieldset,null
+web/html/reference/elements/fieldset,0
 web/html/reference/elements/figcaption,null
 web/html/reference/elements/figure,null
 web/html/reference/elements/font,null
@@ -12288,7 +12288,7 @@ web/javascript/guide/regular_expressions/quantifiers,null
 web/javascript/guide/representing_dates_times,null
 web/javascript/guide/resource_management,null
 web/javascript/guide/typed_arrays,null
-web/javascript/guide/using_classes,null
+web/javascript/guide/using_classes,0
 web/javascript/guide/using_promises,null
 web/javascript/guide/working_with_objects,null
 web/javascript/reference,null
@@ -13700,7 +13700,7 @@ web/performance/guides/performance_budgets,null
 web/performance/guides/rum-vs-synthetic,null
 web/performance/guides/speculative_loading,null
 web/performance/guides/understanding_latency,null
-web/privacy,null
+web/privacy,0
 web/privacy/guides,null
 web/privacy/guides/bounce_tracking_mitigations,null
 web/privacy/guides/firefox_tracking_protection,null
