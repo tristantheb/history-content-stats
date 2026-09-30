@@ -151,7 +151,7 @@ glossary,ed947b2c608428b62a60f07d09dc543f732dc09b
 glossary/indexeddb,no_hash_commit
 glossary/information_architecture,no_hash_commit
 glossary/internet,no_hash_commit
-glossary/ip_address,no_hash_commit
+glossary/ip_address,2547f622337d6cbf8c3794776b17ed377d6aad57
 glossary/ipv6,no_hash_commit
 glossary/irc,no_hash_commit
 glossary/isp,no_hash_commit
@@ -332,7 +332,7 @@ learn_web_development/core/styling_basics/box_model,85fccefc8066bd49af4ddafc12c7
 learn_web_development/core/styling_basics/combinators,a92e10b293358bc796c43d5872a8981fd988a005
 learn_web_development/core/styling_basics/debugging_css,no_hash_commit
 learn_web_development/core/styling_basics/getting_started,no_hash_commit
-learn_web_development/core/styling_basics/handling_conflicts,2b4a2ad5d9ba084a9eaa2f9204102655e7b575c4
+learn_web_development/core/styling_basics/handling_conflicts,f99d00a1c3697e26a679925954e26564e7e79b98
 learn_web_development/core/styling_basics/handling_different_text_directions,2b4a2ad5d9ba084a9eaa2f9204102655e7b575c4
 learn_web_development/core/styling_basics/images_media_forms,no_hash_commit
 learn_web_development/core/styling_basics,no_hash_commit
@@ -1217,6 +1217,7 @@ web/css/guides/animations,856b52f634b889084869d2ee0b8bb62c084be04d
 web/css/guides/animations/using,no_hash_commit
 web/css/guides/backgrounds_and_borders/border-image_generator,no_hash_commit
 web/css/guides/backgrounds_and_borders/border-radius_generator,no_hash_commit
+web/css/guides/backgrounds_and_borders/box-shadow_generator,b3cd597b58940518a7712487ce94efc0881cb549
 web/css/guides/backgrounds_and_borders,856b52f634b889084869d2ee0b8bb62c084be04d
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,no_hash_commit
 web/css/guides/box_model,no_hash_commit
@@ -1282,7 +1283,10 @@ web/css/guides/transitions/using,no_hash_commit
 web/css/guides/values_and_units,c8522f47d8123fe529f39851b13b9fc01345ffbf
 web/css/guides/values_and_units/value_definition_syntax,no_hash_commit
 web/css/guides/writing_modes,no_hash_commit
-web/css/how_to/layout_cookbook,no_hash_commit
+web/css/how_to/layout_cookbook/card,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/how_to/layout_cookbook/center_an_element,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/how_to/layout_cookbook/column_layouts,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/how_to/layout_cookbook,754b68246f4e69e404309fee4a1699e047e43994
 web/css,no_hash_commit
 web/css/reference/at-rules/@charset,no_hash_commit
 web/css/reference/at-rules/@counter-style/additive-symbols,no_hash_commit
@@ -1695,6 +1699,7 @@ web/css/reference/values/url_value,no_hash_commit
 web/css/reference/values/var,no_hash_commit
 web/css/tutorials,no_hash_commit
 web/html/guides/content_categories,ba3c8980510073ee92674aa71cb2c8c5b71294ab
+web/html/guides/date_and_time_formats,0754cd805a8e010d2e3a2a065f634a3bcf358252
 web/html/guides/microdata,no_hash_commit
 web/html/guides/microformats,no_hash_commit
 web/html/guides/quirks_mode_and_standards_mode,ba96f2f183353872db6d9242c7d2dffe2dbc0c35
@@ -1702,7 +1707,7 @@ web/html/guides/responsive_images,f69b6693212029ce4b9fa0c753729044577af548
 web/html/how_to/author_fast-loading_html_pages,no_hash_commit
 web/html/how_to/cors_enabled_image,6036cd414b2214f85901158bdf3e3a96123d4553
 web/html/how_to/use_data_attributes,no_hash_commit
-web/html,d1f3f179175c80c18b1b78ba0df0ea7d15ca32cc
+web/html,8e2fe58f37aad757276d6bfdfa8f2a57aac73749
 web/html/reference/attributes/accept,no_hash_commit
 web/html/reference/attributes/crossorigin,no_hash_commit
 web/html/reference/attributes,no_hash_commit
@@ -2498,7 +2503,9 @@ web/svg/tutorials/svg_from_scratch,no_hash_commit
 web/svg/tutorials/svg_from_scratch/introduction,no_hash_commit
 web/svg/tutorials/svg_from_scratch/tools_for_svg,no_hash_commit
 web/uri/guides/choosing_between_www_and_non-www_urls,no_hash_commit
+web/uri,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26
 web/uri/reference/schemes/data,no_hash_commit
+web/webdriver,f83c12ab41865e0e195dd36ad9cdcad511a36957
 web/xml/exslt,no_hash_commit
 web/xml/exslt/reference/exsl,no_hash_commit
 web/xml/exslt/reference/exsl/node-set,no_hash_commit
