@@ -414,7 +414,7 @@ learn_web_development/getting_started/web_standards/how_the_web_works,no_hash_co
 learn_web_development/getting_started/web_standards,90e419a0ec9741f35bc564beb90e74210bc4c97a
 learn_web_development/getting_started/web_standards/the_web_standards_model,no_hash_commit
 learn_web_development/getting_started/your_first_website/adding_interactivity,no_hash_commit
-learn_web_development/getting_started/your_first_website/creating_the_content,no_hash_commit
+learn_web_development/getting_started/your_first_website/creating_the_content,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 learn_web_development/getting_started/your_first_website,no_hash_commit
 learn_web_development/getting_started/your_first_website/publishing_your_website,06e6e54baef7032c4e81ca93291fde0a0585de8b
 learn_web_development/getting_started/your_first_website/styling_the_content,no_hash_commit
@@ -826,7 +826,7 @@ web/api/file/lastmodifieddate,no_hash_commit
 web/api/file/name,no_hash_commit
 web/api/file/webkitrelativepath,no_hash_commit
 web/api/file_api/using_files_from_web_applications,no_hash_commit
-web/api/file_system_api,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
+web/api/file_system_api,d571e753a6e1aa3f37c775f0308690bc738cdbe6
 web/api/filereader,no_hash_commit
 web/api/filereader/load_event,no_hash_commit
 web/api/filereader/readasarraybuffer,no_hash_commit
@@ -1105,6 +1105,7 @@ web/api/urlsearchparams,no_hash_commit
 web/api/urlsearchparams/urlsearchparams,no_hash_commit
 web/api/vibration_api,no_hash_commit
 web/api/web_animations_api/tips,no_hash_commit
+web/api/web_animations_api/using_the_web_animations_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/web_audio_api,no_hash_commit
 web/api/web_components,no_hash_commit
 web/api/web_components/using_custom_elements,no_hash_commit
@@ -1663,7 +1664,7 @@ web/css/reference/selectors/universal_selectors,no_hash_commit
 web/css/reference/values/-moz-image-rect,no_hash_commit
 web/css/reference/values/angle,no_hash_commit
 web/css/reference/values/attr,no_hash_commit
-web/css/reference/values/basic-shape,no_hash_commit
+web/css/reference/values/basic-shape,2e0b9415ed31484a4830e214eff9e06e408c7261
 web/css/reference/values/blend-mode,no_hash_commit
 web/css/reference/values/calc,no_hash_commit
 web/css/reference/values/color_value,no_hash_commit
@@ -1704,6 +1705,7 @@ web/html/guides/microdata,no_hash_commit
 web/html/guides/microformats,no_hash_commit
 web/html/guides/quirks_mode_and_standards_mode,ba96f2f183353872db6d9242c7d2dffe2dbc0c35
 web/html/guides/responsive_images,f69b6693212029ce4b9fa0c753729044577af548
+web/html/how_to/add_javascript_to_your_web_page,116577234db1d6275c74a8bb879fce54d944f4ed
 web/html/how_to/author_fast-loading_html_pages,no_hash_commit
 web/html/how_to/cors_enabled_image,6036cd414b2214f85901158bdf3e3a96123d4553
 web/html/how_to/use_data_attributes,no_hash_commit
@@ -1753,7 +1755,7 @@ web/html/reference/elements/dl,no_hash_commit
 web/html/reference/elements/dt,no_hash_commit
 web/html/reference/elements/em,no_hash_commit
 web/html/reference/elements/embed,no_hash_commit
-web/html/reference/elements/fieldset,no_hash_commit
+web/html/reference/elements/fieldset,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/figcaption,no_hash_commit
 web/html/reference/elements/figure,no_hash_commit
 web/html/reference/elements/font,no_hash_commit
@@ -1987,6 +1989,7 @@ web/javascript/guide/regular_expressions/groups_and_backreferences,no_hash_commi
 web/javascript/guide/regular_expressions,no_hash_commit
 web/javascript/guide/regular_expressions/quantifiers,no_hash_commit
 web/javascript/guide/typed_arrays,no_hash_commit
+web/javascript/guide/using_classes,8fc371f14e899fc9389ed98b20b9ee57e6b0886d
 web/javascript/guide/using_promises,no_hash_commit
 web/javascript/guide/working_with_objects,no_hash_commit
 web/javascript,04158640487c17d515de8078c9307a2f906377d0
@@ -2465,6 +2468,7 @@ web/media,e74627e6fd9ba19696b918c2bdddfff8aa160787
 web/performance/guides/fundamentals,no_hash_commit
 web/performance/guides/optimizing_startup_performance,no_hash_commit
 web/performance,no_hash_commit
+web/privacy,dd868507df863ab4f37d53c960c76e20e9ee365f
 web/progressive_web_apps/guides,e74627e6fd9ba19696b918c2bdddfff8aa160787
 web/progressive_web_apps/guides/installing,no_hash_commit
 web/progressive_web_apps,no_hash_commit

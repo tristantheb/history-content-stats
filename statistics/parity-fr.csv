@@ -2149,7 +2149,7 @@ web/accessibility/aria/reference/attributes/aria-owns,0
 web/accessibility/aria/reference/attributes/aria-placeholder,0
 web/accessibility/aria/reference/attributes/aria-posinset,0
 web/accessibility/aria/reference/attributes/aria-pressed,0
-web/accessibility/aria/reference/attributes/aria-readonly,0
+web/accessibility/aria/reference/attributes/aria-readonly,1
 web/accessibility/aria/reference/attributes/aria-relevant,0
 web/accessibility/aria/reference/attributes/aria-required,0
 web/accessibility/aria/reference/attributes/aria-roledescription,0
@@ -2188,8 +2188,8 @@ web/accessibility/aria/reference/roles/feed_role,0
 web/accessibility/aria/reference/roles/figure_role,0
 web/accessibility/aria/reference/roles/form_role,1
 web/accessibility/aria/reference/roles/generic_role,0
-web/accessibility/aria/reference/roles/grid_role,1
-web/accessibility/aria/reference/roles/gridcell_role,0
+web/accessibility/aria/reference/roles/grid_role,2
+web/accessibility/aria/reference/roles/gridcell_role,1
 web/accessibility/aria/reference/roles/group_role,0
 web/accessibility/aria/reference/roles/heading_role,0
 web/accessibility/aria/reference/roles/img_role,0
@@ -2248,7 +2248,7 @@ web/accessibility/aria/reference/roles/timer_role,0
 web/accessibility/aria/reference/roles/toolbar_role,0
 web/accessibility/aria/reference/roles/tooltip_role,1
 web/accessibility/aria/reference/roles/tree_role,1
-web/accessibility/aria/reference/roles/treegrid_role,0
+web/accessibility/aria/reference/roles/treegrid_role,1
 web/accessibility/aria/reference/roles/treeitem_role,1
 web/accessibility/aria/reference/roles/widget_role,0
 web/accessibility/aria/reference/roles/window_role,0
