@@ -353,7 +353,7 @@ glossary/internet,null
 glossary/interpolation,null
 glossary/intrinsic_size,null
 glossary/invariant,null
-glossary/ip_address,null
+glossary/ip_address,0
 glossary/ipv4,null
 glossary/ipv6,null
 glossary/irc,null
@@ -818,7 +818,7 @@ learn_web_development/core/styling_basics/combinators,9
 learn_web_development/core/styling_basics/debugging_css,null
 learn_web_development/core/styling_basics/fixing_blog_styles,null
 learn_web_development/core/styling_basics/getting_started,null
-learn_web_development/core/styling_basics/handling_conflicts,2
+learn_web_development/core/styling_basics/handling_conflicts,1
 learn_web_development/core/styling_basics/handling_different_text_directions,0
 learn_web_development/core/styling_basics/home_color_scheme_search,null
 learn_web_development/core/styling_basics/images_media_forms,null
@@ -10371,7 +10371,7 @@ web/css/guides/animations/using,null
 web/css/guides/backgrounds_and_borders,6
 web/css/guides/backgrounds_and_borders/border-image_generator,null
 web/css/guides/backgrounds_and_borders/border-radius_generator,null
-web/css/guides/backgrounds_and_borders/box-shadow_generator,null
+web/css/guides/backgrounds_and_borders/box-shadow_generator,0
 web/css/guides/backgrounds_and_borders/resizing_background_images,null
 web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,null
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,null
@@ -10573,11 +10573,11 @@ web/css/guides/writing_modes,null
 web/css/guides/writing_modes/vertical_controls,null
 web/css/guides/writing_modes/writing_mode_systems,null
 web/css/how_to,null
-web/css/how_to/layout_cookbook,null
+web/css/how_to/layout_cookbook,0
 web/css/how_to/layout_cookbook/breadcrumb_navigation,null
-web/css/how_to/layout_cookbook/card,null
-web/css/how_to/layout_cookbook/center_an_element,null
-web/css/how_to/layout_cookbook/column_layouts,null
+web/css/how_to/layout_cookbook/card,0
+web/css/how_to/layout_cookbook/center_an_element,0
+web/css/how_to/layout_cookbook/column_layouts,0
 web/css/how_to/layout_cookbook/contribute_a_recipe,null
 web/css/how_to/layout_cookbook/contribute_a_recipe/cookbook_template,null
 web/css/how_to/layout_cookbook/grid_wrapper,null
@@ -11624,13 +11624,13 @@ web/css/reference/values/url_value,null
 web/css/reference/values/var,null
 web/css/reference/webkit_extensions,null
 web/css/tutorials,null
-web/html,1
+web/html,0
 web/html/guides,null
 web/html/guides/cheatsheet,null
 web/html/guides/comments,null
 web/html/guides/constraint_validation,null
 web/html/guides/content_categories,0
-web/html/guides/date_and_time_formats,null
+web/html/guides/date_and_time_formats,0
 web/html/guides/microdata,null
 web/html/guides/microformats,null
 web/html/guides/quirks_mode_and_standards_mode,3
@@ -14127,7 +14127,7 @@ web/svg/tutorials/svg_from_scratch/svg_and_css,null
 web/svg/tutorials/svg_from_scratch/texts,null
 web/svg/tutorials/svg_from_scratch/tools_for_svg,null
 web/svg/tutorials/svg_from_scratch/using_fonts,null
-web/uri,null
+web/uri,0
 web/uri/guides,null
 web/uri/guides/choosing_between_www_and_non-www_urls,null
 web/uri/reference,null
@@ -14143,7 +14143,7 @@ web/uri/reference/schemes/data,null
 web/uri/reference/schemes/javascript,null
 web/uri/reference/schemes/resource,null
 web/uri/reference/schemes/urn,null
-web/webdriver,null
+web/webdriver,0
 web/webdriver/how_to,null
 web/webdriver/how_to/create_bidi_connection,null
 web/webdriver/reference,null
