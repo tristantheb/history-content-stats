@@ -2149,7 +2149,7 @@ web/accessibility/aria/reference/attributes/aria-owns,a8b25483994fa47cf949b432dd
 web/accessibility/aria/reference/attributes/aria-placeholder,76824348ac7be05f30c32f29e9495e7b29f71876,Accessibility|ARIA|Attributes
 web/accessibility/aria/reference/attributes/aria-posinset,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Attributes
 web/accessibility/aria/reference/attributes/aria-pressed,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Attributes
-web/accessibility/aria/reference/attributes/aria-readonly,c9f3d85f24d7839c9fe36a68d8042d088d906147,Accessibility|ARIA|Attributes
+web/accessibility/aria/reference/attributes/aria-readonly,96758f3d8ce1e5fbd9d58053bdef103eec1de108,Accessibility|ARIA|Attributes
 web/accessibility/aria/reference/attributes/aria-relevant,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Attributes
 web/accessibility/aria/reference/attributes/aria-required,4cb9d89a204a9532370693b982e8a3b274a874b1,Accessibility|ARIA|Attributes
 web/accessibility/aria/reference/attributes/aria-roledescription,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Accessibility|ARIA|Attributes
@@ -2188,8 +2188,8 @@ web/accessibility/aria/reference/roles/feed_role,3e543cdfe8dddfb4774a64bf3decdcb
 web/accessibility/aria/reference/roles/figure_role,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/form_role,705109e85b6c5a9142260c58a617ef295b3b1316,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/generic_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/grid_role,705109e85b6c5a9142260c58a617ef295b3b1316,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/gridcell_role,c1564acf160ef4b320fb7b89ab65211b9c50cf1b,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/grid_role,96758f3d8ce1e5fbd9d58053bdef103eec1de108,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/gridcell_role,96758f3d8ce1e5fbd9d58053bdef103eec1de108,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/group_role,9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/heading_role,4550055f1afc5fb084d33f6e5a7910b7066e20c7,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/img_role,1474534461893381d54c502e655f334b5568e597,Accessibility|ARIA|Roles
@@ -2248,7 +2248,7 @@ web/accessibility/aria/reference/roles/timer_role,3e543cdfe8dddfb4774a64bf3decdc
 web/accessibility/aria/reference/roles/toolbar_role,c833741444aba4d524992813eda1cd8d64563aed,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tooltip_role,b7e9f482c51817d3a885e26092f8219fd0d9d278,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tree_role,9abb432251513c5fdcaf5aad0764126fc68413c4,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/treegrid_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/treegrid_role,96758f3d8ce1e5fbd9d58053bdef103eec1de108,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treeitem_role,9abb432251513c5fdcaf5aad0764126fc68413c4,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/widget_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/window_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
@@ -2606,7 +2606,7 @@ web/api/baseaudiocontext/createscriptprocessor,ca6052779ddca9f6d99665f12c39aa2d8
 web/api/baseaudiocontext/createstereopanner,be8f7f155a48e11b30c240f8731afb1845f85378,Web APIs
 web/api/baseaudiocontext/createwaveshaper,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/baseaudiocontext/currenttime,91b5a448a517239876a4bc92640bbbf29e30b106,Web APIs
-web/api/baseaudiocontext/decodeaudiodata,0c3f18aca2c8a93d3982183f64bf7762c2c310b0,Web APIs
+web/api/baseaudiocontext/decodeaudiodata,b60c5dad8cf10d8492f2aff491abb40bf1851b03,Web APIs
 web/api/baseaudiocontext/destination,118909727d715a42a27e3d368379bf959feca4af,Web APIs
 web/api/baseaudiocontext/listener,118909727d715a42a27e3d368379bf959feca4af,Web APIs
 web/api/baseaudiocontext/samplerate,118909727d715a42a27e3d368379bf959feca4af,Web APIs
@@ -6655,7 +6655,7 @@ web/api/paymentrequest/shippingoption,ca6052779ddca9f6d99665f12c39aa2d85d85733,W
 web/api/paymentrequest/shippingoptionchange_event,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/paymentrequest/shippingtype,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/paymentrequest/show,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
-web/api/paymentrequestevent,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
+web/api/paymentrequestevent,b60c5dad8cf10d8492f2aff491abb40bf1851b03,Web APIs
 web/api/paymentrequestevent/changepaymentmethod,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
 web/api/paymentrequestevent/methoddata,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
 web/api/paymentrequestevent/modifiers,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
@@ -7606,7 +7606,7 @@ web/api/rtcrtpscripttransformer/readable,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb7
 web/api/rtcrtpscripttransformer/sendkeyframerequest,d0e6d8d712a33b9d3c7a9fb9a8ba85d4dd1b7002,Web APIs
 web/api/rtcrtpscripttransformer/writable,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/rtcrtpsender,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
-web/api/rtcrtpsender/dtmf,0fd1f93376bb12cf086a17c4537bbdc7e68dc331,Web APIs
+web/api/rtcrtpsender/dtmf,b60c5dad8cf10d8492f2aff491abb40bf1851b03,Web APIs
 web/api/rtcrtpsender/getcapabilities_static,a4c63d2855b2f557e7d1ee821dee65011d569a41,Web APIs
 web/api/rtcrtpsender/getparameters,a4c63d2855b2f557e7d1ee821dee65011d569a41,Web APIs
 web/api/rtcrtpsender/getstats,829720f86ce858b9bb8cbe7aa9e0bea148915f8c,Web APIs
@@ -7855,7 +7855,7 @@ web/api/serviceworkerglobalscope/message_event,ac7f589f2471fde8e5ee910a7fbd8a4bf
 web/api/serviceworkerglobalscope/messageerror_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/serviceworkerglobalscope/notificationclick_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/serviceworkerglobalscope/notificationclose_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
-web/api/serviceworkerglobalscope/paymentrequest_event,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
+web/api/serviceworkerglobalscope/paymentrequest_event,b60c5dad8cf10d8492f2aff491abb40bf1851b03,Web APIs
 web/api/serviceworkerglobalscope/periodicsync_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/serviceworkerglobalscope/push_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/serviceworkerglobalscope/pushsubscriptionchange_event,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
@@ -9317,7 +9317,7 @@ web/api/waveshapernode,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/waveshapernode/curve,216794e76611c18e53222bb8efa570e898e990de,Web APIs
 web/api/waveshapernode/oversample,f542ed344953b3312fc92150bba11536667e288a,Web APIs
 web/api/waveshapernode/waveshapernode,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/web-based_payment_handler_api,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
+web/api/web-based_payment_handler_api,b60c5dad8cf10d8492f2aff491abb40bf1851b03,Web APIs
 web/api/web_animations_api,3064cbe8212ea919874fb21120a89657afccba25,Web APIs
 web/api/web_animations_api/keyframe_formats,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/web_animations_api/tips,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
@@ -10852,10 +10852,10 @@ web/css/reference/properties/column-height,880c2c4b113c6fe127ca3ae3603a56ef7a2eb
 web/css/reference/properties/column-rule,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/column-rule-break,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/column-rule-color,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|Properties
-web/css/reference/properties/column-rule-inset-cap,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
+web/css/reference/properties/column-rule-inset-cap,b60c5dad8cf10d8492f2aff491abb40bf1851b03,CSS|Properties
 web/css/reference/properties/column-rule-inset-cap-end,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
-web/css/reference/properties/column-rule-inset-cap-start,15e1155ab8a0587405601cc4753bb789cd6ac47c,CSS|Properties
-web/css/reference/properties/column-rule-inset-junction-end,15e1155ab8a0587405601cc4753bb789cd6ac47c,CSS|Properties
+web/css/reference/properties/column-rule-inset-cap-start,b60c5dad8cf10d8492f2aff491abb40bf1851b03,CSS|Properties
+web/css/reference/properties/column-rule-inset-junction-end,b60c5dad8cf10d8492f2aff491abb40bf1851b03,CSS|Properties
 web/css/reference/properties/column-rule-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
 web/css/reference/properties/column-rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/column-rule-width,e9c03ba87f9ff4123150d8f7dc457bd546bdab83,CSS|Properties
@@ -11122,9 +11122,9 @@ web/css/reference/properties/row-gap,7b535c422322a8a330bd68075541abfc78efc4b7,CS
 web/css/reference/properties/row-rule,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/row-rule-break,b6f3d1e0efeff683860ea49a89730ef90643e955,CSS|Properties
 web/css/reference/properties/row-rule-color,9b7a110e601556b82af6b5d46f01c757c5a11719,CSS|Properties
-web/css/reference/properties/row-rule-inset-cap,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Properties
-web/css/reference/properties/row-rule-inset-cap-end,2c2390b77141b960cac32c1843dac4d907e9c6c2,CSS|Properties
-web/css/reference/properties/row-rule-inset-cap-start,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Properties
+web/css/reference/properties/row-rule-inset-cap,b60c5dad8cf10d8492f2aff491abb40bf1851b03,CSS|Properties
+web/css/reference/properties/row-rule-inset-cap-end,b60c5dad8cf10d8492f2aff491abb40bf1851b03,CSS|Properties
+web/css/reference/properties/row-rule-inset-cap-start,b60c5dad8cf10d8492f2aff491abb40bf1851b03,CSS|Properties
 web/css/reference/properties/row-rule-style,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
 web/css/reference/properties/row-rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/row-rule-width,a9dc3374034d357cbfea717fd5d641605359e3c7,CSS|Properties
@@ -11134,7 +11134,7 @@ web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb6150
 web/css/reference/properties/rule,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/rule-break,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/rule-color,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
-web/css/reference/properties/rule-inset-cap,15e1155ab8a0587405601cc4753bb789cd6ac47c,CSS|Properties
+web/css/reference/properties/rule-inset-cap,b60c5dad8cf10d8492f2aff491abb40bf1851b03,CSS|Properties
 web/css/reference/properties/rule-style,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/rule-width,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
