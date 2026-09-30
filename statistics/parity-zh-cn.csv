@@ -2588,7 +2588,7 @@ web/api/barprop/visible,1
 web/api/baseaudiocontext,null
 web/api/baseaudiocontext/audioworklet,0
 web/api/baseaudiocontext/createanalyser,null
-web/api/baseaudiocontext/createbiquadfilter,null
+web/api/baseaudiocontext/createbiquadfilter,0
 web/api/baseaudiocontext/createbuffer,0
 web/api/baseaudiocontext/createbuffersource,null
 web/api/baseaudiocontext/createchannelmerger,null
@@ -12372,7 +12372,7 @@ web/javascript/reference/errors/malformed_uri,1
 web/javascript/reference/errors/missing_bracket_after_list,null
 web/javascript/reference/errors/missing_colon_after_property_id,null
 web/javascript/reference/errors/missing_curly_after_function_body,null
-web/javascript/reference/errors/missing_curly_after_property_list,null
+web/javascript/reference/errors/missing_curly_after_property_list,0
 web/javascript/reference/errors/missing_formal_parameter,null
 web/javascript/reference/errors/missing_initializer_in_const,null
 web/javascript/reference/errors/missing_name_after_dot_operator,null
