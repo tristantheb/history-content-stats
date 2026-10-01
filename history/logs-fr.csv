@@ -5856,6 +5856,7 @@ web/http/reference/headers/accept-encoding,a4c63d2855b2f557e7d1ee821dee65011d569
 web/http/reference/headers/accept-language,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/accept-patch,a4c63d2855b2f557e7d1ee821dee65011d569a41
 web/http/reference/headers/accept-post,a4c63d2855b2f557e7d1ee821dee65011d569a41
+web/http/reference/headers/accept-query,346e46c6e10334bf60df2a0a4ef58ebea4c80a4e
 web/http/reference/headers/accept-ranges,a4c63d2855b2f557e7d1ee821dee65011d569a41
 web/http/reference/headers/accept,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8
 web/http/reference/headers/access-control-allow-credentials,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
@@ -5984,7 +5985,11 @@ web/http/reference/headers/permissions-policy/identity-credentials-get,8cd7f0fdc
 web/http/reference/headers/permissions-policy/idle-detection,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/permissions-policy,75b6c08573c39a7d6557c911502912f1a3c7da9f
 web/http/reference/headers/permissions-policy/language-detector,8cae6b8c772e3f9ce2fbd73cad17fcb0adda966f
+web/http/reference/headers/permissions-policy/language-model,7a2016c1eec26048dce86e8af0b2127395db7f46
 web/http/reference/headers/permissions-policy/local-fonts,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/permissions-policy/local-network-access,75016e5d37ecff3b11de4c2ef6665178f654797e
+web/http/reference/headers/permissions-policy/local-network,75016e5d37ecff3b11de4c2ef6665178f654797e
+web/http/reference/headers/permissions-policy/loopback-network,75016e5d37ecff3b11de4c2ef6665178f654797e
 web/http/reference/headers/permissions-policy/magnetometer,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/permissions-policy/microphone,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/permissions-policy/midi,76159b9e242063203699dd5e07e5eebfd65def3d
@@ -6002,6 +6007,7 @@ web/http/reference/headers/permissions-policy/speaker-selection,ad5b5e31f81795d6
 web/http/reference/headers/permissions-policy/storage-access,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/permissions-policy/summarizer,8cae6b8c772e3f9ce2fbd73cad17fcb0adda966f
 web/http/reference/headers/permissions-policy/translator,8cae6b8c772e3f9ce2fbd73cad17fcb0adda966f
+web/http/reference/headers/permissions-policy/unload,75b6c08573c39a7d6557c911502912f1a3c7da9f
 web/http/reference/headers/permissions-policy/usb,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/permissions-policy/web-share,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/permissions-policy/window-management,ad5b5e31f81795d692e66dadb7818ba8b220ad15
@@ -6039,6 +6045,12 @@ web/http/reference/headers/sec-ch-ua-platform-version,ad5b5e31f81795d692e66dadb7
 web/http/reference/headers/sec-ch-ua-platform,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-ch-ua-wow64,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-ch-ua,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/sec-ch-viewport-height,423161782178b119c64cd0b41bff8df20dc84a56
+web/http/reference/headers/sec-ch-viewport-width,423161782178b119c64cd0b41bff8df20dc84a56
+web/http/reference/headers/sec-ch-width,f8ef875113a7d3e9952f41de68be1e3a3a1e6988
+web/http/reference/headers/sec-fetch-dest,7e4e8954972d77196e4beedca4a3f8610da34dc9
+web/http/reference/headers/sec-fetch-mode,7e4e8954972d77196e4beedca4a3f8610da34dc9
+web/http/reference/headers/sec-fetch-site,7e4e8954972d77196e4beedca4a3f8610da34dc9
 web/http/reference/headers/server,no_hash_commit
 web/http/reference/headers/set-cookie,no_hash_commit
 web/http/reference/headers/tk,no_hash_commit

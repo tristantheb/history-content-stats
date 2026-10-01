@@ -8475,6 +8475,14 @@ web/http/reference/headers/referrer-policy,7f6778934020a9b5b82b4dd8ca79a99bc9950
 web/http/reference/headers/refresh,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/reporting-endpoints,a019b326a3ad0c16d78d236582927a38ccaea8b4
 web/http/reference/headers/retry-after,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
+web/http/reference/headers/sec-ch-device-memory,b304d8d3c870fba028df550a51f5b4258ab3ac08
+web/http/reference/headers/sec-ch-dpr,423161782178b119c64cd0b41bff8df20dc84a56
+web/http/reference/headers/sec-ch-prefers-color-scheme,6c43d5c2607cbc84c8ec488400ebb66448992958
+web/http/reference/headers/sec-ch-prefers-reduced-motion,6c43d5c2607cbc84c8ec488400ebb66448992958
+web/http/reference/headers/sec-ch-prefers-reduced-transparency,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/sec-ch-ua-arch,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/sec-ch-ua-bitness,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/sec-ch-ua-full-version-list,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-ch-ua,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-fetch-dest,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-fetch-mode,ad5b5e31f81795d692e66dadb7818ba8b220ad15
