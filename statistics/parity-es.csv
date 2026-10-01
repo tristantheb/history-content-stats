@@ -9797,7 +9797,7 @@ web/api/wheelevent/deltax,null
 web/api/wheelevent/deltay,null
 web/api/wheelevent/deltaz,null
 web/api/wheelevent/wheelevent,null
-web/api/window,null
+web/api/window,0
 web/api/window/afterprint_event,null
 web/api/window/alert,null
 web/api/window/appinstalled_event,null
@@ -10086,7 +10086,7 @@ web/api/writablestreamdefaultwriter/releaselock,null
 web/api/writablestreamdefaultwriter/writablestreamdefaultwriter,null
 web/api/writablestreamdefaultwriter/write,null
 web/api/xmldocument,null
-web/api/xmlhttprequest,null
+web/api/xmlhttprequest,0
 web/api/xmlhttprequest/abort,null
 web/api/xmlhttprequest/getallresponseheaders,null
 web/api/xmlhttprequest/getresponseheader,null

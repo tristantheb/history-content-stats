@@ -1167,7 +1167,7 @@ web/api/window/getscreendetails,e089abbca14964a8ce945135d954cbfd098fd6f7
 web/api/window/getselection,no_hash_commit
 web/api/window/hashchange_event,no_hash_commit
 web/api/window/history,no_hash_commit
-web/api/window,no_hash_commit
+web/api/window,6daf06123a4c7d8b8e2a038e339a05666b22695f
 web/api/window/indexeddb,no_hash_commit
 web/api/window/innerheight,no_hash_commit
 web/api/window/issecurecontext,no_hash_commit
@@ -1207,7 +1207,7 @@ web/api/worker/terminate,no_hash_commit
 web/api/workernavigator,no_hash_commit
 web/api/xmldocument,no_hash_commit
 web/api/xmlhttprequest/abort,no_hash_commit
-web/api/xmlhttprequest,no_hash_commit
+web/api/xmlhttprequest,44a5fa2aace490e0114349d9d683675b2f5cacce
 web/api/xmlhttprequest/readystatechange_event,no_hash_commit
 web/api/xmlhttprequest/responsetext,no_hash_commit
 web/api/xmlhttprequest/timeout,no_hash_commit
