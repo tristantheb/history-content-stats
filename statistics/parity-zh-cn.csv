@@ -1151,7 +1151,7 @@ mozilla/add-ons/webextensions/api/action/settitle,3
 mozilla/add-ons/webextensions/api/alarms,1
 mozilla/add-ons/webextensions/api/alarms/alarm,4
 mozilla/add-ons/webextensions/api/alarms/clear,3
-mozilla/add-ons/webextensions/api/alarms/clearall,4
+mozilla/add-ons/webextensions/api/alarms/clearall,5
 mozilla/add-ons/webextensions/api/alarms/create,7
 mozilla/add-ons/webextensions/api/alarms/get,4
 mozilla/add-ons/webextensions/api/alarms/getall,3
@@ -10484,6 +10484,7 @@ web/css/guides/fonts/variable_fonts,null
 web/css/guides/fonts/woff,null
 web/css/guides/fragmentation,null
 web/css/guides/gaps,null
+web/css/guides/gaps/defining_gaps,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -11717,7 +11718,7 @@ web/html/reference/elements,3
 web/html/reference/elements/a,2
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,4
-web/html/reference/elements/address,4
+web/html/reference/elements/address,5
 web/html/reference/elements/area,8
 web/html/reference/elements/article,4
 web/html/reference/elements/aside,3
@@ -11768,7 +11769,7 @@ web/html/reference/elements/hgroup,null
 web/html/reference/elements/hr,null
 web/html/reference/elements/html,5
 web/html/reference/elements/i,1
-web/html/reference/elements/iframe,21
+web/html/reference/elements/iframe,22
 web/html/reference/elements/img,16
 web/html/reference/elements/input,7
 web/html/reference/elements/input/button,null
@@ -11853,7 +11854,7 @@ web/html/reference/elements/source,7
 web/html/reference/elements/span,5
 web/html/reference/elements/strike,4
 web/html/reference/elements/strong,null
-web/html/reference/elements/style,15
+web/html/reference/elements/style,16
 web/html/reference/elements/sub,4
 web/html/reference/elements/summary,null
 web/html/reference/elements/sup,3
@@ -11907,7 +11908,7 @@ web/html/reference/global_attributes/part,0
 web/html/reference/global_attributes/popover,12
 web/html/reference/global_attributes/slot,null
 web/html/reference/global_attributes/spellcheck,5
-web/html/reference/global_attributes/style,4
+web/html/reference/global_attributes/style,5
 web/html/reference/global_attributes/tabindex,null
 web/html/reference/global_attributes/title,null
 web/html/reference/global_attributes/translate,null
@@ -13709,7 +13710,7 @@ web/media/guides/formats/audio_codecs,null
 web/media/guides/formats/audio_concepts,null
 web/media/guides/formats/codecs_parameter,null
 web/media/guides/formats/configuring_servers_for_ogg_media,2
-web/media/guides/formats/containers,8
+web/media/guides/formats/containers,9
 web/media/guides/formats/image_types,null
 web/media/guides/formats/support_issues,null
 web/media/guides/formats/video_codecs,null

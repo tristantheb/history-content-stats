@@ -1151,7 +1151,7 @@ mozilla/add-ons/webextensions/api/action/settitle,09109b6f9444d22215ba330ec1e64e
 mozilla/add-ons/webextensions/api/alarms,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/alarm,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/clear,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/alarms/clearall,e37b064f509db94d52a080b8983e16713737f1b7,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/alarms/clearall,ac295ae8d3435f587b5233a9fe46bb55d92c1a5d,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/create,b84147564967f3b6875ff8cf439f263aa1ea5b08,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/get,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/getall,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1966,7 +1966,7 @@ mozilla/firefox/releases/153,f398f522d05bb8bfe739ac2417b00712b7888494,Mozilla|Fi
 mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff,Mozilla|Firefox|Versions
 mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
 mozilla/firefox/releases/156,91c6fa25d660ab9d0f8b60b19b103518cc3c1603,Mozilla|Firefox|Versions
-mozilla/firefox/releases/157,34c61ac34817ecfd73dee216d1a5382a0165ba3b,Mozilla|Firefox|Versions
+mozilla/firefox/releases/157,ac295ae8d3435f587b5233a9fe46bb55d92c1a5d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/158,15e1155ab8a0587405601cc4753bb789cd6ac47c,Mozilla|Firefox|Versions
 mozilla/firefox/releases/159,91c6fa25d660ab9d0f8b60b19b103518cc3c1603,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
@@ -10483,7 +10483,8 @@ web/css/guides/fonts/opentype_fonts,6f5921b2634db4bd565e5e0cd38eafdadb4bb383,CSS
 web/css/guides/fonts/variable_fonts,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5,CSS|Guides
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/gaps,8a13259a44523cd17b4fe347088b62c6d7a35265,CSS|Guides
+web/css/guides/gaps,71fd49d60a856bd15c6fe2e8328147c9d3bcc67d,CSS|Guides
+web/css/guides/gaps/defining_gaps,71fd49d60a856bd15c6fe2e8328147c9d3bcc67d,CSS|Guides
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/grid_layout,298079b550c76f20de6611c4ecdde4c30dc68b2b,CSS|Guides
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10881,7 +10882,7 @@ web/css/reference/properties/color-scheme,c0c85c3dc0d6ff4247c85b0144149e584d74b6
 web/css/reference/properties/column-count,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
 web/css/reference/properties/column-fill,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/column-gap,82406a500abd9cd9c9469d9180e62cf9a37deb50,CSS|Properties
-web/css/reference/properties/column-height,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
+web/css/reference/properties/column-height,25e50f8d5b36eb86d40916f6f06051671333f3a7,CSS|Properties
 web/css/reference/properties/column-rule,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/column-rule-break,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/column-rule-color,b6de98eb9cd52ce7e37f22a340352f0af4c9d597,CSS|Properties
@@ -11717,7 +11718,7 @@ web/html/reference/elements,456c370394c0cd8869feb60c4e9926f35422beaf,HTML|Elemen
 web/html/reference/elements/a,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/abbr,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/acronym,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
-web/html/reference/elements/address,c9f3d85f24d7839c9fe36a68d8042d088d906147,HTML|Elements
+web/html/reference/elements/address,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/area,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/article,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
 web/html/reference/elements/aside,63e6075c870f818291e857d0ad5b291d1b5afe5b,HTML|Elements
@@ -11739,10 +11740,10 @@ web/html/reference/elements/code,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|E
 web/html/reference/elements/col,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/colgroup,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/data,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/datalist,c9f3d85f24d7839c9fe36a68d8042d088d906147,HTML|Elements
+web/html/reference/elements/datalist,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/dd,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/del,15e1155ab8a0587405601cc4753bb789cd6ac47c,HTML|Elements
-web/html/reference/elements/details,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/details,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/dfn,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/dialog,c03648dd993f7afd0c17ce57061dc31d64f5e943,HTML|Elements
 web/html/reference/elements/dir,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
@@ -11765,14 +11766,14 @@ web/html/reference/elements/head,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|E
 web/html/reference/elements/header,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/heading_elements,f398f522d05bb8bfe739ac2417b00712b7888494,HTML|Elements
 web/html/reference/elements/hgroup,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/hr,1fc07c825d3f214516420cf0e986853a66deb426,HTML|Elements
+web/html/reference/elements/hr,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/html,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/i,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/iframe,456c370394c0cd8869feb60c4e9926f35422beaf,HTML|Elements
+web/html/reference/elements/iframe,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/img,74a39db9d03ec63426b0740dc0bd3cb85e5461a4,HTML|Elements
 web/html/reference/elements/input,6488b82388db9e593ec28be1d845688e29c679e1,HTML|Elements
-web/html/reference/elements/input/button,3a839eeed13a60d34db1d39a5ce1594050d56ab0,HTML|Elements
-web/html/reference/elements/input/checkbox,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/button,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
+web/html/reference/elements/input/checkbox,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/input/color,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/date,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/datetime-local,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
@@ -11780,15 +11781,15 @@ web/html/reference/elements/input/email,100cf25d92d3953f3c70ecaa2af637d5e42179d8
 web/html/reference/elements/input/file,6488b82388db9e593ec28be1d845688e29c679e1,HTML|Elements
 web/html/reference/elements/input/hidden,2066cc916dfdcbb782340bf0ce562b230e947cba,HTML|Elements
 web/html/reference/elements/input/image,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,HTML|Elements
-web/html/reference/elements/input/month,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/month,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/input/number,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
-web/html/reference/elements/input/password,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/input/radio,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/password,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
+web/html/reference/elements/input/radio,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/input/range,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
-web/html/reference/elements/input/reset,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/reset,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/input/search,8a13259a44523cd17b4fe347088b62c6d7a35265,HTML|Elements
 web/html/reference/elements/input/submit,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
-web/html/reference/elements/input/tel,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
+web/html/reference/elements/input/tel,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/input/text,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/time,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
 web/html/reference/elements/input/url,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
@@ -11822,12 +11823,12 @@ web/html/reference/elements/noframes,ca6052779ddca9f6d99665f12c39aa2d85d85733,HT
 web/html/reference/elements/noscript,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/object,456c370394c0cd8869feb60c4e9926f35422beaf,HTML|Elements
 web/html/reference/elements/ol,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/optgroup,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,HTML|Elements
+web/html/reference/elements/optgroup,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/option,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,HTML|Elements
 web/html/reference/elements/output,04cf692e8b950c028aca8fab9664d52e7cbfaebf,HTML|Elements
 web/html/reference/elements/p,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/param,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
-web/html/reference/elements/picture,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/picture,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/plaintext,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/pre,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/progress,11a5944cd0a3bf015b2ee9c7ee4c55025dd878ca,HTML|Elements
@@ -11853,7 +11854,7 @@ web/html/reference/elements/source,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML
 web/html/reference/elements/span,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/strike,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/strong,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/style,c655f38c10ba17b853b0e66b43cf4cf2b176e424,HTML|Elements
+web/html/reference/elements/style,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/sub,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/summary,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/sup,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11907,9 +11908,9 @@ web/html/reference/global_attributes/part,9c70c6ff09189cad43d40e241fbd2fe67349c3
 web/html/reference/global_attributes/popover,58290795d9f78c91933e092053bb6439bde56651,HTML|Global Attributes
 web/html/reference/global_attributes/slot,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/spellcheck,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,HTML|Global Attributes
-web/html/reference/global_attributes/style,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
+web/html/reference/global_attributes/style,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Global Attributes
 web/html/reference/global_attributes/tabindex,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
-web/html/reference/global_attributes/title,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
+web/html/reference/global_attributes/title,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Global Attributes
 web/html/reference/global_attributes/translate,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/virtualkeyboardpolicy,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/writingsuggestions,d19dec85109590176f946fcceef48c787d578b1e,HTML|Global Attributes
@@ -13709,7 +13710,7 @@ web/media/guides/formats/audio_codecs,abc914f085fb9913c41c4cd4453da432e9d4e761,M
 web/media/guides/formats/audio_concepts,26e46f8c13ebea65dc65a6e99e51e8fa4d5d619d,Media|Guides
 web/media/guides/formats/codecs_parameter,517b6108edc9a1eae8723f7f3ae434c1724d89ac,Media|Guides
 web/media/guides/formats/configuring_servers_for_ogg_media,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Media|Guides
-web/media/guides/formats/containers,a8ba4ed3061cddb88d40977dbb855cf27cedcfc2,Media|Guides
+web/media/guides/formats/containers,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,Media|Guides
 web/media/guides/formats/image_types,2e0b9415ed31484a4830e214eff9e06e408c7261,Media|Guides
 web/media/guides/formats/support_issues,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
 web/media/guides/formats/video_codecs,64d995ef99a84226348832ed398e9edc7809e53e,Media|Guides
@@ -14589,7 +14590,7 @@ webassembly/reference/simd/arithmetic/min_s,b1f6f8008099d8c8fb7d253ec17e3cfaa726
 webassembly/reference/simd/arithmetic/min_u,b1f6f8008099d8c8fb7d253ec17e3cfaa726a75f,WebAssembly
 webassembly/reference/simd/arithmetic/pmax,b1f6f8008099d8c8fb7d253ec17e3cfaa726a75f,WebAssembly
 webassembly/reference/simd/arithmetic/pmin,b1f6f8008099d8c8fb7d253ec17e3cfaa726a75f,WebAssembly
-webassembly/reference/simd/arithmetic/q15mulr_sat_s,b1f6f8008099d8c8fb7d253ec17e3cfaa726a75f,WebAssembly
+webassembly/reference/simd/arithmetic/q15mulr_sat_s,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,WebAssembly
 webassembly/reference/simd/arithmetic/sub_sat_s,b1f6f8008099d8c8fb7d253ec17e3cfaa726a75f,WebAssembly
 webassembly/reference/simd/arithmetic/sub_sat_u,b1f6f8008099d8c8fb7d253ec17e3cfaa726a75f,WebAssembly
 webassembly/reference/simd/bitwise,ca1301872404bbc0305fa945cf3e3fb2351863bf,WebAssembly

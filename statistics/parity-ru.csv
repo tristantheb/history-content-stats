@@ -10484,6 +10484,7 @@ web/css/guides/fonts/variable_fonts,null
 web/css/guides/fonts/woff,null
 web/css/guides/fragmentation,null
 web/css/guides/gaps,null
+web/css/guides/gaps/defining_gaps,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -11853,7 +11854,7 @@ web/html/reference/elements/source,null
 web/html/reference/elements/span,null
 web/html/reference/elements/strike,null
 web/html/reference/elements/strong,null
-web/html/reference/elements/style,15
+web/html/reference/elements/style,16
 web/html/reference/elements/sub,null
 web/html/reference/elements/summary,null
 web/html/reference/elements/sup,null
@@ -11907,7 +11908,7 @@ web/html/reference/global_attributes/part,null
 web/html/reference/global_attributes/popover,null
 web/html/reference/global_attributes/slot,null
 web/html/reference/global_attributes/spellcheck,null
-web/html/reference/global_attributes/style,4
+web/html/reference/global_attributes/style,5
 web/html/reference/global_attributes/tabindex,null
 web/html/reference/global_attributes/title,null
 web/html/reference/global_attributes/translate,null
