@@ -1349,7 +1349,7 @@ mozilla/add-ons/webextensions/api/downloads/booleandelta,09109b6f9444d22215ba330
 mozilla/add-ons/webextensions/api/downloads/cancel,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/downloads/dangertype,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/downloads/doubledelta,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/downloads/download,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/downloads/download,8e08774dd1cf72dae3e8d1b118ac9ae76eeb1f92,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/downloads/downloaditem,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/downloads/downloadquery,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/downloads/downloadtime,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons

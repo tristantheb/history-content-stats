@@ -1349,7 +1349,7 @@ mozilla/add-ons/webextensions/api/downloads/booleandelta,0
 mozilla/add-ons/webextensions/api/downloads/cancel,0
 mozilla/add-ons/webextensions/api/downloads/dangertype,0
 mozilla/add-ons/webextensions/api/downloads/doubledelta,0
-mozilla/add-ons/webextensions/api/downloads/download,0
+mozilla/add-ons/webextensions/api/downloads/download,1
 mozilla/add-ons/webextensions/api/downloads/downloaditem,0
 mozilla/add-ons/webextensions/api/downloads/downloadquery,0
 mozilla/add-ons/webextensions/api/downloads/downloadtime,0
