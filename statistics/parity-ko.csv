@@ -10484,6 +10484,7 @@ web/css/guides/fonts/variable_fonts,null
 web/css/guides/fonts/woff,null
 web/css/guides/fragmentation,null
 web/css/guides/gaps,null
+web/css/guides/gaps/defining_gaps,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -11742,7 +11743,7 @@ web/html/reference/elements/data,null
 web/html/reference/elements/datalist,null
 web/html/reference/elements/dd,4
 web/html/reference/elements/del,null
-web/html/reference/elements/details,8
+web/html/reference/elements/details,9
 web/html/reference/elements/dfn,null
 web/html/reference/elements/dialog,17
 web/html/reference/elements/dir,null
@@ -11772,7 +11773,7 @@ web/html/reference/elements/iframe,null
 web/html/reference/elements/img,null
 web/html/reference/elements/input,null
 web/html/reference/elements/input/button,null
-web/html/reference/elements/input/checkbox,10
+web/html/reference/elements/input/checkbox,11
 web/html/reference/elements/input/color,null
 web/html/reference/elements/input/date,null
 web/html/reference/elements/input/datetime-local,null
@@ -11785,7 +11786,7 @@ web/html/reference/elements/input/number,null
 web/html/reference/elements/input/password,null
 web/html/reference/elements/input/radio,null
 web/html/reference/elements/input/range,null
-web/html/reference/elements/input/reset,4
+web/html/reference/elements/input/reset,5
 web/html/reference/elements/input/search,null
 web/html/reference/elements/input/submit,null
 web/html/reference/elements/input/tel,null

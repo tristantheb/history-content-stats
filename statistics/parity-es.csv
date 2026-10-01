@@ -10484,6 +10484,7 @@ web/css/guides/fonts/variable_fonts,null
 web/css/guides/fonts/woff,null
 web/css/guides/fragmentation,null
 web/css/guides/gaps,null
+web/css/guides/gaps/defining_gaps,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -11772,7 +11773,7 @@ web/html/reference/elements/iframe,null
 web/html/reference/elements/img,0
 web/html/reference/elements/input,2
 web/html/reference/elements/input/button,null
-web/html/reference/elements/input/checkbox,0
+web/html/reference/elements/input/checkbox,1
 web/html/reference/elements/input/color,0
 web/html/reference/elements/input/date,null
 web/html/reference/elements/input/datetime-local,1

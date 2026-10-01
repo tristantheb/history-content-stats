@@ -10484,6 +10484,7 @@ web/css/guides/fonts/variable_fonts,null
 web/css/guides/fonts/woff,1
 web/css/guides/fragmentation,null
 web/css/guides/gaps,null
+web/css/guides/gaps/defining_gaps,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -11907,9 +11908,9 @@ web/html/reference/global_attributes/part,null
 web/html/reference/global_attributes/popover,null
 web/html/reference/global_attributes/slot,null
 web/html/reference/global_attributes/spellcheck,2
-web/html/reference/global_attributes/style,1
+web/html/reference/global_attributes/style,2
 web/html/reference/global_attributes/tabindex,null
-web/html/reference/global_attributes/title,4
+web/html/reference/global_attributes/title,5
 web/html/reference/global_attributes/translate,null
 web/html/reference/global_attributes/virtualkeyboardpolicy,null
 web/html/reference/global_attributes/writingsuggestions,null
