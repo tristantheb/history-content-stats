@@ -886,8 +886,8 @@ learn_web_development/extensions/forms/how_to_build_custom_form_controls/example
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_3,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_4,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_5,null
-learn_web_development/extensions/forms/how_to_structure_a_web_form,17
-learn_web_development/extensions/forms/how_to_structure_a_web_form/example,6
+learn_web_development/extensions/forms/how_to_structure_a_web_form,18
+learn_web_development/extensions/forms/how_to_structure_a_web_form/example,7
 learn_web_development/extensions/forms/html5_input_types,10
 learn_web_development/extensions/forms/html_forms_in_legacy_browsers,null
 learn_web_development/extensions/forms/other_form_controls,null
@@ -11745,7 +11745,7 @@ web/html/reference/elements/dd,4
 web/html/reference/elements/del,null
 web/html/reference/elements/details,9
 web/html/reference/elements/dfn,null
-web/html/reference/elements/dialog,17
+web/html/reference/elements/dialog,18
 web/html/reference/elements/dir,null
 web/html/reference/elements/div,7
 web/html/reference/elements/dl,5
@@ -13496,6 +13496,7 @@ web/javascript/reference/global_objects/weakset/weakset,3
 web/javascript/reference/iteration_protocols,31
 web/javascript/reference/javascript_technologies_overview,8
 web/javascript/reference/lexical_grammar,null
+web/javascript/reference/magic_comments,null
 web/javascript/reference/operators,null
 web/javascript/reference/operators/addition,11
 web/javascript/reference/operators/addition_assignment,null
