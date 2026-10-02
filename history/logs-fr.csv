@@ -6051,6 +6051,12 @@ web/http/reference/headers/sec-ch-width,f8ef875113a7d3e9952f41de68be1e3a3a1e6988
 web/http/reference/headers/sec-fetch-dest,7e4e8954972d77196e4beedca4a3f8610da34dc9
 web/http/reference/headers/sec-fetch-mode,7e4e8954972d77196e4beedca4a3f8610da34dc9
 web/http/reference/headers/sec-fetch-site,7e4e8954972d77196e4beedca4a3f8610da34dc9
+web/http/reference/headers/sec-fetch-storage-access,e936e7271df947f25184a5ba8a21445bbd4d056c
+web/http/reference/headers/sec-fetch-user,7e4e8954972d77196e4beedca4a3f8610da34dc9
+web/http/reference/headers/sec-gpc,513146a616213fee548fdcf72dc1359030eb3395
+web/http/reference/headers/sec-private-state-token-crypto-version,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678
+web/http/reference/headers/sec-private-state-token-lifetime,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678
+web/http/reference/headers/sec-private-state-token,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678
 web/http/reference/headers/server,no_hash_commit
 web/http/reference/headers/set-cookie,no_hash_commit
 web/http/reference/headers/tk,no_hash_commit
