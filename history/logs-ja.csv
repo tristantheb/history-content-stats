@@ -8482,7 +8482,13 @@ web/http/reference/headers/sec-ch-prefers-reduced-motion,6c43d5c2607cbc84c8ec488
 web/http/reference/headers/sec-ch-prefers-reduced-transparency,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-ch-ua-arch,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-ch-ua-bitness,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/sec-ch-ua-form-factors,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-ch-ua-full-version-list,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/sec-ch-ua-mobile,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/sec-ch-ua-model,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/sec-ch-ua-platform-version,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/sec-ch-ua-platform,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/sec-ch-ua-wow64,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-ch-ua,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-fetch-dest,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/sec-fetch-mode,ad5b5e31f81795d692e66dadb7818ba8b220ad15
