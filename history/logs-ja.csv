@@ -7519,6 +7519,7 @@ web/css/reference/properties/page-break-before,bcbb4bd6a80292c0663b723d5466759cf
 web/css/reference/properties/page-break-inside,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/page,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/paint-order,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/path-length,b7e9f482c51817d3a885e26092f8219fd0d9d278
 web/css/reference/properties/perspective-origin,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/perspective,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/place-content,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
@@ -7666,6 +7667,7 @@ web/css/reference/properties/view-timeline-name,5310a5bff0e1f3e2dfafa44bc2aadbb3
 web/css/reference/properties/view-timeline,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf
 web/css/reference/properties/view-transition-class,7447816a276e95c5b4c2ab2f6a1f80b081371de2
 web/css/reference/properties/view-transition-name,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/view-transition-scope,b6de98eb9cd52ce7e37f22a340352f0af4c9d597
 web/css/reference/properties/visibility,0b5859108411e47d228a4bb9f30a5556ab17f63c
 web/css/reference/properties/white-space-collapse,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/white-space,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -7846,7 +7848,7 @@ web/css/reference/selectors/selector_list,33094d735e90b4dcae5733331b79c51fee9974
 web/css/reference/selectors/subsequent-sibling_combinator,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors/type_selectors,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/selectors/universal_selectors,ca0d81a57fd36cf5da9621c44171d0f333f3f3e1
-web/css/reference/values/-moz-image-rect,no_hash_commit
+web/css/reference/values/-moz-image-rect,ca6052779ddca9f6d99665f12c39aa2d85d85733
 web/css/reference/values/abs,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/absolute-size,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/values/acos,b760560abe30bd69ca968dac38528102f423b5ea
