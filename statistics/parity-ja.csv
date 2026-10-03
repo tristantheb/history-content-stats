@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,9
 mozilla/firefox,0
-mozilla/firefox/experimental_features,5
+mozilla/firefox/experimental_features,6
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -1965,7 +1965,7 @@ mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,3
 mozilla/firefox/releases/154,1
 mozilla/firefox/releases/155,0
-mozilla/firefox/releases/156,2
+mozilla/firefox/releases/156,3
 mozilla/firefox/releases/157,null
 mozilla/firefox/releases/158,null
 mozilla/firefox/releases/159,null
@@ -11130,7 +11130,7 @@ web/css/reference/properties/page-break-after,1
 web/css/reference/properties/page-break-before,2
 web/css/reference/properties/page-break-inside,2
 web/css/reference/properties/paint-order,0
-web/css/reference/properties/path-length,null
+web/css/reference/properties/path-length,0
 web/css/reference/properties/perspective,1
 web/css/reference/properties/perspective-origin,2
 web/css/reference/properties/place-content,2
@@ -11287,7 +11287,7 @@ web/css/reference/properties/view-timeline-inset,1
 web/css/reference/properties/view-timeline-name,2
 web/css/reference/properties/view-transition-class,0
 web/css/reference/properties/view-transition-name,2
-web/css/reference/properties/view-transition-scope,null
+web/css/reference/properties/view-transition-scope,0
 web/css/reference/properties/visibility,2
 web/css/reference/properties/white-space,1
 web/css/reference/properties/white-space-collapse,0
@@ -11469,7 +11469,7 @@ web/css/reference/selectors/subsequent-sibling_combinator,0
 web/css/reference/selectors/type_selectors,0
 web/css/reference/selectors/universal_selectors,0
 web/css/reference/values,1
-web/css/reference/values/-moz-image-rect,null
+web/css/reference/values/-moz-image-rect,0
 web/css/reference/values/abs,0
 web/css/reference/values/absolute-size,2
 web/css/reference/values/acos,1
