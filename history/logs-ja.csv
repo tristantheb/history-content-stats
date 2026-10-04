@@ -6830,7 +6830,7 @@ web/css/guides/cascade,81f8fcd666952c1782653a3675347c392cc997ca
 web/css/guides/cascade/inheritance,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/cascade/introduction,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/cascade/property_value_processing,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a
-web/css/guides/cascade/shorthand_properties,41d437c9dfc5417430d9632ce7196f5817048cbc
+web/css/guides/cascade/shorthand_properties,9dad06197b9a4c09d7c1e03b5aac47458a30cb2e
 web/css/guides/cascade/specificity,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/cascading_variables,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/cascading_variables/using_custom_properties,33094d735e90b4dcae5733331b79c51fee997410
@@ -6886,7 +6886,7 @@ web/css/guides/fonts/opentype_fonts,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/fonts/variable_fonts,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/guides/gaps,34838ae7d32e78bfe01dbf2c266257ef0f8305c4
+web/css/guides/gaps,8a13259a44523cd17b4fe347088b62c6d7a35265
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/grid_layout/auto-placement,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -6947,7 +6947,7 @@ web/css/guides/positioned_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/positioned_layout/stacking_context/example_1,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/positioned_layout/stacking_context/example_2,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/positioned_layout/stacking_context/example_3,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/guides/positioned_layout/stacking_context,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
+web/css/guides/positioned_layout/stacking_context,15e1155ab8a0587405601cc4753bb789cd6ac47c
 web/css/guides/positioned_layout/stacking_floating_elements,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/positioned_layout/stacking_without_z-index,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/positioned_layout/understanding_z-index,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7045,7 +7045,7 @@ web/css/reference/at-rules/@font-face/font-stretch,ad9776a6cf53eaf570ac051540224
 web/css/reference/at-rules/@font-face/font-style,ad9776a6cf53eaf570ac0515402247e82ecefcfe
 web/css/reference/at-rules/@font-face/font-variation-settings,ad9776a6cf53eaf570ac0515402247e82ecefcfe
 web/css/reference/at-rules/@font-face/font-weight,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/at-rules/@font-face,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/at-rules/@font-face,91e08923c809ca8deded3e3294f49bbe1a4a00b3
 web/css/reference/at-rules/@font-face/line-gap-override,ad9776a6cf53eaf570ac0515402247e82ecefcfe
 web/css/reference/at-rules/@font-face/size-adjust,ad9776a6cf53eaf570ac0515402247e82ecefcfe
 web/css/reference/at-rules/@font-face/src,ad9776a6cf53eaf570ac0515402247e82ecefcfe
@@ -7109,7 +7109,7 @@ web/css/reference/at-rules/@page,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/reference/at-rules/@page/page-orientation,ad9776a6cf53eaf570ac0515402247e82ecefcfe
 web/css/reference/at-rules/@page/size,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@position-try,e328268bb418551ab451881845881b5837c9da83
-web/css/reference/at-rules/@property,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a
+web/css/reference/at-rules/@property,4560e287e8c75c40aa5ecf40a0c9e8ecd0217c56
 web/css/reference/at-rules/@property/inherits,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@property/initial-value,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/at-rules/@property/syntax,33094d735e90b4dcae5733331b79c51fee997410
@@ -7170,7 +7170,7 @@ web/css/reference/properties/appearance,a1c041f5d15330c7bcd85e9bf93d88f759174cf5
 web/css/reference/properties/aspect-ratio,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/backdrop-filter,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/backface-visibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/background-attachment,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/background-attachment,d4dc9d899ebec0e9c22a5bb9229f39f33457d8df
 web/css/reference/properties/background-blend-mode,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/background-clip,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/background-color,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7183,7 +7183,7 @@ web/css/reference/properties/background-repeat-x,739c9994ad2e83809110f601d8941f6
 web/css/reference/properties/background-repeat-y,739c9994ad2e83809110f601d8941f61d6785f29
 web/css/reference/properties/background-repeat,1b3165b1717bbd0bfc1c90ad68c80a84e0b4fc8c
 web/css/reference/properties/background-size,1bfe630bd8538b64c97c7f684f5ee647a76c1a28
-web/css/reference/properties/background,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/background,3f221b9845703eb21db70cdc321f843d5c1c072b
 web/css/reference/properties/baseline-shift,483ce811e1ea52cb2d9d2a5af0c4d1c4d591ea4a
 web/css/reference/properties/baseline-source,5ebca2edd6095fb3f61d442ed3146fa37fffbf7d
 web/css/reference/properties/block-size,2d78abb3e793352e24e976ce0e68c08d817bd7f3
@@ -7312,7 +7312,7 @@ web/css/reference/properties/corner-inline-end-shape,85fccefc8066bd49af4ddafc12c
 web/css/reference/properties/corner-inline-start-shape,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/corner-left-shape,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/corner-right-shape,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/corner-shape,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/corner-shape,5381238460a48ff323a93e652d15cb62598f0262
 web/css/reference/properties/corner-start-end-shape,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/corner-start-start-shape,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/corner-top-left-shape,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7331,15 +7331,15 @@ web/css/reference/properties/dominant-baseline,2d78abb3e793352e24e976ce0e68c08d8
 web/css/reference/properties/empty-cells,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/field-sizing,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/fill-rule,bcbb4bd6a80292c0663b723d5466759cfaaa8315
-web/css/reference/properties/fill,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/fill,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6
 web/css/reference/properties/filter,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/flex-basis,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/flex-direction,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/flex-flow,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
+web/css/reference/properties/flex-flow,6354422058e438a2599e4eab71eaec8eb40850fa
 web/css/reference/properties/flex-grow,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/flex-shrink,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/flex-shrink,efbef0da1dbe29be125eb7db0b831a4e4bd9220d
 web/css/reference/properties/flex-wrap,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/flex,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/flex,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6
 web/css/reference/properties/float,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/flood-color,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/flood-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -7642,13 +7642,13 @@ web/css/reference/properties/text-underline-position,1dbba9f7a2c2e35c6e01e8a6315
 web/css/reference/properties/text-wrap-mode,aff319cd81d10cfda31b13adb3263deafb284b20
 web/css/reference/properties/text-wrap-style,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/text-wrap,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
-web/css/reference/properties/timeline-scope,de6b6c760753776ad38b5d77c519fd1e845e0413
+web/css/reference/properties/timeline-scope,2a3061b6905ba8a8fe2654e1a6a978bc614bfd66
 web/css/reference/properties/top,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/touch-action,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/transform-box,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/transform-origin,e316a03cc74a78004dbba837c9d5df297e2eb0aa
 web/css/reference/properties/transform-style,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/transform,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/transform,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6
 web/css/reference/properties/transition-behavior,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/transition-delay,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/transition-duration,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7675,8 +7675,8 @@ web/css/reference/properties/widows,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/width,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/will-change,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/word-break,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/word-spacing,2d78abb3e793352e24e976ce0e68c08d817bd7f3
-web/css/reference/properties/writing-mode,dd7de10dc91e9f2df29b80fec20da303439b6215
+web/css/reference/properties/word-spacing,91e08923c809ca8deded3e3294f49bbe1a4a00b3
+web/css/reference/properties/writing-mode,e57e3fdd4ab6fb372ddc3d78e5b428f318202426
 web/css/reference/properties/x,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/y,2d78abb3e793352e24e976ce0e68c08d817bd7f3
 web/css/reference/properties/z-index,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7865,7 +7865,7 @@ web/css/reference/values/axis,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/baseline-position,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/values/basic-shape/circle,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/basic-shape/ellipse,b760560abe30bd69ca968dac38528102f423b5ea
-web/css/reference/values/basic-shape,33094d735e90b4dcae5733331b79c51fee997410
+web/css/reference/values/basic-shape,2e0b9415ed31484a4830e214eff9e06e408c7261
 web/css/reference/values/basic-shape/inset,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/basic-shape/path,ddf85bfec1b6e43cdacb404de0c38a801c561640
 web/css/reference/values/basic-shape/polygon,b760560abe30bd69ca968dac38528102f423b5ea
@@ -7952,7 +7952,7 @@ web/css/reference/values/hypot,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/ident,f69b6693212029ce4b9fa0c753729044577af548
 web/css/reference/values/if,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/image/image-set,b760560abe30bd69ca968dac38528102f423b5ea
-web/css/reference/values/image/image,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/values/image/image,b7e9f482c51817d3a885e26092f8219fd0d9d278
 web/css/reference/values/image,f69b6693212029ce4b9fa0c753729044577af548
 web/css/reference/values/image/paint,f69b6693212029ce4b9fa0c753729044577af548
 web/css/reference/values/important,8fd626a7b7f1fcb19193325bbac5b87e719f83ea
