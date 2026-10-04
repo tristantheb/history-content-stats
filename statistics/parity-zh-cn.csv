@@ -48,15 +48,15 @@ games/tutorials/2d_breakout_game_phaser/move_the_ball,1
 games/tutorials/2d_breakout_game_phaser/physics,1
 games/tutorials/2d_breakout_game_phaser/player_paddle_and_controls,null
 games/tutorials/2d_breakout_game_phaser/randomizing_gameplay,2
-games/tutorials/2d_breakout_game_phaser/track_the_score_and_win,null
+games/tutorials/2d_breakout_game_phaser/track_the_score_and_win,1
 games/tutorials/2d_breakout_game_pure_javascript,1
 games/tutorials/2d_breakout_game_pure_javascript/animations_and_tweens,null
 games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,1
 games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,null
 games/tutorials/2d_breakout_game_pure_javascript/buttons,null
-games/tutorials/2d_breakout_game_pure_javascript/extra_lives,null
+games/tutorials/2d_breakout_game_pure_javascript/extra_lives,1
 games/tutorials/2d_breakout_game_pure_javascript/game_over,1
-games/tutorials/2d_breakout_game_pure_javascript/initialize_the_canvas,null
+games/tutorials/2d_breakout_game_pure_javascript/initialize_the_canvas,1
 games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,1
 games/tutorials/2d_breakout_game_pure_javascript/player_paddle_and_controls,null
 games/tutorials/2d_breakout_game_pure_javascript/randomizing_gameplay,null
@@ -1077,7 +1077,7 @@ mdn/writing_guidelines/page_structures/banners_and_notices,null
 mdn/writing_guidelines/page_structures/code_examples,null
 mdn/writing_guidelines/page_structures/compatibility_tables,null
 mdn/writing_guidelines/page_structures/feature_status,14
-mdn/writing_guidelines/page_structures/links,null
+mdn/writing_guidelines/page_structures/links,0
 mdn/writing_guidelines/page_structures/live_samples,null
 mdn/writing_guidelines/page_structures/macros,null
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,4
