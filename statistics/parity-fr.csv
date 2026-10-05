@@ -10398,7 +10398,9 @@ web/css/guides/anchor_positioning,0
 web/css/guides/anchor_positioning/anchored_container_queries,0
 web/css/guides/anchor_positioning/try_options_hiding,0
 web/css/guides/anchor_positioning/using,0
-web/css/guides/animations,0
+web/css/guides/animation_triggers,null
+web/css/guides/animation_triggers/using_scroll-triggered_animations,null
+web/css/guides/animations,1
 web/css/guides/animations/animatable_properties,0
 web/css/guides/animations/using,0
 web/css/guides/backgrounds_and_borders,0
@@ -10752,7 +10754,7 @@ web/css/reference/properties/alignment-baseline,0
 web/css/reference/properties/all,0
 web/css/reference/properties/anchor-name,0
 web/css/reference/properties/anchor-scope,0
-web/css/reference/properties/animation,6
+web/css/reference/properties/animation,7
 web/css/reference/properties/animation-composition,0
 web/css/reference/properties/animation-delay,0
 web/css/reference/properties/animation-direction,0
@@ -10768,6 +10770,7 @@ web/css/reference/properties/animation-timeline,1
 web/css/reference/properties/animation-timeline/scroll,0
 web/css/reference/properties/animation-timeline/view,0
 web/css/reference/properties/animation-timing-function,0
+web/css/reference/properties/animation-trigger,null
 web/css/reference/properties/appearance,0
 web/css/reference/properties/aspect-ratio,0
 web/css/reference/properties/backdrop-filter,0
@@ -11165,13 +11168,13 @@ web/css/reference/properties/row-rule-width,0
 web/css/reference/properties/ruby-align,0
 web/css/reference/properties/ruby-overhang,0
 web/css/reference/properties/ruby-position,0
-web/css/reference/properties/rule,0
+web/css/reference/properties/rule,1
 web/css/reference/properties/rule-break,1
-web/css/reference/properties/rule-color,0
+web/css/reference/properties/rule-color,1
 web/css/reference/properties/rule-inset-cap,null
-web/css/reference/properties/rule-style,0
-web/css/reference/properties/rule-visibility-items,1
-web/css/reference/properties/rule-width,0
+web/css/reference/properties/rule-style,1
+web/css/reference/properties/rule-visibility-items,2
+web/css/reference/properties/rule-width,1
 web/css/reference/properties/rx,0
 web/css/reference/properties/ry,0
 web/css/reference/properties/scale,1
@@ -11263,6 +11266,15 @@ web/css/reference/properties/text-wrap,0
 web/css/reference/properties/text-wrap-mode,0
 web/css/reference/properties/text-wrap-style,0
 web/css/reference/properties/timeline-scope,2
+web/css/reference/properties/timeline-trigger,null
+web/css/reference/properties/timeline-trigger-activation-range,null
+web/css/reference/properties/timeline-trigger-activation-range-end,null
+web/css/reference/properties/timeline-trigger-activation-range-start,null
+web/css/reference/properties/timeline-trigger-active-range,null
+web/css/reference/properties/timeline-trigger-active-range-end,null
+web/css/reference/properties/timeline-trigger-active-range-start,null
+web/css/reference/properties/timeline-trigger-name,null
+web/css/reference/properties/timeline-trigger-source,null
 web/css/reference/properties/top,0
 web/css/reference/properties/touch-action,0
 web/css/reference/properties/transform,1
@@ -11276,6 +11288,7 @@ web/css/reference/properties/transition-duration,1
 web/css/reference/properties/transition-property,1
 web/css/reference/properties/transition-timing-function,1
 web/css/reference/properties/translate,1
+web/css/reference/properties/trigger-scope,null
 web/css/reference/properties/unicode-bidi,0
 web/css/reference/properties/user-modify,0
 web/css/reference/properties/user-select,0
@@ -11478,6 +11491,7 @@ web/css/reference/values/anchor,0
 web/css/reference/values/anchor-size,0
 web/css/reference/values/angle,0
 web/css/reference/values/angle-percentage,0
+web/css/reference/values/animation-action,null
 web/css/reference/values/asin,0
 web/css/reference/values/atan,0
 web/css/reference/values/atan2,0
@@ -11628,7 +11642,7 @@ web/css/reference/values/tan,0
 web/css/reference/values/text-edge,0
 web/css/reference/values/time,0
 web/css/reference/values/time-percentage,0
-web/css/reference/values/timeline-range-name,1
+web/css/reference/values/timeline-range-name,2
 web/css/reference/values/transform-function,1
 web/css/reference/values/transform-function/matrix,0
 web/css/reference/values/transform-function/matrix3d,0
