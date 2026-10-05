@@ -5908,7 +5908,7 @@ web/api/mediadevices,0
 web/api/mediadevices/devicechange_event,0
 web/api/mediadevices/enumeratedevices,0
 web/api/mediadevices/getdisplaymedia,0
-web/api/mediadevices/getsupportedconstraints,0
+web/api/mediadevices/getsupportedconstraints,1
 web/api/mediadevices/getusermedia,0
 web/api/mediadevices/selectaudiooutput,0
 web/api/mediaelementaudiosourcenode,0
@@ -10484,7 +10484,7 @@ web/css/guides/fonts/variable_fonts,0
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
 web/css/guides/gaps,0
-web/css/guides/gaps/defining_gaps,0
+web/css/guides/gaps/defining_gaps,1
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,0
 web/css/guides/grid_layout/accessibility,0
