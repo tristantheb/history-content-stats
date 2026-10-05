@@ -10398,6 +10398,8 @@ web/css/guides/anchor_positioning,null
 web/css/guides/anchor_positioning/anchored_container_queries,null
 web/css/guides/anchor_positioning/try_options_hiding,null
 web/css/guides/anchor_positioning/using,null
+web/css/guides/animation_triggers,null
+web/css/guides/animation_triggers/using_scroll-triggered_animations,null
 web/css/guides/animations,null
 web/css/guides/animations/animatable_properties,null
 web/css/guides/animations/using,null
@@ -10768,6 +10770,7 @@ web/css/reference/properties/animation-timeline,null
 web/css/reference/properties/animation-timeline/scroll,null
 web/css/reference/properties/animation-timeline/view,null
 web/css/reference/properties/animation-timing-function,null
+web/css/reference/properties/animation-trigger,null
 web/css/reference/properties/appearance,null
 web/css/reference/properties/aspect-ratio,null
 web/css/reference/properties/backdrop-filter,null
@@ -11263,6 +11266,15 @@ web/css/reference/properties/text-wrap,null
 web/css/reference/properties/text-wrap-mode,null
 web/css/reference/properties/text-wrap-style,null
 web/css/reference/properties/timeline-scope,null
+web/css/reference/properties/timeline-trigger,null
+web/css/reference/properties/timeline-trigger-activation-range,null
+web/css/reference/properties/timeline-trigger-activation-range-end,null
+web/css/reference/properties/timeline-trigger-activation-range-start,null
+web/css/reference/properties/timeline-trigger-active-range,null
+web/css/reference/properties/timeline-trigger-active-range-end,null
+web/css/reference/properties/timeline-trigger-active-range-start,null
+web/css/reference/properties/timeline-trigger-name,null
+web/css/reference/properties/timeline-trigger-source,null
 web/css/reference/properties/top,null
 web/css/reference/properties/touch-action,null
 web/css/reference/properties/transform,null
@@ -11276,6 +11288,7 @@ web/css/reference/properties/transition-duration,null
 web/css/reference/properties/transition-property,null
 web/css/reference/properties/transition-timing-function,null
 web/css/reference/properties/translate,null
+web/css/reference/properties/trigger-scope,null
 web/css/reference/properties/unicode-bidi,null
 web/css/reference/properties/user-modify,null
 web/css/reference/properties/user-select,null
@@ -11478,6 +11491,7 @@ web/css/reference/values/anchor,null
 web/css/reference/values/anchor-size,null
 web/css/reference/values/angle,null
 web/css/reference/values/angle-percentage,null
+web/css/reference/values/animation-action,null
 web/css/reference/values/asin,null
 web/css/reference/values/atan,null
 web/css/reference/values/atan2,null
