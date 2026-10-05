@@ -10398,7 +10398,9 @@ web/css/guides/anchor_positioning,879a1aece3a1d4eb28c0024f0baac6aa1b96638e,CSS|G
 web/css/guides/anchor_positioning/anchored_container_queries,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Guides
 web/css/guides/anchor_positioning/try_options_hiding,7c56e442e76d472eff1c6a06eb5432bb11a47f3e,CSS|Guides
 web/css/guides/anchor_positioning/using,a0b748b391f3ed7e6ef38e8eda3ecaa9efced926,CSS|Guides
-web/css/guides/animations,b8a45c83bfb5aa8b99ddcd564e7e9c66be5daffc,CSS|Guides
+web/css/guides/animation_triggers,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Guides
+web/css/guides/animation_triggers/using_scroll-triggered_animations,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Guides
+web/css/guides/animations,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Guides
 web/css/guides/animations/animatable_properties,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
 web/css/guides/animations/using,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
 web/css/guides/backgrounds_and_borders,f9761309e0fe3f22822e63903439d8d6130b535f,CSS|Guides
@@ -10556,7 +10558,7 @@ web/css/guides/pseudo-elements,55fa0e2b797b1358464b42ceb32167675a03ca8d,CSS|Guid
 web/css/guides/round_display,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/ruby_layout,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/scoping,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/scroll-driven_animations,f538091795d2ae7ddde4c03d939bd6efb451ef39,CSS|Guides
+web/css/guides/scroll-driven_animations,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Guides
 web/css/guides/scroll-driven_animations/timeline_insets,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Guides
 web/css/guides/scroll-driven_animations/timeline_range_names,e5cd1cab36e2fdcf5dfe28e10b0a7cb235354e62,CSS|Guides
 web/css/guides/scroll-driven_animations/timelines,f94b7a0b06a0e32df81ec8197720d306fe50a4a0,CSS|Guides
@@ -10752,7 +10754,7 @@ web/css/reference/properties/alignment-baseline,071fd0613b1b5728d2d83845ea11512c
 web/css/reference/properties/all,8a13259a44523cd17b4fe347088b62c6d7a35265,CSS|Properties
 web/css/reference/properties/anchor-name,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/anchor-scope,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/animation,a8ef14ed998f5554b834200ba9b0ff0425765416,CSS|Properties
+web/css/reference/properties/animation,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
 web/css/reference/properties/animation-composition,d4dc9d899ebec0e9c22a5bb9229f39f33457d8df,CSS|Properties
 web/css/reference/properties/animation-delay,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/animation-direction,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
@@ -10768,6 +10770,7 @@ web/css/reference/properties/animation-timeline,880c2c4b113c6fe127ca3ae3603a56ef
 web/css/reference/properties/animation-timeline/scroll,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/animation-timeline/view,bf3142e11b227fb3e7c6de298ea9049aa1999d6f,CSS|Properties
 web/css/reference/properties/animation-timing-function,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/animation-trigger,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
 web/css/reference/properties/appearance,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/aspect-ratio,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/backdrop-filter,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11165,13 +11168,13 @@ web/css/reference/properties/row-rule-width,a9dc3374034d357cbfea717fd5d641605359
 web/css/reference/properties/ruby-align,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/ruby-overhang,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/rule,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/rule,714b29574d287b6501ca3ebffb5f0f5ace0c6368,CSS|Properties
 web/css/reference/properties/rule-break,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
-web/css/reference/properties/rule-color,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/rule-color,714b29574d287b6501ca3ebffb5f0f5ace0c6368,CSS|Properties
 web/css/reference/properties/rule-inset-cap,b60c5dad8cf10d8492f2aff491abb40bf1851b03,CSS|Properties
-web/css/reference/properties/rule-style,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
-web/css/reference/properties/rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
-web/css/reference/properties/rule-width,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/rule-style,714b29574d287b6501ca3ebffb5f0f5ace0c6368,CSS|Properties
+web/css/reference/properties/rule-visibility-items,f1e792d66f656c235b3c91a905b58cc7f7f1cca0,CSS|Properties
+web/css/reference/properties/rule-width,714b29574d287b6501ca3ebffb5f0f5ace0c6368,CSS|Properties
 web/css/reference/properties/rx,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/ry,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/scale,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
@@ -11263,6 +11266,15 @@ web/css/reference/properties/text-wrap,5381238460a48ff323a93e652d15cb62598f0262,
 web/css/reference/properties/text-wrap-mode,7d82de65fb43700d2053f13d8344ec4a78759b2c,CSS|Properties
 web/css/reference/properties/text-wrap-style,7d82de65fb43700d2053f13d8344ec4a78759b2c,CSS|Properties
 web/css/reference/properties/timeline-scope,2a3061b6905ba8a8fe2654e1a6a978bc614bfd66,CSS|Properties
+web/css/reference/properties/timeline-trigger,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
+web/css/reference/properties/timeline-trigger-activation-range,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
+web/css/reference/properties/timeline-trigger-activation-range-end,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
+web/css/reference/properties/timeline-trigger-activation-range-start,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
+web/css/reference/properties/timeline-trigger-active-range,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
+web/css/reference/properties/timeline-trigger-active-range-end,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
+web/css/reference/properties/timeline-trigger-active-range-start,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
+web/css/reference/properties/timeline-trigger-name,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
+web/css/reference/properties/timeline-trigger-source,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
 web/css/reference/properties/top,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/touch-action,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/transform,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
@@ -11276,6 +11288,7 @@ web/css/reference/properties/transition-duration,3fb9ea0187429234b47cb0385a9515a
 web/css/reference/properties/transition-property,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/transition-timing-function,3064cbe8212ea919874fb21120a89657afccba25,CSS|Properties
 web/css/reference/properties/translate,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
+web/css/reference/properties/trigger-scope,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
 web/css/reference/properties/unicode-bidi,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/user-modify,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|Properties
 web/css/reference/properties/user-select,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11478,6 +11491,7 @@ web/css/reference/values/anchor,25ad29eedf5897f5b0ca23c3295261cbd01c6031,CSS|Val
 web/css/reference/values/anchor-size,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/angle,06d31d3fa6fbe7ecf0d2c3f3f0b14e1d5fe874c5,CSS|Values
 web/css/reference/values/angle-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
+web/css/reference/values/animation-action,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Values
 web/css/reference/values/asin,daa035392f8466e6d75f290d9ffa4317adca4070,CSS|Values
 web/css/reference/values/atan,daa035392f8466e6d75f290d9ffa4317adca4070,CSS|Values
 web/css/reference/values/atan2,daa035392f8466e6d75f290d9ffa4317adca4070,CSS|Values
@@ -11628,7 +11642,7 @@ web/css/reference/values/tan,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/text-edge,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/time,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/time-percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/timeline-range-name,5f3da7dfeb0b6938fcae8a08fc08f9b8aea1ff65,CSS|Values
+web/css/reference/values/timeline-range-name,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Values
 web/css/reference/values/transform-function,81a384e18b61c1d1b23d7f58f1fbd8ec3af45558,CSS|Values
 web/css/reference/values/transform-function/matrix,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/transform-function/matrix3d,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
