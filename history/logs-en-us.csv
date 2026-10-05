@@ -5908,7 +5908,7 @@ web/api/mediadevices,a5b8c78d6a38dda4194bec70cb82e5bf646178e7,Web APIs
 web/api/mediadevices/devicechange_event,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
 web/api/mediadevices/enumeratedevices,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/mediadevices/getdisplaymedia,8a13259a44523cd17b4fe347088b62c6d7a35265,Web APIs
-web/api/mediadevices/getsupportedconstraints,a5b8c78d6a38dda4194bec70cb82e5bf646178e7,Web APIs
+web/api/mediadevices/getsupportedconstraints,381fc52124e4be7d5b1bde38be75b95432f59dd7,Web APIs
 web/api/mediadevices/getusermedia,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/mediadevices/selectaudiooutput,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/mediaelementaudiosourcenode,32305cc3cf274fbfdcc73a296bbd400a26f38296,Web APIs
@@ -10484,7 +10484,7 @@ web/css/guides/fonts/variable_fonts,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5,CSS
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/gaps,71fd49d60a856bd15c6fe2e8328147c9d3bcc67d,CSS|Guides
-web/css/guides/gaps/defining_gaps,71fd49d60a856bd15c6fe2e8328147c9d3bcc67d,CSS|Guides
+web/css/guides/gaps/defining_gaps,381fc52124e4be7d5b1bde38be75b95432f59dd7,CSS|Guides
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/grid_layout,298079b550c76f20de6611c4ecdde4c30dc68b2b,CSS|Guides
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
