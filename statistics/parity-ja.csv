@@ -5908,7 +5908,7 @@ web/api/mediadevices,1
 web/api/mediadevices/devicechange_event,4
 web/api/mediadevices/enumeratedevices,2
 web/api/mediadevices/getdisplaymedia,11
-web/api/mediadevices/getsupportedconstraints,2
+web/api/mediadevices/getsupportedconstraints,3
 web/api/mediadevices/getusermedia,6
 web/api/mediadevices/selectaudiooutput,4
 web/api/mediaelementaudiosourcenode,1
