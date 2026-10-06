@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,5
 mozilla/firefox,0
-mozilla/firefox/experimental_features,9
+mozilla/firefox/experimental_features,10
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1966,7 +1966,7 @@ mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,5
-mozilla/firefox/releases/157,2
+mozilla/firefox/releases/157,3
 mozilla/firefox/releases/158,null
 mozilla/firefox/releases/159,null
 mozilla/firefox/releases/16,0
@@ -3370,7 +3370,7 @@ web/api/cssviewtransitionrule/navigation,null
 web/api/cssviewtransitionrule/types,null
 web/api/customelementregistry,null
 web/api/customelementregistry/customelementregistry,null
-web/api/customelementregistry/define,8
+web/api/customelementregistry/define,9
 web/api/customelementregistry/get,null
 web/api/customelementregistry/getname,null
 web/api/customelementregistry/initialize,null
@@ -3473,7 +3473,7 @@ web/api/deviceposture/change_event,null
 web/api/deviceposture/type,null
 web/api/directoryentrysync,null
 web/api/directoryreadersync,null
-web/api/document,1
+web/api/document,2
 web/api/document/activeelement,0
 web/api/document/activeviewtransition,0
 web/api/document/adoptedstylesheets,1
@@ -4819,7 +4819,7 @@ web/api/htmlbaseelement/target,0
 web/api/htmlbodyelement,0
 web/api/htmlbrelement,0
 web/api/htmlbuttonelement,0
-web/api/htmlbuttonelement/checkvalidity,0
+web/api/htmlbuttonelement/checkvalidity,1
 web/api/htmlbuttonelement/command,0
 web/api/htmlbuttonelement/commandforelement,0
 web/api/htmlbuttonelement/disabled,0
@@ -4834,8 +4834,8 @@ web/api/htmlbuttonelement/labels,0
 web/api/htmlbuttonelement/name,0
 web/api/htmlbuttonelement/popovertargetaction,0
 web/api/htmlbuttonelement/popovertargetelement,0
-web/api/htmlbuttonelement/reportvalidity,0
-web/api/htmlbuttonelement/setcustomvalidity,0
+web/api/htmlbuttonelement/reportvalidity,1
+web/api/htmlbuttonelement/setcustomvalidity,1
 web/api/htmlbuttonelement/type,0
 web/api/htmlbuttonelement/validationmessage,0
 web/api/htmlbuttonelement/validity,0
@@ -5152,7 +5152,7 @@ web/api/htmlmapelement,0
 web/api/htmlmapelement/areas,0
 web/api/htmlmapelement/name,0
 web/api/htmlmarqueeelement,0
-web/api/htmlmediaelement,0
+web/api/htmlmediaelement,1
 web/api/htmlmediaelement/abort_event,0
 web/api/htmlmediaelement/addtexttrack,0
 web/api/htmlmediaelement/audiotracks,0
@@ -9797,7 +9797,7 @@ web/api/wheelevent/deltax,null
 web/api/wheelevent/deltay,null
 web/api/wheelevent/deltaz,null
 web/api/wheelevent/wheelevent,null
-web/api/window,1
+web/api/window,2
 web/api/window/afterprint_event,0
 web/api/window/alert,0
 web/api/window/appinstalled_event,0
@@ -10396,7 +10396,7 @@ web/css,0
 web/css/guides,0
 web/css/guides/anchor_positioning,0
 web/css/guides/anchor_positioning/anchored_container_queries,0
-web/css/guides/anchor_positioning/try_options_hiding,0
+web/css/guides/anchor_positioning/try_options_hiding,1
 web/css/guides/anchor_positioning/using,0
 web/css/guides/animation_triggers,null
 web/css/guides/animation_triggers/using_scroll-triggered_animations,null
@@ -10908,7 +10908,7 @@ web/css/reference/properties/contain-intrinsic-size,1
 web/css/reference/properties/contain-intrinsic-width,1
 web/css/reference/properties/container,0
 web/css/reference/properties/container-name,0
-web/css/reference/properties/container-type,0
+web/css/reference/properties/container-type,1
 web/css/reference/properties/content,0
 web/css/reference/properties/content-visibility,0
 web/css/reference/properties/corner-block-end-shape,0
@@ -12009,7 +12009,7 @@ web/http/reference/headers/available-dictionary,0
 web/http/reference/headers/cache-control,0
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
-web/http/reference/headers/content-digest,0
+web/http/reference/headers/content-digest,1
 web/http/reference/headers/content-disposition,0
 web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
@@ -12152,7 +12152,7 @@ web/http/reference/headers/referrer-policy,0
 web/http/reference/headers/refresh,0
 web/http/reference/headers/report-to,0
 web/http/reference/headers/reporting-endpoints,0
-web/http/reference/headers/repr-digest,0
+web/http/reference/headers/repr-digest,1
 web/http/reference/headers/retry-after,0
 web/http/reference/headers/rtt,0
 web/http/reference/headers/save-data,0
@@ -12217,8 +12217,8 @@ web/http/reference/headers/user-agent/firefox,0
 web/http/reference/headers/vary,0
 web/http/reference/headers/via,0
 web/http/reference/headers/viewport-width,0
-web/http/reference/headers/want-content-digest,0
-web/http/reference/headers/want-repr-digest,0
+web/http/reference/headers/want-content-digest,1
+web/http/reference/headers/want-repr-digest,1
 web/http/reference/headers/warning,0
 web/http/reference/headers/width,0
 web/http/reference/headers/www-authenticate,0
@@ -14214,6 +14214,8 @@ web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,null
 web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,null
 web/webdriver/reference/bidi/modules/browsingcontext/create,null
 web/webdriver/reference/bidi/modules/browsingcontext/domcontentloaded,null
+web/webdriver/reference/bidi/modules/browsingcontext/downloadend,null
+web/webdriver/reference/bidi/modules/browsingcontext/downloadwillbegin,null
 web/webdriver/reference/bidi/modules/browsingcontext/fragmentnavigated,null
 web/webdriver/reference/bidi/modules/browsingcontext/gettree,null
 web/webdriver/reference/bidi/modules/browsingcontext/handleuserprompt,null
@@ -14228,6 +14230,8 @@ web/webdriver/reference/bidi/modules/browsingcontext/print,null
 web/webdriver/reference/bidi/modules/browsingcontext/reload,null
 web/webdriver/reference/bidi/modules/browsingcontext/setviewport,null
 web/webdriver/reference/bidi/modules/browsingcontext/traversehistory,null
+web/webdriver/reference/bidi/modules/browsingcontext/userpromptclosed,null
+web/webdriver/reference/bidi/modules/browsingcontext/userpromptopened,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
 web/webdriver/reference/bidi/modules/input/filedialogopened,null
@@ -14239,6 +14243,9 @@ web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null
+web/webdriver/reference/bidi/modules/script/getrealms,null
+web/webdriver/reference/bidi/modules/script/realmcreated,null
+web/webdriver/reference/bidi/modules/script/realmdestroyed,null
 web/webdriver/reference/bidi/modules/session,null
 web/webdriver/reference/bidi/modules/session/end,null
 web/webdriver/reference/bidi/modules/session/new,null
