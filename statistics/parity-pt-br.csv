@@ -14214,6 +14214,8 @@ web/webdriver/reference/bidi/modules/browsingcontext/contextcreated,null
 web/webdriver/reference/bidi/modules/browsingcontext/contextdestroyed,null
 web/webdriver/reference/bidi/modules/browsingcontext/create,null
 web/webdriver/reference/bidi/modules/browsingcontext/domcontentloaded,null
+web/webdriver/reference/bidi/modules/browsingcontext/downloadend,null
+web/webdriver/reference/bidi/modules/browsingcontext/downloadwillbegin,null
 web/webdriver/reference/bidi/modules/browsingcontext/fragmentnavigated,null
 web/webdriver/reference/bidi/modules/browsingcontext/gettree,null
 web/webdriver/reference/bidi/modules/browsingcontext/handleuserprompt,null
@@ -14228,6 +14230,8 @@ web/webdriver/reference/bidi/modules/browsingcontext/print,null
 web/webdriver/reference/bidi/modules/browsingcontext/reload,null
 web/webdriver/reference/bidi/modules/browsingcontext/setviewport,null
 web/webdriver/reference/bidi/modules/browsingcontext/traversehistory,null
+web/webdriver/reference/bidi/modules/browsingcontext/userpromptclosed,null
+web/webdriver/reference/bidi/modules/browsingcontext/userpromptopened,null
 web/webdriver/reference/bidi/modules/emulation,null
 web/webdriver/reference/bidi/modules/input,null
 web/webdriver/reference/bidi/modules/input/filedialogopened,null
@@ -14239,6 +14243,9 @@ web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null
+web/webdriver/reference/bidi/modules/script/getrealms,null
+web/webdriver/reference/bidi/modules/script/realmcreated,null
+web/webdriver/reference/bidi/modules/script/realmdestroyed,null
 web/webdriver/reference/bidi/modules/session,null
 web/webdriver/reference/bidi/modules/session/end,null
 web/webdriver/reference/bidi/modules/session/new,null
