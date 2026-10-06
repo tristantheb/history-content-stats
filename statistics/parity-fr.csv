@@ -750,7 +750,7 @@ learn_web_development/core/scripting/build_your_own_function,null
 learn_web_development/core/scripting/conditionals,null
 learn_web_development/core/scripting/debugging_javascript,18
 learn_web_development/core/scripting/dom_scripting,null
-learn_web_development/core/scripting/event_bubbling,10
+learn_web_development/core/scripting/event_bubbling,11
 learn_web_development/core/scripting/events,null
 learn_web_development/core/scripting/functions,null
 learn_web_development/core/scripting/house_data_ui,null
@@ -759,8 +759,8 @@ learn_web_development/core/scripting/json,null
 learn_web_development/core/scripting/loops,null
 learn_web_development/core/scripting/math,null
 learn_web_development/core/scripting/network_requests,8
-learn_web_development/core/scripting/object_basics,0
-learn_web_development/core/scripting/return_values,8
+learn_web_development/core/scripting/object_basics,1
+learn_web_development/core/scripting/return_values,9
 learn_web_development/core/scripting/silly_story_generator,null
 learn_web_development/core/scripting/strings,0
 learn_web_development/core/scripting/test_your_skills,null
@@ -11615,7 +11615,7 @@ web/css/reference/values/position-area_value,1
 web/css/reference/values/position_value,0
 web/css/reference/values/pow,0
 web/css/reference/values/progress,0
-web/css/reference/values/random,1
+web/css/reference/values/random,2
 web/css/reference/values/ratio,0
 web/css/reference/values/ray,0
 web/css/reference/values/relative-size,0
@@ -11676,7 +11676,7 @@ web/html,1
 web/html/guides,0
 web/html/guides/cheatsheet,0
 web/html/guides/comments,0
-web/html/guides/constraint_validation,0
+web/html/guides/constraint_validation,1
 web/html/guides/content_categories,0
 web/html/guides/date_and_time_formats,0
 web/html/guides/microdata,0
@@ -11836,7 +11836,7 @@ web/html/reference/elements/noembed,0
 web/html/reference/elements/noframes,0
 web/html/reference/elements/noscript,0
 web/html/reference/elements/object,1
-web/html/reference/elements/ol,0
+web/html/reference/elements/ol,1
 web/html/reference/elements/optgroup,1
 web/html/reference/elements/option,0
 web/html/reference/elements/output,1
@@ -11886,7 +11886,7 @@ web/html/reference/elements/tr,0
 web/html/reference/elements/track,0
 web/html/reference/elements/tt,0
 web/html/reference/elements/u,0
-web/html/reference/elements/ul,0
+web/html/reference/elements/ul,1
 web/html/reference/elements/var,0
 web/html/reference/elements/video,0
 web/html/reference/elements/wbr,0

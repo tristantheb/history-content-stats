@@ -750,7 +750,7 @@ learn_web_development/core/scripting/build_your_own_function,null
 learn_web_development/core/scripting/conditionals,null
 learn_web_development/core/scripting/debugging_javascript,null
 learn_web_development/core/scripting/dom_scripting,null
-learn_web_development/core/scripting/event_bubbling,10
+learn_web_development/core/scripting/event_bubbling,11
 learn_web_development/core/scripting/events,null
 learn_web_development/core/scripting/functions,null
 learn_web_development/core/scripting/house_data_ui,null
@@ -776,7 +776,7 @@ learn_web_development/core/scripting/test_your_skills/strings,null
 learn_web_development/core/scripting/test_your_skills/variables,null
 learn_web_development/core/scripting/useful_string_methods,null
 learn_web_development/core/scripting/variables,7
-learn_web_development/core/scripting/what_is_javascript,18
+learn_web_development/core/scripting/what_is_javascript,19
 learn_web_development/core/scripting/what_went_wrong,9
 learn_web_development/core/structuring_content,null
 learn_web_development/core/structuring_content/advanced_text_features,10
@@ -13860,7 +13860,7 @@ web/security/defenses/secure_contexts,5
 web/security/defenses/secure_contexts/features_restricted_to_secure_contexts,3
 web/security/defenses/subresource_integrity,4
 web/security/defenses/transport_layer_security,4
-web/security/defenses/user_activation,5
+web/security/defenses/user_activation,6
 web/security/practical_implementation_guides,7
 web/security/practical_implementation_guides/cookies,null
 web/security/practical_implementation_guides/corp,null

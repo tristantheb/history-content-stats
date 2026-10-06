@@ -747,12 +747,12 @@ learn_web_development/core/scripting,null
 learn_web_development/core/scripting/a_first_splash,null
 learn_web_development/core/scripting/arrays,null
 learn_web_development/core/scripting/build_your_own_function,null
-learn_web_development/core/scripting/conditionals,8
+learn_web_development/core/scripting/conditionals,9
 learn_web_development/core/scripting/debugging_javascript,18
 learn_web_development/core/scripting/dom_scripting,14
 learn_web_development/core/scripting/event_bubbling,null
 learn_web_development/core/scripting/events,null
-learn_web_development/core/scripting/functions,18
+learn_web_development/core/scripting/functions,19
 learn_web_development/core/scripting/house_data_ui,null
 learn_web_development/core/scripting/image_gallery,null
 learn_web_development/core/scripting/json,null
@@ -760,7 +760,7 @@ learn_web_development/core/scripting/loops,null
 learn_web_development/core/scripting/math,3
 learn_web_development/core/scripting/network_requests,8
 learn_web_development/core/scripting/object_basics,null
-learn_web_development/core/scripting/return_values,4
+learn_web_development/core/scripting/return_values,5
 learn_web_development/core/scripting/silly_story_generator,null
 learn_web_development/core/scripting/strings,6
 learn_web_development/core/scripting/test_your_skills,1
@@ -776,7 +776,7 @@ learn_web_development/core/scripting/test_your_skills/strings,null
 learn_web_development/core/scripting/test_your_skills/variables,null
 learn_web_development/core/scripting/useful_string_methods,0
 learn_web_development/core/scripting/variables,null
-learn_web_development/core/scripting/what_is_javascript,3
+learn_web_development/core/scripting/what_is_javascript,4
 learn_web_development/core/scripting/what_went_wrong,null
 learn_web_development/core/structuring_content,15
 learn_web_development/core/structuring_content/advanced_text_features,9
@@ -865,7 +865,7 @@ learn_web_development/extensions/async_js/promises,7
 learn_web_development/extensions/async_js/sequencing_animations,null
 learn_web_development/extensions/client-side_apis,7
 learn_web_development/extensions/client-side_apis/client-side_storage,6
-learn_web_development/extensions/client-side_apis/drawing_graphics,19
+learn_web_development/extensions/client-side_apis/drawing_graphics,20
 learn_web_development/extensions/client-side_apis/introduction,7
 learn_web_development/extensions/client-side_apis/third_party_apis,11
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,19
@@ -966,8 +966,8 @@ learn_web_development/extensions/testing/automated_testing,16
 learn_web_development/extensions/testing/feature_detection,13
 learn_web_development/extensions/testing/html_and_css,21
 learn_web_development/extensions/testing/introduction,10
-learn_web_development/extensions/testing/testing_strategies,11
-learn_web_development/extensions/testing/your_own_automation_environment,15
+learn_web_development/extensions/testing/testing_strategies,12
+learn_web_development/extensions/testing/your_own_automation_environment,16
 learn_web_development/getting_started,5
 learn_web_development/getting_started/environment_setup,5
 learn_web_development/getting_started/environment_setup/browsing_the_web,11
@@ -11886,7 +11886,7 @@ web/html/reference/elements/tr,10
 web/html/reference/elements/track,8
 web/html/reference/elements/tt,5
 web/html/reference/elements/u,4
-web/html/reference/elements/ul,6
+web/html/reference/elements/ul,7
 web/html/reference/elements/var,4
 web/html/reference/elements/video,10
 web/html/reference/elements/wbr,0
