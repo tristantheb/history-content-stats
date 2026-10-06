@@ -729,7 +729,7 @@ learn_web_development/core/css_layout/supporting_older_browsers,null
 learn_web_development/core/css_layout/test_your_skills,1
 learn_web_development/core/css_layout/test_your_skills/flexbox,null
 learn_web_development/core/css_layout/test_your_skills/floats,null
-learn_web_development/core/css_layout/test_your_skills/grid,0
+learn_web_development/core/css_layout/test_your_skills/grid,1
 learn_web_development/core/css_layout/test_your_skills/position,null
 learn_web_development/core/css_layout/test_your_skills/responsive_design,4
 learn_web_development/core/design_for_developers,null
@@ -10892,8 +10892,9 @@ web/css/reference/properties/column-rule-color,null
 web/css/reference/properties/column-rule-inset-cap,null
 web/css/reference/properties/column-rule-inset-cap-end,null
 web/css/reference/properties/column-rule-inset-cap-start,null
+web/css/reference/properties/column-rule-inset-junction,null
 web/css/reference/properties/column-rule-inset-junction-end,null
-web/css/reference/properties/column-rule-style,5
+web/css/reference/properties/column-rule-style,6
 web/css/reference/properties/column-rule-visibility-items,null
 web/css/reference/properties/column-rule-width,5
 web/css/reference/properties/column-span,null
@@ -11162,6 +11163,7 @@ web/css/reference/properties/row-rule-color,null
 web/css/reference/properties/row-rule-inset-cap,null
 web/css/reference/properties/row-rule-inset-cap-end,null
 web/css/reference/properties/row-rule-inset-cap-start,null
+web/css/reference/properties/row-rule-inset-junction,null
 web/css/reference/properties/row-rule-style,null
 web/css/reference/properties/row-rule-visibility-items,null
 web/css/reference/properties/row-rule-width,null
@@ -11172,6 +11174,7 @@ web/css/reference/properties/rule,null
 web/css/reference/properties/rule-break,null
 web/css/reference/properties/rule-color,null
 web/css/reference/properties/rule-inset-cap,null
+web/css/reference/properties/rule-inset-junction,null
 web/css/reference/properties/rule-style,null
 web/css/reference/properties/rule-visibility-items,null
 web/css/reference/properties/rule-width,null

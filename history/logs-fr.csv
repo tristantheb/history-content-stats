@@ -6098,6 +6098,10 @@ web/http/reference/headers/x-forwarded-for,ad5b5e31f81795d692e66dadb7818ba8b220a
 web/http/reference/headers/x-forwarded-host,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/x-forwarded-proto,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/headers/x-frame-options,03e93e0948768ea78474e77a53795698ebca5836
+web/http/reference/headers/x-permitted-cross-domain-policies,13ef67a4ffbdb929415dfa1b3d65ab1aa9ebe5da
+web/http/reference/headers/x-powered-by,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/headers/x-robots-tag,44a853a7fce4ef042b6eeddc96f0a587f25704d3
+web/http/reference/headers/x-xss-protection,ca6052779ddca9f6d99665f12c39aa2d85d85733
 web/http/reference,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/methods/connect,44a853a7fce4ef042b6eeddc96f0a587f25704d3
 web/http/reference/methods/delete,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26
