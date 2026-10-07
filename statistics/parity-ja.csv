@@ -11053,7 +11053,7 @@ web/css/reference/properties/margin-inline-start,2
 web/css/reference/properties/margin-left,2
 web/css/reference/properties/margin-right,3
 web/css/reference/properties/margin-top,3
-web/css/reference/properties/margin-trim,2
+web/css/reference/properties/margin-trim,3
 web/css/reference/properties/marker,0
 web/css/reference/properties/marker-end,0
 web/css/reference/properties/marker-mid,0
@@ -11424,7 +11424,7 @@ web/css/reference/selectors/_doublecolon_-moz-range-progress,1
 web/css/reference/selectors/_doublecolon_-moz-range-thumb,0
 web/css/reference/selectors/_doublecolon_-moz-range-track,0
 web/css/reference/selectors/_doublecolon_-webkit-inner-spin-button,0
-web/css/reference/selectors/_doublecolon_-webkit-meter-bar,1
+web/css/reference/selectors/_doublecolon_-webkit-meter-bar,2
 web/css/reference/selectors/_doublecolon_-webkit-meter-even-less-good-value,0
 web/css/reference/selectors/_doublecolon_-webkit-meter-inner-element,0
 web/css/reference/selectors/_doublecolon_-webkit-meter-optimum-value,0
@@ -11715,7 +11715,7 @@ web/html/reference/attributes/multiple,0
 web/html/reference/attributes/pattern,0
 web/html/reference/attributes/placeholder,0
 web/html/reference/attributes/readonly,0
-web/html/reference/attributes/rel,0
+web/html/reference/attributes/rel,1
 web/html/reference/attributes/rel/alternate_stylesheet,0
 web/html/reference/attributes/rel/compression-dictionary,0
 web/html/reference/attributes/rel/dns-prefetch,0
