@@ -811,7 +811,7 @@ web/api/event/preventdefault,no_hash_commit
 web/api/event/stoppropagation,no_hash_commit
 web/api/event/target,no_hash_commit
 web/api/event/type,no_hash_commit
-web/api/eventsource,no_hash_commit
+web/api/eventsource,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/api/eventsource/open_event,no_hash_commit
 web/api/eventtarget/addeventlistener,no_hash_commit
 web/api/eventtarget/dispatchevent,no_hash_commit
@@ -827,7 +827,7 @@ web/api/file/name,no_hash_commit
 web/api/file/webkitrelativepath,no_hash_commit
 web/api/file_api/using_files_from_web_applications,no_hash_commit
 web/api/file_system_api,d571e753a6e1aa3f37c775f0308690bc738cdbe6
-web/api/filereader,no_hash_commit
+web/api/filereader,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/filereader/load_event,no_hash_commit
 web/api/filereader/readasarraybuffer,no_hash_commit
 web/api/filereader/readasdataurl,no_hash_commit
@@ -893,7 +893,7 @@ web/api/htmlelement/offsetleft,no_hash_commit
 web/api/htmlelement/offsetparent,no_hash_commit
 web/api/htmlelement/offsettop,no_hash_commit
 web/api/htmlelement/offsetwidth,no_hash_commit
-web/api/htmlformelement,no_hash_commit
+web/api/htmlformelement,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/api/htmlformelement/reset,no_hash_commit
 web/api/htmlformelement/submit_event,no_hash_commit
 web/api/htmlheadelement,no_hash_commit
@@ -1131,7 +1131,7 @@ web/api/webrtc_api/protocols,no_hash_commit
 web/api/webrtc_api/session_lifetime,no_hash_commit
 web/api/websocket/close_event,no_hash_commit
 web/api/websocket/error_event,no_hash_commit
-web/api/websocket,no_hash_commit
+web/api/websocket,fb311d7305937497570966f015d8cc0eb1a0c29c
 web/api/websockets_api,no_hash_commit
 web/api/websockets_api/writing_websocket_client_applications,no_hash_commit
 web/api/websockets_api/writing_websocket_server,no_hash_commit
@@ -1701,6 +1701,7 @@ web/css/reference/values/var,no_hash_commit
 web/css/tutorials,no_hash_commit
 web/html/guides/content_categories,ba3c8980510073ee92674aa71cb2c8c5b71294ab
 web/html/guides/date_and_time_formats,0754cd805a8e010d2e3a2a065f634a3bcf358252
+web/html/guides,1f73b512daca27339931eca233376957a7a7a4fd
 web/html/guides/microdata,no_hash_commit
 web/html/guides/microformats,no_hash_commit
 web/html/guides/quirks_mode_and_standards_mode,ba96f2f183353872db6d9242c7d2dffe2dbc0c35
