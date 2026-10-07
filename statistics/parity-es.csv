@@ -4146,7 +4146,7 @@ web/api/event/target,null
 web/api/event/timestamp,null
 web/api/event/type,null
 web/api/eventcounts,null
-web/api/eventsource,null
+web/api/eventsource,0
 web/api/eventsource/close,null
 web/api/eventsource/error_event,null
 web/api/eventsource/eventsource,null
@@ -4249,7 +4249,7 @@ web/api/fileentrysync,null
 web/api/filelist,null
 web/api/filelist/item,null
 web/api/filelist/length,null
-web/api/filereader,null
+web/api/filereader,0
 web/api/filereader/abort,null
 web/api/filereader/abort_event,null
 web/api/filereader/error,null
@@ -4966,7 +4966,7 @@ web/api/htmlfontelement/face,null
 web/api/htmlfontelement/size,null
 web/api/htmlformcontrolscollection,null
 web/api/htmlformcontrolscollection/nameditem,null
-web/api/htmlformelement,null
+web/api/htmlformelement,0
 web/api/htmlformelement/acceptcharset,null
 web/api/htmlformelement/action,null
 web/api/htmlformelement/autocomplete,null
@@ -9694,7 +9694,7 @@ web/api/webrtc_api/simple_rtcdatachannel_sample,null
 web/api/webrtc_api/using_data_channels,null
 web/api/webrtc_api/using_dtmf,null
 web/api/webrtc_api/using_encoded_transforms,null
-web/api/websocket,null
+web/api/websocket,0
 web/api/websocket/binarytype,null
 web/api/websocket/bufferedamount,null
 web/api/websocket/close,null
@@ -11676,7 +11676,7 @@ web/css/reference/values/var,null
 web/css/reference/webkit_extensions,null
 web/css/tutorials,null
 web/html,0
-web/html/guides,null
+web/html/guides,0
 web/html/guides/cheatsheet,null
 web/html/guides/comments,null
 web/html/guides/constraint_validation,null
@@ -11715,7 +11715,7 @@ web/html/reference/attributes/multiple,null
 web/html/reference/attributes/pattern,null
 web/html/reference/attributes/placeholder,null
 web/html/reference/attributes/readonly,null
-web/html/reference/attributes/rel,1
+web/html/reference/attributes/rel,2
 web/html/reference/attributes/rel/alternate_stylesheet,null
 web/html/reference/attributes/rel/compression-dictionary,null
 web/html/reference/attributes/rel/dns-prefetch,null
