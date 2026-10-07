@@ -9315,7 +9315,7 @@ web/api/vrpose/position,4
 web/api/vrstageparameters,null
 web/api/vrstageparameters/sittingtostandingtransform,4
 web/api/vrstageparameters/sizex,4
-web/api/vrstageparameters/sizez,null
+web/api/vrstageparameters/sizez,2
 web/api/vttcue,null
 web/api/vttcue/align,null
 web/api/vttcue/getcueashtml,null

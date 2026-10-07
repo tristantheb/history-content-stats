@@ -2393,7 +2393,7 @@ web/api/audiobuffersourcenode/loop,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web 
 web/api/audiobuffersourcenode/loopend,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/audiobuffersourcenode/loopstart,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/audiobuffersourcenode/playbackrate,118909727d715a42a27e3d368379bf959feca4af,Web APIs
-web/api/audiobuffersourcenode/start,cbb6b6ba73d24946ca8d0eaf700e3fb52054fe0f,Web APIs
+web/api/audiobuffersourcenode/start,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/audiocontext,b884c869c8bdc8f6bd0ea8290934757d27d6845c,Web APIs
 web/api/audiocontext/audiocontext,a4675b9077ae32f989c7ecac94f454db2653c4fc,Web APIs
 web/api/audiocontext/baselatency,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
@@ -3553,7 +3553,7 @@ web/api/document/getelementsbyclassname,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b
 web/api/document/getelementsbyname,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/document/getelementsbytagname,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
 web/api/document/getelementsbytagnamens,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/document/getselection,49032be37ce63630eaf5cc52c5ccf3c13f207f4b,Web APIs
+web/api/document/getselection,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/document/hasfocus,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/document/hasprivatetoken,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678,Web APIs
 web/api/document/hasredemptionrecord,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678,Web APIs
@@ -3848,7 +3848,7 @@ web/api/element/ariaerrormessageelements,3b4a7a32fc2fe8cb6bd9a1e62f4ca52e002599e
 web/api/element/ariaexpanded,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/ariaflowtoelements,3b4a7a32fc2fe8cb6bd9a1e62f4ca52e002599ef,Web APIs
 web/api/element/ariahaspopup,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
-web/api/element/ariahidden,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
+web/api/element/ariahidden,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/element/ariainvalid,4578af853ec3e520f4f2038c028c265591cbaa70,Web APIs
 web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1,Web APIs
 web/api/element/arialabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
@@ -4242,7 +4242,7 @@ web/api/file/name,f216422c99b6c7014e398803b70600501bce8a48,Web APIs
 web/api/file/webkitrelativepath,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/file_and_directory_entries_api,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/file_api,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
-web/api/file_api/using_files_from_web_applications,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
+web/api/file_api/using_files_from_web_applications,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/file_system_api,d571e753a6e1aa3f37c775f0308690bc738cdbe6,Web APIs
 web/api/file_system_api/origin_private_file_system,0d0ccc861fa024fa10836fbf0cc2c3813cd74745,Web APIs
 web/api/fileentrysync,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -5596,7 +5596,7 @@ web/api/idbrequest/result,8623f4af1cb6a9f904d6c18f5f772675bdce3411,Web APIs
 web/api/idbrequest/source,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/idbrequest/success_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/idbrequest/transaction,56de3bc3b3304ecc18775a1d0049ae4415c7cf51,Web APIs
-web/api/idbtransaction,2e0b9415ed31484a4830e214eff9e06e408c7261,Web APIs
+web/api/idbtransaction,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/idbtransaction/abort,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
 web/api/idbtransaction/abort_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/idbtransaction/commit,ff1e97da7ade9fcb05fb3de064011d4f05debe82,Web APIs
@@ -5977,7 +5977,7 @@ web/api/mediaquerylistevent,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/mediaquerylistevent/matches,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/mediaquerylistevent/media,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/mediaquerylistevent/mediaquerylistevent,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/mediarecorder,cfb7587e3e3122630ad6cbd94d834ecadbe0a746,Web APIs
+web/api/mediarecorder,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/mediarecorder/audiobitratemode,0267fa593fc01609738d486f8755bda8e95ecdf2,Web APIs
 web/api/mediarecorder/audiobitspersecond,84f8672adab0fdb783d02676c42a2b7ae16b3606,Web APIs
 web/api/mediarecorder/dataavailable_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -6027,7 +6027,7 @@ web/api/mediasource/sourceended_event,c655f38c10ba17b853b0e66b43cf4cf2b176e424,W
 web/api/mediasource/sourceopen_event,0f8be363b1b680bdab9bc2f459787160f232e158,Web APIs
 web/api/mediasourcehandle,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web APIs
 web/api/mediastream,bff3a6a2e6b3c13dd8bb0c80a1eb9da08cce5dc6,Web APIs
-web/api/mediastream/active,84f8672adab0fdb783d02676c42a2b7ae16b3606,Web APIs
+web/api/mediastream/active,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/mediastream/addtrack,d666d5ed812b56cbc9c6cba853494976da1f1dd2,Web APIs
 web/api/mediastream/addtrack_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/mediastream/clone,84f8672adab0fdb783d02676c42a2b7ae16b3606,Web APIs
@@ -6070,7 +6070,7 @@ web/api/mediastreamtrack/readystate,ac67e6f05d337e52e39f02a978b8c00bc43d583b,Web
 web/api/mediastreamtrack/stop,ac67e6f05d337e52e39f02a978b8c00bc43d583b,Web APIs
 web/api/mediastreamtrack/unmute_event,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
 web/api/mediastreamtrackaudiosourcenode,73b2b6ee411ac094b9fc57dafac6f9c232fc20d9,Web APIs
-web/api/mediastreamtrackaudiosourcenode/mediastreamtrackaudiosourcenode,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/mediastreamtrackaudiosourcenode/mediastreamtrackaudiosourcenode,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/mediastreamtrackevent,ac67e6f05d337e52e39f02a978b8c00bc43d583b,Web APIs
 web/api/mediastreamtrackevent/mediastreamtrackevent,84f8672adab0fdb783d02676c42a2b7ae16b3606,Web APIs
 web/api/mediastreamtrackevent/track,ac67e6f05d337e52e39f02a978b8c00bc43d583b,Web APIs
@@ -6615,7 +6615,7 @@ web/api/paintsize/height,e80499f4efc4eaf0c4e1657748a77b30224e7bb7,Web APIs
 web/api/paintsize/width,e80499f4efc4eaf0c4e1657748a77b30224e7bb7,Web APIs
 web/api/paintworkletglobalscope,9944f7b12ef1a6aecd54d4b2f0c188a82fdeaaf0,Web APIs
 web/api/paintworkletglobalscope/devicepixelratio,3b39e41fb9393a13b16aaf58ba25174a62205041,Web APIs
-web/api/paintworkletglobalscope/registerpaint,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
+web/api/paintworkletglobalscope/registerpaint,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/pannernode,4ccd81240a6d531962fab92886631885a90bfa3c,Web APIs
 web/api/pannernode/coneinnerangle,b71d118ffc6d72b77efad9661110fcc9ede464eb,Web APIs
 web/api/pannernode/coneouterangle,b71d118ffc6d72b77efad9661110fcc9ede464eb,Web APIs
@@ -6704,7 +6704,7 @@ web/api/paymentresponse/payeremail,e452bf7276167b8b9dae27df697ca4af0f2c5177,Web 
 web/api/paymentresponse/payername,e452bf7276167b8b9dae27df697ca4af0f2c5177,Web APIs
 web/api/paymentresponse/payerphone,e452bf7276167b8b9dae27df697ca4af0f2c5177,Web APIs
 web/api/paymentresponse/requestid,a5d90e4c36c0155024621fe00e15ae61f3697d88,Web APIs
-web/api/paymentresponse/retry,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/paymentresponse/retry,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/paymentresponse/shippingaddress,e452bf7276167b8b9dae27df697ca4af0f2c5177,Web APIs
 web/api/paymentresponse/shippingoption,e452bf7276167b8b9dae27df697ca4af0f2c5177,Web APIs
 web/api/paymentresponse/tojson,cc41ecd796870c2b6c77ad0b04fcb8d8c7d877d2,Web APIs
@@ -6781,7 +6781,7 @@ web/api/performancemark,d678295b8c67d19354bca1db406af1b6bc8cf1c6,Web APIs
 web/api/performancemark/detail,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web APIs
 web/api/performancemark/performancemark,5143045a1106f2e415985dec50f11d3cf5d1d4f9,Web APIs
 web/api/performancemeasure,5b8d7c22883325e4abffcce235520c4a8b840bf3,Web APIs
-web/api/performancemeasure/detail,8ab0f2fde2a9c1c7e547884abedf3848f8d7dda5,Web APIs
+web/api/performancemeasure/detail,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/performancenavigation,6bb81a788ff71f726e32d16757c99d5c45a7edf9,Web APIs
 web/api/performancenavigation/redirectcount,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/performancenavigation/tojson,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -6923,7 +6923,7 @@ web/api/pictureinpicturewindow/resize_event,ac7f589f2471fde8e5ee910a7fbd8a4bff93
 web/api/pictureinpicturewindow/width,61ceefea7281f267055e4481a9a610d7ac2e724e,Web APIs
 web/api/plugin,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/pluginarray,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
-web/api/pointer_events,a69f7c732da7be334fc2c679c5cb9484baf79ba9,Web APIs
+web/api/pointer_events,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/pointer_events/multi-touch_interaction,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
 web/api/pointer_events/pinch_zoom_gestures,5f6be198317d812626e71513bbde0385ef7e76be,Web APIs
 web/api/pointer_events/using_pointer_events,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
@@ -7135,7 +7135,7 @@ web/api/readablestream/pipethrough,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web 
 web/api/readablestream/pipeto,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/readablestream/readablestream,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
 web/api/readablestream/tee,c29cee3dcb0d0e66093dd0c18aa82e0eab9d6d14,Web APIs
-web/api/readablestreambyobreader,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
+web/api/readablestreambyobreader,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/readablestreambyobreader/cancel,802b6063046dffb7634d2138aadcd92cb22ed40c,Web APIs
 web/api/readablestreambyobreader/closed,d8b4431bfde42f1bc195239ea1f378d763f8163e,Web APIs
 web/api/readablestreambyobreader/read,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
@@ -8921,7 +8921,7 @@ web/api/touch/target,f71683f74da0078d9371c4d0c1ff9d3898fc7b59,Web APIs
 web/api/touch/touch,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/touch/touchtype,1f3603b8d48cc9b64687ba23e6390d8bde4bb390,Web APIs
 web/api/touch_events,36761819df2ebdd4e3dcc9ae6007029dec71fac0,Web APIs
-web/api/touch_events/multi-touch_interaction,950f04d94b48f259c471175bdafb52933b2b038d,Web APIs
+web/api/touch_events/multi-touch_interaction,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/touch_events/using_touch_events,36761819df2ebdd4e3dcc9ae6007029dec71fac0,Web APIs
 web/api/touchevent,36761819df2ebdd4e3dcc9ae6007029dec71fac0,Web APIs
 web/api/touchevent/altkey,f71683f74da0078d9371c4d0c1ff9d3898fc7b59,Web APIs
@@ -8935,7 +8935,7 @@ web/api/touchevent/touchevent,22080a7cc403f7f45c8e85065b182c9f0d4d383c,Web APIs
 web/api/touchlist,36761819df2ebdd4e3dcc9ae6007029dec71fac0,Web APIs
 web/api/touchlist/item,754b68246f4e69e404309fee4a1699e047e43994,Web APIs
 web/api/touchlist/length,f71683f74da0078d9371c4d0c1ff9d3898fc7b59,Web APIs
-web/api/trackevent,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
+web/api/trackevent,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/trackevent/track,0c8a320b035cf625c1df67713a94ead2e7f3aec6,Web APIs
 web/api/trackevent/trackevent,0c8a320b035cf625c1df67713a94ead2e7f3aec6,Web APIs
 web/api/transformstream,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,Web APIs
@@ -9360,8 +9360,8 @@ web/api/web_audio_api,3143a6094e7b87cf1a96b61f9551fb4d95049777,Web APIs
 web/api/web_audio_api/advanced_techniques,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
 web/api/web_audio_api/basic_concepts_behind_web_audio_api,0bea820aae684828109c8818734b87e995e51dbe,Web APIs
 web/api/web_audio_api/best_practices,b3cd597b58940518a7712487ce94efc0881cb549,Web APIs
-web/api/web_audio_api/controlling_multiple_parameters_with_constantsourcenode,3641c873f377a9b2dcdf9744e11756a21d099875,Web APIs
-web/api/web_audio_api/simple_synth,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
+web/api/web_audio_api/controlling_multiple_parameters_with_constantsourcenode,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
+web/api/web_audio_api/simple_synth,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/web_audio_api/using_audioworklet,ddf6cf0b777f7c738dd3930e0ef964fec6c83535,Web APIs
 web/api/web_audio_api/using_iir_filters,87adaa5384b1015690f3435ce0ba64ac097764eb,Web APIs
 web/api/web_audio_api/using_web_audio_api,6030ef1aadf967b80e2c79c3d3463cccc8ea0c95,Web APIs
@@ -9472,7 +9472,7 @@ web/api/webgl2renderingcontext/vertexattribi,f336c5b6795a562c64fe859aa9ee2becf22
 web/api/webgl2renderingcontext/vertexattribipointer,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b,Web APIs
 web/api/webgl2renderingcontext/waitsync,2b942f0d8f84641c233d701cb5d1f4e6c23120ff,Web APIs
 web/api/webgl_api,d8a5165fd3c3b35ea9d07a914459e8d468f62276,Web APIs
-web/api/webgl_api/basic_2d_animation_example,116577234db1d6275c74a8bb879fce54d944f4ed,Web APIs
+web/api/webgl_api/basic_2d_animation_example,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/webgl_api/by_example,1eae3d383ad47b5e21bf25764d1d35487ea52bb8,Web APIs
 web/api/webgl_api/by_example/basic_scissoring,0ea88f719ad95045993f8a54d5bbaee857617380,Web APIs
 web/api/webgl_api/by_example/boilerplate_1,1eae3d383ad47b5e21bf25764d1d35487ea52bb8,Web APIs
@@ -9503,7 +9503,7 @@ web/api/webgl_api/tutorial/using_shaders_to_apply_color_in_webgl,44c4ec928281dc2
 web/api/webgl_api/tutorial/using_textures_in_webgl,c9f3d85f24d7839c9fe36a68d8042d088d906147,Web APIs
 web/api/webgl_api/types,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/webgl_api/using_extensions,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
-web/api/webgl_api/webgl_best_practices,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
+web/api/webgl_api/webgl_best_practices,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/webgl_api/webgl_model_view_projection,788ea14745b3c5c2f45098403073b381c1357f39,Web APIs
 web/api/webgl_color_buffer_float,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac,Web APIs
 web/api/webgl_compressed_texture_astc,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac,Web APIs
@@ -9770,12 +9770,12 @@ web/api/webtransportsendstream/sendorder,581fd2ecfa9a6a5fb6d2b9d0085a089213e168f
 web/api/webusb_api,db01d0c8b4cbf8a4467b1db65e17f6724d0ce710,Web APIs
 web/api/webvr_api,892eb917bee599a9d6cae7d33ed783129dbb39b3,Web APIs
 web/api/webvr_api/concepts,d22284cbba8b64afd6ad8c965d4ac2c927c59550,Web APIs
-web/api/webvr_api/using_the_webvr_api,bdb97b3e01499ce52f02caa3f51d6dd245a48782,Web APIs
+web/api/webvr_api/using_the_webvr_api,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/webvr_api/using_vr_controllers_with_webvr,db01d0c8b4cbf8a4467b1db65e17f6724d0ce710,Web APIs
 web/api/webvtt_api,fb241f60d2c42614b106f3b4647cc6a4eb2e1bc8,Web APIs
 web/api/webvtt_api/web_video_text_tracks_format,4cb9d89a204a9532370693b982e8a3b274a874b1,Web APIs
 web/api/webxr_device_api,15e12ff9faca3923ffb811d601ab589f4b2918e0,Web APIs
-web/api/webxr_device_api/bounded_reference_spaces,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
+web/api/webxr_device_api/bounded_reference_spaces,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/webxr_device_api/cameras,d9b48f268f04264e420388135f53db136e5d9272,Web APIs
 web/api/webxr_device_api/fundamentals,a23122d0e86fb376234614beb5b350b217068054,Web APIs
 web/api/webxr_device_api/geometry,44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac,Web APIs
@@ -9789,7 +9789,7 @@ web/api/webxr_device_api/perspective,1fc327ab47c4fc89eff6e1d05780babd720e4b13,We
 web/api/webxr_device_api/rendering,9a4005caa5cc13f5174e3b8981eeec5631ed83d1,Web APIs
 web/api/webxr_device_api/spatial_tracking,cda88aaf82e8bc03b3826396d96aab18a669134c,Web APIs
 web/api/webxr_device_api/startup_and_shutdown,15e1155ab8a0587405601cc4753bb789cd6ac47c,Web APIs
-web/api/webxr_device_api/targeting,4f0f7386262363103a3e9cf482bb348d8570b331,Web APIs
+web/api/webxr_device_api/targeting,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/wgsllanguagefeatures,69c9bd804959412056a66ad9c36312c1dff928d8,Web APIs
 web/api/wheelevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltamode,d783c87acb536c6c142792d263f813c88808551b,Web APIs
@@ -10330,7 +10330,7 @@ web/api/xrtransientinputhittestresult/inputsource,89c435da452257b944b403cc9e4503
 web/api/xrtransientinputhittestresult/results,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrtransientinputhittestsource,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web APIs
 web/api/xrtransientinputhittestsource/cancel,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
-web/api/xrview,06a96ca44a86fef907996bb01ecf72cc0f1a36d0,Web APIs
+web/api/xrview,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
 web/api/xrview/eye,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
 web/api/xrview/index,8330e7c1afd31d53ae12c3271e96d681bba9e223,Web APIs
 web/api/xrview/isfirstpersonobserver,89c435da452257b944b403cc9e45036fcb22590e,Web APIs
@@ -13887,7 +13887,7 @@ web/svg/guides/content_type,69ff5fe627a17cf397ebd7b0f88a83c272c0bce5,SVG|Guides
 web/svg/guides/linking,dc57f9007e4cf2dec26f945d7773a68ffe60348f,SVG|Guides
 web/svg/guides/namespaces_crash_course,0c81cbce5f95a0be935724bcd936f5592774eb3a,SVG|Guides
 web/svg/guides/namespaces_crash_course/example,f2d281d86396bcd2dcecfdabd5837b1590132aa6,SVG|Guides
-web/svg/guides/scripting,0c81cbce5f95a0be935724bcd936f5592774eb3a,SVG|Guides
+web/svg/guides/scripting,259ae6f55fa8009dd492e010e497c8a18737523c,SVG|Guides
 web/svg/guides/svg_animation_with_smil,69ff5fe627a17cf397ebd7b0f88a83c272c0bce5,SVG|Guides
 web/svg/guides/svg_as_an_image,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,SVG|Guides
 web/svg/guides/svg_filters,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Guides
@@ -14432,7 +14432,7 @@ web/xml/xslt/reference/element/with-param,3e1b5277c6451e7d27ab628f23fb9702947a7a
 webassembly,453a2a29e3e7a3ef64e65acc6121914f54334bc7,WebAssembly
 webassembly/guides,e134d50d779647ba26ee41d7bbefc8d3b4e8fba6,WebAssembly|Guides
 webassembly/guides/c_to_wasm,b3a170eaaa0451125e1f24a6425a302eadc6c94f,WebAssembly|Guides
-webassembly/guides/concepts,6bd3e7771f8923879bec44469547265e38f4ef75,WebAssembly|Guides
+webassembly/guides/concepts,d94a069475826922024db9703cc18f2adca77a3e,WebAssembly|Guides
 webassembly/guides/existing_c_to_wasm,e54ef84a31b80e3ac108397f61120728fd9654bc,WebAssembly|Guides
 webassembly/guides/exported_functions,453a2a29e3e7a3ef64e65acc6121914f54334bc7,WebAssembly|Guides
 webassembly/guides/imported_string_constants,c0fc8c988385a0ce8ff63887f9a3263caf55a1f9,WebAssembly|Guides

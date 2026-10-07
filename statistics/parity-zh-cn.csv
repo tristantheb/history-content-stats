@@ -4242,7 +4242,7 @@ web/api/file/name,0
 web/api/file/webkitrelativepath,null
 web/api/file_and_directory_entries_api,null
 web/api/file_api,1
-web/api/file_api/using_files_from_web_applications,8
+web/api/file_api/using_files_from_web_applications,9
 web/api/file_system_api,4
 web/api/file_system_api/origin_private_file_system,2
 web/api/fileentrysync,null
@@ -9789,7 +9789,7 @@ web/api/webxr_device_api/perspective,null
 web/api/webxr_device_api/rendering,null
 web/api/webxr_device_api/spatial_tracking,null
 web/api/webxr_device_api/startup_and_shutdown,null
-web/api/webxr_device_api/targeting,0
+web/api/webxr_device_api/targeting,1
 web/api/wgsllanguagefeatures,17
 web/api/wheelevent,null
 web/api/wheelevent/deltamode,2
@@ -14432,7 +14432,7 @@ web/xml/xslt/reference/element/with-param,null
 webassembly,7
 webassembly/guides,1
 webassembly/guides/c_to_wasm,null
-webassembly/guides/concepts,null
+webassembly/guides/concepts,3
 webassembly/guides/existing_c_to_wasm,null
 webassembly/guides/exported_functions,null
 webassembly/guides/imported_string_constants,null
