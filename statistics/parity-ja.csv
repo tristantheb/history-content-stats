@@ -1966,7 +1966,7 @@ mozilla/firefox/releases/153,3
 mozilla/firefox/releases/154,1
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,3
-mozilla/firefox/releases/157,null
+mozilla/firefox/releases/157,1
 mozilla/firefox/releases/158,null
 mozilla/firefox/releases/159,null
 mozilla/firefox/releases/16,1
@@ -7548,7 +7548,7 @@ web/api/rtcpeerconnection/iceconnectionstate,0
 web/api/rtcpeerconnection/iceconnectionstatechange_event,null
 web/api/rtcpeerconnection/icegatheringstate,0
 web/api/rtcpeerconnection/icegatheringstatechange_event,null
-web/api/rtcpeerconnection/idploginurl,null
+web/api/rtcpeerconnection/idploginurl,0
 web/api/rtcpeerconnection/localdescription,3
 web/api/rtcpeerconnection/negotiationneeded_event,null
 web/api/rtcpeerconnection/peeridentity,null
@@ -11175,6 +11175,7 @@ web/css/reference/properties/rule-break,2
 web/css/reference/properties/rule-color,2
 web/css/reference/properties/rule-inset-cap,null
 web/css/reference/properties/rule-inset-junction,null
+web/css/reference/properties/rule-overlap,null
 web/css/reference/properties/rule-style,3
 web/css/reference/properties/rule-visibility-items,2
 web/css/reference/properties/rule-width,3
@@ -13892,7 +13893,7 @@ web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,0
 web/svg/guides/svg_in_html,0
 web/svg/reference,0
-web/svg/reference/attribute,6
+web/svg/reference/attribute,7
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,0
 web/svg/reference/attribute/alignment-baseline,1
@@ -13962,6 +13963,7 @@ web/svg/reference/attribute/gradienttransform,0
 web/svg/reference/attribute/gradientunits,0
 web/svg/reference/attribute/height,1
 web/svg/reference/attribute/href,1
+web/svg/reference/attribute/hreflang,null
 web/svg/reference/attribute/id,2
 web/svg/reference/attribute/image-rendering,0
 web/svg/reference/attribute/in,0
@@ -13997,6 +13999,7 @@ web/svg/reference/attribute/method,1
 web/svg/reference/attribute/min,0
 web/svg/reference/attribute/mode,null
 web/svg/reference/attribute/numoctaves,0
+web/svg/reference/attribute/offset,null
 web/svg/reference/attribute/opacity,0
 web/svg/reference/attribute/operator,null
 web/svg/reference/attribute/order,0
@@ -14009,6 +14012,7 @@ web/svg/reference/attribute/pathlength,2
 web/svg/reference/attribute/patterncontentunits,null
 web/svg/reference/attribute/patterntransform,null
 web/svg/reference/attribute/patternunits,0
+web/svg/reference/attribute/ping,null
 web/svg/reference/attribute/pointer-events,0
 web/svg/reference/attribute/points,2
 web/svg/reference/attribute/pointsatx,0
@@ -14019,8 +14023,10 @@ web/svg/reference/attribute/preserveaspectratio,2
 web/svg/reference/attribute/primitiveunits,0
 web/svg/reference/attribute/r,1
 web/svg/reference/attribute/radius,0
+web/svg/reference/attribute/referrerpolicy,null
 web/svg/reference/attribute/refx,0
 web/svg/reference/attribute/refy,0
+web/svg/reference/attribute/rel,null
 web/svg/reference/attribute/repeatcount,0
 web/svg/reference/attribute/repeatdur,0
 web/svg/reference/attribute/requiredextensions,0
@@ -14065,6 +14071,7 @@ web/svg/reference/attribute/text-decoration,0
 web/svg/reference/attribute/text-overflow,0
 web/svg/reference/attribute/text-rendering,0
 web/svg/reference/attribute/textlength,0
+web/svg/reference/attribute/title,null
 web/svg/reference/attribute/to,0
 web/svg/reference/attribute/transform,2
 web/svg/reference/attribute/transform-origin,0
@@ -14083,6 +14090,7 @@ web/svg/reference/attribute/x,0
 web/svg/reference/attribute/x1,0
 web/svg/reference/attribute/x2,0
 web/svg/reference/attribute/xchannelselector,0
+web/svg/reference/attribute/xlink_colon_actuate,null
 web/svg/reference/attribute/xlink_colon_arcrole,2
 web/svg/reference/attribute/xlink_colon_href,1
 web/svg/reference/attribute/xlink_colon_show,null
@@ -14097,7 +14105,7 @@ web/svg/reference/attribute/ychannelselector,0
 web/svg/reference/attribute/z,null
 web/svg/reference/attribute/zoomandpan,null
 web/svg/reference/element,0
-web/svg/reference/element/a,1
+web/svg/reference/element/a,2
 web/svg/reference/element/animate,2
 web/svg/reference/element/animatemotion,0
 web/svg/reference/element/animatetransform,0
