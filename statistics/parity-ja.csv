@@ -2393,7 +2393,7 @@ web/api/audiobuffersourcenode/loop,2
 web/api/audiobuffersourcenode/loopend,2
 web/api/audiobuffersourcenode/loopstart,2
 web/api/audiobuffersourcenode/playbackrate,3
-web/api/audiobuffersourcenode/start,2
+web/api/audiobuffersourcenode/start,3
 web/api/audiocontext,5
 web/api/audiocontext/audiocontext,0
 web/api/audiocontext/baselatency,2
@@ -3553,7 +3553,7 @@ web/api/document/getelementsbyclassname,3
 web/api/document/getelementsbyname,1
 web/api/document/getelementsbytagname,3
 web/api/document/getelementsbytagnamens,5
-web/api/document/getselection,2
+web/api/document/getselection,3
 web/api/document/hasfocus,3
 web/api/document/hasprivatetoken,null
 web/api/document/hasredemptionrecord,null
@@ -3848,7 +3848,7 @@ web/api/element/ariaerrormessageelements,3
 web/api/element/ariaexpanded,2
 web/api/element/ariaflowtoelements,1
 web/api/element/ariahaspopup,4
-web/api/element/ariahidden,2
+web/api/element/ariahidden,3
 web/api/element/ariainvalid,0
 web/api/element/ariakeyshortcuts,1
 web/api/element/arialabel,2
@@ -4242,7 +4242,7 @@ web/api/file/name,1
 web/api/file/webkitrelativepath,0
 web/api/file_and_directory_entries_api,0
 web/api/file_api,0
-web/api/file_api/using_files_from_web_applications,2
+web/api/file_api/using_files_from_web_applications,3
 web/api/file_system_api,2
 web/api/file_system_api/origin_private_file_system,9
 web/api/fileentrysync,null
@@ -5977,7 +5977,7 @@ web/api/mediaquerylistevent,3
 web/api/mediaquerylistevent/matches,3
 web/api/mediaquerylistevent/media,3
 web/api/mediaquerylistevent/mediaquerylistevent,3
-web/api/mediarecorder,12
+web/api/mediarecorder,13
 web/api/mediarecorder/audiobitratemode,null
 web/api/mediarecorder/audiobitspersecond,3
 web/api/mediarecorder/dataavailable_event,11
@@ -6027,7 +6027,7 @@ web/api/mediasource/sourceended_event,null
 web/api/mediasource/sourceopen_event,null
 web/api/mediasourcehandle,null
 web/api/mediastream,1
-web/api/mediastream/active,0
+web/api/mediastream/active,1
 web/api/mediastream/addtrack,2
 web/api/mediastream/addtrack_event,2
 web/api/mediastream/clone,0
@@ -6070,7 +6070,7 @@ web/api/mediastreamtrack/readystate,0
 web/api/mediastreamtrack/stop,0
 web/api/mediastreamtrack/unmute_event,null
 web/api/mediastreamtrackaudiosourcenode,1
-web/api/mediastreamtrackaudiosourcenode/mediastreamtrackaudiosourcenode,1
+web/api/mediastreamtrackaudiosourcenode/mediastreamtrackaudiosourcenode,2
 web/api/mediastreamtrackevent,null
 web/api/mediastreamtrackevent/mediastreamtrackevent,null
 web/api/mediastreamtrackevent/track,null
@@ -6615,7 +6615,7 @@ web/api/paintsize/height,null
 web/api/paintsize/width,null
 web/api/paintworkletglobalscope,4
 web/api/paintworkletglobalscope/devicepixelratio,0
-web/api/paintworkletglobalscope/registerpaint,4
+web/api/paintworkletglobalscope/registerpaint,5
 web/api/pannernode,2
 web/api/pannernode/coneinnerangle,1
 web/api/pannernode/coneouterangle,1
@@ -6781,7 +6781,7 @@ web/api/performancemark,4
 web/api/performancemark/detail,1
 web/api/performancemark/performancemark,2
 web/api/performancemeasure,4
-web/api/performancemeasure/detail,1
+web/api/performancemeasure/detail,2
 web/api/performancenavigation,8
 web/api/performancenavigation/redirectcount,5
 web/api/performancenavigation/tojson,null
@@ -6923,7 +6923,7 @@ web/api/pictureinpicturewindow/resize_event,2
 web/api/pictureinpicturewindow/width,5
 web/api/plugin,null
 web/api/pluginarray,2
-web/api/pointer_events,3
+web/api/pointer_events,4
 web/api/pointer_events/multi-touch_interaction,6
 web/api/pointer_events/pinch_zoom_gestures,8
 web/api/pointer_events/using_pointer_events,5
@@ -7135,7 +7135,7 @@ web/api/readablestream/pipethrough,3
 web/api/readablestream/pipeto,3
 web/api/readablestream/readablestream,6
 web/api/readablestream/tee,2
-web/api/readablestreambyobreader,7
+web/api/readablestreambyobreader,8
 web/api/readablestreambyobreader/cancel,2
 web/api/readablestreambyobreader/closed,1
 web/api/readablestreambyobreader/read,9
@@ -8921,7 +8921,7 @@ web/api/touch/target,2
 web/api/touch/touch,3
 web/api/touch/touchtype,null
 web/api/touch_events,7
-web/api/touch_events/multi-touch_interaction,8
+web/api/touch_events/multi-touch_interaction,9
 web/api/touch_events/using_touch_events,9
 web/api/touchevent,3
 web/api/touchevent/altkey,2
@@ -8935,7 +8935,7 @@ web/api/touchevent/touchevent,2
 web/api/touchlist,1
 web/api/touchlist/item,3
 web/api/touchlist/length,2
-web/api/trackevent,4
+web/api/trackevent,5
 web/api/trackevent/track,2
 web/api/trackevent/trackevent,2
 web/api/transformstream,5
@@ -9472,7 +9472,7 @@ web/api/webgl2renderingcontext/vertexattribi,null
 web/api/webgl2renderingcontext/vertexattribipointer,null
 web/api/webgl2renderingcontext/waitsync,null
 web/api/webgl_api,0
-web/api/webgl_api/basic_2d_animation_example,7
+web/api/webgl_api/basic_2d_animation_example,8
 web/api/webgl_api/by_example,null
 web/api/webgl_api/by_example/basic_scissoring,null
 web/api/webgl_api/by_example/boilerplate_1,null
@@ -9503,7 +9503,7 @@ web/api/webgl_api/tutorial/using_shaders_to_apply_color_in_webgl,1
 web/api/webgl_api/tutorial/using_textures_in_webgl,2
 web/api/webgl_api/types,2
 web/api/webgl_api/using_extensions,null
-web/api/webgl_api/webgl_best_practices,0
+web/api/webgl_api/webgl_best_practices,1
 web/api/webgl_api/webgl_model_view_projection,2
 web/api/webgl_color_buffer_float,4
 web/api/webgl_compressed_texture_astc,null
@@ -9770,7 +9770,7 @@ web/api/webtransportsendstream/sendorder,null
 web/api/webusb_api,9
 web/api/webvr_api,14
 web/api/webvr_api/concepts,10
-web/api/webvr_api/using_the_webvr_api,0
+web/api/webvr_api/using_the_webvr_api,1
 web/api/webvr_api/using_vr_controllers_with_webvr,13
 web/api/webvtt_api,7
 web/api/webvtt_api/web_video_text_tracks_format,8
@@ -13887,7 +13887,7 @@ web/svg/guides/content_type,0
 web/svg/guides/linking,0
 web/svg/guides/namespaces_crash_course,0
 web/svg/guides/namespaces_crash_course/example,0
-web/svg/guides/scripting,0
+web/svg/guides/scripting,1
 web/svg/guides/svg_animation_with_smil,0
 web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,0
@@ -14432,7 +14432,7 @@ web/xml/xslt/reference/element/with-param,0
 webassembly,5
 webassembly/guides,1
 webassembly/guides/c_to_wasm,4
-webassembly/guides/concepts,2
+webassembly/guides/concepts,3
 webassembly/guides/existing_c_to_wasm,3
 webassembly/guides/exported_functions,1
 webassembly/guides/imported_string_constants,null

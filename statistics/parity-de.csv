@@ -2393,7 +2393,7 @@ web/api/audiobuffersourcenode/loop,0
 web/api/audiobuffersourcenode/loopend,0
 web/api/audiobuffersourcenode/loopstart,0
 web/api/audiobuffersourcenode/playbackrate,0
-web/api/audiobuffersourcenode/start,0
+web/api/audiobuffersourcenode/start,1
 web/api/audiocontext,0
 web/api/audiocontext/audiocontext,0
 web/api/audiocontext/baselatency,0
@@ -3553,7 +3553,7 @@ web/api/document/getelementsbyclassname,0
 web/api/document/getelementsbyname,0
 web/api/document/getelementsbytagname,0
 web/api/document/getelementsbytagnamens,0
-web/api/document/getselection,0
+web/api/document/getselection,1
 web/api/document/hasfocus,0
 web/api/document/hasprivatetoken,0
 web/api/document/hasredemptionrecord,0
@@ -3848,7 +3848,7 @@ web/api/element/ariaerrormessageelements,0
 web/api/element/ariaexpanded,0
 web/api/element/ariaflowtoelements,0
 web/api/element/ariahaspopup,0
-web/api/element/ariahidden,0
+web/api/element/ariahidden,1
 web/api/element/ariainvalid,0
 web/api/element/ariakeyshortcuts,0
 web/api/element/arialabel,0
@@ -4242,7 +4242,7 @@ web/api/file/name,0
 web/api/file/webkitrelativepath,0
 web/api/file_and_directory_entries_api,0
 web/api/file_api,0
-web/api/file_api/using_files_from_web_applications,0
+web/api/file_api/using_files_from_web_applications,1
 web/api/file_system_api,0
 web/api/file_system_api/origin_private_file_system,0
 web/api/fileentrysync,0
@@ -5596,7 +5596,7 @@ web/api/idbrequest/result,0
 web/api/idbrequest/source,0
 web/api/idbrequest/success_event,0
 web/api/idbrequest/transaction,0
-web/api/idbtransaction,0
+web/api/idbtransaction,1
 web/api/idbtransaction/abort,0
 web/api/idbtransaction/abort_event,0
 web/api/idbtransaction/commit,0
@@ -5977,7 +5977,7 @@ web/api/mediaquerylistevent,0
 web/api/mediaquerylistevent/matches,0
 web/api/mediaquerylistevent/media,0
 web/api/mediaquerylistevent/mediaquerylistevent,0
-web/api/mediarecorder,0
+web/api/mediarecorder,1
 web/api/mediarecorder/audiobitratemode,0
 web/api/mediarecorder/audiobitspersecond,0
 web/api/mediarecorder/dataavailable_event,0
@@ -6027,7 +6027,7 @@ web/api/mediasource/sourceended_event,0
 web/api/mediasource/sourceopen_event,0
 web/api/mediasourcehandle,0
 web/api/mediastream,0
-web/api/mediastream/active,0
+web/api/mediastream/active,1
 web/api/mediastream/addtrack,0
 web/api/mediastream/addtrack_event,0
 web/api/mediastream/clone,0
@@ -6070,7 +6070,7 @@ web/api/mediastreamtrack/readystate,0
 web/api/mediastreamtrack/stop,0
 web/api/mediastreamtrack/unmute_event,0
 web/api/mediastreamtrackaudiosourcenode,0
-web/api/mediastreamtrackaudiosourcenode/mediastreamtrackaudiosourcenode,0
+web/api/mediastreamtrackaudiosourcenode/mediastreamtrackaudiosourcenode,1
 web/api/mediastreamtrackevent,0
 web/api/mediastreamtrackevent/mediastreamtrackevent,0
 web/api/mediastreamtrackevent/track,0
@@ -6615,7 +6615,7 @@ web/api/paintsize/height,0
 web/api/paintsize/width,0
 web/api/paintworkletglobalscope,0
 web/api/paintworkletglobalscope/devicepixelratio,0
-web/api/paintworkletglobalscope/registerpaint,0
+web/api/paintworkletglobalscope/registerpaint,1
 web/api/pannernode,0
 web/api/pannernode/coneinnerangle,0
 web/api/pannernode/coneouterangle,0
@@ -6704,7 +6704,7 @@ web/api/paymentresponse/payeremail,0
 web/api/paymentresponse/payername,0
 web/api/paymentresponse/payerphone,0
 web/api/paymentresponse/requestid,0
-web/api/paymentresponse/retry,0
+web/api/paymentresponse/retry,1
 web/api/paymentresponse/shippingaddress,0
 web/api/paymentresponse/shippingoption,0
 web/api/paymentresponse/tojson,0
@@ -6781,7 +6781,7 @@ web/api/performancemark,0
 web/api/performancemark/detail,0
 web/api/performancemark/performancemark,0
 web/api/performancemeasure,0
-web/api/performancemeasure/detail,0
+web/api/performancemeasure/detail,1
 web/api/performancenavigation,0
 web/api/performancenavigation/redirectcount,0
 web/api/performancenavigation/tojson,0
@@ -6923,7 +6923,7 @@ web/api/pictureinpicturewindow/resize_event,0
 web/api/pictureinpicturewindow/width,0
 web/api/plugin,0
 web/api/pluginarray,0
-web/api/pointer_events,0
+web/api/pointer_events,1
 web/api/pointer_events/multi-touch_interaction,0
 web/api/pointer_events/pinch_zoom_gestures,0
 web/api/pointer_events/using_pointer_events,0
@@ -7135,7 +7135,7 @@ web/api/readablestream/pipethrough,0
 web/api/readablestream/pipeto,0
 web/api/readablestream/readablestream,0
 web/api/readablestream/tee,0
-web/api/readablestreambyobreader,0
+web/api/readablestreambyobreader,1
 web/api/readablestreambyobreader/cancel,0
 web/api/readablestreambyobreader/closed,0
 web/api/readablestreambyobreader/read,0
@@ -8921,7 +8921,7 @@ web/api/touch/target,0
 web/api/touch/touch,0
 web/api/touch/touchtype,0
 web/api/touch_events,0
-web/api/touch_events/multi-touch_interaction,0
+web/api/touch_events/multi-touch_interaction,1
 web/api/touch_events/using_touch_events,0
 web/api/touchevent,0
 web/api/touchevent/altkey,0
@@ -8935,7 +8935,7 @@ web/api/touchevent/touchevent,0
 web/api/touchlist,0
 web/api/touchlist/item,0
 web/api/touchlist/length,0
-web/api/trackevent,0
+web/api/trackevent,1
 web/api/trackevent/track,0
 web/api/trackevent/trackevent,0
 web/api/transformstream,0
@@ -9360,8 +9360,8 @@ web/api/web_audio_api,0
 web/api/web_audio_api/advanced_techniques,0
 web/api/web_audio_api/basic_concepts_behind_web_audio_api,0
 web/api/web_audio_api/best_practices,0
-web/api/web_audio_api/controlling_multiple_parameters_with_constantsourcenode,0
-web/api/web_audio_api/simple_synth,0
+web/api/web_audio_api/controlling_multiple_parameters_with_constantsourcenode,1
+web/api/web_audio_api/simple_synth,1
 web/api/web_audio_api/using_audioworklet,0
 web/api/web_audio_api/using_iir_filters,0
 web/api/web_audio_api/using_web_audio_api,0
@@ -9472,7 +9472,7 @@ web/api/webgl2renderingcontext/vertexattribi,0
 web/api/webgl2renderingcontext/vertexattribipointer,0
 web/api/webgl2renderingcontext/waitsync,0
 web/api/webgl_api,0
-web/api/webgl_api/basic_2d_animation_example,0
+web/api/webgl_api/basic_2d_animation_example,1
 web/api/webgl_api/by_example,0
 web/api/webgl_api/by_example/basic_scissoring,0
 web/api/webgl_api/by_example/boilerplate_1,0
@@ -9503,7 +9503,7 @@ web/api/webgl_api/tutorial/using_shaders_to_apply_color_in_webgl,0
 web/api/webgl_api/tutorial/using_textures_in_webgl,0
 web/api/webgl_api/types,0
 web/api/webgl_api/using_extensions,0
-web/api/webgl_api/webgl_best_practices,0
+web/api/webgl_api/webgl_best_practices,1
 web/api/webgl_api/webgl_model_view_projection,0
 web/api/webgl_color_buffer_float,0
 web/api/webgl_compressed_texture_astc,0
@@ -9770,12 +9770,12 @@ web/api/webtransportsendstream/sendorder,0
 web/api/webusb_api,0
 web/api/webvr_api,0
 web/api/webvr_api/concepts,0
-web/api/webvr_api/using_the_webvr_api,0
+web/api/webvr_api/using_the_webvr_api,1
 web/api/webvr_api/using_vr_controllers_with_webvr,0
 web/api/webvtt_api,0
 web/api/webvtt_api/web_video_text_tracks_format,0
 web/api/webxr_device_api,0
-web/api/webxr_device_api/bounded_reference_spaces,0
+web/api/webxr_device_api/bounded_reference_spaces,1
 web/api/webxr_device_api/cameras,0
 web/api/webxr_device_api/fundamentals,0
 web/api/webxr_device_api/geometry,0
@@ -9789,7 +9789,7 @@ web/api/webxr_device_api/perspective,0
 web/api/webxr_device_api/rendering,0
 web/api/webxr_device_api/spatial_tracking,0
 web/api/webxr_device_api/startup_and_shutdown,0
-web/api/webxr_device_api/targeting,0
+web/api/webxr_device_api/targeting,1
 web/api/wgsllanguagefeatures,0
 web/api/wheelevent,0
 web/api/wheelevent/deltamode,0
@@ -10330,7 +10330,7 @@ web/api/xrtransientinputhittestresult/inputsource,0
 web/api/xrtransientinputhittestresult/results,0
 web/api/xrtransientinputhittestsource,0
 web/api/xrtransientinputhittestsource/cancel,0
-web/api/xrview,0
+web/api/xrview,1
 web/api/xrview/eye,0
 web/api/xrview/index,0
 web/api/xrview/isfirstpersonobserver,0
@@ -13887,7 +13887,7 @@ web/svg/guides/content_type,1
 web/svg/guides/linking,0
 web/svg/guides/namespaces_crash_course,0
 web/svg/guides/namespaces_crash_course/example,0
-web/svg/guides/scripting,0
+web/svg/guides/scripting,1
 web/svg/guides/svg_animation_with_smil,1
 web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,0
@@ -14432,7 +14432,7 @@ web/xml/xslt/reference/element/with-param,0
 webassembly,0
 webassembly/guides,0
 webassembly/guides/c_to_wasm,0
-webassembly/guides/concepts,0
+webassembly/guides/concepts,1
 webassembly/guides/existing_c_to_wasm,0
 webassembly/guides/exported_functions,0
 webassembly/guides/imported_string_constants,0
