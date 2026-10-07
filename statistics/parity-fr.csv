@@ -11175,6 +11175,7 @@ web/css/reference/properties/rule-break,2
 web/css/reference/properties/rule-color,2
 web/css/reference/properties/rule-inset-cap,null
 web/css/reference/properties/rule-inset-junction,null
+web/css/reference/properties/rule-overlap,null
 web/css/reference/properties/rule-style,3
 web/css/reference/properties/rule-visibility-items,2
 web/css/reference/properties/rule-width,3
@@ -13892,7 +13893,7 @@ web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_filters,1
 web/svg/guides/svg_in_html,1
 web/svg/reference,0
-web/svg/reference/attribute,0
+web/svg/reference/attribute,1
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,0
 web/svg/reference/attribute/alignment-baseline,0
@@ -13962,6 +13963,7 @@ web/svg/reference/attribute/gradienttransform,null
 web/svg/reference/attribute/gradientunits,null
 web/svg/reference/attribute/height,null
 web/svg/reference/attribute/href,null
+web/svg/reference/attribute/hreflang,null
 web/svg/reference/attribute/id,null
 web/svg/reference/attribute/image-rendering,null
 web/svg/reference/attribute/in,null
@@ -13997,6 +13999,7 @@ web/svg/reference/attribute/method,null
 web/svg/reference/attribute/min,null
 web/svg/reference/attribute/mode,null
 web/svg/reference/attribute/numoctaves,null
+web/svg/reference/attribute/offset,null
 web/svg/reference/attribute/opacity,null
 web/svg/reference/attribute/operator,null
 web/svg/reference/attribute/order,null
@@ -14009,6 +14012,7 @@ web/svg/reference/attribute/pathlength,null
 web/svg/reference/attribute/patterncontentunits,null
 web/svg/reference/attribute/patterntransform,null
 web/svg/reference/attribute/patternunits,null
+web/svg/reference/attribute/ping,null
 web/svg/reference/attribute/pointer-events,null
 web/svg/reference/attribute/points,null
 web/svg/reference/attribute/pointsatx,null
@@ -14019,8 +14023,10 @@ web/svg/reference/attribute/preserveaspectratio,null
 web/svg/reference/attribute/primitiveunits,null
 web/svg/reference/attribute/r,null
 web/svg/reference/attribute/radius,null
+web/svg/reference/attribute/referrerpolicy,null
 web/svg/reference/attribute/refx,null
 web/svg/reference/attribute/refy,null
+web/svg/reference/attribute/rel,null
 web/svg/reference/attribute/repeatcount,null
 web/svg/reference/attribute/repeatdur,null
 web/svg/reference/attribute/requiredextensions,null
@@ -14065,6 +14071,7 @@ web/svg/reference/attribute/text-decoration,null
 web/svg/reference/attribute/text-overflow,null
 web/svg/reference/attribute/text-rendering,null
 web/svg/reference/attribute/textlength,null
+web/svg/reference/attribute/title,null
 web/svg/reference/attribute/to,null
 web/svg/reference/attribute/transform,null
 web/svg/reference/attribute/transform-origin,null
@@ -14083,6 +14090,7 @@ web/svg/reference/attribute/x,null
 web/svg/reference/attribute/x1,null
 web/svg/reference/attribute/x2,null
 web/svg/reference/attribute/xchannelselector,null
+web/svg/reference/attribute/xlink_colon_actuate,null
 web/svg/reference/attribute/xlink_colon_arcrole,null
 web/svg/reference/attribute/xlink_colon_href,null
 web/svg/reference/attribute/xlink_colon_show,null
@@ -14097,7 +14105,7 @@ web/svg/reference/attribute/ychannelselector,null
 web/svg/reference/attribute/z,null
 web/svg/reference/attribute/zoomandpan,null
 web/svg/reference/element,0
-web/svg/reference/element/a,0
+web/svg/reference/element/a,1
 web/svg/reference/element/animate,0
 web/svg/reference/element/animatemotion,0
 web/svg/reference/element/animatetransform,0

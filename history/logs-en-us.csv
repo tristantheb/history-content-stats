@@ -11175,6 +11175,7 @@ web/css/reference/properties/rule-break,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8
 web/css/reference/properties/rule-color,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Properties
 web/css/reference/properties/rule-inset-cap,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
 web/css/reference/properties/rule-inset-junction,6602973eb32c6d871ea61b15079681875f4d9166,CSS|Properties
+web/css/reference/properties/rule-overlap,0cc2d00775016fc61ae0ac1256d65ed1b56a193a,CSS|Properties
 web/css/reference/properties/rule-style,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
 web/css/reference/properties/rule-visibility-items,f1e792d66f656c235b3c91a905b58cc7f7f1cca0,CSS|Properties
 web/css/reference/properties/rule-width,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
@@ -13892,7 +13893,7 @@ web/svg/guides/svg_as_an_image,be9ba40fbef7f96beae73e5dd6d48a3ca875826f,SVG|Guid
 web/svg/guides/svg_filters,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Guides
 web/svg/guides/svg_in_html,69ff5fe627a17cf397ebd7b0f88a83c272c0bce5,SVG|Guides
 web/svg/reference,c2fd97474834e061404b992c8397d4ccc4439a71,SVG
-web/svg/reference/attribute,27bb49e1849433e05c964c8a645c448f184380ce,SVG|Attribute
+web/svg/reference/attribute,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/accumulate,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/additive,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/alignment-baseline,a516a9818e8cef06c626d436ee1d73fc6d87ec51,SVG|Attribute
@@ -13962,6 +13963,7 @@ web/svg/reference/attribute/gradienttransform,bb3478393fbb30212a6aeb33235dadf2d6
 web/svg/reference/attribute/gradientunits,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
 web/svg/reference/attribute/height,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
 web/svg/reference/attribute/href,a516a9818e8cef06c626d436ee1d73fc6d87ec51,SVG|Attribute
+web/svg/reference/attribute/hreflang,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/id,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
 web/svg/reference/attribute/image-rendering,be1922d62a0d31e4e3441db0e943aed8df736481,SVG|Attribute
 web/svg/reference/attribute/in,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
@@ -13997,6 +13999,7 @@ web/svg/reference/attribute/method,73f93cb9449dc42059d2f8835338e8674b3d8bdd,SVG|
 web/svg/reference/attribute/min,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/mode,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/numoctaves,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
+web/svg/reference/attribute/offset,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/opacity,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/operator,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/order,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
@@ -14009,6 +14012,7 @@ web/svg/reference/attribute/pathlength,28f2781de2dbb8e81be94c87ff81fd0442cb4736,
 web/svg/reference/attribute/patterncontentunits,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/patterntransform,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/patternunits,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
+web/svg/reference/attribute/ping,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/pointer-events,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/points,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
 web/svg/reference/attribute/pointsatx,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
@@ -14019,12 +14023,14 @@ web/svg/reference/attribute/preserveaspectratio,d559e66723de93ce6c59eb5d22a29afc
 web/svg/reference/attribute/primitiveunits,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/r,7c90842660507d716c4e9deac52c1ed3bb465fb3,SVG|Attribute
 web/svg/reference/attribute/radius,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
+web/svg/reference/attribute/referrerpolicy,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/refx,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
 web/svg/reference/attribute/refy,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
+web/svg/reference/attribute/rel,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/repeatcount,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
 web/svg/reference/attribute/repeatdur,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
 web/svg/reference/attribute/requiredextensions,1db55979ae2b6ed7abb484b74e70809d66fa7637,SVG|Attribute
-web/svg/reference/attribute/requiredfeatures,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
+web/svg/reference/attribute/requiredfeatures,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/restart,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
 web/svg/reference/attribute/result,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/rotate,78b4b9da712e8189c735f4c0ca4ef443dd626be6,SVG|Attribute
@@ -14065,6 +14071,7 @@ web/svg/reference/attribute/text-decoration,2d78abb3e793352e24e976ce0e68c08d817b
 web/svg/reference/attribute/text-overflow,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
 web/svg/reference/attribute/text-rendering,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/textlength,6036cd414b2214f85901158bdf3e3a96123d4553,SVG|Attribute
+web/svg/reference/attribute/title,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/to,ab279632b84d201ae9ddd3db3981bf0b01573371,SVG|Attribute
 web/svg/reference/attribute/transform,a65cb1fa4293b1006ac02ce9a19507fd2ab960f7,SVG|Attribute
 web/svg/reference/attribute/transform-origin,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
@@ -14083,6 +14090,7 @@ web/svg/reference/attribute/x,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attri
 web/svg/reference/attribute/x1,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/x2,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/xchannelselector,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
+web/svg/reference/attribute/xlink_colon_actuate,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/xlink_colon_arcrole,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
 web/svg/reference/attribute/xlink_colon_href,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
 web/svg/reference/attribute/xlink_colon_show,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
@@ -14097,7 +14105,7 @@ web/svg/reference/attribute/ychannelselector,c2fd97474834e061404b992c8397d4ccc44
 web/svg/reference/attribute/z,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/zoomandpan,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
 web/svg/reference/element,c1564acf160ef4b320fb7b89ab65211b9c50cf1b,SVG|Element
-web/svg/reference/element/a,94a841dba1498c685a18e72d041fd9057f302d6c,SVG|Element
+web/svg/reference/element/a,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Element
 web/svg/reference/element/animate,3064cbe8212ea919874fb21120a89657afccba25,SVG|Element
 web/svg/reference/element/animatemotion,603d83f1e1cdfd634e2f0b7b939466c7660822d3,SVG|Element
 web/svg/reference/element/animatetransform,12222b32eec33a7411c6de8afc8408d9aa617dd2,SVG|Element
