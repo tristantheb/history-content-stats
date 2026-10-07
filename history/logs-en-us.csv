@@ -11053,7 +11053,7 @@ web/css/reference/properties/margin-inline-start,880c2c4b113c6fe127ca3ae3603a56e
 web/css/reference/properties/margin-left,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/margin-right,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/margin-top,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
-web/css/reference/properties/margin-trim,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/margin-trim,bf7ff749b987d530e9a6c07f23ac66f94d968e57,CSS|Properties
 web/css/reference/properties/marker,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/marker-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/marker-mid,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11424,7 +11424,7 @@ web/css/reference/selectors/_doublecolon_-moz-range-progress,28f5f3b9b463fa842fa
 web/css/reference/selectors/_doublecolon_-moz-range-thumb,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-moz-range-track,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-inner-spin-button,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
-web/css/reference/selectors/_doublecolon_-webkit-meter-bar,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|Selectors
+web/css/reference/selectors/_doublecolon_-webkit-meter-bar,bf7ff749b987d530e9a6c07f23ac66f94d968e57,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-meter-even-less-good-value,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-meter-inner-element,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-meter-optimum-value,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
@@ -11715,7 +11715,7 @@ web/html/reference/attributes/multiple,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,
 web/html/reference/attributes/pattern,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/placeholder,c9f3d85f24d7839c9fe36a68d8042d088d906147,HTML|Attributes
 web/html/reference/attributes/readonly,c9f3d85f24d7839c9fe36a68d8042d088d906147,HTML|Attributes
-web/html/reference/attributes/rel,a4c63d2855b2f557e7d1ee821dee65011d569a41,HTML|Attributes
+web/html/reference/attributes/rel,bf7ff749b987d530e9a6c07f23ac66f94d968e57,HTML|Attributes
 web/html/reference/attributes/rel/alternate_stylesheet,a516a9818e8cef06c626d436ee1d73fc6d87ec51,HTML|Attributes
 web/html/reference/attributes/rel/compression-dictionary,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Attributes
 web/html/reference/attributes/rel/dns-prefetch,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Attributes
