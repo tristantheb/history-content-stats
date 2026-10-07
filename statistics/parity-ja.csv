@@ -702,7 +702,7 @@ learn_web_development/core,8
 learn_web_development/core/accessibility,0
 learn_web_development/core/accessibility/accessibility_troubleshooting,0
 learn_web_development/core/accessibility/css_and_javascript,0
-learn_web_development/core/accessibility/html,0
+learn_web_development/core/accessibility/html,1
 learn_web_development/core/accessibility/mobile,3
 learn_web_development/core/accessibility/multimedia,0
 learn_web_development/core/accessibility/test_your_skills,0
@@ -710,7 +710,7 @@ learn_web_development/core/accessibility/test_your_skills/css_and_javascript,0
 learn_web_development/core/accessibility/test_your_skills/html,0
 learn_web_development/core/accessibility/test_your_skills/wai-aria,1
 learn_web_development/core/accessibility/tooling,0
-learn_web_development/core/accessibility/wai-aria_basics,2
+learn_web_development/core/accessibility/wai-aria_basics,3
 learn_web_development/core/accessibility/what_is_accessibility,3
 learn_web_development/core/css_layout,0
 learn_web_development/core/css_layout/flexbox,1
@@ -845,7 +845,7 @@ learn_web_development/core/text_styling/fundamentals,2
 learn_web_development/core/text_styling/styling_links,5
 learn_web_development/core/text_styling/styling_lists,7
 learn_web_development/core/text_styling/typesetting_a_homepage,9
-learn_web_development/core/text_styling/web_fonts,12
+learn_web_development/core/text_styling/web_fonts,13
 learn_web_development/core/version_control,9
 learn_web_development/educators,3
 learn_web_development/extensions,0
@@ -859,7 +859,7 @@ learn_web_development/extensions/advanced_javascript_objects/test_your_skills,1
 learn_web_development/extensions/advanced_javascript_objects/test_your_skills/object-oriented_javascript,0
 learn_web_development/extensions/async_js,2
 learn_web_development/extensions/async_js/implementing_a_promise-based_api,3
-learn_web_development/extensions/async_js/introducing,1
+learn_web_development/extensions/async_js/introducing,2
 learn_web_development/extensions/async_js/introducing_workers,2
 learn_web_development/extensions/async_js/promises,5
 learn_web_development/extensions/async_js/sequencing_animations,2
@@ -951,7 +951,7 @@ learn_web_development/extensions/server-side/express_nodejs/forms/create_genre_f
 learn_web_development/extensions/server-side/express_nodejs/forms/delete_author_form,null
 learn_web_development/extensions/server-side/express_nodejs/forms/update_book_form,null
 learn_web_development/extensions/server-side/express_nodejs/introduction,5
-learn_web_development/extensions/server-side/express_nodejs/mongoose,7
+learn_web_development/extensions/server-side/express_nodejs/mongoose,8
 learn_web_development/extensions/server-side/express_nodejs/routes,null
 learn_web_development/extensions/server-side/express_nodejs/skeleton_website,1
 learn_web_development/extensions/server-side/express_nodejs/tutorial_local_library_website,1
@@ -967,7 +967,7 @@ learn_web_development/extensions/testing/feature_detection,0
 learn_web_development/extensions/testing/html_and_css,0
 learn_web_development/extensions/testing/introduction,0
 learn_web_development/extensions/testing/testing_strategies,1
-learn_web_development/extensions/testing/your_own_automation_environment,1
+learn_web_development/extensions/testing/your_own_automation_environment,2
 learn_web_development/getting_started,6
 learn_web_development/getting_started/environment_setup,1
 learn_web_development/getting_started/environment_setup/browsing_the_web,1
@@ -1019,7 +1019,7 @@ learn_web_development/howto/tools_and_setup/how_much_does_it_cost,6
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,2
 learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,2
 learn_web_development/howto/tools_and_setup/using_github_pages,2
-learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,4
+learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,5
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,5
 learn_web_development/howto/web_mechanics,0
 learn_web_development/howto/web_mechanics/file_browser_bugs,0
@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,9
 mozilla/firefox,0
-mozilla/firefox/experimental_features,7
+mozilla/firefox/experimental_features,8
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -10434,10 +10434,10 @@ web/css/guides/cascading_variables,0
 web/css/guides/cascading_variables/using_custom_properties,1
 web/css/guides/color_adjustment,0
 web/css/guides/colors,0
-web/css/guides/colors/applying_color,2
+web/css/guides/colors/applying_color,3
 web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,1
-web/css/guides/colors/color_values,3
+web/css/guides/colors/color_values,4
 web/css/guides/colors/using_color_wisely,1
 web/css/guides/colors/using_relative_colors,3
 web/css/guides/compositing_and_blending,1
@@ -10457,7 +10457,7 @@ web/css/guides/custom_functions_and_mixins/using_custom_functions,0
 web/css/guides/custom_highlight_api,null
 web/css/guides/display,0
 web/css/guides/display/block_and_inline_layout,1
-web/css/guides/display/block_formatting_context,0
+web/css/guides/display/block_formatting_context,1
 web/css/guides/display/containing_block,0
 web/css/guides/display/flow_layout,0
 web/css/guides/display/flow_layout_and_overflow,0
@@ -10519,7 +10519,7 @@ web/css/guides/masking,2
 web/css/guides/masking/clipping,1
 web/css/guides/masking/introduction,0
 web/css/guides/masking/mask_properties,2
-web/css/guides/masking/multiple_masks,0
+web/css/guides/masking/multiple_masks,1
 web/css/guides/media_queries,0
 web/css/guides/media_queries/printing,0
 web/css/guides/media_queries/testing,0
@@ -10561,7 +10561,7 @@ web/css/guides/scoping,0
 web/css/guides/scroll-driven_animations,2
 web/css/guides/scroll-driven_animations/timeline_insets,3
 web/css/guides/scroll-driven_animations/timeline_range_names,null
-web/css/guides/scroll-driven_animations/timelines,2
+web/css/guides/scroll-driven_animations/timelines,3
 web/css/guides/scroll_anchoring,0
 web/css/guides/scroll_anchoring/overview,0
 web/css/guides/scroll_snap,1
@@ -10596,7 +10596,7 @@ web/css/guides/transforms/using,0
 web/css/guides/transitions,0
 web/css/guides/transitions/using,0
 web/css/guides/values_and_units,0
-web/css/guides/values_and_units/numeric_data_types,0
+web/css/guides/values_and_units/numeric_data_types,1
 web/css/guides/values_and_units/textual_data_types,0
 web/css/guides/values_and_units/using_math_functions,0
 web/css/guides/values_and_units/using_typed_arithmetic,1
@@ -10666,7 +10666,7 @@ web/css/reference/at-rules/@import,0
 web/css/reference/at-rules/@import/layer_function,0
 web/css/reference/at-rules/@keyframes,0
 web/css/reference/at-rules/@layer,0
-web/css/reference/at-rules/@media,0
+web/css/reference/at-rules/@media,1
 web/css/reference/at-rules/@media/-moz-device-pixel-ratio,0
 web/css/reference/at-rules/@media/-webkit-animation,0
 web/css/reference/at-rules/@media/-webkit-device-pixel-ratio,0
@@ -10771,12 +10771,12 @@ web/css/reference/properties/animation-timeline/scroll,2
 web/css/reference/properties/animation-timeline/view,3
 web/css/reference/properties/animation-timing-function,0
 web/css/reference/properties/animation-trigger,null
-web/css/reference/properties/appearance,2
+web/css/reference/properties/appearance,3
 web/css/reference/properties/aspect-ratio,2
 web/css/reference/properties/backdrop-filter,2
 web/css/reference/properties/backface-visibility,3
 web/css/reference/properties/background,0
-web/css/reference/properties/background-attachment,0
+web/css/reference/properties/background-attachment,1
 web/css/reference/properties/background-blend-mode,1
 web/css/reference/properties/background-clip,1
 web/css/reference/properties/background-color,3
@@ -10933,8 +10933,8 @@ web/css/reference/properties/counter-increment,3
 web/css/reference/properties/counter-reset,3
 web/css/reference/properties/counter-set,2
 web/css/reference/properties/cursor,3
-web/css/reference/properties/cx,1
-web/css/reference/properties/cy,0
+web/css/reference/properties/cx,2
+web/css/reference/properties/cy,1
 web/css/reference/properties/d,1
 web/css/reference/properties/direction,2
 web/css/reference/properties/display,3
@@ -10950,7 +10950,7 @@ web/css/reference/properties/flex,0
 web/css/reference/properties/flex-basis,2
 web/css/reference/properties/flex-direction,2
 web/css/reference/properties/flex-flow,0
-web/css/reference/properties/flex-grow,3
+web/css/reference/properties/flex-grow,4
 web/css/reference/properties/flex-line-count,null
 web/css/reference/properties/flex-shrink,0
 web/css/reference/properties/flex-wrap,3
@@ -11066,7 +11066,7 @@ web/css/reference/properties/mask-border-repeat,2
 web/css/reference/properties/mask-border-slice,1
 web/css/reference/properties/mask-border-source,0
 web/css/reference/properties/mask-border-width,1
-web/css/reference/properties/mask-clip,2
+web/css/reference/properties/mask-clip,3
 web/css/reference/properties/mask-composite,1
 web/css/reference/properties/mask-image,0
 web/css/reference/properties/mask-mode,1
@@ -11112,7 +11112,7 @@ web/css/reference/properties/overflow-inline,0
 web/css/reference/properties/overflow-wrap,0
 web/css/reference/properties/overflow-x,0
 web/css/reference/properties/overflow-y,0
-web/css/reference/properties/overlay,3
+web/css/reference/properties/overlay,4
 web/css/reference/properties/overscroll-behavior,0
 web/css/reference/properties/overscroll-behavior-block,1
 web/css/reference/properties/overscroll-behavior-inline,1
@@ -11150,7 +11150,7 @@ web/css/reference/properties/position-try-order,4
 web/css/reference/properties/position-visibility,3
 web/css/reference/properties/print-color-adjust,3
 web/css/reference/properties/quotes,4
-web/css/reference/properties/r,0
+web/css/reference/properties/r,1
 web/css/reference/properties/reading-flow,1
 web/css/reference/properties/reading-order,1
 web/css/reference/properties/resize,2
@@ -11309,7 +11309,7 @@ web/css/reference/properties/white-space,1
 web/css/reference/properties/white-space-collapse,0
 web/css/reference/properties/widows,3
 web/css/reference/properties/width,4
-web/css/reference/properties/will-change,4
+web/css/reference/properties/will-change,5
 web/css/reference/properties/word-break,1
 web/css/reference/properties/word-spacing,0
 web/css/reference/properties/writing-mode,0
@@ -11487,7 +11487,7 @@ web/css/reference/selectors/universal_selectors,0
 web/css/reference/values,1
 web/css/reference/values/-moz-image-rect,0
 web/css/reference/values/abs,0
-web/css/reference/values/absolute-size,2
+web/css/reference/values/absolute-size,3
 web/css/reference/values/acos,1
 web/css/reference/values/alpha-value,1
 web/css/reference/values/anchor,2
@@ -11508,12 +11508,12 @@ web/css/reference/values/basic-shape/inset,1
 web/css/reference/values/basic-shape/path,1
 web/css/reference/values/basic-shape/polygon,2
 web/css/reference/values/basic-shape/rect,1
-web/css/reference/values/basic-shape/shape,1
+web/css/reference/values/basic-shape/shape,2
 web/css/reference/values/basic-shape/xywh,1
 web/css/reference/values/blend-mode,1
 web/css/reference/values/box-edge,2
 web/css/reference/values/calc,4
-web/css/reference/values/calc-keyword,0
+web/css/reference/values/calc-keyword,1
 web/css/reference/values/calc-size,0
 web/css/reference/values/calc-sum,1
 web/css/reference/values/clamp,3
@@ -11554,7 +11554,7 @@ web/css/reference/values/dynamic-range-limit-mix,0
 web/css/reference/values/easing-function,0
 web/css/reference/values/easing-function/cubic-bezier,0
 web/css/reference/values/easing-function/linear,0
-web/css/reference/values/easing-function/steps,1
+web/css/reference/values/easing-function/steps,2
 web/css/reference/values/element,0
 web/css/reference/values/env,4
 web/css/reference/values/exp,1
@@ -11590,7 +11590,7 @@ web/css/reference/values/hypot,0
 web/css/reference/values/ident,2
 web/css/reference/values/if,2
 web/css/reference/values/image,3
-web/css/reference/values/image/image,0
+web/css/reference/values/image/image,1
 web/css/reference/values/image/image-set,0
 web/css/reference/values/image/paint,1
 web/css/reference/values/important,2
@@ -11746,7 +11746,7 @@ web/html/reference/elements/bdi,1
 web/html/reference/elements/bdo,1
 web/html/reference/elements/big,0
 web/html/reference/elements/blockquote,0
-web/html/reference/elements/body,0
+web/html/reference/elements/body,1
 web/html/reference/elements/br,0
 web/html/reference/elements/button,0
 web/html/reference/elements/canvas,0

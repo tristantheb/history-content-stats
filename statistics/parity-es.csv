@@ -702,7 +702,7 @@ learn_web_development/core,1
 learn_web_development/core/accessibility,null
 learn_web_development/core/accessibility/accessibility_troubleshooting,null
 learn_web_development/core/accessibility/css_and_javascript,null
-learn_web_development/core/accessibility/html,0
+learn_web_development/core/accessibility/html,1
 learn_web_development/core/accessibility/mobile,null
 learn_web_development/core/accessibility/multimedia,null
 learn_web_development/core/accessibility/test_your_skills,null
@@ -859,7 +859,7 @@ learn_web_development/extensions/advanced_javascript_objects/test_your_skills,nu
 learn_web_development/extensions/advanced_javascript_objects/test_your_skills/object-oriented_javascript,null
 learn_web_development/extensions/async_js,null
 learn_web_development/extensions/async_js/implementing_a_promise-based_api,null
-learn_web_development/extensions/async_js/introducing,6
+learn_web_development/extensions/async_js/introducing,7
 learn_web_development/extensions/async_js/introducing_workers,null
 learn_web_development/extensions/async_js/promises,null
 learn_web_development/extensions/async_js/sequencing_animations,null
@@ -914,13 +914,13 @@ learn_web_development/extensions/server-side/apache_configuration_htaccess,null
 learn_web_development/extensions/server-side/configuring_server_mime_types,null
 learn_web_development/extensions/server-side/django,null
 learn_web_development/extensions/server-side/django/admin_site,1
-learn_web_development/extensions/server-side/django/authentication,1
-learn_web_development/extensions/server-side/django/deployment,7
+learn_web_development/extensions/server-side/django/authentication,2
+learn_web_development/extensions/server-side/django/deployment,8
 learn_web_development/extensions/server-side/django/development_environment,0
 learn_web_development/extensions/server-side/django/django_assessment_blog,null
-learn_web_development/extensions/server-side/django/forms,0
-learn_web_development/extensions/server-side/django/generic_views,0
-learn_web_development/extensions/server-side/django/home_page,1
+learn_web_development/extensions/server-side/django/forms,1
+learn_web_development/extensions/server-side/django/generic_views,1
+learn_web_development/extensions/server-side/django/home_page,2
 learn_web_development/extensions/server-side/django/introduction,null
 learn_web_development/extensions/server-side/django/models,3
 learn_web_development/extensions/server-side/django/sessions,0

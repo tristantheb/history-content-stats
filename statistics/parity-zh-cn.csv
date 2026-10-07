@@ -947,12 +947,12 @@ learn_web_development/extensions/server-side/express_nodejs/forms,null
 learn_web_development/extensions/server-side/express_nodejs/forms/create_author_form,5
 learn_web_development/extensions/server-side/express_nodejs/forms/create_book_form,null
 learn_web_development/extensions/server-side/express_nodejs/forms/create_bookinstance_form,null
-learn_web_development/extensions/server-side/express_nodejs/forms/create_genre_form,6
+learn_web_development/extensions/server-side/express_nodejs/forms/create_genre_form,7
 learn_web_development/extensions/server-side/express_nodejs/forms/delete_author_form,null
 learn_web_development/extensions/server-side/express_nodejs/forms/update_book_form,null
 learn_web_development/extensions/server-side/express_nodejs/introduction,null
 learn_web_development/extensions/server-side/express_nodejs/mongoose,null
-learn_web_development/extensions/server-side/express_nodejs/routes,11
+learn_web_development/extensions/server-side/express_nodejs/routes,12
 learn_web_development/extensions/server-side/express_nodejs/skeleton_website,null
 learn_web_development/extensions/server-side/express_nodejs/tutorial_local_library_website,null
 learn_web_development/extensions/server-side/first_steps,null
@@ -967,7 +967,7 @@ learn_web_development/extensions/testing/feature_detection,13
 learn_web_development/extensions/testing/html_and_css,21
 learn_web_development/extensions/testing/introduction,10
 learn_web_development/extensions/testing/testing_strategies,12
-learn_web_development/extensions/testing/your_own_automation_environment,16
+learn_web_development/extensions/testing/your_own_automation_environment,17
 learn_web_development/getting_started,5
 learn_web_development/getting_started/environment_setup,5
 learn_web_development/getting_started/environment_setup/browsing_the_web,11
@@ -1019,7 +1019,7 @@ learn_web_development/howto/tools_and_setup/how_much_does_it_cost,null
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,null
 learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,null
 learn_web_development/howto/tools_and_setup/using_github_pages,7
-learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,2
+learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,3
 learn_web_development/howto/tools_and_setup/what_software_do_i_need,13
 learn_web_development/howto/web_mechanics,null
 learn_web_development/howto/web_mechanics/file_browser_bugs,3
@@ -10434,10 +10434,10 @@ web/css/guides/cascading_variables,null
 web/css/guides/cascading_variables/using_custom_properties,null
 web/css/guides/color_adjustment,1
 web/css/guides/colors,10
-web/css/guides/colors/applying_color,6
+web/css/guides/colors/applying_color,7
 web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,2
-web/css/guides/colors/color_values,1
+web/css/guides/colors/color_values,2
 web/css/guides/colors/using_color_wisely,1
 web/css/guides/colors/using_relative_colors,null
 web/css/guides/compositing_and_blending,null
@@ -10457,7 +10457,7 @@ web/css/guides/custom_functions_and_mixins/using_custom_functions,null
 web/css/guides/custom_highlight_api,null
 web/css/guides/display,0
 web/css/guides/display/block_and_inline_layout,null
-web/css/guides/display/block_formatting_context,1
+web/css/guides/display/block_formatting_context,2
 web/css/guides/display/containing_block,null
 web/css/guides/display/flow_layout,null
 web/css/guides/display/flow_layout_and_overflow,null
@@ -11309,7 +11309,7 @@ web/css/reference/properties/white-space,8
 web/css/reference/properties/white-space-collapse,null
 web/css/reference/properties/widows,null
 web/css/reference/properties/width,null
-web/css/reference/properties/will-change,3
+web/css/reference/properties/will-change,4
 web/css/reference/properties/word-break,null
 web/css/reference/properties/word-spacing,6
 web/css/reference/properties/writing-mode,null
@@ -11487,7 +11487,7 @@ web/css/reference/selectors/universal_selectors,null
 web/css/reference/values,0
 web/css/reference/values/-moz-image-rect,null
 web/css/reference/values/abs,1
-web/css/reference/values/absolute-size,4
+web/css/reference/values/absolute-size,5
 web/css/reference/values/acos,null
 web/css/reference/values/alpha-value,6
 web/css/reference/values/anchor,null
@@ -11508,7 +11508,7 @@ web/css/reference/values/basic-shape/inset,5
 web/css/reference/values/basic-shape/path,9
 web/css/reference/values/basic-shape/polygon,8
 web/css/reference/values/basic-shape/rect,8
-web/css/reference/values/basic-shape/shape,8
+web/css/reference/values/basic-shape/shape,9
 web/css/reference/values/basic-shape/xywh,8
 web/css/reference/values/blend-mode,4
 web/css/reference/values/box-edge,4
@@ -11746,7 +11746,7 @@ web/html/reference/elements/bdi,null
 web/html/reference/elements/bdo,5
 web/html/reference/elements/big,5
 web/html/reference/elements/blockquote,null
-web/html/reference/elements/body,6
+web/html/reference/elements/body,7
 web/html/reference/elements/br,5
 web/html/reference/elements/button,null
 web/html/reference/elements/canvas,null
