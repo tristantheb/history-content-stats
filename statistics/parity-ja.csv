@@ -86,7 +86,7 @@ glossary/arpa,0
 glossary/arpanet,0
 glossary/array,0
 glossary/ascii,0
-glossary/aspect_ratio,0
+glossary/aspect_ratio,1
 glossary/asynchronous,0
 glossary/atag,0
 glossary/attribute,0
@@ -1809,7 +1809,7 @@ mozilla/add-ons/webextensions/background_scripts,null
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,null
 mozilla/add-ons/webextensions/build_a_cross_browser_extension,null
 mozilla/add-ons/webextensions/chrome_incompatibilities,null
-mozilla/add-ons/webextensions/content_scripts,1
+mozilla/add-ons/webextensions/content_scripts,2
 mozilla/add-ons/webextensions/content_scripts/cloneinto,null
 mozilla/add-ons/webextensions/content_scripts/exportfunction,null
 mozilla/add-ons/webextensions/content_security_policy,null
@@ -1896,7 +1896,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,9
 mozilla/firefox,0
-mozilla/firefox/experimental_features,8
+mozilla/firefox/experimental_features,9
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -1958,7 +1958,7 @@ mozilla/firefox/releases/146,3
 mozilla/firefox/releases/147,3
 mozilla/firefox/releases/148,3
 mozilla/firefox/releases/149,2
-mozilla/firefox/releases/15,0
+mozilla/firefox/releases/15,1
 mozilla/firefox/releases/150,3
 mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
@@ -2027,7 +2027,7 @@ mozilla/firefox/releases/42,0
 mozilla/firefox/releases/43,null
 mozilla/firefox/releases/44,11
 mozilla/firefox/releases/45,null
-mozilla/firefox/releases/46,1
+mozilla/firefox/releases/46,2
 mozilla/firefox/releases/47,0
 mozilla/firefox/releases/48,1
 mozilla/firefox/releases/49,0
@@ -2035,7 +2035,7 @@ mozilla/firefox/releases/5,0
 mozilla/firefox/releases/5/updating_add-ons,null
 mozilla/firefox/releases/50,0
 mozilla/firefox/releases/51,1
-mozilla/firefox/releases/52,1
+mozilla/firefox/releases/52,2
 mozilla/firefox/releases/53,2
 mozilla/firefox/releases/54,null
 mozilla/firefox/releases/55,null
@@ -2054,7 +2054,7 @@ mozilla/firefox/releases/65,1
 mozilla/firefox/releases/66,0
 mozilla/firefox/releases/67,null
 mozilla/firefox/releases/68,null
-mozilla/firefox/releases/69,1
+mozilla/firefox/releases/69,2
 mozilla/firefox/releases/7,0
 mozilla/firefox/releases/7/updating_extensions,null
 mozilla/firefox/releases/70,null
@@ -2079,7 +2079,7 @@ mozilla/firefox/releases/86,8
 mozilla/firefox/releases/87,10
 mozilla/firefox/releases/88,null
 mozilla/firefox/releases/89,null
-mozilla/firefox/releases/9,0
+mozilla/firefox/releases/9,1
 mozilla/firefox/releases/9/updating_add-ons,null
 mozilla/firefox/releases/90,null
 mozilla/firefox/releases/91,0
@@ -4636,7 +4636,7 @@ web/api/gpusampler/label,null
 web/api/gpushadermodule,null
 web/api/gpushadermodule/getcompilationinfo,null
 web/api/gpushadermodule/label,null
-web/api/gpusupportedfeatures,0
+web/api/gpusupportedfeatures,1
 web/api/gpusupportedlimits,7
 web/api/gputexture,null
 web/api/gputexture/createview,null
@@ -5888,8 +5888,8 @@ web/api/mathmlelement/style,5
 web/api/mathmlelement/tabindex,null
 web/api/media_capabilities_api,null
 web/api/media_capabilities_api/using_the_media_capabilities_api,null
-web/api/media_capture_and_streams_api,8
-web/api/media_capture_and_streams_api/constraints,11
+web/api/media_capture_and_streams_api,9
+web/api/media_capture_and_streams_api/constraints,12
 web/api/media_capture_and_streams_api/taking_still_photos,1
 web/api/media_session_api,5
 web/api/media_source_extensions_api,7
@@ -6052,7 +6052,7 @@ web/api/mediastreamaudiosourcenode/mediastreamaudiosourcenode,3
 web/api/mediastreamevent,null
 web/api/mediastreamevent/mediastreamevent,null
 web/api/mediastreamevent/stream,null
-web/api/mediastreamtrack,2
+web/api/mediastreamtrack,3
 web/api/mediastreamtrack/applyconstraints,1
 web/api/mediastreamtrack/clone,0
 web/api/mediastreamtrack/contenthint,0
@@ -6060,7 +6060,7 @@ web/api/mediastreamtrack/enabled,0
 web/api/mediastreamtrack/ended_event,null
 web/api/mediastreamtrack/getcapabilities,5
 web/api/mediastreamtrack/getconstraints,0
-web/api/mediastreamtrack/getsettings,0
+web/api/mediastreamtrack/getsettings,1
 web/api/mediastreamtrack/id,1
 web/api/mediastreamtrack/kind,0
 web/api/mediastreamtrack/label,1
@@ -6082,7 +6082,7 @@ web/api/mediastreamtrackprocessor/discardedframes,null
 web/api/mediastreamtrackprocessor/mediastreamtrackprocessor,null
 web/api/mediastreamtrackprocessor/readable,null
 web/api/mediastreamtrackprocessor/totalframes,null
-web/api/mediatrackconstraints,7
+web/api/mediatrackconstraints,8
 web/api/mediatrackconstraints/aspectratio,null
 web/api/mediatrackconstraints/autogaincontrol,null
 web/api/mediatrackconstraints/channelcount,null
@@ -6102,28 +6102,6 @@ web/api/mediatrackconstraints/samplesize,null
 web/api/mediatrackconstraints/suppresslocalaudioplayback,null
 web/api/mediatrackconstraints/volume,null
 web/api/mediatrackconstraints/width,null
-web/api/mediatracksettings,null
-web/api/mediatracksettings/aspectratio,null
-web/api/mediatracksettings/autogaincontrol,null
-web/api/mediatracksettings/channelcount,null
-web/api/mediatracksettings/cursor,null
-web/api/mediatracksettings/deviceid,null
-web/api/mediatracksettings/displaysurface,null
-web/api/mediatracksettings/echocancellation,null
-web/api/mediatracksettings/facingmode,null
-web/api/mediatracksettings/framerate,null
-web/api/mediatracksettings/groupid,null
-web/api/mediatracksettings/height,null
-web/api/mediatracksettings/latency,null
-web/api/mediatracksettings/logicalsurface,null
-web/api/mediatracksettings/noisesuppression,null
-web/api/mediatracksettings/restrictownaudio,null
-web/api/mediatracksettings/samplerate,null
-web/api/mediatracksettings/samplesize,null
-web/api/mediatracksettings/screenpixelratio,null
-web/api/mediatracksettings/suppresslocalaudioplayback,null
-web/api/mediatracksettings/volume,null
-web/api/mediatracksettings/width,null
 web/api/merchantvalidationevent,null
 web/api/merchantvalidationevent/complete,null
 web/api/merchantvalidationevent/merchantvalidationevent,null
@@ -7741,10 +7719,10 @@ web/api/screen/orientationchange_event,1
 web/api/screen/pixeldepth,2
 web/api/screen/unlockorientation,2
 web/api/screen/width,1
-web/api/screen_capture_api,7
+web/api/screen_capture_api,8
 web/api/screen_capture_api/captured_surface_control,null
 web/api/screen_capture_api/element_region_capture,null
-web/api/screen_capture_api/using_screen_capture,7
+web/api/screen_capture_api/using_screen_capture,8
 web/api/screen_orientation_api,0
 web/api/screen_wake_lock_api,3
 web/api/screendetailed,null
@@ -10887,7 +10865,7 @@ web/css/reference/properties/column-fill,1
 web/css/reference/properties/column-gap,5
 web/css/reference/properties/column-height,5
 web/css/reference/properties/column-rule,3
-web/css/reference/properties/column-rule-break,2
+web/css/reference/properties/column-rule-break,3
 web/css/reference/properties/column-rule-color,3
 web/css/reference/properties/column-rule-inset-cap,null
 web/css/reference/properties/column-rule-inset-cap-end,null
@@ -10896,7 +10874,7 @@ web/css/reference/properties/column-rule-inset-junction,null
 web/css/reference/properties/column-rule-inset-junction-end,null
 web/css/reference/properties/column-rule-style,2
 web/css/reference/properties/column-rule-visibility-items,1
-web/css/reference/properties/column-rule-width,1
+web/css/reference/properties/column-rule-width,2
 web/css/reference/properties/column-span,1
 web/css/reference/properties/column-width,2
 web/css/reference/properties/column-wrap,3
@@ -11158,7 +11136,7 @@ web/css/reference/properties/right,1
 web/css/reference/properties/rotate,2
 web/css/reference/properties/row-gap,4
 web/css/reference/properties/row-rule,4
-web/css/reference/properties/row-rule-break,3
+web/css/reference/properties/row-rule-break,4
 web/css/reference/properties/row-rule-color,3
 web/css/reference/properties/row-rule-inset-cap,null
 web/css/reference/properties/row-rule-inset-cap-end,null
@@ -11171,7 +11149,7 @@ web/css/reference/properties/ruby-align,1
 web/css/reference/properties/ruby-overhang,0
 web/css/reference/properties/ruby-position,2
 web/css/reference/properties/rule,2
-web/css/reference/properties/rule-break,2
+web/css/reference/properties/rule-break,3
 web/css/reference/properties/rule-color,2
 web/css/reference/properties/rule-inset-cap,null
 web/css/reference/properties/rule-inset-junction,null
@@ -12502,7 +12480,7 @@ web/javascript/reference/global_objects/aggregateerror,0
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,1
 web/javascript/reference/global_objects/aggregateerror/errors,0
 web/javascript/reference/global_objects/array,0
-web/javascript/reference/global_objects/array/array,0
+web/javascript/reference/global_objects/array/array,1
 web/javascript/reference/global_objects/array/at,1
 web/javascript/reference/global_objects/array/concat,0
 web/javascript/reference/global_objects/array/copywithin,1
@@ -12718,7 +12696,7 @@ web/javascript/reference/global_objects/error/stack,0
 web/javascript/reference/global_objects/error/stacktracelimit,0
 web/javascript/reference/global_objects/error/tostring,0
 web/javascript/reference/global_objects/escape,1
-web/javascript/reference/global_objects/eval,4
+web/javascript/reference/global_objects/eval,5
 web/javascript/reference/global_objects/evalerror,0
 web/javascript/reference/global_objects/evalerror/evalerror,0
 web/javascript/reference/global_objects/finalizationregistry,0
@@ -12738,7 +12716,7 @@ web/javascript/reference/global_objects/function/bind,1
 web/javascript/reference/global_objects/function/call,0
 web/javascript/reference/global_objects/function/caller,3
 web/javascript/reference/global_objects/function/displayname,0
-web/javascript/reference/global_objects/function/function,3
+web/javascript/reference/global_objects/function/function,4
 web/javascript/reference/global_objects/function/length,0
 web/javascript/reference/global_objects/function/name,0
 web/javascript/reference/global_objects/function/prototype,0
@@ -12980,7 +12958,7 @@ web/javascript/reference/global_objects/object/getownpropertynames,0
 web/javascript/reference/global_objects/object/getownpropertysymbols,0
 web/javascript/reference/global_objects/object/getprototypeof,0
 web/javascript/reference/global_objects/object/groupby,0
-web/javascript/reference/global_objects/object/hasown,0
+web/javascript/reference/global_objects/object/hasown,1
 web/javascript/reference/global_objects/object/hasownproperty,0
 web/javascript/reference/global_objects/object/is,0
 web/javascript/reference/global_objects/object/isextensible,0
@@ -13513,7 +13491,7 @@ web/javascript/reference/global_objects/weakset/has,0
 web/javascript/reference/global_objects/weakset/weakset,0
 web/javascript/reference/iteration_protocols,1
 web/javascript/reference/javascript_technologies_overview,1
-web/javascript/reference/lexical_grammar,2
+web/javascript/reference/lexical_grammar,3
 web/javascript/reference/magic_comments,null
 web/javascript/reference/operators,0
 web/javascript/reference/operators/addition,2
