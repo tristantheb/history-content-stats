@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,674fbb492c76a45adf433810
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,674fbb492c76a45adf433810f0f5737a0405bd9c,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,d385d44658236ce148462b7ad6b681f0918427d4,Mozilla|Firefox
+mozilla/firefox/experimental_features,7b642841e72ef94e8723f26892000383513b550d,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1968,7 +1968,7 @@ mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff,Mozilla|Fi
 mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
 mozilla/firefox/releases/156,beede695ee6e0cceaabc3e678eb75a148d77a81e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,892eb917bee599a9d6cae7d33ed783129dbb39b3,Mozilla|Firefox|Versions
-mozilla/firefox/releases/158,d385d44658236ce148462b7ad6b681f0918427d4,Mozilla|Firefox|Versions
+mozilla/firefox/releases/158,7b642841e72ef94e8723f26892000383513b550d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/159,91c6fa25d660ab9d0f8b60b19b103518cc3c1603,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -11691,7 +11691,7 @@ web/html/reference/attributes/max,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|
 web/html/reference/attributes/maxlength,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/min,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/minlength,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
-web/html/reference/attributes/multiple,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
+web/html/reference/attributes/multiple,fd0b11ad5b5014a9333578adcc4bc98fb9024da3,HTML|Attributes
 web/html/reference/attributes/pattern,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/placeholder,c9f3d85f24d7839c9fe36a68d8042d088d906147,HTML|Attributes
 web/html/reference/attributes/readonly,c9f3d85f24d7839c9fe36a68d8042d088d906147,HTML|Attributes
@@ -11843,7 +11843,7 @@ web/html/reference/elements/script/type/importmap,bf5017c389132af39b50106cf1763f
 web/html/reference/elements/script/type/speculationrules,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTML|Elements
 web/html/reference/elements/search,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/section,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/select,b341b02b03d57a48ecffee60ddea21e9995a272b,HTML|Elements
+web/html/reference/elements/select,fd0b11ad5b5014a9333578adcc4bc98fb9024da3,HTML|Elements
 web/html/reference/elements/selectedcontent,513146a616213fee548fdcf72dc1359030eb3395,HTML|Elements
 web/html/reference/elements/slot,8dd50fa9cb734907685508144376dbdd28f98be6,HTML|Elements
 web/html/reference/elements/small,87adaa5384b1015690f3435ce0ba64ac097764eb,HTML|Elements
@@ -11922,7 +11922,7 @@ web/http/guides/compression_dictionary_transport,57d3803b2ba01a8ac6cf51e796d6871
 web/http/guides/conditional_requests,56f3d7018159127dbe92842413fb45d0aa7e8193,HTTP|Guides
 web/http/guides/connection_management_in_http_1.x,f0311fa176576faf8be270e23eaf25b725740d87,HTTP|Guides
 web/http/guides/content_negotiation,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Guides
-web/http/guides/content_negotiation/list_of_default_accept_values,886f2641ae90a70858c5e7d0d20959c70ee44d9d,HTTP|Guides
+web/http/guides/content_negotiation/list_of_default_accept_values,7b642841e72ef94e8723f26892000383513b550d,HTTP|Guides
 web/http/guides/cookies,13ef67a4ffbdb929415dfa1b3d65ab1aa9ebe5da,HTTP|Guides
 web/http/guides/cors,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,HTTP|Guides
 web/http/guides/cors/errors,92396cf8979e107c3ac42c2b9fc382013ea1c234,HTTP|Guides
@@ -13709,7 +13709,7 @@ web/media/guides/formats/audio_concepts,26e46f8c13ebea65dc65a6e99e51e8fa4d5d619d
 web/media/guides/formats/codecs_parameter,517b6108edc9a1eae8723f7f3ae434c1724d89ac,Media|Guides
 web/media/guides/formats/configuring_servers_for_ogg_media,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Media|Guides
 web/media/guides/formats/containers,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,Media|Guides
-web/media/guides/formats/image_types,2e0b9415ed31484a4830e214eff9e06e408c7261,Media|Guides
+web/media/guides/formats/image_types,7b642841e72ef94e8723f26892000383513b550d,Media|Guides
 web/media/guides/formats/support_issues,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
 web/media/guides/formats/video_codecs,64d995ef99a84226348832ed398e9edc7809e53e,Media|Guides
 web/media/guides/formats/video_concepts,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
