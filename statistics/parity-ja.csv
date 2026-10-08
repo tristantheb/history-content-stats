@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,10
 mozilla/firefox,0
-mozilla/firefox/experimental_features,9
+mozilla/firefox/experimental_features,11
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -11691,7 +11691,7 @@ web/html/reference/attributes/max,0
 web/html/reference/attributes/maxlength,0
 web/html/reference/attributes/min,0
 web/html/reference/attributes/minlength,0
-web/html/reference/attributes/multiple,0
+web/html/reference/attributes/multiple,1
 web/html/reference/attributes/pattern,0
 web/html/reference/attributes/placeholder,0
 web/html/reference/attributes/readonly,0
@@ -11843,7 +11843,7 @@ web/html/reference/elements/script/type/importmap,0
 web/html/reference/elements/script/type/speculationrules,1
 web/html/reference/elements/search,0
 web/html/reference/elements/section,1
-web/html/reference/elements/select,0
+web/html/reference/elements/select,1
 web/html/reference/elements/selectedcontent,0
 web/html/reference/elements/slot,1
 web/html/reference/elements/small,1
@@ -11922,7 +11922,7 @@ web/http/guides/compression_dictionary_transport,5
 web/http/guides/conditional_requests,1
 web/http/guides/connection_management_in_http_1.x,2
 web/http/guides/content_negotiation,1
-web/http/guides/content_negotiation/list_of_default_accept_values,1
+web/http/guides/content_negotiation/list_of_default_accept_values,2
 web/http/guides/cookies,5
 web/http/guides/cors,1
 web/http/guides/cors/errors,1
@@ -13709,7 +13709,7 @@ web/media/guides/formats/audio_concepts,null
 web/media/guides/formats/codecs_parameter,null
 web/media/guides/formats/configuring_servers_for_ogg_media,null
 web/media/guides/formats/containers,9
-web/media/guides/formats/image_types,4
+web/media/guides/formats/image_types,5
 web/media/guides/formats/support_issues,null
 web/media/guides/formats/video_codecs,13
 web/media/guides/formats/video_concepts,null

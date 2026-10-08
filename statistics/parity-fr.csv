@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,6
 mozilla/firefox,0
-mozilla/firefox/experimental_features,2
+mozilla/firefox/experimental_features,4
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -10066,12 +10066,12 @@ web/api/writablestreamdefaultwriter/writablestreamdefaultwriter,null
 web/api/writablestreamdefaultwriter/write,null
 web/api/xmldocument,null
 web/api/xmlhttprequest,0
-web/api/xmlhttprequest/abort,null
-web/api/xmlhttprequest/getallresponseheaders,null
-web/api/xmlhttprequest/getresponseheader,null
-web/api/xmlhttprequest/open,null
-web/api/xmlhttprequest/overridemimetype,null
-web/api/xmlhttprequest/readystate,null
+web/api/xmlhttprequest/abort,0
+web/api/xmlhttprequest/getallresponseheaders,0
+web/api/xmlhttprequest/getresponseheader,0
+web/api/xmlhttprequest/open,0
+web/api/xmlhttprequest/overridemimetype,0
+web/api/xmlhttprequest/readystate,0
 web/api/xmlhttprequest/readystatechange_event,null
 web/api/xmlhttprequest/response,null
 web/api/xmlhttprequest/responsetext,null
@@ -11691,7 +11691,7 @@ web/html/reference/attributes/max,0
 web/html/reference/attributes/maxlength,0
 web/html/reference/attributes/min,0
 web/html/reference/attributes/minlength,0
-web/html/reference/attributes/multiple,0
+web/html/reference/attributes/multiple,1
 web/html/reference/attributes/pattern,0
 web/html/reference/attributes/placeholder,0
 web/html/reference/attributes/readonly,0
@@ -11843,7 +11843,7 @@ web/html/reference/elements/script/type/importmap,0
 web/html/reference/elements/script/type/speculationrules,0
 web/html/reference/elements/search,0
 web/html/reference/elements/section,0
-web/html/reference/elements/select,1
+web/html/reference/elements/select,2
 web/html/reference/elements/selectedcontent,0
 web/html/reference/elements/slot,0
 web/html/reference/elements/small,0
@@ -11922,7 +11922,7 @@ web/http/guides/compression_dictionary_transport,1
 web/http/guides/conditional_requests,0
 web/http/guides/connection_management_in_http_1.x,1
 web/http/guides/content_negotiation,0
-web/http/guides/content_negotiation/list_of_default_accept_values,0
+web/http/guides/content_negotiation/list_of_default_accept_values,1
 web/http/guides/cookies,1
 web/http/guides/cors,0
 web/http/guides/cors/errors,null

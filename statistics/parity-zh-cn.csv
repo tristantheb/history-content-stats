@@ -11691,7 +11691,7 @@ web/html/reference/attributes/max,6
 web/html/reference/attributes/maxlength,5
 web/html/reference/attributes/min,5
 web/html/reference/attributes/minlength,5
-web/html/reference/attributes/multiple,4
+web/html/reference/attributes/multiple,5
 web/html/reference/attributes/pattern,null
 web/html/reference/attributes/placeholder,6
 web/html/reference/attributes/readonly,5
@@ -11922,7 +11922,7 @@ web/http/guides/compression_dictionary_transport,null
 web/http/guides/conditional_requests,null
 web/http/guides/connection_management_in_http_1.x,null
 web/http/guides/content_negotiation,null
-web/http/guides/content_negotiation/list_of_default_accept_values,4
+web/http/guides/content_negotiation/list_of_default_accept_values,5
 web/http/guides/cookies,null
 web/http/guides/cors,13
 web/http/guides/cors/errors,null
