@@ -2117,7 +2117,7 @@ web/accessibility/aria/reference/attributes/aria-autocomplete,4
 web/accessibility/aria/reference/attributes/aria-braillelabel,2
 web/accessibility/aria/reference/attributes/aria-brailleroledescription,3
 web/accessibility/aria/reference/attributes/aria-busy,4
-web/accessibility/aria/reference/attributes/aria-checked,4
+web/accessibility/aria/reference/attributes/aria-checked,5
 web/accessibility/aria/reference/attributes/aria-colcount,2
 web/accessibility/aria/reference/attributes/aria-colindex,2
 web/accessibility/aria/reference/attributes/aria-colindextext,2
@@ -2204,20 +2204,20 @@ web/accessibility/aria/reference/roles/main_role,null
 web/accessibility/aria/reference/roles/mark_role,0
 web/accessibility/aria/reference/roles/marquee_role,0
 web/accessibility/aria/reference/roles/math_role,0
-web/accessibility/aria/reference/roles/menu_role,1
+web/accessibility/aria/reference/roles/menu_role,2
 web/accessibility/aria/reference/roles/menubar_role,1
 web/accessibility/aria/reference/roles/menuitem_role,0
 web/accessibility/aria/reference/roles/menuitemcheckbox_role,5
-web/accessibility/aria/reference/roles/menuitemradio_role,7
+web/accessibility/aria/reference/roles/menuitemradio_role,8
 web/accessibility/aria/reference/roles/meter_role,1
-web/accessibility/aria/reference/roles/navigation_role,0
+web/accessibility/aria/reference/roles/navigation_role,1
 web/accessibility/aria/reference/roles/none_role,2
 web/accessibility/aria/reference/roles/note_role,null
 web/accessibility/aria/reference/roles/option_role,1
 web/accessibility/aria/reference/roles/presentation_role,0
 web/accessibility/aria/reference/roles/progressbar_role,null
 web/accessibility/aria/reference/roles/radio_role,8
-web/accessibility/aria/reference/roles/radiogroup_role,3
+web/accessibility/aria/reference/roles/radiogroup_role,4
 web/accessibility/aria/reference/roles/range_role,0
 web/accessibility/aria/reference/roles/region_role,0
 web/accessibility/aria/reference/roles/roletype_role,0
@@ -2257,7 +2257,7 @@ web/accessibility/guides/accessibility_and_spatial_patterns,0
 web/accessibility/guides/accessible_web_applications_and_widgets,0
 web/accessibility/guides/browsing_safely,0
 web/accessibility/guides/cognitive_accessibility,1
-web/accessibility/guides/colors_and_luminance,1
+web/accessibility/guides/colors_and_luminance,2
 web/accessibility/guides/information_for_web_authors,1
 web/accessibility/guides/keyboard-navigable_javascript_widgets,0
 web/accessibility/guides/mobile_accessibility_checklist,0
@@ -2748,7 +2748,7 @@ web/api/canvas_api,8
 web/api/canvas_api/manipulating_video_using_canvas,6
 web/api/canvas_api/tutorial,0
 web/api/canvas_api/tutorial/advanced_animations,1
-web/api/canvas_api/tutorial/applying_styles_and_colors,2
+web/api/canvas_api/tutorial/applying_styles_and_colors,3
 web/api/canvas_api/tutorial/basic_animations,0
 web/api/canvas_api/tutorial/basic_usage,0
 web/api/canvas_api/tutorial/compositing,1
@@ -4720,7 +4720,7 @@ web/api/highlight/type,2
 web/api/highlight/values,3
 web/api/highlightregistry,5
 web/api/highlightregistry/clear,1
-web/api/highlightregistry/delete,0
+web/api/highlightregistry/delete,1
 web/api/highlightregistry/entries,1
 web/api/highlightregistry/foreach,2
 web/api/highlightregistry/get,0
@@ -5595,7 +5595,7 @@ web/api/idbrequest/readystate,7
 web/api/idbrequest/result,7
 web/api/idbrequest/source,4
 web/api/idbrequest/success_event,null
-web/api/idbrequest/transaction,6
+web/api/idbrequest/transaction,7
 web/api/idbtransaction,null
 web/api/idbtransaction/abort,2
 web/api/idbtransaction/abort_event,5
@@ -5894,7 +5894,7 @@ web/api/media_capture_and_streams_api/taking_still_photos,1
 web/api/media_session_api,5
 web/api/media_source_extensions_api,7
 web/api/media_source_extensions_api/dash_adaptive_streaming,null
-web/api/media_source_extensions_api/transcoding_assets_for_mse,4
+web/api/media_source_extensions_api/transcoding_assets_for_mse,5
 web/api/mediacapabilities,1
 web/api/mediacapabilities/decodinginfo,12
 web/api/mediacapabilities/encodinginfo,7
@@ -6615,7 +6615,7 @@ web/api/paintsize/height,null
 web/api/paintsize/width,null
 web/api/paintworkletglobalscope,4
 web/api/paintworkletglobalscope/devicepixelratio,0
-web/api/paintworkletglobalscope/registerpaint,5
+web/api/paintworkletglobalscope/registerpaint,6
 web/api/pannernode,2
 web/api/pannernode/coneinnerangle,1
 web/api/pannernode/coneouterangle,1
@@ -9806,7 +9806,7 @@ web/api/window/beforeinstallprompt_event,1
 web/api/window/beforeprint_event,1
 web/api/window/beforeunload_event,0
 web/api/window/blur,null
-web/api/window/blur_event,3
+web/api/window/blur_event,4
 web/api/window/btoa,0
 web/api/window/caches,1
 web/api/window/cancelanimationframe,8
@@ -10382,7 +10382,7 @@ web/api/xrwebglsubimage/colortextureheight,null
 web/api/xrwebglsubimage/colortexturewidth,null
 web/api/xrwebglsubimage/depthstenciltexture,null
 web/api/xrwebglsubimage/imageindex,null
-web/api/xsltprocessor,10
+web/api/xsltprocessor,11
 web/api/xsltprocessor/clearparameters,2
 web/api/xsltprocessor/getparameter,2
 web/api/xsltprocessor/importstylesheet,3
@@ -11973,7 +11973,7 @@ web/http/guides/messages,2
 web/http/guides/mime_types,5
 web/http/guides/mime_types/common_types,5
 web/http/guides/network_error_logging,1
-web/http/guides/overview,3
+web/http/guides/overview,4
 web/http/guides/permissions_policy,3
 web/http/guides/protocol_upgrade_mechanism,1
 web/http/guides/proxy_servers_and_tunneling,1
