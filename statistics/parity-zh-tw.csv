@@ -1064,7 +1064,7 @@ mdn/writing_guidelines/howto/document_web_errors,null
 mdn/writing_guidelines/howto/images_media,null
 mdn/writing_guidelines/howto/json_structured_data,2
 mdn/writing_guidelines/howto/markdown_in_mdn,null
-mdn/writing_guidelines/howto/research_technology,2
+mdn/writing_guidelines/howto/research_technology,3
 mdn/writing_guidelines/howto/retiring_content,null
 mdn/writing_guidelines/howto/retiring_content/retired_content,null
 mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,null
@@ -1123,7 +1123,8 @@ mdn/writing_guidelines/writing_style_guide,null
 mozilla,null
 mozilla/add-ons,null
 mozilla/add-ons/contact_us,null
-mozilla/add-ons/webextensions,3
+mozilla/add-ons/webextensions,4
+mozilla/add-ons/webextensions/activetab_permission,null
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,null
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,null
 mozilla/add-ons/webextensions/api,null

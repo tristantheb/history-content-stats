@@ -879,7 +879,7 @@ learn_web_development/extensions/forms/advanced_form_styling,null
 learn_web_development/extensions/forms/basic_native_form_controls,null
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
-learn_web_development/extensions/forms/form_validation,2
+learn_web_development/extensions/forms/form_validation,3
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,4
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,null
@@ -958,7 +958,7 @@ learn_web_development/extensions/server-side/express_nodejs/tutorial_local_libra
 learn_web_development/extensions/server-side/first_steps,null
 learn_web_development/extensions/server-side/first_steps/client-server_overview,1
 learn_web_development/extensions/server-side/first_steps/introduction,1
-learn_web_development/extensions/server-side/first_steps/web_frameworks,4
+learn_web_development/extensions/server-side/first_steps/web_frameworks,5
 learn_web_development/extensions/server-side/first_steps/website_security,null
 learn_web_development/extensions/server-side/node_server_without_framework,null
 learn_web_development/extensions/testing,null
@@ -1064,7 +1064,7 @@ mdn/writing_guidelines/howto/document_web_errors,0
 mdn/writing_guidelines/howto/images_media,2
 mdn/writing_guidelines/howto/json_structured_data,0
 mdn/writing_guidelines/howto/markdown_in_mdn,0
-mdn/writing_guidelines/howto/research_technology,0
+mdn/writing_guidelines/howto/research_technology,1
 mdn/writing_guidelines/howto/retiring_content,0
 mdn/writing_guidelines/howto/retiring_content/retired_content,1
 mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,1
@@ -1085,16 +1085,16 @@ mdn/writing_guidelines/page_structures/macros/other,0
 mdn/writing_guidelines/page_structures/page_types,2
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,1
-mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,1
+mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,2
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,1
-mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,1
-mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,2
+mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,2
+mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,3
 mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,1
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_property_page_template,4
-mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,1
-mdn/writing_guidelines/page_structures/page_types/glossary_page_template,0
+mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,2
+mdn/writing_guidelines/page_structures/page_types/glossary_page_template,1
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,1
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,1
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,1
@@ -1124,6 +1124,7 @@ mozilla,null
 mozilla/add-ons,null
 mozilla/add-ons/contact_us,null
 mozilla/add-ons/webextensions,null
+mozilla/add-ons/webextensions/activetab_permission,null
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,null
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,null
 mozilla/add-ons/webextensions/api,null
@@ -1894,7 +1895,7 @@ mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
-mozilla/add-ons/webextensions/your_second_webextension,5
+mozilla/add-ons/webextensions/your_second_webextension,6
 mozilla/firefox,null
 mozilla/firefox/experimental_features,null
 mozilla/firefox/releases,null

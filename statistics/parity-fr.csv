@@ -67,7 +67,7 @@ glossary/abstraction,0
 glossary/accent,0
 glossary/accessibility,0
 glossary/accessibility_tree,0
-glossary/accessible_description,0
+glossary/accessible_description,1
 glossary/accessible_name,0
 glossary/adobe_flash,0
 glossary/advance_measure,0
@@ -86,7 +86,7 @@ glossary/arpa,0
 glossary/arpanet,0
 glossary/array,0
 glossary/ascii,0
-glossary/aspect_ratio,1
+glossary/aspect_ratio,2
 glossary/asynchronous,0
 glossary/atag,0
 glossary/attribute,0
@@ -321,7 +321,7 @@ glossary/http,0
 glossary/http_2,0
 glossary/http_3,0
 glossary/http_content,0
-glossary/http_header,0
+glossary/http_header,1
 glossary/https,0
 glossary/https_rr,0
 glossary/hyperlink,0
@@ -1064,7 +1064,7 @@ mdn/writing_guidelines/howto/document_web_errors,0
 mdn/writing_guidelines/howto/images_media,0
 mdn/writing_guidelines/howto/json_structured_data,0
 mdn/writing_guidelines/howto/markdown_in_mdn,0
-mdn/writing_guidelines/howto/research_technology,0
+mdn/writing_guidelines/howto/research_technology,1
 mdn/writing_guidelines/howto/retiring_content,0
 mdn/writing_guidelines/howto/retiring_content/retired_content,0
 mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,0
@@ -1085,16 +1085,16 @@ mdn/writing_guidelines/page_structures/macros/other,0
 mdn/writing_guidelines/page_structures/page_types,0
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,0
-mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,0
+mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,1
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,0
-mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,0
-mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,0
+mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,1
+mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,1
 mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_property_page_template,0
-mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,0
-mdn/writing_guidelines/page_structures/page_types/glossary_page_template,0
+mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,1
+mdn/writing_guidelines/page_structures/page_types/glossary_page_template,1
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_element_page_template,0
 mdn/writing_guidelines/page_structures/page_types/http_header_page_template,0
@@ -1123,7 +1123,8 @@ mdn/writing_guidelines/writing_style_guide,0
 mozilla,0
 mozilla/add-ons,0
 mozilla/add-ons/contact_us,0
-mozilla/add-ons/webextensions,0
+mozilla/add-ons/webextensions,1
+mozilla/add-ons/webextensions/activetab_permission,null
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,null
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,null
 mozilla/add-ons/webextensions/api,null
@@ -1858,7 +1859,7 @@ mozilla/add-ons/webextensions/manifest.json/sandbox,null
 mozilla/add-ons/webextensions/manifest.json/short_name,null
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,null
 mozilla/add-ons/webextensions/manifest.json/storage,null
-mozilla/add-ons/webextensions/manifest.json/theme,0
+mozilla/add-ons/webextensions/manifest.json/theme,1
 mozilla/add-ons/webextensions/manifest.json/theme_experiment,null
 mozilla/add-ons/webextensions/manifest.json/user_scripts,null
 mozilla/add-ons/webextensions/manifest.json/version,null
@@ -1894,7 +1895,7 @@ mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
-mozilla/add-ons/webextensions/your_second_webextension,5
+mozilla/add-ons/webextensions/your_second_webextension,6
 mozilla/firefox,0
 mozilla/firefox/experimental_features,2
 mozilla/firefox/releases,0
@@ -1951,7 +1952,7 @@ mozilla/firefox/releases/14,0
 mozilla/firefox/releases/140,null
 mozilla/firefox/releases/141,null
 mozilla/firefox/releases/142,null
-mozilla/firefox/releases/143,0
+mozilla/firefox/releases/143,1
 mozilla/firefox/releases/144,0
 mozilla/firefox/releases/145,0
 mozilla/firefox/releases/146,0
@@ -2257,7 +2258,7 @@ web/accessibility/guides/accessibility_and_spatial_patterns,0
 web/accessibility/guides/accessible_web_applications_and_widgets,0
 web/accessibility/guides/browsing_safely,0
 web/accessibility/guides/cognitive_accessibility,0
-web/accessibility/guides/colors_and_luminance,1
+web/accessibility/guides/colors_and_luminance,2
 web/accessibility/guides/information_for_web_authors,0
 web/accessibility/guides/keyboard-navigable_javascript_widgets,0
 web/accessibility/guides/mobile_accessibility_checklist,0
@@ -4866,7 +4867,7 @@ web/api/htmldatalistelement/options,0
 web/api/htmldetailselement,0
 web/api/htmldetailselement/name,0
 web/api/htmldetailselement/open,0
-web/api/htmldialogelement,0
+web/api/htmldialogelement,1
 web/api/htmldialogelement/cancel_event,0
 web/api/htmldialogelement/close,0
 web/api/htmldialogelement/close_event,0
@@ -10417,7 +10418,7 @@ web/css/guides/colors/color_format_converter,0
 web/css/guides/colors/color_mixer,0
 web/css/guides/colors/color_values,1
 web/css/guides/colors/using_color_wisely,0
-web/css/guides/colors/using_relative_colors,0
+web/css/guides/colors/using_relative_colors,1
 web/css/guides/compositing_and_blending,0
 web/css/guides/conditional_rules,0
 web/css/guides/conditional_rules/container_scroll-state_queries,0
@@ -10468,7 +10469,7 @@ web/css/guides/gaps/defining_gaps,null
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,0
 web/css/guides/grid_layout/accessibility,0
-web/css/guides/grid_layout/auto-placement,0
+web/css/guides/grid_layout/auto-placement,1
 web/css/guides/grid_layout/basic_concepts,0
 web/css/guides/grid_layout/box_alignment,0
 web/css/guides/grid_layout/common_grid_layouts,0
@@ -11499,7 +11500,7 @@ web/css/reference/values/clamp,0
 web/css/reference/values/color-interpolation-method,0
 web/css/reference/values/color_value,0
 web/css/reference/values/color_value/alpha,0
-web/css/reference/values/color_value/color,0
+web/css/reference/values/color_value/color,1
 web/css/reference/values/color_value/color-mix,1
 web/css/reference/values/color_value/contrast-color,0
 web/css/reference/values/color_value/device-cmyk,0
@@ -11535,7 +11536,7 @@ web/css/reference/values/easing-function/cubic-bezier,0
 web/css/reference/values/easing-function/linear,0
 web/css/reference/values/easing-function/steps,1
 web/css/reference/values/element,0
-web/css/reference/values/env,1
+web/css/reference/values/env,2
 web/css/reference/values/exp,0
 web/css/reference/values/filter-function,0
 web/css/reference/values/filter-function/blur,0
@@ -11991,7 +11992,7 @@ web/http/reference/headers/available-dictionary,0
 web/http/reference/headers/cache-control,0
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
-web/http/reference/headers/content-digest,1
+web/http/reference/headers/content-digest,2
 web/http/reference/headers/content-disposition,0
 web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
@@ -12131,10 +12132,10 @@ web/http/reference/headers/proxy-authorization,0
 web/http/reference/headers/range,0
 web/http/reference/headers/referer,0
 web/http/reference/headers/referrer-policy,0
-web/http/reference/headers/refresh,0
+web/http/reference/headers/refresh,1
 web/http/reference/headers/report-to,0
 web/http/reference/headers/reporting-endpoints,0
-web/http/reference/headers/repr-digest,1
+web/http/reference/headers/repr-digest,2
 web/http/reference/headers/retry-after,0
 web/http/reference/headers/rtt,0
 web/http/reference/headers/save-data,0
@@ -13801,9 +13802,9 @@ web/progressive_web_apps/manifest/reference/theme_color,null
 web/progressive_web_apps/reference,null
 web/progressive_web_apps/tutorials,4
 web/progressive_web_apps/tutorials/cycletracker,9
-web/progressive_web_apps/tutorials/cycletracker/html_and_css,1
+web/progressive_web_apps/tutorials/cycletracker/html_and_css,2
 web/progressive_web_apps/tutorials/cycletracker/javascript_functionality,14
-web/progressive_web_apps/tutorials/cycletracker/manifest_file,25
+web/progressive_web_apps/tutorials/cycletracker/manifest_file,26
 web/progressive_web_apps/tutorials/cycletracker/secure_connection,16
 web/progressive_web_apps/tutorials/cycletracker/service_workers,null
 web/progressive_web_apps/tutorials/js13kgames,5

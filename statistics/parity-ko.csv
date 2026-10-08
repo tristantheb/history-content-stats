@@ -321,7 +321,7 @@ glossary/http,4
 glossary/http_2,7
 glossary/http_3,4
 glossary/http_content,null
-glossary/http_header,10
+glossary/http_header,11
 glossary/https,4
 glossary/https_rr,5
 glossary/hyperlink,4
@@ -876,7 +876,7 @@ learn_web_development/extensions/client-side_tools/overview,null
 learn_web_development/extensions/client-side_tools/package_management,null
 learn_web_development/extensions/forms,null
 learn_web_development/extensions/forms/advanced_form_styling,null
-learn_web_development/extensions/forms/basic_native_form_controls,15
+learn_web_development/extensions/forms/basic_native_form_controls,16
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
 learn_web_development/extensions/forms/form_validation,null
@@ -1124,6 +1124,7 @@ mozilla,null
 mozilla/add-ons,0
 mozilla/add-ons/contact_us,null
 mozilla/add-ons/webextensions,null
+mozilla/add-ons/webextensions/activetab_permission,null
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,null
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,null
 mozilla/add-ons/webextensions/api,null
@@ -1451,7 +1452,7 @@ mozilla/add-ons/webextensions/api/management/uninstall,null
 mozilla/add-ons/webextensions/api/management/uninstallself,null
 mozilla/add-ons/webextensions/api/menus,null
 mozilla/add-ons/webextensions/api/menus/action_menu_top_level_limit,null
-mozilla/add-ons/webextensions/api/menus/contexttype,8
+mozilla/add-ons/webextensions/api/menus/contexttype,9
 mozilla/add-ons/webextensions/api/menus/create,null
 mozilla/add-ons/webextensions/api/menus/gettargetelement,null
 mozilla/add-ons/webextensions/api/menus/itemtype,null
@@ -11535,7 +11536,7 @@ web/css/reference/values/easing-function/cubic-bezier,null
 web/css/reference/values/easing-function/linear,null
 web/css/reference/values/easing-function/steps,null
 web/css/reference/values/element,null
-web/css/reference/values/env,7
+web/css/reference/values/env,8
 web/css/reference/values/exp,null
 web/css/reference/values/filter-function,null
 web/css/reference/values/filter-function/blur,null
