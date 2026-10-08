@@ -2117,7 +2117,7 @@ web/accessibility/aria/reference/attributes/aria-autocomplete,4
 web/accessibility/aria/reference/attributes/aria-braillelabel,2
 web/accessibility/aria/reference/attributes/aria-brailleroledescription,3
 web/accessibility/aria/reference/attributes/aria-busy,4
-web/accessibility/aria/reference/attributes/aria-checked,4
+web/accessibility/aria/reference/attributes/aria-checked,5
 web/accessibility/aria/reference/attributes/aria-colcount,2
 web/accessibility/aria/reference/attributes/aria-colindex,2
 web/accessibility/aria/reference/attributes/aria-colindextext,2
@@ -2257,7 +2257,7 @@ web/accessibility/guides/accessibility_and_spatial_patterns,4
 web/accessibility/guides/accessible_web_applications_and_widgets,3
 web/accessibility/guides/browsing_safely,4
 web/accessibility/guides/cognitive_accessibility,7
-web/accessibility/guides/colors_and_luminance,17
+web/accessibility/guides/colors_and_luminance,18
 web/accessibility/guides/information_for_web_authors,4
 web/accessibility/guides/keyboard-navigable_javascript_widgets,5
 web/accessibility/guides/mobile_accessibility_checklist,6
@@ -11973,7 +11973,7 @@ web/http/guides/messages,null
 web/http/guides/mime_types,null
 web/http/guides/mime_types/common_types,null
 web/http/guides/network_error_logging,null
-web/http/guides/overview,7
+web/http/guides/overview,8
 web/http/guides/permissions_policy,null
 web/http/guides/protocol_upgrade_mechanism,null
 web/http/guides/proxy_servers_and_tunneling,4

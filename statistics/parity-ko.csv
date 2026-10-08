@@ -2748,7 +2748,7 @@ web/api/canvas_api,null
 web/api/canvas_api/manipulating_video_using_canvas,null
 web/api/canvas_api/tutorial,null
 web/api/canvas_api/tutorial/advanced_animations,null
-web/api/canvas_api/tutorial/applying_styles_and_colors,17
+web/api/canvas_api/tutorial/applying_styles_and_colors,18
 web/api/canvas_api/tutorial/basic_animations,null
 web/api/canvas_api/tutorial/basic_usage,null
 web/api/canvas_api/tutorial/compositing,null
@@ -9806,7 +9806,7 @@ web/api/window/beforeinstallprompt_event,null
 web/api/window/beforeprint_event,null
 web/api/window/beforeunload_event,17
 web/api/window/blur,null
-web/api/window/blur_event,6
+web/api/window/blur_event,7
 web/api/window/btoa,6
 web/api/window/caches,1
 web/api/window/cancelanimationframe,null
