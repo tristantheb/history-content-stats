@@ -879,7 +879,7 @@ learn_web_development/extensions/forms/advanced_form_styling,0
 learn_web_development/extensions/forms/basic_native_form_controls,0
 learn_web_development/extensions/forms/customizable_select,0
 learn_web_development/extensions/forms/customizable_select_listboxes,0
-learn_web_development/extensions/forms/form_validation,0
+learn_web_development/extensions/forms/form_validation,1
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,0
@@ -1968,7 +1968,7 @@ mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,0
 mozilla/firefox/releases/157,0
-mozilla/firefox/releases/158,1
+mozilla/firefox/releases/158,0
 mozilla/firefox/releases/159,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -6452,7 +6452,7 @@ web/api/nodelist/item,0
 web/api/nodelist/keys,0
 web/api/nodelist/length,0
 web/api/nodelist/values,0
-web/api/notification,1
+web/api/notification,0
 web/api/notification/actions,0
 web/api/notification/badge,0
 web/api/notification/body,0
@@ -6466,7 +6466,7 @@ web/api/notification/icon,0
 web/api/notification/image,0
 web/api/notification/lang,0
 web/api/notification/maxactions_static,0
-web/api/notification/navigate,1
+web/api/notification/navigate,0
 web/api/notification/notification,0
 web/api/notification/permission_static,0
 web/api/notification/renotify,0
@@ -7464,7 +7464,7 @@ web/api/rtcinboundrtpstreamstats/totalsquaredinterframedelay,0
 web/api/rtcinboundrtpstreamstats/trackidentifier,0
 web/api/rtcinboundrtpstreamstats/transportid,0
 web/api/rtcinboundrtpstreamstats/type,0
-web/api/rtcoutboundrtpstreamstats,1
+web/api/rtcoutboundrtpstreamstats,0
 web/api/rtcoutboundrtpstreamstats/active,0
 web/api/rtcoutboundrtpstreamstats/bytessent,0
 web/api/rtcoutboundrtpstreamstats/codecid,0
@@ -7492,7 +7492,7 @@ web/api/rtcoutboundrtpstreamstats/scalabilitymode,0
 web/api/rtcoutboundrtpstreamstats/ssrc,0
 web/api/rtcoutboundrtpstreamstats/targetbitrate,0
 web/api/rtcoutboundrtpstreamstats/timestamp,0
-web/api/rtcoutboundrtpstreamstats/totalencodedbytestarget,1
+web/api/rtcoutboundrtpstreamstats/totalencodedbytestarget,0
 web/api/rtcoutboundrtpstreamstats/totalencodetime,0
 web/api/rtcoutboundrtpstreamstats/totalpacketsenddelay,0
 web/api/rtcoutboundrtpstreamstats/transportid,0
@@ -11598,7 +11598,7 @@ web/css/reference/values/position-area_value,0
 web/css/reference/values/position_value,0
 web/css/reference/values/pow,0
 web/css/reference/values/progress,0
-web/css/reference/values/random,1
+web/css/reference/values/random,0
 web/css/reference/values/ratio,0
 web/css/reference/values/ray,0
 web/css/reference/values/relative-size,0

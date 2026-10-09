@@ -879,7 +879,7 @@ learn_web_development/extensions/forms/advanced_form_styling,4
 learn_web_development/extensions/forms/basic_native_form_controls,6
 learn_web_development/extensions/forms/customizable_select,2
 learn_web_development/extensions/forms/customizable_select_listboxes,1
-learn_web_development/extensions/forms/form_validation,4
+learn_web_development/extensions/forms/form_validation,5
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,4
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,0
@@ -10712,7 +10712,7 @@ web/css/reference/properties/-moz-user-focus,3
 web/css/reference/properties/-moz-user-input,3
 web/css/reference/properties/-webkit-border-before,2
 web/css/reference/properties/-webkit-box-reflect,1
-web/css/reference/properties/-webkit-mask-box-image,null
+web/css/reference/properties/-webkit-mask-box-image,0
 web/css/reference/properties/-webkit-mask-composite,1
 web/css/reference/properties/-webkit-mask-position-x,2
 web/css/reference/properties/-webkit-mask-position-y,2
@@ -10918,7 +10918,7 @@ web/css/reference/properties/d,1
 web/css/reference/properties/direction,2
 web/css/reference/properties/display,3
 web/css/reference/properties/dominant-baseline,2
-web/css/reference/properties/dynamic-range-limit,null
+web/css/reference/properties/dynamic-range-limit,0
 web/css/reference/properties/empty-cells,2
 web/css/reference/properties/field-sizing,3
 web/css/reference/properties/fill,0
@@ -10930,7 +10930,7 @@ web/css/reference/properties/flex-basis,2
 web/css/reference/properties/flex-direction,2
 web/css/reference/properties/flex-flow,0
 web/css/reference/properties/flex-grow,4
-web/css/reference/properties/flex-line-count,null
+web/css/reference/properties/flex-line-count,1
 web/css/reference/properties/flex-shrink,0
 web/css/reference/properties/flex-wrap,3
 web/css/reference/properties/float,2
@@ -10966,7 +10966,7 @@ web/css/reference/properties/font-variation-settings,0
 web/css/reference/properties/font-weight,0
 web/css/reference/properties/font-width,0
 web/css/reference/properties/forced-color-adjust,3
-web/css/reference/properties/frame-sizing,null
+web/css/reference/properties/frame-sizing,0
 web/css/reference/properties/gap,2
 web/css/reference/properties/grid,3
 web/css/reference/properties/grid-area,2
@@ -11016,7 +11016,7 @@ web/css/reference/properties/line-break,2
 web/css/reference/properties/line-clamp,3
 web/css/reference/properties/line-height,2
 web/css/reference/properties/line-height-step,1
-web/css/reference/properties/link-parameters,null
+web/css/reference/properties/link-parameters,0
 web/css/reference/properties/list-style,3
 web/css/reference/properties/list-style-image,3
 web/css/reference/properties/list-style-position,2
@@ -12353,7 +12353,7 @@ web/javascript/reference/errors/bigint_negative_exponent,1
 web/javascript/reference/errors/bigint_not_serializable,null
 web/javascript/reference/errors/builtin_ctor_no_new,null
 web/javascript/reference/errors/called_on_incompatible_type,null
-web/javascript/reference/errors/cant_access_lexical_declaration_before_init,null
+web/javascript/reference/errors/cant_access_lexical_declaration_before_init,0
 web/javascript/reference/errors/cant_assign_to_property,null
 web/javascript/reference/errors/cant_be_converted_to_bigint_because_it_isnt_an_integer,null
 web/javascript/reference/errors/cant_convert_bigint_to_number,null
@@ -12371,7 +12371,7 @@ web/javascript/reference/errors/cyclic_prototype,null
 web/javascript/reference/errors/delete_in_strict_mode,null
 web/javascript/reference/errors/deprecated_caller_or_arguments_usage,null
 web/javascript/reference/errors/deprecated_octal_escape_sequence,0
-web/javascript/reference/errors/deprecated_octal_literal,null
+web/javascript/reference/errors/deprecated_octal_literal,0
 web/javascript/reference/errors/deprecated_source_map_pragma,null
 web/javascript/reference/errors/duplicate_parameter,null
 web/javascript/reference/errors/duplicate_proto,null
@@ -12390,7 +12390,7 @@ web/javascript/reference/errors/invalid_array_length,0
 web/javascript/reference/errors/invalid_assignment_left-hand_side,1
 web/javascript/reference/errors/invalid_bigint_syntax,null
 web/javascript/reference/errors/invalid_const_assignment,0
-web/javascript/reference/errors/invalid_date,null
+web/javascript/reference/errors/invalid_date,0
 web/javascript/reference/errors/invalid_derived_return,null
 web/javascript/reference/errors/invalid_for-in_initializer,null
 web/javascript/reference/errors/invalid_for-of_initializer,null
@@ -12406,10 +12406,10 @@ web/javascript/reference/errors/missing_curly_after_function_body,0
 web/javascript/reference/errors/missing_curly_after_property_list,0
 web/javascript/reference/errors/missing_formal_parameter,0
 web/javascript/reference/errors/missing_initializer_in_const,0
-web/javascript/reference/errors/missing_name_after_dot_operator,null
+web/javascript/reference/errors/missing_name_after_dot_operator,0
 web/javascript/reference/errors/missing_parenthesis_after_argument_list,0
-web/javascript/reference/errors/missing_parenthesis_after_condition,null
-web/javascript/reference/errors/more_arguments_needed,null
+web/javascript/reference/errors/missing_parenthesis_after_condition,0
+web/javascript/reference/errors/more_arguments_needed,0
 web/javascript/reference/errors/negative_repetition_count,null
 web/javascript/reference/errors/no_non-null_object,0
 web/javascript/reference/errors/no_properties,0
@@ -12420,7 +12420,7 @@ web/javascript/reference/errors/not_a_function,0
 web/javascript/reference/errors/not_a_valid_code_point,null
 web/javascript/reference/errors/not_defined,0
 web/javascript/reference/errors/parameter_after_rest_parameter,null
-web/javascript/reference/errors/precision_range,null
+web/javascript/reference/errors/precision_range,0
 web/javascript/reference/errors/private_double_initialization,null
 web/javascript/reference/errors/private_setter_only,null
 web/javascript/reference/errors/promise_any_all_rejected,0
@@ -12447,18 +12447,18 @@ web/javascript/reference/errors/regex_nothing_to_repeat,null
 web/javascript/reference/errors/regex_numbers_out_of_order_in_quantifier,null
 web/javascript/reference/errors/regex_raw_bracket,null
 web/javascript/reference/errors/requires_global_regexp,null
-web/javascript/reference/errors/reserved_identifier,null
+web/javascript/reference/errors/reserved_identifier,0
 web/javascript/reference/errors/rest_with_default,null
 web/javascript/reference/errors/resulting_string_too_large,null
 web/javascript/reference/errors/setter_one_argument,null
 web/javascript/reference/errors/stmt_after_return,0
 web/javascript/reference/errors/strict_non_simple_params,null
-web/javascript/reference/errors/string_literal_eol,null
+web/javascript/reference/errors/string_literal_eol,0
 web/javascript/reference/errors/super_called_twice,null
 web/javascript/reference/errors/super_not_called,1
 web/javascript/reference/errors/too_much_recursion,0
 web/javascript/reference/errors/undeclared_private_field_or_method,null
-web/javascript/reference/errors/undeclared_var,null
+web/javascript/reference/errors/undeclared_var,0
 web/javascript/reference/errors/unexpected_token,1
 web/javascript/reference/errors/unexpected_type,0
 web/javascript/reference/errors/unnamed_function_statement,1
