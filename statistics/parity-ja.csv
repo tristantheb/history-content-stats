@@ -6452,7 +6452,7 @@ web/api/nodelist/item,1
 web/api/nodelist/keys,4
 web/api/nodelist/length,0
 web/api/nodelist/values,3
-web/api/notification,7
+web/api/notification,8
 web/api/notification/actions,9
 web/api/notification/badge,7
 web/api/notification/body,5
@@ -11598,7 +11598,7 @@ web/css/reference/values/position-area_value,1
 web/css/reference/values/position_value,1
 web/css/reference/values/pow,0
 web/css/reference/values/progress,4
-web/css/reference/values/random,4
+web/css/reference/values/random,5
 web/css/reference/values/ratio,1
 web/css/reference/values/ray,0
 web/css/reference/values/relative-size,1

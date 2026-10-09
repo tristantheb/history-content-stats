@@ -6452,7 +6452,7 @@ web/api/nodelist/item,null
 web/api/nodelist/keys,null
 web/api/nodelist/length,0
 web/api/nodelist/values,3
-web/api/notification,6
+web/api/notification,7
 web/api/notification/actions,2
 web/api/notification/badge,0
 web/api/notification/body,0
