@@ -2616,7 +2616,7 @@ web/api/element/dblclick_event,no_hash_commit
 web/api/element/domactivate_event,no_hash_commit
 web/api/element/elementtiming,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/firstelementchild,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
-web/api/element/focus_event,no_hash_commit
+web/api/element/focus_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/focusin_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/focusout_event,no_hash_commit
 web/api/element/fullscreenchange_event,f216422c99b6c7014e398803b70600501bce8a48
@@ -3253,7 +3253,7 @@ web/api/htmlmediaelement/mediagroup,8beb479c558d4220932721e61b6a334d5b5c274a
 web/api/htmlmediaelement/mediakeys,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f
 web/api/htmlmediaelement/muted,595cba0e07c70eda7f08a12890e00ea0281933d3
 web/api/htmlmediaelement/networkstate,no_hash_commit
-web/api/htmlmediaelement/pause,no_hash_commit
+web/api/htmlmediaelement/pause,595cba0e07c70eda7f08a12890e00ea0281933d3
 web/api/htmlmediaelement/pause_event,no_hash_commit
 web/api/htmlmediaelement/paused,no_hash_commit
 web/api/htmlmediaelement/play,no_hash_commit
@@ -5412,7 +5412,7 @@ web/css/reference/properties/font-style,no_hash_commit
 web/css/reference/properties/font-synthesis,no_hash_commit
 web/css/reference/properties/font-variant-alternates,no_hash_commit
 web/css/reference/properties/font-variant-caps,no_hash_commit
-web/css/reference/properties/font-variant-ligatures,no_hash_commit
+web/css/reference/properties/font-variant-ligatures,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9
 web/css/reference/properties/font-variant-numeric,no_hash_commit
 web/css/reference/properties/font-variant-position,no_hash_commit
 web/css/reference/properties/font-variant,no_hash_commit
@@ -7561,7 +7561,7 @@ webassembly/guides/concepts,702cd9e4d2834e13aea345943efc8d0c03d92ec9
 webassembly/guides/exported_functions,no_hash_commit
 webassembly/guides,049e8715d907f47677e85637b5f8292d5376a9f1
 webassembly/guides/loading_and_running,d23f8c5c52bdfb6151476a2574e72d323d0d30f4
-webassembly/guides/rust_to_wasm,no_hash_commit
+webassembly/guides/rust_to_wasm,9e69ea9db9ec62df101e83cbc07d447e1984c57e
 webassembly/guides/text_format_to_wasm,no_hash_commit
 webassembly/guides/understanding_the_text_format,no_hash_commit
 webassembly/guides/using_the_javascript_api,bc7e82aa6db60568d7146ee285918550bbe4b8ce

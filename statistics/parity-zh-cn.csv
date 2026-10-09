@@ -3916,7 +3916,7 @@ web/api/element/domactivate_event,null
 web/api/element/dommousescroll_event,null
 web/api/element/elementtiming,1
 web/api/element/firstelementchild,1
-web/api/element/focus_event,null
+web/api/element/focus_event,0
 web/api/element/focusin_event,0
 web/api/element/focusout_event,null
 web/api/element/fullscreenchange_event,1
@@ -5192,7 +5192,7 @@ web/api/htmlmediaelement/mediagroup,1
 web/api/htmlmediaelement/mediakeys,0
 web/api/htmlmediaelement/muted,0
 web/api/htmlmediaelement/networkstate,null
-web/api/htmlmediaelement/pause,null
+web/api/htmlmediaelement/pause,0
 web/api/htmlmediaelement/pause_event,null
 web/api/htmlmediaelement/paused,null
 web/api/htmlmediaelement/play,null
@@ -10959,7 +10959,7 @@ web/css/reference/properties/font-variant-alternates,null
 web/css/reference/properties/font-variant-caps,null
 web/css/reference/properties/font-variant-east-asian,null
 web/css/reference/properties/font-variant-emoji,null
-web/css/reference/properties/font-variant-ligatures,null
+web/css/reference/properties/font-variant-ligatures,0
 web/css/reference/properties/font-variant-numeric,null
 web/css/reference/properties/font-variant-position,null
 web/css/reference/properties/font-variation-settings,6
@@ -14417,7 +14417,7 @@ webassembly/guides/exported_functions,null
 webassembly/guides/imported_string_constants,null
 webassembly/guides/javascript_builtins,null
 webassembly/guides/loading_and_running,3
-webassembly/guides/rust_to_wasm,null
+webassembly/guides/rust_to_wasm,0
 webassembly/guides/text_format_to_wasm,null
 webassembly/guides/understanding_the_text_format,null
 webassembly/guides/using_the_javascript_api,5
