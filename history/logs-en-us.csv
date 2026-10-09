@@ -1968,7 +1968,7 @@ mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff,Mozilla|Fi
 mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
 mozilla/firefox/releases/156,beede695ee6e0cceaabc3e678eb75a148d77a81e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,892eb917bee599a9d6cae7d33ed783129dbb39b3,Mozilla|Firefox|Versions
-mozilla/firefox/releases/158,bb2db3f935f50eb1a3077e8264e1e97f3798eb27,Mozilla|Firefox|Versions
+mozilla/firefox/releases/158,3387a991c6bd1bc2977097728086b5900eb032f1,Mozilla|Firefox|Versions
 mozilla/firefox/releases/159,91c6fa25d660ab9d0f8b60b19b103518cc3c1603,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -11712,7 +11712,7 @@ web/html/reference/attributes/required,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,
 web/html/reference/attributes/size,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/step,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/elements,456c370394c0cd8869feb60c4e9926f35422beaf,HTML|Elements
-web/html/reference/elements/a,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
+web/html/reference/elements/a,936afbc939599de2d51217ef641663677e7414b0,HTML|Elements
 web/html/reference/elements/abbr,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/acronym,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/address,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
