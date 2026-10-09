@@ -879,7 +879,7 @@ learn_web_development/extensions/forms/advanced_form_styling,0
 learn_web_development/extensions/forms/basic_native_form_controls,0
 learn_web_development/extensions/forms/customizable_select,0
 learn_web_development/extensions/forms/customizable_select_listboxes,0
-learn_web_development/extensions/forms/form_validation,1
+learn_web_development/extensions/forms/form_validation,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,0
@@ -1968,7 +1968,7 @@ mozilla/firefox/releases/154,0
 mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,0
 mozilla/firefox/releases/157,0
-mozilla/firefox/releases/158,1
+mozilla/firefox/releases/158,0
 mozilla/firefox/releases/159,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/17,0
@@ -11712,7 +11712,7 @@ web/html/reference/attributes/required,0
 web/html/reference/attributes/size,0
 web/html/reference/attributes/step,0
 web/html/reference/elements,0
-web/html/reference/elements/a,1
+web/html/reference/elements/a,0
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,0
 web/html/reference/elements/address,0
