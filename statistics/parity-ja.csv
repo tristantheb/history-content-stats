@@ -3045,7 +3045,7 @@ web/api/croptarget/fromelement_static,null
 web/api/crypto,8
 web/api/crypto/getrandomvalues,5
 web/api/crypto/randomuuid,3
-web/api/crypto/subtle,2
+web/api/crypto/subtle,3
 web/api/cryptokey,3
 web/api/cryptokey/algorithm,4
 web/api/cryptokey/extractable,1
@@ -3065,7 +3065,7 @@ web/api/cspviolationreport/sample,null
 web/api/cspviolationreport/sourcefile,null
 web/api/cspviolationreport/statuscode,null
 web/api/css,1
-web/api/css/escape_static,0
+web/api/css/escape_static,1
 web/api/css/factory_functions_static,0
 web/api/css/highlights_static,0
 web/api/css/paintworklet_static,0
@@ -6041,7 +6041,7 @@ web/api/mediastream/mediastream,0
 web/api/mediastream/removetrack,0
 web/api/mediastream/removetrack_event,2
 web/api/mediastream_image_capture_api,1
-web/api/mediastream_recording_api,9
+web/api/mediastream_recording_api,10
 web/api/mediastream_recording_api/recording_a_media_element,6
 web/api/mediastream_recording_api/using_the_mediastream_recording_api,10
 web/api/mediastreamaudiodestinationnode,2
@@ -6904,7 +6904,7 @@ web/api/plugin,null
 web/api/pluginarray,2
 web/api/pointer_events,4
 web/api/pointer_events/multi-touch_interaction,6
-web/api/pointer_events/pinch_zoom_gestures,8
+web/api/pointer_events/pinch_zoom_gestures,9
 web/api/pointer_events/using_pointer_events,5
 web/api/pointer_lock_api,12
 web/api/pointerevent,3
@@ -7124,12 +7124,12 @@ web/api/readablestreambyobrequest,3
 web/api/readablestreambyobrequest/respond,1
 web/api/readablestreambyobrequest/respondwithnewview,2
 web/api/readablestreambyobrequest/view,2
-web/api/readablestreamdefaultcontroller,4
+web/api/readablestreamdefaultcontroller,5
 web/api/readablestreamdefaultcontroller/close,6
 web/api/readablestreamdefaultcontroller/desiredsize,3
 web/api/readablestreamdefaultcontroller/enqueue,4
 web/api/readablestreamdefaultcontroller/error,3
-web/api/readablestreamdefaultreader,3
+web/api/readablestreamdefaultreader,4
 web/api/readablestreamdefaultreader/cancel,3
 web/api/readablestreamdefaultreader/closed,1
 web/api/readablestreamdefaultreader/read,4
@@ -7823,7 +7823,7 @@ web/api/serialport/open,3
 web/api/serialport/readable,6
 web/api/serialport/setsignals,7
 web/api/serialport/writable,6
-web/api/server-sent_events,5
+web/api/server-sent_events,6
 web/api/server-sent_events/using_server-sent_events,6
 web/api/service_worker_api,10
 web/api/service_worker_api/using_service_workers,12
@@ -9334,7 +9334,7 @@ web/api/web_animations_api,1
 web/api/web_animations_api/keyframe_formats,0
 web/api/web_animations_api/tips,0
 web/api/web_animations_api/using_the_web_animations_api,0
-web/api/web_animations_api/web_animations_api_concepts,0
+web/api/web_animations_api/web_animations_api_concepts,1
 web/api/web_audio_api,1
 web/api/web_audio_api/advanced_techniques,7
 web/api/web_audio_api/basic_concepts_behind_web_audio_api,2
@@ -9920,7 +9920,7 @@ web/api/window/status,2
 web/api/window/statusbar,1
 web/api/window/stop,1
 web/api/window/storage_event,8
-web/api/window/structuredclone,2
+web/api/window/structuredclone,3
 web/api/window/toolbar,1
 web/api/window/top,1
 web/api/window/trustedtypes,0
@@ -9996,7 +9996,7 @@ web/api/workerglobalscope/securitypolicyviolation_event,4
 web/api/workerglobalscope/self,2
 web/api/workerglobalscope/setinterval,3
 web/api/workerglobalscope/settimeout,3
-web/api/workerglobalscope/structuredclone,0
+web/api/workerglobalscope/structuredclone,1
 web/api/workerglobalscope/trustedtypes,1
 web/api/workerglobalscope/unhandledrejection_event,5
 web/api/workerlocation,1
@@ -12050,7 +12050,7 @@ web/http/reference/headers/expect,0
 web/http/reference/headers/expect-ct,2
 web/http/reference/headers/expires,0
 web/http/reference/headers/forwarded,0
-web/http/reference/headers/from,null
+web/http/reference/headers/from,0
 web/http/reference/headers/host,0
 web/http/reference/headers/idempotency-key,1
 web/http/reference/headers/if-match,0
@@ -12647,7 +12647,7 @@ web/javascript/reference/global_objects/date/sethours,3
 web/javascript/reference/global_objects/date/setmilliseconds,3
 web/javascript/reference/global_objects/date/setminutes,3
 web/javascript/reference/global_objects/date/setmonth,3
-web/javascript/reference/global_objects/date/setseconds,3
+web/javascript/reference/global_objects/date/setseconds,4
 web/javascript/reference/global_objects/date/settime,2
 web/javascript/reference/global_objects/date/setutcdate,2
 web/javascript/reference/global_objects/date/setutcfullyear,2
@@ -12998,7 +12998,7 @@ web/javascript/reference/global_objects/promise/withresolvers,0
 web/javascript/reference/global_objects/proxy,0
 web/javascript/reference/global_objects/proxy/proxy,1
 web/javascript/reference/global_objects/proxy/proxy/apply,0
-web/javascript/reference/global_objects/proxy/proxy/construct,1
+web/javascript/reference/global_objects/proxy/proxy/construct,2
 web/javascript/reference/global_objects/proxy/proxy/defineproperty,0
 web/javascript/reference/global_objects/proxy/proxy/deleteproperty,1
 web/javascript/reference/global_objects/proxy/proxy/get,0
@@ -13132,7 +13132,7 @@ web/javascript/reference/global_objects/string/substr,2
 web/javascript/reference/global_objects/string/substring,0
 web/javascript/reference/global_objects/string/sup,1
 web/javascript/reference/global_objects/string/symbol.iterator,0
-web/javascript/reference/global_objects/string/tolocalelowercase,1
+web/javascript/reference/global_objects/string/tolocalelowercase,2
 web/javascript/reference/global_objects/string/tolocaleuppercase,1
 web/javascript/reference/global_objects/string/tolowercase,0
 web/javascript/reference/global_objects/string/tostring,1
@@ -13611,7 +13611,7 @@ web/javascript/reference/statements/for-await...of,1
 web/javascript/reference/statements/for...in,0
 web/javascript/reference/statements/for...of,1
 web/javascript/reference/statements/function,0
-web/javascript/reference/statements/function_star_,1
+web/javascript/reference/statements/function_star_,2
 web/javascript/reference/statements/if...else,1
 web/javascript/reference/statements/import,2
 web/javascript/reference/statements/import/defer,null
@@ -13632,7 +13632,7 @@ web/javascript/reference/template_literals,1
 web/javascript/reference/trailing_commas,0
 web/mathml,0
 web/mathml/guides,2
-web/mathml/guides/authoring,4
+web/mathml/guides/authoring,5
 web/mathml/guides/deriving_the_quadratic_formula,null
 web/mathml/guides/fonts,3
 web/mathml/guides/proving_the_pythagorean_theorem,null
@@ -13692,7 +13692,7 @@ web/mathml/tutorials/for_beginners/text_containers,1
 web/mathml/tutorials/for_beginners/three_famous_mathematical_formulas,0
 web/media,8
 web/media/guides,0
-web/media/guides/audio_and_video_delivery,3
+web/media/guides/audio_and_video_delivery,4
 web/media/guides/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video,1
 web/media/guides/audio_and_video_delivery/buffering_seeking_time_ranges,null
 web/media/guides/audio_and_video_delivery/cross-browser_audio_basics,null
@@ -13722,7 +13722,7 @@ web/performance/guides/animation_performance_and_frame_rate,2
 web/performance/guides/critical_rendering_path,0
 web/performance/guides/css_javascript_animation_performance,1
 web/performance/guides/dns-prefetch,1
-web/performance/guides/fundamentals,2
+web/performance/guides/fundamentals,3
 web/performance/guides/how_browsers_work,3
 web/performance/guides/how_long_is_too_long,0
 web/performance/guides/lazy_loading,0

@@ -6041,7 +6041,7 @@ web/api/mediastream/mediastream,null
 web/api/mediastream/removetrack,null
 web/api/mediastream/removetrack_event,null
 web/api/mediastream_image_capture_api,null
-web/api/mediastream_recording_api,4
+web/api/mediastream_recording_api,5
 web/api/mediastream_recording_api/recording_a_media_element,4
 web/api/mediastream_recording_api/using_the_mediastream_recording_api,5
 web/api/mediastreamaudiodestinationnode,null
@@ -7823,7 +7823,7 @@ web/api/serialport/open,null
 web/api/serialport/readable,null
 web/api/serialport/setsignals,null
 web/api/serialport/writable,null
-web/api/server-sent_events,7
+web/api/server-sent_events,8
 web/api/server-sent_events/using_server-sent_events,7
 web/api/service_worker_api,null
 web/api/service_worker_api/using_service_workers,null
@@ -9920,7 +9920,7 @@ web/api/window/status,null
 web/api/window/statusbar,null
 web/api/window/stop,null
 web/api/window/storage_event,null
-web/api/window/structuredclone,3
+web/api/window/structuredclone,4
 web/api/window/toolbar,1
 web/api/window/top,null
 web/api/window/trustedtypes,null
@@ -12647,7 +12647,7 @@ web/javascript/reference/global_objects/date/sethours,null
 web/javascript/reference/global_objects/date/setmilliseconds,null
 web/javascript/reference/global_objects/date/setminutes,null
 web/javascript/reference/global_objects/date/setmonth,8
-web/javascript/reference/global_objects/date/setseconds,8
+web/javascript/reference/global_objects/date/setseconds,9
 web/javascript/reference/global_objects/date/settime,9
 web/javascript/reference/global_objects/date/setutcdate,null
 web/javascript/reference/global_objects/date/setutcfullyear,null
@@ -13692,7 +13692,7 @@ web/mathml/tutorials/for_beginners/text_containers,null
 web/mathml/tutorials/for_beginners/three_famous_mathematical_formulas,null
 web/media,10
 web/media/guides,null
-web/media/guides/audio_and_video_delivery,20
+web/media/guides/audio_and_video_delivery,21
 web/media/guides/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video,null
 web/media/guides/audio_and_video_delivery/buffering_seeking_time_ranges,null
 web/media/guides/audio_and_video_delivery/cross-browser_audio_basics,null
