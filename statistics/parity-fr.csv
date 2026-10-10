@@ -12647,7 +12647,7 @@ web/javascript/reference/global_objects/date/sethours,0
 web/javascript/reference/global_objects/date/setmilliseconds,0
 web/javascript/reference/global_objects/date/setminutes,0
 web/javascript/reference/global_objects/date/setmonth,0
-web/javascript/reference/global_objects/date/setseconds,0
+web/javascript/reference/global_objects/date/setseconds,1
 web/javascript/reference/global_objects/date/settime,0
 web/javascript/reference/global_objects/date/setutcdate,0
 web/javascript/reference/global_objects/date/setutcfullyear,0
