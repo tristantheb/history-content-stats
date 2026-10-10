@@ -843,7 +843,7 @@ learn_web_development/core/styling_basics/what_is_css,6
 learn_web_development/core/text_styling,null
 learn_web_development/core/text_styling/fundamentals,null
 learn_web_development/core/text_styling/styling_links,6
-learn_web_development/core/text_styling/styling_lists,null
+learn_web_development/core/text_styling/styling_lists,0
 learn_web_development/core/text_styling/typesetting_a_homepage,null
 learn_web_development/core/text_styling/web_fonts,null
 learn_web_development/core/version_control,null
@@ -2364,7 +2364,7 @@ web/api/animationtimeline,null
 web/api/animationtimeline/currenttime,null
 web/api/animationtimeline/duration,null
 web/api/attr,1
-web/api/attr/localname,null
+web/api/attr/localname,0
 web/api/attr/name,null
 web/api/attr/namespaceuri,null
 web/api/attr/ownerelement,null
@@ -3842,7 +3842,7 @@ web/api/element/ariacolspan,0
 web/api/element/ariacontrolselements,null
 web/api/element/ariacurrent,0
 web/api/element/ariadescribedbyelements,0
-web/api/element/ariadescription,null
+web/api/element/ariadescription,0
 web/api/element/ariadetailselements,null
 web/api/element/ariadisabled,null
 web/api/element/ariaerrormessageelements,null
@@ -14182,7 +14182,7 @@ web/uri/reference/schemes/data,null
 web/uri/reference/schemes/javascript,null
 web/uri/reference/schemes/resource,null
 web/uri/reference/schemes/urn,null
-web/webdriver,null
+web/webdriver,0
 web/webdriver/how_to,null
 web/webdriver/how_to/create_bidi_connection,null
 web/webdriver/reference,null
@@ -14249,7 +14249,7 @@ web/webdriver/reference/capabilities,null
 web/webdriver/reference/capabilities/acceptinsecurecerts,null
 web/webdriver/reference/capabilities/firefoxoptions,null
 web/webdriver/reference/capabilities/websocketurl,null
-web/webdriver/reference/classic,null
+web/webdriver/reference/classic,0
 web/webdriver/reference/classic/commands,null
 web/webdriver/reference/classic/commands/addcookie,null
 web/webdriver/reference/classic/commands/back,null
@@ -14288,7 +14288,7 @@ web/webdriver/reference/errors/invalidsessionid,null
 web/webdriver/reference/errors/javascripterror,null
 web/webdriver/reference/errors/scripttimeout,null
 web/webdriver/reference/errors/staleelementreference,null
-web/webdriver/reference/errors/unknowncommand,null
+web/webdriver/reference/errors/unknowncommand,0
 web/webdriver/reference/errors/unknownerror,0
 web/webdriver/reference/errors/unknownmethod,0
 web/xml,0
