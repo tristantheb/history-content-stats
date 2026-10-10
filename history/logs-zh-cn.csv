@@ -780,7 +780,7 @@ learn_web_development/core/styling_basics/what_is_css,25d1da7132494104d33f02bc3e
 learn_web_development/core/text_styling/fundamentals,no_hash_commit
 learn_web_development/core/text_styling,no_hash_commit
 learn_web_development/core/text_styling/styling_links,4bddde3e2b86234eb4594809082873fc5bf00ee3
-learn_web_development/core/text_styling/styling_lists,no_hash_commit
+learn_web_development/core/text_styling/styling_lists,1b7c3c1e03f14c3878e4d8518b0f1a89bedfdc9c
 learn_web_development/core/text_styling/typesetting_a_homepage,no_hash_commit
 learn_web_development/core/text_styling/web_fonts,no_hash_commit
 learn_web_development/core/version_control,no_hash_commit
@@ -1707,7 +1707,7 @@ web/api/animationplaybackevent,bca8d1ab2bc4f5a1ef6b39c454b0229539178e98
 web/api/animationplaybackevent/timelinetime,135b8311a5e3d12789e8421845be3ce026ef72b8
 web/api/animationtimeline,no_hash_commit
 web/api/attr,ec1006afdf68a5808a48ab6301f9ccff3cd7ecc2
-web/api/attr/localname,no_hash_commit
+web/api/attr/localname,ec1006afdf68a5808a48ab6301f9ccff3cd7ecc2
 web/api/attr/namespaceuri,no_hash_commit
 web/api/attr/prefix,no_hash_commit
 web/api/attr/specified,135b8311a5e3d12789e8421845be3ce026ef72b8
@@ -2577,6 +2577,7 @@ web/api/element/ariacolindextext,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariacolspan,0b5859108411e47d228a4bb9f30a5556ab17f63c
 web/api/element/ariacurrent,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariadescribedbyelements,3b4a7a32fc2fe8cb6bd9a1e62f4ca52e002599ef
+web/api/element/ariadescription,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1
 web/api/element/arialabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/arialevel,ce12c10364f35c64184dec44be85537b7e10d91f
@@ -7540,7 +7541,9 @@ web/uri/reference,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd
 web/uri/reference/path,be9ba40fbef7f96beae73e5dd6d48a3ca875826f
 web/uri/reference/query,be9ba40fbef7f96beae73e5dd6d48a3ca875826f
 web/uri/reference/schemes/data,no_hash_commit
-web/webdriver,no_hash_commit
+web/webdriver,f83c12ab41865e0e195dd36ad9cdcad511a36957
+web/webdriver/reference/classic,fbf733732bf531a1be40a0c646bcbc4b31618476
+web/webdriver/reference/errors/unknowncommand,421a9c26127cf11e33e72184b14656c9d406294d
 web/webdriver/reference/errors/unknownerror,de5b264fa7bf6bb49811bf79f8f28f10835bfb79
 web/webdriver/reference/errors/unknownmethod,f99d00a1c3697e26a679925954e26564e7e79b98
 web/xml/exslt/reference/regexp,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
