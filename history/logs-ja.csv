@@ -8554,6 +8554,7 @@ web/http/reference/methods/options,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/methods/patch,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/methods/post,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/methods/put,ad5b5e31f81795d692e66dadb7818ba8b220ad15
+web/http/reference/methods/query,2a973f388561148f5a8001e572dac8143c5a5914
 web/http/reference/methods/trace,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/resources_and_specifications,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/reference/status/100,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26
