@@ -12224,7 +12224,7 @@ web/http/reference/methods/options,0
 web/http/reference/methods/patch,1
 web/http/reference/methods/post,0
 web/http/reference/methods/put,1
-web/http/reference/methods/query,null
+web/http/reference/methods/query,0
 web/http/reference/methods/trace,2
 web/http/reference/resources_and_specifications,3
 web/http/reference/status,2
