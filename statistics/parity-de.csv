@@ -1846,7 +1846,7 @@ mozilla/add-ons/webextensions/manifest.json/host_permissions,0
 mozilla/add-ons/webextensions/manifest.json/icons,0
 mozilla/add-ons/webextensions/manifest.json/incognito,0
 mozilla/add-ons/webextensions/manifest.json/manifest_version,0
-mozilla/add-ons/webextensions/manifest.json/name,0
+mozilla/add-ons/webextensions/manifest.json/name,1
 mozilla/add-ons/webextensions/manifest.json/omnibox,0
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,0
 mozilla/add-ons/webextensions/manifest.json/optional_permissions,0
@@ -4930,7 +4930,7 @@ web/api/htmlelement/outertext,0
 web/api/htmlelement/popover,0
 web/api/htmlelement/showpopover,0
 web/api/htmlelement/spellcheck,0
-web/api/htmlelement/style,1
+web/api/htmlelement/style,0
 web/api/htmlelement/tabindex,0
 web/api/htmlelement/title,0
 web/api/htmlelement/toggle_event,0
@@ -6454,7 +6454,7 @@ web/api/nodelist/length,0
 web/api/nodelist/values,0
 web/api/notification,0
 web/api/notification/actions,0
-web/api/notification/badge,1
+web/api/notification/badge,0
 web/api/notification/body,0
 web/api/notification/click_event,0
 web/api/notification/close,0
@@ -6462,12 +6462,12 @@ web/api/notification/close_event,0
 web/api/notification/data,0
 web/api/notification/dir,0
 web/api/notification/error_event,0
-web/api/notification/icon,1
-web/api/notification/image,1
+web/api/notification/icon,0
+web/api/notification/image,0
 web/api/notification/lang,0
 web/api/notification/maxactions_static,0
 web/api/notification/navigate,0
-web/api/notification/notification,1
+web/api/notification/notification,0
 web/api/notification/permission_static,0
 web/api/notification/renotify,0
 web/api/notification/requestpermission_static,0
@@ -7880,7 +7880,7 @@ web/api/serviceworkerregistration/paymentmanager,0
 web/api/serviceworkerregistration/periodicsync,0
 web/api/serviceworkerregistration/pushmanager,0
 web/api/serviceworkerregistration/scope,0
-web/api/serviceworkerregistration/shownotification,1
+web/api/serviceworkerregistration/shownotification,0
 web/api/serviceworkerregistration/sync,0
 web/api/serviceworkerregistration/unregister,0
 web/api/serviceworkerregistration/update,0
