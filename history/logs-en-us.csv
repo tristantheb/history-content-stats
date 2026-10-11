@@ -4930,7 +4930,7 @@ web/api/htmlelement/outertext,e9e2ec643ac69c132f31427a0b586ab2cf83ed58,Web APIs
 web/api/htmlelement/popover,9af64ef430ad722b9cc3f75ccabeb8989c23b988,Web APIs
 web/api/htmlelement/showpopover,88dc56f83da6cf7adf4a2ad8803a412141ed4989,Web APIs
 web/api/htmlelement/spellcheck,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
-web/api/htmlelement/style,6ec00da93f656e1386f27507291bc6431540d97a,Web APIs
+web/api/htmlelement/style,aa95ccc2ee32f99c8fe2d7f370121a0fd4c6aaf4,Web APIs
 web/api/htmlelement/tabindex,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlelement/title,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlelement/toggle_event,661a04e7a61abe3d8c7245f04cdd1d0bc865fe69,Web APIs
@@ -6454,7 +6454,7 @@ web/api/nodelist/length,312081aabba3885b35a81107b3c2fc53428896c5,Web APIs
 web/api/nodelist/values,56f3d7018159127dbe92842413fb45d0aa7e8193,Web APIs
 web/api/notification,74b73e8310d2ecfecd3e4a2aa21e5b54f43d7387,Web APIs
 web/api/notification/actions,66be0a23be754791266009f1044e2238c27332b4,Web APIs
-web/api/notification/badge,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
+web/api/notification/badge,922949d1d9793e97e4cf9f2513a967e74b0171cf,Web APIs
 web/api/notification/body,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/click_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
 web/api/notification/close,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
@@ -6462,12 +6462,12 @@ web/api/notification/close_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web AP
 web/api/notification/data,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/dir,aa8fa82a902746b0bd97839180fc2b5397088140,Web APIs
 web/api/notification/error_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
-web/api/notification/icon,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
-web/api/notification/image,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
+web/api/notification/icon,922949d1d9793e97e4cf9f2513a967e74b0171cf,Web APIs
+web/api/notification/image,922949d1d9793e97e4cf9f2513a967e74b0171cf,Web APIs
 web/api/notification/lang,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
 web/api/notification/maxactions_static,d8fc2b7782ba35a3f2708ffe5b5b4b9c44c8715f,Web APIs
 web/api/notification/navigate,74b73e8310d2ecfecd3e4a2aa21e5b54f43d7387,Web APIs
-web/api/notification/notification,66be0a23be754791266009f1044e2238c27332b4,Web APIs
+web/api/notification/notification,922949d1d9793e97e4cf9f2513a967e74b0171cf,Web APIs
 web/api/notification/permission_static,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/renotify,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/requestpermission_static,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
@@ -7880,7 +7880,7 @@ web/api/serviceworkerregistration/paymentmanager,73ca80b86a348f88f51fdb8f9441c11
 web/api/serviceworkerregistration/periodicsync,0ca040b6a9cfd931558bd1d3a402707abddc1924,Web APIs
 web/api/serviceworkerregistration/pushmanager,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
 web/api/serviceworkerregistration/scope,e9b95b3735a9e928fbdf3fe0a9f69c420b44cd79,Web APIs
-web/api/serviceworkerregistration/shownotification,66be0a23be754791266009f1044e2238c27332b4,Web APIs
+web/api/serviceworkerregistration/shownotification,922949d1d9793e97e4cf9f2513a967e74b0171cf,Web APIs
 web/api/serviceworkerregistration/sync,56df677713fecf43ec0eb8862cb91c141aaa0005,Web APIs
 web/api/serviceworkerregistration/unregister,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/serviceworkerregistration/update,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
