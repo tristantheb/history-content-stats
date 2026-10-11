@@ -4303,8 +4303,15 @@ web/api/window/scrollto,285941521a9a7c2c1b3c443d5f785e5f663a8fc9
 web/api/window/scrollx,e561fa67af347b9770b359ba93e8579d2a540682
 web/api/window/scrolly,896a41d7d9832367a1e24af567fb419e9d4182f8
 web/api/window/self,285941521a9a7c2c1b3c443d5f785e5f663a8fc9
-web/api/window/sessionstorage,no_hash_commit
-web/api/window/settimeout,no_hash_commit
+web/api/window/sessionstorage,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
+web/api/window/setimmediate,c7460aab1397829c109a88e3a58fed9b7ef9c0c5
+web/api/window/setinterval,051d02b402b7f76c2078b12283aa18318c34c38b
+web/api/window/setresizable,ca6052779ddca9f6d99665f12c39aa2d85d85733
+web/api/window/settimeout,051d02b402b7f76c2078b12283aa18318c34c38b
+web/api/window/sharedstorage,ca6052779ddca9f6d99665f12c39aa2d85d85733
+web/api/window/showdirectorypicker,381dfaf4d7f555e847b0af726a93ce48cde15915
+web/api/window/showopenfilepicker,381dfaf4d7f555e847b0af726a93ce48cde15915
+web/api/window/showsavefilepicker,381dfaf4d7f555e847b0af726a93ce48cde15915
 web/api/window/stop,no_hash_commit
 web/api/window/storage_event,no_hash_commit
 web/api/window/top,no_hash_commit

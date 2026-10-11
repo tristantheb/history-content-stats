@@ -6346,7 +6346,7 @@ web/api/navigator/registerprotocolhandler,0
 web/api/navigator/requestmediakeysystemaccess,0
 web/api/navigator/requestmidiaccess,0
 web/api/navigator/scheduling,0
-web/api/navigator/sendbeacon,0
+web/api/navigator/sendbeacon,1
 web/api/navigator/serial,0
 web/api/navigator/serviceworker,0
 web/api/navigator/setappbadge,0
@@ -10430,7 +10430,7 @@ web/css/guides/containment/using,0
 web/css/guides/counter_styles,0
 web/css/guides/counter_styles/using_counters,0
 web/css/guides/cssom_view,0
-web/css/guides/cssom_view/viewport_concepts,0
+web/css/guides/cssom_view/viewport_concepts,1
 web/css/guides/custom_functions_and_mixins,0
 web/css/guides/custom_functions_and_mixins/using_custom_functions,0
 web/css/guides/custom_highlight_api,0
@@ -13704,8 +13704,8 @@ web/media/guides/audio_and_video_delivery/webaudio_playbackrate_explained,0
 web/media/guides/audio_and_video_manipulation,0
 web/media/guides/autoplay,0
 web/media/guides/formats,0
-web/media/guides/formats/audio_codecs,0
-web/media/guides/formats/audio_concepts,0
+web/media/guides/formats/audio_codecs,1
+web/media/guides/formats/audio_concepts,1
 web/media/guides/formats/codecs_parameter,0
 web/media/guides/formats/configuring_servers_for_ogg_media,0
 web/media/guides/formats/containers,0

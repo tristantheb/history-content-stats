@@ -6346,7 +6346,7 @@ web/api/navigator/registerprotocolhandler,2
 web/api/navigator/requestmediakeysystemaccess,null
 web/api/navigator/requestmidiaccess,6
 web/api/navigator/scheduling,2
-web/api/navigator/sendbeacon,5
+web/api/navigator/sendbeacon,6
 web/api/navigator/serial,7
 web/api/navigator/serviceworker,2
 web/api/navigator/setappbadge,5
@@ -10430,7 +10430,7 @@ web/css/guides/containment/using,0
 web/css/guides/counter_styles,0
 web/css/guides/counter_styles/using_counters,0
 web/css/guides/cssom_view,0
-web/css/guides/cssom_view/viewport_concepts,1
+web/css/guides/cssom_view/viewport_concepts,2
 web/css/guides/custom_functions_and_mixins,1
 web/css/guides/custom_functions_and_mixins/using_custom_functions,0
 web/css/guides/custom_highlight_api,null
