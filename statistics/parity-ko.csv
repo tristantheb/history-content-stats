@@ -6346,7 +6346,7 @@ web/api/navigator/registerprotocolhandler,null
 web/api/navigator/requestmediakeysystemaccess,null
 web/api/navigator/requestmidiaccess,null
 web/api/navigator/scheduling,null
-web/api/navigator/sendbeacon,12
+web/api/navigator/sendbeacon,13
 web/api/navigator/serial,null
 web/api/navigator/serviceworker,null
 web/api/navigator/setappbadge,null
