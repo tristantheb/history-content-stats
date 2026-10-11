@@ -4930,7 +4930,7 @@ web/api/htmlelement/outertext,0
 web/api/htmlelement/popover,0
 web/api/htmlelement/showpopover,0
 web/api/htmlelement/spellcheck,0
-web/api/htmlelement/style,0
+web/api/htmlelement/style,1
 web/api/htmlelement/tabindex,0
 web/api/htmlelement/title,0
 web/api/htmlelement/toggle_event,0
