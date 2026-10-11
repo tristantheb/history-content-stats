@@ -4930,7 +4930,7 @@ web/api/htmlelement/outertext,0
 web/api/htmlelement/popover,7
 web/api/htmlelement/showpopover,8
 web/api/htmlelement/spellcheck,2
-web/api/htmlelement/style,0
+web/api/htmlelement/style,1
 web/api/htmlelement/tabindex,2
 web/api/htmlelement/title,1
 web/api/htmlelement/toggle_event,6
@@ -6454,7 +6454,7 @@ web/api/nodelist/length,0
 web/api/nodelist/values,3
 web/api/notification,8
 web/api/notification/actions,9
-web/api/notification/badge,7
+web/api/notification/badge,8
 web/api/notification/body,5
 web/api/notification/click_event,8
 web/api/notification/close,10
@@ -6462,12 +6462,12 @@ web/api/notification/close_event,7
 web/api/notification/data,5
 web/api/notification/dir,7
 web/api/notification/error_event,7
-web/api/notification/icon,5
-web/api/notification/image,5
+web/api/notification/icon,6
+web/api/notification/image,6
 web/api/notification/lang,6
 web/api/notification/maxactions_static,5
 web/api/notification/navigate,null
-web/api/notification/notification,8
+web/api/notification/notification,9
 web/api/notification/permission_static,0
 web/api/notification/renotify,6
 web/api/notification/requestpermission_static,null
@@ -7880,7 +7880,7 @@ web/api/serviceworkerregistration/paymentmanager,10
 web/api/serviceworkerregistration/periodicsync,8
 web/api/serviceworkerregistration/pushmanager,6
 web/api/serviceworkerregistration/scope,6
-web/api/serviceworkerregistration/shownotification,12
+web/api/serviceworkerregistration/shownotification,13
 web/api/serviceworkerregistration/sync,7
 web/api/serviceworkerregistration/unregister,5
 web/api/serviceworkerregistration/update,5
