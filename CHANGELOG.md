@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/tristantheb/history-content-stats/compare/v1.1.3...v1.1.4) (2026-10-11)
+
+
+### CI/CD changes
+
+* **dependabot:** set update interval to monday 8a.m ce(s)t ([fecda7d](https://github.com/tristantheb/history-content-stats/commit/fecda7de1f01f24b1aa4fef8e657742bf357f331))
+
 ## [1.1.3](https://github.com/tristantheb/history-content-stats/compare/v1.1.2...v1.1.3) (2026-09-03)
 
 
