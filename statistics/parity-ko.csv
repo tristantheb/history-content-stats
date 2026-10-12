@@ -776,7 +776,7 @@ learn_web_development/core/scripting/test_your_skills/strings,null
 learn_web_development/core/scripting/test_your_skills/variables,null
 learn_web_development/core/scripting/useful_string_methods,null
 learn_web_development/core/scripting/variables,7
-learn_web_development/core/scripting/what_is_javascript,19
+learn_web_development/core/scripting/what_is_javascript,20
 learn_web_development/core/scripting/what_went_wrong,9
 learn_web_development/core/structuring_content,null
 learn_web_development/core/structuring_content/advanced_text_features,10
@@ -906,7 +906,7 @@ learn_web_development/extensions/performance/javascript,null
 learn_web_development/extensions/performance/measuring_performance,3
 learn_web_development/extensions/performance/multimedia,12
 learn_web_development/extensions/performance/perceived_performance,5
-learn_web_development/extensions/performance/video,3
+learn_web_development/extensions/performance/video,4
 learn_web_development/extensions/performance/what_is_web_performance,4
 learn_web_development/extensions/performance/why_web_performance,5
 learn_web_development/extensions/server-side,null
@@ -11237,7 +11237,7 @@ web/css/reference/properties/text-fit,null
 web/css/reference/properties/text-indent,null
 web/css/reference/properties/text-justify,null
 web/css/reference/properties/text-orientation,null
-web/css/reference/properties/text-overflow,5
+web/css/reference/properties/text-overflow,6
 web/css/reference/properties/text-rendering,null
 web/css/reference/properties/text-shadow,null
 web/css/reference/properties/text-size-adjust,null
@@ -11949,7 +11949,7 @@ web/http/guides/evolution_of_http,7
 web/http/guides/fetch_metadata,null
 web/http/guides/iframe_credentialless,3
 web/http/guides/messages,6
-web/http/guides/mime_types,11
+web/http/guides/mime_types,12
 web/http/guides/mime_types/common_types,10
 web/http/guides/network_error_logging,null
 web/http/guides/overview,null

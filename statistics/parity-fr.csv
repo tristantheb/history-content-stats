@@ -169,7 +169,7 @@ glossary/conditional,0
 glossary/constant,0
 glossary/constructor,0
 glossary/content_header,0
-glossary/contentful_paint,0
+glossary/contentful_paint,1
 glossary/continuous_integration,0
 glossary/continuous_media,0
 glossary/control_flow,0
@@ -722,7 +722,7 @@ learn_web_development/core/css_layout/legacy_layout_methods,null
 learn_web_development/core/css_layout/media_queries,null
 learn_web_development/core/css_layout/mobile-first_challenge,null
 learn_web_development/core/css_layout/multiple-column_layout,null
-learn_web_development/core/css_layout/positioning,0
+learn_web_development/core/css_layout/positioning,1
 learn_web_development/core/css_layout/practical_positioning_examples,null
 learn_web_development/core/css_layout/responsive_design,20
 learn_web_development/core/css_layout/supporting_older_browsers,null
@@ -759,8 +759,8 @@ learn_web_development/core/scripting/json,null
 learn_web_development/core/scripting/loops,null
 learn_web_development/core/scripting/math,null
 learn_web_development/core/scripting/network_requests,8
-learn_web_development/core/scripting/object_basics,0
-learn_web_development/core/scripting/return_values,9
+learn_web_development/core/scripting/object_basics,1
+learn_web_development/core/scripting/return_values,10
 learn_web_development/core/scripting/silly_story_generator,null
 learn_web_development/core/scripting/strings,0
 learn_web_development/core/scripting/test_your_skills,null
@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,6
 mozilla/firefox,0
-mozilla/firefox/experimental_features,4
+mozilla/firefox/experimental_features,5
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -11237,7 +11237,7 @@ web/css/reference/properties/text-fit,null
 web/css/reference/properties/text-indent,0
 web/css/reference/properties/text-justify,0
 web/css/reference/properties/text-orientation,0
-web/css/reference/properties/text-overflow,1
+web/css/reference/properties/text-overflow,2
 web/css/reference/properties/text-rendering,0
 web/css/reference/properties/text-shadow,0
 web/css/reference/properties/text-size-adjust,0
@@ -11949,7 +11949,7 @@ web/http/guides/evolution_of_http,0
 web/http/guides/fetch_metadata,null
 web/http/guides/iframe_credentialless,null
 web/http/guides/messages,0
-web/http/guides/mime_types,2
+web/http/guides/mime_types,3
 web/http/guides/mime_types/common_types,null
 web/http/guides/network_error_logging,null
 web/http/guides/overview,null
