@@ -6395,7 +6395,7 @@ web/api/ndefrecord/lang,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/ndefrecord/mediatype,5e3c69527de87e8ff9407de62e919db9254f0627,Web APIs
 web/api/ndefrecord/ndefrecord,e7bc0ed5466f5834641d75d416fa81886cf6b37e,Web APIs
 web/api/ndefrecord/recordtype,5e3c69527de87e8ff9407de62e919db9254f0627,Web APIs
-web/api/ndefrecord/torecords,502e8c3f0be95c6f42afe6a72113b029b290b9e8,Web APIs
+web/api/ndefrecord/torecords,6e52a630cb324d0d74e5968661b7e270ac7df93e,Web APIs
 web/api/network_information_api,1fae6a1db8be34bc73fb9d1e0fb058c253045853,Web APIs
 web/api/networkinformation,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/networkinformation/change_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -8142,16 +8142,16 @@ web/api/subscriber/signal,bacd00c353f643d8f5be0ce769015b1a66b4251a,Web APIs
 web/api/subtlecrypto,44b15fff6c156ec81c2290e252e20c4519089688,Web APIs
 web/api/subtlecrypto/decrypt,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/subtlecrypto/derivebits,1efed35637ca064574e1f7928ddcfa34d54d7b56,Web APIs
-web/api/subtlecrypto/derivekey,63774786a6abccda8e70ad62429aa39571aba878,Web APIs
+web/api/subtlecrypto/derivekey,6e52a630cb324d0d74e5968661b7e270ac7df93e,Web APIs
 web/api/subtlecrypto/digest,326c137fe1044491fc1f647eea18b4c6b5aed855,Web APIs
 web/api/subtlecrypto/encrypt,f8022456101568d6260c824c982b69cf4902cb78,Web APIs
-web/api/subtlecrypto/exportkey,cc27a64bb555b250cf0984a3a744e5fd251e3565,Web APIs
+web/api/subtlecrypto/exportkey,6e52a630cb324d0d74e5968661b7e270ac7df93e,Web APIs
 web/api/subtlecrypto/generatekey,f1c0a3282b3e30892bd6ec382564774979611feb,Web APIs
 web/api/subtlecrypto/importkey,a763ea2ddbea9da84cc548a85705662e38b4f3d1,Web APIs
 web/api/subtlecrypto/sign,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b,Web APIs
-web/api/subtlecrypto/unwrapkey,cc27a64bb555b250cf0984a3a744e5fd251e3565,Web APIs
+web/api/subtlecrypto/unwrapkey,6e52a630cb324d0d74e5968661b7e270ac7df93e,Web APIs
 web/api/subtlecrypto/verify,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
-web/api/subtlecrypto/wrapkey,cc27a64bb555b250cf0984a3a744e5fd251e3565,Web APIs
+web/api/subtlecrypto/wrapkey,6e52a630cb324d0d74e5968661b7e270ac7df93e,Web APIs
 web/api/summarizer,db443a6062d0e858a62af2f9a3a7558335ffd2dd,Web APIs
 web/api/summarizer/availability_static,8cae6b8c772e3f9ce2fbd73cad17fcb0adda966f,Web APIs
 web/api/summarizer/create_static,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
@@ -10754,7 +10754,7 @@ web/css/reference/properties/appearance,d78544a841b0e266a6efc169c044573f5e0b4e7d
 web/css/reference/properties/aspect-ratio,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/backdrop-filter,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/backface-visibility,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
-web/css/reference/properties/background,3f221b9845703eb21db70cdc321f843d5c1c072b,CSS|Properties
+web/css/reference/properties/background,8c21ceeff860d7b9f64b177115e3897543e7fcab,CSS|Properties
 web/css/reference/properties/background-attachment,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Properties
 web/css/reference/properties/background-blend-mode,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/background-clip,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -10915,7 +10915,7 @@ web/css/reference/properties/cursor,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS
 web/css/reference/properties/cx,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Properties
 web/css/reference/properties/cy,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Properties
 web/css/reference/properties/d,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/direction,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/direction,8c21ceeff860d7b9f64b177115e3897543e7fcab,CSS|Properties
 web/css/reference/properties/display,1017b716a13c17fb4afcc2aefc904692fa670460,CSS|Properties
 web/css/reference/properties/dominant-baseline,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/dynamic-range-limit,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
@@ -14211,7 +14211,7 @@ web/webdriver/reference/bidi/modules/browsingcontext/gettree,ef8c3806c33f2b1d9d3
 web/webdriver/reference/bidi/modules/browsingcontext/handleuserprompt,e5999f9b30c19ca727cbf28ec254f2111f7d36c8,WebDriver
 web/webdriver/reference/bidi/modules/browsingcontext/historyupdated,15f8fef84c7b7e800eaad84301fdb4b4f9cb80a2,WebDriver
 web/webdriver/reference/bidi/modules/browsingcontext/load,15f8fef84c7b7e800eaad84301fdb4b4f9cb80a2,WebDriver
-web/webdriver/reference/bidi/modules/browsingcontext/locatenodes,39b5bad5c0acddc6e875259d980be948543827bd,WebDriver
+web/webdriver/reference/bidi/modules/browsingcontext/locatenodes,8a86bbb9816f718762fa855d78b92e5525c0d520,WebDriver
 web/webdriver/reference/bidi/modules/browsingcontext/navigate,50e846e7423814d7d0c3c3630ff8e793b38cad8a,WebDriver
 web/webdriver/reference/bidi/modules/browsingcontext/navigationcommitted,15f8fef84c7b7e800eaad84301fdb4b4f9cb80a2,WebDriver
 web/webdriver/reference/bidi/modules/browsingcontext/navigationfailed,15f8fef84c7b7e800eaad84301fdb4b4f9cb80a2,WebDriver
@@ -14229,10 +14229,11 @@ web/webdriver/reference/bidi/modules/input/performactions,9703f3f0a1ae56e4e40af5
 web/webdriver/reference/bidi/modules/input/releaseactions,ef8c3806c33f2b1d9d381f4fe3b643b5af5e3d22,WebDriver
 web/webdriver/reference/bidi/modules/input/setfiles,ef8c3806c33f2b1d9d381f4fe3b643b5af5e3d22,WebDriver
 web/webdriver/reference/bidi/modules/log,253bed3def8e1680475ea75987d24ca62ee9f989,WebDriver
-web/webdriver/reference/bidi/modules/log/entryadded,7124ff73f982c7cd1882e5056e849443116f0333,WebDriver
+web/webdriver/reference/bidi/modules/log/entryadded,8a86bbb9816f718762fa855d78b92e5525c0d520,WebDriver
 web/webdriver/reference/bidi/modules/network,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/permissions,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
-web/webdriver/reference/bidi/modules/script,7124ff73f982c7cd1882e5056e849443116f0333,WebDriver
+web/webdriver/reference/bidi/modules/script,8a86bbb9816f718762fa855d78b92e5525c0d520,WebDriver
+web/webdriver/reference/bidi/modules/script/evaluate,8a86bbb9816f718762fa855d78b92e5525c0d520,WebDriver
 web/webdriver/reference/bidi/modules/script/getrealms,7124ff73f982c7cd1882e5056e849443116f0333,WebDriver
 web/webdriver/reference/bidi/modules/script/realmcreated,7124ff73f982c7cd1882e5056e849443116f0333,WebDriver
 web/webdriver/reference/bidi/modules/script/realmdestroyed,7124ff73f982c7cd1882e5056e849443116f0333,WebDriver
