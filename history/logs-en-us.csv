@@ -1968,7 +1968,7 @@ mozilla/firefox/releases/154,27ab6daefdb5b4dea6e70a00bde29b8844e7c1ff,Mozilla|Fi
 mozilla/firefox/releases/155,79f0b295d759e9bb6e3c49197434a1d34c449731,Mozilla|Firefox|Versions
 mozilla/firefox/releases/156,beede695ee6e0cceaabc3e678eb75a148d77a81e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,892eb917bee599a9d6cae7d33ed783129dbb39b3,Mozilla|Firefox|Versions
-mozilla/firefox/releases/158,6d9306930989541d7cf502620320b5a01da0961d,Mozilla|Firefox|Versions
+mozilla/firefox/releases/158,f91fc65d574ad719b1a23e975c4b8e904e1fc4da,Mozilla|Firefox|Versions
 mozilla/firefox/releases/159,91c6fa25d660ab9d0f8b60b19b103518cc3c1603,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -9700,7 +9700,7 @@ web/api/websocketstream/closed,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/websocketstream/opened,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/websocketstream/url,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/websocketstream/websocketstream,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
-web/api/webtransport,ad1fac9d8dd0c9ab8f560e98c5c923559617ba54,Web APIs
+web/api/webtransport,f91fc65d574ad719b1a23e975c4b8e904e1fc4da,Web APIs
 web/api/webtransport/close,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/closed,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/congestioncontrol,581fd2ecfa9a6a5fb6d2b9d0085a089213e168fa,Web APIs
@@ -9716,6 +9716,7 @@ web/api/webtransport/incomingunidirectionalstreams,4de6f76bbfd76229db78ffb7d52cf
 web/api/webtransport/protocol,8413520d9fd826c98db89ff8165408139635d454,Web APIs
 web/api/webtransport/ready,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
 web/api/webtransport/reliability,e1e7e2ac2cb1e40293c32c24bc0667905e9a7a04,Web APIs
+web/api/webtransport/supportsreliableonly_static,f91fc65d574ad719b1a23e975c4b8e904e1fc4da,Web APIs
 web/api/webtransport/webtransport,8413520d9fd826c98db89ff8165408139635d454,Web APIs
 web/api/webtransport_api,64685d67035fa6c3ad63a36e89ce8f59d670c3ac,Web APIs
 web/api/webtransportbidirectionalstream,cc41ecd796870c2b6c77ad0b04fcb8d8c7d877d2,Web APIs
