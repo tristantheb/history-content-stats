@@ -747,12 +747,12 @@ learn_web_development/core/scripting,null
 learn_web_development/core/scripting/a_first_splash,null
 learn_web_development/core/scripting/arrays,null
 learn_web_development/core/scripting/build_your_own_function,null
-learn_web_development/core/scripting/conditionals,9
+learn_web_development/core/scripting/conditionals,10
 learn_web_development/core/scripting/debugging_javascript,18
 learn_web_development/core/scripting/dom_scripting,14
 learn_web_development/core/scripting/event_bubbling,null
 learn_web_development/core/scripting/events,null
-learn_web_development/core/scripting/functions,19
+learn_web_development/core/scripting/functions,20
 learn_web_development/core/scripting/house_data_ui,null
 learn_web_development/core/scripting/image_gallery,null
 learn_web_development/core/scripting/json,null
@@ -760,7 +760,7 @@ learn_web_development/core/scripting/loops,null
 learn_web_development/core/scripting/math,3
 learn_web_development/core/scripting/network_requests,8
 learn_web_development/core/scripting/object_basics,null
-learn_web_development/core/scripting/return_values,5
+learn_web_development/core/scripting/return_values,6
 learn_web_development/core/scripting/silly_story_generator,null
 learn_web_development/core/scripting/strings,6
 learn_web_development/core/scripting/test_your_skills,1
@@ -776,7 +776,7 @@ learn_web_development/core/scripting/test_your_skills/strings,null
 learn_web_development/core/scripting/test_your_skills/variables,null
 learn_web_development/core/scripting/useful_string_methods,0
 learn_web_development/core/scripting/variables,null
-learn_web_development/core/scripting/what_is_javascript,4
+learn_web_development/core/scripting/what_is_javascript,5
 learn_web_development/core/scripting/what_went_wrong,null
 learn_web_development/core/structuring_content,15
 learn_web_development/core/structuring_content/advanced_text_features,9
@@ -2888,7 +2888,7 @@ web/api/client,null
 web/api/client/frametype,0
 web/api/client/id,null
 web/api/client/postmessage,null
-web/api/client/type,null
+web/api/client/type,0
 web/api/client/url,null
 web/api/clients,null
 web/api/clients/claim,null
@@ -3540,7 +3540,7 @@ web/api/document/exitpointerlock,0
 web/api/document/featurepolicy,2
 web/api/document/fgcolor,null
 web/api/document/firstelementchild,1
-web/api/document/fonts,null
+web/api/document/fonts,0
 web/api/document/forms,null
 web/api/document/fragmentdirective,5
 web/api/document/fullscreen,1
@@ -3612,7 +3612,7 @@ web/api/document/startviewtransition,null
 web/api/document/stylesheets,null
 web/api/document/stylesheetsets,null
 web/api/document/timeline,1
-web/api/document/title,null
+web/api/document/title,0
 web/api/document/url,0
 web/api/document/visibilitychange_event,3
 web/api/document/visibilitystate,null
@@ -8783,7 +8783,7 @@ web/api/text/assignedslot,0
 web/api/text/splittext,null
 web/api/text/text,1
 web/api/text/wholetext,2
-web/api/textdecoder,null
+web/api/textdecoder,0
 web/api/textdecoder/decode,null
 web/api/textdecoder/encoding,null
 web/api/textdecoder/fatal,null
@@ -9332,7 +9332,7 @@ web/api/waveshapernode/waveshapernode,null
 web/api/web-based_payment_handler_api,null
 web/api/web_animations_api,2
 web/api/web_animations_api/keyframe_formats,null
-web/api/web_animations_api/tips,4
+web/api/web_animations_api/tips,5
 web/api/web_animations_api/using_the_web_animations_api,null
 web/api/web_animations_api/web_animations_api_concepts,null
 web/api/web_audio_api,null
@@ -9662,7 +9662,7 @@ web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/creating_a_call,3
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/end_a_call,2
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/get_microphone_permission,4
 web/api/webrtc_api/build_a_phone_with_peerjs/connect_peers/show_hide_html,1
-web/api/webrtc_api/build_a_phone_with_peerjs/setup,3
+web/api/webrtc_api/build_a_phone_with_peerjs/setup,4
 web/api/webrtc_api/connectivity,null
 web/api/webrtc_api/intro_to_rtp,0
 web/api/webrtc_api/perfect_negotiation,4
