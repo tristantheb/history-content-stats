@@ -6395,7 +6395,7 @@ web/api/ndefrecord/lang,4
 web/api/ndefrecord/mediatype,2
 web/api/ndefrecord/ndefrecord,7
 web/api/ndefrecord/recordtype,2
-web/api/ndefrecord/torecords,2
+web/api/ndefrecord/torecords,3
 web/api/network_information_api,1
 web/api/networkinformation,5
 web/api/networkinformation/change_event,8
@@ -8142,16 +8142,16 @@ web/api/subscriber/signal,null
 web/api/subtlecrypto,6
 web/api/subtlecrypto/decrypt,6
 web/api/subtlecrypto/derivebits,8
-web/api/subtlecrypto/derivekey,3
+web/api/subtlecrypto/derivekey,4
 web/api/subtlecrypto/digest,6
 web/api/subtlecrypto/encrypt,11
-web/api/subtlecrypto/exportkey,2
+web/api/subtlecrypto/exportkey,3
 web/api/subtlecrypto/generatekey,8
 web/api/subtlecrypto/importkey,8
 web/api/subtlecrypto/sign,10
-web/api/subtlecrypto/unwrapkey,5
+web/api/subtlecrypto/unwrapkey,6
 web/api/subtlecrypto/verify,6
-web/api/subtlecrypto/wrapkey,2
+web/api/subtlecrypto/wrapkey,3
 web/api/summarizer,null
 web/api/summarizer/availability_static,null
 web/api/summarizer/create_static,null
@@ -10754,7 +10754,7 @@ web/css/reference/properties/appearance,3
 web/css/reference/properties/aspect-ratio,2
 web/css/reference/properties/backdrop-filter,2
 web/css/reference/properties/backface-visibility,3
-web/css/reference/properties/background,0
+web/css/reference/properties/background,1
 web/css/reference/properties/background-attachment,1
 web/css/reference/properties/background-blend-mode,1
 web/css/reference/properties/background-clip,1
@@ -10915,7 +10915,7 @@ web/css/reference/properties/cursor,3
 web/css/reference/properties/cx,2
 web/css/reference/properties/cy,1
 web/css/reference/properties/d,1
-web/css/reference/properties/direction,2
+web/css/reference/properties/direction,3
 web/css/reference/properties/display,3
 web/css/reference/properties/dominant-baseline,2
 web/css/reference/properties/dynamic-range-limit,0
@@ -14233,6 +14233,7 @@ web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null
+web/webdriver/reference/bidi/modules/script/evaluate,null
 web/webdriver/reference/bidi/modules/script/getrealms,null
 web/webdriver/reference/bidi/modules/script/realmcreated,null
 web/webdriver/reference/bidi/modules/script/realmdestroyed,null
