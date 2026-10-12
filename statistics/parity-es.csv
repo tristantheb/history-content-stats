@@ -9716,6 +9716,7 @@ web/api/webtransport/incomingunidirectionalstreams,null
 web/api/webtransport/protocol,null
 web/api/webtransport/ready,null
 web/api/webtransport/reliability,null
+web/api/webtransport/supportsreliableonly_static,null
 web/api/webtransport/webtransport,null
 web/api/webtransport_api,null
 web/api/webtransportbidirectionalstream,null

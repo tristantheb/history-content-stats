@@ -9700,7 +9700,7 @@ web/api/websocketstream/closed,null
 web/api/websocketstream/opened,null
 web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,null
-web/api/webtransport,10
+web/api/webtransport,11
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
@@ -9716,6 +9716,7 @@ web/api/webtransport/incomingunidirectionalstreams,null
 web/api/webtransport/protocol,null
 web/api/webtransport/ready,null
 web/api/webtransport/reliability,null
+web/api/webtransport/supportsreliableonly_static,null
 web/api/webtransport/webtransport,null
 web/api/webtransport_api,null
 web/api/webtransportbidirectionalstream,null
