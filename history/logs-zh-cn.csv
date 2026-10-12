@@ -2023,6 +2023,7 @@ web/api/client/frametype,2ef36a6d6f380e79c88bc3a80033e1d3c4629994
 web/api/client/id,no_hash_commit
 web/api/client,no_hash_commit
 web/api/client/postmessage,no_hash_commit
+web/api/client/type,2ef36a6d6f380e79c88bc3a80033e1d3c4629994
 web/api/clients/claim,no_hash_commit
 web/api/clients/get,no_hash_commit
 web/api/clients,no_hash_commit
@@ -2397,7 +2398,7 @@ web/api/document/exitpointerlock,be8f7f155a48e11b30c240f8731afb1845f85378
 web/api/document/featurepolicy,41a8b9c9832359d445d136b6d7a8a28737badc6b
 web/api/document/fgcolor,no_hash_commit
 web/api/document/firstelementchild,41a8b9c9832359d445d136b6d7a8a28737badc6b
-web/api/document/fonts,no_hash_commit
+web/api/document/fonts,e1e7e2ac2cb1e40293c32c24bc0667905e9a7a04
 web/api/document/forms,no_hash_commit
 web/api/document/fragmentdirective,9aaaa8597f2b1b952a9ed116cbe48e4810254cea
 web/api/document/fullscreen,be8f7f155a48e11b30c240f8731afb1845f85378
@@ -2451,7 +2452,7 @@ web/api/document/startviewtransition,no_hash_commit
 web/api/document/stylesheets,no_hash_commit
 web/api/document/stylesheetsets,no_hash_commit
 web/api/document/timeline,41a8b9c9832359d445d136b6d7a8a28737badc6b
-web/api/document/title,no_hash_commit
+web/api/document/title,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b
 web/api/document/url,41a8b9c9832359d445d136b6d7a8a28737badc6b
 web/api/document/visibilitychange_event,0c3f18aca2c8a93d3982183f64bf7762c2c310b0
 web/api/document/visibilitystate,no_hash_commit
@@ -4413,7 +4414,7 @@ web/api/textdecoder/decode,no_hash_commit
 web/api/textdecoder/encoding,no_hash_commit
 web/api/textdecoder/fatal,no_hash_commit
 web/api/textdecoder/ignorebom,no_hash_commit
-web/api/textdecoder,no_hash_commit
+web/api/textdecoder,ccd1540ad8c51242b318bf437dfabe2e5315b3fa
 web/api/textdecoder/textdecoder,no_hash_commit
 web/api/textdecoderstream/encoding,no_hash_commit
 web/api/textdecoderstream/fatal,no_hash_commit
