@@ -1971,6 +1971,7 @@ mozilla/firefox/releases/157,null
 mozilla/firefox/releases/158,null
 mozilla/firefox/releases/159,null
 mozilla/firefox/releases/16,null
+mozilla/firefox/releases/160,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
 mozilla/firefox/releases/19,null
@@ -3644,7 +3645,7 @@ web/api/documentfragment/queryselectorall,0
 web/api/documentfragment/replacechildren,null
 web/api/documentpictureinpicture,2
 web/api/documentpictureinpicture/enter_event,2
-web/api/documentpictureinpicture/requestwindow,4
+web/api/documentpictureinpicture/requestwindow,5
 web/api/documentpictureinpicture/window,2
 web/api/documentpictureinpictureevent,1
 web/api/documentpictureinpictureevent/documentpictureinpictureevent,1
@@ -4424,7 +4425,7 @@ web/api/gamepadevent/gamepad,null
 web/api/gamepadevent/gamepadevent,null
 web/api/gamepadhapticactuator,6
 web/api/gamepadhapticactuator/effects,null
-web/api/gamepadhapticactuator/playeffect,3
+web/api/gamepadhapticactuator/playeffect,4
 web/api/gamepadhapticactuator/pulse,2
 web/api/gamepadhapticactuator/reset,null
 web/api/gamepadhapticactuator/type,4
@@ -4767,7 +4768,7 @@ web/api/htmlallcollection/nameditem,1
 web/api/htmlanchorelement,6
 web/api/htmlanchorelement/attributionsourceid,null
 web/api/htmlanchorelement/attributionsrc,7
-web/api/htmlanchorelement/download,0
+web/api/htmlanchorelement/download,1
 web/api/htmlanchorelement/hash,1
 web/api/htmlanchorelement/host,1
 web/api/htmlanchorelement/hostname,1
@@ -4792,7 +4793,7 @@ web/api/htmlanchorelement/username,2
 web/api/htmlareaelement,null
 web/api/htmlareaelement/alt,null
 web/api/htmlareaelement/coords,null
-web/api/htmlareaelement/download,0
+web/api/htmlareaelement/download,1
 web/api/htmlareaelement/hash,null
 web/api/htmlareaelement/host,null
 web/api/htmlareaelement/hostname,null
@@ -6305,7 +6306,7 @@ web/api/navigator/connection,0
 web/api/navigator/contacts,1
 web/api/navigator/cookieenabled,4
 web/api/navigator/credentials,1
-web/api/navigator/deprecatedreplaceinurn,2
+web/api/navigator/deprecatedreplaceinurn,3
 web/api/navigator/devicememory,0
 web/api/navigator/deviceposture,null
 web/api/navigator/donottrack,4
@@ -6382,7 +6383,7 @@ web/api/ndefreader/ndefreader,1
 web/api/ndefreader/reading_event,null
 web/api/ndefreader/readingerror_event,null
 web/api/ndefreader/scan,3
-web/api/ndefreader/write,6
+web/api/ndefreader/write,7
 web/api/ndefreadingevent,null
 web/api/ndefreadingevent/message,null
 web/api/ndefreadingevent/ndefreadingevent,null
@@ -11713,7 +11714,7 @@ web/html/reference/attributes/required,4
 web/html/reference/attributes/size,3
 web/html/reference/attributes/step,4
 web/html/reference/elements,3
-web/html/reference/elements/a,3
+web/html/reference/elements/a,4
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,4
 web/html/reference/elements/address,5
@@ -11852,7 +11853,7 @@ web/html/reference/elements/source,7
 web/html/reference/elements/span,5
 web/html/reference/elements/strike,4
 web/html/reference/elements/strong,null
-web/html/reference/elements/style,16
+web/html/reference/elements/style,17
 web/html/reference/elements/sub,4
 web/html/reference/elements/summary,null
 web/html/reference/elements/sup,3

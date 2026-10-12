@@ -1971,6 +1971,7 @@ mozilla/firefox/releases/157,null
 mozilla/firefox/releases/158,null
 mozilla/firefox/releases/159,null
 mozilla/firefox/releases/16,null
+mozilla/firefox/releases/160,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
 mozilla/firefox/releases/19,null
@@ -11852,7 +11853,7 @@ web/html/reference/elements/source,null
 web/html/reference/elements/span,null
 web/html/reference/elements/strike,null
 web/html/reference/elements/strong,null
-web/html/reference/elements/style,16
+web/html/reference/elements/style,17
 web/html/reference/elements/sub,null
 web/html/reference/elements/summary,null
 web/html/reference/elements/sup,null

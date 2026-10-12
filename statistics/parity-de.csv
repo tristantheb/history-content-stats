@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,2
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1965,12 +1965,13 @@ mozilla/firefox/releases/151,0
 mozilla/firefox/releases/152,0
 mozilla/firefox/releases/153,0
 mozilla/firefox/releases/154,0
-mozilla/firefox/releases/155,0
+mozilla/firefox/releases/155,1
 mozilla/firefox/releases/156,0
-mozilla/firefox/releases/157,0
-mozilla/firefox/releases/158,2
-mozilla/firefox/releases/159,0
+mozilla/firefox/releases/157,1
+mozilla/firefox/releases/158,9
+mozilla/firefox/releases/159,1
 mozilla/firefox/releases/16,0
+mozilla/firefox/releases/160,null
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
 mozilla/firefox/releases/19,0
@@ -2017,7 +2018,7 @@ mozilla/firefox/releases/34,0
 mozilla/firefox/releases/35,0
 mozilla/firefox/releases/36,0
 mozilla/firefox/releases/37,0
-mozilla/firefox/releases/38,0
+mozilla/firefox/releases/38,1
 mozilla/firefox/releases/39,0
 mozilla/firefox/releases/4,0
 mozilla/firefox/releases/4/the_add-on_bar,0
@@ -2636,7 +2637,7 @@ web/api/biquadfilternode/biquadfilternode,0
 web/api/biquadfilternode/detune,0
 web/api/biquadfilternode/frequency,0
 web/api/biquadfilternode/gain,0
-web/api/biquadfilternode/getfrequencyresponse,0
+web/api/biquadfilternode/getfrequencyresponse,1
 web/api/biquadfilternode/q,0
 web/api/biquadfilternode/type,0
 web/api/blob,0
@@ -3432,7 +3433,7 @@ web/api/dedicatedworkerglobalscope/name,0
 web/api/dedicatedworkerglobalscope/postmessage,0
 web/api/dedicatedworkerglobalscope/requestanimationframe,0
 web/api/dedicatedworkerglobalscope/rtctransform_event,0
-web/api/deferredrequestinit,0
+web/api/deferredrequestinit,1
 web/api/delaynode,0
 web/api/delaynode/delaynode,0
 web/api/delaynode/delaytime,0
@@ -3556,8 +3557,8 @@ web/api/document/getelementsbytagname,0
 web/api/document/getelementsbytagnamens,0
 web/api/document/getselection,0
 web/api/document/hasfocus,0
-web/api/document/hasprivatetoken,0
-web/api/document/hasredemptionrecord,0
+web/api/document/hasprivatetoken,1
+web/api/document/hasredemptionrecord,1
 web/api/document/hasstorageaccess,0
 web/api/document/hasunpartitionedcookieaccess,0
 web/api/document/head,0
@@ -3644,7 +3645,7 @@ web/api/documentfragment/queryselectorall,0
 web/api/documentfragment/replacechildren,0
 web/api/documentpictureinpicture,0
 web/api/documentpictureinpicture/enter_event,0
-web/api/documentpictureinpicture/requestwindow,0
+web/api/documentpictureinpicture/requestwindow,1
 web/api/documentpictureinpicture/window,0
 web/api/documentpictureinpictureevent,0
 web/api/documentpictureinpictureevent/documentpictureinpictureevent,0
@@ -4424,7 +4425,7 @@ web/api/gamepadevent/gamepad,0
 web/api/gamepadevent/gamepadevent,0
 web/api/gamepadhapticactuator,0
 web/api/gamepadhapticactuator/effects,0
-web/api/gamepadhapticactuator/playeffect,0
+web/api/gamepadhapticactuator/playeffect,1
 web/api/gamepadhapticactuator/pulse,0
 web/api/gamepadhapticactuator/reset,0
 web/api/gamepadhapticactuator/type,0
@@ -4471,7 +4472,7 @@ web/api/gpuadapter/info,0
 web/api/gpuadapter/isfallbackadapter,0
 web/api/gpuadapter/limits,0
 web/api/gpuadapter/requestadapterinfo,0
-web/api/gpuadapter/requestdevice,0
+web/api/gpuadapter/requestdevice,1
 web/api/gpuadapterinfo,0
 web/api/gpuadapterinfo/architecture,0
 web/api/gpuadapterinfo/description,0
@@ -4495,7 +4496,7 @@ web/api/gpubuffer/unmap,0
 web/api/gpubuffer/usage,0
 web/api/gpucanvascontext,0
 web/api/gpucanvascontext/canvas,0
-web/api/gpucanvascontext/configure,0
+web/api/gpucanvascontext/configure,1
 web/api/gpucanvascontext/getconfiguration,0
 web/api/gpucanvascontext/getcurrenttexture,0
 web/api/gpucanvascontext/unconfigure,0
@@ -4533,7 +4534,7 @@ web/api/gpucomputepassencoder/insertdebugmarker,0
 web/api/gpucomputepassencoder/label,0
 web/api/gpucomputepassencoder/popdebuggroup,0
 web/api/gpucomputepassencoder/pushdebuggroup,0
-web/api/gpucomputepassencoder/setbindgroup,0
+web/api/gpucomputepassencoder/setbindgroup,1
 web/api/gpucomputepassencoder/setpipeline,0
 web/api/gpucomputepipeline,0
 web/api/gpucomputepipeline/getbindgrouplayout,0
@@ -4542,7 +4543,7 @@ web/api/gpudevice,0
 web/api/gpudevice/adapterinfo,0
 web/api/gpudevice/createbindgroup,0
 web/api/gpudevice/createbindgrouplayout,0
-web/api/gpudevice/createbuffer,0
+web/api/gpudevice/createbuffer,1
 web/api/gpudevice/createcommandencoder,0
 web/api/gpudevice/createcomputepipeline,0
 web/api/gpudevice/createcomputepipelineasync,0
@@ -4604,7 +4605,7 @@ web/api/gpurenderbundleencoder/insertdebugmarker,0
 web/api/gpurenderbundleencoder/label,0
 web/api/gpurenderbundleencoder/popdebuggroup,0
 web/api/gpurenderbundleencoder/pushdebuggroup,0
-web/api/gpurenderbundleencoder/setbindgroup,0
+web/api/gpurenderbundleencoder/setbindgroup,1
 web/api/gpurenderbundleencoder/setindexbuffer,0
 web/api/gpurenderbundleencoder/setpipeline,0
 web/api/gpurenderbundleencoder/setvertexbuffer,0
@@ -4621,7 +4622,7 @@ web/api/gpurenderpassencoder/insertdebugmarker,0
 web/api/gpurenderpassencoder/label,0
 web/api/gpurenderpassencoder/popdebuggroup,0
 web/api/gpurenderpassencoder/pushdebuggroup,0
-web/api/gpurenderpassencoder/setbindgroup,0
+web/api/gpurenderpassencoder/setbindgroup,1
 web/api/gpurenderpassencoder/setblendconstant,0
 web/api/gpurenderpassencoder/setindexbuffer,0
 web/api/gpurenderpassencoder/setpipeline,0
@@ -4767,7 +4768,7 @@ web/api/htmlallcollection/nameditem,0
 web/api/htmlanchorelement,0
 web/api/htmlanchorelement/attributionsourceid,0
 web/api/htmlanchorelement/attributionsrc,0
-web/api/htmlanchorelement/download,0
+web/api/htmlanchorelement/download,1
 web/api/htmlanchorelement/hash,0
 web/api/htmlanchorelement/host,0
 web/api/htmlanchorelement/hostname,0
@@ -4792,7 +4793,7 @@ web/api/htmlanchorelement/username,0
 web/api/htmlareaelement,0
 web/api/htmlareaelement/alt,0
 web/api/htmlareaelement/coords,0
-web/api/htmlareaelement/download,0
+web/api/htmlareaelement/download,1
 web/api/htmlareaelement/hash,0
 web/api/htmlareaelement/host,0
 web/api/htmlareaelement/hostname,0
@@ -4849,8 +4850,8 @@ web/api/htmlcanvaselement/contextrestored_event,0
 web/api/htmlcanvaselement/getcontext,0
 web/api/htmlcanvaselement/height,0
 web/api/htmlcanvaselement/mozopaque,0
-web/api/htmlcanvaselement/toblob,0
-web/api/htmlcanvaselement/todataurl,0
+web/api/htmlcanvaselement/toblob,1
+web/api/htmlcanvaselement/todataurl,1
 web/api/htmlcanvaselement/transfercontroltooffscreen,0
 web/api/htmlcanvaselement/webglcontextcreationerror_event,0
 web/api/htmlcanvaselement/webglcontextlost_event,0
@@ -5541,9 +5542,9 @@ web/api/idbfactory/open,0
 web/api/idbindex,0
 web/api/idbindex/count,0
 web/api/idbindex/get,0
-web/api/idbindex/getall,0
-web/api/idbindex/getallkeys,0
-web/api/idbindex/getallrecords,0
+web/api/idbindex/getall,1
+web/api/idbindex/getallkeys,1
+web/api/idbindex/getallrecords,1
 web/api/idbindex/getkey,0
 web/api/idbindex/isautolocale,0
 web/api/idbindex/keypath,0
@@ -5573,9 +5574,9 @@ web/api/idbobjectstore/createindex,0
 web/api/idbobjectstore/delete,0
 web/api/idbobjectstore/deleteindex,0
 web/api/idbobjectstore/get,0
-web/api/idbobjectstore/getall,0
-web/api/idbobjectstore/getallkeys,0
-web/api/idbobjectstore/getallrecords,0
+web/api/idbobjectstore/getall,1
+web/api/idbobjectstore/getallkeys,1
+web/api/idbobjectstore/getallrecords,1
 web/api/idbobjectstore/getkey,0
 web/api/idbobjectstore/index,0
 web/api/idbobjectstore/indexnames,0
@@ -5590,7 +5591,7 @@ web/api/idbopendbrequest/blocked_event,0
 web/api/idbopendbrequest/upgradeneeded_event,0
 web/api/idbrecord,0
 web/api/idbrequest,0
-web/api/idbrequest/error,0
+web/api/idbrequest/error,1
 web/api/idbrequest/error_event,0
 web/api/idbrequest/readystate,0
 web/api/idbrequest/result,0
@@ -5703,7 +5704,7 @@ web/api/inputevent/inputtype,0
 web/api/inputevent/iscomposing,0
 web/api/insertable_streams_for_mediastreamtrack_api,0
 web/api/installevent,0
-web/api/installevent/addroutes,0
+web/api/installevent/addroutes,1
 web/api/installevent/installevent,0
 web/api/integrityviolationreport,0
 web/api/interactioncontentfulpaint,0
@@ -5789,13 +5790,13 @@ web/api/languagedetector/expectedinputlanguages,0
 web/api/languagedetector/inputquota,0
 web/api/languagedetector/measureinputusage,0
 web/api/languagemodel,0
-web/api/languagemodel/append,0
+web/api/languagemodel/append,1
 web/api/languagemodel/availability_static,0
 web/api/languagemodel/clone,0
 web/api/languagemodel/contextoverflow_event,0
 web/api/languagemodel/contextusage,0
 web/api/languagemodel/contextwindow,0
-web/api/languagemodel/create_static,0
+web/api/languagemodel/create_static,1
 web/api/languagemodel/destroy,0
 web/api/languagemodel/measurecontextusage,0
 web/api/languagemodel/prompt,0
@@ -5928,7 +5929,7 @@ web/api/mediakeymessageevent/message,0
 web/api/mediakeymessageevent/messagetype,0
 web/api/mediakeys,0
 web/api/mediakeys/createsession,0
-web/api/mediakeys/getstatusforpolicy,0
+web/api/mediakeys/getstatusforpolicy,1
 web/api/mediakeys/setservercertificate,0
 web/api/mediakeysession,0
 web/api/mediakeysession/close,0
@@ -6305,7 +6306,7 @@ web/api/navigator/connection,0
 web/api/navigator/contacts,0
 web/api/navigator/cookieenabled,0
 web/api/navigator/credentials,0
-web/api/navigator/deprecatedreplaceinurn,0
+web/api/navigator/deprecatedreplaceinurn,1
 web/api/navigator/devicememory,0
 web/api/navigator/deviceposture,0
 web/api/navigator/donottrack,0
@@ -6382,7 +6383,7 @@ web/api/ndefreader/ndefreader,0
 web/api/ndefreader/reading_event,0
 web/api/ndefreader/readingerror_event,0
 web/api/ndefreader/scan,0
-web/api/ndefreader/write,0
+web/api/ndefreader/write,1
 web/api/ndefreadingevent,0
 web/api/ndefreadingevent/message,0
 web/api/ndefreadingevent/ndefreadingevent,0
@@ -7000,7 +7001,7 @@ web/api/processinginstruction/sheet,0
 web/api/processinginstruction/target,0
 web/api/processinginstruction/toggleattribute,0
 web/api/profiler,0
-web/api/profiler/profiler,0
+web/api/profiler/profiler,1
 web/api/profiler/samplebufferfull_event,0
 web/api/profiler/stop,0
 web/api/progressevent,0
@@ -7028,9 +7029,9 @@ web/api/publickeycredential/parsecreationoptionsfromjson_static,0
 web/api/publickeycredential/parserequestoptionsfromjson_static,0
 web/api/publickeycredential/rawid,0
 web/api/publickeycredential/response,0
-web/api/publickeycredential/signalallacceptedcredentials_static,0
-web/api/publickeycredential/signalcurrentuserdetails_static,0
-web/api/publickeycredential/signalunknowncredential_static,0
+web/api/publickeycredential/signalallacceptedcredentials_static,1
+web/api/publickeycredential/signalcurrentuserdetails_static,1
+web/api/publickeycredential/signalunknowncredential_static,1
 web/api/publickeycredential/tojson,0
 web/api/publickeycredentialcreationoptions,0
 web/api/publickeycredentialrequestoptions,0
@@ -7507,7 +7508,7 @@ web/api/rtcpeerconnection/cantrickleicecandidates,0
 web/api/rtcpeerconnection/close,0
 web/api/rtcpeerconnection/connectionstate,0
 web/api/rtcpeerconnection/connectionstatechange_event,0
-web/api/rtcpeerconnection/createanswer,0
+web/api/rtcpeerconnection/createanswer,1
 web/api/rtcpeerconnection/createdatachannel,0
 web/api/rtcpeerconnection/createdtmfsender,0
 web/api/rtcpeerconnection/createoffer,0
@@ -7605,10 +7606,10 @@ web/api/rtcrtpreceiver/transport,0
 web/api/rtcrtpscripttransform,0
 web/api/rtcrtpscripttransform/rtcrtpscripttransform,0
 web/api/rtcrtpscripttransformer,0
-web/api/rtcrtpscripttransformer/generatekeyframe,0
+web/api/rtcrtpscripttransformer/generatekeyframe,1
 web/api/rtcrtpscripttransformer/options,0
 web/api/rtcrtpscripttransformer/readable,0
-web/api/rtcrtpscripttransformer/sendkeyframerequest,0
+web/api/rtcrtpscripttransformer/sendkeyframerequest,1
 web/api/rtcrtpscripttransformer/writable,0
 web/api/rtcrtpsender,0
 web/api/rtcrtpsender/dtmf,0
@@ -9817,7 +9818,7 @@ web/api/window/event,0
 web/api/window/external,0
 web/api/window/fence,0
 web/api/window/fetch,0
-web/api/window/fetchlater,0
+web/api/window/fetchlater,1
 web/api/window/find,0
 web/api/window/focus,0
 web/api/window/focus_event,0
@@ -9840,7 +9841,7 @@ web/api/window/languagechange_event,0
 web/api/window/launchqueue,0
 web/api/window/length,0
 web/api/window/load_event,0
-web/api/window/localstorage,0
+web/api/window/localstorage,1
 web/api/window/location,0
 web/api/window/locationbar,0
 web/api/window/matchmedia,0
@@ -9906,7 +9907,7 @@ web/api/window/scrollto,0
 web/api/window/scrollx,0
 web/api/window/scrolly,0
 web/api/window/self,0
-web/api/window/sessionstorage,0
+web/api/window/sessionstorage,1
 web/api/window/setimmediate,0
 web/api/window/setinterval,0
 web/api/window/setresizable,0
@@ -10080,7 +10081,7 @@ web/api/xmlhttprequest/responsetype,0
 web/api/xmlhttprequest/responseurl,0
 web/api/xmlhttprequest/responsexml,0
 web/api/xmlhttprequest/send,0
-web/api/xmlhttprequest/setattributionreporting,0
+web/api/xmlhttprequest/setattributionreporting,1
 web/api/xmlhttprequest/setprivatetoken,0
 web/api/xmlhttprequest/setrequestheader,0
 web/api/xmlhttprequest/status,0
@@ -10284,7 +10285,7 @@ web/api/xrsession/requestanimationframe,0
 web/api/xrsession/requesthittestsource,0
 web/api/xrsession/requesthittestsourcefortransientinput,0
 web/api/xrsession/requestlightprobe,0
-web/api/xrsession/requestreferencespace,0
+web/api/xrsession/requestreferencespace,1
 web/api/xrsession/select_event,0
 web/api/xrsession/selectend_event,0
 web/api/xrsession/selectstart_event,0
@@ -10303,7 +10304,7 @@ web/api/xrsubimage,0
 web/api/xrsubimage/viewport,0
 web/api/xrsystem,0
 web/api/xrsystem/devicechange_event,0
-web/api/xrsystem/issessionsupported,0
+web/api/xrsystem/issessionsupported,1
 web/api/xrsystem/requestsession,0
 web/api/xrtransientinputhittestresult,0
 web/api/xrtransientinputhittestresult/inputsource,0
@@ -11571,7 +11572,7 @@ web/css/reference/values/hypot,0
 web/css/reference/values/ident,0
 web/css/reference/values/if,0
 web/css/reference/values/image,0
-web/css/reference/values/image/image,0
+web/css/reference/values/image/image,1
 web/css/reference/values/image/image-set,0
 web/css/reference/values/image/paint,0
 web/css/reference/values/important,0
@@ -11713,7 +11714,7 @@ web/html/reference/attributes/required,0
 web/html/reference/attributes/size,0
 web/html/reference/attributes/step,0
 web/html/reference/elements,0
-web/html/reference/elements/a,0
+web/html/reference/elements/a,1
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,0
 web/html/reference/elements/address,0
@@ -11852,7 +11853,7 @@ web/html/reference/elements/source,0
 web/html/reference/elements/span,0
 web/html/reference/elements/strike,0
 web/html/reference/elements/strong,0
-web/html/reference/elements/style,0
+web/html/reference/elements/style,1
 web/html/reference/elements/sub,0
 web/html/reference/elements/summary,0
 web/html/reference/elements/sup,0
@@ -11994,7 +11995,7 @@ web/http/reference/headers/cache-control,0
 web/http/reference/headers/clear-site-data,0
 web/http/reference/headers/connection,0
 web/http/reference/headers/content-digest,0
-web/http/reference/headers/content-disposition,0
+web/http/reference/headers/content-disposition,1
 web/http/reference/headers/content-dpr,0
 web/http/reference/headers/content-encoding,0
 web/http/reference/headers/content-language,0
