@@ -2949,6 +2949,7 @@ web/api/compute_pressure_api,null
 web/api/console,null
 web/api/console/assert_static,null
 web/api/console/clear_static,null
+web/api/console/context_static,null
 web/api/console/count_static,null
 web/api/console/countreset_static,null
 web/api/console/debug_static,null
@@ -3946,7 +3947,7 @@ web/api/element/id,null
 web/api/element/innerhtml,null
 web/api/element/input_event,null
 web/api/element/insertadjacentelement,null
-web/api/element/insertadjacenthtml,8
+web/api/element/insertadjacenthtml,9
 web/api/element/insertadjacenttext,null
 web/api/element/keydown_event,null
 web/api/element/keypress_event,null
@@ -4011,7 +4012,7 @@ web/api/element/scrolltop,null
 web/api/element/scrolltopmax,null
 web/api/element/scrollwidth,null
 web/api/element/securitypolicyviolation_event,null
-web/api/element/setattribute,11
+web/api/element/setattribute,12
 web/api/element/setattributenode,null
 web/api/element/setattributenodens,null
 web/api/element/setattributens,null

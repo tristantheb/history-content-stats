@@ -7452,12 +7452,12 @@ web/svg/reference/attribute/zoomandpan,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/element/a,94a841dba1498c685a18e72d041fd9057f302d6c
 web/svg/reference/element/animate,no_hash_commit
 web/svg/reference/element/animatemotion,603d83f1e1cdfd634e2f0b7b939466c7660822d3
-web/svg/reference/element/animatetransform,no_hash_commit
+web/svg/reference/element/animatetransform,12222b32eec33a7411c6de8afc8408d9aa617dd2
 web/svg/reference/element/circle,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/clippath,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/svg/reference/element/defs,no_hash_commit
 web/svg/reference/element/desc,ac806e34aba086be141689c64dc4dd73636fbd62
-web/svg/reference/element/ellipse,no_hash_commit
+web/svg/reference/element/ellipse,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/feblend,3a1ef2abc8233835f0b0cc73afaf36e44edaf4a1
 web/svg/reference/element/fecolormatrix,no_hash_commit
 web/svg/reference/element/fecomponenttransfer,3a1ef2abc8233835f0b0cc73afaf36e44edaf4a1

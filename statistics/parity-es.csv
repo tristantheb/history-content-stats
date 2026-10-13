@@ -2949,6 +2949,7 @@ web/api/compute_pressure_api,null
 web/api/console,null
 web/api/console/assert_static,null
 web/api/console/clear_static,null
+web/api/console/context_static,null
 web/api/console/count_static,null
 web/api/console/countreset_static,null
 web/api/console/debug_static,null
