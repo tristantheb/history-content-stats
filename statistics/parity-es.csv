@@ -3987,7 +3987,7 @@ web/api/element/pseudo,null
 web/api/element/queryselector,null
 web/api/element/queryselectorall,null
 web/api/element/releasepointercapture,null
-web/api/element/remove,2
+web/api/element/remove,3
 web/api/element/removeattribute,null
 web/api/element/removeattributenode,null
 web/api/element/removeattributens,null
