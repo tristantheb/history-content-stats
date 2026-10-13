@@ -2921,7 +2921,7 @@ web/api/formdataevent,56dbf87640f2c91ec0ca3b95a8291fe7e362b9a8
 web/api/fragmentdirective,9aaaa8597f2b1b952a9ed116cbe48e4810254cea
 web/api/fullscreen_api/guide,c17bd570e356cdf3e1abb4c2dfe1e57a2cfb5bc7
 web/api/fullscreen_api,4d929bb0a021c7130d5a71a4bf505bcb8070378d
-web/api/gainnode/gain,no_hash_commit
+web/api/gainnode/gain,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c
 web/api/gainnode,no_hash_commit
 web/api/gamepad,no_hash_commit
 web/api/gamepad_api,no_hash_commit
@@ -7133,6 +7133,7 @@ web/javascript/reference/operators/greater_than_or_equal,no_hash_commit
 web/javascript/reference/operators/grouping,no_hash_commit
 web/javascript/reference/operators/import.meta,4f86aad2b0b66c0d2041354ec81400c574ab56ca
 web/javascript/reference/operators/import.meta/resolve,0ca040b6a9cfd931558bd1d3a402707abddc1924
+web/javascript/reference/operators/import/defer,76c2e04d720aa8260ba7d75788ed96776aac35c6
 web/javascript/reference/operators/import,eb7cf694c19b31ee8826f22eaac6c12e808b1e50
 web/javascript/reference/operators/in,no_hash_commit
 web/javascript/reference/operators/increment,no_hash_commit

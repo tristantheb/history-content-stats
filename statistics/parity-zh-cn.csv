@@ -4400,7 +4400,7 @@ web/api/fragmentdirective,6
 web/api/fullscreen_api,6
 web/api/fullscreen_api/guide,3
 web/api/gainnode,null
-web/api/gainnode/gain,null
+web/api/gainnode/gain,0
 web/api/gainnode/gainnode,null
 web/api/gamepad,null
 web/api/gamepad/axes,null
@@ -13530,7 +13530,7 @@ web/javascript/reference/operators/grouping,null
 web/javascript/reference/operators/import,10
 web/javascript/reference/operators/import.meta,1
 web/javascript/reference/operators/import.meta/resolve,1
-web/javascript/reference/operators/import/defer,null
+web/javascript/reference/operators/import/defer,0
 web/javascript/reference/operators/import/source,null
 web/javascript/reference/operators/in,null
 web/javascript/reference/operators/increment,null

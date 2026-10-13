@@ -10549,7 +10549,7 @@ web/css/guides/scroll_anchoring/overview,85fccefc8066bd49af4ddafc12c77f35265c7e2
 web/css/guides/scroll_snap,1474534461893381d54c502e655f334b5568e597,CSS|Guides
 web/css/guides/scroll_snap/basic_concepts,a14f56b06eabf3b182ae4bc0e02634a8ccc01f20,CSS|Guides
 web/css/guides/scroll_snap/using_scroll_snap_events,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/scrollbars_styling,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,CSS|Guides
+web/css/guides/scrollbars_styling,553d17671f5fec31365fedfaad8e5343d14c0bd8,CSS|Guides
 web/css/guides/selectors,a75edf682e5e346b4f97582db6cbccaae800ef73,CSS|Guides
 web/css/guides/selectors/privacy_and__colon_visited,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/selectors/selector_structure,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
@@ -13707,8 +13707,8 @@ web/media/guides/audio_and_video_delivery/webaudio_playbackrate_explained,6036cd
 web/media/guides/audio_and_video_manipulation,6030ef1aadf967b80e2c79c3d3463cccc8ea0c95,Media|Guides
 web/media/guides/autoplay,f4c221962681b1472cd57da60379ad7825fe5081,Media|Guides
 web/media/guides/formats,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
-web/media/guides/formats/audio_codecs,4954cf900f039e0cd9a0703dae742aea2663823c,Media|Guides
-web/media/guides/formats/audio_concepts,4954cf900f039e0cd9a0703dae742aea2663823c,Media|Guides
+web/media/guides/formats/audio_codecs,e404ef152d13623bc21e053c7cb9b81903fbce63,Media|Guides
+web/media/guides/formats/audio_concepts,e404ef152d13623bc21e053c7cb9b81903fbce63,Media|Guides
 web/media/guides/formats/codecs_parameter,517b6108edc9a1eae8723f7f3ae434c1724d89ac,Media|Guides
 web/media/guides/formats/configuring_servers_for_ogg_media,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Media|Guides
 web/media/guides/formats/containers,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,Media|Guides
