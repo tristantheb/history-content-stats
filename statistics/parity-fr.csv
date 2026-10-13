@@ -11095,11 +11095,11 @@ web/css/reference/properties/overflow-wrap,0
 web/css/reference/properties/overflow-x,0
 web/css/reference/properties/overflow-y,0
 web/css/reference/properties/overlay,1
-web/css/reference/properties/overscroll-behavior,0
-web/css/reference/properties/overscroll-behavior-block,0
-web/css/reference/properties/overscroll-behavior-inline,0
-web/css/reference/properties/overscroll-behavior-x,0
-web/css/reference/properties/overscroll-behavior-y,0
+web/css/reference/properties/overscroll-behavior,1
+web/css/reference/properties/overscroll-behavior-block,1
+web/css/reference/properties/overscroll-behavior-inline,1
+web/css/reference/properties/overscroll-behavior-x,1
+web/css/reference/properties/overscroll-behavior-y,1
 web/css/reference/properties/padding,0
 web/css/reference/properties/padding-block,0
 web/css/reference/properties/padding-block-end,0

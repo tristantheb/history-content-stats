@@ -7512,7 +7512,7 @@ web/api/rtcpeerconnection/connectionstatechange_event,null
 web/api/rtcpeerconnection/createanswer,null
 web/api/rtcpeerconnection/createdatachannel,1
 web/api/rtcpeerconnection/createdtmfsender,null
-web/api/rtcpeerconnection/createoffer,4
+web/api/rtcpeerconnection/createoffer,5
 web/api/rtcpeerconnection/currentlocaldescription,null
 web/api/rtcpeerconnection/currentremotedescription,null
 web/api/rtcpeerconnection/datachannel_event,null
