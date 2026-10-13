@@ -2949,6 +2949,7 @@ web/api/compute_pressure_api,null
 web/api/console,null
 web/api/console/assert_static,null
 web/api/console/clear_static,null
+web/api/console/context_static,null
 web/api/console/count_static,null
 web/api/console/countreset_static,null
 web/api/console/debug_static,null
@@ -4014,7 +4015,7 @@ web/api/element/securitypolicyviolation_event,null
 web/api/element/setattribute,-1
 web/api/element/setattributenode,null
 web/api/element/setattributenodens,null
-web/api/element/setattributens,null
+web/api/element/setattributens,-1
 web/api/element/setcapture,null
 web/api/element/sethtml,null
 web/api/element/sethtmlunsafe,null

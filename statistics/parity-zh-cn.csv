@@ -2949,6 +2949,7 @@ web/api/compute_pressure_api,null
 web/api/console,null
 web/api/console/assert_static,null
 web/api/console/clear_static,null
+web/api/console/context_static,null
 web/api/console/count_static,null
 web/api/console/countreset_static,null
 web/api/console/debug_static,null
@@ -3618,8 +3619,8 @@ web/api/document/url,0
 web/api/document/visibilitychange_event,3
 web/api/document/visibilitystate,null
 web/api/document/vlinkcolor,1
-web/api/document/write,14
-web/api/document/writeln,9
+web/api/document/write,15
+web/api/document/writeln,10
 web/api/document/xmlencoding,1
 web/api/document/xmlversion,1
 web/api/document_object_model,7
@@ -4011,10 +4012,10 @@ web/api/element/scrolltop,3
 web/api/element/scrolltopmax,0
 web/api/element/scrollwidth,1
 web/api/element/securitypolicyviolation_event,null
-web/api/element/setattribute,7
+web/api/element/setattribute,8
 web/api/element/setattributenode,2
 web/api/element/setattributenodens,1
-web/api/element/setattributens,null
+web/api/element/setattributens,9
 web/api/element/setcapture,6
 web/api/element/sethtml,null
 web/api/element/sethtmlunsafe,null
@@ -5028,7 +5029,7 @@ web/api/htmliframeelement/privatetoken,null
 web/api/htmliframeelement/referrerpolicy,5
 web/api/htmliframeelement/sandbox,1
 web/api/htmliframeelement/src,5
-web/api/htmliframeelement/srcdoc,6
+web/api/htmliframeelement/srcdoc,7
 web/api/htmliframeelement/width,0
 web/api/htmlimageelement,null
 web/api/htmlimageelement/align,null
@@ -7080,7 +7081,7 @@ web/api/range/commonancestorcontainer,null
 web/api/range/compareboundarypoints,null
 web/api/range/comparenode,null
 web/api/range/comparepoint,null
-web/api/range/createcontextualfragment,3
+web/api/range/createcontextualfragment,4
 web/api/range/deletecontents,null
 web/api/range/detach,null
 web/api/range/extractcontents,1
@@ -7900,7 +7901,7 @@ web/api/shadowroot/fullscreenelement,1
 web/api/shadowroot/getanimations,null
 web/api/shadowroot/gethtml,null
 web/api/shadowroot/host,null
-web/api/shadowroot/innerhtml,8
+web/api/shadowroot/innerhtml,9
 web/api/shadowroot/mode,null
 web/api/shadowroot/pictureinpictureelement,0
 web/api/shadowroot/pointerlockelement,0
@@ -7927,7 +7928,7 @@ web/api/sharedstorageworkletglobalscope/sharedstorage,null
 web/api/sharedworker,null
 web/api/sharedworker/error_event,null
 web/api/sharedworker/port,null
-web/api/sharedworker/sharedworker,0
+web/api/sharedworker/sharedworker,1
 web/api/sharedworkerglobalscope,null
 web/api/sharedworkerglobalscope/close,null
 web/api/sharedworkerglobalscope/connect_event,null
@@ -11841,7 +11842,7 @@ web/html/reference/elements/s,4
 web/html/reference/elements/samp,null
 web/html/reference/elements/script,0
 web/html/reference/elements/script/type,null
-web/html/reference/elements/script/type/importmap,0
+web/html/reference/elements/script/type/importmap,1
 web/html/reference/elements/script/type/speculationrules,null
 web/html/reference/elements/search,3
 web/html/reference/elements/section,null
@@ -14089,12 +14090,12 @@ web/svg/reference/element,2
 web/svg/reference/element/a,1
 web/svg/reference/element/animate,null
 web/svg/reference/element/animatemotion,0
-web/svg/reference/element/animatetransform,null
+web/svg/reference/element/animatetransform,0
 web/svg/reference/element/circle,0
 web/svg/reference/element/clippath,0
 web/svg/reference/element/defs,null
 web/svg/reference/element/desc,0
-web/svg/reference/element/ellipse,null
+web/svg/reference/element/ellipse,0
 web/svg/reference/element/feblend,4
 web/svg/reference/element/fecolormatrix,null
 web/svg/reference/element/fecomponenttransfer,6
@@ -14467,7 +14468,7 @@ webassembly/reference/javascript_interface/compileerror,1
 webassembly/reference/javascript_interface/compileerror/compileerror,1
 webassembly/reference/javascript_interface/compilestreaming_static,1
 webassembly/reference/javascript_interface/exception,-1
-webassembly/reference/javascript_interface/exception/exception,5
+webassembly/reference/javascript_interface/exception/exception,6
 webassembly/reference/javascript_interface/exception/getarg,2
 webassembly/reference/javascript_interface/exception/is,2
 webassembly/reference/javascript_interface/exception/stack,4
