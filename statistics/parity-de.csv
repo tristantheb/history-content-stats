@@ -10549,7 +10549,7 @@ web/css/guides/scroll_anchoring/overview,0
 web/css/guides/scroll_snap,0
 web/css/guides/scroll_snap/basic_concepts,0
 web/css/guides/scroll_snap/using_scroll_snap_events,0
-web/css/guides/scrollbars_styling,0
+web/css/guides/scrollbars_styling,1
 web/css/guides/selectors,0
 web/css/guides/selectors/privacy_and__colon_visited,0
 web/css/guides/selectors/selector_structure,0
@@ -13707,8 +13707,8 @@ web/media/guides/audio_and_video_delivery/webaudio_playbackrate_explained,0
 web/media/guides/audio_and_video_manipulation,0
 web/media/guides/autoplay,0
 web/media/guides/formats,0
-web/media/guides/formats/audio_codecs,0
-web/media/guides/formats/audio_concepts,0
+web/media/guides/formats/audio_codecs,1
+web/media/guides/formats/audio_concepts,1
 web/media/guides/formats/codecs_parameter,0
 web/media/guides/formats/configuring_servers_for_ogg_media,0
 web/media/guides/formats/containers,0
