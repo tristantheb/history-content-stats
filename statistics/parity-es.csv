@@ -36,7 +36,7 @@ games/techniques/webrtc_data_channels,null
 games/tools,null
 games/tools/asm.js,null
 games/tutorials,5
-games/tutorials/2d_breakout_game_phaser,8
+games/tutorials/2d_breakout_game_phaser,0
 games/tutorials/2d_breakout_game_phaser/animations_and_tweens,0
 games/tutorials/2d_breakout_game_phaser/bounce_off_the_walls,0
 games/tutorials/2d_breakout_game_phaser/build_the_brick_field,0
@@ -4751,7 +4751,7 @@ web/api/hmdvrdevice,null
 web/api/hmdvrdevice/geteyeparameters,null
 web/api/hmdvrdevice/setfieldofview,null
 web/api/houdini_apis,null
-web/api/html_dom_api,2
+web/api/html_dom_api,3
 web/api/html_dom_api/microtask_guide,null
 web/api/html_dom_api/microtask_guide/in_depth,null
 web/api/html_drag_and_drop_api,null
@@ -11771,14 +11771,14 @@ web/html/reference/elements/html,null
 web/html/reference/elements/i,null
 web/html/reference/elements/iframe,null
 web/html/reference/elements/img,0
-web/html/reference/elements/input,2
+web/html/reference/elements/input,3
 web/html/reference/elements/input/button,null
-web/html/reference/elements/input/checkbox,1
+web/html/reference/elements/input/checkbox,2
 web/html/reference/elements/input/color,0
 web/html/reference/elements/input/date,null
-web/html/reference/elements/input/datetime-local,1
+web/html/reference/elements/input/datetime-local,2
 web/html/reference/elements/input/email,null
-web/html/reference/elements/input/file,15
+web/html/reference/elements/input/file,16
 web/html/reference/elements/input/hidden,null
 web/html/reference/elements/input/image,null
 web/html/reference/elements/input/month,null
