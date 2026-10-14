@@ -1124,7 +1124,7 @@ mozilla,0
 mozilla/add-ons,0
 mozilla/add-ons/contact_us,0
 mozilla/add-ons/webextensions,0
-mozilla/add-ons/webextensions/activetab_permission,0
+mozilla/add-ons/webextensions/activetab_permission,1
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,0
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,0
 mozilla/add-ons/webextensions/api,0
@@ -1806,9 +1806,9 @@ mozilla/add-ons/webextensions/api/windows/window_id_current,0
 mozilla/add-ons/webextensions/api/windows/window_id_none,0
 mozilla/add-ons/webextensions/api/windows/windowstate,0
 mozilla/add-ons/webextensions/api/windows/windowtype,0
-mozilla/add-ons/webextensions/background_scripts,0
+mozilla/add-ons/webextensions/background_scripts,1
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,0
-mozilla/add-ons/webextensions/build_a_cross_browser_extension,0
+mozilla/add-ons/webextensions/build_a_cross_browser_extension,1
 mozilla/add-ons/webextensions/chrome_incompatibilities,0
 mozilla/add-ons/webextensions/content_scripts,0
 mozilla/add-ons/webextensions/content_scripts/cloneinto,0
@@ -1825,7 +1825,7 @@ mozilla/add-ons/webextensions/internationalization,0
 mozilla/add-ons/webextensions/manifest.json,0
 mozilla/add-ons/webextensions/manifest.json/action,0
 mozilla/add-ons/webextensions/manifest.json/author,0
-mozilla/add-ons/webextensions/manifest.json/background,0
+mozilla/add-ons/webextensions/manifest.json/background,1
 mozilla/add-ons/webextensions/manifest.json/browser_action,0
 mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,0
 mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,0
