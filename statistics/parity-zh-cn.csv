@@ -3397,7 +3397,7 @@ web/api/datacue,null
 web/api/datacue/datacue,null
 web/api/datacue/type,null
 web/api/datacue/value,null
-web/api/datatransfer,0
+web/api/datatransfer,1
 web/api/datatransfer/addelement,null
 web/api/datatransfer/cleardata,1
 web/api/datatransfer/datatransfer,null
@@ -4968,7 +4968,7 @@ web/api/htmlfontelement/color,4
 web/api/htmlfontelement/face,2
 web/api/htmlfontelement/size,2
 web/api/htmlformcontrolscollection,1
-web/api/htmlformcontrolscollection/nameditem,2
+web/api/htmlformcontrolscollection/nameditem,3
 web/api/htmlformelement,6
 web/api/htmlformelement/acceptcharset,null
 web/api/htmlformelement/action,null
@@ -10459,7 +10459,7 @@ web/css/guides/flexible_box_layout/basic_concepts,null
 web/css/guides/flexible_box_layout/controlling_flex_item_ratios,null
 web/css/guides/flexible_box_layout/ordering_items,null
 web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,3
-web/css/guides/flexible_box_layout/use_cases,5
+web/css/guides/flexible_box_layout/use_cases,6
 web/css/guides/flexible_box_layout/wrapping_items,null
 web/css/guides/font_loading,null
 web/css/guides/fonts,null
@@ -11335,7 +11335,7 @@ web/css/reference/selectors/_colon_first,null
 web/css/reference/selectors/_colon_first-child,null
 web/css/reference/selectors/_colon_first-of-type,null
 web/css/reference/selectors/_colon_focus,null
-web/css/reference/selectors/_colon_focus-visible,5
+web/css/reference/selectors/_colon_focus-visible,6
 web/css/reference/selectors/_colon_focus-within,null
 web/css/reference/selectors/_colon_fullscreen,null
 web/css/reference/selectors/_colon_future,2
@@ -11391,7 +11391,7 @@ web/css/reference/selectors/_colon_target-after,null
 web/css/reference/selectors/_colon_target-before,null
 web/css/reference/selectors/_colon_target-current,null
 web/css/reference/selectors/_colon_user-invalid,null
-web/css/reference/selectors/_colon_user-valid,2
+web/css/reference/selectors/_colon_user-valid,3
 web/css/reference/selectors/_colon_valid,null
 web/css/reference/selectors/_colon_visited,null
 web/css/reference/selectors/_colon_volume-locked,3
@@ -11678,7 +11678,7 @@ web/html/how_to/define_terms_with_html,0
 web/html/how_to/use_data_attributes,4
 web/html/reference,3
 web/html/reference/attributes,null
-web/html/reference/attributes/accept,5
+web/html/reference/attributes/accept,6
 web/html/reference/attributes/autocomplete,null
 web/html/reference/attributes/capture,3
 web/html/reference/attributes/content,2
@@ -11694,9 +11694,9 @@ web/html/reference/attributes/max,6
 web/html/reference/attributes/maxlength,5
 web/html/reference/attributes/min,5
 web/html/reference/attributes/minlength,5
-web/html/reference/attributes/multiple,5
+web/html/reference/attributes/multiple,6
 web/html/reference/attributes/pattern,null
-web/html/reference/attributes/placeholder,6
+web/html/reference/attributes/placeholder,7
 web/html/reference/attributes/readonly,5
 web/html/reference/attributes/rel,null
 web/html/reference/attributes/rel/alternate_stylesheet,3
@@ -11711,7 +11711,7 @@ web/html/reference/attributes/rel/preconnect,5
 web/html/reference/attributes/rel/prefetch,0
 web/html/reference/attributes/rel/preload,0
 web/html/reference/attributes/rel/prerender,4
-web/html/reference/attributes/required,4
+web/html/reference/attributes/required,5
 web/html/reference/attributes/size,3
 web/html/reference/attributes/step,4
 web/html/reference/elements,3
@@ -11771,12 +11771,12 @@ web/html/reference/elements/html,5
 web/html/reference/elements/i,1
 web/html/reference/elements/iframe,22
 web/html/reference/elements/img,16
-web/html/reference/elements/input,7
+web/html/reference/elements/input,8
 web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,null
 web/html/reference/elements/input/color,null
 web/html/reference/elements/input/date,null
-web/html/reference/elements/input/datetime-local,4
+web/html/reference/elements/input/datetime-local,5
 web/html/reference/elements/input/email,null
 web/html/reference/elements/input/file,null
 web/html/reference/elements/input/hidden,null
@@ -11792,7 +11792,7 @@ web/html/reference/elements/input/submit,null
 web/html/reference/elements/input/tel,null
 web/html/reference/elements/input/text,null
 web/html/reference/elements/input/time,null
-web/html/reference/elements/input/url,1
+web/html/reference/elements/input/url,2
 web/html/reference/elements/input/week,null
 web/html/reference/elements/ins,null
 web/html/reference/elements/kbd,null
@@ -11844,7 +11844,7 @@ web/html/reference/elements/script,0
 web/html/reference/elements/script/type,null
 web/html/reference/elements/script/type/importmap,1
 web/html/reference/elements/script/type/speculationrules,null
-web/html/reference/elements/search,3
+web/html/reference/elements/search,4
 web/html/reference/elements/section,null
 web/html/reference/elements/select,null
 web/html/reference/elements/selectedcontent,null

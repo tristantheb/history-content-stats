@@ -3397,7 +3397,7 @@ web/api/datacue,null
 web/api/datacue/datacue,null
 web/api/datacue/type,null
 web/api/datacue/value,null
-web/api/datatransfer,7
+web/api/datatransfer,8
 web/api/datatransfer/addelement,null
 web/api/datatransfer/cleardata,null
 web/api/datatransfer/datatransfer,0
@@ -4751,7 +4751,7 @@ web/api/hmdvrdevice,null
 web/api/hmdvrdevice/geteyeparameters,null
 web/api/hmdvrdevice/setfieldofview,null
 web/api/houdini_apis,null
-web/api/html_dom_api,14
+web/api/html_dom_api,15
 web/api/html_dom_api/microtask_guide,null
 web/api/html_dom_api/microtask_guide/in_depth,null
 web/api/html_drag_and_drop_api,null
@@ -9786,7 +9786,7 @@ web/api/window/appinstalled_event,null
 web/api/window/atob,null
 web/api/window/beforeinstallprompt_event,null
 web/api/window/beforeprint_event,null
-web/api/window/beforeunload_event,17
+web/api/window/beforeunload_event,18
 web/api/window/blur,null
 web/api/window/blur_event,7
 web/api/window/btoa,6
@@ -11374,7 +11374,7 @@ web/css/reference/selectors/_colon_out-of-range,null
 web/css/reference/selectors/_colon_past,null
 web/css/reference/selectors/_colon_paused,null
 web/css/reference/selectors/_colon_picture-in-picture,null
-web/css/reference/selectors/_colon_placeholder-shown,3
+web/css/reference/selectors/_colon_placeholder-shown,4
 web/css/reference/selectors/_colon_playing,null
 web/css/reference/selectors/_colon_popover-open,null
 web/css/reference/selectors/_colon_read-only,null
@@ -11696,7 +11696,7 @@ web/html/reference/attributes/min,null
 web/html/reference/attributes/minlength,null
 web/html/reference/attributes/multiple,null
 web/html/reference/attributes/pattern,null
-web/html/reference/attributes/placeholder,6
+web/html/reference/attributes/placeholder,7
 web/html/reference/attributes/readonly,2
 web/html/reference/attributes/rel,null
 web/html/reference/attributes/rel/alternate_stylesheet,null
@@ -11773,7 +11773,7 @@ web/html/reference/elements/iframe,null
 web/html/reference/elements/img,null
 web/html/reference/elements/input,null
 web/html/reference/elements/input/button,null
-web/html/reference/elements/input/checkbox,11
+web/html/reference/elements/input/checkbox,12
 web/html/reference/elements/input/color,null
 web/html/reference/elements/input/date,null
 web/html/reference/elements/input/datetime-local,null
@@ -11786,7 +11786,7 @@ web/html/reference/elements/input/number,null
 web/html/reference/elements/input/password,null
 web/html/reference/elements/input/radio,null
 web/html/reference/elements/input/range,null
-web/html/reference/elements/input/reset,5
+web/html/reference/elements/input/reset,6
 web/html/reference/elements/input/search,null
 web/html/reference/elements/input/submit,null
 web/html/reference/elements/input/tel,null
