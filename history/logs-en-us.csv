@@ -5538,7 +5538,7 @@ web/api/idbdatabase/versionchange_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec
 web/api/idbfactory,dbd4ba01220a5031d3a26a3ac1490d3269210124,Web APIs
 web/api/idbfactory/cmp,d16706e4e930c57161d473287374a9286c663147,Web APIs
 web/api/idbfactory/databases,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/idbfactory/deletedatabase,4c947bdeae2d9f574a3b59135f53c71ec4a3e87d,Web APIs
+web/api/idbfactory/deletedatabase,8ff0fae08b27be7c09762439bd886fc7999f6f59,Web APIs
 web/api/idbfactory/open,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/idbindex,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/idbindex/count,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs

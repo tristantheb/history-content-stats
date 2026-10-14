@@ -7217,7 +7217,7 @@ web/api/response/redirected,null
 web/api/response/response,null
 web/api/response/status,2
 web/api/response/statustext,null
-web/api/response/text,null
+web/api/response/text,0
 web/api/response/textstream,null
 web/api/response/type,null
 web/api/response/url,null
@@ -12899,7 +12899,7 @@ web/javascript/reference/global_objects/math/imul,null
 web/javascript/reference/global_objects/math/ln10,null
 web/javascript/reference/global_objects/math/ln2,null
 web/javascript/reference/global_objects/math/log,null
-web/javascript/reference/global_objects/math/log10,null
+web/javascript/reference/global_objects/math/log10,0
 web/javascript/reference/global_objects/math/log10e,null
 web/javascript/reference/global_objects/math/log1p,null
 web/javascript/reference/global_objects/math/log2,null
@@ -13531,7 +13531,7 @@ web/javascript/reference/operators/import,10
 web/javascript/reference/operators/import.meta,1
 web/javascript/reference/operators/import.meta/resolve,1
 web/javascript/reference/operators/import/defer,0
-web/javascript/reference/operators/import/source,null
+web/javascript/reference/operators/import/source,0
 web/javascript/reference/operators/in,null
 web/javascript/reference/operators/increment,null
 web/javascript/reference/operators/inequality,null
@@ -14088,7 +14088,7 @@ web/svg/reference/attribute/z,0
 web/svg/reference/attribute/zoomandpan,1
 web/svg/reference/element,2
 web/svg/reference/element/a,1
-web/svg/reference/element/animate,null
+web/svg/reference/element/animate,0
 web/svg/reference/element/animatemotion,0
 web/svg/reference/element/animatetransform,0
 web/svg/reference/element/circle,0
