@@ -4093,7 +4093,7 @@ web/api/response/redirect_static,no_hash_commit
 web/api/response/redirected,no_hash_commit
 web/api/response/response,no_hash_commit
 web/api/response/status,4d929bb0a021c7130d5a71a4bf505bcb8070378d
-web/api/response/text,no_hash_commit
+web/api/response/text,2845a346b971d6d0415bf24e53084cd4d7aab1e0
 web/api/response/type,no_hash_commit
 web/api/response/url,no_hash_commit
 web/api/rsahashedimportparams,8e49db2182a5ad4ddfcaecdefd3d2d67db20f213
@@ -6781,7 +6781,7 @@ web/javascript/reference/global_objects/math,544b843570cb08d1474cfc5ec03ffb9f4ed
 web/javascript/reference/global_objects/math/ln10,no_hash_commit
 web/javascript/reference/global_objects/math/ln2,no_hash_commit
 web/javascript/reference/global_objects/math/log,no_hash_commit
-web/javascript/reference/global_objects/math/log10,no_hash_commit
+web/javascript/reference/global_objects/math/log10,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/math/log10e,no_hash_commit
 web/javascript/reference/global_objects/math/log1p,no_hash_commit
 web/javascript/reference/global_objects/math/log2,no_hash_commit
@@ -7135,6 +7135,7 @@ web/javascript/reference/operators/import.meta,4f86aad2b0b66c0d2041354ec81400c57
 web/javascript/reference/operators/import.meta/resolve,0ca040b6a9cfd931558bd1d3a402707abddc1924
 web/javascript/reference/operators/import/defer,76c2e04d720aa8260ba7d75788ed96776aac35c6
 web/javascript/reference/operators/import,eb7cf694c19b31ee8826f22eaac6c12e808b1e50
+web/javascript/reference/operators/import/source,76c2e04d720aa8260ba7d75788ed96776aac35c6
 web/javascript/reference/operators/in,no_hash_commit
 web/javascript/reference/operators/increment,no_hash_commit
 web/javascript/reference/operators,fb85334ffa4a2c88d209b1074909bee0e0abd57a
@@ -7451,7 +7452,7 @@ web/svg/reference/attribute/ychannelselector,c2fd97474834e061404b992c8397d4ccc44
 web/svg/reference/attribute/z,d35e3fd4bc6b80049899b45d74ed71dc996adfc7
 web/svg/reference/attribute/zoomandpan,a9063bb88f28dc2a9b32e39f060ab6930663da52
 web/svg/reference/element/a,94a841dba1498c685a18e72d041fd9057f302d6c
-web/svg/reference/element/animate,no_hash_commit
+web/svg/reference/element/animate,3064cbe8212ea919874fb21120a89657afccba25
 web/svg/reference/element/animatemotion,603d83f1e1cdfd634e2f0b7b939466c7660822d3
 web/svg/reference/element/animatetransform,12222b32eec33a7411c6de8afc8408d9aa617dd2
 web/svg/reference/element/circle,ac806e34aba086be141689c64dc4dd73636fbd62
