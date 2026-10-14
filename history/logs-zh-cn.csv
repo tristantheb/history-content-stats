@@ -2212,7 +2212,7 @@ web/api/cssrotate,ecc46f2c8d6e09f0aa6e1b3f5194abfcf462e603
 web/api/cssrotate/x,e1f6592bf96c5614a81ccb5dbd65e301b734b0e7
 web/api/cssrotate/y,e1f6592bf96c5614a81ccb5dbd65e301b734b0e7
 web/api/cssrotate/z,e1f6592bf96c5614a81ccb5dbd65e301b734b0e7
-web/api/cssrule/csstext,no_hash_commit
+web/api/cssrule/csstext,636b90011532e3fd2cf9333aaf1754fdc8de7938
 web/api/cssrule,no_hash_commit
 web/api/cssrule/parentstylesheet,53b1989260054e651bcf001bacee9b843b8ca9c8
 web/api/cssrulelist,no_hash_commit
@@ -4079,7 +4079,7 @@ web/api/resizeobserverentry/devicepixelcontentboxsize,no_hash_commit
 web/api/resizeobserverentry,no_hash_commit
 web/api/resizeobserverentry/target,no_hash_commit
 web/api/response/arraybuffer,no_hash_commit
-web/api/response/blob,no_hash_commit
+web/api/response/blob,562051c4ad20e9ecb5faf905286cdfca545a340d
 web/api/response/body,no_hash_commit
 web/api/response/bodyused,77fd649b791632aec695c5c4c7ca5bc726f4d1e9
 web/api/response/clone,no_hash_commit
