@@ -5538,7 +5538,7 @@ web/api/idbdatabase/versionchange_event,0
 web/api/idbfactory,0
 web/api/idbfactory/cmp,0
 web/api/idbfactory/databases,0
-web/api/idbfactory/deletedatabase,0
+web/api/idbfactory/deletedatabase,1
 web/api/idbfactory/open,0
 web/api/idbindex,0
 web/api/idbindex/count,0
