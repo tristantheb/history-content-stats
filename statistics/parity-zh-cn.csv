@@ -3268,7 +3268,7 @@ web/api/cssrotate/x,3
 web/api/cssrotate/y,3
 web/api/cssrotate/z,4
 web/api/cssrule,null
-web/api/cssrule/csstext,null
+web/api/cssrule/csstext,0
 web/api/cssrule/parentrule,null
 web/api/cssrule/parentstylesheet,2
 web/api/cssrule/type,null
@@ -7201,7 +7201,7 @@ web/api/resizeobserversize/blocksize,null
 web/api/resizeobserversize/inlinesize,null
 web/api/response,null
 web/api/response/arraybuffer,null
-web/api/response/blob,null
+web/api/response/blob,0
 web/api/response/body,null
 web/api/response/bodyused,0
 web/api/response/bytes,null
