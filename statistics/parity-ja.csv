@@ -12988,7 +12988,7 @@ web/javascript/reference/global_objects/parseint,0
 web/javascript/reference/global_objects/promise,0
 web/javascript/reference/global_objects/promise/all,0
 web/javascript/reference/global_objects/promise/allkeyed,0
-web/javascript/reference/global_objects/promise/allsettled,0
+web/javascript/reference/global_objects/promise/allsettled,1
 web/javascript/reference/global_objects/promise/allsettledkeyed,0
 web/javascript/reference/global_objects/promise/any,0
 web/javascript/reference/global_objects/promise/catch,0
