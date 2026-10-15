@@ -2213,7 +2213,7 @@ web/api/cssrotate/x,e1f6592bf96c5614a81ccb5dbd65e301b734b0e7
 web/api/cssrotate/y,e1f6592bf96c5614a81ccb5dbd65e301b734b0e7
 web/api/cssrotate/z,e1f6592bf96c5614a81ccb5dbd65e301b734b0e7
 web/api/cssrule/csstext,636b90011532e3fd2cf9333aaf1754fdc8de7938
-web/api/cssrule,no_hash_commit
+web/api/cssrule,c00944e9622f0796758877623ee33283c68494d7
 web/api/cssrule/parentstylesheet,53b1989260054e651bcf001bacee9b843b8ca9c8
 web/api/cssrulelist,no_hash_commit
 web/api/cssrulelist/length,53b1989260054e651bcf001bacee9b843b8ca9c8
@@ -6264,7 +6264,7 @@ web/http/reference/headers/sec-websocket-accept,no_hash_commit
 web/http/reference/headers/server-timing,no_hash_commit
 web/http/reference/headers/server,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/http/reference/headers/set-cookie,835d6632d59993861a0458510402787f8a2c3cb3
-web/http/reference/headers/sourcemap,no_hash_commit
+web/http/reference/headers/sourcemap,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a
 web/http/reference/headers/strict-transport-security,no_hash_commit
 web/http/reference/headers/te,no_hash_commit
 web/http/reference/headers/timing-allow-origin,no_hash_commit

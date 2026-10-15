@@ -2166,7 +2166,7 @@ web/accessibility/aria/reference/attributes/aria-valuemax,null
 web/accessibility/aria/reference/attributes/aria-valuemin,null
 web/accessibility/aria/reference/attributes/aria-valuenow,null
 web/accessibility/aria/reference/attributes/aria-valuetext,null
-web/accessibility/aria/reference/roles,3
+web/accessibility/aria/reference/roles,4
 web/accessibility/aria/reference/roles/alert_role,1
 web/accessibility/aria/reference/roles/alertdialog_role,1
 web/accessibility/aria/reference/roles/application_role,0
@@ -2190,9 +2190,12 @@ web/accessibility/aria/reference/roles/feed_role,null
 web/accessibility/aria/reference/roles/figure_role,null
 web/accessibility/aria/reference/roles/form_role,null
 web/accessibility/aria/reference/roles/generic_role,null
+web/accessibility/aria/reference/roles/graphics-document_role,null
+web/accessibility/aria/reference/roles/graphics-object_role,null
+web/accessibility/aria/reference/roles/graphics-symbol_role,null
 web/accessibility/aria/reference/roles/grid_role,null
 web/accessibility/aria/reference/roles/gridcell_role,null
-web/accessibility/aria/reference/roles/group_role,3
+web/accessibility/aria/reference/roles/group_role,4
 web/accessibility/aria/reference/roles/heading_role,null
 web/accessibility/aria/reference/roles/img_role,null
 web/accessibility/aria/reference/roles/input_role,0
@@ -3267,7 +3270,7 @@ web/api/cssrotate/cssrotate,null
 web/api/cssrotate/x,3
 web/api/cssrotate/y,3
 web/api/cssrotate/z,4
-web/api/cssrule,null
+web/api/cssrule,0
 web/api/cssrule/csstext,0
 web/api/cssrule/parentrule,null
 web/api/cssrule/parentstylesheet,2
@@ -12186,7 +12189,7 @@ web/http/reference/headers/service-worker-allowed,null
 web/http/reference/headers/service-worker-navigation-preload,null
 web/http/reference/headers/set-cookie,13
 web/http/reference/headers/set-login,null
-web/http/reference/headers/sourcemap,null
+web/http/reference/headers/sourcemap,0
 web/http/reference/headers/speculation-rules,null
 web/http/reference/headers/strict-transport-security,null
 web/http/reference/headers/supports-loading-mode,null
