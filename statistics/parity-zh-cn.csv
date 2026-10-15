@@ -9048,7 +9048,7 @@ web/api/urlsearchparams/sort,0
 web/api/urlsearchparams/tostring,2
 web/api/urlsearchparams/urlsearchparams,3
 web/api/urlsearchparams/values,1
-web/api/usb,null
+web/api/usb,0
 web/api/usb/connect_event,null
 web/api/usb/disconnect_event,null
 web/api/usb/getdevices,null
@@ -10737,7 +10737,7 @@ web/css/reference/properties/align-items,null
 web/css/reference/properties/align-self,null
 web/css/reference/properties/alignment-baseline,null
 web/css/reference/properties/all,9
-web/css/reference/properties/anchor-name,null
+web/css/reference/properties/anchor-name,0
 web/css/reference/properties/anchor-scope,0
 web/css/reference/properties/animation,null
 web/css/reference/properties/animation-composition,null
