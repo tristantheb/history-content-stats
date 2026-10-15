@@ -6424,7 +6424,7 @@ web/api/node/insertbefore,2
 web/api/node/isconnected,null
 web/api/node/isdefaultnamespace,0
 web/api/node/isequalnode,null
-web/api/node/issamenode,null
+web/api/node/issamenode,0
 web/api/node/lastchild,2
 web/api/node/lookupnamespaceuri,null
 web/api/node/lookupprefix,0
