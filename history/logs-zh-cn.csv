@@ -3809,7 +3809,7 @@ web/api/node/insertbefore,aa8fa82a902746b0bd97839180fc2b5397088140
 web/api/node/isconnected,no_hash_commit
 web/api/node/isdefaultnamespace,f9c2ae293074c49f1ed2b86913ef24b0042e0047
 web/api/node/isequalnode,no_hash_commit
-web/api/node/issamenode,no_hash_commit
+web/api/node/issamenode,aa8fa82a902746b0bd97839180fc2b5397088140
 web/api/node/lastchild,7de82e7152a2891e9aee5b6f630f1f43849748df
 web/api/node/lookupnamespaceuri,no_hash_commit
 web/api/node/lookupprefix,f9c2ae293074c49f1ed2b86913ef24b0042e0047

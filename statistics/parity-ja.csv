@@ -1068,7 +1068,7 @@ mdn/writing_guidelines/howto/research_technology,6
 mdn/writing_guidelines/howto/retiring_content,0
 mdn/writing_guidelines/howto/retiring_content/retired_content,0
 mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,4
-mdn/writing_guidelines/howto/write_an_api_reference,14
+mdn/writing_guidelines/howto/write_an_api_reference,0
 mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file,2
 mdn/writing_guidelines/howto/write_an_api_reference/sidebars,5
 mdn/writing_guidelines/learning_content,1
@@ -6295,7 +6295,7 @@ web/api/navigationtransition/finished,null
 web/api/navigationtransition/from,null
 web/api/navigationtransition/navigationtype,null
 web/api/navigationtransition/to,null
-web/api/navigator,14
+web/api/navigator,0
 web/api/navigator/activevrdisplays,6
 web/api/navigator/appcodename,3
 web/api/navigator/appname,3
@@ -9753,7 +9753,7 @@ web/api/webtransportsendstream/getwriter,null
 web/api/webtransportsendstream/sendgroup,null
 web/api/webtransportsendstream/sendorder,null
 web/api/webusb_api,9
-web/api/webvr_api,14
+web/api/webvr_api,0
 web/api/webvr_api/concepts,10
 web/api/webvr_api/using_the_webvr_api,1
 web/api/webvr_api/using_vr_controllers_with_webvr,13
