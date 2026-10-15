@@ -4520,7 +4520,7 @@ web/api/urlsearchparams/sort,3e097148b4c6cb9c6d8824275599f855ca63827b
 web/api/urlsearchparams/tostring,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8
 web/api/urlsearchparams/urlsearchparams,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8
 web/api/urlsearchparams/values,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8
-web/api/usb,no_hash_commit
+web/api/usb,a10e3f00a346a0ec35380513f65915849d99f895
 web/api/user-agent_client_hints_api,4d929bb0a021c7130d5a71a4bf505bcb8070378d
 web/api/useractivation/hasbeenactive,7907a38073627c84ff795b1c0ea20513a90b4a4e
 web/api/useractivation,7907a38073627c84ff795b1c0ea20513a90b4a4e
@@ -5264,6 +5264,7 @@ web/css/reference/properties/align-content,no_hash_commit
 web/css/reference/properties/align-items,no_hash_commit
 web/css/reference/properties/align-self,no_hash_commit
 web/css/reference/properties/all,0cc9980e3b21c83d1800a428bc402ae1865326b2
+web/css/reference/properties/anchor-name,737b931225e92e0cba47e57a150878b1a78ee45a
 web/css/reference/properties/anchor-scope,071fd0613b1b5728d2d83845ea11512cb615067a
 web/css/reference/properties/animation-delay,no_hash_commit
 web/css/reference/properties/animation-direction,no_hash_commit
