@@ -2190,6 +2190,9 @@ web/accessibility/aria/reference/roles/feed_role,null
 web/accessibility/aria/reference/roles/figure_role,null
 web/accessibility/aria/reference/roles/form_role,null
 web/accessibility/aria/reference/roles/generic_role,null
+web/accessibility/aria/reference/roles/graphics-document_role,null
+web/accessibility/aria/reference/roles/graphics-object_role,null
+web/accessibility/aria/reference/roles/graphics-symbol_role,null
 web/accessibility/aria/reference/roles/grid_role,null
 web/accessibility/aria/reference/roles/gridcell_role,null
 web/accessibility/aria/reference/roles/group_role,null
