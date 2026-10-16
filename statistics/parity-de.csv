@@ -5711,7 +5711,7 @@ web/api/installevent,0
 web/api/installevent/addroutes,0
 web/api/installevent/installevent,0
 web/api/integrityviolationreport,0
-web/api/interactioncontentfulpaint,1
+web/api/interactioncontentfulpaint,0
 web/api/interactioncontentfulpaint/interactionid,0
 web/api/interactioncontentfulpaint/largestcontentfulpaint,0
 web/api/interactioncontentfulpaint/painttime,0
@@ -6844,7 +6844,7 @@ web/api/performanceservertiming/description,0
 web/api/performanceservertiming/duration,0
 web/api/performanceservertiming/name,0
 web/api/performanceservertiming/tojson,0
-web/api/performancesoftnavigation,1
+web/api/performancesoftnavigation,0
 web/api/performancesoftnavigation/getlargestinteractioncontentfulpaint,0
 web/api/performancesoftnavigation/interactionid,0
 web/api/performancesoftnavigation/navigationtype,0
@@ -12988,7 +12988,7 @@ web/javascript/reference/global_objects/parseint,0
 web/javascript/reference/global_objects/promise,0
 web/javascript/reference/global_objects/promise/all,0
 web/javascript/reference/global_objects/promise/allkeyed,0
-web/javascript/reference/global_objects/promise/allsettled,1
+web/javascript/reference/global_objects/promise/allsettled,0
 web/javascript/reference/global_objects/promise/allsettledkeyed,0
 web/javascript/reference/global_objects/promise/any,0
 web/javascript/reference/global_objects/promise/catch,0
