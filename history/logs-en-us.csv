@@ -4211,8 +4211,8 @@ web/api/featurepolicy/allowsfeature,44a5fa2aace490e0114349d9d683675b2f5cacce,Web
 web/api/featurepolicy/features,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/featurepolicy/getallowlistforfeature,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/fedcm_api,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Web APIs
-web/api/fedcm_api/idp_integration,30bb7c6b5b9f3e19276a8c528134fe78f131c9a5,Web APIs
-web/api/fedcm_api/rp_sign-in,2e0b9415ed31484a4830e214eff9e06e408c7261,Web APIs
+web/api/fedcm_api/idp_integration,c0cb69611b6489b8fa102b635f783dc765380001,Web APIs
+web/api/fedcm_api/rp_sign-in,c0cb69611b6489b8fa102b635f783dc765380001,Web APIs
 web/api/federatedcredential,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c,Web APIs
 web/api/federatedcredential/federatedcredential,4ee6823d1ae58f39e1863b9fc6f6b34d4a417336,Web APIs
 web/api/federatedcredential/protocol,339595951b78774e951b1a9d215a6db6b856f6b2,Web APIs
@@ -10470,8 +10470,9 @@ web/css/guides/fonts/opentype_fonts,6f5921b2634db4bd565e5e0cd38eafdadb4bb383,CSS
 web/css/guides/fonts/variable_fonts,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5,CSS|Guides
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/gaps,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Guides
+web/css/guides/gaps,f641d1e7c63d8300c9ff1c6a24158a80e1f24ab0,CSS|Guides
 web/css/guides/gaps/defining_gaps,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Guides
+web/css/guides/gaps/defining_rules,f641d1e7c63d8300c9ff1c6a24158a80e1f24ab0,CSS|Guides
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/grid_layout,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Guides
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -11338,7 +11339,7 @@ web/css/reference/selectors/_colon_first,bf90d24ddf56e3f60df25fcbc0d4e3e08400479
 web/css/reference/selectors/_colon_first-child,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_first-of-type,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_focus,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Selectors
-web/css/reference/selectors/_colon_focus-visible,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Selectors
+web/css/reference/selectors/_colon_focus-visible,c6309d2f8bbdaf08095d8c2cc8bb9c16b6a94acc,CSS|Selectors
 web/css/reference/selectors/_colon_focus-within,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Selectors
 web/css/reference/selectors/_colon_fullscreen,8fa3309a76fe8dc4cf5e8eed97ef596a91513fbd,CSS|Selectors
 web/css/reference/selectors/_colon_future,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
@@ -11931,7 +11932,7 @@ web/http/guides/content_negotiation,013f3148c4e85038bd961c984e357da703d315e3,HTT
 web/http/guides/content_negotiation/list_of_default_accept_values,7b642841e72ef94e8723f26892000383513b550d,HTTP|Guides
 web/http/guides/cookies,13ef67a4ffbdb929415dfa1b3d65ab1aa9ebe5da,HTTP|Guides
 web/http/guides/cors,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,HTTP|Guides
-web/http/guides/cors/errors,92396cf8979e107c3ac42c2b9fc382013ea1c234,HTTP|Guides
+web/http/guides/cors/errors,a8b5a77bb154e0c3a124fb4af441d11e4259836e,HTTP|Guides
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/cors/errors/corsdidnotsucceed,f0080356e5e8c38fda6ad867945371f75861969b,HTTP|Guides
 web/http/guides/cors/errors/corsdisabled,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
@@ -11939,7 +11940,7 @@ web/http/guides/cors/errors/corsexternalredirectnotallowed,ad5b5e31f81795d692e66
 web/http/guides/cors/errors/corsinvalidallowheader,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/cors/errors/corsinvalidallowmethod,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/cors/errors/corsmethodnotfound,92396cf8979e107c3ac42c2b9fc382013ea1c234,HTTP|Guides
-web/http/guides/cors/errors/corsmissingallowcredentials,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
+web/http/guides/cors/errors/corsmissingallowcredentials,a8b5a77bb154e0c3a124fb4af441d11e4259836e,HTTP|Guides
 web/http/guides/cors/errors/corsmissingallowheaderfrompreflight,92396cf8979e107c3ac42c2b9fc382013ea1c234,HTTP|Guides
 web/http/guides/cors/errors/corsmissingalloworigin,92396cf8979e107c3ac42c2b9fc382013ea1c234,HTTP|Guides
 web/http/guides/cors/errors/corsmultiplealloworiginnotallowed,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides

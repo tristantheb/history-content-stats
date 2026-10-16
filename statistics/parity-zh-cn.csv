@@ -10472,6 +10472,7 @@ web/css/guides/fonts/woff,null
 web/css/guides/fragmentation,null
 web/css/guides/gaps,null
 web/css/guides/gaps/defining_gaps,null
+web/css/guides/gaps/defining_rules,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -11338,7 +11339,7 @@ web/css/reference/selectors/_colon_first,null
 web/css/reference/selectors/_colon_first-child,null
 web/css/reference/selectors/_colon_first-of-type,null
 web/css/reference/selectors/_colon_focus,null
-web/css/reference/selectors/_colon_focus-visible,6
+web/css/reference/selectors/_colon_focus-visible,7
 web/css/reference/selectors/_colon_focus-within,null
 web/css/reference/selectors/_colon_fullscreen,null
 web/css/reference/selectors/_colon_future,2

@@ -840,12 +840,12 @@ learn_web_development/core/styling_basics/test_your_skills/sizing,6
 learn_web_development/core/styling_basics/test_your_skills/values,1
 learn_web_development/core/styling_basics/values_and_units,1
 learn_web_development/core/styling_basics/what_is_css,1
-learn_web_development/core/text_styling,3
-learn_web_development/core/text_styling/fundamentals,2
-learn_web_development/core/text_styling/styling_links,5
-learn_web_development/core/text_styling/styling_lists,7
+learn_web_development/core/text_styling,0
+learn_web_development/core/text_styling/fundamentals,0
+learn_web_development/core/text_styling/styling_links,0
+learn_web_development/core/text_styling/styling_lists,0
 learn_web_development/core/text_styling/typesetting_a_homepage,9
-learn_web_development/core/text_styling/web_fonts,13
+learn_web_development/core/text_styling/web_fonts,0
 learn_web_development/core/version_control,9
 learn_web_development/educators,3
 learn_web_development/extensions,0
@@ -4211,8 +4211,8 @@ web/api/featurepolicy/allowsfeature,null
 web/api/featurepolicy/features,null
 web/api/featurepolicy/getallowlistforfeature,null
 web/api/fedcm_api,1
-web/api/fedcm_api/idp_integration,0
-web/api/fedcm_api/rp_sign-in,2
+web/api/fedcm_api/idp_integration,1
+web/api/fedcm_api/rp_sign-in,3
 web/api/federatedcredential,4
 web/api/federatedcredential/federatedcredential,4
 web/api/federatedcredential/protocol,0
@@ -10470,8 +10470,9 @@ web/css/guides/fonts/opentype_fonts,3
 web/css/guides/fonts/variable_fonts,2
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
-web/css/guides/gaps,2
+web/css/guides/gaps,3
 web/css/guides/gaps/defining_gaps,null
+web/css/guides/gaps/defining_rules,null
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,2
 web/css/guides/grid_layout/accessibility,0
@@ -11338,7 +11339,7 @@ web/css/reference/selectors/_colon_first,1
 web/css/reference/selectors/_colon_first-child,1
 web/css/reference/selectors/_colon_first-of-type,1
 web/css/reference/selectors/_colon_focus,2
-web/css/reference/selectors/_colon_focus-visible,3
+web/css/reference/selectors/_colon_focus-visible,4
 web/css/reference/selectors/_colon_focus-within,3
 web/css/reference/selectors/_colon_fullscreen,0
 web/css/reference/selectors/_colon_future,0
@@ -11931,7 +11932,7 @@ web/http/guides/content_negotiation,1
 web/http/guides/content_negotiation/list_of_default_accept_values,2
 web/http/guides/cookies,5
 web/http/guides/cors,1
-web/http/guides/cors/errors,1
+web/http/guides/cors/errors,2
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,1
 web/http/guides/cors/errors/corsdidnotsucceed,1
 web/http/guides/cors/errors/corsdisabled,1
@@ -11939,7 +11940,7 @@ web/http/guides/cors/errors/corsexternalredirectnotallowed,1
 web/http/guides/cors/errors/corsinvalidallowheader,1
 web/http/guides/cors/errors/corsinvalidallowmethod,1
 web/http/guides/cors/errors/corsmethodnotfound,2
-web/http/guides/cors/errors/corsmissingallowcredentials,1
+web/http/guides/cors/errors/corsmissingallowcredentials,2
 web/http/guides/cors/errors/corsmissingallowheaderfrompreflight,null
 web/http/guides/cors/errors/corsmissingalloworigin,1
 web/http/guides/cors/errors/corsmultiplealloworiginnotallowed,1
