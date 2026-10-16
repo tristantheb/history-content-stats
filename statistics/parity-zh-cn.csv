@@ -13535,7 +13535,7 @@ web/javascript/reference/operators/import.meta,1
 web/javascript/reference/operators/import.meta/resolve,1
 web/javascript/reference/operators/import/defer,0
 web/javascript/reference/operators/import/source,0
-web/javascript/reference/operators/in,null
+web/javascript/reference/operators/in,0
 web/javascript/reference/operators/increment,null
 web/javascript/reference/operators/inequality,null
 web/javascript/reference/operators/instanceof,null
@@ -13884,7 +13884,7 @@ web/svg/reference/attribute/additive,1
 web/svg/reference/attribute/alignment-baseline,5
 web/svg/reference/attribute/amplitude,3
 web/svg/reference/attribute/attributename,1
-web/svg/reference/attribute/attributetype,null
+web/svg/reference/attribute/attributetype,0
 web/svg/reference/attribute/autofocus,null
 web/svg/reference/attribute/azimuth,2
 web/svg/reference/attribute/basefrequency,3
@@ -14062,7 +14062,7 @@ web/svg/reference/attribute/transform,5
 web/svg/reference/attribute/transform-origin,null
 web/svg/reference/attribute/type,null
 web/svg/reference/attribute/unicode-bidi,null
-web/svg/reference/attribute/values,null
+web/svg/reference/attribute/values,0
 web/svg/reference/attribute/vector-effect,null
 web/svg/reference/attribute/version,null
 web/svg/reference/attribute/viewbox,null

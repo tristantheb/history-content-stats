@@ -7469,7 +7469,7 @@ web/api/rtcinboundrtpstreamstats/totalsquaredinterframedelay,0
 web/api/rtcinboundrtpstreamstats/trackidentifier,0
 web/api/rtcinboundrtpstreamstats/transportid,0
 web/api/rtcinboundrtpstreamstats/type,0
-web/api/rtcoutboundrtpstreamstats,0
+web/api/rtcoutboundrtpstreamstats,1
 web/api/rtcoutboundrtpstreamstats/active,0
 web/api/rtcoutboundrtpstreamstats/bytessent,0
 web/api/rtcoutboundrtpstreamstats/codecid,0
