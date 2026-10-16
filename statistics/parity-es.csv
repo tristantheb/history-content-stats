@@ -724,7 +724,7 @@ learn_web_development/core/css_layout/mobile-first_challenge,null
 learn_web_development/core/css_layout/multiple-column_layout,null
 learn_web_development/core/css_layout/positioning,null
 learn_web_development/core/css_layout/practical_positioning_examples,null
-learn_web_development/core/css_layout/responsive_design,null
+learn_web_development/core/css_layout/responsive_design,0
 learn_web_development/core/css_layout/supporting_older_browsers,null
 learn_web_development/core/css_layout/test_your_skills,null
 learn_web_development/core/css_layout/test_your_skills/flexbox,null
@@ -781,7 +781,7 @@ learn_web_development/core/scripting/what_went_wrong,null
 learn_web_development/core/structuring_content,0
 learn_web_development/core/structuring_content/advanced_text_features,0
 learn_web_development/core/structuring_content/basic_html_syntax,0
-learn_web_development/core/structuring_content/creating_links,null
+learn_web_development/core/structuring_content/creating_links,0
 learn_web_development/core/structuring_content/debugging_html,0
 learn_web_development/core/structuring_content/emphasis_and_importance,null
 learn_web_development/core/structuring_content/forms_challenge,null
@@ -789,7 +789,7 @@ learn_web_development/core/structuring_content/general_embedding_technologies,1
 learn_web_development/core/structuring_content/headings_and_paragraphs,0
 learn_web_development/core/structuring_content/html_forms,0
 learn_web_development/core/structuring_content/html_images,0
-learn_web_development/core/structuring_content/html_table_basics,2
+learn_web_development/core/structuring_content/html_table_basics,0
 learn_web_development/core/structuring_content/html_video_and_audio,null
 learn_web_development/core/structuring_content/including_vector_graphics_in_html,0
 learn_web_development/core/structuring_content/lists,5
@@ -838,7 +838,7 @@ learn_web_development/core/styling_basics/test_your_skills/overflow,null
 learn_web_development/core/styling_basics/test_your_skills/selectors,null
 learn_web_development/core/styling_basics/test_your_skills/sizing,null
 learn_web_development/core/styling_basics/test_your_skills/values,null
-learn_web_development/core/styling_basics/values_and_units,null
+learn_web_development/core/styling_basics/values_and_units,0
 learn_web_development/core/styling_basics/what_is_css,null
 learn_web_development/core/text_styling,null
 learn_web_development/core/text_styling/fundamentals,0
