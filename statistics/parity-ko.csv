@@ -10472,6 +10472,7 @@ web/css/guides/fonts/woff,null
 web/css/guides/fragmentation,null
 web/css/guides/gaps,null
 web/css/guides/gaps/defining_gaps,null
+web/css/guides/gaps/defining_rules,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -11939,7 +11940,7 @@ web/http/guides/cors/errors/corsexternalredirectnotallowed,2
 web/http/guides/cors/errors/corsinvalidallowheader,2
 web/http/guides/cors/errors/corsinvalidallowmethod,2
 web/http/guides/cors/errors/corsmethodnotfound,3
-web/http/guides/cors/errors/corsmissingallowcredentials,2
+web/http/guides/cors/errors/corsmissingallowcredentials,3
 web/http/guides/cors/errors/corsmissingallowheaderfrompreflight,3
 web/http/guides/cors/errors/corsmissingalloworigin,null
 web/http/guides/cors/errors/corsmultiplealloworiginnotallowed,null

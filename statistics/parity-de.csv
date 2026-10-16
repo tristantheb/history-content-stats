@@ -4211,8 +4211,8 @@ web/api/featurepolicy/allowsfeature,0
 web/api/featurepolicy/features,0
 web/api/featurepolicy/getallowlistforfeature,0
 web/api/fedcm_api,0
-web/api/fedcm_api/idp_integration,0
-web/api/fedcm_api/rp_sign-in,0
+web/api/fedcm_api/idp_integration,1
+web/api/fedcm_api/rp_sign-in,1
 web/api/federatedcredential,0
 web/api/federatedcredential/federatedcredential,0
 web/api/federatedcredential/protocol,0
@@ -7469,7 +7469,7 @@ web/api/rtcinboundrtpstreamstats/totalsquaredinterframedelay,0
 web/api/rtcinboundrtpstreamstats/trackidentifier,0
 web/api/rtcinboundrtpstreamstats/transportid,0
 web/api/rtcinboundrtpstreamstats/type,0
-web/api/rtcoutboundrtpstreamstats,1
+web/api/rtcoutboundrtpstreamstats,0
 web/api/rtcoutboundrtpstreamstats/active,0
 web/api/rtcoutboundrtpstreamstats/bytessent,0
 web/api/rtcoutboundrtpstreamstats/codecid,0
@@ -10470,8 +10470,9 @@ web/css/guides/fonts/opentype_fonts,0
 web/css/guides/fonts/variable_fonts,0
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
-web/css/guides/gaps,0
+web/css/guides/gaps,1
 web/css/guides/gaps/defining_gaps,0
+web/css/guides/gaps/defining_rules,null
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,0
 web/css/guides/grid_layout/accessibility,0
@@ -11338,7 +11339,7 @@ web/css/reference/selectors/_colon_first,0
 web/css/reference/selectors/_colon_first-child,0
 web/css/reference/selectors/_colon_first-of-type,0
 web/css/reference/selectors/_colon_focus,0
-web/css/reference/selectors/_colon_focus-visible,0
+web/css/reference/selectors/_colon_focus-visible,1
 web/css/reference/selectors/_colon_focus-within,0
 web/css/reference/selectors/_colon_fullscreen,0
 web/css/reference/selectors/_colon_future,0
@@ -11931,7 +11932,7 @@ web/http/guides/content_negotiation,0
 web/http/guides/content_negotiation/list_of_default_accept_values,0
 web/http/guides/cookies,0
 web/http/guides/cors,0
-web/http/guides/cors/errors,0
+web/http/guides/cors/errors,1
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,0
 web/http/guides/cors/errors/corsdidnotsucceed,0
 web/http/guides/cors/errors/corsdisabled,0
@@ -11939,7 +11940,7 @@ web/http/guides/cors/errors/corsexternalredirectnotallowed,0
 web/http/guides/cors/errors/corsinvalidallowheader,0
 web/http/guides/cors/errors/corsinvalidallowmethod,0
 web/http/guides/cors/errors/corsmethodnotfound,0
-web/http/guides/cors/errors/corsmissingallowcredentials,0
+web/http/guides/cors/errors/corsmissingallowcredentials,1
 web/http/guides/cors/errors/corsmissingallowheaderfrompreflight,0
 web/http/guides/cors/errors/corsmissingalloworigin,0
 web/http/guides/cors/errors/corsmultiplealloworiginnotallowed,0
