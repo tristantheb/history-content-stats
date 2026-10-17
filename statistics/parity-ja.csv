@@ -130,7 +130,7 @@ glossary/caldav,0
 glossary/call_stack,0
 glossary/callback_function,0
 glossary/camel_case,6
-glossary/canonical_order,null
+glossary/canonical_order,0
 glossary/canvas,0
 glossary/card_sorting,2
 glossary/carddav,0
@@ -144,12 +144,12 @@ glossary/character_encoding,9
 glossary/character_reference,1
 glossary/character_set,0
 glossary/chrome,0
-glossary/cia,null
+glossary/cia,0
 glossary/cipher,4
 glossary/cipher_suite,3
 glossary/ciphertext,0
 glossary/class,2
-glossary/closure,null
+glossary/closure,0
 glossary/cloud,1
 glossary/cloud_computing,0
 glossary/cls,2
@@ -164,7 +164,7 @@ glossary/compile,3
 glossary/compile_time,0
 glossary/composite_operation,6
 glossary/compression_dictionary_transport,null
-glossary/computer_programming,null
+glossary/computer_programming,0
 glossary/conditional,0
 glossary/constant,0
 glossary/constructor,2
@@ -191,8 +191,8 @@ glossary/csr,1
 glossary/csrf,0
 glossary/css,1
 glossary/css_descriptor,null
-glossary/css_pixel,null
-glossary/css_preprocessor,null
+glossary/css_pixel,0
+glossary/css_preprocessor,0
 glossary/css_selector,12
 glossary/cssom,0
 glossary/data_structure,null
@@ -300,7 +300,7 @@ glossary/grid_lines,5
 glossary/grid_row,3
 glossary/grid_tracks,10
 glossary/guaranteed_invalid_value,0
-glossary/gutters,13
+glossary/gutters,0
 glossary/gzip_compression,11
 glossary/hash_function,0
 glossary/hash_routing,null
