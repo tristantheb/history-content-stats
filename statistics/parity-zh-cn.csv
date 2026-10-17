@@ -9837,7 +9837,7 @@ web/api/window/getscreendetails,null
 web/api/window/getselection,null
 web/api/window/hashchange_event,5
 web/api/window/history,null
-web/api/window/indexeddb,null
+web/api/window/indexeddb,0
 web/api/window/innerheight,null
 web/api/window/innerwidth,0
 web/api/window/issecurecontext,2
