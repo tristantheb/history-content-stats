@@ -4821,7 +4821,7 @@ web/api/window/getselection,no_hash_commit
 web/api/window/hashchange_event,acfe8c9f1f4145f77653a2bc64a9744b001358dc
 web/api/window/history,no_hash_commit
 web/api/window,no_hash_commit
-web/api/window/indexeddb,no_hash_commit
+web/api/window/indexeddb,9912dd7cc583fc938cc73152dccdb94c3bb79ce4
 web/api/window/innerheight,no_hash_commit
 web/api/window/innerwidth,285941521a9a7c2c1b3c443d5f785e5f663a8fc9
 web/api/window/issecurecontext,964e2254ff85284e27121394dc5b6c5ac34a5ee3
