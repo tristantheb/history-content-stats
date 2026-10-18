@@ -12858,7 +12858,7 @@ web/javascript/reference/global_objects/iterator/zip,0
 web/javascript/reference/global_objects/iterator/zipkeyed,0
 web/javascript/reference/global_objects/json,0
 web/javascript/reference/global_objects/json/israwjson,0
-web/javascript/reference/global_objects/json/parse,0
+web/javascript/reference/global_objects/json/parse,1
 web/javascript/reference/global_objects/json/rawjson,0
 web/javascript/reference/global_objects/json/stringify,0
 web/javascript/reference/global_objects/map,0
