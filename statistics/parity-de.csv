@@ -11746,7 +11746,7 @@ web/html/reference/elements/colgroup,0
 web/html/reference/elements/data,0
 web/html/reference/elements/datalist,0
 web/html/reference/elements/dd,0
-web/html/reference/elements/del,1
+web/html/reference/elements/del,0
 web/html/reference/elements/details,0
 web/html/reference/elements/dfn,0
 web/html/reference/elements/dialog,0
@@ -11798,7 +11798,7 @@ web/html/reference/elements/input/text,0
 web/html/reference/elements/input/time,0
 web/html/reference/elements/input/url,0
 web/html/reference/elements/input/week,0
-web/html/reference/elements/ins,1
+web/html/reference/elements/ins,0
 web/html/reference/elements/kbd,0
 web/html/reference/elements/label,0
 web/html/reference/elements/legend,0
@@ -11806,7 +11806,7 @@ web/html/reference/elements/li,0
 web/html/reference/elements/link,0
 web/html/reference/elements/main,0
 web/html/reference/elements/map,0
-web/html/reference/elements/mark,1
+web/html/reference/elements/mark,0
 web/html/reference/elements/marquee,0
 web/html/reference/elements/menu,0
 web/html/reference/elements/meta,0
@@ -11842,7 +11842,7 @@ web/html/reference/elements/rp,0
 web/html/reference/elements/rt,0
 web/html/reference/elements/rtc,0
 web/html/reference/elements/ruby,0
-web/html/reference/elements/s,1
+web/html/reference/elements/s,0
 web/html/reference/elements/samp,0
 web/html/reference/elements/script,0
 web/html/reference/elements/script/type,0
