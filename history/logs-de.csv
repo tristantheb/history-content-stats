@@ -11743,7 +11743,7 @@ web/html/reference/elements/colgroup,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/data,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/datalist,bcb7d4dde9f0a43664c64587d9d70b8835286eb7
 web/html/reference/elements/dd,599ae8b7ad414e91df473d91983f4ffc5cafabb3
-web/html/reference/elements/del,15e1155ab8a0587405601cc4753bb789cd6ac47c
+web/html/reference/elements/del,32eceacf42b6bff41d9605298eba143cb7e199a1
 web/html/reference/elements/details,44a1a0348720bbd1b1085c7d92b93b4fd311a3dd
 web/html/reference/elements/dfn,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/dialog,31e1fcaa50ff25bb27d7093758fa7a7088fff1e0
@@ -11796,7 +11796,7 @@ web/html/reference/elements/input/text,46afd57950146568819d0bf98175a2ffdbe079d7
 web/html/reference/elements/input/time,46afd57950146568819d0bf98175a2ffdbe079d7
 web/html/reference/elements/input/url,46afd57950146568819d0bf98175a2ffdbe079d7
 web/html/reference/elements/input/week,46afd57950146568819d0bf98175a2ffdbe079d7
-web/html/reference/elements/ins,15e1155ab8a0587405601cc4753bb789cd6ac47c
+web/html/reference/elements/ins,32eceacf42b6bff41d9605298eba143cb7e199a1
 web/html/reference/elements/kbd,f201fb25d8aeda059065686c180e161c995369d2
 web/html/reference/elements/label,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/legend,599ae8b7ad414e91df473d91983f4ffc5cafabb3
@@ -11804,7 +11804,7 @@ web/html/reference/elements/li,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/link,fc7c0c6df803d5ce26e7b2a72725a7d021ed0694
 web/html/reference/elements/main,100cf25d92d3953f3c70ecaa2af637d5e42179d8
 web/html/reference/elements/map,599ae8b7ad414e91df473d91983f4ffc5cafabb3
-web/html/reference/elements/mark,15e1155ab8a0587405601cc4753bb789cd6ac47c
+web/html/reference/elements/mark,32eceacf42b6bff41d9605298eba143cb7e199a1
 web/html/reference/elements/marquee,ca6052779ddca9f6d99665f12c39aa2d85d85733
 web/html/reference/elements/menu,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/meta/http-equiv,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2
@@ -11840,7 +11840,7 @@ web/html/reference/elements/rp,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/rt,100cf25d92d3953f3c70ecaa2af637d5e42179d8
 web/html/reference/elements/rtc,ca6052779ddca9f6d99665f12c39aa2d85d85733
 web/html/reference/elements/ruby,599ae8b7ad414e91df473d91983f4ffc5cafabb3
-web/html/reference/elements/s,15e1155ab8a0587405601cc4753bb789cd6ac47c
+web/html/reference/elements/s,32eceacf42b6bff41d9605298eba143cb7e199a1
 web/html/reference/elements/samp,599ae8b7ad414e91df473d91983f4ffc5cafabb3
 web/html/reference/elements/script,44a5fa2aace490e0114349d9d683675b2f5cacce
 web/html/reference/elements/script/type/importmap,41a472e5bad6c6d2698d6e85c1172909cb102fa1
