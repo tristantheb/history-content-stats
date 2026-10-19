@@ -10990,7 +10990,7 @@ web/css/reference/properties/grid-template,null
 web/css/reference/properties/grid-template-areas,null
 web/css/reference/properties/grid-template-columns,null
 web/css/reference/properties/grid-template-rows,null
-web/css/reference/properties/hanging-punctuation,null
+web/css/reference/properties/hanging-punctuation,0
 web/css/reference/properties/height,null
 web/css/reference/properties/hyphenate-character,null
 web/css/reference/properties/hyphenate-limit-chars,null
