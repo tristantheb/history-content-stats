@@ -52,7 +52,7 @@ games/tutorials/2d_breakout_game_phaser/track_the_score_and_win,1
 games/tutorials/2d_breakout_game_pure_javascript,1
 games/tutorials/2d_breakout_game_pure_javascript/animations_and_tweens,null
 games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,1
-games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,null
+games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,0
 games/tutorials/2d_breakout_game_pure_javascript/buttons,null
 games/tutorials/2d_breakout_game_pure_javascript/extra_lives,1
 games/tutorials/2d_breakout_game_pure_javascript/game_over,1
@@ -549,7 +549,7 @@ glossary/scroll_container,6
 glossary/scroll_snap,3
 glossary/sctp,1
 glossary/sdk,1
-glossary/sdp,2
+glossary/sdp,3
 glossary/search_engine,1
 glossary/secure_context,3
 glossary/semantics,3
@@ -2315,7 +2315,7 @@ web/api/analysernode/analysernode,0
 web/api/analysernode/fftsize,0
 web/api/analysernode/frequencybincount,null
 web/api/analysernode/getbytefrequencydata,null
-web/api/analysernode/getbytetimedomaindata,null
+web/api/analysernode/getbytetimedomaindata,0
 web/api/analysernode/getfloatfrequencydata,null
 web/api/analysernode/getfloattimedomaindata,null
 web/api/analysernode/maxdecibels,null
@@ -2891,7 +2891,7 @@ web/api/characterdata/substringdata,null
 web/api/client,null
 web/api/client/frametype,0
 web/api/client/id,null
-web/api/client/postmessage,null
+web/api/client/postmessage,0
 web/api/client/type,0
 web/api/client/url,null
 web/api/clients,null
@@ -3719,7 +3719,7 @@ web/api/dommatrixreadonly/transformpoint,null
 web/api/dommatrixreadonly/translate,null
 web/api/domparser,1
 web/api/domparser/domparser,0
-web/api/domparser/parsefromstring,null
+web/api/domparser/parsefromstring,0
 web/api/dompoint,0
 web/api/dompoint/dompoint,null
 web/api/dompoint/frompoint_static,null
@@ -12857,9 +12857,9 @@ web/javascript/reference/global_objects/iterator/windows,null
 web/javascript/reference/global_objects/iterator/zip,null
 web/javascript/reference/global_objects/iterator/zipkeyed,null
 web/javascript/reference/global_objects/json,9
-web/javascript/reference/global_objects/json/israwjson,null
+web/javascript/reference/global_objects/json/israwjson,0
 web/javascript/reference/global_objects/json/parse,3
-web/javascript/reference/global_objects/json/rawjson,null
+web/javascript/reference/global_objects/json/rawjson,0
 web/javascript/reference/global_objects/json/stringify,null
 web/javascript/reference/global_objects/map,1
 web/javascript/reference/global_objects/map/clear,null

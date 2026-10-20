@@ -549,7 +549,7 @@ glossary/scroll_container,5
 glossary/scroll_snap,3
 glossary/sctp,0
 glossary/sdk,1
-glossary/sdp,1
+glossary/sdp,2
 glossary/search_engine,1
 glossary/secure_context,6
 glossary/semantics,0
@@ -1814,7 +1814,7 @@ mozilla/add-ons/webextensions/content_scripts,3
 mozilla/add-ons/webextensions/content_scripts/cloneinto,null
 mozilla/add-ons/webextensions/content_scripts/exportfunction,null
 mozilla/add-ons/webextensions/content_security_policy,null
-mozilla/add-ons/webextensions/developing_webextensions_for_thunderbird,null
+mozilla/add-ons/webextensions/developing_webextensions_for_thunderbird,0
 mozilla/add-ons/webextensions/differences_between_api_implementations,null
 mozilla/add-ons/webextensions/examples,0
 mozilla/add-ons/webextensions/extending_the_developer_tools,null
@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,10
 mozilla/firefox,0
-mozilla/firefox/experimental_features,14
+mozilla/firefox/experimental_features,15
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
