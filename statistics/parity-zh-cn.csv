@@ -12761,7 +12761,7 @@ web/javascript/reference/global_objects/intl/datetimeformat/formatrangetoparts,n
 web/javascript/reference/global_objects/intl/datetimeformat/formattoparts,null
 web/javascript/reference/global_objects/intl/datetimeformat/resolvedoptions,null
 web/javascript/reference/global_objects/intl/datetimeformat/supportedlocalesof,null
-web/javascript/reference/global_objects/intl/displaynames,null
+web/javascript/reference/global_objects/intl/displaynames,0
 web/javascript/reference/global_objects/intl/displaynames/displaynames,null
 web/javascript/reference/global_objects/intl/displaynames/of,null
 web/javascript/reference/global_objects/intl/displaynames/resolvedoptions,null
