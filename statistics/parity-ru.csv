@@ -14241,6 +14241,7 @@ web/webdriver/reference/bidi/modules/network,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null
 web/webdriver/reference/bidi/modules/script/addpreloadscript,null
+web/webdriver/reference/bidi/modules/script/callfunction,null
 web/webdriver/reference/bidi/modules/script/disown,null
 web/webdriver/reference/bidi/modules/script/evaluate,null
 web/webdriver/reference/bidi/modules/script/getrealms,null

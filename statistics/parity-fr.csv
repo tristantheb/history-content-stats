@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,6
 mozilla/firefox,0
-mozilla/firefox/experimental_features,9
+mozilla/firefox/experimental_features,10
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -6930,7 +6930,7 @@ web/api/pointerevent/tilty,null
 web/api/pointerevent/twist,null
 web/api/pointerevent/width,null
 web/api/popover_api,0
-web/api/popover_api/using,0
+web/api/popover_api/using,1
 web/api/popover_api/using_interest_invokers,0
 web/api/popstateevent,0
 web/api/popstateevent/hasuavisualtransition,0
@@ -10382,7 +10382,7 @@ web/css/guides,0
 web/css/guides/anchor_positioning,0
 web/css/guides/anchor_positioning/anchored_container_queries,0
 web/css/guides/anchor_positioning/try_options_hiding,0
-web/css/guides/anchor_positioning/using,0
+web/css/guides/anchor_positioning/using,1
 web/css/guides/animation_triggers,null
 web/css/guides/animation_triggers/using_scroll-triggered_animations,null
 web/css/guides/animations,0
@@ -10455,7 +10455,7 @@ web/css/guides/easing_functions,0
 web/css/guides/environment_variables,0
 web/css/guides/environment_variables/using,0
 web/css/guides/filter_effects,0
-web/css/guides/filter_effects/using,0
+web/css/guides/filter_effects/using,1
 web/css/guides/flexible_box_layout,0
 web/css/guides/flexible_box_layout/aligning_items,0
 web/css/guides/flexible_box_layout/basic_concepts,0
@@ -10646,7 +10646,7 @@ web/css/reference/at-rules/@font-feature-values/font-display,0
 web/css/reference/at-rules/@font-palette-values,0
 web/css/reference/at-rules/@font-palette-values/base-palette,0
 web/css/reference/at-rules/@font-palette-values/font-family,0
-web/css/reference/at-rules/@font-palette-values/override-colors,0
+web/css/reference/at-rules/@font-palette-values/override-colors,1
 web/css/reference/at-rules/@function,0
 web/css/reference/at-rules/@import,0
 web/css/reference/at-rules/@import/layer_function,0
@@ -10954,7 +10954,7 @@ web/css/reference/properties/font-palette/palette-mix,0
 web/css/reference/properties/font-size,0
 web/css/reference/properties/font-size-adjust,0
 web/css/reference/properties/font-smooth,0
-web/css/reference/properties/font-stretch,0
+web/css/reference/properties/font-stretch,1
 web/css/reference/properties/font-style,0
 web/css/reference/properties/font-synthesis,0
 web/css/reference/properties/font-synthesis-position,0
@@ -10971,7 +10971,7 @@ web/css/reference/properties/font-variant-numeric,0
 web/css/reference/properties/font-variant-position,0
 web/css/reference/properties/font-variation-settings,0
 web/css/reference/properties/font-weight,0
-web/css/reference/properties/font-width,0
+web/css/reference/properties/font-width,1
 web/css/reference/properties/forced-color-adjust,0
 web/css/reference/properties/frame-sizing,0
 web/css/reference/properties/gap,0
@@ -11128,8 +11128,8 @@ web/css/reference/properties/place-items,1
 web/css/reference/properties/place-self,0
 web/css/reference/properties/pointer-events,0
 web/css/reference/properties/position,0
-web/css/reference/properties/position-anchor,0
-web/css/reference/properties/position-area,1
+web/css/reference/properties/position-anchor,1
+web/css/reference/properties/position-area,2
 web/css/reference/properties/position-try,1
 web/css/reference/properties/position-try-fallbacks,1
 web/css/reference/properties/position-try-order,2
@@ -11477,7 +11477,7 @@ web/css/reference/values/abs,0
 web/css/reference/values/absolute-size,1
 web/css/reference/values/acos,0
 web/css/reference/values/alpha-value,0
-web/css/reference/values/anchor,0
+web/css/reference/values/anchor,1
 web/css/reference/values/anchor-size,0
 web/css/reference/values/angle,0
 web/css/reference/values/angle-percentage,0
@@ -11546,16 +11546,16 @@ web/css/reference/values/element,0
 web/css/reference/values/env,2
 web/css/reference/values/exp,0
 web/css/reference/values/filter-function,0
-web/css/reference/values/filter-function/blur,0
+web/css/reference/values/filter-function/blur,1
 web/css/reference/values/filter-function/brightness,0
 web/css/reference/values/filter-function/contrast,0
 web/css/reference/values/filter-function/drop-shadow,0
-web/css/reference/values/filter-function/grayscale,0
+web/css/reference/values/filter-function/grayscale,1
 web/css/reference/values/filter-function/hue-rotate,0
-web/css/reference/values/filter-function/invert,0
-web/css/reference/values/filter-function/opacity,0
-web/css/reference/values/filter-function/saturate,0
-web/css/reference/values/filter-function/sepia,0
+web/css/reference/values/filter-function/invert,1
+web/css/reference/values/filter-function/opacity,1
+web/css/reference/values/filter-function/saturate,1
+web/css/reference/values/filter-function/sepia,1
 web/css/reference/values/fit-content,0
 web/css/reference/values/fit-content_function,0
 web/css/reference/values/flex_value,0
@@ -12231,7 +12231,7 @@ web/http/reference/methods/options,0
 web/http/reference/methods/patch,0
 web/http/reference/methods/post,0
 web/http/reference/methods/put,0
-web/http/reference/methods/query,null
+web/http/reference/methods/query,0
 web/http/reference/methods/trace,0
 web/http/reference/resources_and_specifications,0
 web/http/reference/status,0
@@ -14241,6 +14241,7 @@ web/webdriver/reference/bidi/modules/network,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null
 web/webdriver/reference/bidi/modules/script/addpreloadscript,null
+web/webdriver/reference/bidi/modules/script/callfunction,null
 web/webdriver/reference/bidi/modules/script/disown,null
 web/webdriver/reference/bidi/modules/script/evaluate,null
 web/webdriver/reference/bidi/modules/script/getrealms,null
