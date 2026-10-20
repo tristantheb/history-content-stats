@@ -20,7 +20,7 @@ games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/engine,n
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,0
 games/techniques/3d_on_the_web/glsl_shaders,null
 games/techniques/3d_on_the_web/webxr,null
-games/techniques/async_scripts,5
+games/techniques/async_scripts,0
 games/techniques/audio_for_web_games,null
 games/techniques/control_mechanisms,null
 games/techniques/control_mechanisms/desktop_with_gamepad,null
@@ -35,7 +35,7 @@ games/techniques/tilemaps/square_tilemaps_implementation_colon__static_maps,null
 games/techniques/webrtc_data_channels,null
 games/tools,0
 games/tools/asm.js,0
-games/tutorials,null
+games/tutorials,0
 games/tutorials/2d_breakout_game_phaser,null
 games/tutorials/2d_breakout_game_phaser/animations_and_tweens,null
 games/tutorials/2d_breakout_game_phaser/bounce_off_the_walls,null
