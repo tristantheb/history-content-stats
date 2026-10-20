@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,10
 mozilla/firefox,0
-mozilla/firefox/experimental_features,15
+mozilla/firefox/experimental_features,16
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -2084,7 +2084,7 @@ mozilla/firefox/releases/89,null
 mozilla/firefox/releases/9,1
 mozilla/firefox/releases/9/updating_add-ons,null
 mozilla/firefox/releases/90,null
-mozilla/firefox/releases/91,0
+mozilla/firefox/releases/91,1
 mozilla/firefox/releases/92,3
 mozilla/firefox/releases/93,null
 mozilla/firefox/releases/94,7
@@ -2899,13 +2899,13 @@ web/api/clients/claim,0
 web/api/clients/get,0
 web/api/clients/matchall,1
 web/api/clients/openwindow,3
-web/api/clipboard,0
+web/api/clipboard,1
 web/api/clipboard/clipboardchange_event,0
-web/api/clipboard/read,0
+web/api/clipboard/read,1
 web/api/clipboard/readtext,0
-web/api/clipboard/write,1
+web/api/clipboard/write,2
 web/api/clipboard/writetext,0
-web/api/clipboard_api,12
+web/api/clipboard_api,13
 web/api/clipboardchangeevent,null
 web/api/clipboardchangeevent/changeid,null
 web/api/clipboardchangeevent/clipboardchangeevent,null
@@ -2913,8 +2913,8 @@ web/api/clipboardchangeevent/types,null
 web/api/clipboardevent,1
 web/api/clipboardevent/clipboarddata,2
 web/api/clipboardevent/clipboardevent,1
-web/api/clipboarditem,0
-web/api/clipboarditem/clipboarditem,0
+web/api/clipboarditem,1
+web/api/clipboarditem/clipboarditem,1
 web/api/clipboarditem/gettype,0
 web/api/clipboarditem/presentationstyle,0
 web/api/clipboarditem/supports_static,0
@@ -6929,7 +6929,7 @@ web/api/pointerevent/tiltx,4
 web/api/pointerevent/tilty,4
 web/api/pointerevent/twist,1
 web/api/pointerevent/width,1
-web/api/popover_api,13
+web/api/popover_api,0
 web/api/popover_api/using,3
 web/api/popover_api/using_interest_invokers,0
 web/api/popstateevent,2
