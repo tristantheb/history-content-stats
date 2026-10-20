@@ -35,7 +35,7 @@ games/tutorials/2d_breakout_game_phaser/player_paddle_and_controls,no_hash_commi
 games/tutorials/2d_breakout_game_phaser/randomizing_gameplay,ef78a9a3336c884fb3587e4ff833e64704296f01
 games/tutorials/2d_breakout_game_phaser/track_the_score_and_win,4483da6501d1c735a0e1ac1e95775e2fe1766dc3
 games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,1a0be468b9e7c88a09ea3438a81341c4f6a619a6
-games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,no_hash_commit
+games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,69937a446786abf5a58d4214b4192597d0b3cdc6
 games/tutorials/2d_breakout_game_pure_javascript/extra_lives,6036cd414b2214f85901158bdf3e3a96123d4553
 games/tutorials/2d_breakout_game_pure_javascript/game_over,6036cd414b2214f85901158bdf3e3a96123d4553
 games/tutorials/2d_breakout_game_pure_javascript,4483da6501d1c735a0e1ac1e95775e2fe1766dc3
@@ -1680,7 +1680,7 @@ web/api/analysernode/analysernode,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/analysernode/fftsize,ca3afa7533ac5bc2d552b0c7926d672fe79d71de
 web/api/analysernode/frequencybincount,no_hash_commit
 web/api/analysernode/getbytefrequencydata,no_hash_commit
-web/api/analysernode/getbytetimedomaindata,no_hash_commit
+web/api/analysernode/getbytetimedomaindata,ca3afa7533ac5bc2d552b0c7926d672fe79d71de
 web/api/analysernode/getfloatfrequencydata,no_hash_commit
 web/api/analysernode,no_hash_commit
 web/api/analysernode/smoothingtimeconstant,no_hash_commit
@@ -2022,7 +2022,7 @@ web/api/characterdata,no_hash_commit
 web/api/client/frametype,2ef36a6d6f380e79c88bc3a80033e1d3c4629994
 web/api/client/id,no_hash_commit
 web/api/client,no_hash_commit
-web/api/client/postmessage,no_hash_commit
+web/api/client/postmessage,ff81a4e4cb740060aca2df256ce2e07d1e2c0b4e
 web/api/client/type,2ef36a6d6f380e79c88bc3a80033e1d3c4629994
 web/api/clients/claim,no_hash_commit
 web/api/clients/get,no_hash_commit
@@ -2499,6 +2499,7 @@ web/api/dommatrix,no_hash_commit
 web/api/dommatrixreadonly/dommatrixreadonly,3e543cdfe8dddfb4774a64bf3decdcbab42a4111
 web/api/domparser/domparser,41a8b9c9832359d445d136b6d7a8a28737badc6b
 web/api/domparser,3e1b5277c6451e7d27ab628f23fb9702947a7a7b
+web/api/domparser/parsefromstring,ca4b3f28ed0e1ae9817e84a2eab11c2184a0603b
 web/api/dompoint/dompoint,no_hash_commit
 web/api/dompoint,3652cfa9c036cf3ceebb1384bdc7edfd549251f3
 web/api/dompoint/w,no_hash_commit
@@ -6741,7 +6742,9 @@ web/javascript/reference/global_objects/iterator/symbol.iterator,6fbdb78c1362fae
 web/javascript/reference/global_objects/iterator/take,2ce8f6f9d08cd6f10b77c4853ef5494c690b56b1
 web/javascript/reference/global_objects/iterator/toarray,088b56a895d22b6df854a9f26400af7d399f289f
 web/javascript/reference/global_objects/json,b1f371983ebac0233e12adbde67a1d8c4f54563c
+web/javascript/reference/global_objects/json/israwjson,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/json/parse,b6cab42cf7baf925f2ef6a2c98db0778d9c2ec46
+web/javascript/reference/global_objects/json/rawjson,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/json/stringify,no_hash_commit
 web/javascript/reference/global_objects/map/clear,no_hash_commit
 web/javascript/reference/global_objects/map/delete,no_hash_commit
