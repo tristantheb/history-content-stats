@@ -2899,11 +2899,11 @@ web/api/clients/claim,null
 web/api/clients/get,null
 web/api/clients/matchall,null
 web/api/clients/openwindow,null
-web/api/clipboard,3
+web/api/clipboard,4
 web/api/clipboard/clipboardchange_event,null
-web/api/clipboard/read,3
+web/api/clipboard/read,4
 web/api/clipboard/readtext,1
-web/api/clipboard/write,2
+web/api/clipboard/write,3
 web/api/clipboard/writetext,1
 web/api/clipboard_api,null
 web/api/clipboardchangeevent,null

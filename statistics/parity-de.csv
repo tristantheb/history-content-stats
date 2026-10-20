@@ -549,7 +549,7 @@ glossary/scroll_container,0
 glossary/scroll_snap,0
 glossary/sctp,0
 glossary/sdk,0
-glossary/sdp,1
+glossary/sdp,0
 glossary/search_engine,0
 glossary/secure_context,0
 glossary/semantics,0
@@ -1452,8 +1452,8 @@ mozilla/add-ons/webextensions/api/management/uninstall,0
 mozilla/add-ons/webextensions/api/management/uninstallself,0
 mozilla/add-ons/webextensions/api/menus,0
 mozilla/add-ons/webextensions/api/menus/action_menu_top_level_limit,0
-mozilla/add-ons/webextensions/api/menus/contexttype,0
-mozilla/add-ons/webextensions/api/menus/create,0
+mozilla/add-ons/webextensions/api/menus/contexttype,1
+mozilla/add-ons/webextensions/api/menus/create,1
 mozilla/add-ons/webextensions/api/menus/gettargetelement,0
 mozilla/add-ons/webextensions/api/menus/itemtype,0
 mozilla/add-ons/webextensions/api/menus/onclickdata,0
@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,0
 mozilla/firefox/releases/157,0
 mozilla/firefox/releases/158,0
-mozilla/firefox/releases/159,1
+mozilla/firefox/releases/159,2
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/160,0
 mozilla/firefox/releases/17,0
@@ -2084,7 +2084,7 @@ mozilla/firefox/releases/89,0
 mozilla/firefox/releases/9,0
 mozilla/firefox/releases/9/updating_add-ons,0
 mozilla/firefox/releases/90,0
-mozilla/firefox/releases/91,0
+mozilla/firefox/releases/91,1
 mozilla/firefox/releases/92,0
 mozilla/firefox/releases/93,0
 mozilla/firefox/releases/94,0
@@ -2899,13 +2899,13 @@ web/api/clients/claim,0
 web/api/clients/get,0
 web/api/clients/matchall,0
 web/api/clients/openwindow,0
-web/api/clipboard,0
+web/api/clipboard,1
 web/api/clipboard/clipboardchange_event,0
-web/api/clipboard/read,0
+web/api/clipboard/read,1
 web/api/clipboard/readtext,0
-web/api/clipboard/write,0
+web/api/clipboard/write,1
 web/api/clipboard/writetext,0
-web/api/clipboard_api,0
+web/api/clipboard_api,1
 web/api/clipboardchangeevent,0
 web/api/clipboardchangeevent/changeid,0
 web/api/clipboardchangeevent/clipboardchangeevent,0
@@ -2913,8 +2913,8 @@ web/api/clipboardchangeevent/types,0
 web/api/clipboardevent,0
 web/api/clipboardevent/clipboarddata,0
 web/api/clipboardevent/clipboardevent,0
-web/api/clipboarditem,0
-web/api/clipboarditem/clipboarditem,0
+web/api/clipboarditem,1
+web/api/clipboarditem/clipboarditem,1
 web/api/clipboarditem/gettype,0
 web/api/clipboarditem/presentationstyle,0
 web/api/clipboarditem/supports_static,0

@@ -1452,7 +1452,7 @@ mozilla/add-ons/webextensions/api/management/uninstall,null
 mozilla/add-ons/webextensions/api/management/uninstallself,null
 mozilla/add-ons/webextensions/api/menus,null
 mozilla/add-ons/webextensions/api/menus/action_menu_top_level_limit,null
-mozilla/add-ons/webextensions/api/menus/contexttype,9
+mozilla/add-ons/webextensions/api/menus/contexttype,10
 mozilla/add-ons/webextensions/api/menus/create,null
 mozilla/add-ons/webextensions/api/menus/gettargetelement,null
 mozilla/add-ons/webextensions/api/menus/itemtype,null
