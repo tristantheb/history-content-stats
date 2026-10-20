@@ -1452,8 +1452,8 @@ mozilla/add-ons/webextensions/api/management/uninstall,09109b6f9444d22215ba330ec
 mozilla/add-ons/webextensions/api/management/uninstallself,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/action_menu_top_level_limit,12b40a940857526acdc13fec68e668f67c61c4cc,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/menus/contexttype,674fbb492c76a45adf433810f0f5737a0405bd9c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/menus/create,674fbb492c76a45adf433810f0f5737a0405bd9c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/menus/contexttype,6d79bbcef5344fc28331ecae7b5fd21ba7790fb7,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/menus/create,6d79bbcef5344fc28331ecae7b5fd21ba7790fb7,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/gettargetelement,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/itemtype,7c5cdb65b3f9b9cfe05e34a602eaf08d61195b3e,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/menus/onclickdata,f37e438c6dece2b381d2b9f35dc53af21a916a75,Mozilla|Firefox Add-ons
@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,674fbb492c76a45adf433810
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,674fbb492c76a45adf433810f0f5737a0405bd9c,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,e7808c08820d6e167bf5013b4f94ef3ff90ad147,Mozilla|Firefox
+mozilla/firefox/experimental_features,68ef78c94cab228024ae2a40223f2b059765b508,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/155,0d8aa789fef46572ea27b9929625f298aff0416b,Mozilla|Fi
 mozilla/firefox/releases/156,beede695ee6e0cceaabc3e678eb75a148d77a81e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/158,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6,Mozilla|Firefox|Versions
-mozilla/firefox/releases/159,e7808c08820d6e167bf5013b4f94ef3ff90ad147,Mozilla|Firefox|Versions
+mozilla/firefox/releases/159,68ef78c94cab228024ae2a40223f2b059765b508,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/160,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -2084,7 +2084,7 @@ mozilla/firefox/releases/89,83f4e64da466670c3700110da364546253eae127,Mozilla|Fir
 mozilla/firefox/releases/9,c61fd478259d34aa4fd6ac4cbf9b7d64a78aff43,Mozilla|Firefox|Versions
 mozilla/firefox/releases/9/updating_add-ons,2d5b20a5eabb48bc5472ebe94b11afe2aa84f585,Mozilla|Firefox|Versions
 mozilla/firefox/releases/90,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
-mozilla/firefox/releases/91,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Mozilla|Firefox|Versions
+mozilla/firefox/releases/91,6d79bbcef5344fc28331ecae7b5fd21ba7790fb7,Mozilla|Firefox|Versions
 mozilla/firefox/releases/92,d7a0ef33dfce20818a160557b5a72d6565cec254,Mozilla|Firefox|Versions
 mozilla/firefox/releases/93,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
 mozilla/firefox/releases/94,61912f53d01e935aea926a2226130fb4587414a9,Mozilla|Firefox|Versions
@@ -2899,13 +2899,13 @@ web/api/clients/claim,dcbb1d99185118360cc84b3a0e935e77fe0a03e3,Web APIs
 web/api/clients/get,2ef36a6d6f380e79c88bc3a80033e1d3c4629994,Web APIs
 web/api/clients/matchall,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/clients/openwindow,f37e438c6dece2b381d2b9f35dc53af21a916a75,Web APIs
-web/api/clipboard,3712f845b54b2754b2b550c7d7dca18f0277c0ad,Web APIs
+web/api/clipboard,7b8a3c0a4ab5b4b0c605641e8b64c8da42d8dd51,Web APIs
 web/api/clipboard/clipboardchange_event,6f8aa84681bf6f94fd93f5d3f999a4d4c0764344,Web APIs
-web/api/clipboard/read,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
+web/api/clipboard/read,7b8a3c0a4ab5b4b0c605641e8b64c8da42d8dd51,Web APIs
 web/api/clipboard/readtext,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
-web/api/clipboard/write,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
+web/api/clipboard/write,7b8a3c0a4ab5b4b0c605641e8b64c8da42d8dd51,Web APIs
 web/api/clipboard/writetext,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
-web/api/clipboard_api,6f8aa84681bf6f94fd93f5d3f999a4d4c0764344,Web APIs
+web/api/clipboard_api,7b8a3c0a4ab5b4b0c605641e8b64c8da42d8dd51,Web APIs
 web/api/clipboardchangeevent,c534ba0cb925657de5e99ab8c540eae31afd9382,Web APIs
 web/api/clipboardchangeevent/changeid,c534ba0cb925657de5e99ab8c540eae31afd9382,Web APIs
 web/api/clipboardchangeevent/clipboardchangeevent,c534ba0cb925657de5e99ab8c540eae31afd9382,Web APIs
@@ -2913,8 +2913,8 @@ web/api/clipboardchangeevent/types,c534ba0cb925657de5e99ab8c540eae31afd9382,Web 
 web/api/clipboardevent,eb38a196911f92a7c99a1a2000fac1cd29d23db9,Web APIs
 web/api/clipboardevent/clipboarddata,980b5a01c4527ef69fee3b865c68ee3ffb09d612,Web APIs
 web/api/clipboardevent/clipboardevent,7087ffd50a4d81d1b91fe603c26456e9ce398574,Web APIs
-web/api/clipboarditem,eb38a196911f92a7c99a1a2000fac1cd29d23db9,Web APIs
-web/api/clipboarditem/clipboarditem,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
+web/api/clipboarditem,7b8a3c0a4ab5b4b0c605641e8b64c8da42d8dd51,Web APIs
+web/api/clipboarditem/clipboarditem,7b8a3c0a4ab5b4b0c605641e8b64c8da42d8dd51,Web APIs
 web/api/clipboarditem/gettype,eaa5b39f80d5fac0e5bf182679dc658b7083d15b,Web APIs
 web/api/clipboarditem/presentationstyle,7087ffd50a4d81d1b91fe603c26456e9ce398574,Web APIs
 web/api/clipboarditem/supports_static,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
