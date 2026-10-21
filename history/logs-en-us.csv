@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,674fbb492c76a45adf433810
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,674fbb492c76a45adf433810f0f5737a0405bd9c,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,30f17ced3a8fc8172e11e7379893d4e61f5bdd61,Mozilla|Firefox
+mozilla/firefox/experimental_features,7220cba37bea17e7e18a674ec730366e8af815ab,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/155,0d8aa789fef46572ea27b9929625f298aff0416b,Mozilla|Fi
 mozilla/firefox/releases/156,beede695ee6e0cceaabc3e678eb75a148d77a81e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/157,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/158,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6,Mozilla|Firefox|Versions
-mozilla/firefox/releases/159,30f17ced3a8fc8172e11e7379893d4e61f5bdd61,Mozilla|Firefox|Versions
+mozilla/firefox/releases/159,7220cba37bea17e7e18a674ec730366e8af815ab,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/160,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -4787,7 +4787,7 @@ web/api/htmlanchorelement/port,e02a864c445ce44efe815d921ab8fcc46fbfd4c5,Web APIs
 web/api/htmlanchorelement/protocol,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
 web/api/htmlanchorelement/referrerpolicy,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/htmlanchorelement/rel,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
-web/api/htmlanchorelement/rellist,c053b4b3bb0f34736e9f4402d4254830670af723,Web APIs
+web/api/htmlanchorelement/rellist,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
 web/api/htmlanchorelement/search,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
 web/api/htmlanchorelement/target,9ba3ab2c48fb51423f811d329818071e4c79caca,Web APIs
 web/api/htmlanchorelement/text,5d670c42df8ede57e3d6341cb15d8251eb188dc4,Web APIs
@@ -5868,7 +5868,8 @@ web/api/managedmediasource/startstreaming_event,aea2d29336c910940abb1f8e71e02158
 web/api/managedmediasource/streaming,aea2d29336c910940abb1f8e71e02158ac51e7c4,Web APIs
 web/api/managedsourcebuffer,aea2d29336c910940abb1f8e71e02158ac51e7c4,Web APIs
 web/api/managedsourcebuffer/bufferedchange_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
-web/api/mathmlanchorelement,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
+web/api/mathmlanchorelement,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
+web/api/mathmlanchorelement/download,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
 web/api/mathmlanchorelement/hash,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/host,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/hostname,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
@@ -5877,8 +5878,12 @@ web/api/mathmlanchorelement/hreflang,76c2e04d720aa8260ba7d75788ed96776aac35c6,We
 web/api/mathmlanchorelement/origin,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/password,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/pathname,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
+web/api/mathmlanchorelement/ping,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
 web/api/mathmlanchorelement/port,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/protocol,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
+web/api/mathmlanchorelement/referrerpolicy,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
+web/api/mathmlanchorelement/rel,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
+web/api/mathmlanchorelement/rellist,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
 web/api/mathmlanchorelement/search,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/target,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/type,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
@@ -11918,7 +11923,7 @@ web/html/reference/global_attributes/title,bcb7d4dde9f0a43664c64587d9d70b8835286
 web/html/reference/global_attributes/translate,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/virtualkeyboardpolicy,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/writingsuggestions,d19dec85109590176f946fcceef48c787d578b1e,HTML|Global Attributes
-web/http,7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f,HTTP
+web/http,bd5271a96d814ed6876e974186c465f1b3959e07,HTTP
 web/http/guides,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/authentication,a4c63d2855b2f557e7d1ee821dee65011d569a41,HTTP|Guides
 web/http/guides/browser_detection_using_the_user_agent,6ad108adad746bd7ed79b5b32d8d3e05e5ec685a,HTTP|Guides
@@ -11948,7 +11953,6 @@ web/http/guides/cors/errors/corsnotsupportingcredentials,ad5b5e31f81795d692e66da
 web/http/guides/cors/errors/corsoriginheadernotadded,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/cors/errors/corspreflightdidnotsucceed,92396cf8979e107c3ac42c2b9fc382013ea1c234,HTTP|Guides
 web/http/guides/cors/errors/corsrequestnothttp,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,HTTP|Guides
-web/http/guides/cross-origin_resource_policy,d5c3db4df1e063769b8113567f4558ad4298b00b,HTTP|Guides
 web/http/guides/csp,6720d579bd658f02c56363805e97e69f93dc79f1,HTTP|Guides
 web/http/guides/csp/errors,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0,HTTP|Guides
 web/http/guides/csp/errors/cspviolation,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
@@ -11969,7 +11973,7 @@ web/http/guides/redirections,56f3d7018159127dbe92842413fb45d0aa7e8193,HTTP|Guide
 web/http/guides/session,182692930243199b48e10dfc2cc43c51f9373aa2,HTTP|Guides
 web/http/guides/user-agent_reduction,2ab902d9eec2f5a93d1f666234371ca77e93c470,HTTP|Guides
 web/http/reference,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP
-web/http/reference/headers,346e46c6e10334bf60df2a0a4ef58ebea4c80a4e,HTTP|Headers
+web/http/reference/headers,bd5271a96d814ed6876e974186c465f1b3959e07,HTTP|Headers
 web/http/reference/headers/accept,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,HTTP|Headers
 web/http/reference/headers/accept-ch,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Headers
 web/http/reference/headers/accept-encoding,a4c63d2855b2f557e7d1ee821dee65011d569a41,HTTP|Headers
@@ -12043,7 +12047,7 @@ web/http/reference/headers/critical-ch,513146a616213fee548fdcf72dc1359030eb3395,
 web/http/reference/headers/cross-origin-embedder-policy,6030ef1aadf967b80e2c79c3d3463cccc8ea0c95,HTTP|Headers
 web/http/reference/headers/cross-origin-embedder-policy-report-only,2d0aa21573c6ceb33aeadf94ce6cd84588b74123,HTTP|Headers
 web/http/reference/headers/cross-origin-opener-policy,d0b1c8fc4aa83c8c584a6593b0410adef7b9d4c3,HTTP|Headers
-web/http/reference/headers/cross-origin-resource-policy,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
+web/http/reference/headers/cross-origin-resource-policy,bd5271a96d814ed6876e974186c465f1b3959e07,HTTP|Headers
 web/http/reference/headers/date,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/device-memory,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTTP|Headers
 web/http/reference/headers/dictionary-id,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -13646,7 +13650,7 @@ web/mathml/guides/proving_the_pythagorean_theorem,c263f06fa14ed56153e345006bb459
 web/mathml/reference,c263f06fa14ed56153e345006bb459c9df014b98,MathML
 web/mathml/reference/attribute,2d78abb3e793352e24e976ce0e68c08d817bd7f3,MathML
 web/mathml/reference/element,9ba3ab2c48fb51423f811d329818071e4c79caca,MathML|Element
-web/mathml/reference/element/a,9ba3ab2c48fb51423f811d329818071e4c79caca,MathML|Element
+web/mathml/reference/element/a,7220cba37bea17e7e18a674ec730366e8af815ab,MathML|Element
 web/mathml/reference/element/annotation,702cd9e4d2834e13aea345943efc8d0c03d92ec9,MathML|Element
 web/mathml/reference/element/annotation-xml,5f2a755c4fa7d126f85b56fbca90b15c5f039eff,MathML|Element
 web/mathml/reference/element/maction,56f3d7018159127dbe92842413fb45d0aa7e8193,MathML|Element
@@ -13853,7 +13857,7 @@ web/security/defenses/transport_layer_security,c49748a0ce4fdf77427e29cb6edbca895
 web/security/defenses/user_activation,bce3c7c8ee532a9f4026ace7be8ac20deb71834a,Security|Defenses
 web/security/practical_implementation_guides,13ef67a4ffbdb929415dfa1b3d65ab1aa9ebe5da,Security|Practical Implementation Guides
 web/security/practical_implementation_guides/cookies,c8b9fe22c3f68116dd3aaf4ae9e7b88709c7830d,Security|Practical Implementation Guides
-web/security/practical_implementation_guides/corp,ade8d870ed7e18a71dc51fe25aa13d812fb82558,Security|Practical Implementation Guides
+web/security/practical_implementation_guides/corp,bd5271a96d814ed6876e974186c465f1b3959e07,Security|Practical Implementation Guides
 web/security/practical_implementation_guides/cors,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Security|Practical Implementation Guides
 web/security/practical_implementation_guides/csp,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,Security|Practical Implementation Guides
 web/security/practical_implementation_guides/mime_types,ade8d870ed7e18a71dc51fe25aa13d812fb82558,Security|Practical Implementation Guides
@@ -14243,7 +14247,7 @@ web/webdriver/reference/bidi/modules/script,a4b7a640f04d4f6f1de19c1ee84888c967ec
 web/webdriver/reference/bidi/modules/script/addpreloadscript,eb950353cc947fb1c00397334b13a5f9457d734a,WebDriver
 web/webdriver/reference/bidi/modules/script/callfunction,a4b7a640f04d4f6f1de19c1ee84888c967ece6cb,WebDriver
 web/webdriver/reference/bidi/modules/script/disown,eb950353cc947fb1c00397334b13a5f9457d734a,WebDriver
-web/webdriver/reference/bidi/modules/script/evaluate,eb950353cc947fb1c00397334b13a5f9457d734a,WebDriver
+web/webdriver/reference/bidi/modules/script/evaluate,615796ca0d6cbba67cc6576e8adf343700f8ab49,WebDriver
 web/webdriver/reference/bidi/modules/script/getrealms,7124ff73f982c7cd1882e5056e849443116f0333,WebDriver
 web/webdriver/reference/bidi/modules/script/realmcreated,7124ff73f982c7cd1882e5056e849443116f0333,WebDriver
 web/webdriver/reference/bidi/modules/script/realmdestroyed,7124ff73f982c7cd1882e5056e849443116f0333,WebDriver
