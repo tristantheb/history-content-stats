@@ -669,7 +669,7 @@ glossary/wcag,6
 glossary/web_performance,3
 glossary/web_server,2
 glossary/web_standards,1
-glossary/webassembly,2
+glossary/webassembly,0
 glossary/webdav,4
 glossary/webextensions,1
 glossary/webgl,2
@@ -2195,7 +2195,7 @@ web/accessibility/aria/reference/roles/graphics-object_role,null
 web/accessibility/aria/reference/roles/graphics-symbol_role,null
 web/accessibility/aria/reference/roles/grid_role,null
 web/accessibility/aria/reference/roles/gridcell_role,null
-web/accessibility/aria/reference/roles/group_role,4
+web/accessibility/aria/reference/roles/group_role,5
 web/accessibility/aria/reference/roles/heading_role,null
 web/accessibility/aria/reference/roles/img_role,null
 web/accessibility/aria/reference/roles/input_role,0
@@ -2616,7 +2616,7 @@ web/api/baseaudiocontext/destination,null
 web/api/baseaudiocontext/listener,null
 web/api/baseaudiocontext/samplerate,null
 web/api/baseaudiocontext/state,null
-web/api/baseaudiocontext/statechange_event,null
+web/api/baseaudiocontext/statechange_event,0
 web/api/battery_status_api,1
 web/api/batterymanager,0
 web/api/batterymanager/charging,0
