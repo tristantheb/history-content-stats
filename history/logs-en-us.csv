@@ -2195,7 +2195,7 @@ web/accessibility/aria/reference/roles/graphics-object_role,370f1912b54d24bd7da5
 web/accessibility/aria/reference/roles/graphics-symbol_role,370f1912b54d24bd7da541f8f2dd98c26d377121,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/grid_role,96758f3d8ce1e5fbd9d58053bdef103eec1de108,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/gridcell_role,96758f3d8ce1e5fbd9d58053bdef103eec1de108,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/group_role,370f1912b54d24bd7da541f8f2dd98c26d377121,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/group_role,05c1aed375bab88f322b15319e45fb326e4a341c,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/heading_role,4550055f1afc5fb084d33f6e5a7910b7066e20c7,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/img_role,370f1912b54d24bd7da541f8f2dd98c26d377121,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/input_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
@@ -2224,7 +2224,7 @@ web/accessibility/aria/reference/roles/progressbar_role,1474534461893381d54c502e
 web/accessibility/aria/reference/roles/radio_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/radiogroup_role,b126460df717d910e92f311f0603800987ecebee,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/range_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/region_role,5e815d522e796fb2209fa8470616b37e31c572b4,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/region_role,05c1aed375bab88f322b15319e45fb326e4a341c,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/roletype_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/row_role,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/rowgroup_role,2d78abb3e793352e24e976ce0e68c08d817bd7f3,Accessibility|ARIA|Roles
@@ -6210,9 +6210,9 @@ web/api/mutationrecord,32305cc3cf274fbfdcc73a296bbd400a26f38296,Web APIs
 web/api/mutationrecord/addednodes,be591971235a485fb10778eb990118eb1223a8e7,Web APIs
 web/api/mutationrecord/attributename,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
 web/api/mutationrecord/attributenamespace,ef75c1741b450c2331204be5563ee964ad5f4c48,Web APIs
-web/api/mutationrecord/nextsibling,ef75c1741b450c2331204be5563ee964ad5f4c48,Web APIs
+web/api/mutationrecord/nextsibling,1d46ed6db9aaa9a4e43aa5b2964f128c147153b8,Web APIs
 web/api/mutationrecord/oldvalue,7cd51a73ad94df604db79ccacbbe0513d0967650,Web APIs
-web/api/mutationrecord/previoussibling,ef75c1741b450c2331204be5563ee964ad5f4c48,Web APIs
+web/api/mutationrecord/previoussibling,1d46ed6db9aaa9a4e43aa5b2964f128c147153b8,Web APIs
 web/api/mutationrecord/removednodes,be591971235a485fb10778eb990118eb1223a8e7,Web APIs
 web/api/mutationrecord/target,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/mutationrecord/type,ba88d88fed7c8868bec7c51e70f841586cffbaea,Web APIs
