@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,0
 mozilla/firefox/releases/157,0
 mozilla/firefox/releases/158,0
-mozilla/firefox/releases/159,0
+mozilla/firefox/releases/159,1
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/160,0
 mozilla/firefox/releases/17,0
@@ -4787,7 +4787,7 @@ web/api/htmlanchorelement/port,0
 web/api/htmlanchorelement/protocol,0
 web/api/htmlanchorelement/referrerpolicy,0
 web/api/htmlanchorelement/rel,0
-web/api/htmlanchorelement/rellist,0
+web/api/htmlanchorelement/rellist,1
 web/api/htmlanchorelement/search,0
 web/api/htmlanchorelement/target,0
 web/api/htmlanchorelement/text,0
@@ -5868,7 +5868,8 @@ web/api/managedmediasource/startstreaming_event,0
 web/api/managedmediasource/streaming,0
 web/api/managedsourcebuffer,0
 web/api/managedsourcebuffer/bufferedchange_event,0
-web/api/mathmlanchorelement,0
+web/api/mathmlanchorelement,1
+web/api/mathmlanchorelement/download,null
 web/api/mathmlanchorelement/hash,0
 web/api/mathmlanchorelement/host,0
 web/api/mathmlanchorelement/hostname,0
@@ -5877,8 +5878,12 @@ web/api/mathmlanchorelement/hreflang,0
 web/api/mathmlanchorelement/origin,0
 web/api/mathmlanchorelement/password,0
 web/api/mathmlanchorelement/pathname,0
+web/api/mathmlanchorelement/ping,null
 web/api/mathmlanchorelement/port,0
 web/api/mathmlanchorelement/protocol,0
+web/api/mathmlanchorelement/referrerpolicy,null
+web/api/mathmlanchorelement/rel,null
+web/api/mathmlanchorelement/rellist,null
 web/api/mathmlanchorelement/search,0
 web/api/mathmlanchorelement/target,0
 web/api/mathmlanchorelement/type,0
@@ -11918,7 +11923,7 @@ web/html/reference/global_attributes/title,0
 web/html/reference/global_attributes/translate,0
 web/html/reference/global_attributes/virtualkeyboardpolicy,0
 web/html/reference/global_attributes/writingsuggestions,0
-web/http,0
+web/http,1
 web/http/guides,0
 web/http/guides/authentication,0
 web/http/guides/browser_detection_using_the_user_agent,0
@@ -11948,7 +11953,6 @@ web/http/guides/cors/errors/corsnotsupportingcredentials,0
 web/http/guides/cors/errors/corsoriginheadernotadded,0
 web/http/guides/cors/errors/corspreflightdidnotsucceed,0
 web/http/guides/cors/errors/corsrequestnothttp,0
-web/http/guides/cross-origin_resource_policy,0
 web/http/guides/csp,0
 web/http/guides/csp/errors,0
 web/http/guides/csp/errors/cspviolation,0
@@ -11969,7 +11973,7 @@ web/http/guides/redirections,0
 web/http/guides/session,0
 web/http/guides/user-agent_reduction,0
 web/http/reference,0
-web/http/reference/headers,0
+web/http/reference/headers,1
 web/http/reference/headers/accept,0
 web/http/reference/headers/accept-ch,0
 web/http/reference/headers/accept-encoding,0
@@ -12043,7 +12047,7 @@ web/http/reference/headers/critical-ch,0
 web/http/reference/headers/cross-origin-embedder-policy,0
 web/http/reference/headers/cross-origin-embedder-policy-report-only,0
 web/http/reference/headers/cross-origin-opener-policy,0
-web/http/reference/headers/cross-origin-resource-policy,0
+web/http/reference/headers/cross-origin-resource-policy,1
 web/http/reference/headers/date,0
 web/http/reference/headers/device-memory,0
 web/http/reference/headers/dictionary-id,0
@@ -13646,7 +13650,7 @@ web/mathml/guides/proving_the_pythagorean_theorem,0
 web/mathml/reference,0
 web/mathml/reference/attribute,0
 web/mathml/reference/element,0
-web/mathml/reference/element/a,0
+web/mathml/reference/element/a,1
 web/mathml/reference/element/annotation,0
 web/mathml/reference/element/annotation-xml,0
 web/mathml/reference/element/maction,0
@@ -13853,7 +13857,7 @@ web/security/defenses/transport_layer_security,0
 web/security/defenses/user_activation,0
 web/security/practical_implementation_guides,0
 web/security/practical_implementation_guides/cookies,0
-web/security/practical_implementation_guides/corp,0
+web/security/practical_implementation_guides/corp,1
 web/security/practical_implementation_guides/cors,0
 web/security/practical_implementation_guides/csp,0
 web/security/practical_implementation_guides/mime_types,0
@@ -14243,7 +14247,7 @@ web/webdriver/reference/bidi/modules/script,0
 web/webdriver/reference/bidi/modules/script/addpreloadscript,0
 web/webdriver/reference/bidi/modules/script/callfunction,0
 web/webdriver/reference/bidi/modules/script/disown,0
-web/webdriver/reference/bidi/modules/script/evaluate,0
+web/webdriver/reference/bidi/modules/script/evaluate,1
 web/webdriver/reference/bidi/modules/script/getrealms,0
 web/webdriver/reference/bidi/modules/script/realmcreated,0
 web/webdriver/reference/bidi/modules/script/realmdestroyed,0

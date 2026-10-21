@@ -5869,6 +5869,7 @@ web/api/managedmediasource/streaming,null
 web/api/managedsourcebuffer,null
 web/api/managedsourcebuffer/bufferedchange_event,null
 web/api/mathmlanchorelement,null
+web/api/mathmlanchorelement/download,null
 web/api/mathmlanchorelement/hash,null
 web/api/mathmlanchorelement/host,null
 web/api/mathmlanchorelement/hostname,null
@@ -5877,8 +5878,12 @@ web/api/mathmlanchorelement/hreflang,null
 web/api/mathmlanchorelement/origin,null
 web/api/mathmlanchorelement/password,null
 web/api/mathmlanchorelement/pathname,null
+web/api/mathmlanchorelement/ping,null
 web/api/mathmlanchorelement/port,null
 web/api/mathmlanchorelement/protocol,null
+web/api/mathmlanchorelement/referrerpolicy,null
+web/api/mathmlanchorelement/rel,null
+web/api/mathmlanchorelement/rellist,null
 web/api/mathmlanchorelement/search,null
 web/api/mathmlanchorelement/target,null
 web/api/mathmlanchorelement/type,null
@@ -11948,7 +11953,6 @@ web/http/guides/cors/errors/corsnotsupportingcredentials,null
 web/http/guides/cors/errors/corsoriginheadernotadded,null
 web/http/guides/cors/errors/corspreflightdidnotsucceed,null
 web/http/guides/cors/errors/corsrequestnothttp,null
-web/http/guides/cross-origin_resource_policy,null
 web/http/guides/csp,null
 web/http/guides/csp/errors,null
 web/http/guides/csp/errors/cspviolation,null
