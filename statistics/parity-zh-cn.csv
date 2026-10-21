@@ -4787,7 +4787,7 @@ web/api/htmlanchorelement/port,2
 web/api/htmlanchorelement/protocol,3
 web/api/htmlanchorelement/referrerpolicy,4
 web/api/htmlanchorelement/rel,1
-web/api/htmlanchorelement/rellist,2
+web/api/htmlanchorelement/rellist,3
 web/api/htmlanchorelement/search,3
 web/api/htmlanchorelement/target,2
 web/api/htmlanchorelement/text,0
@@ -5869,6 +5869,7 @@ web/api/managedmediasource/streaming,null
 web/api/managedsourcebuffer,null
 web/api/managedsourcebuffer/bufferedchange_event,null
 web/api/mathmlanchorelement,null
+web/api/mathmlanchorelement/download,null
 web/api/mathmlanchorelement/hash,null
 web/api/mathmlanchorelement/host,null
 web/api/mathmlanchorelement/hostname,null
@@ -5877,8 +5878,12 @@ web/api/mathmlanchorelement/hreflang,null
 web/api/mathmlanchorelement/origin,null
 web/api/mathmlanchorelement/password,null
 web/api/mathmlanchorelement/pathname,null
+web/api/mathmlanchorelement/ping,null
 web/api/mathmlanchorelement/port,null
 web/api/mathmlanchorelement/protocol,null
+web/api/mathmlanchorelement/referrerpolicy,null
+web/api/mathmlanchorelement/rel,null
+web/api/mathmlanchorelement/rellist,null
 web/api/mathmlanchorelement/search,null
 web/api/mathmlanchorelement/target,null
 web/api/mathmlanchorelement/type,null
@@ -11948,7 +11953,6 @@ web/http/guides/cors/errors/corsnotsupportingcredentials,null
 web/http/guides/cors/errors/corsoriginheadernotadded,null
 web/http/guides/cors/errors/corspreflightdidnotsucceed,null
 web/http/guides/cors/errors/corsrequestnothttp,null
-web/http/guides/cross-origin_resource_policy,0
 web/http/guides/csp,0
 web/http/guides/csp/errors,null
 web/http/guides/csp/errors/cspviolation,null
@@ -11969,7 +11973,7 @@ web/http/guides/redirections,6
 web/http/guides/session,null
 web/http/guides/user-agent_reduction,null
 web/http/reference,1
-web/http/reference/headers,22
+web/http/reference/headers,23
 web/http/reference/headers/accept,1
 web/http/reference/headers/accept-ch,5
 web/http/reference/headers/accept-encoding,6
@@ -12043,7 +12047,7 @@ web/http/reference/headers/critical-ch,null
 web/http/reference/headers/cross-origin-embedder-policy,null
 web/http/reference/headers/cross-origin-embedder-policy-report-only,null
 web/http/reference/headers/cross-origin-opener-policy,null
-web/http/reference/headers/cross-origin-resource-policy,5
+web/http/reference/headers/cross-origin-resource-policy,6
 web/http/reference/headers/date,3
 web/http/reference/headers/device-memory,8
 web/http/reference/headers/dictionary-id,null
