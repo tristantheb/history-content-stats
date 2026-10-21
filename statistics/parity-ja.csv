@@ -2195,7 +2195,7 @@ web/accessibility/aria/reference/roles/graphics-object_role,null
 web/accessibility/aria/reference/roles/graphics-symbol_role,null
 web/accessibility/aria/reference/roles/grid_role,null
 web/accessibility/aria/reference/roles/gridcell_role,null
-web/accessibility/aria/reference/roles/group_role,1
+web/accessibility/aria/reference/roles/group_role,2
 web/accessibility/aria/reference/roles/heading_role,0
 web/accessibility/aria/reference/roles/img_role,6
 web/accessibility/aria/reference/roles/input_role,0
@@ -2224,7 +2224,7 @@ web/accessibility/aria/reference/roles/progressbar_role,null
 web/accessibility/aria/reference/roles/radio_role,8
 web/accessibility/aria/reference/roles/radiogroup_role,4
 web/accessibility/aria/reference/roles/range_role,0
-web/accessibility/aria/reference/roles/region_role,0
+web/accessibility/aria/reference/roles/region_role,1
 web/accessibility/aria/reference/roles/roletype_role,0
 web/accessibility/aria/reference/roles/row_role,null
 web/accessibility/aria/reference/roles/rowgroup_role,null
@@ -6210,9 +6210,9 @@ web/api/mutationrecord,0
 web/api/mutationrecord/addednodes,0
 web/api/mutationrecord/attributename,0
 web/api/mutationrecord/attributenamespace,0
-web/api/mutationrecord/nextsibling,0
+web/api/mutationrecord/nextsibling,1
 web/api/mutationrecord/oldvalue,0
-web/api/mutationrecord/previoussibling,0
+web/api/mutationrecord/previoussibling,1
 web/api/mutationrecord/removednodes,0
 web/api/mutationrecord/target,0
 web/api/mutationrecord/type,0
