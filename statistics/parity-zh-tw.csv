@@ -1047,7 +1047,7 @@ mdn/guides,null
 mdn/kitchensink,null
 mdn/tutorials,null
 mdn/writing_guidelines,2
-mdn/writing_guidelines/attrib_copyright_license,1
+mdn/writing_guidelines/attrib_copyright_license,2
 mdn/writing_guidelines/changelog,null
 mdn/writing_guidelines/code_style_guide,null
 mdn/writing_guidelines/code_style_guide/css,null
@@ -1064,7 +1064,7 @@ mdn/writing_guidelines/howto/document_web_errors,null
 mdn/writing_guidelines/howto/images_media,null
 mdn/writing_guidelines/howto/json_structured_data,2
 mdn/writing_guidelines/howto/markdown_in_mdn,null
-mdn/writing_guidelines/howto/research_technology,3
+mdn/writing_guidelines/howto/research_technology,4
 mdn/writing_guidelines/howto/retiring_content,null
 mdn/writing_guidelines/howto/retiring_content/retired_content,null
 mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary,null
@@ -1118,7 +1118,7 @@ mdn/writing_guidelines/page_structures/polyfills,null
 mdn/writing_guidelines/page_structures/sidebars,null
 mdn/writing_guidelines/page_structures/specification_tables,null
 mdn/writing_guidelines/page_structures/syntax_sections,null
-mdn/writing_guidelines/what_we_write,2
+mdn/writing_guidelines/what_we_write,3
 mdn/writing_guidelines/writing_style_guide,null
 mozilla,null
 mozilla/add-ons,null
@@ -9697,7 +9697,7 @@ web/api/websocket/readystate,null
 web/api/websocket/send,null
 web/api/websocket/url,null
 web/api/websocket/websocket,null
-web/api/websockets_api,3
+web/api/websockets_api,4
 web/api/websockets_api/using_websocketstream,null
 web/api/websockets_api/writing_a_websocket_server_in_java,null
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,null
@@ -14437,7 +14437,7 @@ webassembly/guides/rust_to_wasm,null
 webassembly/guides/text_format_to_wasm,null
 webassembly/guides/understanding_the_text_format,null
 webassembly/guides/using_the_javascript_api,null
-webassembly/reference,3
+webassembly/reference,4
 webassembly/reference/control_flow,null
 webassembly/reference/control_flow/block,null
 webassembly/reference/control_flow/br,null
@@ -14590,6 +14590,14 @@ webassembly/reference/numeric/trunc_f64_s,null
 webassembly/reference/numeric/trunc_f64_u,null
 webassembly/reference/numeric/wrap_i64,null
 webassembly/reference/numeric/xor,null
+webassembly/reference/reference,null
+webassembly/reference/reference/as_non_null,null
+webassembly/reference/reference/cast,null
+webassembly/reference/reference/eq,null
+webassembly/reference/reference/func,null
+webassembly/reference/reference/is_null,null
+webassembly/reference/reference/null,null
+webassembly/reference/reference/test,null
 webassembly/reference/simd,null
 webassembly/reference/simd/arithmetic,null
 webassembly/reference/simd/arithmetic/add_sat_s,null

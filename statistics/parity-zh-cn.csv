@@ -1049,7 +1049,7 @@ mdn/tutorials,6
 mdn/writing_guidelines,null
 mdn/writing_guidelines/attrib_copyright_license,null
 mdn/writing_guidelines/changelog,null
-mdn/writing_guidelines/code_style_guide,9
+mdn/writing_guidelines/code_style_guide,10
 mdn/writing_guidelines/code_style_guide/css,11
 mdn/writing_guidelines/code_style_guide/html,null
 mdn/writing_guidelines/code_style_guide/javascript,null
@@ -9697,7 +9697,7 @@ web/api/websocket/readystate,0
 web/api/websocket/send,null
 web/api/websocket/url,0
 web/api/websocket/websocket,null
-web/api/websockets_api,14
+web/api/websockets_api,15
 web/api/websockets_api/using_websocketstream,null
 web/api/websockets_api/writing_a_websocket_server_in_java,1
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,2
@@ -13734,7 +13734,7 @@ web/performance/guides/critical_rendering_path,1
 web/performance/guides/css_javascript_animation_performance,null
 web/performance/guides/dns-prefetch,null
 web/performance/guides/fundamentals,null
-web/performance/guides/how_browsers_work,8
+web/performance/guides/how_browsers_work,9
 web/performance/guides/how_long_is_too_long,1
 web/performance/guides/lazy_loading,null
 web/performance/guides/navigation_and_resource_timings,null
@@ -14437,7 +14437,7 @@ webassembly/guides/rust_to_wasm,0
 webassembly/guides/text_format_to_wasm,null
 webassembly/guides/understanding_the_text_format,null
 webassembly/guides/using_the_javascript_api,5
-webassembly/reference,3
+webassembly/reference,4
 webassembly/reference/control_flow,3
 webassembly/reference/control_flow/block,2
 webassembly/reference/control_flow/br,5
@@ -14590,6 +14590,14 @@ webassembly/reference/numeric/trunc_f64_s,null
 webassembly/reference/numeric/trunc_f64_u,null
 webassembly/reference/numeric/wrap_i64,null
 webassembly/reference/numeric/xor,null
+webassembly/reference/reference,null
+webassembly/reference/reference/as_non_null,null
+webassembly/reference/reference/cast,null
+webassembly/reference/reference/eq,null
+webassembly/reference/reference/func,null
+webassembly/reference/reference/is_null,null
+webassembly/reference/reference/null,null
+webassembly/reference/reference/test,null
 webassembly/reference/simd,null
 webassembly/reference/simd/arithmetic,null
 webassembly/reference/simd/arithmetic/add_sat_s,null
