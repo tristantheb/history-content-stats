@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,0
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,0
 mozilla/firefox/releases/157,0
 mozilla/firefox/releases/158,0
-mozilla/firefox/releases/159,0
+mozilla/firefox/releases/159,1
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/160,0
 mozilla/firefox/releases/17,0
@@ -6749,7 +6749,7 @@ web/api/performanceentry/starttime,0
 web/api/performanceentry/tojson,0
 web/api/performanceeventtiming,0
 web/api/performanceeventtiming/cancelable,0
-web/api/performanceeventtiming/interactionid,0
+web/api/performanceeventtiming/interactionid,1
 web/api/performanceeventtiming/processingend,0
 web/api/performanceeventtiming/processingstart,0
 web/api/performanceeventtiming/target,0
@@ -10755,7 +10755,7 @@ web/css/reference/properties/animation-iteration-count,0
 web/css/reference/properties/animation-name,0
 web/css/reference/properties/animation-play-state,0
 web/css/reference/properties/animation-range,0
-web/css/reference/properties/animation-range-end,0
+web/css/reference/properties/animation-range-end,1
 web/css/reference/properties/animation-range-start,0
 web/css/reference/properties/animation-timeline,0
 web/css/reference/properties/animation-timeline/scroll,0
@@ -13504,7 +13504,7 @@ web/javascript/reference/global_objects/weakset/weakset,0
 web/javascript/reference/iteration_protocols,0
 web/javascript/reference/javascript_technologies_overview,0
 web/javascript/reference/lexical_grammar,0
-web/javascript/reference/magic_comments,0
+web/javascript/reference/magic_comments,1
 web/javascript/reference/operators,0
 web/javascript/reference/operators/addition,0
 web/javascript/reference/operators/addition_assignment,0
