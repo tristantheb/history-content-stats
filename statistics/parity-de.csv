@@ -11367,7 +11367,7 @@ web/css/reference/selectors/_colon_last-child,0
 web/css/reference/selectors/_colon_last-of-type,0
 web/css/reference/selectors/_colon_left,0
 web/css/reference/selectors/_colon_link,0
-web/css/reference/selectors/_colon_local-link,0
+web/css/reference/selectors/_colon_local-link,1
 web/css/reference/selectors/_colon_modal,0
 web/css/reference/selectors/_colon_muted,0
 web/css/reference/selectors/_colon_not,0
