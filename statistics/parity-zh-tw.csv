@@ -1,7 +1,7 @@
 Path,ParityCount
 games,4
 games/anatomy,null
-games/introduction,1
+games/introduction,2
 games/publishing_games,null
 games/publishing_games/game_distribution,null
 games/publishing_games/game_monetization,null
@@ -12227,11 +12227,11 @@ web/http/reference/headers/x-powered-by,null
 web/http/reference/headers/x-robots-tag,3
 web/http/reference/headers/x-xss-protection,null
 web/http/reference/methods,1
-web/http/reference/methods/connect,4
+web/http/reference/methods/connect,5
 web/http/reference/methods/delete,4
 web/http/reference/methods/get,3
 web/http/reference/methods/head,3
-web/http/reference/methods/options,2
+web/http/reference/methods/options,3
 web/http/reference/methods/patch,5
 web/http/reference/methods/post,4
 web/http/reference/methods/put,4
