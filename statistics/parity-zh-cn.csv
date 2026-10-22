@@ -1,7 +1,7 @@
 Path,ParityCount
 games,1
 games/anatomy,4
-games/introduction,0
+games/introduction,1
 games/publishing_games,null
 games/publishing_games/game_distribution,null
 games/publishing_games/game_monetization,null
@@ -33,8 +33,8 @@ games/techniques/tilemaps,null
 games/techniques/tilemaps/square_tilemaps_implementation_colon__scrolling_maps,null
 games/techniques/tilemaps/square_tilemaps_implementation_colon__static_maps,null
 games/techniques/webrtc_data_channels,1
-games/tools,1
-games/tools/asm.js,2
+games/tools,2
+games/tools/asm.js,3
 games/tutorials,null
 games/tutorials/2d_breakout_game_phaser,null
 games/tutorials/2d_breakout_game_phaser/animations_and_tweens,1
@@ -1050,7 +1050,7 @@ mdn/writing_guidelines,null
 mdn/writing_guidelines/attrib_copyright_license,null
 mdn/writing_guidelines/changelog,null
 mdn/writing_guidelines/code_style_guide,9
-mdn/writing_guidelines/code_style_guide/css,10
+mdn/writing_guidelines/code_style_guide/css,11
 mdn/writing_guidelines/code_style_guide/html,null
 mdn/writing_guidelines/code_style_guide/javascript,null
 mdn/writing_guidelines/code_style_guide/shell,1
@@ -6763,7 +6763,7 @@ web/api/performancelonganimationframetiming/renderstart,null
 web/api/performancelonganimationframetiming/scripts,null
 web/api/performancelonganimationframetiming/styleandlayoutstart,null
 web/api/performancelonganimationframetiming/tojson,null
-web/api/performancelongtasktiming,1
+web/api/performancelongtasktiming,2
 web/api/performancelongtasktiming/attribution,null
 web/api/performancelongtasktiming/tojson,null
 web/api/performancemark,null
@@ -6805,7 +6805,7 @@ web/api/performancepainttiming,null
 web/api/performancepainttiming/painttime,null
 web/api/performancepainttiming/presentationtime,null
 web/api/performancepainttiming/tojson,null
-web/api/performanceresourcetiming,8
+web/api/performanceresourcetiming,9
 web/api/performanceresourcetiming/connectend,null
 web/api/performanceresourcetiming/connectstart,null
 web/api/performanceresourcetiming/contentencoding,null
@@ -10466,7 +10466,7 @@ web/css/guides/flexible_box_layout/aligning_items,null
 web/css/guides/flexible_box_layout/basic_concepts,null
 web/css/guides/flexible_box_layout/controlling_flex_item_ratios,null
 web/css/guides/flexible_box_layout/ordering_items,null
-web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,3
+web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,4
 web/css/guides/flexible_box_layout/use_cases,6
 web/css/guides/flexible_box_layout/wrapping_items,null
 web/css/guides/font_loading,null
@@ -10528,7 +10528,7 @@ web/css/guides/namespaces,null
 web/css/guides/nesting,3
 web/css/guides/nesting/at-rules,3
 web/css/guides/nesting/nesting_and_specificity,1
-web/css/guides/nesting/using,2
+web/css/guides/nesting/using,3
 web/css/guides/overflow,null
 web/css/guides/overflow/carousels,null
 web/css/guides/overscroll_behavior,null
@@ -12231,7 +12231,7 @@ web/http/reference/methods/connect,null
 web/http/reference/methods/delete,null
 web/http/reference/methods/get,null
 web/http/reference/methods/head,null
-web/http/reference/methods/options,0
+web/http/reference/methods/options,1
 web/http/reference/methods/patch,null
 web/http/reference/methods/post,null
 web/http/reference/methods/put,null
