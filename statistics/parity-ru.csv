@@ -14590,6 +14590,14 @@ webassembly/reference/numeric/trunc_f64_s,null
 webassembly/reference/numeric/trunc_f64_u,null
 webassembly/reference/numeric/wrap_i64,null
 webassembly/reference/numeric/xor,null
+webassembly/reference/reference,null
+webassembly/reference/reference/as_non_null,null
+webassembly/reference/reference/cast,null
+webassembly/reference/reference/eq,null
+webassembly/reference/reference/func,null
+webassembly/reference/reference/is_null,null
+webassembly/reference/reference/null,null
+webassembly/reference/reference/test,null
 webassembly/reference/simd,null
 webassembly/reference/simd/arithmetic,null
 webassembly/reference/simd/arithmetic/add_sat_s,null

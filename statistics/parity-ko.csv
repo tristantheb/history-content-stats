@@ -1034,11 +1034,11 @@ mdn/community/communication_channels,3
 mdn/community/community_participation_guidelines,null
 mdn/community/discussions,null
 mdn/community/discussions/managing_and_resolving_discussions,null
-mdn/community/getting_started,9
+mdn/community/getting_started,10
 mdn/community/issues,null
 mdn/community/issues/content_suggestions_feature_proposals,null
 mdn/community/learn_forum,null
-mdn/community/open_source_etiquette,3
+mdn/community/open_source_etiquette,4
 mdn/community/our_repositories,null
 mdn/community/pull_requests,null
 mdn/community/roles_teams,null
@@ -1047,7 +1047,7 @@ mdn/guides,null
 mdn/kitchensink,null
 mdn/tutorials,null
 mdn/writing_guidelines,7
-mdn/writing_guidelines/attrib_copyright_license,5
+mdn/writing_guidelines/attrib_copyright_license,6
 mdn/writing_guidelines/changelog,null
 mdn/writing_guidelines/code_style_guide,null
 mdn/writing_guidelines/code_style_guide/css,null
@@ -1118,7 +1118,7 @@ mdn/writing_guidelines/page_structures/polyfills,null
 mdn/writing_guidelines/page_structures/sidebars,null
 mdn/writing_guidelines/page_structures/specification_tables,null
 mdn/writing_guidelines/page_structures/syntax_sections,null
-mdn/writing_guidelines/what_we_write,2
+mdn/writing_guidelines/what_we_write,3
 mdn/writing_guidelines/writing_style_guide,null
 mozilla,null
 mozilla/add-ons,0
@@ -14590,6 +14590,14 @@ webassembly/reference/numeric/trunc_f64_s,null
 webassembly/reference/numeric/trunc_f64_u,null
 webassembly/reference/numeric/wrap_i64,null
 webassembly/reference/numeric/xor,null
+webassembly/reference/reference,null
+webassembly/reference/reference/as_non_null,null
+webassembly/reference/reference/cast,null
+webassembly/reference/reference/eq,null
+webassembly/reference/reference/func,null
+webassembly/reference/reference/is_null,null
+webassembly/reference/reference/null,null
+webassembly/reference/reference/test,null
 webassembly/reference/simd,null
 webassembly/reference/simd/arithmetic,null
 webassembly/reference/simd/arithmetic/add_sat_s,null
