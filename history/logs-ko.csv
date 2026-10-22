@@ -1292,6 +1292,7 @@ web/api/navigator/geolocation,ef75c1741b450c2331204be5563ee964ad5f4c48
 web/api/navigator/getbattery,no_hash_commit
 web/api/navigator,baaf0062bf82c8ffe9c9f2948833589018c64ddd
 web/api/navigator/language,no_hash_commit
+web/api/navigator/maxtouchpoints,f47eea7f1ea9a18a93ecca03b0d4bbe2e9711316
 web/api/navigator/mediadevices,no_hash_commit
 web/api/navigator/online,no_hash_commit
 web/api/navigator/registerprotocolhandler,no_hash_commit

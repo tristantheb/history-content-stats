@@ -6337,7 +6337,7 @@ web/api/navigator/language,null
 web/api/navigator/languages,null
 web/api/navigator/locks,null
 web/api/navigator/login,null
-web/api/navigator/maxtouchpoints,null
+web/api/navigator/maxtouchpoints,0
 web/api/navigator/mediacapabilities,null
 web/api/navigator/mediadevices,null
 web/api/navigator/mediasession,null

@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,10
 mozilla/firefox,0
-mozilla/firefox/experimental_features,18
+mozilla/firefox/experimental_features,19
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -6749,7 +6749,7 @@ web/api/performanceentry/starttime,5
 web/api/performanceentry/tojson,1
 web/api/performanceeventtiming,3
 web/api/performanceeventtiming/cancelable,0
-web/api/performanceeventtiming/interactionid,3
+web/api/performanceeventtiming/interactionid,4
 web/api/performanceeventtiming/processingend,0
 web/api/performanceeventtiming/processingstart,0
 web/api/performanceeventtiming/target,0
@@ -10755,7 +10755,7 @@ web/css/reference/properties/animation-iteration-count,2
 web/css/reference/properties/animation-name,0
 web/css/reference/properties/animation-play-state,0
 web/css/reference/properties/animation-range,0
-web/css/reference/properties/animation-range-end,0
+web/css/reference/properties/animation-range-end,1
 web/css/reference/properties/animation-range-start,0
 web/css/reference/properties/animation-timeline,1
 web/css/reference/properties/animation-timeline/scroll,2
