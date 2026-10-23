@@ -241,7 +241,7 @@ glossary/engine/rendering,null
 glossary/entity,null
 glossary/entity_header,null
 glossary/enumerated,null
-glossary/escape_character,null
+glossary/escape_character,0
 glossary/event,null
 glossary/exception,null
 glossary/exif,null

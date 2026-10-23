@@ -5868,8 +5868,8 @@ web/api/managedmediasource/startstreaming_event,0
 web/api/managedmediasource/streaming,0
 web/api/managedsourcebuffer,0
 web/api/managedsourcebuffer/bufferedchange_event,0
-web/api/mathmlanchorelement,1
-web/api/mathmlanchorelement/download,1
+web/api/mathmlanchorelement,0
+web/api/mathmlanchorelement/download,0
 web/api/mathmlanchorelement/hash,0
 web/api/mathmlanchorelement/host,0
 web/api/mathmlanchorelement/hostname,0
@@ -5878,12 +5878,12 @@ web/api/mathmlanchorelement/hreflang,0
 web/api/mathmlanchorelement/origin,0
 web/api/mathmlanchorelement/password,0
 web/api/mathmlanchorelement/pathname,0
-web/api/mathmlanchorelement/ping,1
+web/api/mathmlanchorelement/ping,0
 web/api/mathmlanchorelement/port,0
 web/api/mathmlanchorelement/protocol,0
-web/api/mathmlanchorelement/referrerpolicy,1
-web/api/mathmlanchorelement/rel,1
-web/api/mathmlanchorelement/rellist,1
+web/api/mathmlanchorelement/referrerpolicy,0
+web/api/mathmlanchorelement/rel,0
+web/api/mathmlanchorelement/rellist,0
 web/api/mathmlanchorelement/search,0
 web/api/mathmlanchorelement/target,0
 web/api/mathmlanchorelement/type,0
@@ -6462,7 +6462,7 @@ web/api/nodelist/item,0
 web/api/nodelist/keys,0
 web/api/nodelist/length,0
 web/api/nodelist/values,0
-web/api/notification,1
+web/api/notification,0
 web/api/notification/actions,0
 web/api/notification/badge,0
 web/api/notification/body,0
@@ -6487,7 +6487,7 @@ web/api/notification/silent,0
 web/api/notification/tag,0
 web/api/notification/timestamp,0
 web/api/notification/title,0
-web/api/notification/vibrate,1
+web/api/notification/vibrate,0
 web/api/notificationevent,0
 web/api/notificationevent/action,0
 web/api/notificationevent/notification,0
@@ -8113,7 +8113,7 @@ web/api/streams_api,0
 web/api/streams_api/concepts,0
 web/api/streams_api/using_readable_byte_streams,0
 web/api/streams_api/using_readable_streams,0
-web/api/streams_api/using_writable_streams,1
+web/api/streams_api/using_writable_streams,0
 web/api/stylepropertymap,0
 web/api/stylepropertymap/append,0
 web/api/stylepropertymap/clear,0
@@ -9787,7 +9787,7 @@ web/api/wheelevent/deltax,0
 web/api/wheelevent/deltay,0
 web/api/wheelevent/deltaz,0
 web/api/wheelevent/wheelevent,0
-web/api/window,1
+web/api/window,0
 web/api/window/afterprint_event,0
 web/api/window/alert,0
 web/api/window/appinstalled_event,0
@@ -9919,7 +9919,7 @@ web/api/window/self,0
 web/api/window/sessionstorage,0
 web/api/window/setimmediate,0
 web/api/window/setinterval,0
-web/api/window/setresizable,1
+web/api/window/setresizable,0
 web/api/window/settimeout,0
 web/api/window/sharedstorage,0
 web/api/window/showdirectorypicker,0
@@ -10062,14 +10062,14 @@ web/api/writablestream/abort,0
 web/api/writablestream/close,0
 web/api/writablestream/getwriter,0
 web/api/writablestream/locked,0
-web/api/writablestream/writablestream,1
-web/api/writablestreamdefaultcontroller,1
-web/api/writablestreamdefaultcontroller/error,1
+web/api/writablestream/writablestream,0
+web/api/writablestreamdefaultcontroller,0
+web/api/writablestreamdefaultcontroller/error,0
 web/api/writablestreamdefaultcontroller/signal,0
 web/api/writablestreamdefaultwriter,0
 web/api/writablestreamdefaultwriter/abort,0
 web/api/writablestreamdefaultwriter/close,0
-web/api/writablestreamdefaultwriter/closed,1
+web/api/writablestreamdefaultwriter/closed,0
 web/api/writablestreamdefaultwriter/desiredsize,0
 web/api/writablestreamdefaultwriter/ready,0
 web/api/writablestreamdefaultwriter/releaselock,0
@@ -11235,7 +11235,7 @@ web/css/reference/properties/text-box-trim,0
 web/css/reference/properties/text-combine-upright,0
 web/css/reference/properties/text-decoration,0
 web/css/reference/properties/text-decoration-color,0
-web/css/reference/properties/text-decoration-inset,1
+web/css/reference/properties/text-decoration-inset,0
 web/css/reference/properties/text-decoration-line,0
 web/css/reference/properties/text-decoration-skip,0
 web/css/reference/properties/text-decoration-skip-ink,0
@@ -11964,7 +11964,7 @@ web/http/guides/mime_types,0
 web/http/guides/mime_types/common_types,0
 web/http/guides/network_error_logging,0
 web/http/guides/overview,0
-web/http/guides/permissions_policy,1
+web/http/guides/permissions_policy,0
 web/http/guides/protocol_upgrade_mechanism,0
 web/http/guides/proxy_servers_and_tunneling,0
 web/http/guides/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file,0
@@ -12081,7 +12081,7 @@ web/http/reference/headers/no-vary-search,0
 web/http/reference/headers/observe-browsing-topics,0
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,0
-web/http/reference/headers/permissions-policy,1
+web/http/reference/headers/permissions-policy,0
 web/http/reference/headers/permissions-policy-report-only,0
 web/http/reference/headers/permissions-policy/accelerometer,0
 web/http/reference/headers/permissions-policy/ambient-light-sensor,0
@@ -13985,7 +13985,7 @@ web/svg/reference/attribute/maskcontentunits,0
 web/svg/reference/attribute/maskunits,0
 web/svg/reference/attribute/max,0
 web/svg/reference/attribute/media,0
-web/svg/reference/attribute/method,1
+web/svg/reference/attribute/method,0
 web/svg/reference/attribute/min,0
 web/svg/reference/attribute/mode,0
 web/svg/reference/attribute/numoctaves,0
