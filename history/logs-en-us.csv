@@ -5868,8 +5868,8 @@ web/api/managedmediasource/startstreaming_event,aea2d29336c910940abb1f8e71e02158
 web/api/managedmediasource/streaming,aea2d29336c910940abb1f8e71e02158ac51e7c4,Web APIs
 web/api/managedsourcebuffer,aea2d29336c910940abb1f8e71e02158ac51e7c4,Web APIs
 web/api/managedsourcebuffer/bufferedchange_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
-web/api/mathmlanchorelement,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
-web/api/mathmlanchorelement/download,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
+web/api/mathmlanchorelement,85577061e99da7082b48263fa19f9b1ef4187eda,Web APIs
+web/api/mathmlanchorelement/download,85577061e99da7082b48263fa19f9b1ef4187eda,Web APIs
 web/api/mathmlanchorelement/hash,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/host,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/hostname,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
@@ -5878,12 +5878,12 @@ web/api/mathmlanchorelement/hreflang,76c2e04d720aa8260ba7d75788ed96776aac35c6,We
 web/api/mathmlanchorelement/origin,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/password,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/pathname,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
-web/api/mathmlanchorelement/ping,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
+web/api/mathmlanchorelement/ping,85577061e99da7082b48263fa19f9b1ef4187eda,Web APIs
 web/api/mathmlanchorelement/port,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/protocol,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
-web/api/mathmlanchorelement/referrerpolicy,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
-web/api/mathmlanchorelement/rel,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
-web/api/mathmlanchorelement/rellist,7220cba37bea17e7e18a674ec730366e8af815ab,Web APIs
+web/api/mathmlanchorelement/referrerpolicy,85577061e99da7082b48263fa19f9b1ef4187eda,Web APIs
+web/api/mathmlanchorelement/rel,85577061e99da7082b48263fa19f9b1ef4187eda,Web APIs
+web/api/mathmlanchorelement/rellist,85577061e99da7082b48263fa19f9b1ef4187eda,Web APIs
 web/api/mathmlanchorelement/search,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/target,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/mathmlanchorelement/type,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
@@ -6462,7 +6462,7 @@ web/api/nodelist/item,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/nodelist/keys,56f3d7018159127dbe92842413fb45d0aa7e8193,Web APIs
 web/api/nodelist/length,312081aabba3885b35a81107b3c2fc53428896c5,Web APIs
 web/api/nodelist/values,56f3d7018159127dbe92842413fb45d0aa7e8193,Web APIs
-web/api/notification,74b73e8310d2ecfecd3e4a2aa21e5b54f43d7387,Web APIs
+web/api/notification,85577061e99da7082b48263fa19f9b1ef4187eda,Web APIs
 web/api/notification/actions,66be0a23be754791266009f1044e2238c27332b4,Web APIs
 web/api/notification/badge,922949d1d9793e97e4cf9f2513a967e74b0171cf,Web APIs
 web/api/notification/body,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
@@ -6487,7 +6487,7 @@ web/api/notification/silent,79f5e2c8ed9833f409e9054e69e02798b83422d1,Web APIs
 web/api/notification/tag,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/timestamp,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
 web/api/notification/title,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
-web/api/notification/vibrate,e4c0939929e1b3e1fa3fd3da82b827fca3ed4c79,Web APIs
+web/api/notification/vibrate,85577061e99da7082b48263fa19f9b1ef4187eda,Web APIs
 web/api/notificationevent,aa8fa82a902746b0bd97839180fc2b5397088140,Web APIs
 web/api/notificationevent/action,2ccbd062264d0a2a34f185a3386cb272f42c50f5,Web APIs
 web/api/notificationevent/notification,28848ba41c082db2a8c55e85c804bd06363afb57,Web APIs
@@ -9787,7 +9787,7 @@ web/api/wheelevent/deltax,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltay,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/deltaz,d783c87acb536c6c142792d263f813c88808551b,Web APIs
 web/api/wheelevent/wheelevent,d783c87acb536c6c142792d263f813c88808551b,Web APIs
-web/api/window,d678295b8c67d19354bca1db406af1b6bc8cf1c6,Web APIs
+web/api/window,85577061e99da7082b48263fa19f9b1ef4187eda,Web APIs
 web/api/window/afterprint_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/alert,e3faa375b0179de77a5eff00074e3d168a0a904c,Web APIs
 web/api/window/appinstalled_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web APIs
@@ -9919,7 +9919,7 @@ web/api/window/self,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/sessionstorage,5b85e27155260155bd829fc6d4b98ca2c476b2d1,Web APIs
 web/api/window/setimmediate,c7460aab1397829c109a88e3a58fed9b7ef9c0c5,Web APIs
 web/api/window/setinterval,051d02b402b7f76c2078b12283aa18318c34c38b,Web APIs
-web/api/window/setresizable,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
+web/api/window/setresizable,85577061e99da7082b48263fa19f9b1ef4187eda,Web APIs
 web/api/window/settimeout,051d02b402b7f76c2078b12283aa18318c34c38b,Web APIs
 web/api/window/sharedstorage,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/window/showdirectorypicker,381dfaf4d7f555e847b0af726a93ce48cde15915,Web APIs
@@ -11235,7 +11235,7 @@ web/css/reference/properties/text-box-trim,880c2c4b113c6fe127ca3ae3603a56ef7a2eb
 web/css/reference/properties/text-combine-upright,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-decoration,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/text-decoration-color,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
-web/css/reference/properties/text-decoration-inset,3a04f324f1fb55e3c073c32d0ead28b5803a6284,CSS|Properties
+web/css/reference/properties/text-decoration-inset,85577061e99da7082b48263fa19f9b1ef4187eda,CSS|Properties
 web/css/reference/properties/text-decoration-line,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/text-decoration-skip,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|Properties
 web/css/reference/properties/text-decoration-skip-ink,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
@@ -11964,7 +11964,7 @@ web/http/guides/mime_types,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,HTTP|Guides
 web/http/guides/mime_types/common_types,58f9bbefd37274d270e04b5d8bf78b0e9ebfcdb8,HTTP|Guides
 web/http/guides/network_error_logging,4877aae5dd61ffb22ba63bd0461d200087aa3543,HTTP|Guides
 web/http/guides/overview,a3400c39a245e0404c621c2cdbe75ad0a3eb8672,HTTP|Guides
-web/http/guides/permissions_policy,aff319cd81d10cfda31b13adb3263deafb284b20,HTTP|Guides
+web/http/guides/permissions_policy,87e588faeb456dec535666429793188b2883637d,HTTP|Guides
 web/http/guides/protocol_upgrade_mechanism,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,HTTP|Guides
 web/http/guides/proxy_servers_and_tunneling,6ef7bc04d63cf8b512bdbea149a6cb875cc063e3,HTTP|Guides
 web/http/guides/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file,ad01ed9218be15d7aeaa0666ec0bc2a2d17f3574,HTTP|Guides
@@ -12081,7 +12081,7 @@ web/http/reference/headers/no-vary-search,d260e0bf3f2ba3091e71ba1a7d0427c7d396e6
 web/http/reference/headers/observe-browsing-topics,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTTP|Headers
 web/http/reference/headers/origin,4db27688840b67e416373ea571d9e3a17bafa92d,HTTP|Headers
 web/http/reference/headers/origin-agent-cluster,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
-web/http/reference/headers/permissions-policy,75b6c08573c39a7d6557c911502912f1a3c7da9f,HTTP|Headers
+web/http/reference/headers/permissions-policy,87e588faeb456dec535666429793188b2883637d,HTTP|Headers
 web/http/reference/headers/permissions-policy-report-only,dd1e8282ab6621b62399d65cad46177d426d1d93,HTTP|Headers
 web/http/reference/headers/permissions-policy/accelerometer,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
 web/http/reference/headers/permissions-policy/ambient-light-sensor,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
