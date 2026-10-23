@@ -977,8 +977,9 @@ mdn/writing_guidelines/what_we_write,de5b264fa7bf6bb49811bf79f8f28f10835bfb79
 mdn/writing_guidelines/writing_style_guide,f4c221962681b1472cd57da60379ad7825fe5081
 mozilla/add-ons/contact_us,0c81cbce5f95a0be935724bcd936f5592774eb3a
 mozilla/add-ons,09109b6f9444d22215ba330ec1e64e73980b2a6c
-mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,no_hash_commit
-mozilla/add-ons/webextensions/anatomy_of_a_webextension,no_hash_commit
+mozilla/add-ons/webextensions/activetab_permission,8adfa9f21be15f90b5ee73dbfb9bc441038ac55d
+mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,5310a5bff0e1f3e2dfafa44bc2aadbb39e1c4673
+mozilla/add-ons/webextensions/anatomy_of_a_webextension,ee33efab7300d7bf7319921a22f2eb2b60df91da
 mozilla/add-ons/webextensions/api/alarms/alarm,no_hash_commit
 mozilla/add-ons/webextensions/api/alarms/clear,no_hash_commit
 mozilla/add-ons/webextensions/api/alarms/clearall,no_hash_commit
@@ -1207,7 +1208,7 @@ mozilla/add-ons/webextensions/api/idle,no_hash_commit
 mozilla/add-ons/webextensions/api/idle/onstatechanged,no_hash_commit
 mozilla/add-ons/webextensions/api/idle/querystate,no_hash_commit
 mozilla/add-ons/webextensions/api/idle/setdetectioninterval,no_hash_commit
-mozilla/add-ons/webextensions/api,no_hash_commit
+mozilla/add-ons/webextensions/api,83b221d2955a42bed9b87a5206a7953d1b57d8a9
 mozilla/add-ons/webextensions/api/management/extensioninfo,no_hash_commit
 mozilla/add-ons/webextensions/api/management/get,no_hash_commit
 mozilla/add-ons/webextensions/api/management/getall,no_hash_commit
@@ -1514,8 +1515,9 @@ mozilla/add-ons/webextensions/api/windows/window_id_current,no_hash_commit
 mozilla/add-ons/webextensions/api/windows/window_id_none,no_hash_commit
 mozilla/add-ons/webextensions/api/windows/windowstate,no_hash_commit
 mozilla/add-ons/webextensions/api/windows/windowtype,no_hash_commit
+mozilla/add-ons/webextensions/background_scripts,8adfa9f21be15f90b5ee73dbfb9bc441038ac55d
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,09109b6f9444d22215ba330ec1e64e73980b2a6c
-mozilla/add-ons/webextensions/build_a_cross_browser_extension,no_hash_commit
+mozilla/add-ons/webextensions/build_a_cross_browser_extension,8adfa9f21be15f90b5ee73dbfb9bc441038ac55d
 mozilla/add-ons/webextensions/chrome_incompatibilities,no_hash_commit
 mozilla/add-ons/webextensions/content_scripts,no_hash_commit
 mozilla/add-ons/webextensions/content_security_policy,no_hash_commit
