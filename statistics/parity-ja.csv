@@ -8113,7 +8113,7 @@ web/api/streams_api,7
 web/api/streams_api/concepts,4
 web/api/streams_api/using_readable_byte_streams,11
 web/api/streams_api/using_readable_streams,12
-web/api/streams_api/using_writable_streams,3
+web/api/streams_api/using_writable_streams,4
 web/api/stylepropertymap,5
 web/api/stylepropertymap/append,9
 web/api/stylepropertymap/clear,5
@@ -10062,14 +10062,14 @@ web/api/writablestream/abort,3
 web/api/writablestream/close,2
 web/api/writablestream/getwriter,3
 web/api/writablestream/locked,2
-web/api/writablestream/writablestream,5
-web/api/writablestreamdefaultcontroller,2
-web/api/writablestreamdefaultcontroller/error,1
+web/api/writablestream/writablestream,6
+web/api/writablestreamdefaultcontroller,3
+web/api/writablestreamdefaultcontroller/error,2
 web/api/writablestreamdefaultcontroller/signal,2
 web/api/writablestreamdefaultwriter,2
 web/api/writablestreamdefaultwriter/abort,3
 web/api/writablestreamdefaultwriter/close,2
-web/api/writablestreamdefaultwriter/closed,2
+web/api/writablestreamdefaultwriter/closed,3
 web/api/writablestreamdefaultwriter/desiredsize,3
 web/api/writablestreamdefaultwriter/ready,2
 web/api/writablestreamdefaultwriter/releaselock,2
@@ -13985,7 +13985,7 @@ web/svg/reference/attribute/maskcontentunits,0
 web/svg/reference/attribute/maskunits,0
 web/svg/reference/attribute/max,0
 web/svg/reference/attribute/media,null
-web/svg/reference/attribute/method,1
+web/svg/reference/attribute/method,2
 web/svg/reference/attribute/min,0
 web/svg/reference/attribute/mode,null
 web/svg/reference/attribute/numoctaves,0

@@ -13857,7 +13857,7 @@ web/security/defenses/transport_layer_security,null
 web/security/defenses/user_activation,null
 web/security/practical_implementation_guides,null
 web/security/practical_implementation_guides/cookies,null
-web/security/practical_implementation_guides/corp,null
+web/security/practical_implementation_guides/corp,0
 web/security/practical_implementation_guides/cors,null
 web/security/practical_implementation_guides/csp,null
 web/security/practical_implementation_guides/mime_types,null
