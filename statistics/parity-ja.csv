@@ -6462,7 +6462,7 @@ web/api/nodelist/item,1
 web/api/nodelist/keys,4
 web/api/nodelist/length,0
 web/api/nodelist/values,3
-web/api/notification,8
+web/api/notification,9
 web/api/notification/actions,9
 web/api/notification/badge,8
 web/api/notification/body,5
@@ -6487,7 +6487,7 @@ web/api/notification/silent,9
 web/api/notification/tag,5
 web/api/notification/timestamp,7
 web/api/notification/title,5
-web/api/notification/vibrate,7
+web/api/notification/vibrate,8
 web/api/notificationevent,0
 web/api/notificationevent/action,1
 web/api/notificationevent/notification,0
@@ -9787,7 +9787,7 @@ web/api/wheelevent/deltax,2
 web/api/wheelevent/deltay,2
 web/api/wheelevent/deltaz,2
 web/api/wheelevent/wheelevent,4
-web/api/window,4
+web/api/window,5
 web/api/window/afterprint_event,1
 web/api/window/alert,0
 web/api/window/appinstalled_event,6
@@ -9919,7 +9919,7 @@ web/api/window/self,1
 web/api/window/sessionstorage,1
 web/api/window/setimmediate,2
 web/api/window/setinterval,0
-web/api/window/setresizable,1
+web/api/window/setresizable,2
 web/api/window/settimeout,0
 web/api/window/sharedstorage,null
 web/api/window/showdirectorypicker,11
@@ -11235,7 +11235,7 @@ web/css/reference/properties/text-box-trim,3
 web/css/reference/properties/text-combine-upright,2
 web/css/reference/properties/text-decoration,0
 web/css/reference/properties/text-decoration-color,3
-web/css/reference/properties/text-decoration-inset,2
+web/css/reference/properties/text-decoration-inset,3
 web/css/reference/properties/text-decoration-line,3
 web/css/reference/properties/text-decoration-skip,3
 web/css/reference/properties/text-decoration-skip-ink,3
@@ -11964,7 +11964,7 @@ web/http/guides/mime_types,6
 web/http/guides/mime_types/common_types,5
 web/http/guides/network_error_logging,1
 web/http/guides/overview,4
-web/http/guides/permissions_policy,3
+web/http/guides/permissions_policy,4
 web/http/guides/protocol_upgrade_mechanism,1
 web/http/guides/proxy_servers_and_tunneling,1
 web/http/guides/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file,1
@@ -12081,7 +12081,7 @@ web/http/reference/headers/no-vary-search,null
 web/http/reference/headers/observe-browsing-topics,null
 web/http/reference/headers/origin,1
 web/http/reference/headers/origin-agent-cluster,null
-web/http/reference/headers/permissions-policy,4
+web/http/reference/headers/permissions-policy,5
 web/http/reference/headers/permissions-policy-report-only,null
 web/http/reference/headers/permissions-policy/accelerometer,2
 web/http/reference/headers/permissions-policy/ambient-light-sensor,2

@@ -9787,7 +9787,7 @@ web/api/wheelevent/deltax,null
 web/api/wheelevent/deltay,null
 web/api/wheelevent/deltaz,null
 web/api/wheelevent/wheelevent,null
-web/api/window,0
+web/api/window,1
 web/api/window/afterprint_event,0
 web/api/window/alert,0
 web/api/window/appinstalled_event,0
@@ -9919,7 +9919,7 @@ web/api/window/self,0
 web/api/window/sessionstorage,1
 web/api/window/setimmediate,0
 web/api/window/setinterval,0
-web/api/window/setresizable,0
+web/api/window/setresizable,1
 web/api/window/settimeout,0
 web/api/window/sharedstorage,0
 web/api/window/showdirectorypicker,0
@@ -11235,7 +11235,7 @@ web/css/reference/properties/text-box-trim,2
 web/css/reference/properties/text-combine-upright,0
 web/css/reference/properties/text-decoration,1
 web/css/reference/properties/text-decoration-color,1
-web/css/reference/properties/text-decoration-inset,2
+web/css/reference/properties/text-decoration-inset,3
 web/css/reference/properties/text-decoration-line,1
 web/css/reference/properties/text-decoration-skip,0
 web/css/reference/properties/text-decoration-skip-ink,1
@@ -11964,7 +11964,7 @@ web/http/guides/mime_types,0
 web/http/guides/mime_types/common_types,0
 web/http/guides/network_error_logging,0
 web/http/guides/overview,0
-web/http/guides/permissions_policy,0
+web/http/guides/permissions_policy,1
 web/http/guides/protocol_upgrade_mechanism,0
 web/http/guides/proxy_servers_and_tunneling,0
 web/http/guides/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file,0
@@ -12081,7 +12081,7 @@ web/http/reference/headers/no-vary-search,0
 web/http/reference/headers/observe-browsing-topics,0
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,0
-web/http/reference/headers/permissions-policy,0
+web/http/reference/headers/permissions-policy,1
 web/http/reference/headers/permissions-policy-report-only,0
 web/http/reference/headers/permissions-policy/accelerometer,0
 web/http/reference/headers/permissions-policy/ambient-light-sensor,0
