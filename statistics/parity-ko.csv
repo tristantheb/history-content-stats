@@ -9787,7 +9787,7 @@ web/api/wheelevent/deltax,null
 web/api/wheelevent/deltay,null
 web/api/wheelevent/deltaz,null
 web/api/wheelevent/wheelevent,null
-web/api/window,79
+web/api/window,80
 web/api/window/afterprint_event,null
 web/api/window/alert,null
 web/api/window/appinstalled_event,null
