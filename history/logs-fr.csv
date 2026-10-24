@@ -5900,7 +5900,6 @@ web/http/guides/cors/errors/corspreflightdidnotsucceed,92396cf8979e107c3ac42c2b9
 web/http/guides/cors/errors/corsrequestnothttp,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa
 web/http/guides/cors/errors,a8b5a77bb154e0c3a124fb4af441d11e4259836e
 web/http/guides/cors,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5
-web/http/guides/cross-origin_resource_policy,d5c3db4df1e063769b8113567f4558ad4298b00b
 web/http/guides/csp/errors/cspviolation,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/guides/csp/errors,dc788bf0ea36cb1ebe809c82aaae2c77cb3e18c0
 web/http/guides/csp,6720d579bd658f02c56363805e97e69f93dc79f1
