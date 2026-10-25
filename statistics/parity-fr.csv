@@ -9794,7 +9794,7 @@ web/api/window/appinstalled_event,0
 web/api/window/atob,0
 web/api/window/beforeinstallprompt_event,0
 web/api/window/beforeprint_event,0
-web/api/window/beforeunload_event,1
+web/api/window/beforeunload_event,2
 web/api/window/blur,0
 web/api/window/blur_event,0
 web/api/window/btoa,0
@@ -9874,7 +9874,7 @@ web/api/window/origin,0
 web/api/window/originagentcluster,0
 web/api/window/outerheight,0
 web/api/window/outerwidth,0
-web/api/window/pagehide_event,0
+web/api/window/pagehide_event,1
 web/api/window/pagereveal_event,0
 web/api/window/pageshow_event,0
 web/api/window/pageswap_event,0
@@ -11170,8 +11170,8 @@ web/css/reference/properties/rule-overlap,null
 web/css/reference/properties/rule-style,3
 web/css/reference/properties/rule-visibility-items,2
 web/css/reference/properties/rule-width,3
-web/css/reference/properties/rx,0
-web/css/reference/properties/ry,0
+web/css/reference/properties/rx,1
+web/css/reference/properties/ry,1
 web/css/reference/properties/scale,1
 web/css/reference/properties/scroll-behavior,0
 web/css/reference/properties/scroll-initial-target,1
