@@ -1558,9 +1558,9 @@ mozilla/add-ons/webextensions/api/runtime/onupdateavailable,09109b6f9444d22215ba
 mozilla/add-ons/webextensions/api/runtime/onuserscriptconnect,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/runtime/onuserscriptmessage,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/runtime/openoptionspage,09109b6f9444d22215ba330ec1e64e73980b2a6c
-mozilla/add-ons/webextensions/api/runtime/platformarch,09109b6f9444d22215ba330ec1e64e73980b2a6c
+mozilla/add-ons/webextensions/api/runtime/platformarch,c6a89971a820ca6b76479a7ffc1b32c09aae2415
 mozilla/add-ons/webextensions/api/runtime/platforminfo,d093679f1b6c69e417e761d90eca65681e5f95f4
-mozilla/add-ons/webextensions/api/runtime/platformnaclarch,d093679f1b6c69e417e761d90eca65681e5f95f4
+mozilla/add-ons/webextensions/api/runtime/platformnaclarch,c6a89971a820ca6b76479a7ffc1b32c09aae2415
 mozilla/add-ons/webextensions/api/runtime/platformos,df570fdf78db5cb13265b2dcfa1cdc73a0b66318
 mozilla/add-ons/webextensions/api/runtime/port,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/runtime/reload,09109b6f9444d22215ba330ec1e64e73980b2a6c
@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/157,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6
 mozilla/firefox/releases/158,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6
 mozilla/firefox/releases/159,3e280ba0985e16f5cc48136b3c812ec506ac9735
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8
-mozilla/firefox/releases/160,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6
+mozilla/firefox/releases/160,c6a89971a820ca6b76479a7ffc1b32c09aae2415
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/19,83f4e64da466670c3700110da364546253eae127
