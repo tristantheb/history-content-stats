@@ -6356,7 +6356,7 @@ web/api/navigator/registerprotocolhandler,2
 web/api/navigator/requestmediakeysystemaccess,null
 web/api/navigator/requestmidiaccess,6
 web/api/navigator/scheduling,2
-web/api/navigator/sendbeacon,6
+web/api/navigator/sendbeacon,7
 web/api/navigator/serial,7
 web/api/navigator/serviceworker,2
 web/api/navigator/setappbadge,5
@@ -9794,7 +9794,7 @@ web/api/window/appinstalled_event,6
 web/api/window/atob,0
 web/api/window/beforeinstallprompt_event,1
 web/api/window/beforeprint_event,1
-web/api/window/beforeunload_event,1
+web/api/window/beforeunload_event,2
 web/api/window/blur,null
 web/api/window/blur_event,4
 web/api/window/btoa,0
@@ -9874,7 +9874,7 @@ web/api/window/origin,1
 web/api/window/originagentcluster,null
 web/api/window/outerheight,1
 web/api/window/outerwidth,1
-web/api/window/pagehide_event,1
+web/api/window/pagehide_event,2
 web/api/window/pagereveal_event,5
 web/api/window/pageshow_event,1
 web/api/window/pageswap_event,5

@@ -6356,7 +6356,7 @@ web/api/navigator/registerprotocolhandler,null
 web/api/navigator/requestmediakeysystemaccess,null
 web/api/navigator/requestmidiaccess,null
 web/api/navigator/scheduling,null
-web/api/navigator/sendbeacon,13
+web/api/navigator/sendbeacon,14
 web/api/navigator/serial,null
 web/api/navigator/serviceworker,null
 web/api/navigator/setappbadge,null
@@ -9794,7 +9794,7 @@ web/api/window/appinstalled_event,null
 web/api/window/atob,null
 web/api/window/beforeinstallprompt_event,null
 web/api/window/beforeprint_event,null
-web/api/window/beforeunload_event,18
+web/api/window/beforeunload_event,19
 web/api/window/blur,null
 web/api/window/blur_event,7
 web/api/window/btoa,6

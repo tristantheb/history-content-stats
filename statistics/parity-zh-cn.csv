@@ -9874,7 +9874,7 @@ web/api/window/origin,3
 web/api/window/originagentcluster,1
 web/api/window/outerheight,null
 web/api/window/outerwidth,null
-web/api/window/pagehide_event,4
+web/api/window/pagehide_event,5
 web/api/window/pagereveal_event,null
 web/api/window/pageshow_event,null
 web/api/window/pageswap_event,null

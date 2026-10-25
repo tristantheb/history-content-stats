@@ -6356,7 +6356,7 @@ web/api/navigator/registerprotocolhandler,3e543cdfe8dddfb4774a64bf3decdcbab42a41
 web/api/navigator/requestmediakeysystemaccess,e1e7e2ac2cb1e40293c32c24bc0667905e9a7a04,Web APIs
 web/api/navigator/requestmidiaccess,ca26363fcc6fc861103d40ac0205e5c5b79eb2fa,Web APIs
 web/api/navigator/scheduling,a966a8b4eade72a13de8a688c13f2d5056321f02,Web APIs
-web/api/navigator/sendbeacon,54ff2391f79eb6e5ee706f3d06eb284f243f89d9,Web APIs
+web/api/navigator/sendbeacon,958799789600997855abbdabca7abc8a221b6778,Web APIs
 web/api/navigator/serial,6fe7a18b80e55d9d25dcc16dfb010eec09460bb8,Web APIs
 web/api/navigator/serviceworker,5d29bef0815f8cc4b5b152b9ee1ab53f002ee617,Web APIs
 web/api/navigator/setappbadge,0abb70602b0b3b11a2909c417a03e10eabd607a8,Web APIs
@@ -9794,7 +9794,7 @@ web/api/window/appinstalled_event,f5e710f5c620c8d3c8b179f3b062d6bbdc8389ec,Web A
 web/api/window/atob,3e097148b4c6cb9c6d8824275599f855ca63827b,Web APIs
 web/api/window/beforeinstallprompt_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/window/beforeprint_event,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
-web/api/window/beforeunload_event,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,Web APIs
+web/api/window/beforeunload_event,958799789600997855abbdabca7abc8a221b6778,Web APIs
 web/api/window/blur,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/window/blur_event,8b77a013c518ef1b62534a8446a60732d582a24b,Web APIs
 web/api/window/btoa,3e097148b4c6cb9c6d8824275599f855ca63827b,Web APIs
@@ -9874,7 +9874,7 @@ web/api/window/origin,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/originagentcluster,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/outerheight,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/outerwidth,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
-web/api/window/pagehide_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
+web/api/window/pagehide_event,958799789600997855abbdabca7abc8a221b6778,Web APIs
 web/api/window/pagereveal_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/window/pageshow_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
 web/api/window/pageswap_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140,Web APIs
@@ -11170,8 +11170,8 @@ web/css/reference/properties/rule-overlap,0cc2d00775016fc61ae0ac1256d65ed1b56a19
 web/css/reference/properties/rule-style,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
 web/css/reference/properties/rule-visibility-items,f1e792d66f656c235b3c91a905b58cc7f7f1cca0,CSS|Properties
 web/css/reference/properties/rule-width,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
-web/css/reference/properties/rx,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/ry,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/rx,b94f607de0017642074f3466e20cbd9017a1b150,CSS|Properties
+web/css/reference/properties/ry,b94f607de0017642074f3466e20cbd9017a1b150,CSS|Properties
 web/css/reference/properties/scale,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/scroll-behavior,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/scroll-initial-target,b7e9f482c51817d3a885e26092f8219fd0d9d278,CSS|Properties
