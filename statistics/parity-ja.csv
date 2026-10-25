@@ -6004,7 +6004,7 @@ web/api/mediarecorder/resume_event,0
 web/api/mediarecorder/start,0
 web/api/mediarecorder/start_event,0
 web/api/mediarecorder/state,0
-web/api/mediarecorder/stop,-1
+web/api/mediarecorder/stop,0
 web/api/mediarecorder/stop_event,0
 web/api/mediarecorder/stream,0
 web/api/mediarecorder/videobitspersecond,0
