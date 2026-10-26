@@ -4900,6 +4900,8 @@ web/api/htmlelement/blur,null
 web/api/htmlelement/change_event,null
 web/api/htmlelement/click,null
 web/api/htmlelement/command_event,null
+web/api/htmlelement/containertiming,null
+web/api/htmlelement/containertimingignore,null
 web/api/htmlelement/contenteditable,null
 web/api/htmlelement/dataset,null
 web/api/htmlelement/dir,null
@@ -6727,6 +6729,16 @@ web/api/performance_api/performance_data,null
 web/api/performance_api/resource_timing,null
 web/api/performance_api/server_timing,null
 web/api/performance_api/user_timing,null
+web/api/performancecontainertiming,null
+web/api/performancecontainertiming/firstrendertime,null
+web/api/performancecontainertiming/identifier,null
+web/api/performancecontainertiming/intersectionrect,null
+web/api/performancecontainertiming/lastpaintedelement,null
+web/api/performancecontainertiming/painttime,null
+web/api/performancecontainertiming/presentationtime,null
+web/api/performancecontainertiming/rootelement,null
+web/api/performancecontainertiming/size,null
+web/api/performancecontainertiming/tojson,null
 web/api/performanceelementtiming,null
 web/api/performanceelementtiming/element,null
 web/api/performanceelementtiming/id,null
@@ -11893,6 +11905,8 @@ web/html/reference/global_attributes/autocapitalize,null
 web/html/reference/global_attributes/autocorrect,null
 web/html/reference/global_attributes/autofocus,null
 web/html/reference/global_attributes/class,null
+web/html/reference/global_attributes/containertiming,null
+web/html/reference/global_attributes/containertimingignore,null
 web/html/reference/global_attributes/contenteditable,null
 web/html/reference/global_attributes/data-_star_,null
 web/html/reference/global_attributes/dir,null
