@@ -1084,7 +1084,7 @@ mdn/writing_guidelines/page_structures/macros/commonly_used_macros,null
 mdn/writing_guidelines/page_structures/macros/other,null
 mdn/writing_guidelines/page_structures/page_types,null
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,3
-mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,4
+mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,5
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,null
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,null
 mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,null
@@ -1972,6 +1972,7 @@ mozilla/firefox/releases/158,null
 mozilla/firefox/releases/159,null
 mozilla/firefox/releases/16,null
 mozilla/firefox/releases/160,null
+mozilla/firefox/releases/161,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
 mozilla/firefox/releases/19,null
@@ -3605,7 +3606,7 @@ web/api/document/requeststorageaccess,null
 web/api/document/requeststorageaccessfor,null
 web/api/document/rootelement,null
 web/api/document/scripts,null
-web/api/document/scroll_event,2
+web/api/document/scroll_event,3
 web/api/document/scrollend_event,null
 web/api/document/scrollingelement,null
 web/api/document/scrollsnapchange_event,null
@@ -4875,7 +4876,7 @@ web/api/htmldetailselement/open,null
 web/api/htmldialogelement,null
 web/api/htmldialogelement/cancel_event,null
 web/api/htmldialogelement/close,null
-web/api/htmldialogelement/close_event,1
+web/api/htmldialogelement/close_event,2
 web/api/htmldialogelement/closedby,null
 web/api/htmldialogelement/open,null
 web/api/htmldialogelement/requestclose,null
@@ -4994,7 +4995,7 @@ web/api/htmlformelement/requestsubmit,null
 web/api/htmlformelement/reset,null
 web/api/htmlformelement/reset_event,null
 web/api/htmlformelement/submit,null
-web/api/htmlformelement/submit_event,2
+web/api/htmlformelement/submit_event,3
 web/api/htmlformelement/target,null
 web/api/htmlframesetelement,null
 web/api/htmlgeolocationelement,null
@@ -5161,7 +5162,7 @@ web/api/htmlmapelement/areas,null
 web/api/htmlmapelement/name,null
 web/api/htmlmarqueeelement,null
 web/api/htmlmediaelement,null
-web/api/htmlmediaelement/abort_event,1
+web/api/htmlmediaelement/abort_event,2
 web/api/htmlmediaelement/addtexttrack,null
 web/api/htmlmediaelement/audiotracks,null
 web/api/htmlmediaelement/autoplay,null
@@ -5210,7 +5211,7 @@ web/api/htmlmediaelement/playing_event,null
 web/api/htmlmediaelement/preload,null
 web/api/htmlmediaelement/preservespitch,null
 web/api/htmlmediaelement/progress_event,null
-web/api/htmlmediaelement/ratechange_event,0
+web/api/htmlmediaelement/ratechange_event,1
 web/api/htmlmediaelement/readystate,0
 web/api/htmlmediaelement/remote,null
 web/api/htmlmediaelement/seekable,null
@@ -9881,7 +9882,7 @@ web/api/window/online_event,null
 web/api/window/open,null
 web/api/window/opener,0
 web/api/window/orientation,null
-web/api/window/orientationchange_event,1
+web/api/window/orientationchange_event,2
 web/api/window/origin,null
 web/api/window/originagentcluster,null
 web/api/window/outerheight,null
