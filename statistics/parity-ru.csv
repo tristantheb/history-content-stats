@@ -4900,6 +4900,8 @@ web/api/htmlelement/blur,null
 web/api/htmlelement/change_event,null
 web/api/htmlelement/click,null
 web/api/htmlelement/command_event,null
+web/api/htmlelement/containertiming,null
+web/api/htmlelement/containertimingignore,null
 web/api/htmlelement/contenteditable,null
 web/api/htmlelement/dataset,null
 web/api/htmlelement/dir,null
@@ -6727,6 +6729,16 @@ web/api/performance_api/performance_data,null
 web/api/performance_api/resource_timing,null
 web/api/performance_api/server_timing,null
 web/api/performance_api/user_timing,null
+web/api/performancecontainertiming,null
+web/api/performancecontainertiming/firstrendertime,null
+web/api/performancecontainertiming/identifier,null
+web/api/performancecontainertiming/intersectionrect,null
+web/api/performancecontainertiming/lastpaintedelement,null
+web/api/performancecontainertiming/painttime,null
+web/api/performancecontainertiming/presentationtime,null
+web/api/performancecontainertiming/rootelement,null
+web/api/performancecontainertiming/size,null
+web/api/performancecontainertiming/tojson,null
 web/api/performanceelementtiming,null
 web/api/performanceelementtiming/element,null
 web/api/performanceelementtiming/id,null
@@ -9802,7 +9814,7 @@ web/api/window/caches,null
 web/api/window/cancelanimationframe,null
 web/api/window/cancelidlecallback,null
 web/api/window/captureevents,null
-web/api/window/clearimmediate,2
+web/api/window/clearimmediate,3
 web/api/window/clearinterval,null
 web/api/window/cleartimeout,null
 web/api/window/close,null
@@ -9915,7 +9927,7 @@ web/api/window/scrollsnapchanging_event,null
 web/api/window/scrollto,null
 web/api/window/scrollx,null
 web/api/window/scrolly,null
-web/api/window/self,1
+web/api/window/self,2
 web/api/window/sessionstorage,null
 web/api/window/setimmediate,null
 web/api/window/setinterval,null
@@ -11893,6 +11905,8 @@ web/html/reference/global_attributes/autocapitalize,null
 web/html/reference/global_attributes/autocorrect,null
 web/html/reference/global_attributes/autofocus,null
 web/html/reference/global_attributes/class,null
+web/html/reference/global_attributes/containertiming,null
+web/html/reference/global_attributes/containertimingignore,null
 web/html/reference/global_attributes/contenteditable,null
 web/html/reference/global_attributes/data-_star_,null
 web/html/reference/global_attributes/dir,null
@@ -12509,7 +12523,7 @@ web/javascript/reference/global_objects/array/flatmap,null
 web/javascript/reference/global_objects/array/foreach,null
 web/javascript/reference/global_objects/array/from,null
 web/javascript/reference/global_objects/array/fromasync,null
-web/javascript/reference/global_objects/array/includes,8
+web/javascript/reference/global_objects/array/includes,9
 web/javascript/reference/global_objects/array/indexof,null
 web/javascript/reference/global_objects/array/isarray,null
 web/javascript/reference/global_objects/array/join,null
@@ -12533,12 +12547,12 @@ web/javascript/reference/global_objects/array/symbol.species,null
 web/javascript/reference/global_objects/array/symbol.unscopables,null
 web/javascript/reference/global_objects/array/tolocalestring,null
 web/javascript/reference/global_objects/array/toreversed,null
-web/javascript/reference/global_objects/array/tosorted,2
+web/javascript/reference/global_objects/array/tosorted,3
 web/javascript/reference/global_objects/array/tospliced,null
 web/javascript/reference/global_objects/array/tostring,null
 web/javascript/reference/global_objects/array/unshift,null
 web/javascript/reference/global_objects/array/values,null
-web/javascript/reference/global_objects/array/with,3
+web/javascript/reference/global_objects/array/with,4
 web/javascript/reference/global_objects/arraybuffer,null
 web/javascript/reference/global_objects/arraybuffer/arraybuffer,null
 web/javascript/reference/global_objects/arraybuffer/bytelength,null
@@ -12602,7 +12616,7 @@ web/javascript/reference/global_objects/boolean,null
 web/javascript/reference/global_objects/boolean/boolean,null
 web/javascript/reference/global_objects/boolean/tostring,null
 web/javascript/reference/global_objects/boolean/valueof,null
-web/javascript/reference/global_objects/dataview,8
+web/javascript/reference/global_objects/dataview,9
 web/javascript/reference/global_objects/dataview/buffer,4
 web/javascript/reference/global_objects/dataview/bytelength,null
 web/javascript/reference/global_objects/dataview/byteoffset,5
@@ -12934,8 +12948,8 @@ web/javascript/reference/global_objects/number/epsilon,null
 web/javascript/reference/global_objects/number/isfinite,null
 web/javascript/reference/global_objects/number/isinteger,null
 web/javascript/reference/global_objects/number/isnan,null
-web/javascript/reference/global_objects/number/issafeinteger,5
-web/javascript/reference/global_objects/number/max_safe_integer,5
+web/javascript/reference/global_objects/number/issafeinteger,6
+web/javascript/reference/global_objects/number/max_safe_integer,6
 web/javascript/reference/global_objects/number/max_value,null
 web/javascript/reference/global_objects/number/min_safe_integer,null
 web/javascript/reference/global_objects/number/min_value,null
@@ -13114,7 +13128,7 @@ web/javascript/reference/global_objects/string/fontcolor,null
 web/javascript/reference/global_objects/string/fontsize,null
 web/javascript/reference/global_objects/string/fromcharcode,null
 web/javascript/reference/global_objects/string/fromcodepoint,null
-web/javascript/reference/global_objects/string/includes,5
+web/javascript/reference/global_objects/string/includes,6
 web/javascript/reference/global_objects/string/indexof,null
 web/javascript/reference/global_objects/string/iswellformed,null
 web/javascript/reference/global_objects/string/italics,null
@@ -13125,7 +13139,7 @@ web/javascript/reference/global_objects/string/localecompare,8
 web/javascript/reference/global_objects/string/match,null
 web/javascript/reference/global_objects/string/matchall,null
 web/javascript/reference/global_objects/string/normalize,null
-web/javascript/reference/global_objects/string/padend,5
+web/javascript/reference/global_objects/string/padend,6
 web/javascript/reference/global_objects/string/padstart,null
 web/javascript/reference/global_objects/string/raw,null
 web/javascript/reference/global_objects/string/repeat,null
@@ -13157,7 +13171,7 @@ web/javascript/reference/global_objects/suppressederror,null
 web/javascript/reference/global_objects/suppressederror/error,null
 web/javascript/reference/global_objects/suppressederror/suppressed,null
 web/javascript/reference/global_objects/suppressederror/suppressederror,null
-web/javascript/reference/global_objects/symbol,11
+web/javascript/reference/global_objects/symbol,12
 web/javascript/reference/global_objects/symbol/asyncdispose,null
 web/javascript/reference/global_objects/symbol/asynciterator,null
 web/javascript/reference/global_objects/symbol/description,null
@@ -13496,7 +13510,7 @@ web/javascript/reference/global_objects/weakmap/weakmap,null
 web/javascript/reference/global_objects/weakref,null
 web/javascript/reference/global_objects/weakref/deref,null
 web/javascript/reference/global_objects/weakref/weakref,null
-web/javascript/reference/global_objects/weakset,4
+web/javascript/reference/global_objects/weakset,5
 web/javascript/reference/global_objects/weakset/add,null
 web/javascript/reference/global_objects/weakset/delete,null
 web/javascript/reference/global_objects/weakset/has,null
