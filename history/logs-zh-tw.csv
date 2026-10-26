@@ -668,7 +668,6 @@ web/http/guides/browser_detection_using_the_user_agent,no_hash_commit
 web/http/guides/caching,no_hash_commit
 web/http/guides/cookies,86fa532a00024e7c85a4c0d6339adce8b1bd9f61
 web/http/guides/cors,3c29ffa78c551ea6a61bbb795a5f97a66c6868c0
-web/http/guides/cross-origin_resource_policy,702cd9e4d2834e13aea345943efc8d0c03d92ec9
 web/http/guides/mime_types/common_types,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/guides/network_error_logging,ad5b5e31f81795d692e66dadb7818ba8b220ad15
 web/http/guides/protocol_upgrade_mechanism,no_hash_commit
@@ -983,6 +982,7 @@ web/security/authentication/passwords,no_hash_commit
 web/security/defenses/mixed_content,no_hash_commit
 web/security/defenses/same-origin_policy,no_hash_commit
 web/security,no_hash_commit
+web/security/practical_implementation_guides/corp,702cd9e4d2834e13aea345943efc8d0c03d92ec9
 web/svg,no_hash_commit
 web/svg/reference/attribute/stroke-dashoffset,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/tutorials/svg_from_scratch/basic_shapes,no_hash_commit
