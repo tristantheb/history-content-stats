@@ -1084,7 +1084,7 @@ mdn/writing_guidelines/page_structures/macros/commonly_used_macros,2
 mdn/writing_guidelines/page_structures/macros/other,0
 mdn/writing_guidelines/page_structures/page_types,2
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,1
-mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,0
+mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,2
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,2
@@ -1972,6 +1972,7 @@ mozilla/firefox/releases/158,null
 mozilla/firefox/releases/159,null
 mozilla/firefox/releases/16,null
 mozilla/firefox/releases/160,null
+mozilla/firefox/releases/161,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
 mozilla/firefox/releases/19,null
@@ -3829,7 +3830,7 @@ web/api/element/after,null
 web/api/element/afterscriptexecute_event,null
 web/api/element/animate,null
 web/api/element/animationcancel_event,null
-web/api/element/animationend_event,7
+web/api/element/animationend_event,8
 web/api/element/animationiteration_event,null
 web/api/element/animationstart_event,null
 web/api/element/append,2
@@ -3900,7 +3901,7 @@ web/api/element/childelementcount,null
 web/api/element/children,null
 web/api/element/classlist,null
 web/api/element/classname,null
-web/api/element/click_event,15
+web/api/element/click_event,16
 web/api/element/clientheight,null
 web/api/element/clientleft,null
 web/api/element/clienttop,null
@@ -3912,7 +3913,7 @@ web/api/element/compositionupdate_event,null
 web/api/element/computedstylemap,null
 web/api/element/contentvisibilityautostatechange_event,null
 web/api/element/contextmenu_event,null
-web/api/element/copy_event,6
+web/api/element/copy_event,7
 web/api/element/currentcsszoom,null
 web/api/element/customelementregistry,null
 web/api/element/cut_event,null
@@ -3952,9 +3953,9 @@ web/api/element/input_event,null
 web/api/element/insertadjacentelement,null
 web/api/element/insertadjacenthtml,null
 web/api/element/insertadjacenttext,null
-web/api/element/keydown_event,21
+web/api/element/keydown_event,22
 web/api/element/keypress_event,null
-web/api/element/keyup_event,17
+web/api/element/keyup_event,18
 web/api/element/lastelementchild,null
 web/api/element/localname,null
 web/api/element/lostpointercapture_event,null
@@ -5166,7 +5167,7 @@ web/api/htmlmediaelement/addtexttrack,null
 web/api/htmlmediaelement/audiotracks,null
 web/api/htmlmediaelement/autoplay,null
 web/api/htmlmediaelement/buffered,null
-web/api/htmlmediaelement/canplay_event,2
+web/api/htmlmediaelement/canplay_event,3
 web/api/htmlmediaelement/canplaythrough_event,null
 web/api/htmlmediaelement/canplaytype,null
 web/api/htmlmediaelement/capturestream,null
@@ -7850,11 +7851,11 @@ web/api/server-sent_events/using_server-sent_events,null
 web/api/service_worker_api,2
 web/api/service_worker_api/using_service_workers,2
 web/api/serviceworker,0
-web/api/serviceworker/error_event,0
+web/api/serviceworker/error_event,1
 web/api/serviceworker/postmessage,2
 web/api/serviceworker/scripturl,1
 web/api/serviceworker/state,0
-web/api/serviceworker/statechange_event,0
+web/api/serviceworker/statechange_event,1
 web/api/serviceworkercontainer,1
 web/api/serviceworkercontainer/controller,null
 web/api/serviceworkercontainer/controllerchange_event,null
@@ -9877,7 +9878,7 @@ web/api/window/name,null
 web/api/window/navigation,3
 web/api/window/navigator,null
 web/api/window/offline_event,null
-web/api/window/online_event,3
+web/api/window/online_event,4
 web/api/window/open,null
 web/api/window/opener,null
 web/api/window/orientation,null
