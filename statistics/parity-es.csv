@@ -63,10 +63,10 @@ games/tutorials/2d_breakout_game_pure_javascript/randomizing_gameplay,0
 games/tutorials/2d_breakout_game_pure_javascript/track_the_score_and_win,0
 games/tutorials/html5_gamedev_phaser_device_orientation,null
 glossary,10
-glossary/abstraction,null
-glossary/accent,null
-glossary/accessibility,null
-glossary/accessibility_tree,null
+glossary/abstraction,0
+glossary/accent,0
+glossary/accessibility,0
+glossary/accessibility_tree,0
 glossary/accessible_description,null
 glossary/accessible_name,null
 glossary/adobe_flash,null
@@ -750,7 +750,7 @@ learn_web_development/core/scripting/build_your_own_function,null
 learn_web_development/core/scripting/conditionals,2
 learn_web_development/core/scripting/debugging_javascript,null
 learn_web_development/core/scripting/dom_scripting,null
-learn_web_development/core/scripting/event_bubbling,null
+learn_web_development/core/scripting/event_bubbling,0
 learn_web_development/core/scripting/events,1
 learn_web_development/core/scripting/functions,null
 learn_web_development/core/scripting/house_data_ui,null
@@ -1043,7 +1043,7 @@ mdn/community/our_repositories,0
 mdn/community/pull_requests,null
 mdn/community/roles_teams,null
 mdn/community/translated_content,5
-mdn/guides,null
+mdn/guides,0
 mdn/kitchensink,null
 mdn/tutorials,6
 mdn/writing_guidelines,1
@@ -1084,7 +1084,7 @@ mdn/writing_guidelines/page_structures/macros/commonly_used_macros,2
 mdn/writing_guidelines/page_structures/macros/other,0
 mdn/writing_guidelines/page_structures/page_types,2
 mdn/writing_guidelines/page_structures/page_types/api_constructor_subpage_template,1
-mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,1
+mdn/writing_guidelines/page_structures/page_types/api_event_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,2
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,1
 mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,2
@@ -3626,7 +3626,7 @@ web/api/document/write,null
 web/api/document/writeln,null
 web/api/document/xmlencoding,null
 web/api/document/xmlversion,null
-web/api/document_object_model,10
+web/api/document_object_model,0
 web/api/document_object_model/anatomy_of_the_dom,null
 web/api/document_object_model/building_and_updating_the_dom_tree,null
 web/api/document_object_model/events,0
