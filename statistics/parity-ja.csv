@@ -10608,7 +10608,7 @@ web/css/guides/values_and_units/value_definition_syntax,0
 web/css/guides/view_transitions,1
 web/css/guides/viewport,0
 web/css/guides/webxr_dom_overlays,null
-web/css/guides/will_change,null
+web/css/guides/will_change,0
 web/css/guides/writing_modes,2
 web/css/guides/writing_modes/vertical_controls,1
 web/css/guides/writing_modes/writing_mode_systems,3
@@ -10889,7 +10889,7 @@ web/css/reference/properties/color-scheme,2
 web/css/reference/properties/column-count,2
 web/css/reference/properties/column-fill,1
 web/css/reference/properties/column-gap,0
-web/css/reference/properties/column-height,5
+web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,3
 web/css/reference/properties/column-rule-break,3
 web/css/reference/properties/column-rule-color,3
@@ -10913,7 +10913,7 @@ web/css/reference/properties/contain-intrinsic-size,4
 web/css/reference/properties/contain-intrinsic-width,2
 web/css/reference/properties/container,2
 web/css/reference/properties/container-name,4
-web/css/reference/properties/container-type,5
+web/css/reference/properties/container-type,0
 web/css/reference/properties/content,4
 web/css/reference/properties/content-visibility,2
 web/css/reference/properties/corner-block-end-shape,3
@@ -10947,7 +10947,7 @@ web/css/reference/properties/dynamic-range-limit,0
 web/css/reference/properties/empty-cells,2
 web/css/reference/properties/field-sizing,3
 web/css/reference/properties/fill,0
-web/css/reference/properties/fill-opacity,null
+web/css/reference/properties/fill-opacity,0
 web/css/reference/properties/fill-rule,2
 web/css/reference/properties/filter,3
 web/css/reference/properties/flex,0
@@ -11226,8 +11226,8 @@ web/css/reference/properties/shape-margin,3
 web/css/reference/properties/shape-outside,2
 web/css/reference/properties/shape-rendering,0
 web/css/reference/properties/speak-as,0
-web/css/reference/properties/stop-color,null
-web/css/reference/properties/stop-opacity,null
+web/css/reference/properties/stop-color,0
+web/css/reference/properties/stop-opacity,0
 web/css/reference/properties/stroke,0
 web/css/reference/properties/stroke-dasharray,1
 web/css/reference/properties/stroke-dashoffset,1
@@ -11314,7 +11314,7 @@ web/css/reference/properties/white-space,1
 web/css/reference/properties/white-space-collapse,0
 web/css/reference/properties/widows,3
 web/css/reference/properties/width,4
-web/css/reference/properties/will-change,5
+web/css/reference/properties/will-change,0
 web/css/reference/properties/word-break,1
 web/css/reference/properties/word-spacing,0
 web/css/reference/properties/writing-mode,0
@@ -11517,7 +11517,7 @@ web/css/reference/values/basic-shape/shape,2
 web/css/reference/values/basic-shape/xywh,1
 web/css/reference/values/blend-mode,1
 web/css/reference/values/box-edge,2
-web/css/reference/values/calc,5
+web/css/reference/values/calc,0
 web/css/reference/values/calc-keyword,1
 web/css/reference/values/calc-size,0
 web/css/reference/values/calc-sum,1
@@ -11561,7 +11561,7 @@ web/css/reference/values/easing-function/cubic-bezier,0
 web/css/reference/values/easing-function/linear,0
 web/css/reference/values/easing-function/steps,2
 web/css/reference/values/element,0
-web/css/reference/values/env,5
+web/css/reference/values/env,0
 web/css/reference/values/exp,1
 web/css/reference/values/filter-function,0
 web/css/reference/values/filter-function/blur,1
@@ -11623,7 +11623,7 @@ web/css/reference/values/position-area_value,1
 web/css/reference/values/position_value,1
 web/css/reference/values/pow,0
 web/css/reference/values/progress,4
-web/css/reference/values/random,5
+web/css/reference/values/random,0
 web/css/reference/values/ratio,1
 web/css/reference/values/ray,0
 web/css/reference/values/relative-size,1
