@@ -58,7 +58,7 @@ games/tutorials/2d_breakout_game_pure_javascript/extra_lives,1
 games/tutorials/2d_breakout_game_pure_javascript/game_over,1
 games/tutorials/2d_breakout_game_pure_javascript/initialize_the_canvas,1
 games/tutorials/2d_breakout_game_pure_javascript/move_the_ball,1
-games/tutorials/2d_breakout_game_pure_javascript/player_paddle_and_controls,null
+games/tutorials/2d_breakout_game_pure_javascript/player_paddle_and_controls,0
 games/tutorials/2d_breakout_game_pure_javascript/randomizing_gameplay,null
 games/tutorials/2d_breakout_game_pure_javascript/track_the_score_and_win,1
 games/tutorials/html5_gamedev_phaser_device_orientation,null
@@ -2718,7 +2718,7 @@ web/api/broadcastchannel,0
 web/api/broadcastchannel/broadcastchannel,0
 web/api/broadcastchannel/close,1
 web/api/broadcastchannel/message_event,4
-web/api/broadcastchannel/messageerror_event,4
+web/api/broadcastchannel/messageerror_event,5
 web/api/broadcastchannel/name,0
 web/api/broadcastchannel/postmessage,1
 web/api/browsercapturemediastreamtrack,0
@@ -3015,7 +3015,7 @@ web/api/cookiechangeevent/changed,6
 web/api/cookiechangeevent/cookiechangeevent,0
 web/api/cookiechangeevent/deleted,5
 web/api/cookiestore,3
-web/api/cookiestore/change_event,1
+web/api/cookiestore/change_event,2
 web/api/cookiestore/delete,6
 web/api/cookiestore/get,6
 web/api/cookiestore/getall,5
@@ -3485,14 +3485,14 @@ web/api/document/activeelement,6
 web/api/document/activeviewtransition,null
 web/api/document/adoptedstylesheets,6
 web/api/document/adoptnode,1
-web/api/document/afterscriptexecute_event,6
+web/api/document/afterscriptexecute_event,7
 web/api/document/alinkcolor,3
 web/api/document/all,1
 web/api/document/anchors,4
 web/api/document/append,1
 web/api/document/applets,2
 web/api/document/arianotify,null
-web/api/document/beforescriptexecute_event,6
+web/api/document/beforescriptexecute_event,7
 web/api/document/bgcolor,4
 web/api/document/body,2
 web/api/document/browsingtopics,null
@@ -3553,7 +3553,7 @@ web/api/document/fullscreen,1
 web/api/document/fullscreenchange_event,2
 web/api/document/fullscreenelement,1
 web/api/document/fullscreenenabled,1
-web/api/document/fullscreenerror_event,1
+web/api/document/fullscreenerror_event,2
 web/api/document/getanimations,null
 web/api/document/getelementbyid,0
 web/api/document/getelementsbyclassname,null
@@ -3585,9 +3585,9 @@ web/api/document/parsehtmlunsafe_static,null
 web/api/document/pictureinpictureelement,1
 web/api/document/pictureinpictureenabled,1
 web/api/document/plugins,null
-web/api/document/pointerlockchange_event,1
+web/api/document/pointerlockchange_event,2
 web/api/document/pointerlockelement,0
-web/api/document/pointerlockerror_event,1
+web/api/document/pointerlockerror_event,2
 web/api/document/preferredstylesheetset,null
 web/api/document/prepend,null
 web/api/document/prerendering,null
@@ -5493,7 +5493,7 @@ web/api/htmltimeelement/datetime,2
 web/api/htmltitleelement,0
 web/api/htmltitleelement/text,1
 web/api/htmltrackelement,2
-web/api/htmltrackelement/cuechange_event,2
+web/api/htmltrackelement/cuechange_event,3
 web/api/htmltrackelement/default,null
 web/api/htmltrackelement/kind,null
 web/api/htmltrackelement/label,null
@@ -6134,7 +6134,7 @@ web/api/messageevent/ports,null
 web/api/messageevent/source,null
 web/api/messageport,0
 web/api/messageport/close,1
-web/api/messageport/message_event,4
+web/api/messageport/message_event,5
 web/api/messageport/messageerror_event,5
 web/api/messageport/postmessage,3
 web/api/messageport/start,1
@@ -6411,7 +6411,7 @@ web/api/ndefrecord/recordtype,null
 web/api/ndefrecord/torecords,null
 web/api/network_information_api,1
 web/api/networkinformation,1
-web/api/networkinformation/change_event,1
+web/api/networkinformation/change_event,2
 web/api/networkinformation/downlink,0
 web/api/networkinformation/downlinkmax,1
 web/api/networkinformation/effectivetype,0
@@ -6447,7 +6447,7 @@ web/api/node/parentnode,0
 web/api/node/previoussibling,null
 web/api/node/removechild,3
 web/api/node/replacechild,null
-web/api/node/selectstart_event,2
+web/api/node/selectstart_event,3
 web/api/node/textcontent,null
 web/api/nodeiterator,null
 web/api/nodeiterator/detach,null
@@ -6818,7 +6818,7 @@ web/api/performancepainttiming,null
 web/api/performancepainttiming/painttime,null
 web/api/performancepainttiming/presentationtime,null
 web/api/performancepainttiming/tojson,null
-web/api/performanceresourcetiming,9
+web/api/performanceresourcetiming,10
 web/api/performanceresourcetiming/connectend,null
 web/api/performanceresourcetiming/connectstart,null
 web/api/performanceresourcetiming/contentencoding,null
@@ -6843,7 +6843,7 @@ web/api/performanceresourcetiming/responsestatus,null
 web/api/performanceresourcetiming/secureconnectionstart,null
 web/api/performanceresourcetiming/servertiming,null
 web/api/performanceresourcetiming/tojson,null
-web/api/performanceresourcetiming/transfersize,0
+web/api/performanceresourcetiming/transfersize,1
 web/api/performanceresourcetiming/workerstart,null
 web/api/performancescripttiming,null
 web/api/performancescripttiming/executionstart,null
@@ -6921,7 +6921,7 @@ web/api/pictureinpictureevent/pictureinpictureevent,0
 web/api/pictureinpictureevent/pictureinpicturewindow,0
 web/api/pictureinpicturewindow,0
 web/api/pictureinpicturewindow/height,1
-web/api/pictureinpicturewindow/resize_event,2
+web/api/pictureinpicturewindow/resize_event,3
 web/api/pictureinpicturewindow/width,1
 web/api/plugin,1
 web/api/pluginarray,null

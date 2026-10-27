@@ -2718,7 +2718,7 @@ web/api/broadcastchannel,2
 web/api/broadcastchannel/broadcastchannel,2
 web/api/broadcastchannel/close,3
 web/api/broadcastchannel/message_event,5
-web/api/broadcastchannel/messageerror_event,5
+web/api/broadcastchannel/messageerror_event,6
 web/api/broadcastchannel/name,2
 web/api/broadcastchannel/postmessage,3
 web/api/browsercapturemediastreamtrack,null
