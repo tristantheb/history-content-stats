@@ -7017,6 +7017,7 @@ web/css/guides/values_and_units/using_typed_arithmetic,85fccefc8066bd49af4ddafc1
 web/css/guides/values_and_units/value_definition_syntax,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/view_transitions,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/viewport,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/guides/will_change,c655f38c10ba17b853b0e66b43cf4cf2b176e424
 web/css/guides/writing_modes,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/writing_modes/vertical_controls,32bdfdb82cf91ce9942b694286dec62be2cc20aa
 web/css/guides/writing_modes/writing_mode_systems,5bbfe12789861f4352cf0e63643bd329c56d7821
@@ -7294,7 +7295,7 @@ web/css/reference/properties/color,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/column-count,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/column-fill,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/column-gap,04dfe418f2942ae739d41592c22fafa3679fc03c
-web/css/reference/properties/column-height,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/column-height,25e50f8d5b36eb86d40916f6f06051671333f3a7
 web/css/reference/properties/column-rule-break,1474534461893381d54c502e655f334b5568e597
 web/css/reference/properties/column-rule-color,5cf8432d980cbe9b7e5611d647d8566b5c4ff3ed
 web/css/reference/properties/column-rule-style,e9c03ba87f9ff4123150d8f7dc457bd546bdab83
@@ -7312,7 +7313,7 @@ web/css/reference/properties/contain-intrinsic-size,1dbba9f7a2c2e35c6e01e8a63159
 web/css/reference/properties/contain-intrinsic-width,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/reference/properties/contain,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/reference/properties/container-name,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/container-type,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/container-type,892eb917bee599a9d6cae7d33ed783129dbb39b3
 web/css/reference/properties/container,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/content-visibility,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/content,f7f6f16b39d5a2a1436ed1ffb2d3cd7b24ba6521
@@ -7346,6 +7347,7 @@ web/css/reference/properties/dominant-baseline,2d78abb3e793352e24e976ce0e68c08d8
 web/css/reference/properties/dynamic-range-limit,737b931225e92e0cba47e57a150878b1a78ee45a
 web/css/reference/properties/empty-cells,46a4425d4b7160129fd4c8d0f684ccd0617326b7
 web/css/reference/properties/field-sizing,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/fill-opacity,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/fill-rule,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/fill,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6
 web/css/reference/properties/filter,85fccefc8066bd49af4ddafc12c77f35265c7e2d
@@ -7617,6 +7619,8 @@ web/css/reference/properties/shape-margin,33094d735e90b4dcae5733331b79c51fee9974
 web/css/reference/properties/shape-outside,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/properties/shape-rendering,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/speak-as,bcbb4bd6a80292c0663b723d5466759cfaaa8315
+web/css/reference/properties/stop-color,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b
+web/css/reference/properties/stop-opacity,c9f3d85f24d7839c9fe36a68d8042d088d906147
 web/css/reference/properties/stroke-dasharray,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/stroke-dashoffset,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/stroke-linecap,bcbb4bd6a80292c0663b723d5466759cfaaa8315
@@ -7692,7 +7696,7 @@ web/css/reference/properties/white-space-collapse,bcbb4bd6a80292c0663b723d546675
 web/css/reference/properties/white-space,bcbb4bd6a80292c0663b723d5466759cfaaa8315
 web/css/reference/properties/widows,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/width,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/reference/properties/will-change,85fccefc8066bd49af4ddafc12c77f35265c7e2d
+web/css/reference/properties/will-change,d78544a841b0e266a6efc169c044573f5e0b4e7d
 web/css/reference/properties/word-break,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/properties/word-spacing,91e08923c809ca8deded3e3294f49bbe1a4a00b3
 web/css/reference/properties/writing-mode,e57e3fdd4ab6fb372ddc3d78e5b428f318202426
@@ -7896,7 +7900,7 @@ web/css/reference/values/box-edge,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/values/calc-keyword,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/calc-size,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/calc-sum,33094d735e90b4dcae5733331b79c51fee997410
-web/css/reference/values/calc,33094d735e90b4dcae5733331b79c51fee997410
+web/css/reference/values/calc,bf3b0f3217d5d5a6957e9e17f863ece19d939d20
 web/css/reference/values/clamp,33094d735e90b4dcae5733331b79c51fee997410
 web/css/reference/values/color-interpolation-method,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/color_value/alpha,c655f38c10ba17b853b0e66b43cf4cf2b176e424
@@ -7937,7 +7941,7 @@ web/css/reference/values/easing-function,c88e03530319b73272fd4f9a9f6ebe878f02600
 web/css/reference/values/easing-function/linear,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/easing-function/steps,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/element,b760560abe30bd69ca968dac38528102f423b5ea
-web/css/reference/values/env,b760560abe30bd69ca968dac38528102f423b5ea
+web/css/reference/values/env,977386fc14a76dec21374aef1e0571900b28dab4
 web/css/reference/values/exp,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/filter-function/blur,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/filter-function/brightness,b760560abe30bd69ca968dac38528102f423b5ea
@@ -7999,7 +8003,7 @@ web/css/reference/values/position-area_value,c88e03530319b73272fd4f9a9f6ebe878f0
 web/css/reference/values/position_value,8fd626a7b7f1fcb19193325bbac5b87e719f83ea
 web/css/reference/values/pow,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/progress,ee03b8deb5423c80e1cb8f6930a6f52e3f49e678
-web/css/reference/values/random,b760560abe30bd69ca968dac38528102f423b5ea
+web/css/reference/values/random,74b73e8310d2ecfecd3e4a2aa21e5b54f43d7387
 web/css/reference/values/ratio,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/reference/values/ray,b760560abe30bd69ca968dac38528102f423b5ea
 web/css/reference/values/relative-size,85fccefc8066bd49af4ddafc12c77f35265c7e2d
