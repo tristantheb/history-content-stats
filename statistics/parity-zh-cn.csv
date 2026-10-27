@@ -1301,7 +1301,7 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/max_number_of_enabled_st
 mozilla/add-ons/webextensions/api/declarativenetrequest/max_number_of_regex_rules,2
 mozilla/add-ons/webextensions/api/declarativenetrequest/max_number_of_session_rules,null
 mozilla/add-ons/webextensions/api/declarativenetrequest/max_number_of_static_rulesets,2
-mozilla/add-ons/webextensions/api/declarativenetrequest/modifyheaderinfo,3
+mozilla/add-ons/webextensions/api/declarativenetrequest/modifyheaderinfo,4
 mozilla/add-ons/webextensions/api/declarativenetrequest/onrulematcheddebug,3
 mozilla/add-ons/webextensions/api/declarativenetrequest/redirect,3
 mozilla/add-ons/webextensions/api/declarativenetrequest/resourcetype,7
@@ -12851,7 +12851,7 @@ web/javascript/reference/global_objects/intl/segmenter/segmenter,0
 web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,null
 web/javascript/reference/global_objects/isfinite,null
-web/javascript/reference/global_objects/isnan,7
+web/javascript/reference/global_objects/isnan,8
 web/javascript/reference/global_objects/iterator,26
 web/javascript/reference/global_objects/iterator/chunks,null
 web/javascript/reference/global_objects/iterator/concat,null

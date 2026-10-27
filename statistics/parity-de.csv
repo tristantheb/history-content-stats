@@ -1301,7 +1301,7 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/max_number_of_enabled_st
 mozilla/add-ons/webextensions/api/declarativenetrequest/max_number_of_regex_rules,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/max_number_of_session_rules,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/max_number_of_static_rulesets,0
-mozilla/add-ons/webextensions/api/declarativenetrequest/modifyheaderinfo,0
+mozilla/add-ons/webextensions/api/declarativenetrequest/modifyheaderinfo,1
 mozilla/add-ons/webextensions/api/declarativenetrequest/onrulematcheddebug,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/redirect,0
 mozilla/add-ons/webextensions/api/declarativenetrequest/resourcetype,0
@@ -2383,7 +2383,7 @@ web/api/attribution_reporting_api/registering_triggers,0
 web/api/audio_output_devices_api,0
 web/api/audio_session_api,0
 web/api/audiobuffer,0
-web/api/audiobuffer/audiobuffer,0
+web/api/audiobuffer/audiobuffer,1
 web/api/audiobuffer/copyfromchannel,0
 web/api/audiobuffer/copytochannel,0
 web/api/audiobuffer/duration,0
@@ -2392,7 +2392,7 @@ web/api/audiobuffer/length,0
 web/api/audiobuffer/numberofchannels,0
 web/api/audiobuffer/samplerate,0
 web/api/audiobuffersourcenode,0
-web/api/audiobuffersourcenode/audiobuffersourcenode,0
+web/api/audiobuffersourcenode/audiobuffersourcenode,1
 web/api/audiobuffersourcenode/buffer,0
 web/api/audiobuffersourcenode/detune,0
 web/api/audiobuffersourcenode/loop,0
@@ -2976,7 +2976,7 @@ web/api/console/trace_static,0
 web/api/console/warn_static,0
 web/api/console_api,0
 web/api/constantsourcenode,0
-web/api/constantsourcenode/constantsourcenode,0
+web/api/constantsourcenode/constantsourcenode,1
 web/api/constantsourcenode/offset,0
 web/api/contact_picker_api,0
 web/api/contactaddress,0
@@ -5927,7 +5927,7 @@ web/api/mediadevices/getusermedia,0
 web/api/mediadevices/selectaudiooutput,0
 web/api/mediaelementaudiosourcenode,0
 web/api/mediaelementaudiosourcenode/mediaelement,0
-web/api/mediaelementaudiosourcenode/mediaelementaudiosourcenode,0
+web/api/mediaelementaudiosourcenode/mediaelementaudiosourcenode,1
 web/api/mediaencryptedevent,0
 web/api/mediaencryptedevent/initdata,0
 web/api/mediaencryptedevent/initdatatype,0
@@ -6904,7 +6904,7 @@ web/api/periodicsyncmanager/gettags,0
 web/api/periodicsyncmanager/register,0
 web/api/periodicsyncmanager/unregister,0
 web/api/periodicwave,0
-web/api/periodicwave/periodicwave,0
+web/api/periodicwave/periodicwave,1
 web/api/permissions,0
 web/api/permissions/query,0
 web/api/permissions/revoke,0
@@ -9359,7 +9359,7 @@ web/api/web_animations_api/tips,0
 web/api/web_animations_api/using_the_web_animations_api,0
 web/api/web_animations_api/web_animations_api_concepts,0
 web/api/web_audio_api,0
-web/api/web_audio_api/advanced_techniques,0
+web/api/web_audio_api/advanced_techniques,1
 web/api/web_audio_api/basic_concepts_behind_web_audio_api,0
 web/api/web_audio_api/best_practices,0
 web/api/web_audio_api/controlling_multiple_parameters_with_constantsourcenode,0
@@ -10120,7 +10120,7 @@ web/api/xmlhttprequest_api/using_formdata_objects,0
 web/api/xmlhttprequest_api/using_xmlhttprequest,0
 web/api/xmlhttprequesteventtarget,0
 web/api/xmlhttprequesteventtarget/abort_event,0
-web/api/xmlhttprequesteventtarget/error_event,0
+web/api/xmlhttprequesteventtarget/error_event,1
 web/api/xmlhttprequesteventtarget/load_event,0
 web/api/xmlhttprequesteventtarget/loadend_event,0
 web/api/xmlhttprequesteventtarget/loadstart_event,0
@@ -12226,7 +12226,7 @@ web/http/reference/headers/user-agent/firefox,0
 web/http/reference/headers/vary,0
 web/http/reference/headers/via,0
 web/http/reference/headers/viewport-width,0
-web/http/reference/headers/want-content-digest,0
+web/http/reference/headers/want-content-digest,1
 web/http/reference/headers/want-repr-digest,0
 web/http/reference/headers/warning,0
 web/http/reference/headers/width,0
@@ -12850,8 +12850,8 @@ web/javascript/reference/global_objects/intl/segmenter/segment/segments/symbol.i
 web/javascript/reference/global_objects/intl/segmenter/segmenter,0
 web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,0
-web/javascript/reference/global_objects/isfinite,0
-web/javascript/reference/global_objects/isnan,0
+web/javascript/reference/global_objects/isfinite,1
+web/javascript/reference/global_objects/isnan,1
 web/javascript/reference/global_objects/iterator,0
 web/javascript/reference/global_objects/iterator/chunks,0
 web/javascript/reference/global_objects/iterator/concat,0

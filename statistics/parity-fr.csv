@@ -12226,7 +12226,7 @@ web/http/reference/headers/user-agent/firefox,0
 web/http/reference/headers/vary,0
 web/http/reference/headers/via,0
 web/http/reference/headers/viewport-width,0
-web/http/reference/headers/want-content-digest,0
+web/http/reference/headers/want-content-digest,1
 web/http/reference/headers/want-repr-digest,0
 web/http/reference/headers/warning,0
 web/http/reference/headers/width,0
@@ -12850,8 +12850,8 @@ web/javascript/reference/global_objects/intl/segmenter/segment/segments/symbol.i
 web/javascript/reference/global_objects/intl/segmenter/segmenter,0
 web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,0
-web/javascript/reference/global_objects/isfinite,0
-web/javascript/reference/global_objects/isnan,0
+web/javascript/reference/global_objects/isfinite,1
+web/javascript/reference/global_objects/isnan,1
 web/javascript/reference/global_objects/iterator,2
 web/javascript/reference/global_objects/iterator/chunks,1
 web/javascript/reference/global_objects/iterator/concat,1
