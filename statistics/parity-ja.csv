@@ -3042,7 +3042,7 @@ web/api/credential/type,2
 web/api/credential_management_api,1
 web/api/credential_management_api/credential_types,1
 web/api/credentialscontainer,0
-web/api/credentialscontainer/create,3
+web/api/credentialscontainer/create,4
 web/api/credentialscontainer/get,7
 web/api/credentialscontainer/preventsilentaccess,0
 web/api/credentialscontainer/store,0
@@ -7042,10 +7042,10 @@ web/api/prompt_api/preserving_sessions,null
 web/api/prompt_api/using,null
 web/api/publickeycredential,1
 web/api/publickeycredential/authenticatorattachment,0
-web/api/publickeycredential/getclientcapabilities_static,0
+web/api/publickeycredential/getclientcapabilities_static,1
 web/api/publickeycredential/getclientextensionresults,0
 web/api/publickeycredential/id,0
-web/api/publickeycredential/isconditionalmediationavailable_static,0
+web/api/publickeycredential/isconditionalmediationavailable_static,1
 web/api/publickeycredential/isuserverifyingplatformauthenticatoravailable_static,0
 web/api/publickeycredential/parsecreationoptionsfromjson_static,0
 web/api/publickeycredential/parserequestoptionsfromjson_static,0
@@ -9369,7 +9369,7 @@ web/api/web_audio_api/using_iir_filters,null
 web/api/web_audio_api/using_web_audio_api,2
 web/api/web_audio_api/visualizations_with_web_audio_api,0
 web/api/web_audio_api/web_audio_spatialization_basics,12
-web/api/web_authentication_api,3
+web/api/web_authentication_api,4
 web/api/web_authentication_api/attestation_and_assertion,0
 web/api/web_authentication_api/authenticator_data,2
 web/api/web_authentication_api/webauthn_extensions,1

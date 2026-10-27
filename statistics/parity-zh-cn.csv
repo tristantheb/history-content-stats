@@ -10956,7 +10956,7 @@ web/css/reference/properties/flex-direction,null
 web/css/reference/properties/flex-flow,null
 web/css/reference/properties/flex-grow,null
 web/css/reference/properties/flex-line-count,null
-web/css/reference/properties/flex-shrink,null
+web/css/reference/properties/flex-shrink,0
 web/css/reference/properties/flex-wrap,null
 web/css/reference/properties/float,null
 web/css/reference/properties/flood-color,null
