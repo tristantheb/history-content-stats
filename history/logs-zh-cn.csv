@@ -5400,7 +5400,7 @@ web/css/reference/properties/flex-basis,no_hash_commit
 web/css/reference/properties/flex-direction,no_hash_commit
 web/css/reference/properties/flex-flow,no_hash_commit
 web/css/reference/properties/flex-grow,no_hash_commit
-web/css/reference/properties/flex-shrink,no_hash_commit
+web/css/reference/properties/flex-shrink,efbef0da1dbe29be125eb7db0b831a4e4bd9220d
 web/css/reference/properties/flex-wrap,no_hash_commit
 web/css/reference/properties/flex,no_hash_commit
 web/css/reference/properties/float,no_hash_commit
