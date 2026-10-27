@@ -2383,7 +2383,7 @@ web/api/attribution_reporting_api/registering_triggers,6
 web/api/audio_output_devices_api,7
 web/api/audio_session_api,2
 web/api/audiobuffer,2
-web/api/audiobuffer/audiobuffer,2
+web/api/audiobuffer/audiobuffer,3
 web/api/audiobuffer/copyfromchannel,2
 web/api/audiobuffer/copytochannel,0
 web/api/audiobuffer/duration,0
@@ -2392,7 +2392,7 @@ web/api/audiobuffer/length,0
 web/api/audiobuffer/numberofchannels,0
 web/api/audiobuffer/samplerate,0
 web/api/audiobuffersourcenode,5
-web/api/audiobuffersourcenode/audiobuffersourcenode,1
+web/api/audiobuffersourcenode/audiobuffersourcenode,2
 web/api/audiobuffersourcenode/buffer,3
 web/api/audiobuffersourcenode/detune,1
 web/api/audiobuffersourcenode/loop,2
@@ -2976,7 +2976,7 @@ web/api/console/trace_static,0
 web/api/console/warn_static,0
 web/api/console_api,1
 web/api/constantsourcenode,3
-web/api/constantsourcenode/constantsourcenode,3
+web/api/constantsourcenode/constantsourcenode,4
 web/api/constantsourcenode/offset,2
 web/api/contact_picker_api,7
 web/api/contactaddress,7
@@ -5927,7 +5927,7 @@ web/api/mediadevices/getusermedia,6
 web/api/mediadevices/selectaudiooutput,4
 web/api/mediaelementaudiosourcenode,1
 web/api/mediaelementaudiosourcenode/mediaelement,1
-web/api/mediaelementaudiosourcenode/mediaelementaudiosourcenode,0
+web/api/mediaelementaudiosourcenode/mediaelementaudiosourcenode,1
 web/api/mediaencryptedevent,null
 web/api/mediaencryptedevent/initdata,null
 web/api/mediaencryptedevent/initdatatype,null
@@ -6904,7 +6904,7 @@ web/api/periodicsyncmanager/gettags,4
 web/api/periodicsyncmanager/register,8
 web/api/periodicsyncmanager/unregister,6
 web/api/periodicwave,0
-web/api/periodicwave/periodicwave,2
+web/api/periodicwave/periodicwave,3
 web/api/permissions,7
 web/api/permissions/query,12
 web/api/permissions/revoke,11
@@ -9359,7 +9359,7 @@ web/api/web_animations_api/tips,1
 web/api/web_animations_api/using_the_web_animations_api,0
 web/api/web_animations_api/web_animations_api_concepts,1
 web/api/web_audio_api,1
-web/api/web_audio_api/advanced_techniques,7
+web/api/web_audio_api/advanced_techniques,8
 web/api/web_audio_api/basic_concepts_behind_web_audio_api,2
 web/api/web_audio_api/best_practices,null
 web/api/web_audio_api/controlling_multiple_parameters_with_constantsourcenode,null
@@ -10120,7 +10120,7 @@ web/api/xmlhttprequest_api/using_formdata_objects,0
 web/api/xmlhttprequest_api/using_xmlhttprequest,1
 web/api/xmlhttprequesteventtarget,0
 web/api/xmlhttprequesteventtarget/abort_event,2
-web/api/xmlhttprequesteventtarget/error_event,2
+web/api/xmlhttprequesteventtarget/error_event,3
 web/api/xmlhttprequesteventtarget/load_event,2
 web/api/xmlhttprequesteventtarget/loadend_event,2
 web/api/xmlhttprequesteventtarget/loadstart_event,2
@@ -12850,8 +12850,8 @@ web/javascript/reference/global_objects/intl/segmenter/segment/segments/symbol.i
 web/javascript/reference/global_objects/intl/segmenter/segmenter,0
 web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,6
-web/javascript/reference/global_objects/isfinite,0
-web/javascript/reference/global_objects/isnan,1
+web/javascript/reference/global_objects/isfinite,1
+web/javascript/reference/global_objects/isnan,2
 web/javascript/reference/global_objects/iterator,3
 web/javascript/reference/global_objects/iterator/chunks,1
 web/javascript/reference/global_objects/iterator/concat,1
