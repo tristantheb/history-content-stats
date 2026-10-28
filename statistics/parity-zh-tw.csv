@@ -12202,7 +12202,7 @@ web/http/reference/headers/sec-websocket-extensions,null
 web/http/reference/headers/sec-websocket-key,null
 web/http/reference/headers/sec-websocket-protocol,null
 web/http/reference/headers/sec-websocket-version,null
-web/http/reference/headers/server,3
+web/http/reference/headers/server,4
 web/http/reference/headers/server-timing,null
 web/http/reference/headers/service-worker,null
 web/http/reference/headers/service-worker-allowed,null
@@ -12316,6 +12316,7 @@ web/http/reference/status/510,1
 web/http/reference/status/511,1
 web/javascript,null
 web/javascript/guide,null
+web/javascript/guide/agent_communication_and_coordination,null
 web/javascript/guide/closures,null
 web/javascript/guide/control_flow_and_error_handling,null
 web/javascript/guide/data_structures,null
