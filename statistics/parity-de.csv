@@ -1124,7 +1124,7 @@ mozilla,0
 mozilla/add-ons,0
 mozilla/add-ons/contact_us,0
 mozilla/add-ons/webextensions,0
-mozilla/add-ons/webextensions/activetab_permission,0
+mozilla/add-ons/webextensions/activetab_permission,1
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,0
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,0
 mozilla/add-ons/webextensions/api,0
