@@ -413,7 +413,7 @@ glossary/mixin,1
 glossary/mobile_first,2
 glossary/modem,1
 glossary/modularity,1
-glossary/mozilla_firefox,8
+glossary/mozilla_firefox,9
 glossary/multi-factor_authentication,null
 glossary/mutable,3
 glossary/mvc,3
@@ -4447,7 +4447,7 @@ web/api/geolocation,null
 web/api/geolocation/clearwatch,null
 web/api/geolocation/getcurrentposition,null
 web/api/geolocation/watchposition,null
-web/api/geolocation_api,10
+web/api/geolocation_api,11
 web/api/geolocation_api/using_the_geolocation_api,6
 web/api/geolocationcoordinates,9
 web/api/geolocationcoordinates/accuracy,1
@@ -12314,8 +12314,9 @@ web/http/reference/status/507,null
 web/http/reference/status/508,null
 web/http/reference/status/510,null
 web/http/reference/status/511,null
-web/javascript,16
+web/javascript,17
 web/javascript/guide,null
+web/javascript/guide/agent_communication_and_coordination,null
 web/javascript/guide/closures,10
 web/javascript/guide/control_flow_and_error_handling,null
 web/javascript/guide/data_structures,3
@@ -12489,7 +12490,7 @@ web/javascript/reference/errors/unexpected_token,null
 web/javascript/reference/errors/unexpected_type,null
 web/javascript/reference/errors/unnamed_function_statement,null
 web/javascript/reference/errors/unparenthesized_unary_expr_lhs_exponentiation,null
-web/javascript/reference/execution_model,7
+web/javascript/reference/execution_model,8
 web/javascript/reference/functions,7
 web/javascript/reference/functions/arguments,null
 web/javascript/reference/functions/arguments/callee,null
@@ -12587,7 +12588,7 @@ web/javascript/reference/global_objects/asyncgeneratorfunction/prototype,null
 web/javascript/reference/global_objects/asynciterator,null
 web/javascript/reference/global_objects/asynciterator/symbol.asyncdispose,null
 web/javascript/reference/global_objects/asynciterator/symbol.asynciterator,null
-web/javascript/reference/global_objects/atomics,12
+web/javascript/reference/global_objects/atomics,13
 web/javascript/reference/global_objects/atomics/add,6
 web/javascript/reference/global_objects/atomics/and,7
 web/javascript/reference/global_objects/atomics/compareexchange,8

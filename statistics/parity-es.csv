@@ -53,7 +53,7 @@ games/tutorials/2d_breakout_game_pure_javascript,0
 games/tutorials/2d_breakout_game_pure_javascript/animations_and_tweens,0
 games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,0
 games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,0
-games/tutorials/2d_breakout_game_pure_javascript/buttons,0
+games/tutorials/2d_breakout_game_pure_javascript/buttons,1
 games/tutorials/2d_breakout_game_pure_javascript/extra_lives,0
 games/tutorials/2d_breakout_game_pure_javascript/game_over,0
 games/tutorials/2d_breakout_game_pure_javascript/initialize_the_canvas,0
@@ -11737,7 +11737,7 @@ web/html/reference/attributes/required,null
 web/html/reference/attributes/size,null
 web/html/reference/attributes/step,null
 web/html/reference/elements,1
-web/html/reference/elements/a,2
+web/html/reference/elements/a,3
 web/html/reference/elements/abbr,null
 web/html/reference/elements/acronym,null
 web/html/reference/elements/address,null
@@ -12314,8 +12314,9 @@ web/http/reference/status/507,null
 web/http/reference/status/508,null
 web/http/reference/status/510,null
 web/http/reference/status/511,null
-web/javascript,1
+web/javascript,2
 web/javascript/guide,null
+web/javascript/guide/agent_communication_and_coordination,null
 web/javascript/guide/closures,10
 web/javascript/guide/control_flow_and_error_handling,null
 web/javascript/guide/data_structures,null

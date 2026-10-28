@@ -413,7 +413,7 @@ glossary/mixin,4
 glossary/mobile_first,0
 glossary/modem,0
 glossary/modularity,0
-glossary/mozilla_firefox,0
+glossary/mozilla_firefox,1
 glossary/multi-factor_authentication,0
 glossary/mutable,0
 glossary/mvc,1
@@ -746,7 +746,7 @@ learn_web_development/core/frameworks_libraries/react_todo_list_beginning,0
 learn_web_development/core/scripting,1
 learn_web_development/core/scripting/a_first_splash,0
 learn_web_development/core/scripting/arrays,1
-learn_web_development/core/scripting/build_your_own_function,2
+learn_web_development/core/scripting/build_your_own_function,3
 learn_web_development/core/scripting/conditionals,2
 learn_web_development/core/scripting/debugging_javascript,1
 learn_web_development/core/scripting/dom_scripting,0
@@ -867,7 +867,7 @@ learn_web_development/extensions/client-side_apis,3
 learn_web_development/extensions/client-side_apis/client-side_storage,1
 learn_web_development/extensions/client-side_apis/drawing_graphics,6
 learn_web_development/extensions/client-side_apis/introduction,1
-learn_web_development/extensions/client-side_apis/third_party_apis,3
+learn_web_development/extensions/client-side_apis/third_party_apis,4
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,3
 learn_web_development/extensions/client-side_tools,1
 learn_web_development/extensions/client-side_tools/deployment,3
@@ -2031,7 +2031,7 @@ mozilla/firefox/releases/43,null
 mozilla/firefox/releases/44,11
 mozilla/firefox/releases/45,null
 mozilla/firefox/releases/46,2
-mozilla/firefox/releases/47,0
+mozilla/firefox/releases/47,1
 mozilla/firefox/releases/48,1
 mozilla/firefox/releases/49,0
 mozilla/firefox/releases/5,0
@@ -2068,7 +2068,7 @@ mozilla/firefox/releases/74,null
 mozilla/firefox/releases/75,null
 mozilla/firefox/releases/76,null
 mozilla/firefox/releases/77,null
-mozilla/firefox/releases/78,8
+mozilla/firefox/releases/78,9
 mozilla/firefox/releases/79,null
 mozilla/firefox/releases/8,1
 mozilla/firefox/releases/8/updating_add-ons,null
@@ -4447,7 +4447,7 @@ web/api/geolocation,0
 web/api/geolocation/clearwatch,0
 web/api/geolocation/getcurrentposition,1
 web/api/geolocation/watchposition,0
-web/api/geolocation_api,2
+web/api/geolocation_api,3
 web/api/geolocation_api/using_the_geolocation_api,0
 web/api/geolocationcoordinates,1
 web/api/geolocationcoordinates/accuracy,0
@@ -9932,7 +9932,7 @@ web/api/window/self,2
 web/api/window/sessionstorage,1
 web/api/window/setimmediate,3
 web/api/window/setinterval,1
-web/api/window/setresizable,2
+web/api/window/setresizable,3
 web/api/window/settimeout,1
 web/api/window/sharedstorage,null
 web/api/window/showdirectorypicker,11
@@ -11241,7 +11241,7 @@ web/css/reference/properties/table-layout,2
 web/css/reference/properties/text-align,2
 web/css/reference/properties/text-align-last,2
 web/css/reference/properties/text-anchor,1
-web/css/reference/properties/text-autospace,1
+web/css/reference/properties/text-autospace,2
 web/css/reference/properties/text-box,2
 web/css/reference/properties/text-box-edge,2
 web/css/reference/properties/text-box-trim,3
@@ -11728,7 +11728,7 @@ web/html/reference/attributes/rel/manifest,0
 web/html/reference/attributes/rel/me,0
 web/html/reference/attributes/rel/modulepreload,0
 web/html/reference/attributes/rel/noopener,0
-web/html/reference/attributes/rel/noreferrer,0
+web/html/reference/attributes/rel/noreferrer,1
 web/html/reference/attributes/rel/preconnect,0
 web/html/reference/attributes/rel/prefetch,0
 web/html/reference/attributes/rel/preload,0
@@ -11737,7 +11737,7 @@ web/html/reference/attributes/required,1
 web/html/reference/attributes/size,0
 web/html/reference/attributes/step,0
 web/html/reference/elements,0
-web/html/reference/elements/a,2
+web/html/reference/elements/a,3
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,0
 web/html/reference/elements/address,2
@@ -12202,7 +12202,7 @@ web/http/reference/headers/sec-websocket-extensions,null
 web/http/reference/headers/sec-websocket-key,null
 web/http/reference/headers/sec-websocket-protocol,0
 web/http/reference/headers/sec-websocket-version,null
-web/http/reference/headers/server,1
+web/http/reference/headers/server,2
 web/http/reference/headers/server-timing,1
 web/http/reference/headers/service-worker,null
 web/http/reference/headers/service-worker-allowed,null
@@ -12236,7 +12236,7 @@ web/http/reference/headers/x-dns-prefetch-control,0
 web/http/reference/headers/x-forwarded-for,0
 web/http/reference/headers/x-forwarded-host,0
 web/http/reference/headers/x-forwarded-proto,0
-web/http/reference/headers/x-frame-options,0
+web/http/reference/headers/x-frame-options,1
 web/http/reference/headers/x-permitted-cross-domain-policies,null
 web/http/reference/headers/x-powered-by,0
 web/http/reference/headers/x-robots-tag,1
@@ -12314,8 +12314,9 @@ web/http/reference/status/507,0
 web/http/reference/status/508,0
 web/http/reference/status/510,0
 web/http/reference/status/511,0
-web/javascript,0
-web/javascript/guide,0
+web/javascript,1
+web/javascript/guide,1
+web/javascript/guide/agent_communication_and_coordination,null
 web/javascript/guide/closures,0
 web/javascript/guide/control_flow_and_error_handling,0
 web/javascript/guide/data_structures,0
@@ -12489,7 +12490,7 @@ web/javascript/reference/errors/unexpected_token,1
 web/javascript/reference/errors/unexpected_type,0
 web/javascript/reference/errors/unnamed_function_statement,1
 web/javascript/reference/errors/unparenthesized_unary_expr_lhs_exponentiation,null
-web/javascript/reference/execution_model,0
+web/javascript/reference/execution_model,1
 web/javascript/reference/functions,1
 web/javascript/reference/functions/arguments,0
 web/javascript/reference/functions/arguments/callee,1
@@ -12587,7 +12588,7 @@ web/javascript/reference/global_objects/asyncgeneratorfunction/prototype,0
 web/javascript/reference/global_objects/asynciterator,0
 web/javascript/reference/global_objects/asynciterator/symbol.asyncdispose,1
 web/javascript/reference/global_objects/asynciterator/symbol.asynciterator,0
-web/javascript/reference/global_objects/atomics,1
+web/javascript/reference/global_objects/atomics,2
 web/javascript/reference/global_objects/atomics/add,1
 web/javascript/reference/global_objects/atomics/and,1
 web/javascript/reference/global_objects/atomics/compareexchange,1
@@ -12596,7 +12597,7 @@ web/javascript/reference/global_objects/atomics/islockfree,1
 web/javascript/reference/global_objects/atomics/load,1
 web/javascript/reference/global_objects/atomics/notify,1
 web/javascript/reference/global_objects/atomics/or,2
-web/javascript/reference/global_objects/atomics/pause,2
+web/javascript/reference/global_objects/atomics/pause,3
 web/javascript/reference/global_objects/atomics/store,1
 web/javascript/reference/global_objects/atomics/sub,1
 web/javascript/reference/global_objects/atomics/wait,2
@@ -13105,7 +13106,7 @@ web/javascript/reference/global_objects/set/symbol.species,0
 web/javascript/reference/global_objects/set/symmetricdifference,2
 web/javascript/reference/global_objects/set/union,3
 web/javascript/reference/global_objects/set/values,1
-web/javascript/reference/global_objects/sharedarraybuffer,0
+web/javascript/reference/global_objects/sharedarraybuffer,1
 web/javascript/reference/global_objects/sharedarraybuffer/bytelength,0
 web/javascript/reference/global_objects/sharedarraybuffer/grow,0
 web/javascript/reference/global_objects/sharedarraybuffer/growable,0
@@ -13749,7 +13750,7 @@ web/performance/guides/critical_rendering_path,0
 web/performance/guides/css_javascript_animation_performance,1
 web/performance/guides/dns-prefetch,1
 web/performance/guides/fundamentals,3
-web/performance/guides/how_browsers_work,4
+web/performance/guides/how_browsers_work,5
 web/performance/guides/how_long_is_too_long,0
 web/performance/guides/lazy_loading,0
 web/performance/guides/navigation_and_resource_timings,1

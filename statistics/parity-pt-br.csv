@@ -12316,6 +12316,7 @@ web/http/reference/status/510,null
 web/http/reference/status/511,null
 web/javascript,null
 web/javascript/guide,null
+web/javascript/guide/agent_communication_and_coordination,null
 web/javascript/guide/closures,null
 web/javascript/guide/control_flow_and_error_handling,null
 web/javascript/guide/data_structures,null

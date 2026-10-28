@@ -413,7 +413,7 @@ glossary/mixin,1
 glossary/mobile_first,2
 glossary/modem,1
 glossary/modularity,1
-glossary/mozilla_firefox,8
+glossary/mozilla_firefox,9
 glossary/multi-factor_authentication,0
 glossary/mutable,3
 glossary/mvc,2
@@ -867,7 +867,7 @@ learn_web_development/extensions/client-side_apis,7
 learn_web_development/extensions/client-side_apis/client-side_storage,6
 learn_web_development/extensions/client-side_apis/drawing_graphics,20
 learn_web_development/extensions/client-side_apis/introduction,7
-learn_web_development/extensions/client-side_apis/third_party_apis,11
+learn_web_development/extensions/client-side_apis/third_party_apis,12
 learn_web_development/extensions/client-side_apis/video_and_audio_apis,19
 learn_web_development/extensions/client-side_tools,3
 learn_web_development/extensions/client-side_tools/deployment,2
@@ -2068,7 +2068,7 @@ mozilla/firefox/releases/74,null
 mozilla/firefox/releases/75,null
 mozilla/firefox/releases/76,null
 mozilla/firefox/releases/77,null
-mozilla/firefox/releases/78,8
+mozilla/firefox/releases/78,9
 mozilla/firefox/releases/79,null
 mozilla/firefox/releases/8,null
 mozilla/firefox/releases/8/updating_add-ons,null
@@ -9932,7 +9932,7 @@ web/api/window/self,null
 web/api/window/sessionstorage,null
 web/api/window/setimmediate,null
 web/api/window/setinterval,9
-web/api/window/setresizable,2
+web/api/window/setresizable,3
 web/api/window/settimeout,13
 web/api/window/sharedstorage,null
 web/api/window/showdirectorypicker,3
@@ -11241,7 +11241,7 @@ web/css/reference/properties/table-layout,null
 web/css/reference/properties/text-align,3
 web/css/reference/properties/text-align-last,null
 web/css/reference/properties/text-anchor,null
-web/css/reference/properties/text-autospace,3
+web/css/reference/properties/text-autospace,4
 web/css/reference/properties/text-box,null
 web/css/reference/properties/text-box-edge,null
 web/css/reference/properties/text-box-trim,null
@@ -11728,7 +11728,7 @@ web/html/reference/attributes/rel/manifest,1
 web/html/reference/attributes/rel/me,1
 web/html/reference/attributes/rel/modulepreload,null
 web/html/reference/attributes/rel/noopener,0
-web/html/reference/attributes/rel/noreferrer,0
+web/html/reference/attributes/rel/noreferrer,1
 web/html/reference/attributes/rel/preconnect,5
 web/html/reference/attributes/rel/prefetch,0
 web/html/reference/attributes/rel/preload,0
@@ -11737,7 +11737,7 @@ web/html/reference/attributes/required,5
 web/html/reference/attributes/size,3
 web/html/reference/attributes/step,4
 web/html/reference/elements,3
-web/html/reference/elements/a,4
+web/html/reference/elements/a,5
 web/html/reference/elements/abbr,0
 web/html/reference/elements/acronym,4
 web/html/reference/elements/address,5
@@ -12202,7 +12202,7 @@ web/http/reference/headers/sec-websocket-extensions,null
 web/http/reference/headers/sec-websocket-key,null
 web/http/reference/headers/sec-websocket-protocol,null
 web/http/reference/headers/sec-websocket-version,null
-web/http/reference/headers/server,4
+web/http/reference/headers/server,5
 web/http/reference/headers/server-timing,null
 web/http/reference/headers/service-worker,null
 web/http/reference/headers/service-worker-allowed,null
@@ -12314,8 +12314,9 @@ web/http/reference/status/507,3
 web/http/reference/status/508,3
 web/http/reference/status/510,3
 web/http/reference/status/511,4
-web/javascript,9
+web/javascript,10
 web/javascript/guide,null
+web/javascript/guide/agent_communication_and_coordination,null
 web/javascript/guide/closures,10
 web/javascript/guide/control_flow_and_error_handling,7
 web/javascript/guide/data_structures,3
@@ -12489,7 +12490,7 @@ web/javascript/reference/errors/unexpected_token,null
 web/javascript/reference/errors/unexpected_type,null
 web/javascript/reference/errors/unnamed_function_statement,null
 web/javascript/reference/errors/unparenthesized_unary_expr_lhs_exponentiation,null
-web/javascript/reference/execution_model,3
+web/javascript/reference/execution_model,4
 web/javascript/reference/functions,null
 web/javascript/reference/functions/arguments,0
 web/javascript/reference/functions/arguments/callee,null
@@ -12587,7 +12588,7 @@ web/javascript/reference/global_objects/asyncgeneratorfunction/prototype,null
 web/javascript/reference/global_objects/asynciterator,7
 web/javascript/reference/global_objects/asynciterator/symbol.asyncdispose,null
 web/javascript/reference/global_objects/asynciterator/symbol.asynciterator,3
-web/javascript/reference/global_objects/atomics,7
+web/javascript/reference/global_objects/atomics,8
 web/javascript/reference/global_objects/atomics/add,4
 web/javascript/reference/global_objects/atomics/and,4
 web/javascript/reference/global_objects/atomics/compareexchange,6
@@ -13105,7 +13106,7 @@ web/javascript/reference/global_objects/set/symbol.species,null
 web/javascript/reference/global_objects/set/symmetricdifference,null
 web/javascript/reference/global_objects/set/union,10
 web/javascript/reference/global_objects/set/values,null
-web/javascript/reference/global_objects/sharedarraybuffer,10
+web/javascript/reference/global_objects/sharedarraybuffer,11
 web/javascript/reference/global_objects/sharedarraybuffer/bytelength,5
 web/javascript/reference/global_objects/sharedarraybuffer/grow,3
 web/javascript/reference/global_objects/sharedarraybuffer/growable,3
@@ -13749,7 +13750,7 @@ web/performance/guides/critical_rendering_path,1
 web/performance/guides/css_javascript_animation_performance,null
 web/performance/guides/dns-prefetch,null
 web/performance/guides/fundamentals,null
-web/performance/guides/how_browsers_work,9
+web/performance/guides/how_browsers_work,10
 web/performance/guides/how_long_is_too_long,1
 web/performance/guides/lazy_loading,null
 web/performance/guides/navigation_and_resource_timings,null
