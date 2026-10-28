@@ -11951,7 +11951,7 @@ web/http/guides/connection_management_in_http_1.x,null
 web/http/guides/content_negotiation,null
 web/http/guides/content_negotiation/list_of_default_accept_values,null
 web/http/guides/cookies,null
-web/http/guides/cors,13
+web/http/guides/cors,14
 web/http/guides/cors/errors,7
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,null
 web/http/guides/cors/errors/corsdidnotsucceed,null
