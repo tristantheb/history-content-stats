@@ -5110,11 +5110,11 @@ web/api/htmlinputelement/select,null
 web/api/htmlinputelement/select_event,null
 web/api/htmlinputelement/selectionchange_event,null
 web/api/htmlinputelement/selectiondirection,null
-web/api/htmlinputelement/selectionend,4
+web/api/htmlinputelement/selectionend,5
 web/api/htmlinputelement/selectionstart,null
 web/api/htmlinputelement/setcustomvalidity,null
 web/api/htmlinputelement/setrangetext,null
-web/api/htmlinputelement/setselectionrange,7
+web/api/htmlinputelement/setselectionrange,8
 web/api/htmlinputelement/showpicker,null
 web/api/htmlinputelement/size,null
 web/api/htmlinputelement/src,null
@@ -7791,7 +7791,7 @@ web/api/securitypolicyviolationevent/securitypolicyviolationevent,null
 web/api/securitypolicyviolationevent/sourcefile,null
 web/api/securitypolicyviolationevent/statuscode,null
 web/api/securitypolicyviolationevent/violateddirective,null
-web/api/selection,0
+web/api/selection,1
 web/api/selection/addrange,null
 web/api/selection/anchornode,null
 web/api/selection/anchoroffset,null
