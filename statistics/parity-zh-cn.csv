@@ -5114,7 +5114,7 @@ web/api/htmlinputelement/selectionend,null
 web/api/htmlinputelement/selectionstart,null
 web/api/htmlinputelement/setcustomvalidity,null
 web/api/htmlinputelement/setrangetext,null
-web/api/htmlinputelement/setselectionrange,5
+web/api/htmlinputelement/setselectionrange,6
 web/api/htmlinputelement/showpicker,null
 web/api/htmlinputelement/size,null
 web/api/htmlinputelement/src,null
@@ -11685,7 +11685,7 @@ web/html/guides,1
 web/html/guides/cheatsheet,2
 web/html/guides/comments,2
 web/html/guides/constraint_validation,null
-web/html/guides/content_categories,6
+web/html/guides/content_categories,7
 web/html/guides/date_and_time_formats,null
 web/html/guides/microdata,null
 web/html/guides/microformats,4
@@ -11876,7 +11876,7 @@ web/html/reference/elements/source,7
 web/html/reference/elements/span,5
 web/html/reference/elements/strike,4
 web/html/reference/elements/strong,null
-web/html/reference/elements/style,17
+web/html/reference/elements/style,18
 web/html/reference/elements/sub,4
 web/html/reference/elements/summary,null
 web/html/reference/elements/sup,3
