@@ -11704,7 +11704,7 @@ web/html/reference/attributes/accept,46afd57950146568819d0bf98175a2ffdbe079d7,HT
 web/html/reference/attributes/autocomplete,87adaa5384b1015690f3435ce0ba64ac097764eb,HTML|Attributes
 web/html/reference/attributes/capture,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/content,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
-web/html/reference/attributes/crossorigin,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
+web/html/reference/attributes/crossorigin,210eb1d964922bbae94774dc6676ce92056e0423,HTML|Attributes
 web/html/reference/attributes/dirname,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/disabled,c9f3d85f24d7839c9fe36a68d8042d088d906147,HTML|Attributes
 web/html/reference/attributes/elementtiming,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
@@ -11951,7 +11951,7 @@ web/http/guides/connection_management_in_http_1.x,f0311fa176576faf8be270e23eaf25
 web/http/guides/content_negotiation,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Guides
 web/http/guides/content_negotiation/list_of_default_accept_values,7b642841e72ef94e8723f26892000383513b550d,HTTP|Guides
 web/http/guides/cookies,13ef67a4ffbdb929415dfa1b3d65ab1aa9ebe5da,HTTP|Guides
-web/http/guides/cors,f4c14731a1a157fc8d8f7357ac4d74d14a7d7fb5,HTTP|Guides
+web/http/guides/cors,210eb1d964922bbae94774dc6676ce92056e0423,HTTP|Guides
 web/http/guides/cors/errors,a8b5a77bb154e0c3a124fb4af441d11e4259836e,HTTP|Guides
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
 web/http/guides/cors/errors/corsdidnotsucceed,f0080356e5e8c38fda6ad867945371f75861969b,HTTP|Guides
