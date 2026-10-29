@@ -2638,7 +2638,7 @@ web/api/element/gotpointercapture_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/hasattribute,990ab6637bb4d44f059597262cbf3c51abae79eb
 web/api/element/hasattributens,990ab6637bb4d44f059597262cbf3c51abae79eb
 web/api/element/hasattributes,990ab6637bb4d44f059597262cbf3c51abae79eb
-web/api/element/id,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
+web/api/element/id,88c33ab5f4ccd88d13a0a5272de45d4d33f9f636
 web/api/element,d105060fc9f3269c6559e55c4fcd5cea27f065fa
 web/api/element/innerhtml,no_hash_commit
 web/api/element/input_event,no_hash_commit
@@ -7462,7 +7462,7 @@ web/svg/reference/element/animatemotion,603d83f1e1cdfd634e2f0b7b939466c7660822d3
 web/svg/reference/element/animatetransform,12222b32eec33a7411c6de8afc8408d9aa617dd2
 web/svg/reference/element/circle,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/clippath,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/svg/reference/element/defs,no_hash_commit
+web/svg/reference/element/defs,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/desc,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/ellipse,ac806e34aba086be141689c64dc4dd73636fbd62
 web/svg/reference/element/feblend,3a1ef2abc8233835f0b0cc73afaf36e44edaf4a1
