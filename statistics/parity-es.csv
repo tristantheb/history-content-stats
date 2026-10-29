@@ -14246,6 +14246,8 @@ web/webdriver/reference/bidi/modules/browsingcontext/navigationstarted,null
 web/webdriver/reference/bidi/modules/browsingcontext/print,null
 web/webdriver/reference/bidi/modules/browsingcontext/reload,null
 web/webdriver/reference/bidi/modules/browsingcontext/setviewport,null
+web/webdriver/reference/bidi/modules/browsingcontext/startscreencast,null
+web/webdriver/reference/bidi/modules/browsingcontext/stopscreencast,null
 web/webdriver/reference/bidi/modules/browsingcontext/traversehistory,null
 web/webdriver/reference/bidi/modules/browsingcontext/userpromptclosed,null
 web/webdriver/reference/bidi/modules/browsingcontext/userpromptopened,null
