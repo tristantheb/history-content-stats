@@ -3947,7 +3947,7 @@ web/api/element/hasattribute,0
 web/api/element/hasattributens,1
 web/api/element/hasattributes,0
 web/api/element/haspointercapture,null
-web/api/element/id,5
+web/api/element/id,0
 web/api/element/innerhtml,null
 web/api/element/input_event,null
 web/api/element/insertadjacentelement,4
@@ -14117,7 +14117,7 @@ web/svg/reference/element/animatemotion,0
 web/svg/reference/element/animatetransform,0
 web/svg/reference/element/circle,0
 web/svg/reference/element/clippath,0
-web/svg/reference/element/defs,null
+web/svg/reference/element/defs,0
 web/svg/reference/element/desc,0
 web/svg/reference/element/ellipse,0
 web/svg/reference/element/feblend,4
