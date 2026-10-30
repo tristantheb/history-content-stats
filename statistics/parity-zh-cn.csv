@@ -3997,7 +3997,7 @@ web/api/element/removeattributenode,1
 web/api/element/removeattributens,1
 web/api/element/replacechildren,null
 web/api/element/replacewith,null
-web/api/element/requestfullscreen,12
+web/api/element/requestfullscreen,13
 web/api/element/requestpointerlock,2
 web/api/element/role,0
 web/api/element/scroll,0
@@ -4401,8 +4401,8 @@ web/api/formdataevent,2
 web/api/formdataevent/formdata,1
 web/api/formdataevent/formdataevent,0
 web/api/fragmentdirective,6
-web/api/fullscreen_api,6
-web/api/fullscreen_api/guide,3
+web/api/fullscreen_api,7
+web/api/fullscreen_api/guide,4
 web/api/gainnode,null
 web/api/gainnode/gain,0
 web/api/gainnode/gainnode,null
