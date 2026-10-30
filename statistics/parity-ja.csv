@@ -1897,7 +1897,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,10
 mozilla/firefox,0
-mozilla/firefox/experimental_features,20
+mozilla/firefox/experimental_features,1
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -13738,7 +13738,7 @@ web/media/guides/formats/configuring_servers_for_ogg_media,null
 web/media/guides/formats/containers,9
 web/media/guides/formats/image_types,5
 web/media/guides/formats/support_issues,null
-web/media/guides/formats/video_codecs,13
+web/media/guides/formats/video_codecs,0
 web/media/guides/formats/video_concepts,null
 web/media/guides/formats/webrtc_codecs,null
 web/media/guides/images,null
