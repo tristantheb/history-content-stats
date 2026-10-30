@@ -3997,7 +3997,7 @@ web/api/element/removeattributenode,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web
 web/api/element/removeattributens,20c51db7895b1b6f41d4fa90e71830f4b6678eea,Web APIs
 web/api/element/replacechildren,bd15d43260b7e72b1066c04d9d9f3b79129c619c,Web APIs
 web/api/element/replacewith,83abbf83add0cd101b13f747bf52da0ff4b51bf8,Web APIs
-web/api/element/requestfullscreen,3957d6261191fdf1252362e7d2092b5d59daca89,Web APIs
+web/api/element/requestfullscreen,9740186550ed818e727ecc9906b499cdbe951cfc,Web APIs
 web/api/element/requestpointerlock,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/element/role,0b9c68dc63f9c6803cced8d9a76c31012d87b530,Web APIs
 web/api/element/scroll,afcdfa050626bb7eb05ee693df8997020db9ff2e,Web APIs
@@ -4401,8 +4401,8 @@ web/api/formdataevent,5b8d7c22883325e4abffcce235520c4a8b840bf3,Web APIs
 web/api/formdataevent/formdata,be1922d62a0d31e4e3441db0e943aed8df736481,Web APIs
 web/api/formdataevent/formdataevent,339595951b78774e951b1a9d215a6db6b856f6b2,Web APIs
 web/api/fragmentdirective,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd,Web APIs
-web/api/fullscreen_api,2c6874c58a262083450afcc76789d4399adb6583,Web APIs
-web/api/fullscreen_api/guide,d4d05693841eba16c40260d48cd29b353d50dd03,Web APIs
+web/api/fullscreen_api,9740186550ed818e727ecc9906b499cdbe951cfc,Web APIs
+web/api/fullscreen_api/guide,9740186550ed818e727ecc9906b499cdbe951cfc,Web APIs
 web/api/gainnode,fa1301aead2cee37516b7ad5a5ec2fb21e004227,Web APIs
 web/api/gainnode/gain,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c,Web APIs
 web/api/gainnode/gainnode,af6e47973201416260911ee6444cf315b2ba6d89,Web APIs
