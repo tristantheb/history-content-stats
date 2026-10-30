@@ -2990,7 +2990,7 @@ web/api/contactaddress/postalcode,0
 web/api/contactaddress/recipient,0
 web/api/contactaddress/region,0
 web/api/contactaddress/sortingcode,0
-web/api/contactaddress/tojson,0
+web/api/contactaddress/tojson,1
 web/api/contactsmanager,null
 web/api/contactsmanager/getproperties,null
 web/api/contactsmanager/select,null
@@ -6386,7 +6386,7 @@ web/api/navigatoruadata/brands,0
 web/api/navigatoruadata/gethighentropyvalues,0
 web/api/navigatoruadata/mobile,0
 web/api/navigatoruadata/platform,0
-web/api/navigatoruadata/tojson,0
+web/api/navigatoruadata/tojson,1
 web/api/ndefmessage,0
 web/api/ndefmessage/ndefmessage,4
 web/api/ndefmessage/records,1
@@ -7364,7 +7364,7 @@ web/api/rtcicecandidate/rtcicecandidate,null
 web/api/rtcicecandidate/sdpmid,1
 web/api/rtcicecandidate/sdpmlineindex,1
 web/api/rtcicecandidate/tcptype,0
-web/api/rtcicecandidate/tojson,3
+web/api/rtcicecandidate/tojson,4
 web/api/rtcicecandidate/type,1
 web/api/rtcicecandidate/usernamefragment,3
 web/api/rtcicecandidatepair,2
@@ -9030,7 +9030,7 @@ web/api/url/protocol,2
 web/api/url/revokeobjecturl_static,2
 web/api/url/search,2
 web/api/url/searchparams,3
-web/api/url/tojson,1
+web/api/url/tojson,2
 web/api/url/tostring,1
 web/api/url/url,null
 web/api/url/username,1
@@ -9473,7 +9473,7 @@ web/api/webgl2renderingcontext/vertexattribdivisor,null
 web/api/webgl2renderingcontext/vertexattribi,null
 web/api/webgl2renderingcontext/vertexattribipointer,null
 web/api/webgl2renderingcontext/waitsync,null
-web/api/webgl_api,6
+web/api/webgl_api,7
 web/api/webgl_api/basic_2d_animation_example,null
 web/api/webgl_api/by_example,null
 web/api/webgl_api/by_example/basic_scissoring,null

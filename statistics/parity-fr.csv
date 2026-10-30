@@ -9473,7 +9473,7 @@ web/api/webgl2renderingcontext/vertexattribdivisor,null
 web/api/webgl2renderingcontext/vertexattribi,null
 web/api/webgl2renderingcontext/vertexattribipointer,null
 web/api/webgl2renderingcontext/waitsync,null
-web/api/webgl_api,13
+web/api/webgl_api,14
 web/api/webgl_api/basic_2d_animation_example,null
 web/api/webgl_api/by_example,null
 web/api/webgl_api/by_example/basic_scissoring,null
@@ -12687,7 +12687,7 @@ web/javascript/reference/global_objects/date/setyear,0
 web/javascript/reference/global_objects/date/symbol.toprimitive,0
 web/javascript/reference/global_objects/date/todatestring,0
 web/javascript/reference/global_objects/date/toisostring,0
-web/javascript/reference/global_objects/date/tojson,0
+web/javascript/reference/global_objects/date/tojson,1
 web/javascript/reference/global_objects/date/tolocaledatestring,0
 web/javascript/reference/global_objects/date/tolocalestring,0
 web/javascript/reference/global_objects/date/tolocaletimestring,0
@@ -13218,7 +13218,7 @@ web/javascript/reference/global_objects/temporal/duration/round,0
 web/javascript/reference/global_objects/temporal/duration/seconds,0
 web/javascript/reference/global_objects/temporal/duration/sign,0
 web/javascript/reference/global_objects/temporal/duration/subtract,0
-web/javascript/reference/global_objects/temporal/duration/tojson,0
+web/javascript/reference/global_objects/temporal/duration/tojson,1
 web/javascript/reference/global_objects/temporal/duration/tolocalestring,0
 web/javascript/reference/global_objects/temporal/duration/tostring,0
 web/javascript/reference/global_objects/temporal/duration/total,0
@@ -13239,7 +13239,7 @@ web/javascript/reference/global_objects/temporal/instant/instant,0
 web/javascript/reference/global_objects/temporal/instant/round,0
 web/javascript/reference/global_objects/temporal/instant/since,0
 web/javascript/reference/global_objects/temporal/instant/subtract,0
-web/javascript/reference/global_objects/temporal/instant/tojson,0
+web/javascript/reference/global_objects/temporal/instant/tojson,1
 web/javascript/reference/global_objects/temporal/instant/tolocalestring,0
 web/javascript/reference/global_objects/temporal/instant/tostring,0
 web/javascript/reference/global_objects/temporal/instant/tozoneddatetimeiso,0
@@ -13273,7 +13273,7 @@ web/javascript/reference/global_objects/temporal/plaindate/monthsinyear,0
 web/javascript/reference/global_objects/temporal/plaindate/plaindate,0
 web/javascript/reference/global_objects/temporal/plaindate/since,0
 web/javascript/reference/global_objects/temporal/plaindate/subtract,0
-web/javascript/reference/global_objects/temporal/plaindate/tojson,0
+web/javascript/reference/global_objects/temporal/plaindate/tojson,1
 web/javascript/reference/global_objects/temporal/plaindate/tolocalestring,0
 web/javascript/reference/global_objects/temporal/plaindate/toplaindatetime,0
 web/javascript/reference/global_objects/temporal/plaindate/toplainmonthday,0
@@ -13315,7 +13315,7 @@ web/javascript/reference/global_objects/temporal/plaindatetime/round,0
 web/javascript/reference/global_objects/temporal/plaindatetime/second,0
 web/javascript/reference/global_objects/temporal/plaindatetime/since,0
 web/javascript/reference/global_objects/temporal/plaindatetime/subtract,0
-web/javascript/reference/global_objects/temporal/plaindatetime/tojson,0
+web/javascript/reference/global_objects/temporal/plaindatetime/tojson,1
 web/javascript/reference/global_objects/temporal/plaindatetime/tolocalestring,0
 web/javascript/reference/global_objects/temporal/plaindatetime/toplaindate,0
 web/javascript/reference/global_objects/temporal/plaindatetime/toplaintime,0
@@ -13336,7 +13336,7 @@ web/javascript/reference/global_objects/temporal/plainmonthday/equals,0
 web/javascript/reference/global_objects/temporal/plainmonthday/from,0
 web/javascript/reference/global_objects/temporal/plainmonthday/monthcode,0
 web/javascript/reference/global_objects/temporal/plainmonthday/plainmonthday,0
-web/javascript/reference/global_objects/temporal/plainmonthday/tojson,0
+web/javascript/reference/global_objects/temporal/plainmonthday/tojson,1
 web/javascript/reference/global_objects/temporal/plainmonthday/tolocalestring,0
 web/javascript/reference/global_objects/temporal/plainmonthday/toplaindate,0
 web/javascript/reference/global_objects/temporal/plainmonthday/tostring,0
@@ -13357,7 +13357,7 @@ web/javascript/reference/global_objects/temporal/plaintime/round,0
 web/javascript/reference/global_objects/temporal/plaintime/second,0
 web/javascript/reference/global_objects/temporal/plaintime/since,0
 web/javascript/reference/global_objects/temporal/plaintime/subtract,0
-web/javascript/reference/global_objects/temporal/plaintime/tojson,0
+web/javascript/reference/global_objects/temporal/plaintime/tojson,1
 web/javascript/reference/global_objects/temporal/plaintime/tolocalestring,0
 web/javascript/reference/global_objects/temporal/plaintime/tostring,0
 web/javascript/reference/global_objects/temporal/plaintime/until,0
@@ -13380,7 +13380,7 @@ web/javascript/reference/global_objects/temporal/plainyearmonth/monthsinyear,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/plainyearmonth,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/since,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/subtract,0
-web/javascript/reference/global_objects/temporal/plainyearmonth/tojson,0
+web/javascript/reference/global_objects/temporal/plainyearmonth/tojson,1
 web/javascript/reference/global_objects/temporal/plainyearmonth/tolocalestring,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/toplaindate,0
 web/javascript/reference/global_objects/temporal/plainyearmonth/tostring,0
@@ -13424,7 +13424,7 @@ web/javascript/reference/global_objects/temporal/zoneddatetime/startofday,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/subtract,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/timezoneid,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/toinstant,0
-web/javascript/reference/global_objects/temporal/zoneddatetime/tojson,0
+web/javascript/reference/global_objects/temporal/zoneddatetime/tojson,1
 web/javascript/reference/global_objects/temporal/zoneddatetime/tolocalestring,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/toplaindate,0
 web/javascript/reference/global_objects/temporal/zoneddatetime/toplaindatetime,0
