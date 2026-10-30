@@ -7083,7 +7083,7 @@ web/api/pushsubscription/expirationtime,null
 web/api/pushsubscription/getkey,2
 web/api/pushsubscription/options,null
 web/api/pushsubscription/subscriptionid,null
-web/api/pushsubscription/tojson,0
+web/api/pushsubscription/tojson,1
 web/api/pushsubscription/unsubscribe,0
 web/api/pushsubscriptionoptions,1
 web/api/pushsubscriptionoptions/applicationserverkey,null

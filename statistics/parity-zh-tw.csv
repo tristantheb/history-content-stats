@@ -4457,7 +4457,7 @@ web/api/geolocationcoordinates/heading,0
 web/api/geolocationcoordinates/latitude,0
 web/api/geolocationcoordinates/longitude,0
 web/api/geolocationcoordinates/speed,0
-web/api/geolocationcoordinates/tojson,0
+web/api/geolocationcoordinates/tojson,1
 web/api/geolocationposition,null
 web/api/geolocationposition/coords,0
 web/api/geolocationposition/timestamp,0
