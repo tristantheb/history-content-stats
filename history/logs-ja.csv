@@ -1215,7 +1215,7 @@ mozilla/add-ons/webextensions/working_with_files,no_hash_commit
 mozilla/add-ons/webextensions/working_with_the_tabs_api,no_hash_commit
 mozilla/add-ons/webextensions/your_first_webextension,c09f7c12c1c39924c492b63e5c284f64c2380b4a
 mozilla/add-ons/webextensions/your_second_webextension,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200
-mozilla/firefox/experimental_features,e1d75786a9ba2607af68a3fe2ef8dc3aaba99661
+mozilla/firefox/experimental_features,3e280ba0985e16f5cc48136b3c812ec506ac9735
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 mozilla/firefox/releases/1.5/using_firefox_1.5_caching,no_hash_commit
@@ -9739,7 +9739,7 @@ web/media/guides/formats/configuring_servers_for_ogg_media,no_hash_commit
 web/media/guides/formats/containers,a03b4b0e9aaac7409ff1ce974ab1bf2f40c81e03
 web/media/guides/formats/image_types,d559e66723de93ce6c59eb5d22a29afca7265c2a
 web/media/guides/formats,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf
-web/media/guides/formats/video_codecs,bea339d321513fc6d66d95c8f0305b9387fa57bb
+web/media/guides/formats/video_codecs,64d995ef99a84226348832ed398e9edc7809e53e
 web/media/guides/images,no_hash_commit
 web/media/guides,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf
 web/media/guides/streaming,no_hash_commit
