@@ -9884,7 +9884,7 @@ web/api/window/opener,null
 web/api/window/orientation,1
 web/api/window/orientationchange_event,null
 web/api/window/origin,3
-web/api/window/originagentcluster,1
+web/api/window/originagentcluster,2
 web/api/window/outerheight,null
 web/api/window/outerwidth,null
 web/api/window/pagehide_event,6
@@ -12490,7 +12490,7 @@ web/javascript/reference/errors/unexpected_token,null
 web/javascript/reference/errors/unexpected_type,null
 web/javascript/reference/errors/unnamed_function_statement,null
 web/javascript/reference/errors/unparenthesized_unary_expr_lhs_exponentiation,null
-web/javascript/reference/execution_model,4
+web/javascript/reference/execution_model,5
 web/javascript/reference/functions,null
 web/javascript/reference/functions/arguments,0
 web/javascript/reference/functions/arguments/callee,null

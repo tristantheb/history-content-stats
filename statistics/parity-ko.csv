@@ -12490,7 +12490,7 @@ web/javascript/reference/errors/unexpected_token,null
 web/javascript/reference/errors/unexpected_type,null
 web/javascript/reference/errors/unnamed_function_statement,null
 web/javascript/reference/errors/unparenthesized_unary_expr_lhs_exponentiation,null
-web/javascript/reference/execution_model,8
+web/javascript/reference/execution_model,9
 web/javascript/reference/functions,7
 web/javascript/reference/functions/arguments,null
 web/javascript/reference/functions/arguments/callee,null
