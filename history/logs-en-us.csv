@@ -1827,7 +1827,7 @@ mozilla/add-ons/webextensions/manifest.json/action,f99d00a1c3697e26a679925954e26
 mozilla/add-ons/webextensions/manifest.json/author,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/background,8adfa9f21be15f90b5ee73dbfb9bc441038ac55d,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/browser_action,f99d00a1c3697e26a679925954e26564e7e79b98,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,c27b843b70ca03c9dc2f46805cae2c0017d8bce6,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/browser_specific_settings,5ea16dbadbd11a2718f7ffba9dd02efe1b69c322,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/chrome_settings_overrides,a4c63d2855b2f557e7d1ee821dee65011d569a41,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/chrome_url_overrides,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/commands,ceaac5d55bef85edef9a4a716e6bd6ca3d3ec9c1,Mozilla|Firefox Add-ons
@@ -3532,7 +3532,7 @@ web/api/document/doctype,5d670c42df8ede57e3d6341cb15d8251eb188dc4,Web APIs
 web/api/document/document,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/document/documentelement,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
 web/api/document/documenturi,41a8b9c9832359d445d136b6d7a8a28737badc6b,Web APIs
-web/api/document/domain,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
+web/api/document/domain,43bd841296433b2c1adb8fa9d819212f86b37358,Web APIs
 web/api/document/domcontentloaded_event,9a0e5c1cfa8d5079e22c410de757707706f1cc75,Web APIs
 web/api/document/elementfrompoint,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
 web/api/document/elementsfrompoint,b21df53ffbb066cfb9347d7f0e5aebb792ed73e5,Web APIs
@@ -9505,7 +9505,7 @@ web/api/webgl_api/tutorial/using_shaders_to_apply_color_in_webgl,44c4ec928281dc2
 web/api/webgl_api/tutorial/using_textures_in_webgl,c9f3d85f24d7839c9fe36a68d8042d088d906147,Web APIs
 web/api/webgl_api/types,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
 web/api/webgl_api/using_extensions,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
-web/api/webgl_api/webgl_best_practices,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49,Web APIs
+web/api/webgl_api/webgl_best_practices,a0ba038b5e77c06c820e90dc39133acb70dd476a,Web APIs
 web/api/webgl_api/webgl_model_view_projection,788ea14745b3c5c2f45098403073b381c1357f39,Web APIs
 web/api/webgl_color_buffer_float,dd898d5f2411a1743936097781268b5d649acdf9,Web APIs
 web/api/webgl_compressed_texture_astc,dd898d5f2411a1743936097781268b5d649acdf9,Web APIs
@@ -9884,7 +9884,7 @@ web/api/window/opener,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/window/orientation,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/window/orientationchange_event,023b9075df473020b3279afa031bb4a32e3b743b,Web APIs
 web/api/window/origin,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
-web/api/window/originagentcluster,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
+web/api/window/originagentcluster,43bd841296433b2c1adb8fa9d819212f86b37358,Web APIs
 web/api/window/outerheight,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/outerwidth,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/pagehide_event,023b9075df473020b3279afa031bb4a32e3b743b,Web APIs
@@ -12095,7 +12095,7 @@ web/http/reference/headers/nel,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Hea
 web/http/reference/headers/no-vary-search,d260e0bf3f2ba3091e71ba1a7d0427c7d396e6ac,HTTP|Headers
 web/http/reference/headers/observe-browsing-topics,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTTP|Headers
 web/http/reference/headers/origin,4db27688840b67e416373ea571d9e3a17bafa92d,HTTP|Headers
-web/http/reference/headers/origin-agent-cluster,7f6778934020a9b5b82b4dd8ca79a99bc9950c2a,HTTP|Headers
+web/http/reference/headers/origin-agent-cluster,43bd841296433b2c1adb8fa9d819212f86b37358,HTTP|Headers
 web/http/reference/headers/permissions-policy,87e588faeb456dec535666429793188b2883637d,HTTP|Headers
 web/http/reference/headers/permissions-policy-report-only,dd1e8282ab6621b62399d65cad46177d426d1d93,HTTP|Headers
 web/http/reference/headers/permissions-policy/accelerometer,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Headers
@@ -12490,7 +12490,7 @@ web/javascript/reference/errors/unexpected_token,1474534461893381d54c502e655f334
 web/javascript/reference/errors/unexpected_type,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Errors
 web/javascript/reference/errors/unnamed_function_statement,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Errors
 web/javascript/reference/errors/unparenthesized_unary_expr_lhs_exponentiation,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Errors
-web/javascript/reference/execution_model,9d64ff6c5d0eee1800b0d3b4f9076de65f34f5ce,JavaScript
+web/javascript/reference/execution_model,43bd841296433b2c1adb8fa9d819212f86b37358,JavaScript
 web/javascript/reference/functions,211aa95bf8a77218591c3bf0a171ca90a53190fd,JavaScript|Functions
 web/javascript/reference/functions/arguments,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Functions
 web/javascript/reference/functions/arguments/callee,ca6052779ddca9f6d99665f12c39aa2d85d85733,JavaScript|Functions
