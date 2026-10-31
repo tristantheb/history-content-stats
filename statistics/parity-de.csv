@@ -3532,7 +3532,7 @@ web/api/document/doctype,0
 web/api/document/document,0
 web/api/document/documentelement,0
 web/api/document/documenturi,0
-web/api/document/domain,1
+web/api/document/domain,0
 web/api/document/domcontentloaded_event,0
 web/api/document/elementfrompoint,0
 web/api/document/elementsfrompoint,0
@@ -9505,7 +9505,7 @@ web/api/webgl_api/tutorial/using_shaders_to_apply_color_in_webgl,0
 web/api/webgl_api/tutorial/using_textures_in_webgl,0
 web/api/webgl_api/types,0
 web/api/webgl_api/using_extensions,0
-web/api/webgl_api/webgl_best_practices,1
+web/api/webgl_api/webgl_best_practices,0
 web/api/webgl_api/webgl_model_view_projection,0
 web/api/webgl_color_buffer_float,0
 web/api/webgl_compressed_texture_astc,0
@@ -9884,7 +9884,7 @@ web/api/window/opener,0
 web/api/window/orientation,0
 web/api/window/orientationchange_event,0
 web/api/window/origin,0
-web/api/window/originagentcluster,1
+web/api/window/originagentcluster,0
 web/api/window/outerheight,0
 web/api/window/outerwidth,0
 web/api/window/pagehide_event,0
@@ -12095,7 +12095,7 @@ web/http/reference/headers/nel,0
 web/http/reference/headers/no-vary-search,0
 web/http/reference/headers/observe-browsing-topics,0
 web/http/reference/headers/origin,0
-web/http/reference/headers/origin-agent-cluster,1
+web/http/reference/headers/origin-agent-cluster,0
 web/http/reference/headers/permissions-policy,0
 web/http/reference/headers/permissions-policy-report-only,0
 web/http/reference/headers/permissions-policy/accelerometer,0
@@ -12490,7 +12490,7 @@ web/javascript/reference/errors/unexpected_token,0
 web/javascript/reference/errors/unexpected_type,0
 web/javascript/reference/errors/unnamed_function_statement,0
 web/javascript/reference/errors/unparenthesized_unary_expr_lhs_exponentiation,0
-web/javascript/reference/execution_model,1
+web/javascript/reference/execution_model,0
 web/javascript/reference/functions,0
 web/javascript/reference/functions/arguments,0
 web/javascript/reference/functions/arguments/callee,0
