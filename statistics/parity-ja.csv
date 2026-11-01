@@ -12357,7 +12357,7 @@ web/javascript/reference/classes/private_elements,0
 web/javascript/reference/classes/public_class_fields,0
 web/javascript/reference/classes/static,1
 web/javascript/reference/classes/static_initialization_blocks,0
-web/javascript/reference/deprecated_and_obsolete_features,6
+web/javascript/reference/deprecated_and_obsolete_features,0
 web/javascript/reference/errors,0
 web/javascript/reference/errors/already_executing_generator,null
 web/javascript/reference/errors/already_has_pragma,null
@@ -13615,7 +13615,7 @@ web/javascript/reference/regular_expressions/modifier,0
 web/javascript/reference/regular_expressions/named_backreference,0
 web/javascript/reference/regular_expressions/named_capturing_group,2
 web/javascript/reference/regular_expressions/non-capturing_group,0
-web/javascript/reference/regular_expressions/quantifier,8
+web/javascript/reference/regular_expressions/quantifier,0
 web/javascript/reference/regular_expressions/unicode_character_class_escape,0
 web/javascript/reference/regular_expressions/wildcard,0
 web/javascript/reference/regular_expressions/word_boundary_assertion,0
@@ -13623,7 +13623,7 @@ web/javascript/reference/statements,0
 web/javascript/reference/statements/async_function,0
 web/javascript/reference/statements/async_function_star_,0
 web/javascript/reference/statements/await_using,0
-web/javascript/reference/statements/block,7
+web/javascript/reference/statements/block,0
 web/javascript/reference/statements/break,0
 web/javascript/reference/statements/class,0
 web/javascript/reference/statements/const,1
