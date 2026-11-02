@@ -272,7 +272,7 @@ glossary/forbidden_response_header_name,4
 glossary/fork,6
 glossary/fps,2
 glossary/fragmentainer,4
-glossary/ftp,2
+glossary/ftp,3
 glossary/ftu,2
 glossary/function,null
 glossary/fuzzing,1
@@ -785,7 +785,7 @@ learn_web_development/core/structuring_content/creating_links,null
 learn_web_development/core/structuring_content/debugging_html,null
 learn_web_development/core/structuring_content/emphasis_and_importance,3
 learn_web_development/core/structuring_content/forms_challenge,null
-learn_web_development/core/structuring_content/general_embedding_technologies,14
+learn_web_development/core/structuring_content/general_embedding_technologies,15
 learn_web_development/core/structuring_content/headings_and_paragraphs,5
 learn_web_development/core/structuring_content/html_forms,7
 learn_web_development/core/structuring_content/html_images,18
@@ -909,7 +909,7 @@ learn_web_development/extensions/performance/perceived_performance,null
 learn_web_development/extensions/performance/video,null
 learn_web_development/extensions/performance/what_is_web_performance,null
 learn_web_development/extensions/performance/why_web_performance,null
-learn_web_development/extensions/server-side,3
+learn_web_development/extensions/server-side,4
 learn_web_development/extensions/server-side/apache_configuration_htaccess,null
 learn_web_development/extensions/server-side/configuring_server_mime_types,null
 learn_web_development/extensions/server-side/django,null
@@ -974,7 +974,7 @@ learn_web_development/getting_started/environment_setup/browsing_the_web,11
 learn_web_development/getting_started/environment_setup/code_editors,4
 learn_web_development/getting_started/environment_setup/command_line,1
 learn_web_development/getting_started/environment_setup/dealing_with_files,12
-learn_web_development/getting_started/environment_setup/installing_software,14
+learn_web_development/getting_started/environment_setup/installing_software,15
 learn_web_development/getting_started/soft_skills,0
 learn_web_development/getting_started/soft_skills/collaboration_and_teamwork,null
 learn_web_development/getting_started/soft_skills/finding_a_job,null
@@ -987,7 +987,7 @@ learn_web_development/getting_started/web_standards/the_web_standards_model,13
 learn_web_development/getting_started/your_first_website,0
 learn_web_development/getting_started/your_first_website/adding_interactivity,15
 learn_web_development/getting_started/your_first_website/creating_the_content,2
-learn_web_development/getting_started/your_first_website/publishing_your_website,12
+learn_web_development/getting_started/your_first_website/publishing_your_website,13
 learn_web_development/getting_started/your_first_website/styling_the_content,15
 learn_web_development/getting_started/your_first_website/what_will_your_website_look_like,9
 learn_web_development/howto,5
@@ -1013,21 +1013,15 @@ learn_web_development/howto/solve_css_problems/transition_button,null
 learn_web_development/howto/solve_html_problems,null
 learn_web_development/howto/solve_javascript_problems,null
 learn_web_development/howto/tools_and_setup,null
-learn_web_development/howto/tools_and_setup/available_text_editors,null
-learn_web_development/howto/tools_and_setup/checking_that_your_web_site_is_working_properly,null
-learn_web_development/howto/tools_and_setup/how_much_does_it_cost,null
 learn_web_development/howto/tools_and_setup/set_up_a_local_testing_server,null
-learn_web_development/howto/tools_and_setup/upload_files_to_a_web_server,null
-learn_web_development/howto/tools_and_setup/using_github_pages,7
-learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,3
-learn_web_development/howto/tools_and_setup/what_software_do_i_need,13
+learn_web_development/howto/tools_and_setup/what_are_browser_developer_tools,4
 learn_web_development/howto/web_mechanics,null
 learn_web_development/howto/web_mechanics/file_browser_bugs,3
 learn_web_development/howto/web_mechanics/how_does_the_internet_work,1
 learn_web_development/howto/web_mechanics/what_are_hyperlinks,3
-learn_web_development/howto/web_mechanics/what_is_a_domain_name,7
+learn_web_development/howto/web_mechanics/what_is_a_domain_name,8
 learn_web_development/howto/web_mechanics/what_is_a_url,10
-learn_web_development/howto/web_mechanics/what_is_a_web_server,4
+learn_web_development/howto/web_mechanics/what_is_a_web_server,5
 mdn,0
 mdn/community,null
 mdn/community/communication_channels,2
@@ -1894,7 +1888,7 @@ mozilla/add-ons/webextensions/work_with_the_bookmarks_api,null
 mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,10
-mozilla/add-ons/webextensions/your_first_webextension,1
+mozilla/add-ons/webextensions/your_first_webextension,2
 mozilla/add-ons/webextensions/your_second_webextension,3
 mozilla/firefox,5
 mozilla/firefox/experimental_features,null
@@ -14451,7 +14445,7 @@ webassembly/guides/exported_functions,null
 webassembly/guides/imported_string_constants,null
 webassembly/guides/javascript_builtins,null
 webassembly/guides/loading_and_running,3
-webassembly/guides/rust_to_wasm,0
+webassembly/guides/rust_to_wasm,1
 webassembly/guides/text_format_to_wasm,null
 webassembly/guides/understanding_the_text_format,null
 webassembly/guides/using_the_javascript_api,5
