@@ -3855,7 +3855,7 @@ web/api/element/ariaerrormessageelements,null
 web/api/element/ariaexpanded,null
 web/api/element/ariaflowtoelements,null
 web/api/element/ariahaspopup,null
-web/api/element/ariahidden,null
+web/api/element/ariahidden,0
 web/api/element/ariainvalid,null
 web/api/element/ariakeyshortcuts,0
 web/api/element/arialabel,0
@@ -11933,7 +11933,7 @@ web/html/reference/global_attributes/popover,12
 web/html/reference/global_attributes/slot,null
 web/html/reference/global_attributes/spellcheck,5
 web/html/reference/global_attributes/style,5
-web/html/reference/global_attributes/tabindex,null
+web/html/reference/global_attributes/tabindex,0
 web/html/reference/global_attributes/title,null
 web/html/reference/global_attributes/translate,null
 web/html/reference/global_attributes/virtualkeyboardpolicy,4

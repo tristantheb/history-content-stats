@@ -2581,6 +2581,7 @@ web/api/element/ariacolspan,0b5859108411e47d228a4bb9f30a5556ab17f63c
 web/api/element/ariacurrent,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariadescribedbyelements,3b4a7a32fc2fe8cb6bd9a1e62f4ca52e002599ef
 web/api/element/ariadescription,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
+web/api/element/ariahidden,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49
 web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1
 web/api/element/arialabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/arialevel,ce12c10364f35c64184dec44be85537b7e10d91f
@@ -6110,7 +6111,7 @@ web/html/reference/global_attributes/popover,e492ae4891e1f0a454fd452ee2e67986f8e
 web/html/reference/global_attributes/slot,no_hash_commit
 web/html/reference/global_attributes/spellcheck,d49a9ceb7a22f48dd27a6742a098a915c2243ddc
 web/html/reference/global_attributes/style,476fb44932d56c0f50628a620348cd77f411b5ab
-web/html/reference/global_attributes/tabindex,no_hash_commit
+web/html/reference/global_attributes/tabindex,9c70c6ff09189cad43d40e241fbd2fe67349c3c2
 web/html/reference/global_attributes/title,no_hash_commit
 web/html/reference/global_attributes/translate,no_hash_commit
 web/html/reference/global_attributes/virtualkeyboardpolicy,96e73ab4d1fdb714a6a6516821b3206d83909046
