@@ -918,7 +918,7 @@ learn_web_development/extensions/server-side/django/authentication,d0d002817fbb0
 learn_web_development/extensions/server-side/django/deployment,d0d002817fbb057e80a4f7b8670b09cc80250516,Learn|Extensions
 learn_web_development/extensions/server-side/django/development_environment,d50a52075711e21da27bce5ee24f6334b56cf0f3,Learn|Extensions
 learn_web_development/extensions/server-side/django/django_assessment_blog,d0d002817fbb057e80a4f7b8670b09cc80250516,Learn|Extensions
-learn_web_development/extensions/server-side/django/forms,d0d002817fbb057e80a4f7b8670b09cc80250516,Learn|Extensions
+learn_web_development/extensions/server-side/django/forms,05b21c9303964f221febe77f053e5636f230afe9,Learn|Extensions
 learn_web_development/extensions/server-side/django/generic_views,d0d002817fbb057e80a4f7b8670b09cc80250516,Learn|Extensions
 learn_web_development/extensions/server-side/django/home_page,d0d002817fbb057e80a4f7b8670b09cc80250516,Learn|Extensions
 learn_web_development/extensions/server-side/django/introduction,d0d002817fbb057e80a4f7b8670b09cc80250516,Learn|Extensions
@@ -4397,7 +4397,7 @@ web/api/formdataevent/formdata,be1922d62a0d31e4e3441db0e943aed8df736481,Web APIs
 web/api/formdataevent/formdataevent,339595951b78774e951b1a9d215a6db6b856f6b2,Web APIs
 web/api/fragmentdirective,4d9320f9857fb80fef5f3fe78e3d09b06eb0ebbd,Web APIs
 web/api/fullscreen_api,9740186550ed818e727ecc9906b499cdbe951cfc,Web APIs
-web/api/fullscreen_api/guide,9740186550ed818e727ecc9906b499cdbe951cfc,Web APIs
+web/api/fullscreen_api/guide,05b21c9303964f221febe77f053e5636f230afe9,Web APIs
 web/api/gainnode,fa1301aead2cee37516b7ad5a5ec2fb21e004227,Web APIs
 web/api/gainnode/gain,d8f04d843dd81ab8cea1cfc0577ae3c5c9b77d5c,Web APIs
 web/api/gainnode/gainnode,af6e47973201416260911ee6444cf315b2ba6d89,Web APIs
@@ -11236,7 +11236,7 @@ web/css/reference/properties/table-layout,071fd0613b1b5728d2d83845ea11512cb61506
 web/css/reference/properties/text-align,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/text-align-last,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-anchor,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/text-autospace,c91282d3f1f546ba4bc98a107ef97ce298846a91,CSS|Properties
+web/css/reference/properties/text-autospace,05b21c9303964f221febe77f053e5636f230afe9,CSS|Properties
 web/css/reference/properties/text-box,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/text-box-edge,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
 web/css/reference/properties/text-box-trim,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
