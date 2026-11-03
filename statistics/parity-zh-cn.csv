@@ -2820,7 +2820,7 @@ web/api/canvasrenderingcontext2d/rect,1
 web/api/canvasrenderingcontext2d/reset,2
 web/api/canvasrenderingcontext2d/resettransform,2
 web/api/canvasrenderingcontext2d/restore,3
-web/api/canvasrenderingcontext2d/rotate,1
+web/api/canvasrenderingcontext2d/rotate,2
 web/api/canvasrenderingcontext2d/roundrect,4
 web/api/canvasrenderingcontext2d/save,3
 web/api/canvasrenderingcontext2d/scale,1
@@ -2838,7 +2838,7 @@ web/api/canvasrenderingcontext2d/textalign,1
 web/api/canvasrenderingcontext2d/textbaseline,3
 web/api/canvasrenderingcontext2d/textrendering,5
 web/api/canvasrenderingcontext2d/transform,1
-web/api/canvasrenderingcontext2d/translate,1
+web/api/canvasrenderingcontext2d/translate,2
 web/api/canvasrenderingcontext2d/wordspacing,3
 web/api/capturecontroller,null
 web/api/capturecontroller/capturecontroller,null
@@ -11562,7 +11562,7 @@ web/css/reference/values/filter-function,null
 web/css/reference/values/filter-function/blur,null
 web/css/reference/values/filter-function/brightness,null
 web/css/reference/values/filter-function/contrast,null
-web/css/reference/values/filter-function/drop-shadow,4
+web/css/reference/values/filter-function/drop-shadow,6
 web/css/reference/values/filter-function/grayscale,null
 web/css/reference/values/filter-function/hue-rotate,null
 web/css/reference/values/filter-function/invert,null

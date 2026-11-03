@@ -3965,7 +3965,7 @@ web/api/element/mousewheel_event,null
 web/api/element/movebefore,null
 web/api/element/mozmousepixelscroll_event,null
 web/api/element/namespaceuri,null
-web/api/element/nextelementsibling,null
+web/api/element/nextelementsibling,0
 web/api/element/outerhtml,null
 web/api/element/part,null
 web/api/element/paste_event,null
