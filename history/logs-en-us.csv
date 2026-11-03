@@ -2752,12 +2752,12 @@ web/api/canvas_api/tutorial/applying_styles_and_colors,8b77a013c518ef1b62534a844
 web/api/canvas_api/tutorial/basic_animations,5f2a755c4fa7d126f85b56fbca90b15c5f039eff,Web APIs
 web/api/canvas_api/tutorial/basic_usage,6f1b699dd8891431bbfe0bc3bb803f929fa6032e,Web APIs
 web/api/canvas_api/tutorial/compositing,cf880ca0ef5fd518f7fdc716220488647ac83eee,Web APIs
-web/api/canvas_api/tutorial/drawing_shapes,f542ed344953b3312fc92150bba11536667e288a,Web APIs
+web/api/canvas_api/tutorial/drawing_shapes,e874c91a572640824bb4cd8e8ab5b6111fd04661,Web APIs
 web/api/canvas_api/tutorial/drawing_text,788ea14745b3c5c2f45098403073b381c1357f39,Web APIs
 web/api/canvas_api/tutorial/finale,a52689c74c6c89f45c54447bb148e54ed320db62,Web APIs
 web/api/canvas_api/tutorial/optimizing_canvas,ef3d35612c569a9ad17dade2e356a10808206612,Web APIs
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
-web/api/canvas_api/tutorial/transformations,81a384e18b61c1d1b23d7f58f1fbd8ec3af45558,Web APIs
+web/api/canvas_api/tutorial/transformations,e874c91a572640824bb4cd8e8ab5b6111fd04661,Web APIs
 web/api/canvas_api/tutorial/using_images,56f3d7018159127dbe92842413fb45d0aa7e8193,Web APIs
 web/api/canvascapturemediastreamtrack,7fb6ccccf88b71712c1b603bed7092dbb622b698,Web APIs
 web/api/canvascapturemediastreamtrack/canvas,7fb6ccccf88b71712c1b603bed7092dbb622b698,Web APIs
@@ -2820,7 +2820,7 @@ web/api/canvasrenderingcontext2d/rect,a7265fc3effa7c25b9997135104370c057a65293,W
 web/api/canvasrenderingcontext2d/reset,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/canvasrenderingcontext2d/resettransform,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/canvasrenderingcontext2d/restore,0c81cbce5f95a0be935724bcd936f5592774eb3a,Web APIs
-web/api/canvasrenderingcontext2d/rotate,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
+web/api/canvasrenderingcontext2d/rotate,e874c91a572640824bb4cd8e8ab5b6111fd04661,Web APIs
 web/api/canvasrenderingcontext2d/roundrect,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/canvasrenderingcontext2d/save,0c81cbce5f95a0be935724bcd936f5592774eb3a,Web APIs
 web/api/canvasrenderingcontext2d/scale,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
@@ -2838,7 +2838,7 @@ web/api/canvasrenderingcontext2d/textalign,a7265fc3effa7c25b9997135104370c057a65
 web/api/canvasrenderingcontext2d/textbaseline,a516a9818e8cef06c626d436ee1d73fc6d87ec51,Web APIs
 web/api/canvasrenderingcontext2d/textrendering,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/canvasrenderingcontext2d/transform,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
-web/api/canvasrenderingcontext2d/translate,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
+web/api/canvasrenderingcontext2d/translate,e874c91a572640824bb4cd8e8ab5b6111fd04661,Web APIs
 web/api/canvasrenderingcontext2d/wordspacing,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/capturecontroller,4ccd81240a6d531962fab92886631885a90bfa3c,Web APIs
 web/api/capturecontroller/capturecontroller,ffa6f5871f50856c60983a125cef7de267be7aeb,Web APIs
@@ -11559,16 +11559,16 @@ web/css/reference/values/element,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Va
 web/css/reference/values/env,977386fc14a76dec21374aef1e0571900b28dab4,CSS|Values
 web/css/reference/values/exp,daa035392f8466e6d75f290d9ffa4317adca4070,CSS|Values
 web/css/reference/values/filter-function,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/filter-function/blur,cff28ac91efd68d0809779c81902bd080f614a1d,CSS|Values
-web/css/reference/values/filter-function/brightness,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/filter-function/contrast,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/filter-function/drop-shadow,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/filter-function/grayscale,cff28ac91efd68d0809779c81902bd080f614a1d,CSS|Values
-web/css/reference/values/filter-function/hue-rotate,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/filter-function/invert,cff28ac91efd68d0809779c81902bd080f614a1d,CSS|Values
-web/css/reference/values/filter-function/opacity,cff28ac91efd68d0809779c81902bd080f614a1d,CSS|Values
-web/css/reference/values/filter-function/saturate,cff28ac91efd68d0809779c81902bd080f614a1d,CSS|Values
-web/css/reference/values/filter-function/sepia,cff28ac91efd68d0809779c81902bd080f614a1d,CSS|Values
+web/css/reference/values/filter-function/blur,35b1d907e22f58fcd01fc5d3d22f1e73089c7f3d,CSS|Values
+web/css/reference/values/filter-function/brightness,35b1d907e22f58fcd01fc5d3d22f1e73089c7f3d,CSS|Values
+web/css/reference/values/filter-function/contrast,35b1d907e22f58fcd01fc5d3d22f1e73089c7f3d,CSS|Values
+web/css/reference/values/filter-function/drop-shadow,35b1d907e22f58fcd01fc5d3d22f1e73089c7f3d,CSS|Values
+web/css/reference/values/filter-function/grayscale,35b1d907e22f58fcd01fc5d3d22f1e73089c7f3d,CSS|Values
+web/css/reference/values/filter-function/hue-rotate,35b1d907e22f58fcd01fc5d3d22f1e73089c7f3d,CSS|Values
+web/css/reference/values/filter-function/invert,35b1d907e22f58fcd01fc5d3d22f1e73089c7f3d,CSS|Values
+web/css/reference/values/filter-function/opacity,35b1d907e22f58fcd01fc5d3d22f1e73089c7f3d,CSS|Values
+web/css/reference/values/filter-function/saturate,35b1d907e22f58fcd01fc5d3d22f1e73089c7f3d,CSS|Values
+web/css/reference/values/filter-function/sepia,35b1d907e22f58fcd01fc5d3d22f1e73089c7f3d,CSS|Values
 web/css/reference/values/fit-content,aaedffba9f47d6dce7967a4191963378026d9406,CSS|Values
 web/css/reference/values/fit-content_function,5e4520f9cd84f65d470ec57efef7a73bbe9fd686,CSS|Values
 web/css/reference/values/flex_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
