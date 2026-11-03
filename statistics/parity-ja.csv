@@ -4397,7 +4397,7 @@ web/api/formdataevent/formdata,2
 web/api/formdataevent/formdataevent,0
 web/api/fragmentdirective,7
 web/api/fullscreen_api,1
-web/api/fullscreen_api/guide,1
+web/api/fullscreen_api/guide,2
 web/api/gainnode,0
 web/api/gainnode/gain,1
 web/api/gainnode/gainnode,3
@@ -11236,7 +11236,7 @@ web/css/reference/properties/table-layout,2
 web/css/reference/properties/text-align,2
 web/css/reference/properties/text-align-last,2
 web/css/reference/properties/text-anchor,1
-web/css/reference/properties/text-autospace,2
+web/css/reference/properties/text-autospace,3
 web/css/reference/properties/text-box,2
 web/css/reference/properties/text-box-edge,2
 web/css/reference/properties/text-box-trim,3
