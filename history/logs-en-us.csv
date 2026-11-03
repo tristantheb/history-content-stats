@@ -1965,7 +1965,7 @@ mozilla/firefox/releases/157,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6,Mozilla|Fi
 mozilla/firefox/releases/158,521fe7795f4dbfa723d800a94884d7608fa0e17e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/159,9126ecf140009f571300b0d083148eb31e826128,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
-mozilla/firefox/releases/160,76f6f1b8f87e819a7d09f6f5bc431df508a4e8d6,Mozilla|Firefox|Versions
+mozilla/firefox/releases/160,d3598d4a3f6b9e2a99c18a7cecdf745d745a4aa6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/161,521fe7795f4dbfa723d800a94884d7608fa0e17e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -4342,16 +4342,17 @@ web/api/fontdata/family,4458494807b6f4898d504b6c0af0a45f8031cbf3,Web APIs
 web/api/fontdata/fullname,4458494807b6f4898d504b6c0af0a45f8031cbf3,Web APIs
 web/api/fontdata/postscriptname,4458494807b6f4898d504b6c0af0a45f8031cbf3,Web APIs
 web/api/fontdata/style,4458494807b6f4898d504b6c0af0a45f8031cbf3,Web APIs
-web/api/fontface,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
+web/api/fontface,106f215d6fb32a7ee0afe09f01a82323d39cd1f0,Web APIs
 web/api/fontface/ascentoverride,9944f7b12ef1a6aecd54d4b2f0c188a82fdeaaf0,Web APIs
 web/api/fontface/descentoverride,9944f7b12ef1a6aecd54d4b2f0c188a82fdeaaf0,Web APIs
 web/api/fontface/display,3b7232826ab98368d06ebf8b021886e4a544de93,Web APIs
 web/api/fontface/family,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/fontface/featuresettings,3b7232826ab98368d06ebf8b021886e4a544de93,Web APIs
-web/api/fontface/fontface,9944f7b12ef1a6aecd54d4b2f0c188a82fdeaaf0,Web APIs
+web/api/fontface/fontface,106f215d6fb32a7ee0afe09f01a82323d39cd1f0,Web APIs
 web/api/fontface/linegapoverride,9944f7b12ef1a6aecd54d4b2f0c188a82fdeaaf0,Web APIs
 web/api/fontface/load,72af34c38ae0d97bc3c9bde4998d538bcc56634a,Web APIs
 web/api/fontface/loaded,3b7232826ab98368d06ebf8b021886e4a544de93,Web APIs
+web/api/fontface/sizeadjust,106f215d6fb32a7ee0afe09f01a82323d39cd1f0,Web APIs
 web/api/fontface/status,3b7232826ab98368d06ebf8b021886e4a544de93,Web APIs
 web/api/fontface/stretch,3b7232826ab98368d06ebf8b021886e4a544de93,Web APIs
 web/api/fontface/style,3b7232826ab98368d06ebf8b021886e4a544de93,Web APIs
@@ -10476,7 +10477,7 @@ web/css/guides/flexible_box_layout/ordering_items,03e93e0948768ea78474e77a537956
 web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,b25798255cfb773885c94557b74179400ac7153d,CSS|Guides
 web/css/guides/flexible_box_layout/use_cases,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Guides
 web/css/guides/flexible_box_layout/wrapping_items,ae836b44d9faa0e9f581631ed1dcccd2a502b618,CSS|Guides
-web/css/guides/font_loading,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/font_loading,106f215d6fb32a7ee0afe09f01a82323d39cd1f0,CSS|Guides
 web/css/guides/fonts,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5,CSS|Guides
 web/css/guides/fonts/opentype_fonts,6f5921b2634db4bd565e5e0cd38eafdadb4bb383,CSS|Guides
 web/css/guides/fonts/variable_fonts,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5,CSS|Guides
