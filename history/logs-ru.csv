@@ -810,7 +810,7 @@ web/api/element/mouseenter_event,no_hash_commit
 web/api/element/mouseleave_event,no_hash_commit
 web/api/element/mouseup_event,b965392d6e4f2c897e914a3b69dec3e2a4212782
 web/api/element/namespaceuri,no_hash_commit
-web/api/element/nextelementsibling,no_hash_commit
+web/api/element/nextelementsibling,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/api/element/outerhtml,no_hash_commit
 web/api/element/pointerover_event,no_hash_commit
 web/api/element/prefix,no_hash_commit
