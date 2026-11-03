@@ -4352,6 +4352,7 @@ web/api/fontface/fontface,null
 web/api/fontface/linegapoverride,null
 web/api/fontface/load,null
 web/api/fontface/loaded,null
+web/api/fontface/sizeadjust,null
 web/api/fontface/status,null
 web/api/fontface/stretch,null
 web/api/fontface/style,null
@@ -10476,7 +10477,7 @@ web/css/guides/flexible_box_layout/ordering_items,null
 web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,null
 web/css/guides/flexible_box_layout/use_cases,null
 web/css/guides/flexible_box_layout/wrapping_items,null
-web/css/guides/font_loading,1
+web/css/guides/font_loading,2
 web/css/guides/fonts,null
 web/css/guides/fonts/opentype_fonts,null
 web/css/guides/fonts/variable_fonts,null

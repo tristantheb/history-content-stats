@@ -4352,6 +4352,7 @@ web/api/fontface/fontface,null
 web/api/fontface/linegapoverride,null
 web/api/fontface/load,null
 web/api/fontface/loaded,null
+web/api/fontface/sizeadjust,null
 web/api/fontface/status,null
 web/api/fontface/stretch,null
 web/api/fontface/style,null
