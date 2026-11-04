@@ -10893,6 +10893,7 @@ web/css/reference/properties/column-rule-inset-cap-end,null
 web/css/reference/properties/column-rule-inset-cap-start,null
 web/css/reference/properties/column-rule-inset-junction,null
 web/css/reference/properties/column-rule-inset-junction-end,null
+web/css/reference/properties/column-rule-inset-junction-start,null
 web/css/reference/properties/column-rule-style,2
 web/css/reference/properties/column-rule-visibility-items,1
 web/css/reference/properties/column-rule-width,2
@@ -11163,6 +11164,8 @@ web/css/reference/properties/row-rule-inset-cap,null
 web/css/reference/properties/row-rule-inset-cap-end,null
 web/css/reference/properties/row-rule-inset-cap-start,null
 web/css/reference/properties/row-rule-inset-junction,null
+web/css/reference/properties/row-rule-inset-junction-end,null
+web/css/reference/properties/row-rule-inset-junction-start,null
 web/css/reference/properties/row-rule-style,2
 web/css/reference/properties/row-rule-visibility-items,1
 web/css/reference/properties/row-rule-width,2
@@ -13504,9 +13507,9 @@ web/javascript/reference/global_objects/weakmap/getorinsertcomputed,2
 web/javascript/reference/global_objects/weakmap/has,0
 web/javascript/reference/global_objects/weakmap/set,0
 web/javascript/reference/global_objects/weakmap/weakmap,1
-web/javascript/reference/global_objects/weakref,5
-web/javascript/reference/global_objects/weakref/deref,2
-web/javascript/reference/global_objects/weakref/weakref,3
+web/javascript/reference/global_objects/weakref,0
+web/javascript/reference/global_objects/weakref/deref,0
+web/javascript/reference/global_objects/weakref/weakref,0
 web/javascript/reference/global_objects/weakset,1
 web/javascript/reference/global_objects/weakset/add,0
 web/javascript/reference/global_objects/weakset/delete,0
