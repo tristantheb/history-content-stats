@@ -10891,9 +10891,9 @@ web/css/reference/properties/column-rule-color,0
 web/css/reference/properties/column-rule-inset-cap,0
 web/css/reference/properties/column-rule-inset-cap-end,0
 web/css/reference/properties/column-rule-inset-cap-start,0
-web/css/reference/properties/column-rule-inset-junction,1
-web/css/reference/properties/column-rule-inset-junction-end,1
-web/css/reference/properties/column-rule-inset-junction-start,null
+web/css/reference/properties/column-rule-inset-junction,0
+web/css/reference/properties/column-rule-inset-junction-end,0
+web/css/reference/properties/column-rule-inset-junction-start,0
 web/css/reference/properties/column-rule-style,0
 web/css/reference/properties/column-rule-visibility-items,0
 web/css/reference/properties/column-rule-width,0
@@ -11163,9 +11163,9 @@ web/css/reference/properties/row-rule-color,0
 web/css/reference/properties/row-rule-inset-cap,0
 web/css/reference/properties/row-rule-inset-cap-end,0
 web/css/reference/properties/row-rule-inset-cap-start,0
-web/css/reference/properties/row-rule-inset-junction,1
-web/css/reference/properties/row-rule-inset-junction-end,null
-web/css/reference/properties/row-rule-inset-junction-start,null
+web/css/reference/properties/row-rule-inset-junction,0
+web/css/reference/properties/row-rule-inset-junction-end,0
+web/css/reference/properties/row-rule-inset-junction-start,0
 web/css/reference/properties/row-rule-style,0
 web/css/reference/properties/row-rule-visibility-items,0
 web/css/reference/properties/row-rule-width,0
@@ -11176,7 +11176,7 @@ web/css/reference/properties/rule,0
 web/css/reference/properties/rule-break,0
 web/css/reference/properties/rule-color,0
 web/css/reference/properties/rule-inset-cap,0
-web/css/reference/properties/rule-inset-junction,1
+web/css/reference/properties/rule-inset-junction,0
 web/css/reference/properties/rule-overlap,0
 web/css/reference/properties/rule-style,0
 web/css/reference/properties/rule-visibility-items,0

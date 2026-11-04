@@ -13172,10 +13172,10 @@ web/javascript/reference/global_objects/suppressederror/error,null
 web/javascript/reference/global_objects/suppressederror/suppressed,null
 web/javascript/reference/global_objects/suppressederror/suppressederror,null
 web/javascript/reference/global_objects/symbol,2
-web/javascript/reference/global_objects/symbol/asyncdispose,1
+web/javascript/reference/global_objects/symbol/asyncdispose,2
 web/javascript/reference/global_objects/symbol/asynciterator,0
 web/javascript/reference/global_objects/symbol/description,1
-web/javascript/reference/global_objects/symbol/dispose,1
+web/javascript/reference/global_objects/symbol/dispose,2
 web/javascript/reference/global_objects/symbol/for,0
 web/javascript/reference/global_objects/symbol/hasinstance,1
 web/javascript/reference/global_objects/symbol/isconcatspreadable,2
