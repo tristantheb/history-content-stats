@@ -10888,8 +10888,9 @@ web/css/reference/properties/column-rule-color,04dfe418f2942ae739d41592c22fafa36
 web/css/reference/properties/column-rule-inset-cap-end,1a2a5b56a689b441ebf3be91b90f15746c5a5a01
 web/css/reference/properties/column-rule-inset-cap-start,1a2a5b56a689b441ebf3be91b90f15746c5a5a01
 web/css/reference/properties/column-rule-inset-cap,1a2a5b56a689b441ebf3be91b90f15746c5a5a01
-web/css/reference/properties/column-rule-inset-junction-end,1a2a5b56a689b441ebf3be91b90f15746c5a5a01
-web/css/reference/properties/column-rule-inset-junction,1a2a5b56a689b441ebf3be91b90f15746c5a5a01
+web/css/reference/properties/column-rule-inset-junction-end,068c46001316cf268128ab7a26b33fd5705cde1b
+web/css/reference/properties/column-rule-inset-junction-start,068c46001316cf268128ab7a26b33fd5705cde1b
+web/css/reference/properties/column-rule-inset-junction,068c46001316cf268128ab7a26b33fd5705cde1b
 web/css/reference/properties/column-rule-style,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8
 web/css/reference/properties/column-rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6
 web/css/reference/properties/column-rule-width,d3a0fd9820ca27a3f17642841af8426735cb4ec3
@@ -11160,7 +11161,9 @@ web/css/reference/properties/row-rule-color,5fd3b03e9ad1ee4e8bc64d4f6888570690a7
 web/css/reference/properties/row-rule-inset-cap-end,1a2a5b56a689b441ebf3be91b90f15746c5a5a01
 web/css/reference/properties/row-rule-inset-cap-start,1a2a5b56a689b441ebf3be91b90f15746c5a5a01
 web/css/reference/properties/row-rule-inset-cap,1a2a5b56a689b441ebf3be91b90f15746c5a5a01
-web/css/reference/properties/row-rule-inset-junction,1a2a5b56a689b441ebf3be91b90f15746c5a5a01
+web/css/reference/properties/row-rule-inset-junction-end,068c46001316cf268128ab7a26b33fd5705cde1b
+web/css/reference/properties/row-rule-inset-junction-start,068c46001316cf268128ab7a26b33fd5705cde1b
+web/css/reference/properties/row-rule-inset-junction,068c46001316cf268128ab7a26b33fd5705cde1b
 web/css/reference/properties/row-rule-style,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8
 web/css/reference/properties/row-rule-visibility-items,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6
 web/css/reference/properties/row-rule-width,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8
@@ -11171,7 +11174,7 @@ web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb6150
 web/css/reference/properties/rule-break,d3a0fd9820ca27a3f17642841af8426735cb4ec3
 web/css/reference/properties/rule-color,04dfe418f2942ae739d41592c22fafa3679fc03c
 web/css/reference/properties/rule-inset-cap,1a2a5b56a689b441ebf3be91b90f15746c5a5a01
-web/css/reference/properties/rule-inset-junction,1a2a5b56a689b441ebf3be91b90f15746c5a5a01
+web/css/reference/properties/rule-inset-junction,068c46001316cf268128ab7a26b33fd5705cde1b
 web/css/reference/properties/rule-overlap,0cc2d00775016fc61ae0ac1256d65ed1b56a193a
 web/css/reference/properties/rule-style,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8
 web/css/reference/properties/rule-visibility-items,f1e792d66f656c235b3c91a905b58cc7f7f1cca0
@@ -13167,10 +13170,10 @@ web/javascript/reference/global_objects/suppressederror/error,9de14917b151f7db56
 web/javascript/reference/global_objects/suppressederror,9de14917b151f7db567a65d44c2685cea754b12a
 web/javascript/reference/global_objects/suppressederror/suppressed,9de14917b151f7db567a65d44c2685cea754b12a
 web/javascript/reference/global_objects/suppressederror/suppressederror,9de14917b151f7db567a65d44c2685cea754b12a
-web/javascript/reference/global_objects/symbol/asyncdispose,9de14917b151f7db567a65d44c2685cea754b12a
+web/javascript/reference/global_objects/symbol/asyncdispose,46bc51a679f027efc49508a449f7539ee1adca22
 web/javascript/reference/global_objects/symbol/asynciterator,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70
 web/javascript/reference/global_objects/symbol/description,9de14917b151f7db567a65d44c2685cea754b12a
-web/javascript/reference/global_objects/symbol/dispose,9de14917b151f7db567a65d44c2685cea754b12a
+web/javascript/reference/global_objects/symbol/dispose,46bc51a679f027efc49508a449f7539ee1adca22
 web/javascript/reference/global_objects/symbol/for,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/symbol/hasinstance,1ddd95504b4507beeda0f08bd772eb167922b86a
 web/javascript/reference/global_objects/symbol,9de14917b151f7db567a65d44c2685cea754b12a
