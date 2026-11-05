@@ -3839,7 +3839,7 @@ web/api/element/ariacolcount,0
 web/api/element/ariacolindex,0
 web/api/element/ariacolindextext,1
 web/api/element/ariacolspan,0
-web/api/element/ariacontrolselements,null
+web/api/element/ariacontrolselements,0
 web/api/element/ariacurrent,0
 web/api/element/ariadescribedbyelements,0
 web/api/element/ariadescription,0
