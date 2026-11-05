@@ -10474,7 +10474,7 @@ web/css/guides/flexible_box_layout/aligning_items,null
 web/css/guides/flexible_box_layout/basic_concepts,null
 web/css/guides/flexible_box_layout/controlling_flex_item_ratios,null
 web/css/guides/flexible_box_layout/ordering_items,null
-web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,4
+web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,5
 web/css/guides/flexible_box_layout/use_cases,6
 web/css/guides/flexible_box_layout/wrapping_items,null
 web/css/guides/font_loading,null
@@ -11791,7 +11791,7 @@ web/html/reference/elements/html,5
 web/html/reference/elements/i,1
 web/html/reference/elements/iframe,22
 web/html/reference/elements/img,16
-web/html/reference/elements/input,8
+web/html/reference/elements/input,9
 web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,null
 web/html/reference/elements/input/color,null
