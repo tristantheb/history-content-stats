@@ -10474,7 +10474,7 @@ web/css/guides/flexible_box_layout/aligning_items,170d71538522a7dc3d98e8f5c5ba0f
 web/css/guides/flexible_box_layout/basic_concepts,3143a6094e7b87cf1a96b61f9551fb4d95049777,CSS|Guides
 web/css/guides/flexible_box_layout/controlling_flex_item_ratios,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/flexible_box_layout/ordering_items,03e93e0948768ea78474e77a53795698ebca5836,CSS|Guides
-web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,b25798255cfb773885c94557b74179400ac7153d,CSS|Guides
+web/css/guides/flexible_box_layout/relationship_with_other_layout_methods,6cc5111618cee56a288f3c4354acd2330f893434,CSS|Guides
 web/css/guides/flexible_box_layout/use_cases,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Guides
 web/css/guides/flexible_box_layout/wrapping_items,ae836b44d9faa0e9f581631ed1dcccd2a502b618,CSS|Guides
 web/css/guides/font_loading,106f215d6fb32a7ee0afe09f01a82323d39cd1f0,CSS|Guides
@@ -11791,7 +11791,7 @@ web/html/reference/elements/html,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|E
 web/html/reference/elements/i,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/iframe,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/img,74a39db9d03ec63426b0740dc0bd3cb85e5461a4,HTML|Elements
-web/html/reference/elements/input,46afd57950146568819d0bf98175a2ffdbe079d7,HTML|Elements
+web/html/reference/elements/input,5c76c9c822b4083750ff7fcabcd07422ad3a591b,HTML|Elements
 web/html/reference/elements/input/button,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/input/checkbox,46afd57950146568819d0bf98175a2ffdbe079d7,HTML|Elements
 web/html/reference/elements/input/color,3944506d4afeeed774687cf3fd950878c6229bbc,HTML|Elements
