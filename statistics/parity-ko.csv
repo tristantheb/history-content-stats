@@ -734,7 +734,7 @@ learn_web_development/core/css_layout/test_your_skills/position,null
 learn_web_development/core/css_layout/test_your_skills/responsive_design,null
 learn_web_development/core/design_for_developers,null
 learn_web_development/core/frameworks_libraries,null
-learn_web_development/core/frameworks_libraries/introduction,10
+learn_web_development/core/frameworks_libraries/introduction,11
 learn_web_development/core/frameworks_libraries/main_features,7
 learn_web_development/core/frameworks_libraries/react_accessibility,7
 learn_web_development/core/frameworks_libraries/react_components,6
@@ -1019,9 +1019,9 @@ learn_web_development/howto/web_mechanics,3
 learn_web_development/howto/web_mechanics/file_browser_bugs,null
 learn_web_development/howto/web_mechanics/how_does_the_internet_work,7
 learn_web_development/howto/web_mechanics/what_are_hyperlinks,3
-learn_web_development/howto/web_mechanics/what_is_a_domain_name,1
+learn_web_development/howto/web_mechanics/what_is_a_domain_name,2
 learn_web_development/howto/web_mechanics/what_is_a_url,10
-learn_web_development/howto/web_mechanics/what_is_a_web_server,5
+learn_web_development/howto/web_mechanics/what_is_a_web_server,6
 mdn,3
 mdn/community,7
 mdn/community/communication_channels,3
@@ -13516,7 +13516,7 @@ web/javascript/reference/global_objects/weakset/delete,5
 web/javascript/reference/global_objects/weakset/has,5
 web/javascript/reference/global_objects/weakset/weakset,4
 web/javascript/reference/iteration_protocols,32
-web/javascript/reference/javascript_technologies_overview,9
+web/javascript/reference/javascript_technologies_overview,10
 web/javascript/reference/lexical_grammar,null
 web/javascript/reference/magic_comments,null
 web/javascript/reference/operators,null
