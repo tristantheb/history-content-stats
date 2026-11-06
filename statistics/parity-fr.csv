@@ -5085,7 +5085,7 @@ web/api/htmlinputelement/formtarget,0
 web/api/htmlinputelement/height,0
 web/api/htmlinputelement/indeterminate,0
 web/api/htmlinputelement/invalid_event,2
-web/api/htmlinputelement/labels,0
+web/api/htmlinputelement/labels,1
 web/api/htmlinputelement/list,0
 web/api/htmlinputelement/max,0
 web/api/htmlinputelement/maxlength,0
@@ -11724,7 +11724,7 @@ web/html/reference/attributes/rel/compression-dictionary,0
 web/html/reference/attributes/rel/dns-prefetch,0
 web/html/reference/attributes/rel/manifest,0
 web/html/reference/attributes/rel/me,0
-web/html/reference/attributes/rel/modulepreload,0
+web/html/reference/attributes/rel/modulepreload,1
 web/html/reference/attributes/rel/noopener,0
 web/html/reference/attributes/rel/noreferrer,1
 web/html/reference/attributes/rel/preconnect,0
@@ -11860,9 +11860,9 @@ web/html/reference/elements/rtc,0
 web/html/reference/elements/ruby,0
 web/html/reference/elements/s,2
 web/html/reference/elements/samp,0
-web/html/reference/elements/script,0
-web/html/reference/elements/script/type,0
-web/html/reference/elements/script/type/importmap,1
+web/html/reference/elements/script,1
+web/html/reference/elements/script/type,1
+web/html/reference/elements/script/type/importmap,2
 web/html/reference/elements/script/type/speculationrules,1
 web/html/reference/elements/search,1
 web/html/reference/elements/section,0
@@ -12334,6 +12334,9 @@ web/javascript/guide/loops_and_iteration,null
 web/javascript/guide/memory_management,null
 web/javascript/guide/meta_programming,null
 web/javascript/guide/modules,null
+web/javascript/guide/modules/module_graph,null
+web/javascript/guide/modules/modules_across_platforms,null
+web/javascript/guide/modules/modules_on_the_web,null
 web/javascript/guide/numbers_and_strings,null
 web/javascript/guide/regular_expressions,0
 web/javascript/guide/regular_expressions/assertions,0
@@ -13523,9 +13526,9 @@ web/javascript/reference/operators,2
 web/javascript/reference/operators/addition,0
 web/javascript/reference/operators/addition_assignment,0
 web/javascript/reference/operators/assignment,0
-web/javascript/reference/operators/async_function,0
+web/javascript/reference/operators/async_function,1
 web/javascript/reference/operators/async_function_star_,0
-web/javascript/reference/operators/await,0
+web/javascript/reference/operators/await,1
 web/javascript/reference/operators/bitwise_and,null
 web/javascript/reference/operators/bitwise_and_assignment,null
 web/javascript/reference/operators/bitwise_not,null
@@ -13549,9 +13552,9 @@ web/javascript/reference/operators/function_star_,null
 web/javascript/reference/operators/greater_than,null
 web/javascript/reference/operators/greater_than_or_equal,null
 web/javascript/reference/operators/grouping,null
-web/javascript/reference/operators/import,30
+web/javascript/reference/operators/import,31
 web/javascript/reference/operators/import.meta,null
-web/javascript/reference/operators/import.meta/resolve,12
+web/javascript/reference/operators/import.meta/resolve,13
 web/javascript/reference/operators/import/defer,null
 web/javascript/reference/operators/import/source,null
 web/javascript/reference/operators/in,null

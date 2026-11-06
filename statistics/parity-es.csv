@@ -11860,7 +11860,7 @@ web/html/reference/elements/rtc,null
 web/html/reference/elements/ruby,null
 web/html/reference/elements/s,null
 web/html/reference/elements/samp,null
-web/html/reference/elements/script,15
+web/html/reference/elements/script,16
 web/html/reference/elements/script/type,null
 web/html/reference/elements/script/type/importmap,null
 web/html/reference/elements/script/type/speculationrules,null
@@ -12334,6 +12334,9 @@ web/javascript/guide/loops_and_iteration,null
 web/javascript/guide/memory_management,null
 web/javascript/guide/meta_programming,null
 web/javascript/guide/modules,null
+web/javascript/guide/modules/module_graph,null
+web/javascript/guide/modules/modules_across_platforms,null
+web/javascript/guide/modules/modules_on_the_web,null
 web/javascript/guide/numbers_and_strings,null
 web/javascript/guide/regular_expressions,null
 web/javascript/guide/regular_expressions/assertions,null
