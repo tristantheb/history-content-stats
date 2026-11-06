@@ -6896,7 +6896,8 @@ web/css/guides/fonts/opentype_fonts,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/fonts/variable_fonts,1dbba9f7a2c2e35c6e01e8a63159e2aac64b601b
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d
-web/css/guides/gaps,8a13259a44523cd17b4fe347088b62c6d7a35265
+web/css/guides/gaps/defining_gaps,d78544a841b0e266a6efc169c044573f5e0b4e7d
+web/css/guides/gaps,f641d1e7c63d8300c9ff1c6a24158a80e1f24ab0
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d
 web/css/guides/grid_layout/auto-placement,85fccefc8066bd49af4ddafc12c77f35265c7e2d
