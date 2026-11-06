@@ -3441,7 +3441,7 @@ web/api/delegatedinktrailpresenter/expectedimprovement,2
 web/api/delegatedinktrailpresenter/presentationarea,null
 web/api/delegatedinktrailpresenter/updateinktrailstartpoint,null
 web/api/deprecationreport,null
-web/api/device_memory_api,2
+web/api/device_memory_api,3
 web/api/device_orientation_events,2
 web/api/device_orientation_events/detecting_device_orientation,null
 web/api/device_orientation_events/orientation_and_motion_data_explained,null
@@ -6298,7 +6298,7 @@ web/api/navigationtransition/finished,2
 web/api/navigationtransition/from,2
 web/api/navigationtransition/navigationtype,2
 web/api/navigationtransition/to,null
-web/api/navigator,3
+web/api/navigator,4
 web/api/navigator/activevrdisplays,5
 web/api/navigator/appcodename,3
 web/api/navigator/appname,3
@@ -6314,7 +6314,7 @@ web/api/navigator/contacts,1
 web/api/navigator/cookieenabled,4
 web/api/navigator/credentials,1
 web/api/navigator/deprecatedreplaceinurn,3
-web/api/navigator/devicememory,0
+web/api/navigator/devicememory,1
 web/api/navigator/deviceposture,null
 web/api/navigator/donottrack,4
 web/api/navigator/geolocation,1
@@ -6460,7 +6460,7 @@ web/api/nodelist/item,null
 web/api/nodelist/keys,null
 web/api/nodelist/length,0
 web/api/nodelist/values,4
-web/api/notification,8
+web/api/notification,9
 web/api/notification/actions,2
 web/api/notification/badge,1
 web/api/notification/body,0
@@ -6771,7 +6771,7 @@ web/api/performancelonganimationframetiming/renderstart,null
 web/api/performancelonganimationframetiming/scripts,null
 web/api/performancelonganimationframetiming/styleandlayoutstart,null
 web/api/performancelonganimationframetiming/tojson,null
-web/api/performancelongtasktiming,2
+web/api/performancelongtasktiming,3
 web/api/performancelongtasktiming/attribution,null
 web/api/performancelongtasktiming/tojson,null
 web/api/performancemark,null
@@ -10035,7 +10035,7 @@ web/api/workernavigator/appname,4
 web/api/workernavigator/appversion,4
 web/api/workernavigator/clearappbadge,1
 web/api/workernavigator/connection,0
-web/api/workernavigator/devicememory,3
+web/api/workernavigator/devicememory,4
 web/api/workernavigator/globalprivacycontrol,4
 web/api/workernavigator/gpu,4
 web/api/workernavigator/hardwareconcurrency,null

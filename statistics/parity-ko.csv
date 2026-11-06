@@ -3441,7 +3441,7 @@ web/api/delegatedinktrailpresenter/expectedimprovement,null
 web/api/delegatedinktrailpresenter/presentationarea,null
 web/api/delegatedinktrailpresenter/updateinktrailstartpoint,null
 web/api/deprecationreport,null
-web/api/device_memory_api,2
+web/api/device_memory_api,3
 web/api/device_orientation_events,3
 web/api/device_orientation_events/detecting_device_orientation,null
 web/api/device_orientation_events/orientation_and_motion_data_explained,null
