@@ -10483,8 +10483,8 @@ web/css/guides/fonts/opentype_fonts,3
 web/css/guides/fonts/variable_fonts,2
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
-web/css/guides/gaps,3
-web/css/guides/gaps/defining_gaps,null
+web/css/guides/gaps,0
+web/css/guides/gaps/defining_gaps,0
 web/css/guides/gaps/defining_rules,null
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,2
