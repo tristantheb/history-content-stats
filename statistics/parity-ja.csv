@@ -1891,7 +1891,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,1
 mozilla/add-ons/webextensions/your_second_webextension,10
 mozilla/firefox,0
-mozilla/firefox/experimental_features,1
+mozilla/firefox/experimental_features,2
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -10485,7 +10485,7 @@ web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
 web/css/guides/gaps,0
 web/css/guides/gaps/defining_gaps,0
-web/css/guides/gaps/defining_rules,null
+web/css/guides/gaps/defining_rules,0
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,2
 web/css/guides/grid_layout/accessibility,0
