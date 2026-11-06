@@ -4445,9 +4445,9 @@ web/api/geolocation/watchposition,0
 web/api/geolocation_api,null
 web/api/geolocation_api/using_the_geolocation_api,null
 web/api/geolocationcoordinates,1
-web/api/geolocationcoordinates/accuracy,0
+web/api/geolocationcoordinates/accuracy,1
 web/api/geolocationcoordinates/altitude,0
-web/api/geolocationcoordinates/altitudeaccuracy,0
+web/api/geolocationcoordinates/altitudeaccuracy,1
 web/api/geolocationcoordinates/heading,0
 web/api/geolocationcoordinates/latitude,0
 web/api/geolocationcoordinates/longitude,0
@@ -12334,6 +12334,9 @@ web/javascript/guide/loops_and_iteration,null
 web/javascript/guide/memory_management,null
 web/javascript/guide/meta_programming,null
 web/javascript/guide/modules,null
+web/javascript/guide/modules/module_graph,null
+web/javascript/guide/modules/modules_across_platforms,null
+web/javascript/guide/modules/modules_on_the_web,null
 web/javascript/guide/numbers_and_strings,null
 web/javascript/guide/regular_expressions,null
 web/javascript/guide/regular_expressions/assertions,null

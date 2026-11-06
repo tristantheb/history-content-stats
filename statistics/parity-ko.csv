@@ -4445,9 +4445,9 @@ web/api/geolocation/watchposition,null
 web/api/geolocation_api,11
 web/api/geolocation_api/using_the_geolocation_api,6
 web/api/geolocationcoordinates,9
-web/api/geolocationcoordinates/accuracy,1
+web/api/geolocationcoordinates/accuracy,2
 web/api/geolocationcoordinates/altitude,1
-web/api/geolocationcoordinates/altitudeaccuracy,1
+web/api/geolocationcoordinates/altitudeaccuracy,2
 web/api/geolocationcoordinates/heading,2
 web/api/geolocationcoordinates/latitude,1
 web/api/geolocationcoordinates/longitude,2
@@ -5085,7 +5085,7 @@ web/api/htmlinputelement/formtarget,null
 web/api/htmlinputelement/height,null
 web/api/htmlinputelement/indeterminate,null
 web/api/htmlinputelement/invalid_event,null
-web/api/htmlinputelement/labels,1
+web/api/htmlinputelement/labels,2
 web/api/htmlinputelement/list,null
 web/api/htmlinputelement/max,null
 web/api/htmlinputelement/maxlength,null
@@ -12334,6 +12334,9 @@ web/javascript/guide/loops_and_iteration,null
 web/javascript/guide/memory_management,9
 web/javascript/guide/meta_programming,1
 web/javascript/guide/modules,null
+web/javascript/guide/modules/module_graph,null
+web/javascript/guide/modules/modules_across_platforms,null
+web/javascript/guide/modules/modules_on_the_web,null
 web/javascript/guide/numbers_and_strings,null
 web/javascript/guide/regular_expressions,null
 web/javascript/guide/regular_expressions/assertions,null
@@ -13525,7 +13528,7 @@ web/javascript/reference/operators/addition_assignment,null
 web/javascript/reference/operators/assignment,null
 web/javascript/reference/operators/async_function,null
 web/javascript/reference/operators/async_function_star_,13
-web/javascript/reference/operators/await,2
+web/javascript/reference/operators/await,3
 web/javascript/reference/operators/bitwise_and,null
 web/javascript/reference/operators/bitwise_and_assignment,7
 web/javascript/reference/operators/bitwise_not,null
