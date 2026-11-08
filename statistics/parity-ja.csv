@@ -1071,7 +1071,7 @@ mdn/writing_guidelines/page_structures/banners_and_notices,7
 mdn/writing_guidelines/page_structures/code_examples,3
 mdn/writing_guidelines/page_structures/compatibility_tables,1
 mdn/writing_guidelines/page_structures/feature_status,10
-mdn/writing_guidelines/page_structures/links,9
+mdn/writing_guidelines/page_structures/links,10
 mdn/writing_guidelines/page_structures/live_samples,2
 mdn/writing_guidelines/page_structures/macros,3
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,12
@@ -10396,8 +10396,8 @@ web/css/guides/anchor_positioning,0
 web/css/guides/anchor_positioning/anchored_container_queries,0
 web/css/guides/anchor_positioning/try_options_hiding,2
 web/css/guides/anchor_positioning/using,1
-web/css/guides/animation_triggers,null
-web/css/guides/animation_triggers/using_scroll-triggered_animations,null
+web/css/guides/animation_triggers,0
+web/css/guides/animation_triggers/using_scroll-triggered_animations,0
 web/css/guides/animations,0
 web/css/guides/animations/animatable_properties,0
 web/css/guides/animations/using,0
