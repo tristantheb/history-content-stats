@@ -12216,7 +12216,7 @@ web/http/reference/headers/timing-allow-origin,1
 web/http/reference/headers/tk,null
 web/http/reference/headers/trailer,0
 web/http/reference/headers/transfer-encoding,0
-web/http/reference/headers/upgrade,1
+web/http/reference/headers/upgrade,2
 web/http/reference/headers/upgrade-insecure-requests,0
 web/http/reference/headers/use-as-dictionary,null
 web/http/reference/headers/user-agent,0
