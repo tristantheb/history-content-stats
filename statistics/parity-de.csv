@@ -880,12 +880,12 @@ learn_web_development/extensions/forms/basic_native_form_controls,0
 learn_web_development/extensions/forms/customizable_select,0
 learn_web_development/extensions/forms/customizable_select_listboxes,0
 learn_web_development/extensions/forms/form_validation,0
-learn_web_development/extensions/forms/how_to_build_custom_form_controls,1
+learn_web_development/extensions/forms/how_to_build_custom_form_controls,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,0
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_3,0
-learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_4,1
-learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_5,1
+learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_4,0
+learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_5,0
 learn_web_development/extensions/forms/how_to_structure_a_web_form,0
 learn_web_development/extensions/forms/how_to_structure_a_web_form/example,0
 learn_web_development/extensions/forms/html5_input_types,0
@@ -1891,7 +1891,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,5
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1963,10 +1963,11 @@ mozilla/firefox/releases/155,0
 mozilla/firefox/releases/156,0
 mozilla/firefox/releases/157,0
 mozilla/firefox/releases/158,0
-mozilla/firefox/releases/159,0
+mozilla/firefox/releases/159,1
 mozilla/firefox/releases/16,0
-mozilla/firefox/releases/160,7
-mozilla/firefox/releases/161,0
+mozilla/firefox/releases/160,1
+mozilla/firefox/releases/161,1
+mozilla/firefox/releases/162,null
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
 mozilla/firefox/releases/19,0
@@ -4176,6 +4177,8 @@ web/api/ext_disjoint_timer_query/isqueryext,0
 web/api/ext_disjoint_timer_query/querycounterext,0
 web/api/ext_float_blend,0
 web/api/ext_frag_depth,0
+web/api/ext_polygon_offset_clamp,0
+web/api/ext_polygon_offset_clamp/polygonoffsetclampext,0
 web/api/ext_shader_texture_lod,0
 web/api/ext_srgb,0
 web/api/ext_texture_compression_bptc,0
@@ -4758,7 +4761,7 @@ web/api/html_drag_and_drop_api/drag_data_store,0
 web/api/html_drag_and_drop_api/drag_operations,0
 web/api/html_drag_and_drop_api/file_drag_and_drop,0
 web/api/html_drag_and_drop_api/kanban_board,0
-web/api/html_sanitizer_api,0
+web/api/html_sanitizer_api,1
 web/api/html_sanitizer_api/default_sanitizer_configuration,0
 web/api/html_sanitizer_api/using_the_html_sanitizer_api,0
 web/api/htmlallcollection,0
@@ -6321,7 +6324,7 @@ web/api/navigator/geolocation,0
 web/api/navigator/getautoplaypolicy,0
 web/api/navigator/getbattery,0
 web/api/navigator/getgamepads,0
-web/api/navigator/getinstalledrelatedapps,1
+web/api/navigator/getinstalledrelatedapps,0
 web/api/navigator/getusermedia,0
 web/api/navigator/getvrdisplays,0
 web/api/navigator/globalprivacycontrol,0
@@ -7872,7 +7875,7 @@ web/api/serviceworkerglobalscope/clients,0
 web/api/serviceworkerglobalscope/contentdelete_event,0
 web/api/serviceworkerglobalscope/cookiechange_event,0
 web/api/serviceworkerglobalscope/cookiestore,0
-web/api/serviceworkerglobalscope/fetch_event,1
+web/api/serviceworkerglobalscope/fetch_event,0
 web/api/serviceworkerglobalscope/install_event,0
 web/api/serviceworkerglobalscope/message_event,0
 web/api/serviceworkerglobalscope/messageerror_event,0
@@ -11804,7 +11807,7 @@ web/html/reference/elements/input/image,0
 web/html/reference/elements/input/month,0
 web/html/reference/elements/input/number,0
 web/html/reference/elements/input/password,0
-web/html/reference/elements/input/radio,0
+web/html/reference/elements/input/radio,1
 web/html/reference/elements/input/range,0
 web/html/reference/elements/input/reset,0
 web/html/reference/elements/input/search,0
