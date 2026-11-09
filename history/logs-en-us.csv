@@ -1965,7 +1965,7 @@ mozilla/firefox/releases/157,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6,Mozilla|Fi
 mozilla/firefox/releases/158,521fe7795f4dbfa723d800a94884d7608fa0e17e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/159,9126ecf140009f571300b0d083148eb31e826128,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
-mozilla/firefox/releases/160,86e6a39c09408844137f307b83d35eca43d5cfda,Mozilla|Firefox|Versions
+mozilla/firefox/releases/160,72ef05df2a84b01b5c6c9d53b8fe011d51555621,Mozilla|Firefox|Versions
 mozilla/firefox/releases/161,521fe7795f4dbfa723d800a94884d7608fa0e17e,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -3981,7 +3981,7 @@ web/api/element/pointerup_event,e1b44d1e4197102da109a563f343cf41ef06ca7c,Web API
 web/api/element/prefix,68f3a6c1641c2524d291c9103589f3aa361e74a2,Web APIs
 web/api/element/prepend,bd15d43260b7e72b1066c04d9d9f3b79129c619c,Web APIs
 web/api/element/previouselementsibling,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
-web/api/element/pseudo,b0db98a5c5a6cc7dbc519c272ab0572f6481afc6,Web APIs
+web/api/element/pseudo,1b1802abb7dc82aba2a13c429d25a34aaa945acf,Web APIs
 web/api/element/queryselector,f69b6693212029ce4b9fa0c753729044577af548,Web APIs
 web/api/element/queryselectorall,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/element/releasepointercapture,6ba4f3b350be482ba22726f31bbcf8ad3c92a9c6,Web APIs
@@ -5508,7 +5508,7 @@ web/api/htmlvideoelement/height,d8a52569d8d465eb626af3d33600c8c638a7a322,Web API
 web/api/htmlvideoelement/leavepictureinpicture_event,500a87094bd8ca5e41a6dab23f733867b9c9570e,Web APIs
 web/api/htmlvideoelement/poster,85e913af9f01e216149d3381586eb0c784fefff7,Web APIs
 web/api/htmlvideoelement/requestpictureinpicture,61ceefea7281f267055e4481a9a610d7ac2e724e,Web APIs
-web/api/htmlvideoelement/requestvideoframecallback,116577234db1d6275c74a8bb879fce54d944f4ed,Web APIs
+web/api/htmlvideoelement/requestvideoframecallback,c98fd1910ac9ab60ded1314ee681289f9a321d91,Web APIs
 web/api/htmlvideoelement/resize_event,2f34ca590baf2d5447d42fc79002a70b9cb65e73,Web APIs
 web/api/htmlvideoelement/videoheight,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
 web/api/htmlvideoelement/videowidth,595cba0e07c70eda7f08a12890e00ea0281933d3,Web APIs
@@ -13736,7 +13736,7 @@ web/media/guides/formats/audio_codecs,e404ef152d13623bc21e053c7cb9b81903fbce63,M
 web/media/guides/formats/audio_concepts,e404ef152d13623bc21e053c7cb9b81903fbce63,Media|Guides
 web/media/guides/formats/codecs_parameter,517b6108edc9a1eae8723f7f3ae434c1724d89ac,Media|Guides
 web/media/guides/formats/configuring_servers_for_ogg_media,4d929bb0a021c7130d5a71a4bf505bcb8070378d,Media|Guides
-web/media/guides/formats/containers,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,Media|Guides
+web/media/guides/formats/containers,d560306b5e077c2398a46863342fbaed96ed80bf,Media|Guides
 web/media/guides/formats/image_types,0ac0038dcfebe080906448b90eedfe6db0a29f0a,Media|Guides
 web/media/guides/formats/support_issues,27bceead8e9b1fe9c92df0fa5e418f81bd5b9fdf,Media|Guides
 web/media/guides/formats/video_codecs,2a563c927890794b513523649ccfbbe48d336465,Media|Guides
