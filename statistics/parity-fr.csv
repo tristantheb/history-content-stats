@@ -3981,7 +3981,7 @@ web/api/element/pointerup_event,1
 web/api/element/prefix,0
 web/api/element/prepend,0
 web/api/element/previouselementsibling,0
-web/api/element/pseudo,0
+web/api/element/pseudo,1
 web/api/element/queryselector,0
 web/api/element/queryselectorall,0
 web/api/element/releasepointercapture,0
@@ -5508,7 +5508,7 @@ web/api/htmlvideoelement/height,0
 web/api/htmlvideoelement/leavepictureinpicture_event,1
 web/api/htmlvideoelement/poster,0
 web/api/htmlvideoelement/requestpictureinpicture,0
-web/api/htmlvideoelement/requestvideoframecallback,0
+web/api/htmlvideoelement/requestvideoframecallback,1
 web/api/htmlvideoelement/resize_event,1
 web/api/htmlvideoelement/videoheight,0
 web/api/htmlvideoelement/videowidth,0

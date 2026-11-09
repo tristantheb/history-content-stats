@@ -4751,8 +4751,8 @@ web/api/hmdvrdevice/geteyeparameters,null
 web/api/hmdvrdevice/setfieldofview,null
 web/api/houdini_apis,6
 web/api/html_dom_api,12
-web/api/html_dom_api/microtask_guide,13
-web/api/html_dom_api/microtask_guide/in_depth,null
+web/api/html_dom_api/microtask_guide,0
+web/api/html_dom_api/microtask_guide/in_depth,0
 web/api/html_drag_and_drop_api,2
 web/api/html_drag_and_drop_api/drag_data_store,3
 web/api/html_drag_and_drop_api/drag_operations,3
@@ -5508,7 +5508,7 @@ web/api/htmlvideoelement/height,0
 web/api/htmlvideoelement/leavepictureinpicture_event,4
 web/api/htmlvideoelement/poster,0
 web/api/htmlvideoelement/requestpictureinpicture,5
-web/api/htmlvideoelement/requestvideoframecallback,8
+web/api/htmlvideoelement/requestvideoframecallback,9
 web/api/htmlvideoelement/resize_event,2
 web/api/htmlvideoelement/videoheight,1
 web/api/htmlvideoelement/videowidth,0
@@ -12142,7 +12142,7 @@ web/http/reference/headers/permissions-policy/speaker-selection,2
 web/http/reference/headers/permissions-policy/storage-access,3
 web/http/reference/headers/permissions-policy/summarizer,null
 web/http/reference/headers/permissions-policy/translator,null
-web/http/reference/headers/permissions-policy/unload,null
+web/http/reference/headers/permissions-policy/unload,0
 web/http/reference/headers/permissions-policy/usb,2
 web/http/reference/headers/permissions-policy/web-share,2
 web/http/reference/headers/permissions-policy/window-management,2
@@ -12504,7 +12504,7 @@ web/javascript/reference/functions/method_definitions,0
 web/javascript/reference/functions/rest_parameters,0
 web/javascript/reference/functions/set,1
 web/javascript/reference/global_objects,1
-web/javascript/reference/global_objects/abstractmodulesource,null
+web/javascript/reference/global_objects/abstractmodulesource,0
 web/javascript/reference/global_objects/aggregateerror,1
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,2
 web/javascript/reference/global_objects/aggregateerror/errors,0
@@ -13736,7 +13736,7 @@ web/media/guides/formats/audio_codecs,null
 web/media/guides/formats/audio_concepts,null
 web/media/guides/formats/codecs_parameter,null
 web/media/guides/formats/configuring_servers_for_ogg_media,null
-web/media/guides/formats/containers,9
+web/media/guides/formats/containers,10
 web/media/guides/formats/image_types,6
 web/media/guides/formats/support_issues,null
 web/media/guides/formats/video_codecs,1
@@ -13900,7 +13900,7 @@ web/svg/guides/svg_animation_with_smil,0
 web/svg/guides/svg_as_an_image,0
 web/svg/guides/svg_in_html,0
 web/svg/reference,0
-web/svg/reference/attribute,7
+web/svg/reference/attribute,1
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,0
 web/svg/reference/attribute/alignment-baseline,1
