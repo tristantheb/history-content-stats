@@ -1965,7 +1965,7 @@ mozilla/firefox/releases/157,0
 mozilla/firefox/releases/158,0
 mozilla/firefox/releases/159,0
 mozilla/firefox/releases/16,0
-mozilla/firefox/releases/160,1
+mozilla/firefox/releases/160,0
 mozilla/firefox/releases/161,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -3981,7 +3981,7 @@ web/api/element/pointerup_event,0
 web/api/element/prefix,0
 web/api/element/prepend,0
 web/api/element/previouselementsibling,0
-web/api/element/pseudo,1
+web/api/element/pseudo,0
 web/api/element/queryselector,0
 web/api/element/queryselectorall,0
 web/api/element/releasepointercapture,0
@@ -5508,7 +5508,7 @@ web/api/htmlvideoelement/height,0
 web/api/htmlvideoelement/leavepictureinpicture_event,0
 web/api/htmlvideoelement/poster,0
 web/api/htmlvideoelement/requestpictureinpicture,0
-web/api/htmlvideoelement/requestvideoframecallback,1
+web/api/htmlvideoelement/requestvideoframecallback,0
 web/api/htmlvideoelement/resize_event,0
 web/api/htmlvideoelement/videoheight,0
 web/api/htmlvideoelement/videowidth,0
@@ -13736,7 +13736,7 @@ web/media/guides/formats/audio_codecs,0
 web/media/guides/formats/audio_concepts,0
 web/media/guides/formats/codecs_parameter,0
 web/media/guides/formats/configuring_servers_for_ogg_media,0
-web/media/guides/formats/containers,1
+web/media/guides/formats/containers,0
 web/media/guides/formats/image_types,0
 web/media/guides/formats/support_issues,0
 web/media/guides/formats/video_codecs,0
