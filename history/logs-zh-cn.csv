@@ -2675,6 +2675,7 @@ web/api/element/pointerup_event,e1b44d1e4197102da109a563f343cf41ef06ca7c
 web/api/element/prefix,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
 web/api/element/prepend,bd15d43260b7e72b1066c04d9d9f3b79129c619c
 web/api/element/previouselementsibling,no_hash_commit
+web/api/element/pseudo,1b1802abb7dc82aba2a13c429d25a34aaa945acf
 web/api/element/queryselector,no_hash_commit
 web/api/element/queryselectorall,no_hash_commit
 web/api/element/remove,no_hash_commit
