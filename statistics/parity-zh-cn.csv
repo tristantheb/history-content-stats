@@ -3981,7 +3981,7 @@ web/api/element/pointerup_event,0
 web/api/element/prefix,2
 web/api/element/prepend,0
 web/api/element/previouselementsibling,null
-web/api/element/pseudo,null
+web/api/element/pseudo,0
 web/api/element/queryselector,null
 web/api/element/queryselectorall,null
 web/api/element/releasepointercapture,null
@@ -12333,7 +12333,7 @@ web/javascript/guide/language_overview,6
 web/javascript/guide/loops_and_iteration,null
 web/javascript/guide/memory_management,9
 web/javascript/guide/meta_programming,null
-web/javascript/guide/modules,16
+web/javascript/guide/modules,17
 web/javascript/guide/modules/module_graph,null
 web/javascript/guide/modules/modules_across_platforms,null
 web/javascript/guide/modules/modules_on_the_web,null
