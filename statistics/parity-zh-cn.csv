@@ -52,7 +52,7 @@ games/tutorials/2d_breakout_game_phaser/track_the_score_and_win,1
 games/tutorials/2d_breakout_game_pure_javascript,1
 games/tutorials/2d_breakout_game_pure_javascript/animations_and_tweens,null
 games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,1
-games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,0
+games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,1
 games/tutorials/2d_breakout_game_pure_javascript/buttons,null
 games/tutorials/2d_breakout_game_pure_javascript/extra_lives,1
 games/tutorials/2d_breakout_game_pure_javascript/game_over,1
@@ -842,8 +842,8 @@ learn_web_development/core/styling_basics/values_and_units,17
 learn_web_development/core/styling_basics/what_is_css,6
 learn_web_development/core/text_styling,null
 learn_web_development/core/text_styling/fundamentals,null
-learn_web_development/core/text_styling/styling_links,6
-learn_web_development/core/text_styling/styling_lists,0
+learn_web_development/core/text_styling/styling_links,7
+learn_web_development/core/text_styling/styling_lists,1
 learn_web_development/core/text_styling/typesetting_a_homepage,null
 learn_web_development/core/text_styling/web_fonts,null
 learn_web_development/core/version_control,null
@@ -981,7 +981,7 @@ learn_web_development/getting_started/soft_skills/finding_a_job,null
 learn_web_development/getting_started/soft_skills/research_and_learning,10
 learn_web_development/getting_started/soft_skills/workflows_and_processes,null
 learn_web_development/getting_started/web_standards,0
-learn_web_development/getting_started/web_standards/how_browsers_load_websites,0
+learn_web_development/getting_started/web_standards/how_browsers_load_websites,1
 learn_web_development/getting_started/web_standards/how_the_web_works,18
 learn_web_development/getting_started/web_standards/the_web_standards_model,13
 learn_web_development/getting_started/your_first_website,0
@@ -999,7 +999,7 @@ learn_web_development/howto/design_and_accessibility/thinking_before_coding,null
 learn_web_development/howto/design_and_accessibility/what_is_accessibility,null
 learn_web_development/howto/solve_css_problems,null
 learn_web_development/howto/solve_css_problems/add_a_shadow,null
-learn_web_development/howto/solve_css_problems/add_a_text_shadow,1
+learn_web_development/howto/solve_css_problems/add_a_text_shadow,2
 learn_web_development/howto/solve_css_problems/center_an_item,null
 learn_web_development/howto/solve_css_problems/create_fancy_boxes,null
 learn_web_development/howto/solve_css_problems/css_faq,null
@@ -1463,7 +1463,7 @@ mozilla/add-ons/webextensions/api/notifications,2
 mozilla/add-ons/webextensions/api/notifications/clear,2
 mozilla/add-ons/webextensions/api/notifications/create,1
 mozilla/add-ons/webextensions/api/notifications/getall,2
-mozilla/add-ons/webextensions/api/notifications/notificationoptions,3
+mozilla/add-ons/webextensions/api/notifications/notificationoptions,4
 mozilla/add-ons/webextensions/api/notifications/onbuttonclicked,3
 mozilla/add-ons/webextensions/api/notifications/onclicked,3
 mozilla/add-ons/webextensions/api/notifications/onclosed,3
@@ -1889,7 +1889,7 @@ mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,10
 mozilla/add-ons/webextensions/your_first_webextension,2
-mozilla/add-ons/webextensions/your_second_webextension,3
+mozilla/add-ons/webextensions/your_second_webextension,4
 mozilla/firefox,5
 mozilla/firefox/experimental_features,null
 mozilla/firefox/releases,2
@@ -2754,7 +2754,7 @@ web/api/canvas_api/tutorial/basic_animations,null
 web/api/canvas_api/tutorial/basic_usage,null
 web/api/canvas_api/tutorial/compositing,null
 web/api/canvas_api/tutorial/drawing_shapes,null
-web/api/canvas_api/tutorial/drawing_text,3
+web/api/canvas_api/tutorial/drawing_text,4
 web/api/canvas_api/tutorial/finale,null
 web/api/canvas_api/tutorial/optimizing_canvas,null
 web/api/canvas_api/tutorial/pixel_manipulation_with_canvas,null
@@ -2822,7 +2822,7 @@ web/api/canvasrenderingcontext2d/reset,2
 web/api/canvasrenderingcontext2d/resettransform,2
 web/api/canvasrenderingcontext2d/restore,3
 web/api/canvasrenderingcontext2d/rotate,2
-web/api/canvasrenderingcontext2d/roundrect,4
+web/api/canvasrenderingcontext2d/roundrect,5
 web/api/canvasrenderingcontext2d/save,3
 web/api/canvasrenderingcontext2d/scale,1
 web/api/canvasrenderingcontext2d/setlinedash,3
@@ -2932,7 +2932,7 @@ web/api/commandevent,1
 web/api/commandevent/command,0
 web/api/commandevent/commandevent,0
 web/api/commandevent/source,0
-web/api/comment,0
+web/api/comment,1
 web/api/comment/comment,1
 web/api/compositionevent,null
 web/api/compositionevent/compositionevent,null
@@ -3475,7 +3475,7 @@ web/api/deviceposture/change_event,null
 web/api/deviceposture/type,null
 web/api/directoryentrysync,null
 web/api/directoryreadersync,null
-web/api/document,9
+web/api/document,10
 web/api/document/activeelement,6
 web/api/document/activeviewtransition,null
 web/api/document/adoptedstylesheets,6
@@ -3526,7 +3526,7 @@ web/api/document/dir,1
 web/api/document/doctype,1
 web/api/document/document,1
 web/api/document/documentelement,2
-web/api/document/documenturi,0
+web/api/document/documenturi,1
 web/api/document/domain,null
 web/api/document/domcontentloaded_event,null
 web/api/document/elementfrompoint,1
@@ -3614,7 +3614,7 @@ web/api/document/stylesheets,null
 web/api/document/stylesheetsets,null
 web/api/document/timeline,1
 web/api/document/title,0
-web/api/document/url,0
+web/api/document/url,1
 web/api/document/visibilitychange_event,4
 web/api/document/visibilitystate,null
 web/api/document/vlinkcolor,1
@@ -3716,7 +3716,7 @@ web/api/dommatrixreadonly/translate,null
 web/api/domparser,1
 web/api/domparser/domparser,0
 web/api/domparser/parsefromstring,0
-web/api/dompoint,0
+web/api/dompoint,1
 web/api/dompoint/dompoint,null
 web/api/dompoint/frompoint_static,null
 web/api/dompoint/w,null
@@ -3732,7 +3732,7 @@ web/api/dompointreadonly/w,0
 web/api/dompointreadonly/x,0
 web/api/dompointreadonly/y,0
 web/api/dompointreadonly/z,0
-web/api/domquad,3
+web/api/domquad,4
 web/api/domquad/domquad,null
 web/api/domquad/fromquad_static,null
 web/api/domquad/fromrect_static,null
@@ -3784,7 +3784,7 @@ web/api/domtokenlist/toggle,null
 web/api/domtokenlist/tostring,0
 web/api/domtokenlist/value,0
 web/api/domtokenlist/values,null
-web/api/dragevent,0
+web/api/dragevent,1
 web/api/dragevent/datatransfer,0
 web/api/dragevent/dragevent,null
 web/api/dynamicscompressornode,null
@@ -3898,7 +3898,7 @@ web/api/element/classlist,null
 web/api/element/classname,null
 web/api/element/click_event,1
 web/api/element/clientheight,null
-web/api/element/clientleft,2
+web/api/element/clientleft,0
 web/api/element/clienttop,null
 web/api/element/clientwidth,null
 web/api/element/closest,null
@@ -3949,7 +3949,7 @@ web/api/element/insertadjacentelement,4
 web/api/element/insertadjacenthtml,null
 web/api/element/insertadjacenttext,null
 web/api/element/keydown_event,1
-web/api/element/keypress_event,1
+web/api/element/keypress_event,2
 web/api/element/keyup_event,null
 web/api/element/lastelementchild,1
 web/api/element/localname,null
@@ -4693,7 +4693,7 @@ web/api/hid/requestdevice,4
 web/api/hidconnectionevent,0
 web/api/hidconnectionevent/device,0
 web/api/hidconnectionevent/hidconnectionevent,0
-web/api/hiddevice,1
+web/api/hiddevice,2
 web/api/hiddevice/close,0
 web/api/hiddevice/collections,3
 web/api/hiddevice/forget,0
@@ -4710,7 +4710,7 @@ web/api/hidinputreportevent,0
 web/api/hidinputreportevent/data,0
 web/api/hidinputreportevent/device,0
 web/api/hidinputreportevent/reportid,0
-web/api/highlight,4
+web/api/highlight,5
 web/api/highlight/add,null
 web/api/highlight/clear,null
 web/api/highlight/delete,null
@@ -4772,7 +4772,7 @@ web/api/htmlanchorelement,6
 web/api/htmlanchorelement/attributionsourceid,null
 web/api/htmlanchorelement/attributionsrc,7
 web/api/htmlanchorelement/download,1
-web/api/htmlanchorelement/hash,1
+web/api/htmlanchorelement/hash,0
 web/api/htmlanchorelement/host,1
 web/api/htmlanchorelement/hostname,1
 web/api/htmlanchorelement/href,1
@@ -5174,7 +5174,7 @@ web/api/htmlmediaelement/controls,1
 web/api/htmlmediaelement/controlslist,1
 web/api/htmlmediaelement/crossorigin,null
 web/api/htmlmediaelement/currentsrc,null
-web/api/htmlmediaelement/currenttime,1
+web/api/htmlmediaelement/currenttime,2
 web/api/htmlmediaelement/defaultmuted,1
 web/api/htmlmediaelement/defaultplaybackrate,0
 web/api/htmlmediaelement/disableremoteplayback,0
@@ -5382,7 +5382,7 @@ web/api/htmlstyleelement/sheet,null
 web/api/htmlstyleelement/type,null
 web/api/htmltablecaptionelement,0
 web/api/htmltablecaptionelement/align,3
-web/api/htmltablecellelement,2
+web/api/htmltablecellelement,3
 web/api/htmltablecellelement/abbr,1
 web/api/htmltablecellelement/align,3
 web/api/htmltablecellelement/bgcolor,4
@@ -6301,7 +6301,7 @@ web/api/navigationtransition/finished,2
 web/api/navigationtransition/from,2
 web/api/navigationtransition/navigationtype,2
 web/api/navigationtransition/to,null
-web/api/navigator,4
+web/api/navigator,5
 web/api/navigator/activevrdisplays,5
 web/api/navigator/appcodename,3
 web/api/navigator/appname,3
@@ -6344,7 +6344,7 @@ web/api/navigator/mediadevices,1
 web/api/navigator/mediasession,1
 web/api/navigator/mimetypes,2
 web/api/navigator/online,1
-web/api/navigator/oscpu,1
+web/api/navigator/oscpu,2
 web/api/navigator/pdfviewerenabled,1
 web/api/navigator/permissions,0
 web/api/navigator/platform,6
@@ -6913,7 +6913,7 @@ web/api/permissionstatus,0
 web/api/permissionstatus/change_event,2
 web/api/permissionstatus/name,0
 web/api/permissionstatus/state,0
-web/api/picture-in-picture_api,7
+web/api/picture-in-picture_api,8
 web/api/pictureinpictureevent,1
 web/api/pictureinpictureevent/pictureinpictureevent,0
 web/api/pictureinpictureevent/pictureinpicturewindow,0
@@ -7167,7 +7167,7 @@ web/api/remoteplayback/disconnect_event,null
 web/api/remoteplayback/prompt,null
 web/api/remoteplayback/state,null
 web/api/remoteplayback/watchavailability,null
-web/api/reporting_api,17
+web/api/reporting_api,18
 web/api/reportingobserver,null
 web/api/reportingobserver/disconnect,null
 web/api/reportingobserver/observe,null
@@ -7575,7 +7575,7 @@ web/api/rtcpeerconnectioniceerrorevent/errortext,null
 web/api/rtcpeerconnectioniceerrorevent/port,null
 web/api/rtcpeerconnectioniceerrorevent/rtcpeerconnectioniceerrorevent,null
 web/api/rtcpeerconnectioniceerrorevent/url,null
-web/api/rtcpeerconnectioniceevent,4
+web/api/rtcpeerconnectioniceevent,5
 web/api/rtcpeerconnectioniceevent/candidate,null
 web/api/rtcpeerconnectioniceevent/rtcpeerconnectioniceevent,null
 web/api/rtcpeerconnectioniceevent/url,null
@@ -9020,7 +9020,7 @@ web/api/url/host,2
 web/api/url/hostname,3
 web/api/url/href,2
 web/api/url/origin,3
-web/api/url/parse_static,4
+web/api/url/parse_static,5
 web/api/url/password,2
 web/api/url/pathname,4
 web/api/url/port,4
@@ -10428,7 +10428,7 @@ web/css/guides/box_sizing/aspect_ratios,null
 web/css/guides/cascade,null
 web/css/guides/cascade/inheritance,null
 web/css/guides/cascade/introduction,null
-web/css/guides/cascade/property_value_processing,5
+web/css/guides/cascade/property_value_processing,6
 web/css/guides/cascade/shorthand_properties,null
 web/css/guides/cascade/specificity,null
 web/css/guides/cascading_variables,null
@@ -10493,7 +10493,7 @@ web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
 web/css/guides/grid_layout/auto-placement,null
-web/css/guides/grid_layout/basic_concepts,4
+web/css/guides/grid_layout/basic_concepts,5
 web/css/guides/grid_layout/box_alignment,null
 web/css/guides/grid_layout/common_grid_layouts,null
 web/css/guides/grid_layout/grid_lanes,2
@@ -10511,7 +10511,7 @@ web/css/guides/images/using_object-view-box,null
 web/css/guides/inline_layout,null
 web/css/guides/inline_layout/inline_formatting_context,null
 web/css/guides/lists,2
-web/css/guides/lists/indenting,1
+web/css/guides/lists/indenting,2
 web/css/guides/logical_properties_and_values,null
 web/css/guides/logical_properties_and_values/basic_concepts,null
 web/css/guides/logical_properties_and_values/floating_and_positioning,null
@@ -10729,9 +10729,9 @@ web/css/reference/mozilla_extensions,4
 web/css/reference/properties,5
 web/css/reference/properties/--_star_,null
 web/css/reference/properties/-moz-float-edge,4
-web/css/reference/properties/-moz-force-broken-image-icon,4
+web/css/reference/properties/-moz-force-broken-image-icon,5
 web/css/reference/properties/-moz-orient,3
-web/css/reference/properties/-moz-user-focus,4
+web/css/reference/properties/-moz-user-focus,5
 web/css/reference/properties/-moz-user-input,null
 web/css/reference/properties/-webkit-border-before,4
 web/css/reference/properties/-webkit-box-reflect,4
@@ -10775,7 +10775,7 @@ web/css/reference/properties/animation-timing-function,null
 web/css/reference/properties/animation-trigger,null
 web/css/reference/properties/appearance,null
 web/css/reference/properties/aspect-ratio,null
-web/css/reference/properties/backdrop-filter,5
+web/css/reference/properties/backdrop-filter,6
 web/css/reference/properties/backface-visibility,null
 web/css/reference/properties/background,null
 web/css/reference/properties/background-attachment,null
@@ -10897,9 +10897,9 @@ web/css/reference/properties/column-rule-inset-cap-start,null
 web/css/reference/properties/column-rule-inset-junction,null
 web/css/reference/properties/column-rule-inset-junction-end,null
 web/css/reference/properties/column-rule-inset-junction-start,null
-web/css/reference/properties/column-rule-style,6
+web/css/reference/properties/column-rule-style,7
 web/css/reference/properties/column-rule-visibility-items,null
-web/css/reference/properties/column-rule-width,6
+web/css/reference/properties/column-rule-width,7
 web/css/reference/properties/column-span,null
 web/css/reference/properties/column-width,7
 web/css/reference/properties/column-wrap,null
@@ -10991,7 +10991,7 @@ web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,5
 web/css/reference/properties/frame-sizing,null
-web/css/reference/properties/gap,11
+web/css/reference/properties/gap,12
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -11257,14 +11257,14 @@ web/css/reference/properties/text-decoration-style,null
 web/css/reference/properties/text-decoration-thickness,2
 web/css/reference/properties/text-emphasis,8
 web/css/reference/properties/text-emphasis-color,3
-web/css/reference/properties/text-emphasis-position,4
+web/css/reference/properties/text-emphasis-position,5
 web/css/reference/properties/text-emphasis-style,3
 web/css/reference/properties/text-fit,null
 web/css/reference/properties/text-indent,9
 web/css/reference/properties/text-justify,null
 web/css/reference/properties/text-orientation,null
 web/css/reference/properties/text-overflow,null
-web/css/reference/properties/text-rendering,2
+web/css/reference/properties/text-rendering,3
 web/css/reference/properties/text-shadow,null
 web/css/reference/properties/text-size-adjust,null
 web/css/reference/properties/text-spacing-trim,null
@@ -11286,7 +11286,7 @@ web/css/reference/properties/timeline-trigger-name,null
 web/css/reference/properties/timeline-trigger-source,null
 web/css/reference/properties/top,null
 web/css/reference/properties/touch-action,null
-web/css/reference/properties/transform,8
+web/css/reference/properties/transform,9
 web/css/reference/properties/transform-box,null
 web/css/reference/properties/transform-origin,null
 web/css/reference/properties/transform-style,null
@@ -11308,7 +11308,7 @@ web/css/reference/properties/view-timeline-axis,null
 web/css/reference/properties/view-timeline-inset,null
 web/css/reference/properties/view-timeline-name,null
 web/css/reference/properties/view-transition-class,null
-web/css/reference/properties/view-transition-name,5
+web/css/reference/properties/view-transition-name,6
 web/css/reference/properties/view-transition-scope,null
 web/css/reference/properties/visibility,null
 web/css/reference/properties/white-space,8
@@ -11317,7 +11317,7 @@ web/css/reference/properties/widows,null
 web/css/reference/properties/width,null
 web/css/reference/properties/will-change,4
 web/css/reference/properties/word-break,null
-web/css/reference/properties/word-spacing,6
+web/css/reference/properties/word-spacing,8
 web/css/reference/properties/writing-mode,null
 web/css/reference/properties/x,null
 web/css/reference/properties/y,null
@@ -11361,7 +11361,7 @@ web/css/reference/selectors/_colon_focus,null
 web/css/reference/selectors/_colon_focus-visible,7
 web/css/reference/selectors/_colon_focus-within,null
 web/css/reference/selectors/_colon_fullscreen,null
-web/css/reference/selectors/_colon_future,2
+web/css/reference/selectors/_colon_future,3
 web/css/reference/selectors/_colon_has,null
 web/css/reference/selectors/_colon_has-slotted,null
 web/css/reference/selectors/_colon_heading,null
@@ -11385,7 +11385,7 @@ web/css/reference/selectors/_colon_local-link,4
 web/css/reference/selectors/_colon_modal,null
 web/css/reference/selectors/_colon_muted,null
 web/css/reference/selectors/_colon_not,null
-web/css/reference/selectors/_colon_nth-child,4
+web/css/reference/selectors/_colon_nth-child,5
 web/css/reference/selectors/_colon_nth-last-child,null
 web/css/reference/selectors/_colon_nth-last-of-type,null
 web/css/reference/selectors/_colon_nth-of-type,null
@@ -11445,7 +11445,7 @@ web/css/reference/selectors/_doublecolon_-webkit-slider-runnable-track,2
 web/css/reference/selectors/_doublecolon_-webkit-slider-thumb,2
 web/css/reference/selectors/_doublecolon_after,7
 web/css/reference/selectors/_doublecolon_backdrop,4
-web/css/reference/selectors/_doublecolon_before,5
+web/css/reference/selectors/_doublecolon_before,6
 web/css/reference/selectors/_doublecolon_checkmark,null
 web/css/reference/selectors/_doublecolon_column,null
 web/css/reference/selectors/_doublecolon_cue,null
@@ -11459,7 +11459,7 @@ web/css/reference/selectors/_doublecolon_marker,null
 web/css/reference/selectors/_doublecolon_part,null
 web/css/reference/selectors/_doublecolon_picker,null
 web/css/reference/selectors/_doublecolon_picker-icon,null
-web/css/reference/selectors/_doublecolon_placeholder,3
+web/css/reference/selectors/_doublecolon_placeholder,4
 web/css/reference/selectors/_doublecolon_scroll-button,null
 web/css/reference/selectors/_doublecolon_scroll-marker,null
 web/css/reference/selectors/_doublecolon_scroll-marker-group,null
@@ -11482,7 +11482,7 @@ web/css/reference/selectors/descendant_combinator,null
 web/css/reference/selectors/id_selectors,null
 web/css/reference/selectors/keyframe_selectors,null
 web/css/reference/selectors/namespace_separator,0
-web/css/reference/selectors/nesting_selector,5
+web/css/reference/selectors/nesting_selector,6
 web/css/reference/selectors/next-sibling_combinator,null
 web/css/reference/selectors/pseudo-classes,5
 web/css/reference/selectors/pseudo-elements,null
@@ -11495,7 +11495,7 @@ web/css/reference/values/-moz-image-rect,null
 web/css/reference/values/abs,1
 web/css/reference/values/absolute-size,5
 web/css/reference/values/acos,null
-web/css/reference/values/alpha-value,6
+web/css/reference/values/alpha-value,7
 web/css/reference/values/anchor,null
 web/css/reference/values/anchor-size,null
 web/css/reference/values/angle,7
@@ -11504,16 +11504,16 @@ web/css/reference/values/animation-action,null
 web/css/reference/values/asin,null
 web/css/reference/values/atan,null
 web/css/reference/values/atan2,null
-web/css/reference/values/attr,8
+web/css/reference/values/attr,9
 web/css/reference/values/axis,null
 web/css/reference/values/baseline-position,1
 web/css/reference/values/basic-shape,11
 web/css/reference/values/basic-shape/circle,8
 web/css/reference/values/basic-shape/ellipse,8
 web/css/reference/values/basic-shape/inset,5
-web/css/reference/values/basic-shape/path,9
+web/css/reference/values/basic-shape/path,10
 web/css/reference/values/basic-shape/polygon,8
-web/css/reference/values/basic-shape/rect,8
+web/css/reference/values/basic-shape/rect,9
 web/css/reference/values/basic-shape/shape,9
 web/css/reference/values/basic-shape/xywh,8
 web/css/reference/values/blend-mode,4
@@ -11523,7 +11523,7 @@ web/css/reference/values/calc-keyword,null
 web/css/reference/values/calc-size,null
 web/css/reference/values/calc-sum,null
 web/css/reference/values/clamp,null
-web/css/reference/values/color-interpolation-method,6
+web/css/reference/values/color-interpolation-method,7
 web/css/reference/values/color_value,5
 web/css/reference/values/color_value/alpha,null
 web/css/reference/values/color_value/color,null
@@ -11575,7 +11575,7 @@ web/css/reference/values/filter-function/invert,null
 web/css/reference/values/filter-function/opacity,null
 web/css/reference/values/filter-function/saturate,null
 web/css/reference/values/filter-function/sepia,null
-web/css/reference/values/fit-content,6
+web/css/reference/values/fit-content,7
 web/css/reference/values/fit-content_function,null
 web/css/reference/values/flex_value,null
 web/css/reference/values/frequency,null
@@ -11600,7 +11600,7 @@ web/css/reference/values/image/image,null
 web/css/reference/values/image/image-set,null
 web/css/reference/values/image/paint,null
 web/css/reference/values/important,null
-web/css/reference/values/inherit,5
+web/css/reference/values/inherit,6
 web/css/reference/values/initial,null
 web/css/reference/values/integer,2
 web/css/reference/values/length,5
@@ -11609,9 +11609,9 @@ web/css/reference/values/line-style,null
 web/css/reference/values/line-width,null
 web/css/reference/values/log,null
 web/css/reference/values/max,null
-web/css/reference/values/max-content,3
+web/css/reference/values/max-content,4
 web/css/reference/values/min,null
-web/css/reference/values/min-content,3
+web/css/reference/values/min-content,4
 web/css/reference/values/minmax,null
 web/css/reference/values/mod,null
 web/css/reference/values/named-color,null
@@ -11752,14 +11752,14 @@ web/html/reference/elements/bdi,null
 web/html/reference/elements/bdo,5
 web/html/reference/elements/big,5
 web/html/reference/elements/blockquote,null
-web/html/reference/elements/body,7
+web/html/reference/elements/body,8
 web/html/reference/elements/br,5
 web/html/reference/elements/button,null
 web/html/reference/elements/canvas,null
 web/html/reference/elements/caption,null
 web/html/reference/elements/center,5
-web/html/reference/elements/cite,0
-web/html/reference/elements/code,5
+web/html/reference/elements/cite,1
+web/html/reference/elements/code,6
 web/html/reference/elements/col,9
 web/html/reference/elements/colgroup,10
 web/html/reference/elements/data,null
@@ -11855,7 +11855,7 @@ web/html/reference/elements/picture,null
 web/html/reference/elements/plaintext,1
 web/html/reference/elements/pre,null
 web/html/reference/elements/progress,null
-web/html/reference/elements/q,0
+web/html/reference/elements/q,1
 web/html/reference/elements/rb,null
 web/html/reference/elements/rp,null
 web/html/reference/elements/rt,null
@@ -11875,7 +11875,7 @@ web/html/reference/elements/slot,8
 web/html/reference/elements/small,7
 web/html/reference/elements/source,7
 web/html/reference/elements/span,5
-web/html/reference/elements/strike,4
+web/html/reference/elements/strike,5
 web/html/reference/elements/strong,null
 web/html/reference/elements/style,18
 web/html/reference/elements/sub,4
@@ -11898,7 +11898,7 @@ web/html/reference/elements/u,4
 web/html/reference/elements/ul,7
 web/html/reference/elements/var,4
 web/html/reference/elements/video,10
-web/html/reference/elements/wbr,0
+web/html/reference/elements/wbr,1
 web/html/reference/elements/xmp,1
 web/html/reference/global_attributes,null
 web/html/reference/global_attributes/accesskey,null
@@ -11930,7 +11930,7 @@ web/html/reference/global_attributes/itemtype,null
 web/html/reference/global_attributes/lang,null
 web/html/reference/global_attributes/nonce,6
 web/html/reference/global_attributes/part,0
-web/html/reference/global_attributes/popover,12
+web/html/reference/global_attributes/popover,13
 web/html/reference/global_attributes/slot,null
 web/html/reference/global_attributes/spellcheck,5
 web/html/reference/global_attributes/style,5
@@ -12616,8 +12616,8 @@ web/javascript/reference/global_objects/bigint/tostring,null
 web/javascript/reference/global_objects/bigint/valueof,null
 web/javascript/reference/global_objects/bigint64array,null
 web/javascript/reference/global_objects/bigint64array/bigint64array,0
-web/javascript/reference/global_objects/biguint64array,null
-web/javascript/reference/global_objects/biguint64array/biguint64array,null
+web/javascript/reference/global_objects/biguint64array,0
+web/javascript/reference/global_objects/biguint64array/biguint64array,0
 web/javascript/reference/global_objects/boolean,null
 web/javascript/reference/global_objects/boolean/boolean,null
 web/javascript/reference/global_objects/boolean/tostring,null
@@ -13675,16 +13675,16 @@ web/mathml/reference/element/annotation,null
 web/mathml/reference/element/annotation-xml,null
 web/mathml/reference/element/maction,4
 web/mathml/reference/element/math,null
-web/mathml/reference/element/menclose,0
-web/mathml/reference/element/merror,1
-web/mathml/reference/element/mfenced,2
+web/mathml/reference/element/menclose,1
+web/mathml/reference/element/merror,2
+web/mathml/reference/element/mfenced,3
 web/mathml/reference/element/mfrac,1
-web/mathml/reference/element/mi,6
+web/mathml/reference/element/mi,7
 web/mathml/reference/element/mmultiscripts,1
-web/mathml/reference/element/mn,1
-web/mathml/reference/element/mo,4
-web/mathml/reference/element/mover,2
-web/mathml/reference/element/mpadded,2
+web/mathml/reference/element/mn,2
+web/mathml/reference/element/mo,5
+web/mathml/reference/element/mover,3
+web/mathml/reference/element/mpadded,3
 web/mathml/reference/element/mphantom,1
 web/mathml/reference/element/mprescripts,null
 web/mathml/reference/element/mroot,null
@@ -13697,11 +13697,11 @@ web/mathml/reference/element/msub,1
 web/mathml/reference/element/msubsup,1
 web/mathml/reference/element/msup,1
 web/mathml/reference/element/mtable,4
-web/mathml/reference/element/mtd,1
-web/mathml/reference/element/mtext,1
+web/mathml/reference/element/mtd,2
+web/mathml/reference/element/mtext,2
 web/mathml/reference/element/mtr,2
-web/mathml/reference/element/munder,2
-web/mathml/reference/element/munderover,2
+web/mathml/reference/element/munder,3
+web/mathml/reference/element/munderover,3
 web/mathml/reference/element/semantics,2
 web/mathml/reference/global_attributes,10
 web/mathml/reference/global_attributes/data-_star_,null
@@ -13961,7 +13961,7 @@ web/svg/reference/attribute/font-size-adjust,null
 web/svg/reference/attribute/font-stretch,null
 web/svg/reference/attribute/font-style,null
 web/svg/reference/attribute/font-variant,null
-web/svg/reference/attribute/font-weight,0
+web/svg/reference/attribute/font-weight,1
 web/svg/reference/attribute/font-width,null
 web/svg/reference/attribute/fr,null
 web/svg/reference/attribute/from,null
@@ -14465,7 +14465,7 @@ webassembly/reference/control_flow/block,2
 webassembly/reference/control_flow/br,5
 webassembly/reference/control_flow/br_if,null
 webassembly/reference/control_flow/br_table,null
-webassembly/reference/control_flow/call,3
+webassembly/reference/control_flow/call,4
 webassembly/reference/control_flow/drop,1
 webassembly/reference/control_flow/end,2
 webassembly/reference/control_flow/if...else,2
