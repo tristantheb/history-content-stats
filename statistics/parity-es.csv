@@ -1867,7 +1867,7 @@ mozilla/add-ons/webextensions/safely_inserting_external_content_into_a_page,null
 mozilla/add-ons/webextensions/sharing_objects_with_page_scripts,null
 mozilla/add-ons/webextensions/use_the_web_authn_api,null
 mozilla/add-ons/webextensions/user_actions,null
-mozilla/add-ons/webextensions/user_interface,4
+mozilla/add-ons/webextensions/user_interface,5
 mozilla/add-ons/webextensions/user_interface/browser_styles,null
 mozilla/add-ons/webextensions/user_interface/context_menu_items,null
 mozilla/add-ons/webextensions/user_interface/devtools_panels,null
@@ -1888,7 +1888,7 @@ mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
-mozilla/add-ons/webextensions/your_second_webextension,7
+mozilla/add-ons/webextensions/your_second_webextension,8
 mozilla/firefox,null
 mozilla/firefox/experimental_features,null
 mozilla/firefox/releases,null

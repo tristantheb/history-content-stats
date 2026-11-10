@@ -1120,7 +1120,7 @@ mozilla/add-ons/webextensions,null
 mozilla/add-ons/webextensions/activetab_permission,null
 mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,null
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,null
-mozilla/add-ons/webextensions/api,2
+mozilla/add-ons/webextensions/api,3
 mozilla/add-ons/webextensions/api/action,3
 mozilla/add-ons/webextensions/api/action/colorarray,2
 mozilla/add-ons/webextensions/api/action/disable,2
@@ -1249,7 +1249,7 @@ mozilla/add-ons/webextensions/api/contentscripts,3
 mozilla/add-ons/webextensions/api/contentscripts/register,8
 mozilla/add-ons/webextensions/api/contentscripts/registeredcontentscript,3
 mozilla/add-ons/webextensions/api/contentscripts/registeredcontentscript/unregister,null
-mozilla/add-ons/webextensions/api/contextualidentities,3
+mozilla/add-ons/webextensions/api/contextualidentities,4
 mozilla/add-ons/webextensions/api/contextualidentities/contextualidentity,3
 mozilla/add-ons/webextensions/api/contextualidentities/create,4
 mozilla/add-ons/webextensions/api/contextualidentities/get,2
@@ -1458,7 +1458,7 @@ mozilla/add-ons/webextensions/api/menus/refresh,null
 mozilla/add-ons/webextensions/api/menus/remove,null
 mozilla/add-ons/webextensions/api/menus/removeall,null
 mozilla/add-ons/webextensions/api/menus/update,null
-mozilla/add-ons/webextensions/api/notifications,2
+mozilla/add-ons/webextensions/api/notifications,3
 mozilla/add-ons/webextensions/api/notifications/clear,2
 mozilla/add-ons/webextensions/api/notifications/create,1
 mozilla/add-ons/webextensions/api/notifications/getall,2
@@ -1478,7 +1478,7 @@ mozilla/add-ons/webextensions/api/omnibox/oninputentereddisposition,1
 mozilla/add-ons/webextensions/api/omnibox/oninputstarted,2
 mozilla/add-ons/webextensions/api/omnibox/setdefaultsuggestion,2
 mozilla/add-ons/webextensions/api/omnibox/suggestresult,1
-mozilla/add-ons/webextensions/api/pageaction,2
+mozilla/add-ons/webextensions/api/pageaction,3
 mozilla/add-ons/webextensions/api/pageaction/getpopup,3
 mozilla/add-ons/webextensions/api/pageaction/gettitle,3
 mozilla/add-ons/webextensions/api/pageaction/hide,2
@@ -1498,7 +1498,7 @@ mozilla/add-ons/webextensions/api/permissions/onremoved,4
 mozilla/add-ons/webextensions/api/permissions/permissions,4
 mozilla/add-ons/webextensions/api/permissions/remove,3
 mozilla/add-ons/webextensions/api/permissions/request,3
-mozilla/add-ons/webextensions/api/pkcs11,2
+mozilla/add-ons/webextensions/api/pkcs11,3
 mozilla/add-ons/webextensions/api/pkcs11/getmoduleslots,3
 mozilla/add-ons/webextensions/api/pkcs11/installmodule,2
 mozilla/add-ons/webextensions/api/pkcs11/ismoduleinstalled,2
@@ -1879,16 +1879,16 @@ mozilla/add-ons/webextensions/user_interface/page_actions,null
 mozilla/add-ons/webextensions/user_interface/popups,null
 mozilla/add-ons/webextensions/user_interface/sidebars,null
 mozilla/add-ons/webextensions/user_interface/toolbar_button,null
-mozilla/add-ons/webextensions/what_are_webextensions,6
+mozilla/add-ons/webextensions/what_are_webextensions,7
 mozilla/add-ons/webextensions/what_next,null
 mozilla/add-ons/webextensions/work_with_contextual_identities,null
 mozilla/add-ons/webextensions/work_with_documentid,null
 mozilla/add-ons/webextensions/work_with_the_bookmarks_api,null
 mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
-mozilla/add-ons/webextensions/working_with_the_tabs_api,10
-mozilla/add-ons/webextensions/your_first_webextension,2
-mozilla/add-ons/webextensions/your_second_webextension,4
+mozilla/add-ons/webextensions/working_with_the_tabs_api,11
+mozilla/add-ons/webextensions/your_first_webextension,3
+mozilla/add-ons/webextensions/your_second_webextension,5
 mozilla/firefox,5
 mozilla/firefox/experimental_features,null
 mozilla/firefox/releases,2
