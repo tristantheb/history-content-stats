@@ -52,7 +52,7 @@ games/tutorials/2d_breakout_game_phaser/track_the_score_and_win,1
 games/tutorials/2d_breakout_game_pure_javascript,7
 games/tutorials/2d_breakout_game_pure_javascript/animations_and_tweens,null
 games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,9
-games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,11
+games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,12
 games/tutorials/2d_breakout_game_pure_javascript/buttons,null
 games/tutorials/2d_breakout_game_pure_javascript/extra_lives,1
 games/tutorials/2d_breakout_game_pure_javascript/game_over,null
@@ -701,7 +701,7 @@ learn_web_development/changelog,null
 learn_web_development/core,null
 learn_web_development/core/accessibility,9
 learn_web_development/core/accessibility/accessibility_troubleshooting,null
-learn_web_development/core/accessibility/css_and_javascript,11
+learn_web_development/core/accessibility/css_and_javascript,12
 learn_web_development/core/accessibility/html,19
 learn_web_development/core/accessibility/mobile,null
 learn_web_development/core/accessibility/multimedia,null
@@ -734,7 +734,7 @@ learn_web_development/core/css_layout/test_your_skills/position,null
 learn_web_development/core/css_layout/test_your_skills/responsive_design,null
 learn_web_development/core/design_for_developers,null
 learn_web_development/core/frameworks_libraries,null
-learn_web_development/core/frameworks_libraries/introduction,11
+learn_web_development/core/frameworks_libraries/introduction,12
 learn_web_development/core/frameworks_libraries/main_features,7
 learn_web_development/core/frameworks_libraries/react_accessibility,7
 learn_web_development/core/frameworks_libraries/react_components,6
@@ -842,7 +842,7 @@ learn_web_development/core/styling_basics/values_and_units,24
 learn_web_development/core/styling_basics/what_is_css,15
 learn_web_development/core/text_styling,null
 learn_web_development/core/text_styling/fundamentals,null
-learn_web_development/core/text_styling/styling_links,6
+learn_web_development/core/text_styling/styling_links,7
 learn_web_development/core/text_styling/styling_lists,null
 learn_web_development/core/text_styling/typesetting_a_homepage,10
 learn_web_development/core/text_styling/web_fonts,14
@@ -3609,7 +3609,7 @@ web/api/document/scrollsnapchanging_event,null
 web/api/document/securitypolicyviolation_event,null
 web/api/document/selectedstylesheetset,null
 web/api/document/selectionchange_event,null
-web/api/document/startviewtransition,9
+web/api/document/startviewtransition,10
 web/api/document/stylesheets,null
 web/api/document/stylesheetsets,null
 web/api/document/timeline,1
@@ -4453,7 +4453,7 @@ web/api/geolocationcoordinates/altitude,1
 web/api/geolocationcoordinates/altitudeaccuracy,2
 web/api/geolocationcoordinates/heading,2
 web/api/geolocationcoordinates/latitude,1
-web/api/geolocationcoordinates/longitude,2
+web/api/geolocationcoordinates/longitude,3
 web/api/geolocationcoordinates/speed,1
 web/api/geolocationcoordinates/tojson,null
 web/api/geolocationposition,null
@@ -4673,7 +4673,7 @@ web/api/hashchangeevent,null
 web/api/hashchangeevent/hashchangeevent,null
 web/api/hashchangeevent/newurl,null
 web/api/hashchangeevent/oldurl,null
-web/api/headers,2
+web/api/headers,3
 web/api/headers/append,null
 web/api/headers/delete,null
 web/api/headers/entries,null
@@ -5174,7 +5174,7 @@ web/api/htmlmediaelement/controls,null
 web/api/htmlmediaelement/controlslist,null
 web/api/htmlmediaelement/crossorigin,null
 web/api/htmlmediaelement/currentsrc,4
-web/api/htmlmediaelement/currenttime,4
+web/api/htmlmediaelement/currenttime,5
 web/api/htmlmediaelement/defaultmuted,null
 web/api/htmlmediaelement/defaultplaybackrate,null
 web/api/htmlmediaelement/disableremoteplayback,null
@@ -10411,7 +10411,7 @@ web/css/guides/backgrounds_and_borders/box-shadow_generator,3
 web/css/guides/backgrounds_and_borders/resizing_background_images,null
 web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,null
 web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,null
-web/css/guides/basic_user_interface,5
+web/css/guides/basic_user_interface,6
 web/css/guides/borders_and_box_decorations,null
 web/css/guides/borders_and_box_decorations/border_shape_nav_menu,null
 web/css/guides/box_alignment,null
@@ -10750,7 +10750,7 @@ web/css/reference/properties/-webkit-text-stroke-width,null
 web/css/reference/properties/-webkit-touch-callout,null
 web/css/reference/properties/accent-color,7
 web/css/reference/properties/align-content,null
-web/css/reference/properties/align-items,6
+web/css/reference/properties/align-items,7
 web/css/reference/properties/align-self,null
 web/css/reference/properties/alignment-baseline,null
 web/css/reference/properties/all,null
@@ -10911,10 +10911,10 @@ web/css/reference/properties/contain-intrinsic-inline-size,null
 web/css/reference/properties/contain-intrinsic-size,null
 web/css/reference/properties/contain-intrinsic-width,null
 web/css/reference/properties/container,4
-web/css/reference/properties/container-name,7
-web/css/reference/properties/container-type,8
+web/css/reference/properties/container-name,9
+web/css/reference/properties/container-type,9
 web/css/reference/properties/content,null
-web/css/reference/properties/content-visibility,9
+web/css/reference/properties/content-visibility,11
 web/css/reference/properties/corner-block-end-shape,null
 web/css/reference/properties/corner-block-start-shape,null
 web/css/reference/properties/corner-bottom-left-shape,null
@@ -10991,7 +10991,7 @@ web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,null
 web/css/reference/properties/frame-sizing,null
-web/css/reference/properties/gap,11
+web/css/reference/properties/gap,12
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -11030,7 +11030,7 @@ web/css/reference/properties/interest-delay-end,null
 web/css/reference/properties/interest-delay-start,null
 web/css/reference/properties/interpolate-size,null
 web/css/reference/properties/isolation,null
-web/css/reference/properties/justify-content,7
+web/css/reference/properties/justify-content,8
 web/css/reference/properties/justify-items,null
 web/css/reference/properties/justify-self,null
 web/css/reference/properties/left,null
@@ -11445,7 +11445,7 @@ web/css/reference/selectors/_doublecolon_-webkit-slider-runnable-track,null
 web/css/reference/selectors/_doublecolon_-webkit-slider-thumb,null
 web/css/reference/selectors/_doublecolon_after,null
 web/css/reference/selectors/_doublecolon_backdrop,null
-web/css/reference/selectors/_doublecolon_before,5
+web/css/reference/selectors/_doublecolon_before,6
 web/css/reference/selectors/_doublecolon_checkmark,null
 web/css/reference/selectors/_doublecolon_column,null
 web/css/reference/selectors/_doublecolon_cue,null
@@ -11456,10 +11456,10 @@ web/css/reference/selectors/_doublecolon_first-line,null
 web/css/reference/selectors/_doublecolon_grammar-error,2
 web/css/reference/selectors/_doublecolon_highlight,4
 web/css/reference/selectors/_doublecolon_marker,4
-web/css/reference/selectors/_doublecolon_part,3
+web/css/reference/selectors/_doublecolon_part,4
 web/css/reference/selectors/_doublecolon_picker,null
 web/css/reference/selectors/_doublecolon_picker-icon,null
-web/css/reference/selectors/_doublecolon_placeholder,3
+web/css/reference/selectors/_doublecolon_placeholder,4
 web/css/reference/selectors/_doublecolon_scroll-button,null
 web/css/reference/selectors/_doublecolon_scroll-marker,null
 web/css/reference/selectors/_doublecolon_scroll-marker-group,null
@@ -11482,7 +11482,7 @@ web/css/reference/selectors/descendant_combinator,null
 web/css/reference/selectors/id_selectors,null
 web/css/reference/selectors/keyframe_selectors,null
 web/css/reference/selectors/namespace_separator,7
-web/css/reference/selectors/nesting_selector,5
+web/css/reference/selectors/nesting_selector,6
 web/css/reference/selectors/next-sibling_combinator,null
 web/css/reference/selectors/pseudo-classes,null
 web/css/reference/selectors/pseudo-elements,null
@@ -11535,7 +11535,7 @@ web/css/reference/values/color_value/hwb,null
 web/css/reference/values/color_value/lab,null
 web/css/reference/values/color_value/lch,null
 web/css/reference/values/color_value/light-dark,null
-web/css/reference/values/color_value/oklab,4
+web/css/reference/values/color_value/oklab,5
 web/css/reference/values/color_value/oklch,null
 web/css/reference/values/color_value/rgb,null
 web/css/reference/values/content-distribution,null
@@ -11562,7 +11562,7 @@ web/css/reference/values/easing-function/cubic-bezier,null
 web/css/reference/values/easing-function/linear,null
 web/css/reference/values/easing-function/steps,null
 web/css/reference/values/element,null
-web/css/reference/values/env,8
+web/css/reference/values/env,9
 web/css/reference/values/exp,null
 web/css/reference/values/filter-function,null
 web/css/reference/values/filter-function/blur,null
@@ -11575,7 +11575,7 @@ web/css/reference/values/filter-function/invert,5
 web/css/reference/values/filter-function/opacity,null
 web/css/reference/values/filter-function/saturate,null
 web/css/reference/values/filter-function/sepia,null
-web/css/reference/values/fit-content,6
+web/css/reference/values/fit-content,7
 web/css/reference/values/fit-content_function,null
 web/css/reference/values/flex_value,null
 web/css/reference/values/frequency,null
@@ -11584,7 +11584,7 @@ web/css/reference/values/functions,null
 web/css/reference/values/generic-family,null
 web/css/reference/values/gradient,null
 web/css/reference/values/gradient/conic-gradient,null
-web/css/reference/values/gradient/linear-gradient,7
+web/css/reference/values/gradient/linear-gradient,8
 web/css/reference/values/gradient/radial-gradient,null
 web/css/reference/values/gradient/repeating-conic-gradient,null
 web/css/reference/values/gradient/repeating-linear-gradient,null
@@ -11768,7 +11768,7 @@ web/html/reference/elements/dd,4
 web/html/reference/elements/del,null
 web/html/reference/elements/details,10
 web/html/reference/elements/dfn,null
-web/html/reference/elements/dialog,18
+web/html/reference/elements/dialog,19
 web/html/reference/elements/dir,null
 web/html/reference/elements/div,7
 web/html/reference/elements/dl,5
@@ -11853,7 +11853,7 @@ web/html/reference/elements/p,null
 web/html/reference/elements/param,null
 web/html/reference/elements/picture,null
 web/html/reference/elements/plaintext,null
-web/html/reference/elements/pre,5
+web/html/reference/elements/pre,6
 web/html/reference/elements/progress,null
 web/html/reference/elements/q,null
 web/html/reference/elements/rb,null
