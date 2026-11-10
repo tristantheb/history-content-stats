@@ -1118,9 +1118,9 @@ mozilla/add-ons,0
 mozilla/add-ons/contact_us,0
 mozilla/add-ons/webextensions,0
 mozilla/add-ons/webextensions/activetab_permission,1
-mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,0
+mozilla/add-ons/webextensions/add_a_button_to_the_toolbar,1
 mozilla/add-ons/webextensions/anatomy_of_a_webextension,0
-mozilla/add-ons/webextensions/api,0
+mozilla/add-ons/webextensions/api,1
 mozilla/add-ons/webextensions/api/action,null
 mozilla/add-ons/webextensions/api/action/colorarray,null
 mozilla/add-ons/webextensions/api/action/disable,null
@@ -1799,7 +1799,7 @@ mozilla/add-ons/webextensions/api/windows/window_id_current,null
 mozilla/add-ons/webextensions/api/windows/window_id_none,null
 mozilla/add-ons/webextensions/api/windows/windowstate,null
 mozilla/add-ons/webextensions/api/windows/windowtype,null
-mozilla/add-ons/webextensions/background_scripts,0
+mozilla/add-ons/webextensions/background_scripts,1
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,0
 mozilla/add-ons/webextensions/build_a_cross_browser_extension,0
 mozilla/add-ons/webextensions/chrome_incompatibilities,null
@@ -1879,7 +1879,7 @@ mozilla/add-ons/webextensions/user_interface/page_actions,null
 mozilla/add-ons/webextensions/user_interface/popups,null
 mozilla/add-ons/webextensions/user_interface/sidebars,null
 mozilla/add-ons/webextensions/user_interface/toolbar_button,null
-mozilla/add-ons/webextensions/what_are_webextensions,14
+mozilla/add-ons/webextensions/what_are_webextensions,15
 mozilla/add-ons/webextensions/what_next,null
 mozilla/add-ons/webextensions/work_with_contextual_identities,null
 mozilla/add-ons/webextensions/work_with_documentid,null
@@ -1888,7 +1888,7 @@ mozilla/add-ons/webextensions/work_with_the_cookies_api,null
 mozilla/add-ons/webextensions/working_with_files,null
 mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
-mozilla/add-ons/webextensions/your_second_webextension,7
+mozilla/add-ons/webextensions/your_second_webextension,8
 mozilla/firefox,0
 mozilla/firefox/experimental_features,19
 mozilla/firefox/releases,0
