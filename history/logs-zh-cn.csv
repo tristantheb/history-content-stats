@@ -2602,7 +2602,7 @@ web/api/element/classlist,no_hash_commit
 web/api/element/classname,no_hash_commit
 web/api/element/click_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/clientheight,no_hash_commit
-web/api/element/clientleft,d0b23f3f26637aa405ee9ee0a0892fc6e9b742ef
+web/api/element/clientleft,1e0a16464b11cde9eddbb9795fe74e737dba0598
 web/api/element/clienttop,no_hash_commit
 web/api/element/clientwidth,no_hash_commit
 web/api/element/closest,no_hash_commit
@@ -3038,7 +3038,7 @@ web/api/htmlallcollection/length,e8e22a6e6d6455222c8c1a1e1346a149d300ab35
 web/api/htmlallcollection/nameditem,b71d118ffc6d72b77efad9661110fcc9ede464eb
 web/api/htmlanchorelement/attributionsrc,e9e2ec643ac69c132f31427a0b586ab2cf83ed58
 web/api/htmlanchorelement/download,e9e2ec643ac69c132f31427a0b586ab2cf83ed58
-web/api/htmlanchorelement/hash,3e301467a02808e9fc488d7012f1f49eb66a5980
+web/api/htmlanchorelement/hash,8cc63f7e6619446ea38f6a38c457a597a9af564b
 web/api/htmlanchorelement/host,a3d9f61a8990ba7b53bda9748d1f26a9e9810b18
 web/api/htmlanchorelement/hostname,a3d9f61a8990ba7b53bda9748d1f26a9e9810b18
 web/api/htmlanchorelement/href,a3d9f61a8990ba7b53bda9748d1f26a9e9810b18
@@ -6583,6 +6583,8 @@ web/javascript/reference/global_objects/bigint/tostring,no_hash_commit
 web/javascript/reference/global_objects/bigint/valueof,no_hash_commit
 web/javascript/reference/global_objects/bigint64array/bigint64array,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/bigint64array,no_hash_commit
+web/javascript/reference/global_objects/biguint64array/biguint64array,544b843570cb08d1474cfc5ec03ffb9f4edc0166
+web/javascript/reference/global_objects/biguint64array,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/boolean/boolean,no_hash_commit
 web/javascript/reference/global_objects/boolean,no_hash_commit
 web/javascript/reference/global_objects/boolean/tostring,no_hash_commit
