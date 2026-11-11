@@ -2585,7 +2585,7 @@ web/api/barcodedetector/detect,null
 web/api/barcodedetector/getsupportedformats_static,null
 web/api/barprop,null
 web/api/barprop/visible,null
-web/api/baseaudiocontext,2
+web/api/baseaudiocontext,3
 web/api/baseaudiocontext/audioworklet,null
 web/api/baseaudiocontext/createanalyser,null
 web/api/baseaudiocontext/createbiquadfilter,null
@@ -2609,6 +2609,7 @@ web/api/baseaudiocontext/currenttime,null
 web/api/baseaudiocontext/decodeaudiodata,null
 web/api/baseaudiocontext/destination,null
 web/api/baseaudiocontext/listener,null
+web/api/baseaudiocontext/renderquantumsize,null
 web/api/baseaudiocontext/samplerate,null
 web/api/baseaudiocontext/state,null
 web/api/baseaudiocontext/statechange_event,null
