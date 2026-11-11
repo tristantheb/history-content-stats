@@ -8218,7 +8218,6 @@ web/api/svgangle/unittype,null
 web/api/svgangle/value,null
 web/api/svgangle/valueasstring,null
 web/api/svgangle/valueinspecifiedunits,null
-web/api/svganimatecolorelement,null
 web/api/svganimatedangle,null
 web/api/svganimatedangle/animval,null
 web/api/svganimatedangle/baseval,null

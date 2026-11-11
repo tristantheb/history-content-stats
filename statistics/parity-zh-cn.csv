@@ -1507,7 +1507,7 @@ mozilla/add-ons/webextensions/api/privacy,2
 mozilla/add-ons/webextensions/api/privacy/network,3
 mozilla/add-ons/webextensions/api/privacy/services,2
 mozilla/add-ons/webextensions/api/privacy/websites,6
-mozilla/add-ons/webextensions/api/proxy,null
+mozilla/add-ons/webextensions/api/proxy,0
 mozilla/add-ons/webextensions/api/proxy/onerror,null
 mozilla/add-ons/webextensions/api/proxy/onrequest,null
 mozilla/add-ons/webextensions/api/proxy/proxyinfo,null
@@ -8218,7 +8218,6 @@ web/api/svgangle/unittype,null
 web/api/svgangle/value,null
 web/api/svgangle/valueasstring,null
 web/api/svgangle/valueinspecifiedunits,null
-web/api/svganimatecolorelement,1
 web/api/svganimatedangle,null
 web/api/svganimatedangle/animval,null
 web/api/svganimatedangle/baseval,null
@@ -9488,7 +9487,7 @@ web/api/webgl_api/by_example/simple_color_animation,null
 web/api/webgl_api/by_example/textures_from_code,null
 web/api/webgl_api/by_example/video_textures,null
 web/api/webgl_api/compressed_texture_formats,null
-web/api/webgl_api/constants,null
+web/api/webgl_api/constants,0
 web/api/webgl_api/data,null
 web/api/webgl_api/matrix_math_for_the_web,null
 web/api/webgl_api/tutorial,null
@@ -12513,7 +12512,7 @@ web/javascript/reference/global_objects/aggregateerror/errors,0
 web/javascript/reference/global_objects/array,13
 web/javascript/reference/global_objects/array/array,null
 web/javascript/reference/global_objects/array/at,null
-web/javascript/reference/global_objects/array/concat,7
+web/javascript/reference/global_objects/array/concat,0
 web/javascript/reference/global_objects/array/copywithin,null
 web/javascript/reference/global_objects/array/entries,null
 web/javascript/reference/global_objects/array/every,null

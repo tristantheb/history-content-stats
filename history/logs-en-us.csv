@@ -8218,7 +8218,6 @@ web/api/svgangle/unittype,2e39a37874913a1e3fd82999467505fd525e9177,Web APIs
 web/api/svgangle/value,c2fd97474834e061404b992c8397d4ccc4439a71,Web APIs
 web/api/svgangle/valueasstring,c2fd97474834e061404b992c8397d4ccc4439a71,Web APIs
 web/api/svgangle/valueinspecifiedunits,a5de116c99effa3a2bed6ede6e69928c7d2fc43b,Web APIs
-web/api/svganimatecolorelement,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/svganimatedangle,2e39a37874913a1e3fd82999467505fd525e9177,Web APIs
 web/api/svganimatedangle/animval,2e39a37874913a1e3fd82999467505fd525e9177,Web APIs
 web/api/svganimatedangle/baseval,2e39a37874913a1e3fd82999467505fd525e9177,Web APIs
@@ -8258,7 +8257,7 @@ web/api/svganimatedtransformlist/baseval,4f59a1b67315a09e31a0521eb5a6f976ece9ab3
 web/api/svganimateelement,226ac33eb70ed5411dd2d68bd602c80cafd780b6,Web APIs
 web/api/svganimatemotionelement,226ac33eb70ed5411dd2d68bd602c80cafd780b6,Web APIs
 web/api/svganimatetransformelement,226ac33eb70ed5411dd2d68bd602c80cafd780b6,Web APIs
-web/api/svganimationelement,226ac33eb70ed5411dd2d68bd602c80cafd780b6,Web APIs
+web/api/svganimationelement,bf9b4bff68f6fb57e1184f196792029a1f8b0739,Web APIs
 web/api/svganimationelement/beginelement,4028c85f43556109e830604df2d96217f40c66a7,Web APIs
 web/api/svganimationelement/beginelementat,4028c85f43556109e830604df2d96217f40c66a7,Web APIs
 web/api/svganimationelement/beginevent_event,023b9075df473020b3279afa031bb4a32e3b743b,Web APIs
@@ -10400,7 +10399,7 @@ web/css/guides/anchor_positioning/try_options_hiding,7cabe7010a0ccfcf587ddac1571
 web/css/guides/anchor_positioning/using,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Guides
 web/css/guides/animation_triggers,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Guides
 web/css/guides/animation_triggers/using_scroll-triggered_animations,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Guides
-web/css/guides/animations,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Guides
+web/css/guides/animations,bf9b4bff68f6fb57e1184f196792029a1f8b0739,CSS|Guides
 web/css/guides/animations/animatable_properties,ca5d9f9e63b460fc0c9e15ac57d9739e10e4ea0d,CSS|Guides
 web/css/guides/animations/using,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Guides
 web/css/guides/backgrounds_and_borders,f9761309e0fe3f22822e63903439d8d6130b535f,CSS|Guides
