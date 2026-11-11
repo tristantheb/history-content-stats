@@ -1964,7 +1964,7 @@ mozilla/firefox/releases/157,1
 mozilla/firefox/releases/158,1
 mozilla/firefox/releases/159,2
 mozilla/firefox/releases/16,0
-mozilla/firefox/releases/160,null
+mozilla/firefox/releases/160,2
 mozilla/firefox/releases/161,null
 mozilla/firefox/releases/162,null
 mozilla/firefox/releases/17,0
@@ -13153,10 +13153,10 @@ web/javascript/reference/global_objects/string/replaceall,0
 web/javascript/reference/global_objects/string/search,0
 web/javascript/reference/global_objects/string/slice,0
 web/javascript/reference/global_objects/string/small,0
-web/javascript/reference/global_objects/string/split,null
-web/javascript/reference/global_objects/string/startswith,null
-web/javascript/reference/global_objects/string/strike,null
-web/javascript/reference/global_objects/string/string,null
+web/javascript/reference/global_objects/string/split,0
+web/javascript/reference/global_objects/string/startswith,0
+web/javascript/reference/global_objects/string/strike,0
+web/javascript/reference/global_objects/string/string,0
 web/javascript/reference/global_objects/string/sub,null
 web/javascript/reference/global_objects/string/substr,null
 web/javascript/reference/global_objects/string/substring,null
