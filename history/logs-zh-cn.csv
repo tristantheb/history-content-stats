@@ -1286,7 +1286,7 @@ mozilla/add-ons/webextensions/api/privacy,b8a0743ca8b1e1b1b1a95cc93a4413c020f112
 mozilla/add-ons/webextensions/api/privacy/network,b8a0743ca8b1e1b1b1a95cc93a4413c020f11262
 mozilla/add-ons/webextensions/api/privacy/services,b8a0743ca8b1e1b1b1a95cc93a4413c020f11262
 mozilla/add-ons/webextensions/api/privacy/websites,b8a0743ca8b1e1b1b1a95cc93a4413c020f11262
-mozilla/add-ons/webextensions/api/proxy,no_hash_commit
+mozilla/add-ons/webextensions/api/proxy,83b221d2955a42bed9b87a5206a7953d1b57d8a9
 mozilla/add-ons/webextensions/api/publicsuffix/domainencoding,5054fb75bce0f095ed9ca9ad11dabde32eea5cb4
 mozilla/add-ons/webextensions/api/runtime/connectnative,no_hash_commit
 mozilla/add-ons/webextensions/api/runtime/getmanifest,no_hash_commit
@@ -4615,7 +4615,7 @@ web/api/webgl_api/by_example/hello_glsl,no_hash_commit
 web/api/webgl_api/by_example,no_hash_commit
 web/api/webgl_api/by_example/scissor_animation,no_hash_commit
 web/api/webgl_api/by_example/simple_color_animation,no_hash_commit
-web/api/webgl_api/constants,no_hash_commit
+web/api/webgl_api/constants,de12ce0f1fd85781d0d1045aeae85750ae6dc78a
 web/api/webgl_api/data,no_hash_commit
 web/api/webgl_api,835d6632d59993861a0458510402787f8a2c3cb3
 web/api/webgl_api/matrix_math_for_the_web,no_hash_commit
@@ -6491,7 +6491,7 @@ web/javascript/reference/global_objects/aggregateerror/errors,544b843570cb08d147
 web/javascript/reference/global_objects/aggregateerror,no_hash_commit
 web/javascript/reference/global_objects/array/array,no_hash_commit
 web/javascript/reference/global_objects/array/at,no_hash_commit
-web/javascript/reference/global_objects/array/concat,6e93ec8fc9e1f3bd83bf2f77e84e1a39637734f8
+web/javascript/reference/global_objects/array/concat,9de14917b151f7db567a65d44c2685cea754b12a
 web/javascript/reference/global_objects/array/copywithin,no_hash_commit
 web/javascript/reference/global_objects/array/entries,no_hash_commit
 web/javascript/reference/global_objects/array/every,no_hash_commit
