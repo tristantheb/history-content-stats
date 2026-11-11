@@ -1626,6 +1626,7 @@ mozilla/firefox/releases/157,892eb917bee599a9d6cae7d33ed783129dbb39b3
 mozilla/firefox/releases/158,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6
 mozilla/firefox/releases/159,521fe7795f4dbfa723d800a94884d7608fa0e17e
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8
+mozilla/firefox/releases/160,4bf4746470a4d0bd53e4ae7d320849d0c912bb10
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/19,83f4e64da466670c3700110da364546253eae127
@@ -7010,10 +7011,10 @@ web/javascript/reference/global_objects/string/replaceall,9de14917b151f7db567a65
 web/javascript/reference/global_objects/string/search,9de14917b151f7db567a65d44c2685cea754b12a
 web/javascript/reference/global_objects/string/slice,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/string/small,9de14917b151f7db567a65d44c2685cea754b12a
-web/javascript/reference/global_objects/string/split,no_hash_commit
-web/javascript/reference/global_objects/string/startswith,no_hash_commit
-web/javascript/reference/global_objects/string/strike,no_hash_commit
-web/javascript/reference/global_objects/string/string,no_hash_commit
+web/javascript/reference/global_objects/string/split,9de14917b151f7db567a65d44c2685cea754b12a
+web/javascript/reference/global_objects/string/startswith,9de14917b151f7db567a65d44c2685cea754b12a
+web/javascript/reference/global_objects/string/strike,9de14917b151f7db567a65d44c2685cea754b12a
+web/javascript/reference/global_objects/string/string,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/string/sub,no_hash_commit
 web/javascript/reference/global_objects/string/substr,no_hash_commit
 web/javascript/reference/global_objects/string/substring,no_hash_commit
