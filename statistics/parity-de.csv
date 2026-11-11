@@ -2395,7 +2395,7 @@ web/api/audiobuffersourcenode/loopstart,0
 web/api/audiobuffersourcenode/playbackrate,0
 web/api/audiobuffersourcenode/start,0
 web/api/audiocontext,0
-web/api/audiocontext/audiocontext,0
+web/api/audiocontext/audiocontext,1
 web/api/audiocontext/baselatency,0
 web/api/audiocontext/close,0
 web/api/audiocontext/createmediaelementsource,0
@@ -2585,7 +2585,7 @@ web/api/barcodedetector/detect,0
 web/api/barcodedetector/getsupportedformats_static,0
 web/api/barprop,0
 web/api/barprop/visible,0
-web/api/baseaudiocontext,0
+web/api/baseaudiocontext,1
 web/api/baseaudiocontext/audioworklet,0
 web/api/baseaudiocontext/createanalyser,0
 web/api/baseaudiocontext/createbiquadfilter,0
@@ -2609,6 +2609,7 @@ web/api/baseaudiocontext/currenttime,0
 web/api/baseaudiocontext/decodeaudiodata,0
 web/api/baseaudiocontext/destination,0
 web/api/baseaudiocontext/listener,0
+web/api/baseaudiocontext/renderquantumsize,null
 web/api/baseaudiocontext/samplerate,0
 web/api/baseaudiocontext/state,0
 web/api/baseaudiocontext/statechange_event,0
@@ -6556,7 +6557,7 @@ web/api/offlineaudiocompletionevent/renderedbuffer,0
 web/api/offlineaudiocontext,0
 web/api/offlineaudiocontext/complete_event,0
 web/api/offlineaudiocontext/length,0
-web/api/offlineaudiocontext/offlineaudiocontext,0
+web/api/offlineaudiocontext/offlineaudiocontext,1
 web/api/offlineaudiocontext/resume,0
 web/api/offlineaudiocontext/startrendering,0
 web/api/offlineaudiocontext/suspend,0
@@ -9356,7 +9357,7 @@ web/api/web_animations_api/using_the_web_animations_api,0
 web/api/web_animations_api/web_animations_api_concepts,0
 web/api/web_audio_api,0
 web/api/web_audio_api/advanced_techniques,0
-web/api/web_audio_api/basic_concepts_behind_web_audio_api,0
+web/api/web_audio_api/basic_concepts_behind_web_audio_api,1
 web/api/web_audio_api/best_practices,0
 web/api/web_audio_api/controlling_multiple_parameters_with_constantsourcenode,0
 web/api/web_audio_api/simple_synth,0

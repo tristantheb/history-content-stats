@@ -2609,6 +2609,7 @@ web/api/baseaudiocontext/currenttime,2
 web/api/baseaudiocontext/decodeaudiodata,null
 web/api/baseaudiocontext/destination,null
 web/api/baseaudiocontext/listener,null
+web/api/baseaudiocontext/renderquantumsize,null
 web/api/baseaudiocontext/samplerate,null
 web/api/baseaudiocontext/state,null
 web/api/baseaudiocontext/statechange_event,null
