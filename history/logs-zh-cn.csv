@@ -2576,6 +2576,7 @@ web/api/element/ariacurrent,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariadescribedbyelements,3b4a7a32fc2fe8cb6bd9a1e62f4ca52e002599ef
 web/api/element/ariadescription,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariadisabled,ce12c10364f35c64184dec44be85537b7e10d91f
+web/api/element/ariaexpanded,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
 web/api/element/ariahidden,4bb8f0d1f9cb2d0e23b9e19f798a7ff39ac34a49
 web/api/element/ariakeyshortcuts,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1
 web/api/element/arialabel,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27
@@ -4381,8 +4382,8 @@ web/api/subtlecrypto/wrapkey,no_hash_commit
 web/api/summarizer_api,3e4f9ff802c6393edf7c17ff0d9c30d0de79663e
 web/api/svg_api,c486da8298cdfdba0556a190d8e3f92e9aa117bb
 web/api/svgaelement,no_hash_commit
-web/api/svganimatecolorelement,54eb3a678b4d4cbc94588d2234103e74dfa063a0
 web/api/svganimateelement,no_hash_commit
+web/api/svganimationelement,bf9b4bff68f6fb57e1184f196792029a1f8b0739
 web/api/svganimationelement/targetelement,5e2cf341717c4c6c033860a2e31066addd5a4292
 web/api/svgcircleelement,no_hash_commit
 web/api/svgelement,c75fd1e241ed19f19400edb2765651949f35931f
@@ -5070,7 +5071,7 @@ web/css/guides/backgrounds_and_borders/box-shadow_generator,no_hash_commit
 web/css/guides/backgrounds_and_borders,5178e1e7c9edf0c9c652275ae62f090042ce2422
 web/css/guides/backgrounds_and_borders/resizing_background_images,no_hash_commit
 web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,no_hash_commit
-web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,no_hash_commit
+web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,c53bfa01f3bf436d486f4032c16f592855a2af2c
 web/css/guides/basic_user_interface,no_hash_commit
 web/css/guides/box_alignment/in_block_abspos_tables,no_hash_commit
 web/css/guides/box_alignment/in_flexbox,no_hash_commit
