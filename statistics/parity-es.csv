@@ -1071,7 +1071,7 @@ mdn/writing_guidelines/page_structures/code_examples,0
 mdn/writing_guidelines/page_structures/compatibility_tables,0
 mdn/writing_guidelines/page_structures/feature_status,0
 mdn/writing_guidelines/page_structures/links,3
-mdn/writing_guidelines/page_structures/live_samples,1
+mdn/writing_guidelines/page_structures/live_samples,2
 mdn/writing_guidelines/page_structures/macros,0
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,2
 mdn/writing_guidelines/page_structures/macros/other,0
@@ -4753,7 +4753,7 @@ web/api/hmdvrdevice,null
 web/api/hmdvrdevice/geteyeparameters,null
 web/api/hmdvrdevice/setfieldofview,null
 web/api/houdini_apis,null
-web/api/html_dom_api,3
+web/api/html_dom_api,4
 web/api/html_dom_api/microtask_guide,null
 web/api/html_dom_api/microtask_guide/in_depth,null
 web/api/html_drag_and_drop_api,null
@@ -7744,7 +7744,7 @@ web/api/screen/width,null
 web/api/screen_capture_api,11
 web/api/screen_capture_api/captured_surface_control,null
 web/api/screen_capture_api/element_region_capture,null
-web/api/screen_capture_api/using_screen_capture,16
+web/api/screen_capture_api/using_screen_capture,17
 web/api/screen_orientation_api,null
 web/api/screen_wake_lock_api,null
 web/api/screendetailed,null
@@ -10745,7 +10745,7 @@ web/css/reference/properties/-webkit-text-fill-color,null
 web/css/reference/properties/-webkit-text-security,null
 web/css/reference/properties/-webkit-text-stroke,null
 web/css/reference/properties/-webkit-text-stroke-color,null
-web/css/reference/properties/-webkit-text-stroke-width,0
+web/css/reference/properties/-webkit-text-stroke-width,1
 web/css/reference/properties/-webkit-touch-callout,null
 web/css/reference/properties/accent-color,null
 web/css/reference/properties/align-content,null
@@ -10967,7 +10967,7 @@ web/css/reference/properties/font-language-override,3
 web/css/reference/properties/font-optical-sizing,null
 web/css/reference/properties/font-palette,null
 web/css/reference/properties/font-palette/palette-mix,null
-web/css/reference/properties/font-size,0
+web/css/reference/properties/font-size,1
 web/css/reference/properties/font-size-adjust,null
 web/css/reference/properties/font-smooth,null
 web/css/reference/properties/font-stretch,null
@@ -11049,7 +11049,7 @@ web/css/reference/properties/margin-block,null
 web/css/reference/properties/margin-block-end,null
 web/css/reference/properties/margin-block-start,null
 web/css/reference/properties/margin-bottom,null
-web/css/reference/properties/margin-inline,7
+web/css/reference/properties/margin-inline,8
 web/css/reference/properties/margin-inline-end,null
 web/css/reference/properties/margin-inline-start,null
 web/css/reference/properties/margin-left,null
@@ -14263,6 +14263,8 @@ web/webdriver/reference/bidi/modules/input/setfiles,null
 web/webdriver/reference/bidi/modules/log,null
 web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
+web/webdriver/reference/bidi/modules/network/setcachebehavior,null
+web/webdriver/reference/bidi/modules/network/setextraheaders,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null
 web/webdriver/reference/bidi/modules/script/addpreloadscript,null

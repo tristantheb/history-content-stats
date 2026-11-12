@@ -14262,7 +14262,9 @@ web/webdriver/reference/bidi/modules/input/releaseactions,0
 web/webdriver/reference/bidi/modules/input/setfiles,0
 web/webdriver/reference/bidi/modules/log,0
 web/webdriver/reference/bidi/modules/log/entryadded,0
-web/webdriver/reference/bidi/modules/network,0
+web/webdriver/reference/bidi/modules/network,1
+web/webdriver/reference/bidi/modules/network/setcachebehavior,null
+web/webdriver/reference/bidi/modules/network/setextraheaders,null
 web/webdriver/reference/bidi/modules/permissions,0
 web/webdriver/reference/bidi/modules/script,0
 web/webdriver/reference/bidi/modules/script/addpreloadscript,0

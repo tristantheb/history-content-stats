@@ -9886,7 +9886,7 @@ web/api/window/outerheight,null
 web/api/window/outerwidth,null
 web/api/window/pagehide_event,17
 web/api/window/pagereveal_event,null
-web/api/window/pageshow_event,15
+web/api/window/pageshow_event,16
 web/api/window/pageswap_event,null
 web/api/window/parent,null
 web/api/window/performance,null
@@ -13928,8 +13928,8 @@ web/svg/reference/attribute/color-interpolation,null
 web/svg/reference/attribute/color-interpolation-filters,null
 web/svg/reference/attribute/crossorigin,null
 web/svg/reference/attribute/cursor,null
-web/svg/reference/attribute/cx,1
-web/svg/reference/attribute/cy,1
+web/svg/reference/attribute/cx,2
+web/svg/reference/attribute/cy,2
 web/svg/reference/attribute/d,null
 web/svg/reference/attribute/data-_star_,null
 web/svg/reference/attribute/decoding,null
@@ -14263,6 +14263,8 @@ web/webdriver/reference/bidi/modules/input/setfiles,null
 web/webdriver/reference/bidi/modules/log,null
 web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
+web/webdriver/reference/bidi/modules/network/setcachebehavior,null
+web/webdriver/reference/bidi/modules/network/setextraheaders,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null
 web/webdriver/reference/bidi/modules/script/addpreloadscript,null

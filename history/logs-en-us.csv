@@ -18,7 +18,7 @@ games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas,21addd31
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/editor,815f1a18f44059500b337719295c6eda14b6228e,Games|Techniques
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/engine,964ab8ae30c5ce0a343cc6d0f28c1b94389bae89,Games|Techniques
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,40ed53eb3e3513d7a9da90253238f9770b47b7dd,Games|Techniques
-games/techniques/3d_on_the_web/glsl_shaders,3cbd2b2b2eb0be9425949c20ca5d398645f7c0e9,Games|Techniques
+games/techniques/3d_on_the_web/glsl_shaders,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Games|Techniques
 games/techniques/3d_on_the_web/webxr,21addd31954b2629ab3e186dacdf7edca813dc7d,Games|Techniques
 games/techniques/async_scripts,21addd31954b2629ab3e186dacdf7edca813dc7d,Games|Techniques
 games/techniques/audio_for_web_games,06e6e54baef7032c4e81ca93291fde0a0585de8b,Games|Techniques
@@ -1071,7 +1071,7 @@ mdn/writing_guidelines/page_structures/code_examples,f99d00a1c3697e26a679925954e
 mdn/writing_guidelines/page_structures/compatibility_tables,2e427c5c185433c5a6612c63bf877753a5fedc99,MDN|Writing Guidelines
 mdn/writing_guidelines/page_structures/feature_status,8f0171397993605739530a8d32f24a804d06f882,MDN|Writing Guidelines
 mdn/writing_guidelines/page_structures/links,c37d4a5c0a0e464242d54ee7378d8adb2c9c5a4f,MDN|Writing Guidelines
-mdn/writing_guidelines/page_structures/live_samples,7cabe7010a0ccfcf587ddac1571963eba102090d,MDN|Writing Guidelines
+mdn/writing_guidelines/page_structures/live_samples,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,MDN|Writing Guidelines
 mdn/writing_guidelines/page_structures/macros,078deef4b52f337f2ef69e037ee80d1feae0d96a,MDN|Writing Guidelines
 mdn/writing_guidelines/page_structures/macros/commonly_used_macros,8f0171397993605739530a8d32f24a804d06f882,MDN|Writing Guidelines
 mdn/writing_guidelines/page_structures/macros/other,269fa421f0a79b18f6000a26baebe30c74571b1f,MDN|Writing Guidelines
@@ -2237,7 +2237,7 @@ web/accessibility/aria/reference/roles/status_role,3e543cdfe8dddfb4774a64bf3decd
 web/accessibility/aria/reference/roles/structural_roles,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/structure_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/suggestion_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/switch_role,1474534461893381d54c502e655f334b5568e597,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/switch_role,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tab_role,1474534461893381d54c502e655f334b5568e597,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/table_role,705109e85b6c5a9142260c58a617ef295b3b1316,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tablist_role,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Roles
@@ -3072,7 +3072,7 @@ web/api/css/highlights_static,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/css/paintworklet_static,3b39e41fb9393a13b16aaf58ba25174a62205041,Web APIs
 web/api/css/registerproperty_static,15573306c0527f203ba3ddbfcad2ae7be0e9d73a,Web APIs
 web/api/css/supports_static,56f3d7018159127dbe92842413fb45d0aa7e8193,Web APIs
-web/api/css_custom_highlight_api,8a10694edf44bde124fa8f18af65651855f632dc,Web APIs
+web/api/css_custom_highlight_api,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/css_font_loading_api,72af34c38ae0d97bc3c9bde4998d538bcc56634a,Web APIs
 web/api/css_object_model,8f0171397993605739530a8d32f24a804d06f882,Web APIs
 web/api/css_object_model/css_declaration,b07efa13f8459a44a2cbc7b6cdb3279967565e63,Web APIs
@@ -3225,7 +3225,7 @@ web/api/cssnumericvalue/to,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssnumericvalue/tosum,793b293c6c43b480bf060c2f98ca9240712f461e,Web APIs
 web/api/cssnumericvalue/type,285179734bb0505a755c76aa556b6cb12d81b643,Web APIs
 web/api/cssom_view_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/cssom_view_api/coordinate_systems,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
+web/api/cssom_view_api/coordinate_systems,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/csspagedescriptors,f374254974d51d83187ab5efcc6f1fb7a1bd2cfa,Web APIs
 web/api/csspagerule,b2c48c8b7c097aeab4bc15a388c913f466f40e25,Web APIs
 web/api/csspagerule/selectortext,77d90a23ee0a3b5486a7963f68ad4e56efb06a7b,Web APIs
@@ -3382,7 +3382,7 @@ web/api/customevent,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a,Web APIs
 web/api/customevent/customevent,f4c0e822eb6a1ea438c7342f43a3e4809adbd56a,Web APIs
 web/api/customevent/detail,14aec55e57117d0dc4a916112e23d310908e9937,Web APIs
 web/api/customevent/initcustomevent,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
-web/api/customstateset,7cabe7010a0ccfcf587ddac1571963eba102090d,Web APIs
+web/api/customstateset,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/customstateset/add,0c13af55e869cbc54830fd1a601fd05f60717375,Web APIs
 web/api/customstateset/clear,f33c6e8a7204272b90d8f005f3d8c743333d7dbf,Web APIs
 web/api/customstateset/delete,f33c6e8a7204272b90d8f005f3d8c743333d7dbf,Web APIs
@@ -3884,7 +3884,7 @@ web/api/element/ariavaluetext,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/element/assignedslot,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/element/attachshadow,afcdfa050626bb7eb05ee693df8997020db9ff2e,Web APIs
 web/api/element/attributes,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b,Web APIs
-web/api/element/auxclick_event,195b87dbb0e63aab27700b606fc96c4cd7982f64,Web APIs
+web/api/element/auxclick_event,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/element/before,83abbf83add0cd101b13f747bf52da0ff4b51bf8,Web APIs
 web/api/element/beforeinput_event,195b87dbb0e63aab27700b606fc96c4cd7982f64,Web APIs
 web/api/element/beforematch_event,195b87dbb0e63aab27700b606fc96c4cd7982f64,Web APIs
@@ -3912,7 +3912,7 @@ web/api/element/copy_event,195b87dbb0e63aab27700b606fc96c4cd7982f64,Web APIs
 web/api/element/currentcsszoom,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/element/customelementregistry,57ea7eecce9dee3bd3a874ce184a48cf993c0699,Web APIs
 web/api/element/cut_event,195b87dbb0e63aab27700b606fc96c4cd7982f64,Web APIs
-web/api/element/dblclick_event,195b87dbb0e63aab27700b606fc96c4cd7982f64,Web APIs
+web/api/element/dblclick_event,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/element/domactivate_event,195b87dbb0e63aab27700b606fc96c4cd7982f64,Web APIs
 web/api/element/dommousescroll_event,195b87dbb0e63aab27700b606fc96c4cd7982f64,Web APIs
 web/api/element/elementtiming,4d218f9fdff30e8e01a26402b9f9615c9527ccf6,Web APIs
@@ -4139,7 +4139,7 @@ web/api/event/explicitoriginaltarget,c20c12fab32381b983b4148d712fda227d34e2bd,We
 web/api/event/initevent,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/event/istrusted,2fcbc06a9c381dac235dec2fa3528e33c8261a0f,Web APIs
 web/api/event/originaltarget,c20c12fab32381b983b4148d712fda227d34e2bd,Web APIs
-web/api/event/preventdefault,976891fb78ba24cb4ac6e58ae8a903b20eae4337,Web APIs
+web/api/event/preventdefault,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/event/returnvalue,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/event/srcelement,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/event/stopimmediatepropagation,bc9f7bec1ab48f29d241e38a9f1598f783f6b60a,Web APIs
@@ -4753,7 +4753,7 @@ web/api/hmdvrdevice,f74ea09f0510e670be74f76dc86d6e17e063d063,Web APIs
 web/api/hmdvrdevice/geteyeparameters,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/hmdvrdevice/setfieldofview,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/houdini_apis,635820782735cd00f71ce3929ff9377b091f8995,Web APIs
-web/api/html_dom_api,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,Web APIs
+web/api/html_dom_api,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/html_dom_api/microtask_guide,6b9019694341254ad8e3e0572f03988337f6f7ae,Web APIs
 web/api/html_dom_api/microtask_guide/in_depth,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/html_drag_and_drop_api,3385bda58637833eedc9b8dc41a2804e653208a7,Web APIs
@@ -5117,8 +5117,8 @@ web/api/htmlinputelement/showpicker,cc66f2b97b465aef7a1781ee479ec8c42ee2fe7c,Web
 web/api/htmlinputelement/size,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlinputelement/src,61986210fa785119daed1c121491fef615ec2bc8,Web APIs
 web/api/htmlinputelement/step,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
-web/api/htmlinputelement/stepdown,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/htmlinputelement/stepup,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
+web/api/htmlinputelement/stepdown,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
+web/api/htmlinputelement/stepup,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/htmlinputelement/type,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlinputelement/validationmessage,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlinputelement/validity,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -5453,7 +5453,7 @@ web/api/htmltemplateelement/shadowrootdelegatesfocus,9c4d4cb78a55340b46855e47aba
 web/api/htmltemplateelement/shadowrootmode,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/htmltemplateelement/shadowrootserializable,9c4d4cb78a55340b46855e47aba76729a59e11ce,Web APIs
 web/api/htmltemplateelement/shadowrootslotassignment,61f27416f7cfa79bd102042eeb3e44fe629d9c95,Web APIs
-web/api/htmltextareaelement,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,Web APIs
+web/api/htmltextareaelement,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/htmltextareaelement/autocomplete,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmltextareaelement/checkvalidity,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmltextareaelement/cols,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -5761,7 +5761,7 @@ web/api/keyboardevent/ctrlkey,358daf81ac9cf3db999cc8af7aed81ef4ff0c3f6,Web APIs
 web/api/keyboardevent/getmodifierstate,cfb7587e3e3122630ad6cbd94d834ecadbe0a746,Web APIs
 web/api/keyboardevent/initkeyboardevent,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/keyboardevent/iscomposing,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Web APIs
-web/api/keyboardevent/key,b9569fcd65bb09ea7e032ef0938185eccdc2d9c4,Web APIs
+web/api/keyboardevent/key,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/keyboardevent/keyboardevent,db18e806c3b6d3db340c94e69739fbef966cba01,Web APIs
 web/api/keyboardevent/keycode,65692fd4d256d5647749b7c7005dcf53d425a533,Web APIs
 web/api/keyboardevent/keyidentifier,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -5899,7 +5899,7 @@ web/api/mathmlelement/nonce,bfec9e17373a24d6c70cc52fad82719b811e7985,Web APIs
 web/api/mathmlelement/style,c053b4b3bb0f34736e9f4402d4254830670af723,Web APIs
 web/api/mathmlelement/tabindex,7cabe7010a0ccfcf587ddac1571963eba102090d,Web APIs
 web/api/media_capabilities_api,962e1a50a206497b6fa012db88cf7c192136bc70,Web APIs
-web/api/media_capabilities_api/using_the_media_capabilities_api,962e1a50a206497b6fa012db88cf7c192136bc70,Web APIs
+web/api/media_capabilities_api/using_the_media_capabilities_api,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/media_capture_and_streams_api,b1bb1b27224e37b2045c6a16b5f9cfa817d0df89,Web APIs
 web/api/media_capture_and_streams_api/constraints,b1bb1b27224e37b2045c6a16b5f9cfa817d0df89,Web APIs
 web/api/media_capture_and_streams_api/taking_still_photos,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,Web APIs
@@ -6660,7 +6660,7 @@ web/api/paymentrequest,c808a24d4e4f7bda00e7117f315965ed39b780e5,Web APIs
 web/api/paymentrequest/abort,b71d118ffc6d72b77efad9661110fcc9ede464eb,Web APIs
 web/api/paymentrequest/canmakepayment,aa8fa82a902746b0bd97839180fc2b5397088140,Web APIs
 web/api/paymentrequest/getsecurepaymentconfirmationcapabilities_static,c808a24d4e4f7bda00e7117f315965ed39b780e5,Web APIs
-web/api/paymentrequest/id,b9569fcd65bb09ea7e032ef0938185eccdc2d9c4,Web APIs
+web/api/paymentrequest/id,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/paymentrequest/merchantvalidation_event,ded0a8bc0b6622b4a95253e358c6a58a77ad2387,Web APIs
 web/api/paymentrequest/paymentmethodchange_event,60898650ee472d10cc15cb91c982fede0d0c5e34,Web APIs
 web/api/paymentrequest/paymentrequest,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
@@ -7662,7 +7662,7 @@ web/api/rtcsessiondescription/rtcsessiondescription,ca6052779ddca9f6d99665f12c39
 web/api/rtcsessiondescription/sdp,d0e6d8d712a33b9d3c7a9fb9a8ba85d4dd1b7002,Web APIs
 web/api/rtcsessiondescription/tojson,15d531b54c7f0d96ac80ef00b494fd40743d59ce,Web APIs
 web/api/rtcsessiondescription/type,d0e6d8d712a33b9d3c7a9fb9a8ba85d4dd1b7002,Web APIs
-web/api/rtcstatsreport,f74ea09f0510e670be74f76dc86d6e17e063d063,Web APIs
+web/api/rtcstatsreport,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/rtcstatsreport/entries,ffa6f5871f50856c60983a125cef7de267be7aeb,Web APIs
 web/api/rtcstatsreport/foreach,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/rtcstatsreport/get,fbbef300a9a819cdda1171355da5787ad7cdbb6d,Web APIs
@@ -7744,7 +7744,7 @@ web/api/screen/width,896a41d7d9832367a1e24af567fb419e9d4182f8,Web APIs
 web/api/screen_capture_api,b1bb1b27224e37b2045c6a16b5f9cfa817d0df89,Web APIs
 web/api/screen_capture_api/captured_surface_control,1d4acd0cc450af2e293b9856d5763b92a0812e30,Web APIs
 web/api/screen_capture_api/element_region_capture,3601fb859ad38e80a49d9c7d2d81a783781aac24,Web APIs
-web/api/screen_capture_api/using_screen_capture,b1bb1b27224e37b2045c6a16b5f9cfa817d0df89,Web APIs
+web/api/screen_capture_api/using_screen_capture,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/screen_orientation_api,6d194a9afcce7beef0082c1dc50644bd0fcda635,Web APIs
 web/api/screen_wake_lock_api,3957d6261191fdf1252362e7d2092b5d59daca89,Web APIs
 web/api/screendetailed,4f35a8237ee0842beb9cfef3354e05464ad7ce1a,Web APIs
@@ -8040,7 +8040,7 @@ web/api/speechrecognitionresultlist/item,0a00e01a8c8097ea9786710c3fc703d18f0af95
 web/api/speechrecognitionresultlist/length,0a00e01a8c8097ea9786710c3fc703d18f0af951,Web APIs
 web/api/speechsynthesis,b5437b737639d6952d18b95ebd1045ed73e4bfa7,Web APIs
 web/api/speechsynthesis/cancel,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web APIs
-web/api/speechsynthesis/getvoices,b5437b737639d6952d18b95ebd1045ed73e4bfa7,Web APIs
+web/api/speechsynthesis/getvoices,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/speechsynthesis/pause,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web APIs
 web/api/speechsynthesis/paused,101ffc9479db6aaa530f2aac3992734dd97d1b86,Web APIs
 web/api/speechsynthesis/pending,acfe8c9f1f4145f77653a2bc64a9744b001358dc,Web APIs
@@ -9227,7 +9227,7 @@ web/api/viewtransition/finished,a84b606ffd77c40a7306be6c932a74ab9ce6ab96,Web API
 web/api/viewtransition/ready,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
 web/api/viewtransition/skiptransition,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
 web/api/viewtransition/transitionroot,361dd9caf4ac5db8a73cc33e4d8ee43fa2e35fcc,Web APIs
-web/api/viewtransition/types,7cabe7010a0ccfcf587ddac1571963eba102090d,Web APIs
+web/api/viewtransition/types,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/viewtransition/updatecallbackdone,3a95c239db50c88fdde48daacb6c279006a422b9,Web APIs
 web/api/viewtransition/waituntil,d19dec85109590176f946fcceef48c787d578b1e,Web APIs
 web/api/viewtransitiontypeset,baf0cb6bfe8bf2418122300d3f93e3aa94f72dca,Web APIs
@@ -9863,7 +9863,7 @@ web/api/window/load_event,023b9075df473020b3279afa031bb4a32e3b743b,Web APIs
 web/api/window/localstorage,5b85e27155260155bd829fc6d4b98ca2c476b2d1,Web APIs
 web/api/window/location,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/locationbar,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
-web/api/window/matchmedia,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
+web/api/window/matchmedia,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/window/menubar,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/message_event,023b9075df473020b3279afa031bb4a32e3b743b,Web APIs
 web/api/window/messageerror_event,023b9075df473020b3279afa031bb4a32e3b743b,Web APIs
@@ -9886,7 +9886,7 @@ web/api/window/outerheight,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/outerwidth,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/pagehide_event,023b9075df473020b3279afa031bb4a32e3b743b,Web APIs
 web/api/window/pagereveal_event,d4f95d5a32920324e2502a556d8bdd9d7f446718,Web APIs
-web/api/window/pageshow_event,d4f95d5a32920324e2502a556d8bdd9d7f446718,Web APIs
+web/api/window/pageshow_event,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,Web APIs
 web/api/window/pageswap_event,d4f95d5a32920324e2502a556d8bdd9d7f446718,Web APIs
 web/api/window/parent,285941521a9a7c2c1b3c443d5f785e5f663a8fc9,Web APIs
 web/api/window/performance,54962bbd1d367115cfd01b4e1ba6b552e8b68eb7,Web APIs
@@ -10449,7 +10449,7 @@ web/css/guides/containment/container_queries,afcdfa050626bb7eb05ee693df8997020db
 web/css/guides/containment/container_size_and_style_queries,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Guides
 web/css/guides/containment/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/counter_styles,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/counter_styles/using_counters,f60b6627900af0ba2132de74c77829fa6c189b57,CSS|Guides
+web/css/guides/counter_styles/using_counters,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Guides
 web/css/guides/cssom_view,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/cssom_view/viewport_concepts,d00cd7171957c1510c2e7ff855196df01530a09c,CSS|Guides
 web/css/guides/custom_functions_and_mixins,569b07ef525429e0929c70e7dd067cbc0ce707bd,CSS|Guides
@@ -10572,7 +10572,7 @@ web/css/guides/scrollbars_styling,553d17671f5fec31365fedfaad8e5343d14c0bd8,CSS|G
 web/css/guides/selectors,a75edf682e5e346b4f97582db6cbccaae800ef73,CSS|Guides
 web/css/guides/selectors/privacy_and__colon_visited,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/selectors/selector_structure,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/selectors/selectors_and_combinators,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/selectors/selectors_and_combinators,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Guides
 web/css/guides/selectors/using__colon_target,298079b550c76f20de6611c4ecdde4c30dc68b2b,CSS|Guides
 web/css/guides/shadow_parts,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/shapes,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Guides
@@ -10720,7 +10720,7 @@ web/css/reference/at-rules/@property/inherits,f0094356d3acb19475dde45508dfeac6ab
 web/css/reference/at-rules/@property/initial-value,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@property/syntax,f0094356d3acb19475dde45508dfeac6abf596db,CSS|At-rules
 web/css/reference/at-rules/@scope,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
-web/css/reference/at-rules/@starting-style,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
+web/css/reference/at-rules/@starting-style,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|At-rules
 web/css/reference/at-rules/@supports,ef4050055cbb6ba03fc245947b47d35252bd2376,CSS|At-rules
 web/css/reference/at-rules/@view-transition,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/at-rule_functions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
@@ -10741,11 +10741,11 @@ web/css/reference/properties/-webkit-mask-position-y,22c0b3059ff71d769af670478cc
 web/css/reference/properties/-webkit-mask-repeat-x,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
 web/css/reference/properties/-webkit-mask-repeat-y,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
 web/css/reference/properties/-webkit-tap-highlight-color,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
-web/css/reference/properties/-webkit-text-fill-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/-webkit-text-fill-color,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/-webkit-text-security,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/-webkit-text-stroke,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
 web/css/reference/properties/-webkit-text-stroke-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/-webkit-text-stroke-width,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
+web/css/reference/properties/-webkit-text-stroke-width,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/-webkit-touch-callout,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
 web/css/reference/properties/accent-color,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/align-content,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
@@ -10907,7 +10907,7 @@ web/css/reference/properties/contain,316367d0a304cf967691602672795825c05f835a,CS
 web/css/reference/properties/contain-intrinsic-block-size,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/contain-intrinsic-height,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/contain-intrinsic-inline-size,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
-web/css/reference/properties/contain-intrinsic-size,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
+web/css/reference/properties/contain-intrinsic-size,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/contain-intrinsic-width,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/container,2ce88199869b63f8da3bbeafd899400f7579cce9,CSS|Properties
 web/css/reference/properties/container-name,c4e64810ce10fb5cb1eebfcd8b6f526866fd0982,CSS|Properties
@@ -10959,7 +10959,7 @@ web/css/reference/properties/flex-wrap,3fb9ea0187429234b47cb0385a9515a69757fe63,
 web/css/reference/properties/float,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/flood-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/flood-opacity,c9f3d85f24d7839c9fe36a68d8042d088d906147,CSS|Properties
-web/css/reference/properties/font,3f221b9845703eb21db70cdc321f843d5c1c072b,CSS|Properties
+web/css/reference/properties/font,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/font-family,e7ee9edb037573b84aca121a0bce4f3f700f3fa3,CSS|Properties
 web/css/reference/properties/font-feature-settings,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-kerning,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
@@ -10967,7 +10967,7 @@ web/css/reference/properties/font-language-override,737b931225e92e0cba47e57a1508
 web/css/reference/properties/font-optical-sizing,03e93e0948768ea78474e77a53795698ebca5836,CSS|Properties
 web/css/reference/properties/font-palette,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/font-palette/palette-mix,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Properties
-web/css/reference/properties/font-size,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
+web/css/reference/properties/font-size,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/font-size-adjust,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/font-smooth,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/font-stretch,72af34c38ae0d97bc3c9bde4998d538bcc56634a,CSS|Properties
@@ -10988,7 +10988,7 @@ web/css/reference/properties/font-variant-position,c0c85c3dc0d6ff4247c85b0144149
 web/css/reference/properties/font-variation-settings,91e08923c809ca8deded3e3294f49bbe1a4a00b3,CSS|Properties
 web/css/reference/properties/font-weight,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/font-width,72af34c38ae0d97bc3c9bde4998d538bcc56634a,CSS|Properties
-web/css/reference/properties/forced-color-adjust,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,CSS|Properties
+web/css/reference/properties/forced-color-adjust,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/frame-sizing,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
 web/css/reference/properties/gap,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
 web/css/reference/properties/grid,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
@@ -11002,7 +11002,7 @@ web/css/reference/properties/grid-column-start,bcbb4bd6a80292c0663b723d5466759cf
 web/css/reference/properties/grid-row,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/grid-row-end,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/grid-row-start,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/grid-template,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/grid-template,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/grid-template-areas,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/grid-template-columns,2f710bc43d966483d0204330b14f841b440a6b60,CSS|Properties
 web/css/reference/properties/grid-template-rows,2f710bc43d966483d0204330b14f841b440a6b60,CSS|Properties
@@ -11045,11 +11045,11 @@ web/css/reference/properties/list-style-image,880c2c4b113c6fe127ca3ae3603a56ef7a
 web/css/reference/properties/list-style-position,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/list-style-type,c2375c58cf5a6f0fd7053f3cee7cba8bd88a2bbe,CSS|Properties
 web/css/reference/properties/margin,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
-web/css/reference/properties/margin-block,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
+web/css/reference/properties/margin-block,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/margin-block-end,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/margin-block-start,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/margin-bottom,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
-web/css/reference/properties/margin-inline,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
+web/css/reference/properties/margin-inline,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/margin-inline-end,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/margin-inline-start,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/margin-left,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
@@ -11079,7 +11079,7 @@ web/css/reference/properties/mask-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,
 web/css/reference/properties/mask-type,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/math-depth,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/math-shift,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
-web/css/reference/properties/math-style,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/math-style,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/max-block-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/max-height,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/max-inline-size,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11150,7 +11150,7 @@ web/css/reference/properties/position-try,6354422058e438a2599e4eab71eaec8eb40850
 web/css/reference/properties/position-try-fallbacks,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
 web/css/reference/properties/position-try-order,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
 web/css/reference/properties/position-visibility,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/print-color-adjust,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,CSS|Properties
+web/css/reference/properties/print-color-adjust,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/quotes,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
 web/css/reference/properties/r,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
 web/css/reference/properties/reading-flow,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
@@ -11218,9 +11218,9 @@ web/css/reference/properties/scroll-target-group,bcbb4bd6a80292c0663b723d5466759
 web/css/reference/properties/scroll-timeline,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/scroll-timeline-axis,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/scroll-timeline-name,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
-web/css/reference/properties/scrollbar-color,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
+web/css/reference/properties/scrollbar-color,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/scrollbar-gutter,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/scrollbar-width,2e2dfb27a085911dd64aa4798d4a1071660c2397,CSS|Properties
+web/css/reference/properties/scrollbar-width,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/shape-image-threshold,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/shape-margin,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/shape-outside,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
@@ -11252,10 +11252,10 @@ web/css/reference/properties/text-decoration-inset,85577061e99da7082b48263fa19f9
 web/css/reference/properties/text-decoration-line,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/text-decoration-skip,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|Properties
 web/css/reference/properties/text-decoration-skip-ink,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
-web/css/reference/properties/text-decoration-style,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/text-decoration-style,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/text-decoration-thickness,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/text-emphasis,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
-web/css/reference/properties/text-emphasis-color,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/text-emphasis,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
+web/css/reference/properties/text-emphasis-color,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/text-emphasis-position,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
 web/css/reference/properties/text-emphasis-style,56f3d7018159127dbe92842413fb45d0aa7e8193,CSS|Properties
 web/css/reference/properties/text-fit,cc66520c973185b32319769333271680832a854e,CSS|Properties
@@ -11340,13 +11340,13 @@ web/css/reference/selectors/_colon_-moz-user-disabled,bf90d24ddf56e3f60df25fcbc0
 web/css/reference/selectors/_colon_-moz-window-inactive,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_active,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_active-view-transition,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Selectors
-web/css/reference/selectors/_colon_active-view-transition-type,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Selectors
+web/css/reference/selectors/_colon_active-view-transition-type,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
 web/css/reference/selectors/_colon_any-link,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_autofill,b4f42a2037bcb8f2daec61f6b3d92bfdd13e5386,CSS|Selectors
 web/css/reference/selectors/_colon_blank,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_buffering,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_checked,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Selectors
-web/css/reference/selectors/_colon_current,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Selectors
+web/css/reference/selectors/_colon_current,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
 web/css/reference/selectors/_colon_default,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Selectors
 web/css/reference/selectors/_colon_defined,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,CSS|Selectors
 web/css/reference/selectors/_colon_dir,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
@@ -11375,7 +11375,7 @@ web/css/reference/selectors/_colon_interest-source,bf90d24ddf56e3f60df25fcbc0d4e
 web/css/reference/selectors/_colon_interest-target,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_invalid,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Selectors
 web/css/reference/selectors/_colon_is,2c298f271e4f711517bff2a75611eb16fe98143f,CSS|Selectors
-web/css/reference/selectors/_colon_lang,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
+web/css/reference/selectors/_colon_lang,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
 web/css/reference/selectors/_colon_last-child,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_last-of-type,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_left,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
@@ -11390,7 +11390,7 @@ web/css/reference/selectors/_colon_nth-last-of-type,bf90d24ddf56e3f60df25fcbc0d4
 web/css/reference/selectors/_colon_nth-of-type,e620c4f06bca1cbecc4412084e43ddc12e88fe56,CSS|Selectors
 web/css/reference/selectors/_colon_only-child,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
 web/css/reference/selectors/_colon_only-of-type,bf90d24ddf56e3f60df25fcbc0d4e3e084004794,CSS|Selectors
-web/css/reference/selectors/_colon_open,26fb7eaa7b398a35c2463fa15ab6ccfa46a9e06d,CSS|Selectors
+web/css/reference/selectors/_colon_open,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
 web/css/reference/selectors/_colon_optional,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Selectors
 web/css/reference/selectors/_colon_out-of-range,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Selectors
 web/css/reference/selectors/_colon_past,b4f42a2037bcb8f2daec61f6b3d92bfdd13e5386,CSS|Selectors
@@ -11437,7 +11437,7 @@ web/css/reference/selectors/_doublecolon_-webkit-meter-suboptimum-value,6cf697a8
 web/css/reference/selectors/_doublecolon_-webkit-progress-bar,e8551ed116f8be8684765108079bed2c2f876132,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-progress-inner-element,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-progress-value,28f5f3b9b463fa842fa686ccc73c9e1d9b06282b,CSS|Selectors
-web/css/reference/selectors/_doublecolon_-webkit-scrollbar,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Selectors
+web/css/reference/selectors/_doublecolon_-webkit-scrollbar,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-search-cancel-button,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-search-results-button,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_-webkit-slider-runnable-track,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
@@ -11472,25 +11472,25 @@ web/css/reference/selectors/_doublecolon_view-transition-group,ddf85bfec1b6e43cd
 web/css/reference/selectors/_doublecolon_view-transition-image-pair,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_view-transition-new,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
 web/css/reference/selectors/_doublecolon_view-transition-old,6cf697a8965ecdc4967258cc0282fe789b60318e,CSS|Selectors
-web/css/reference/selectors/attribute_selectors,e2c34c75df6238fbeff790100cea1ab7e552e49e,CSS|Selectors
-web/css/reference/selectors/child_combinator,c52ed787442db9d65b21f5c2874fa6bfd08a253a,CSS|Selectors
+web/css/reference/selectors/attribute_selectors,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
+web/css/reference/selectors/child_combinator,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
 web/css/reference/selectors/class_selectors,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
 web/css/reference/selectors/column_combinator,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
 web/css/reference/selectors/combinators,93b85a5bc2b4589d93185263fd2c14381c36f821,CSS|Selectors
-web/css/reference/selectors/descendant_combinator,c52ed787442db9d65b21f5c2874fa6bfd08a253a,CSS|Selectors
+web/css/reference/selectors/descendant_combinator,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
 web/css/reference/selectors/id_selectors,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
 web/css/reference/selectors/keyframe_selectors,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Selectors
-web/css/reference/selectors/namespace_separator,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
+web/css/reference/selectors/namespace_separator,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
 web/css/reference/selectors/nesting_selector,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Selectors
-web/css/reference/selectors/next-sibling_combinator,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
+web/css/reference/selectors/next-sibling_combinator,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
 web/css/reference/selectors/pseudo-classes,c62181855c91ac0435dea5fa759a250e1dea4f8b,CSS|Selectors
 web/css/reference/selectors/pseudo-elements,bc294cca926abf68e1cbf8026f0bae1bf6a95325,CSS|Selectors
 web/css/reference/selectors/selector_list,33094d735e90b4dcae5733331b79c51fee997410,CSS|Selectors
 web/css/reference/selectors/subsequent-sibling_combinator,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
-web/css/reference/selectors/type_selectors,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Selectors
-web/css/reference/selectors/universal_selectors,ca0d81a57fd36cf5da9621c44171d0f333f3f3e1,CSS|Selectors
+web/css/reference/selectors/type_selectors,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
+web/css/reference/selectors/universal_selectors,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Selectors
 web/css/reference/values,93b85a5bc2b4589d93185263fd2c14381c36f821,CSS|Values
-web/css/reference/values/-moz-image-rect,ca6052779ddca9f6d99665f12c39aa2d85d85733,CSS|Values
+web/css/reference/values/-moz-image-rect,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Values
 web/css/reference/values/abs,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/absolute-size,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Values
 web/css/reference/values/acos,daa035392f8466e6d75f290d9ffa4317adca4070,CSS|Values
@@ -11510,7 +11510,7 @@ web/css/reference/values/basic-shape,2e0b9415ed31484a4830e214eff9e06e408c7261,CS
 web/css/reference/values/basic-shape/circle,30e0adab23668217555b7ed37df7e6e61b002bf3,CSS|Values
 web/css/reference/values/basic-shape/ellipse,30e0adab23668217555b7ed37df7e6e61b002bf3,CSS|Values
 web/css/reference/values/basic-shape/inset,cd0970bc03cf30a9a8089954cc542a17dbe9eba3,CSS|Values
-web/css/reference/values/basic-shape/path,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Values
+web/css/reference/values/basic-shape/path,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Values
 web/css/reference/values/basic-shape/polygon,6edb918a9e6bd17858d48dcfa5d76aa5ed5b9659,CSS|Values
 web/css/reference/values/basic-shape/rect,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Values
 web/css/reference/values/basic-shape/shape,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Values
@@ -11593,7 +11593,7 @@ web/css/reference/values/hue,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/hue-interpolation-method,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Values
 web/css/reference/values/hypot,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/ident,cad9096502d2a74b34a67377bbb0ac88fcfa58c2,CSS|Values
-web/css/reference/values/if,f0179562ad8e2a4dd1f0916c529792198d7e06b2,CSS|Values
+web/css/reference/values/if,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Values
 web/css/reference/values/image,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/image/image,3a4e7cc6b2104a8b8e64bfece1924ef065328784,CSS|Values
 web/css/reference/values/image/image-set,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
@@ -11611,7 +11611,7 @@ web/css/reference/values/max,11c522da37b7469cbce26bbe220936aec1d372d0,CSS|Values
 web/css/reference/values/max-content,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Values
 web/css/reference/values/min,bf3b0f3217d5d5a6957e9e17f863ece19d939d20,CSS|Values
 web/css/reference/values/min-content,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Values
-web/css/reference/values/minmax,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/minmax,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Values
 web/css/reference/values/mod,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/named-color,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/number,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
@@ -11622,7 +11622,7 @@ web/css/reference/values/percentage,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS
 web/css/reference/values/position-area_value,c9f812354ae36bbafc6f6d9b0961f3b25f350f4c,CSS|Values
 web/css/reference/values/position_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/pow,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/progress,d35a7643766c8f8d1d92044ca771dbf8dc843906,CSS|Values
+web/css/reference/values/progress,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Values
 web/css/reference/values/random,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Values
 web/css/reference/values/ratio,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/ray,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Values
@@ -11711,7 +11711,7 @@ web/html/reference/attributes/elementtiming,b50ed7ac1c2ca21b4b5cfb594474a17da3f2
 web/html/reference/attributes/fetchpriority,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/for,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/form,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,HTML|Attributes
-web/html/reference/attributes/integrity,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
+web/html/reference/attributes/integrity,d16355b5ec024c990cff93dc36232c95d944bfce,HTML|Attributes
 web/html/reference/attributes/max,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/maxlength,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
 web/html/reference/attributes/min,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
@@ -11735,7 +11735,7 @@ web/html/reference/attributes/rel/preload,fc7c0c6df803d5ce26e7b2a72725a7d021ed06
 web/html/reference/attributes/rel/prerender,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Attributes
 web/html/reference/attributes/required,46afd57950146568819d0bf98175a2ffdbe079d7,HTML|Attributes
 web/html/reference/attributes/size,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
-web/html/reference/attributes/step,b50ed7ac1c2ca21b4b5cfb594474a17da3f2e6c2,HTML|Attributes
+web/html/reference/attributes/step,d16355b5ec024c990cff93dc36232c95d944bfce,HTML|Attributes
 web/html/reference/elements,456c370394c0cd8869feb60c4e9926f35422beaf,HTML|Elements
 web/html/reference/elements/a,94172439968170ab04c730b4f93a699688f7f367,HTML|Elements
 web/html/reference/elements/abbr,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11749,7 +11749,7 @@ web/html/reference/elements/b,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elem
 web/html/reference/elements/base,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/bdi,da275ce3eae1d8d250f1079b4643213a7a2bbb90,HTML|Elements
 web/html/reference/elements/bdo,100cf25d92d3953f3c70ecaa2af637d5e42179d8,HTML|Elements
-web/html/reference/elements/big,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
+web/html/reference/elements/big,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,HTML|Elements
 web/html/reference/elements/blockquote,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/body,7cabe7010a0ccfcf587ddac1571963eba102090d,HTML|Elements
 web/html/reference/elements/br,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11765,7 +11765,7 @@ web/html/reference/elements/data,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|E
 web/html/reference/elements/datalist,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/dd,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/del,32eceacf42b6bff41d9605298eba143cb7e199a1,HTML|Elements
-web/html/reference/elements/details,44a1a0348720bbd1b1085c7d92b93b4fd311a3dd,HTML|Elements
+web/html/reference/elements/details,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,HTML|Elements
 web/html/reference/elements/dfn,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/dialog,7cabe7010a0ccfcf587ddac1571963eba102090d,HTML|Elements
 web/html/reference/elements/dir,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
@@ -11785,7 +11785,7 @@ web/html/reference/elements/frame,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|
 web/html/reference/elements/frameset,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/geolocation,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/head,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/header,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/header,4b8ea679f2d55adbc1234f44583ca23a9729fbdc,HTML|Elements
 web/html/reference/elements/heading_elements,f398f522d05bb8bfe739ac2417b00712b7888494,HTML|Elements
 web/html/reference/elements/hgroup,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/hr,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
@@ -11817,7 +11817,7 @@ web/html/reference/elements/input/time,46afd57950146568819d0bf98175a2ffdbe079d7,
 web/html/reference/elements/input/url,46afd57950146568819d0bf98175a2ffdbe079d7,HTML|Elements
 web/html/reference/elements/input/week,46afd57950146568819d0bf98175a2ffdbe079d7,HTML|Elements
 web/html/reference/elements/ins,32eceacf42b6bff41d9605298eba143cb7e199a1,HTML|Elements
-web/html/reference/elements/kbd,f201fb25d8aeda059065686c180e161c995369d2,HTML|Elements
+web/html/reference/elements/kbd,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,HTML|Elements
 web/html/reference/elements/label,7cabe7010a0ccfcf587ddac1571963eba102090d,HTML|Elements
 web/html/reference/elements/legend,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/li,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
@@ -11842,7 +11842,7 @@ web/html/reference/elements/nav,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|El
 web/html/reference/elements/nobr,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/noembed,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
 web/html/reference/elements/noframes,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
-web/html/reference/elements/noscript,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/noscript,4b8ea679f2d55adbc1234f44583ca23a9729fbdc,HTML|Elements
 web/html/reference/elements/object,456c370394c0cd8869feb60c4e9926f35422beaf,HTML|Elements
 web/html/reference/elements/ol,51c7af056884cf4b990052e492c21cc8508eef5c,HTML|Elements
 web/html/reference/elements/optgroup,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
@@ -11878,7 +11878,7 @@ web/html/reference/elements/strike,7cabe7010a0ccfcf587ddac1571963eba102090d,HTML
 web/html/reference/elements/strong,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/style,b58d84c261b9cfa66d46a070ba205c53e18ee3e0,HTML|Elements
 web/html/reference/elements/sub,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/summary,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/summary,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,HTML|Elements
 web/html/reference/elements/sup,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/table,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/tbody,56f3d7018159127dbe92842413fb45d0aa7e8193,HTML|Elements
@@ -11892,10 +11892,10 @@ web/html/reference/elements/time,56f3d7018159127dbe92842413fb45d0aa7e8193,HTML|E
 web/html/reference/elements/title,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/tr,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/track,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
-web/html/reference/elements/tt,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
+web/html/reference/elements/tt,4b8ea679f2d55adbc1234f44583ca23a9729fbdc,HTML|Elements
 web/html/reference/elements/u,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/ul,51c7af056884cf4b990052e492c21cc8508eef5c,HTML|Elements
-web/html/reference/elements/var,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
+web/html/reference/elements/var,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,HTML|Elements
 web/html/reference/elements/video,d1aa0dbd7441564e6ce8f6706c2022a2e1912d8c,HTML|Elements
 web/html/reference/elements/wbr,7cabe7010a0ccfcf587ddac1571963eba102090d,HTML|Elements
 web/html/reference/elements/xmp,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Elements
@@ -11913,7 +11913,7 @@ web/html/reference/global_attributes/data-_star_,56f3d7018159127dbe92842413fb45d
 web/html/reference/global_attributes/dir,8ed465762d06fa17f7cc6adb3e2be9b57df03e9b,HTML|Global Attributes
 web/html/reference/global_attributes/draggable,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/enterkeyhint,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
-web/html/reference/global_attributes/exportparts,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
+web/html/reference/global_attributes/exportparts,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,HTML|Global Attributes
 web/html/reference/global_attributes/headingoffset,f398f522d05bb8bfe739ac2417b00712b7888494,HTML|Global Attributes
 web/html/reference/global_attributes/headingreset,f398f522d05bb8bfe739ac2417b00712b7888494,HTML|Global Attributes
 web/html/reference/global_attributes/hidden,7cabe7010a0ccfcf587ddac1571963eba102090d,HTML|Global Attributes
@@ -11922,14 +11922,14 @@ web/html/reference/global_attributes/inert,9c70c6ff09189cad43d40e241fbd2fe67349c
 web/html/reference/global_attributes/inputmode,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/is,1bc1971a1265d1792c94b99b736c5accec1fec6d,HTML|Global Attributes
 web/html/reference/global_attributes/itemid,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
-web/html/reference/global_attributes/itemprop,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
+web/html/reference/global_attributes/itemprop,d16355b5ec024c990cff93dc36232c95d944bfce,HTML|Global Attributes
 web/html/reference/global_attributes/itemref,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/itemscope,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/itemtype,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/lang,8ed465762d06fa17f7cc6adb3e2be9b57df03e9b,HTML|Global Attributes
 web/html/reference/global_attributes/nonce,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/part,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
-web/html/reference/global_attributes/popover,7cabe7010a0ccfcf587ddac1571963eba102090d,HTML|Global Attributes
+web/html/reference/global_attributes/popover,d16355b5ec024c990cff93dc36232c95d944bfce,HTML|Global Attributes
 web/html/reference/global_attributes/slot,9c70c6ff09189cad43d40e241fbd2fe67349c3c2,HTML|Global Attributes
 web/html/reference/global_attributes/spellcheck,8d9cda4e9080e9c324a521f40c7e0704ef94ce07,HTML|Global Attributes
 web/html/reference/global_attributes/style,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Global Attributes
@@ -12711,7 +12711,7 @@ web/javascript/reference/global_objects/disposablestack/disposed,9de14917b151f7d
 web/javascript/reference/global_objects/disposablestack/move,9de14917b151f7db567a65d44c2685cea754b12a,JavaScript|Global Objects
 web/javascript/reference/global_objects/disposablestack/symbol.dispose,9de14917b151f7db567a65d44c2685cea754b12a,JavaScript|Global Objects
 web/javascript/reference/global_objects/disposablestack/use,9de14917b151f7db567a65d44c2685cea754b12a,JavaScript|Global Objects
-web/javascript/reference/global_objects/encodeuri,7d4628c5144f459ddb081a3e58d0e56f0c2db673,JavaScript|Global Objects
+web/javascript/reference/global_objects/encodeuri,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,JavaScript|Global Objects
 web/javascript/reference/global_objects/encodeuricomponent,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,JavaScript|Global Objects
 web/javascript/reference/global_objects/error,9de14917b151f7db567a65d44c2685cea754b12a,JavaScript|Global Objects
 web/javascript/reference/global_objects/error/capturestacktrace,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
@@ -13275,7 +13275,7 @@ web/javascript/reference/global_objects/temporal/plaindate/monthcode,9b86874b576
 web/javascript/reference/global_objects/temporal/plaindate/monthsinyear,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/plaindate/plaindate,76c2e04d720aa8260ba7d75788ed96776aac35c6,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/plaindate/since,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
-web/javascript/reference/global_objects/temporal/plaindate/subtract,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
+web/javascript/reference/global_objects/temporal/plaindate/subtract,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/plaindate/tojson,2f3bc982aa82fe341afb61f09f8fa1599d319c6c,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/plaindate/tolocalestring,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/plaindate/toplaindatetime,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
@@ -13625,7 +13625,7 @@ web/javascript/reference/regular_expressions/word_boundary_assertion,fad67be4431
 web/javascript/reference/statements,f693fdeb65be430fdf3b7fc5cdf44a10a13f2bbf,JavaScript|Statements
 web/javascript/reference/statements/async_function,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/async_function_star_,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
-web/javascript/reference/statements/await_using,419694495e070daaf466c923b413b3f476740fd6,JavaScript|Statements
+web/javascript/reference/statements/await_using,0b0bdf5638d9b1bbff3c1738af61c4ac7fabd1ae,JavaScript|Statements
 web/javascript/reference/statements/block,b6a36de3428f4b42c7707c8f190a349db13bf531,JavaScript|Statements
 web/javascript/reference/statements/break,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/class,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
@@ -13653,7 +13653,7 @@ web/javascript/reference/statements/return,fad67be4431d8e6c2a89ac880735233aa76c4
 web/javascript/reference/statements/switch,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/throw,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/try...catch,203acfabc8a27b2a64757df33586b3c29abb730f,JavaScript|Statements
-web/javascript/reference/statements/using,075e089ec955f14ed65dfaa0bf3311051c58f666,JavaScript|Statements
+web/javascript/reference/statements/using,0b0bdf5638d9b1bbff3c1738af61c4ac7fabd1ae,JavaScript|Statements
 web/javascript/reference/statements/var,710372d69095aaeadfba6c892f3e39ed63df4c54,JavaScript|Statements
 web/javascript/reference/statements/while,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Statements
 web/javascript/reference/statements/with,ca6052779ddca9f6d99665f12c39aa2d85d85733,JavaScript|Statements
@@ -13905,7 +13905,7 @@ web/svg/reference,c2fd97474834e061404b992c8397d4ccc4439a71,SVG
 web/svg/reference/attribute,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/accumulate,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/additive,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/alignment-baseline,a516a9818e8cef06c626d436ee1d73fc6d87ec51,SVG|Attribute
+web/svg/reference/attribute/alignment-baseline,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/amplitude,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/attributename,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/attributetype,8f0171397993605739530a8d32f24a804d06f882,SVG|Attribute
@@ -13918,19 +13918,19 @@ web/svg/reference/attribute/begin,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|A
 web/svg/reference/attribute/bias,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/by,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/calcmode,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
-web/svg/reference/attribute/class,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Attribute
+web/svg/reference/attribute/class,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/clip,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
 web/svg/reference/attribute/clip-path,85fccefc8066bd49af4ddafc12c77f35265c7e2d,SVG|Attribute
-web/svg/reference/attribute/clip-rule,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Attribute
-web/svg/reference/attribute/clippathunits,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
-web/svg/reference/attribute/color,f69b6693212029ce4b9fa0c753729044577af548,SVG|Attribute
-web/svg/reference/attribute/color-interpolation,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
+web/svg/reference/attribute/clip-rule,04a0e78cf3119afe2a99e6449f6b74976654d69d,SVG|Attribute
+web/svg/reference/attribute/clippathunits,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/color,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/color-interpolation,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/color-interpolation-filters,5fbc600ce5903c85daac8ec7408527a2b2ea81da,SVG|Attribute
 web/svg/reference/attribute/crossorigin,367c50159a45a513a77bd3941a4fac4bb83d6934,SVG|Attribute
-web/svg/reference/attribute/cursor,c1564acf160ef4b320fb7b89ab65211b9c50cf1b,SVG|Attribute
-web/svg/reference/attribute/cx,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/cy,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/d,56f3d7018159127dbe92842413fb45d0aa7e8193,SVG|Attribute
+web/svg/reference/attribute/cursor,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/cx,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/cy,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/d,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/data-_star_,9ac8d4f4ed0eb2f329e605329afeb51754c7fa79,SVG|Attribute
 web/svg/reference/attribute/decoding,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/diffuseconstant,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
@@ -13940,14 +13940,14 @@ web/svg/reference/attribute/divisor,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG
 web/svg/reference/attribute/dominant-baseline,85fccefc8066bd49af4ddafc12c77f35265c7e2d,SVG|Attribute
 web/svg/reference/attribute/download,94a841dba1498c685a18e72d041fd9057f302d6c,SVG|Attribute
 web/svg/reference/attribute/dur,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/dx,f542ed344953b3312fc92150bba11536667e288a,SVG|Attribute
-web/svg/reference/attribute/dy,f542ed344953b3312fc92150bba11536667e288a,SVG|Attribute
+web/svg/reference/attribute/dx,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/dy,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/edgemode,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/elevation,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
-web/svg/reference/attribute/end,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Attribute
+web/svg/reference/attribute/end,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/exponent,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
-web/svg/reference/attribute/fetchpriority,1f00512e3c9a20b5bb927db529bb5d639e346d96,SVG|Attribute
-web/svg/reference/attribute/fill,7cabe7010a0ccfcf587ddac1571963eba102090d,SVG|Attribute
+web/svg/reference/attribute/fetchpriority,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/fill,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/fill-opacity,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
 web/svg/reference/attribute/fill-rule,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
 web/svg/reference/attribute/filter,85fccefc8066bd49af4ddafc12c77f35265c7e2d,SVG|Attribute
@@ -13970,14 +13970,14 @@ web/svg/reference/attribute/glyph-orientation-horizontal,ca6052779ddca9f6d99665f
 web/svg/reference/attribute/glyph-orientation-vertical,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
 web/svg/reference/attribute/gradienttransform,bb3478393fbb30212a6aeb33235dadf2d627fd4a,SVG|Attribute
 web/svg/reference/attribute/gradientunits,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
-web/svg/reference/attribute/height,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
-web/svg/reference/attribute/href,a516a9818e8cef06c626d436ee1d73fc6d87ec51,SVG|Attribute
+web/svg/reference/attribute/height,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/href,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/hreflang,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/id,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
 web/svg/reference/attribute/image-rendering,be1922d62a0d31e4e3441db0e943aed8df736481,SVG|Attribute
 web/svg/reference/attribute/in,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/in2,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
-web/svg/reference/attribute/intercept,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
+web/svg/reference/attribute/intercept,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/k1,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/k2,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/k3,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
@@ -13999,9 +13999,9 @@ web/svg/reference/attribute/markerheight,c2fd97474834e061404b992c8397d4ccc4439a7
 web/svg/reference/attribute/markerunits,594ae0d4ffb6326a9529fe366d30ca633309ee30,SVG|Attribute
 web/svg/reference/attribute/markerwidth,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/mask,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
-web/svg/reference/attribute/mask-type,85fccefc8066bd49af4ddafc12c77f35265c7e2d,SVG|Attribute
-web/svg/reference/attribute/maskcontentunits,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/maskunits,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
+web/svg/reference/attribute/mask-type,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/maskcontentunits,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/maskunits,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/max,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/media,85fccefc8066bd49af4ddafc12c77f35265c7e2d,SVG|Attribute
 web/svg/reference/attribute/method,dc195092b071bc64c614958a1fedb316a0b57ed7,SVG|Attribute
@@ -14010,32 +14010,32 @@ web/svg/reference/attribute/mode,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|At
 web/svg/reference/attribute/numoctaves,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/offset,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/opacity,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
-web/svg/reference/attribute/operator,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
+web/svg/reference/attribute/operator,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/order,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/orient,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
 web/svg/reference/attribute/origin,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/overflow,ed3f9fceef4ebde12363f2eb7193f1b1ccad7858,SVG|Attribute
-web/svg/reference/attribute/paint-order,a1765c2cad20118be0dad322d3548908787b5791,SVG|Attribute
-web/svg/reference/attribute/path,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
-web/svg/reference/attribute/pathlength,28f2781de2dbb8e81be94c87ff81fd0442cb4736,SVG|Attribute
-web/svg/reference/attribute/patterncontentunits,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/patterntransform,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/patternunits,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
+web/svg/reference/attribute/paint-order,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/path,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/pathlength,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/patterncontentunits,04a0e78cf3119afe2a99e6449f6b74976654d69d,SVG|Attribute
+web/svg/reference/attribute/patterntransform,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/patternunits,04a0e78cf3119afe2a99e6449f6b74976654d69d,SVG|Attribute
 web/svg/reference/attribute/ping,4c62538fb3d6e71c1d8c380b1ff752cdfd545a12,SVG|Attribute
 web/svg/reference/attribute/pointer-events,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/points,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
+web/svg/reference/attribute/points,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/pointsatx,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/pointsaty,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/pointsatz,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/preservealpha,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
-web/svg/reference/attribute/preserveaspectratio,7cabe7010a0ccfcf587ddac1571963eba102090d,SVG|Attribute
+web/svg/reference/attribute/preserveaspectratio,04a0e78cf3119afe2a99e6449f6b74976654d69d,SVG|Attribute
 web/svg/reference/attribute/primitiveunits,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/r,7c90842660507d716c4e9deac52c1ed3bb465fb3,SVG|Attribute
+web/svg/reference/attribute/r,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/radius,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/referrerpolicy,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/refx,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
 web/svg/reference/attribute/refy,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
-web/svg/reference/attribute/rel,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
+web/svg/reference/attribute/rel,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/repeatcount,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
 web/svg/reference/attribute/repeatdur,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
 web/svg/reference/attribute/requiredextensions,1db55979ae2b6ed7abb484b74e70809d66fa7637,SVG|Attribute
@@ -14043,17 +14043,17 @@ web/svg/reference/attribute/requiredfeatures,8ae90c06d95ae6d0ccae0feb06ccab676fa
 web/svg/reference/attribute/restart,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
 web/svg/reference/attribute/result,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/rotate,78b4b9da712e8189c735f4c0ca4ef443dd626be6,SVG|Attribute
-web/svg/reference/attribute/rx,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
-web/svg/reference/attribute/ry,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
+web/svg/reference/attribute/rx,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/ry,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/scale,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/seed,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/shape-rendering,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/side,27bb49e1849433e05c964c8a645c448f184380ce,SVG|Attribute
-web/svg/reference/attribute/slope,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Attribute
+web/svg/reference/attribute/slope,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/spacing,73f93cb9449dc42059d2f8835338e8674b3d8bdd,SVG|Attribute
 web/svg/reference/attribute/specularconstant,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
-web/svg/reference/attribute/specularexponent,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
-web/svg/reference/attribute/spreadmethod,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
+web/svg/reference/attribute/specularexponent,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/spreadmethod,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/startoffset,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
 web/svg/reference/attribute/stddeviation,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
 web/svg/reference/attribute/stitchtiles,a9063bb88f28dc2a9b32e39f060ab6930663da52,SVG|Attribute
@@ -14063,12 +14063,12 @@ web/svg/reference/attribute/stroke,9944f7b12ef1a6aecd54d4b2f0c188a82fdeaaf0,SVG|
 web/svg/reference/attribute/stroke-dasharray,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,SVG|Attribute
 web/svg/reference/attribute/stroke-dashoffset,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
 web/svg/reference/attribute/stroke-linecap,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
-web/svg/reference/attribute/stroke-linejoin,d19dec85109590176f946fcceef48c787d578b1e,SVG|Attribute
-web/svg/reference/attribute/stroke-miterlimit,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
+web/svg/reference/attribute/stroke-linejoin,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/stroke-miterlimit,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/stroke-opacity,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
 web/svg/reference/attribute/stroke-width,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
 web/svg/reference/attribute/style,56f3d7018159127dbe92842413fb45d0aa7e8193,SVG|Attribute
-web/svg/reference/attribute/surfacescale,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
+web/svg/reference/attribute/surfacescale,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/systemlanguage,9ac8d4f4ed0eb2f329e605329afeb51754c7fa79,SVG|Attribute
 web/svg/reference/attribute/tabindex,8d0c8728f49f2a0577ca17910f2149d6dd36b37e,SVG|Attribute
 web/svg/reference/attribute/tablevalues,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
@@ -14079,38 +14079,38 @@ web/svg/reference/attribute/text-anchor,3c83d88f02f33f4066224e9f624a17dd2a0b0d19
 web/svg/reference/attribute/text-decoration,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
 web/svg/reference/attribute/text-overflow,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
 web/svg/reference/attribute/text-rendering,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/textlength,6036cd414b2214f85901158bdf3e3a96123d4553,SVG|Attribute
+web/svg/reference/attribute/textlength,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/title,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
-web/svg/reference/attribute/to,ab279632b84d201ae9ddd3db3981bf0b01573371,SVG|Attribute
+web/svg/reference/attribute/to,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/transform,a65cb1fa4293b1006ac02ce9a19507fd2ab960f7,SVG|Attribute
-web/svg/reference/attribute/transform-origin,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
-web/svg/reference/attribute/type,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
+web/svg/reference/attribute/transform-origin,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/type,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/unicode-bidi,72644896e30a618579b67b805e68855c20ec7d0f,SVG|Attribute
 web/svg/reference/attribute/values,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
-web/svg/reference/attribute/vector-effect,702cd9e4d2834e13aea345943efc8d0c03d92ec9,SVG|Attribute
+web/svg/reference/attribute/vector-effect,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/version,f99d00a1c3697e26a679925954e26564e7e79b98,SVG|Attribute
 web/svg/reference/attribute/viewbox,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
-web/svg/reference/attribute/visibility,27bb49e1849433e05c964c8a645c448f184380ce,SVG|Attribute
+web/svg/reference/attribute/visibility,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/white-space,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
 web/svg/reference/attribute/width,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
-web/svg/reference/attribute/word-spacing,2d78abb3e793352e24e976ce0e68c08d817bd7f3,SVG|Attribute
+web/svg/reference/attribute/word-spacing,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/writing-mode,3c83d88f02f33f4066224e9f624a17dd2a0b0d19,SVG|Attribute
 web/svg/reference/attribute/x,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
 web/svg/reference/attribute/x1,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/x2,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/xchannelselector,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
+web/svg/reference/attribute/xchannelselector,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/xlink_colon_actuate,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Attribute
 web/svg/reference/attribute/xlink_colon_arcrole,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
-web/svg/reference/attribute/xlink_colon_href,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
+web/svg/reference/attribute/xlink_colon_href,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/xlink_colon_show,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
 web/svg/reference/attribute/xlink_colon_title,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
 web/svg/reference/attribute/xlink_colon_type,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
-web/svg/reference/attribute/xml_colon_lang,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
-web/svg/reference/attribute/xml_colon_space,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
+web/svg/reference/attribute/xml_colon_lang,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
+web/svg/reference/attribute/xml_colon_space,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/y,d559e66723de93ce6c59eb5d22a29afca7265c2a,SVG|Attribute
 web/svg/reference/attribute/y1,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
 web/svg/reference/attribute/y2,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
-web/svg/reference/attribute/ychannelselector,c2fd97474834e061404b992c8397d4ccc4439a71,SVG|Attribute
+web/svg/reference/attribute/ychannelselector,09ba70170e8962533f9566c7c6b6b047ed0eb090,SVG|Attribute
 web/svg/reference/attribute/z,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attribute
 web/svg/reference/attribute/zoomandpan,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
 web/svg/reference/element,c1564acf160ef4b320fb7b89ab65211b9c50cf1b,SVG|Element
@@ -14262,7 +14262,9 @@ web/webdriver/reference/bidi/modules/input/releaseactions,ef8c3806c33f2b1d9d381f
 web/webdriver/reference/bidi/modules/input/setfiles,ef8c3806c33f2b1d9d381f4fe3b643b5af5e3d22,WebDriver
 web/webdriver/reference/bidi/modules/log,253bed3def8e1680475ea75987d24ca62ee9f989,WebDriver
 web/webdriver/reference/bidi/modules/log/entryadded,8a86bbb9816f718762fa855d78b92e5525c0d520,WebDriver
-web/webdriver/reference/bidi/modules/network,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
+web/webdriver/reference/bidi/modules/network,fd6a5b07ff0cee3eed0540c09e2f49145541dc76,WebDriver
+web/webdriver/reference/bidi/modules/network/setcachebehavior,fd6a5b07ff0cee3eed0540c09e2f49145541dc76,WebDriver
+web/webdriver/reference/bidi/modules/network/setextraheaders,fd6a5b07ff0cee3eed0540c09e2f49145541dc76,WebDriver
 web/webdriver/reference/bidi/modules/permissions,fbf733732bf531a1be40a0c646bcbc4b31618476,WebDriver
 web/webdriver/reference/bidi/modules/script,a4b7a640f04d4f6f1de19c1ee84888c967ece6cb,WebDriver
 web/webdriver/reference/bidi/modules/script/addpreloadscript,eb950353cc947fb1c00397334b13a5f9457d734a,WebDriver

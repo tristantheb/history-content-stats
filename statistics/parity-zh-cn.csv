@@ -18,7 +18,7 @@ games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas,1
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/editor,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_playcanvas/engine,null
 games/techniques/3d_on_the_web/building_up_a_basic_demo_with_three.js,3
-games/techniques/3d_on_the_web/glsl_shaders,0
+games/techniques/3d_on_the_web/glsl_shaders,1
 games/techniques/3d_on_the_web/webxr,null
 games/techniques/async_scripts,null
 games/techniques/audio_for_web_games,null
@@ -3225,7 +3225,7 @@ web/api/cssnumericvalue/to,null
 web/api/cssnumericvalue/tosum,null
 web/api/cssnumericvalue/type,null
 web/api/cssom_view_api,0
-web/api/cssom_view_api/coordinate_systems,2
+web/api/cssom_view_api/coordinate_systems,3
 web/api/csspagedescriptors,null
 web/api/csspagerule,3
 web/api/csspagerule/selectortext,null
@@ -3847,7 +3847,7 @@ web/api/element/ariadescription,0
 web/api/element/ariadetailselements,null
 web/api/element/ariadisabled,0
 web/api/element/ariaerrormessageelements,null
-web/api/element/ariaexpanded,null
+web/api/element/ariaexpanded,0
 web/api/element/ariaflowtoelements,null
 web/api/element/ariahaspopup,null
 web/api/element/ariahidden,0
@@ -8258,7 +8258,7 @@ web/api/svganimatedtransformlist/baseval,null
 web/api/svganimateelement,null
 web/api/svganimatemotionelement,null
 web/api/svganimatetransformelement,null
-web/api/svganimationelement,null
+web/api/svganimationelement,0
 web/api/svganimationelement/beginelement,null
 web/api/svganimationelement/beginelementat,null
 web/api/svganimationelement/beginevent_event,null
@@ -10409,7 +10409,7 @@ web/css/guides/backgrounds_and_borders/border-radius_generator,null
 web/css/guides/backgrounds_and_borders/box-shadow_generator,null
 web/css/guides/backgrounds_and_borders/resizing_background_images,null
 web/css/guides/backgrounds_and_borders/scaling_svg_backgrounds,null
-web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,null
+web/css/guides/backgrounds_and_borders/using_multiple_backgrounds,0
 web/css/guides/basic_user_interface,null
 web/css/guides/borders_and_box_decorations,null
 web/css/guides/borders_and_box_decorations/border_shape_nav_menu,null
@@ -10745,7 +10745,7 @@ web/css/reference/properties/-webkit-text-fill-color,null
 web/css/reference/properties/-webkit-text-security,null
 web/css/reference/properties/-webkit-text-stroke,null
 web/css/reference/properties/-webkit-text-stroke-color,null
-web/css/reference/properties/-webkit-text-stroke-width,3
+web/css/reference/properties/-webkit-text-stroke-width,4
 web/css/reference/properties/-webkit-touch-callout,3
 web/css/reference/properties/accent-color,7
 web/css/reference/properties/align-content,null
@@ -10959,7 +10959,7 @@ web/css/reference/properties/flex-wrap,null
 web/css/reference/properties/float,null
 web/css/reference/properties/flood-color,null
 web/css/reference/properties/flood-opacity,null
-web/css/reference/properties/font,9
+web/css/reference/properties/font,10
 web/css/reference/properties/font-family,6
 web/css/reference/properties/font-feature-settings,null
 web/css/reference/properties/font-kerning,null
@@ -10988,7 +10988,7 @@ web/css/reference/properties/font-variant-position,null
 web/css/reference/properties/font-variation-settings,6
 web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
-web/css/reference/properties/forced-color-adjust,5
+web/css/reference/properties/forced-color-adjust,6
 web/css/reference/properties/frame-sizing,null
 web/css/reference/properties/gap,12
 web/css/reference/properties/grid,null
@@ -11150,7 +11150,7 @@ web/css/reference/properties/position-try,null
 web/css/reference/properties/position-try-fallbacks,null
 web/css/reference/properties/position-try-order,null
 web/css/reference/properties/position-visibility,null
-web/css/reference/properties/print-color-adjust,6
+web/css/reference/properties/print-color-adjust,7
 web/css/reference/properties/quotes,null
 web/css/reference/properties/r,null
 web/css/reference/properties/reading-flow,null
@@ -11218,7 +11218,7 @@ web/css/reference/properties/scroll-target-group,null
 web/css/reference/properties/scroll-timeline,null
 web/css/reference/properties/scroll-timeline-axis,null
 web/css/reference/properties/scroll-timeline-name,null
-web/css/reference/properties/scrollbar-color,6
+web/css/reference/properties/scrollbar-color,7
 web/css/reference/properties/scrollbar-gutter,null
 web/css/reference/properties/scrollbar-width,null
 web/css/reference/properties/shape-image-threshold,null
@@ -11254,8 +11254,8 @@ web/css/reference/properties/text-decoration-skip,null
 web/css/reference/properties/text-decoration-skip-ink,null
 web/css/reference/properties/text-decoration-style,null
 web/css/reference/properties/text-decoration-thickness,2
-web/css/reference/properties/text-emphasis,8
-web/css/reference/properties/text-emphasis-color,3
+web/css/reference/properties/text-emphasis,9
+web/css/reference/properties/text-emphasis-color,4
 web/css/reference/properties/text-emphasis-position,5
 web/css/reference/properties/text-emphasis-style,3
 web/css/reference/properties/text-fit,null
@@ -11480,7 +11480,7 @@ web/css/reference/selectors/combinators,0
 web/css/reference/selectors/descendant_combinator,null
 web/css/reference/selectors/id_selectors,null
 web/css/reference/selectors/keyframe_selectors,null
-web/css/reference/selectors/namespace_separator,0
+web/css/reference/selectors/namespace_separator,1
 web/css/reference/selectors/nesting_selector,6
 web/css/reference/selectors/next-sibling_combinator,null
 web/css/reference/selectors/pseudo-classes,5
@@ -11510,7 +11510,7 @@ web/css/reference/values/basic-shape,11
 web/css/reference/values/basic-shape/circle,8
 web/css/reference/values/basic-shape/ellipse,8
 web/css/reference/values/basic-shape/inset,5
-web/css/reference/values/basic-shape/path,10
+web/css/reference/values/basic-shape/path,11
 web/css/reference/values/basic-shape/polygon,8
 web/css/reference/values/basic-shape/rect,9
 web/css/reference/values/basic-shape/shape,9
@@ -11735,7 +11735,7 @@ web/html/reference/attributes/rel/preload,0
 web/html/reference/attributes/rel/prerender,4
 web/html/reference/attributes/required,5
 web/html/reference/attributes/size,3
-web/html/reference/attributes/step,4
+web/html/reference/attributes/step,5
 web/html/reference/elements,3
 web/html/reference/elements/a,5
 web/html/reference/elements/abbr,0
@@ -11749,7 +11749,7 @@ web/html/reference/elements/b,3
 web/html/reference/elements/base,null
 web/html/reference/elements/bdi,null
 web/html/reference/elements/bdo,5
-web/html/reference/elements/big,5
+web/html/reference/elements/big,6
 web/html/reference/elements/blockquote,null
 web/html/reference/elements/body,8
 web/html/reference/elements/br,5
@@ -11785,7 +11785,7 @@ web/html/reference/elements/frame,null
 web/html/reference/elements/frameset,null
 web/html/reference/elements/geolocation,null
 web/html/reference/elements/head,6
-web/html/reference/elements/header,8
+web/html/reference/elements/header,9
 web/html/reference/elements/heading_elements,null
 web/html/reference/elements/hgroup,null
 web/html/reference/elements/hr,null
@@ -11842,7 +11842,7 @@ web/html/reference/elements/nav,null
 web/html/reference/elements/nobr,null
 web/html/reference/elements/noembed,null
 web/html/reference/elements/noframes,null
-web/html/reference/elements/noscript,5
+web/html/reference/elements/noscript,6
 web/html/reference/elements/object,null
 web/html/reference/elements/ol,null
 web/html/reference/elements/optgroup,null
@@ -11892,10 +11892,10 @@ web/html/reference/elements/time,5
 web/html/reference/elements/title,0
 web/html/reference/elements/tr,10
 web/html/reference/elements/track,8
-web/html/reference/elements/tt,5
+web/html/reference/elements/tt,7
 web/html/reference/elements/u,4
 web/html/reference/elements/ul,7
-web/html/reference/elements/var,4
+web/html/reference/elements/var,5
 web/html/reference/elements/video,10
 web/html/reference/elements/wbr,1
 web/html/reference/elements/xmp,1
@@ -11913,7 +11913,7 @@ web/html/reference/global_attributes/data-_star_,13
 web/html/reference/global_attributes/dir,2
 web/html/reference/global_attributes/draggable,null
 web/html/reference/global_attributes/enterkeyhint,5
-web/html/reference/global_attributes/exportparts,3
+web/html/reference/global_attributes/exportparts,4
 web/html/reference/global_attributes/headingoffset,null
 web/html/reference/global_attributes/headingreset,null
 web/html/reference/global_attributes/hidden,null
@@ -11929,7 +11929,7 @@ web/html/reference/global_attributes/itemtype,null
 web/html/reference/global_attributes/lang,null
 web/html/reference/global_attributes/nonce,6
 web/html/reference/global_attributes/part,0
-web/html/reference/global_attributes/popover,13
+web/html/reference/global_attributes/popover,14
 web/html/reference/global_attributes/slot,null
 web/html/reference/global_attributes/spellcheck,5
 web/html/reference/global_attributes/style,5
@@ -13653,7 +13653,7 @@ web/javascript/reference/statements/return,4
 web/javascript/reference/statements/switch,4
 web/javascript/reference/statements/throw,3
 web/javascript/reference/statements/try...catch,0
-web/javascript/reference/statements/using,0
+web/javascript/reference/statements/using,1
 web/javascript/reference/statements/var,10
 web/javascript/reference/statements/while,5
 web/javascript/reference/statements/with,null
@@ -13905,7 +13905,7 @@ web/svg/reference,0
 web/svg/reference/attribute,18
 web/svg/reference/attribute/accumulate,0
 web/svg/reference/attribute/additive,1
-web/svg/reference/attribute/alignment-baseline,5
+web/svg/reference/attribute/alignment-baseline,6
 web/svg/reference/attribute/amplitude,3
 web/svg/reference/attribute/attributename,1
 web/svg/reference/attribute/attributetype,0
@@ -13930,7 +13930,7 @@ web/svg/reference/attribute/crossorigin,null
 web/svg/reference/attribute/cursor,null
 web/svg/reference/attribute/cx,null
 web/svg/reference/attribute/cy,null
-web/svg/reference/attribute/d,7
+web/svg/reference/attribute/d,8
 web/svg/reference/attribute/data-_star_,null
 web/svg/reference/attribute/decoding,null
 web/svg/reference/attribute/diffuseconstant,null
@@ -14110,7 +14110,7 @@ web/svg/reference/attribute/xml_colon_space,null
 web/svg/reference/attribute/y,null
 web/svg/reference/attribute/y1,null
 web/svg/reference/attribute/y2,0
-web/svg/reference/attribute/ychannelselector,0
+web/svg/reference/attribute/ychannelselector,1
 web/svg/reference/attribute/z,0
 web/svg/reference/attribute/zoomandpan,1
 web/svg/reference/element,2
@@ -14263,6 +14263,8 @@ web/webdriver/reference/bidi/modules/input/setfiles,null
 web/webdriver/reference/bidi/modules/log,null
 web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
+web/webdriver/reference/bidi/modules/network/setcachebehavior,null
+web/webdriver/reference/bidi/modules/network/setextraheaders,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null
 web/webdriver/reference/bidi/modules/script/addpreloadscript,null
