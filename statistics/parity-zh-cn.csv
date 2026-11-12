@@ -6913,7 +6913,7 @@ web/api/permissionstatus,0
 web/api/permissionstatus/change_event,2
 web/api/permissionstatus/name,0
 web/api/permissionstatus/state,0
-web/api/picture-in-picture_api,8
+web/api/picture-in-picture_api,9
 web/api/pictureinpictureevent,1
 web/api/pictureinpictureevent/pictureinpictureevent,0
 web/api/pictureinpictureevent/pictureinpicturewindow,0
@@ -7844,7 +7844,7 @@ web/api/serialport/open,null
 web/api/serialport/readable,null
 web/api/serialport/setsignals,null
 web/api/serialport/writable,null
-web/api/server-sent_events,8
+web/api/server-sent_events,9
 web/api/server-sent_events/using_server-sent_events,2
 web/api/service_worker_api,null
 web/api/service_worker_api/using_service_workers,null
@@ -9118,7 +9118,7 @@ web/api/usbisochronousintransferresult,null
 web/api/usbisochronousouttransferpacket,null
 web/api/usbisochronousouttransferresult,null
 web/api/usbouttransferresult,null
-web/api/user-agent_client_hints_api,1
+web/api/user-agent_client_hints_api,2
 web/api/user_preferences_api,null
 web/api/useractivation,1
 web/api/useractivation/hasbeenactive,1
@@ -9371,7 +9371,7 @@ web/api/web_authentication_api/attestation_and_assertion,null
 web/api/web_authentication_api/authenticator_data,null
 web/api/web_authentication_api/webauthn_extensions,null
 web/api/web_bluetooth_api,3
-web/api/web_components,2
+web/api/web_components,3
 web/api/web_components/using_custom_elements,null
 web/api/web_components/using_shadow_dom,10
 web/api/web_components/using_templates_and_slots,13
@@ -9470,7 +9470,7 @@ web/api/webgl2renderingcontext/vertexattribdivisor,null
 web/api/webgl2renderingcontext/vertexattribi,null
 web/api/webgl2renderingcontext/vertexattribipointer,null
 web/api/webgl2renderingcontext/waitsync,null
-web/api/webgl_api,8
+web/api/webgl_api,9
 web/api/webgl_api/basic_2d_animation_example,null
 web/api/webgl_api/by_example,null
 web/api/webgl_api/by_example/basic_scissoring,null
@@ -9707,7 +9707,7 @@ web/api/websocket/readystate,0
 web/api/websocket/send,null
 web/api/websocket/url,0
 web/api/websocket/websocket,null
-web/api/websockets_api,15
+web/api/websockets_api,16
 web/api/websockets_api/using_websocketstream,null
 web/api/websockets_api/writing_a_websocket_server_in_java,1
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,2

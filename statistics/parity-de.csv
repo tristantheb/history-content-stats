@@ -9029,7 +9029,7 @@ web/api/url/search,0
 web/api/url/searchparams,0
 web/api/url/tojson,0
 web/api/url/tostring,0
-web/api/url/url,0
+web/api/url/url,1
 web/api/url/username,0
 web/api/url_api,0
 web/api/url_api/resolving_relative_references,0
@@ -9729,7 +9729,7 @@ web/api/webtransport/createsendgroup,0
 web/api/webtransport/createunidirectionalstream,0
 web/api/webtransport/datagrams,0
 web/api/webtransport/draining,0
-web/api/webtransport/exportkeyingmaterial,0
+web/api/webtransport/exportkeyingmaterial,1
 web/api/webtransport/getstats,0
 web/api/webtransport/incomingbidirectionalstreams,0
 web/api/webtransport/incomingunidirectionalstreams,0
@@ -14262,9 +14262,9 @@ web/webdriver/reference/bidi/modules/input/releaseactions,0
 web/webdriver/reference/bidi/modules/input/setfiles,0
 web/webdriver/reference/bidi/modules/log,0
 web/webdriver/reference/bidi/modules/log/entryadded,0
-web/webdriver/reference/bidi/modules/network,1
-web/webdriver/reference/bidi/modules/network/setcachebehavior,null
-web/webdriver/reference/bidi/modules/network/setextraheaders,null
+web/webdriver/reference/bidi/modules/network,0
+web/webdriver/reference/bidi/modules/network/setcachebehavior,0
+web/webdriver/reference/bidi/modules/network/setextraheaders,0
 web/webdriver/reference/bidi/modules/permissions,0
 web/webdriver/reference/bidi/modules/script,0
 web/webdriver/reference/bidi/modules/script/addpreloadscript,0
