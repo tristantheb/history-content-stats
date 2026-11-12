@@ -1085,7 +1085,7 @@ mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,3
 mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,0
-mdn/writing_guidelines/page_structures/page_types/css_property_page_template,0
+mdn/writing_guidelines/page_structures/page_types/css_property_page_template,1
 mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,0
 mdn/writing_guidelines/page_structures/page_types/glossary_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,0
@@ -1844,7 +1844,7 @@ mozilla/add-ons/webextensions/manifest.json/omnibox,null
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,null
 mozilla/add-ons/webextensions/manifest.json/optional_permissions,null
 mozilla/add-ons/webextensions/manifest.json/options_page,null
-mozilla/add-ons/webextensions/manifest.json/options_ui,12
+mozilla/add-ons/webextensions/manifest.json/options_ui,0
 mozilla/add-ons/webextensions/manifest.json/page_action,null
 mozilla/add-ons/webextensions/manifest.json/permissions,null
 mozilla/add-ons/webextensions/manifest.json/protocol_handlers,null
@@ -4753,7 +4753,7 @@ web/api/hmdvrdevice,null
 web/api/hmdvrdevice/geteyeparameters,null
 web/api/hmdvrdevice/setfieldofview,null
 web/api/houdini_apis,6
-web/api/html_dom_api,13
+web/api/html_dom_api,14
 web/api/html_dom_api/microtask_guide,0
 web/api/html_dom_api/microtask_guide/in_depth,0
 web/api/html_drag_and_drop_api,2
@@ -6833,7 +6833,7 @@ web/api/performanceresourcetiming/initiatortype,6
 web/api/performanceresourcetiming/nexthopprotocol,4
 web/api/performanceresourcetiming/redirectend,3
 web/api/performanceresourcetiming/redirectstart,3
-web/api/performanceresourcetiming/renderblockingstatus,5
+web/api/performanceresourcetiming/renderblockingstatus,6
 web/api/performanceresourcetiming/requeststart,0
 web/api/performanceresourcetiming/responseend,4
 web/api/performanceresourcetiming/responsestart,4
@@ -6913,7 +6913,7 @@ web/api/permissionstatus,0
 web/api/permissionstatus/change_event,2
 web/api/permissionstatus/name,0
 web/api/permissionstatus/state,0
-web/api/picture-in-picture_api,12
+web/api/picture-in-picture_api,13
 web/api/pictureinpictureevent,2
 web/api/pictureinpictureevent/pictureinpictureevent,1
 web/api/pictureinpictureevent/pictureinpicturewindow,null
@@ -6945,7 +6945,7 @@ web/api/pointerevent/tiltx,4
 web/api/pointerevent/tilty,4
 web/api/pointerevent/twist,1
 web/api/pointerevent/width,1
-web/api/popover_api,0
+web/api/popover_api,1
 web/api/popover_api/using,4
 web/api/popover_api/using_interest_invokers,0
 web/api/popstateevent,2
@@ -7746,7 +7746,7 @@ web/api/screen_capture_api/captured_surface_control,null
 web/api/screen_capture_api/element_region_capture,null
 web/api/screen_capture_api/using_screen_capture,9
 web/api/screen_orientation_api,0
-web/api/screen_wake_lock_api,3
+web/api/screen_wake_lock_api,4
 web/api/screendetailed,null
 web/api/screendetailed/availleft,null
 web/api/screendetailed/availtop,null
@@ -7844,7 +7844,7 @@ web/api/serialport/open,3
 web/api/serialport/readable,6
 web/api/serialport/setsignals,7
 web/api/serialport/writable,6
-web/api/server-sent_events,6
+web/api/server-sent_events,7
 web/api/server-sent_events/using_server-sent_events,6
 web/api/service_worker_api,10
 web/api/service_worker_api/using_service_workers,12
@@ -9029,7 +9029,7 @@ web/api/url/search,3
 web/api/url/searchparams,5
 web/api/url/tojson,3
 web/api/url/tostring,3
-web/api/url/url,5
+web/api/url/url,6
 web/api/url/username,1
 web/api/url_api,5
 web/api/url_api/resolving_relative_references,0
@@ -9118,7 +9118,7 @@ web/api/usbisochronousintransferresult,1
 web/api/usbisochronousouttransferpacket,2
 web/api/usbisochronousouttransferresult,1
 web/api/usbouttransferresult,2
-web/api/user-agent_client_hints_api,8
+web/api/user-agent_client_hints_api,9
 web/api/user_preferences_api,null
 web/api/useractivation,5
 web/api/useractivation/hasbeenactive,6
@@ -9215,7 +9215,7 @@ web/api/view_transition_api/using_element-scoped,null
 web/api/view_transition_api/using_types,2
 web/api/viewport,0
 web/api/viewport/segments,0
-web/api/viewport_segments_api,0
+web/api/viewport_segments_api,1
 web/api/viewport_segments_api/using,1
 web/api/viewtimeline,7
 web/api/viewtimeline/endoffset,2
@@ -9355,7 +9355,7 @@ web/api/web_animations_api/keyframe_formats,0
 web/api/web_animations_api/tips,1
 web/api/web_animations_api/using_the_web_animations_api,0
 web/api/web_animations_api/web_animations_api_concepts,1
-web/api/web_audio_api,1
+web/api/web_audio_api,2
 web/api/web_audio_api/advanced_techniques,8
 web/api/web_audio_api/basic_concepts_behind_web_audio_api,3
 web/api/web_audio_api/best_practices,null
@@ -9371,7 +9371,7 @@ web/api/web_authentication_api/attestation_and_assertion,0
 web/api/web_authentication_api/authenticator_data,2
 web/api/web_authentication_api/webauthn_extensions,1
 web/api/web_bluetooth_api,4
-web/api/web_components,3
+web/api/web_components,4
 web/api/web_components/using_custom_elements,7
 web/api/web_components/using_shadow_dom,4
 web/api/web_components/using_templates_and_slots,4
@@ -9470,7 +9470,7 @@ web/api/webgl2renderingcontext/vertexattribdivisor,null
 web/api/webgl2renderingcontext/vertexattribi,null
 web/api/webgl2renderingcontext/vertexattribipointer,null
 web/api/webgl2renderingcontext/waitsync,null
-web/api/webgl_api,2
+web/api/webgl_api,3
 web/api/webgl_api/basic_2d_animation_example,8
 web/api/webgl_api/by_example,null
 web/api/webgl_api/by_example/basic_scissoring,null
@@ -9707,7 +9707,7 @@ web/api/websocket/readystate,3
 web/api/websocket/send,3
 web/api/websocket/url,2
 web/api/websocket/websocket,9
-web/api/websockets_api,5
+web/api/websockets_api,6
 web/api/websockets_api/using_websocketstream,1
 web/api/websockets_api/writing_a_websocket_server_in_java,0
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,2
@@ -11521,7 +11521,7 @@ web/css/reference/values/calc,0
 web/css/reference/values/calc-keyword,2
 web/css/reference/values/calc-size,0
 web/css/reference/values/calc-sum,2
-web/css/reference/values/clamp,3
+web/css/reference/values/clamp,4
 web/css/reference/values/color-interpolation-method,1
 web/css/reference/values/color_value,0
 web/css/reference/values/color_value/alpha,2
@@ -11530,8 +11530,8 @@ web/css/reference/values/color_value/color-mix,4
 web/css/reference/values/color_value/contrast-color,0
 web/css/reference/values/color_value/device-cmyk,0
 web/css/reference/values/color_value/hsl,1
-web/css/reference/values/color_value/hwb,1
-web/css/reference/values/color_value/lab,1
+web/css/reference/values/color_value/hwb,2
+web/css/reference/values/color_value/lab,2
 web/css/reference/values/color_value/lch,1
 web/css/reference/values/color_value/light-dark,1
 web/css/reference/values/color_value/oklab,2
@@ -11543,7 +11543,7 @@ web/css/reference/values/corner-shape-value,1
 web/css/reference/values/cos,0
 web/css/reference/values/counter,2
 web/css/reference/values/counters,0
-web/css/reference/values/cross-fade,0
+web/css/reference/values/cross-fade,1
 web/css/reference/values/custom-ident,1
 web/css/reference/values/dashed-function,1
 web/css/reference/values/dashed-ident,3
@@ -11623,7 +11623,7 @@ web/css/reference/values/position-area_value,1
 web/css/reference/values/position_value,1
 web/css/reference/values/pow,0
 web/css/reference/values/progress,5
-web/css/reference/values/random,1
+web/css/reference/values/random,2
 web/css/reference/values/ratio,1
 web/css/reference/values/ray,1
 web/css/reference/values/relative-size,1

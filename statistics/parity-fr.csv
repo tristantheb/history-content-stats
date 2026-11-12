@@ -1085,7 +1085,7 @@ mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,0
 mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,0
-mdn/writing_guidelines/page_structures/page_types/css_property_page_template,0
+mdn/writing_guidelines/page_structures/page_types/css_property_page_template,1
 mdn/writing_guidelines/page_structures/page_types/css_selector_page_template,0
 mdn/writing_guidelines/page_structures/page_types/glossary_page_template,0
 mdn/writing_guidelines/page_structures/page_types/html_attribute_page_template,0
@@ -4753,7 +4753,7 @@ web/api/hmdvrdevice,null
 web/api/hmdvrdevice/geteyeparameters,null
 web/api/hmdvrdevice/setfieldofview,null
 web/api/houdini_apis,null
-web/api/html_dom_api,2
+web/api/html_dom_api,3
 web/api/html_dom_api/microtask_guide,0
 web/api/html_dom_api/microtask_guide/in_depth,0
 web/api/html_drag_and_drop_api,0
@@ -6945,7 +6945,7 @@ web/api/pointerevent/tiltx,null
 web/api/pointerevent/tilty,null
 web/api/pointerevent/twist,null
 web/api/pointerevent/width,null
-web/api/popover_api,0
+web/api/popover_api,1
 web/api/popover_api/using,1
 web/api/popover_api/using_interest_invokers,0
 web/api/popstateevent,0
@@ -9470,7 +9470,7 @@ web/api/webgl2renderingcontext/vertexattribdivisor,null
 web/api/webgl2renderingcontext/vertexattribi,null
 web/api/webgl2renderingcontext/vertexattribipointer,null
 web/api/webgl2renderingcontext/waitsync,null
-web/api/webgl_api,15
+web/api/webgl_api,16
 web/api/webgl_api/basic_2d_animation_example,null
 web/api/webgl_api/by_example,null
 web/api/webgl_api/by_example/basic_scissoring,null
@@ -9707,7 +9707,7 @@ web/api/websocket/readystate,0
 web/api/websocket/send,0
 web/api/websocket/url,0
 web/api/websocket/websocket,0
-web/api/websockets_api,2
+web/api/websockets_api,3
 web/api/websockets_api/using_websocketstream,null
 web/api/websockets_api/writing_a_websocket_server_in_java,null
 web/api/websockets_api/writing_a_websocket_server_in_javascript_deno,null
@@ -11521,7 +11521,7 @@ web/css/reference/values/calc,0
 web/css/reference/values/calc-keyword,1
 web/css/reference/values/calc-size,0
 web/css/reference/values/calc-sum,1
-web/css/reference/values/clamp,0
+web/css/reference/values/clamp,1
 web/css/reference/values/color-interpolation-method,1
 web/css/reference/values/color_value,0
 web/css/reference/values/color_value/alpha,0
@@ -11530,8 +11530,8 @@ web/css/reference/values/color_value/color-mix,1
 web/css/reference/values/color_value/contrast-color,0
 web/css/reference/values/color_value/device-cmyk,0
 web/css/reference/values/color_value/hsl,0
-web/css/reference/values/color_value/hwb,0
-web/css/reference/values/color_value/lab,0
+web/css/reference/values/color_value/hwb,1
+web/css/reference/values/color_value/lab,1
 web/css/reference/values/color_value/lch,0
 web/css/reference/values/color_value/light-dark,1
 web/css/reference/values/color_value/oklab,1
@@ -11543,7 +11543,7 @@ web/css/reference/values/corner-shape-value,0
 web/css/reference/values/cos,0
 web/css/reference/values/counter,0
 web/css/reference/values/counters,0
-web/css/reference/values/cross-fade,0
+web/css/reference/values/cross-fade,1
 web/css/reference/values/custom-ident,0
 web/css/reference/values/dashed-function,0
 web/css/reference/values/dashed-ident,0
@@ -11623,7 +11623,7 @@ web/css/reference/values/position-area_value,0
 web/css/reference/values/position_value,0
 web/css/reference/values/pow,0
 web/css/reference/values/progress,1
-web/css/reference/values/random,4
+web/css/reference/values/random,5
 web/css/reference/values/ratio,0
 web/css/reference/values/ray,1
 web/css/reference/values/relative-size,0
