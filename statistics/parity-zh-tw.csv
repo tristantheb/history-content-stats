@@ -11375,7 +11375,7 @@ web/css/reference/selectors/_colon_interest-source,null
 web/css/reference/selectors/_colon_interest-target,null
 web/css/reference/selectors/_colon_invalid,null
 web/css/reference/selectors/_colon_is,null
-web/css/reference/selectors/_colon_lang,3
+web/css/reference/selectors/_colon_lang,4
 web/css/reference/selectors/_colon_last-child,null
 web/css/reference/selectors/_colon_last-of-type,null
 web/css/reference/selectors/_colon_left,null
@@ -11477,7 +11477,7 @@ web/css/reference/selectors/child_combinator,null
 web/css/reference/selectors/class_selectors,null
 web/css/reference/selectors/column_combinator,null
 web/css/reference/selectors/combinators,null
-web/css/reference/selectors/descendant_combinator,1
+web/css/reference/selectors/descendant_combinator,2
 web/css/reference/selectors/id_selectors,null
 web/css/reference/selectors/keyframe_selectors,null
 web/css/reference/selectors/namespace_separator,null
@@ -14263,6 +14263,8 @@ web/webdriver/reference/bidi/modules/input/setfiles,null
 web/webdriver/reference/bidi/modules/log,null
 web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
+web/webdriver/reference/bidi/modules/network/setcachebehavior,null
+web/webdriver/reference/bidi/modules/network/setextraheaders,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null
 web/webdriver/reference/bidi/modules/script/addpreloadscript,null

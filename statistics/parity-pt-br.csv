@@ -14263,6 +14263,8 @@ web/webdriver/reference/bidi/modules/input/setfiles,null
 web/webdriver/reference/bidi/modules/log,null
 web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
+web/webdriver/reference/bidi/modules/network/setcachebehavior,null
+web/webdriver/reference/bidi/modules/network/setextraheaders,null
 web/webdriver/reference/bidi/modules/permissions,null
 web/webdriver/reference/bidi/modules/script,null
 web/webdriver/reference/bidi/modules/script/addpreloadscript,null
