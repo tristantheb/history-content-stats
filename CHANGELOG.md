@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.4](https://github.com/tristantheb/history-content-stats/compare/v1.1.3...v1.1.4) (2026-11-12)
+
+
+### CI/CD changes
+
+* **dependabot:** set update interval to monday 8a.m ce(s)t ([fecda7d](https://github.com/tristantheb/history-content-stats/commit/fecda7de1f01f24b1aa4fef8e657742bf357f331))
+* **python:** bump python from 3.13.9 to 3.14.10 ([41f08be](https://github.com/tristantheb/history-content-stats/commit/41f08be658887a3e081b230d716c4961cd04a295))
+
 ## [1.1.3](https://github.com/tristantheb/history-content-stats/compare/v1.1.2...v1.1.3) (2026-09-03)
 
 
