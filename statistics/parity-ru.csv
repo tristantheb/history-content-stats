@@ -3485,7 +3485,7 @@ web/api/document/alinkcolor,null
 web/api/document/all,null
 web/api/document/anchors,null
 web/api/document/append,null
-web/api/document/applets,2
+web/api/document/applets,3
 web/api/document/arianotify,null
 web/api/document/beforescriptexecute_event,null
 web/api/document/bgcolor,null
@@ -3518,7 +3518,7 @@ web/api/document/createtextnode,null
 web/api/document/createtouch,null
 web/api/document/createtouchlist,null
 web/api/document/createtreewalker,null
-web/api/document/currentscript,0
+web/api/document/currentscript,1
 web/api/document/customelementregistry,null
 web/api/document/defaultview,1
 web/api/document/designmode,2
@@ -4141,7 +4141,7 @@ web/api/event/istrusted,null
 web/api/event/originaltarget,null
 web/api/event/preventdefault,null
 web/api/event/returnvalue,null
-web/api/event/srcelement,1
+web/api/event/srcelement,2
 web/api/event/stopimmediatepropagation,null
 web/api/event/stoppropagation,null
 web/api/event/target,1
@@ -4978,7 +4978,7 @@ web/api/htmlformelement/acceptcharset,null
 web/api/htmlformelement/action,null
 web/api/htmlformelement/autocomplete,null
 web/api/htmlformelement/checkvalidity,null
-web/api/htmlformelement/elements,7
+web/api/htmlformelement/elements,8
 web/api/htmlformelement/encoding,null
 web/api/htmlformelement/enctype,null
 web/api/htmlformelement/formdata_event,null
@@ -6303,8 +6303,8 @@ web/api/navigationtransition/navigationtype,null
 web/api/navigationtransition/to,null
 web/api/navigator,null
 web/api/navigator/activevrdisplays,null
-web/api/navigator/appcodename,3
-web/api/navigator/appname,3
+web/api/navigator/appcodename,4
+web/api/navigator/appname,4
 web/api/navigator/appversion,4
 web/api/navigator/audiosession,null
 web/api/navigator/bluetooth,null
@@ -6319,7 +6319,7 @@ web/api/navigator/credentials,null
 web/api/navigator/deprecatedreplaceinurn,null
 web/api/navigator/devicememory,null
 web/api/navigator/deviceposture,null
-web/api/navigator/donottrack,4
+web/api/navigator/donottrack,5
 web/api/navigator/geolocation,null
 web/api/navigator/getautoplaypolicy,null
 web/api/navigator/getbattery,3
@@ -6351,7 +6351,7 @@ web/api/navigator/platform,0
 web/api/navigator/plugins,null
 web/api/navigator/preferences,null
 web/api/navigator/presentation,null
-web/api/navigator/product,3
+web/api/navigator/product,4
 web/api/navigator/productsub,null
 web/api/navigator/registerprotocolhandler,null
 web/api/navigator/requestmediakeysystemaccess,null
@@ -9721,6 +9721,8 @@ web/api/websocketstream/opened,null
 web/api/websocketstream/url,null
 web/api/websocketstream/websocketstream,null
 web/api/webtransport,null
+web/api/webtransport/anticipatedconcurrentincomingbidirectionalstreams,null
+web/api/webtransport/anticipatedconcurrentincomingunidirectionalstreams,null
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
@@ -9736,6 +9738,7 @@ web/api/webtransport/incomingunidirectionalstreams,null
 web/api/webtransport/protocol,null
 web/api/webtransport/ready,null
 web/api/webtransport/reliability,null
+web/api/webtransport/responseheaders,null
 web/api/webtransport/supportsreliableonly_static,null
 web/api/webtransport/webtransport,null
 web/api/webtransport_api,null
@@ -9746,9 +9749,11 @@ web/api/webtransportdatagramduplexstream,null
 web/api/webtransportdatagramduplexstream/createwritable,null
 web/api/webtransportdatagramduplexstream/incominghighwatermark,null
 web/api/webtransportdatagramduplexstream/incomingmaxage,null
+web/api/webtransportdatagramduplexstream/incomingmaxbuffereddatagrams,null
 web/api/webtransportdatagramduplexstream/maxdatagramsize,null
 web/api/webtransportdatagramduplexstream/outgoinghighwatermark,null
 web/api/webtransportdatagramduplexstream/outgoingmaxage,null
+web/api/webtransportdatagramduplexstream/outgoingmaxbuffereddatagrams,null
 web/api/webtransportdatagramduplexstream/readable,null
 web/api/webtransportdatagramduplexstream/writable,null
 web/api/webtransportdatagramswritable,null
@@ -9858,7 +9863,7 @@ web/api/window/innerwidth,null
 web/api/window/issecurecontext,null
 web/api/window/languagechange_event,null
 web/api/window/launchqueue,null
-web/api/window/length,2
+web/api/window/length,3
 web/api/window/load_event,null
 web/api/window/localstorage,null
 web/api/window/location,null

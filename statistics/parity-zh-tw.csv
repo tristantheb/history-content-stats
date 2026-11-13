@@ -3592,7 +3592,7 @@ web/api/document/querycommandstate,null
 web/api/document/querycommandsupported,null
 web/api/document/queryselector,6
 web/api/document/queryselectorall,null
-web/api/document/readystate,2
+web/api/document/readystate,3
 web/api/document/readystatechange_event,null
 web/api/document/referrer,null
 web/api/document/releasecapture,null
@@ -5210,7 +5210,7 @@ web/api/htmlmediaelement/preload,null
 web/api/htmlmediaelement/preservespitch,null
 web/api/htmlmediaelement/progress_event,null
 web/api/htmlmediaelement/ratechange_event,1
-web/api/htmlmediaelement/readystate,0
+web/api/htmlmediaelement/readystate,1
 web/api/htmlmediaelement/remote,null
 web/api/htmlmediaelement/seekable,null
 web/api/htmlmediaelement/seeked_event,null
@@ -9721,6 +9721,8 @@ web/api/websocketstream/opened,null
 web/api/websocketstream/url,null
 web/api/websocketstream/websocketstream,null
 web/api/webtransport,null
+web/api/webtransport/anticipatedconcurrentincomingbidirectionalstreams,null
+web/api/webtransport/anticipatedconcurrentincomingunidirectionalstreams,null
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
@@ -9736,6 +9738,7 @@ web/api/webtransport/incomingunidirectionalstreams,null
 web/api/webtransport/protocol,null
 web/api/webtransport/ready,null
 web/api/webtransport/reliability,null
+web/api/webtransport/responseheaders,null
 web/api/webtransport/supportsreliableonly_static,null
 web/api/webtransport/webtransport,null
 web/api/webtransport_api,null
@@ -9746,9 +9749,11 @@ web/api/webtransportdatagramduplexstream,null
 web/api/webtransportdatagramduplexstream/createwritable,null
 web/api/webtransportdatagramduplexstream/incominghighwatermark,null
 web/api/webtransportdatagramduplexstream/incomingmaxage,null
+web/api/webtransportdatagramduplexstream/incomingmaxbuffereddatagrams,null
 web/api/webtransportdatagramduplexstream/maxdatagramsize,null
 web/api/webtransportdatagramduplexstream/outgoinghighwatermark,null
 web/api/webtransportdatagramduplexstream/outgoingmaxage,null
+web/api/webtransportdatagramduplexstream/outgoingmaxbuffereddatagrams,null
 web/api/webtransportdatagramduplexstream/readable,null
 web/api/webtransportdatagramduplexstream/writable,null
 web/api/webtransportdatagramswritable,null
@@ -12242,7 +12247,7 @@ web/http/reference/headers/x-powered-by,null
 web/http/reference/headers/x-robots-tag,3
 web/http/reference/headers/x-xss-protection,null
 web/http/reference/methods,1
-web/http/reference/methods/connect,5
+web/http/reference/methods/connect,6
 web/http/reference/methods/delete,4
 web/http/reference/methods/get,3
 web/http/reference/methods/head,3

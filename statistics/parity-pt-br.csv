@@ -9721,6 +9721,8 @@ web/api/websocketstream/opened,null
 web/api/websocketstream/url,null
 web/api/websocketstream/websocketstream,null
 web/api/webtransport,null
+web/api/webtransport/anticipatedconcurrentincomingbidirectionalstreams,null
+web/api/webtransport/anticipatedconcurrentincomingunidirectionalstreams,null
 web/api/webtransport/close,null
 web/api/webtransport/closed,null
 web/api/webtransport/congestioncontrol,null
@@ -9736,6 +9738,7 @@ web/api/webtransport/incomingunidirectionalstreams,null
 web/api/webtransport/protocol,null
 web/api/webtransport/ready,null
 web/api/webtransport/reliability,null
+web/api/webtransport/responseheaders,null
 web/api/webtransport/supportsreliableonly_static,null
 web/api/webtransport/webtransport,null
 web/api/webtransport_api,null
@@ -9746,9 +9749,11 @@ web/api/webtransportdatagramduplexstream,null
 web/api/webtransportdatagramduplexstream/createwritable,null
 web/api/webtransportdatagramduplexstream/incominghighwatermark,null
 web/api/webtransportdatagramduplexstream/incomingmaxage,null
+web/api/webtransportdatagramduplexstream/incomingmaxbuffereddatagrams,null
 web/api/webtransportdatagramduplexstream/maxdatagramsize,null
 web/api/webtransportdatagramduplexstream/outgoinghighwatermark,null
 web/api/webtransportdatagramduplexstream/outgoingmaxage,null
+web/api/webtransportdatagramduplexstream/outgoingmaxbuffereddatagrams,null
 web/api/webtransportdatagramduplexstream/readable,null
 web/api/webtransportdatagramduplexstream/writable,null
 web/api/webtransportdatagramswritable,null
