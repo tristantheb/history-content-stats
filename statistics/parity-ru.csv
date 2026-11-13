@@ -12352,6 +12352,7 @@ web/javascript/guide/regular_expressions/cheatsheet,null
 web/javascript/guide/regular_expressions/groups_and_backreferences,null
 web/javascript/guide/regular_expressions/quantifiers,null
 web/javascript/guide/representing_dates_times,null
+web/javascript/guide/representing_dates_times/cookbook,null
 web/javascript/guide/resource_management,null
 web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,null
@@ -12830,7 +12831,7 @@ web/javascript/reference/global_objects/intl/locale/region,null
 web/javascript/reference/global_objects/intl/locale/script,null
 web/javascript/reference/global_objects/intl/locale/tostring,null
 web/javascript/reference/global_objects/intl/locale/variants,null
-web/javascript/reference/global_objects/intl/numberformat,6
+web/javascript/reference/global_objects/intl/numberformat,7
 web/javascript/reference/global_objects/intl/numberformat/format,null
 web/javascript/reference/global_objects/intl/numberformat/formatrange,null
 web/javascript/reference/global_objects/intl/numberformat/formatrangetoparts,null

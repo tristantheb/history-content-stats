@@ -6295,13 +6295,13 @@ web/api/navigationpreloadmanager/disable,null
 web/api/navigationpreloadmanager/enable,null
 web/api/navigationpreloadmanager/getstate,null
 web/api/navigationpreloadmanager/setheadervalue,null
-web/api/navigationtransition,4
+web/api/navigationtransition,5
 web/api/navigationtransition/committed,null
 web/api/navigationtransition/finished,2
 web/api/navigationtransition/from,2
 web/api/navigationtransition/navigationtype,2
 web/api/navigationtransition/to,null
-web/api/navigator,5
+web/api/navigator,6
 web/api/navigator/activevrdisplays,5
 web/api/navigator/appcodename,4
 web/api/navigator/appname,4
@@ -6327,7 +6327,7 @@ web/api/navigator/getgamepads,2
 web/api/navigator/getinstalledrelatedapps,null
 web/api/navigator/getusermedia,null
 web/api/navigator/getvrdisplays,3
-web/api/navigator/globalprivacycontrol,2
+web/api/navigator/globalprivacycontrol,3
 web/api/navigator/gpu,3
 web/api/navigator/hardwareconcurrency,1
 web/api/navigator/hid,1
@@ -7979,7 +7979,7 @@ web/api/sourcebuffer/updating,null
 web/api/sourcebuffer/videotracks,null
 web/api/sourcebufferlist,null
 web/api/sourcebufferlist/length,null
-web/api/speculation_rules_api,13
+web/api/speculation_rules_api,14
 web/api/speechgrammar,3
 web/api/speechgrammar/speechgrammar,2
 web/api/speechgrammar/src,3
@@ -9720,7 +9720,7 @@ web/api/websocketstream/closed,null
 web/api/websocketstream/opened,null
 web/api/websocketstream/url,1
 web/api/websocketstream/websocketstream,null
-web/api/webtransport,14
+web/api/webtransport,15
 web/api/webtransport/anticipatedconcurrentincomingbidirectionalstreams,null
 web/api/webtransport/anticipatedconcurrentincomingunidirectionalstreams,null
 web/api/webtransport/close,null
@@ -10919,7 +10919,7 @@ web/css/reference/properties/container-name,null
 web/css/reference/properties/container-type,null
 web/css/reference/properties/content,null
 web/css/reference/properties/content-visibility,null
-web/css/reference/properties/corner-block-end-shape,3
+web/css/reference/properties/corner-block-end-shape,4
 web/css/reference/properties/corner-block-start-shape,null
 web/css/reference/properties/corner-bottom-left-shape,null
 web/css/reference/properties/corner-bottom-right-shape,null
@@ -10934,7 +10934,7 @@ web/css/reference/properties/corner-shape,null
 web/css/reference/properties/corner-start-end-shape,null
 web/css/reference/properties/corner-start-start-shape,null
 web/css/reference/properties/corner-top-left-shape,null
-web/css/reference/properties/corner-top-right-shape,3
+web/css/reference/properties/corner-top-right-shape,4
 web/css/reference/properties/corner-top-shape,null
 web/css/reference/properties/counter-increment,4
 web/css/reference/properties/counter-reset,null
@@ -12351,7 +12351,8 @@ web/javascript/guide/regular_expressions/character_classes,null
 web/javascript/guide/regular_expressions/cheatsheet,null
 web/javascript/guide/regular_expressions/groups_and_backreferences,null
 web/javascript/guide/regular_expressions/quantifiers,7
-web/javascript/guide/representing_dates_times,1
+web/javascript/guide/representing_dates_times,2
+web/javascript/guide/representing_dates_times/cookbook,null
 web/javascript/guide/resource_management,null
 web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,4
@@ -12789,7 +12790,7 @@ web/javascript/reference/global_objects/intl/datetimeformat/formatrangetoparts,n
 web/javascript/reference/global_objects/intl/datetimeformat/formattoparts,null
 web/javascript/reference/global_objects/intl/datetimeformat/resolvedoptions,null
 web/javascript/reference/global_objects/intl/datetimeformat/supportedlocalesof,null
-web/javascript/reference/global_objects/intl/displaynames,0
+web/javascript/reference/global_objects/intl/displaynames,1
 web/javascript/reference/global_objects/intl/displaynames/displaynames,null
 web/javascript/reference/global_objects/intl/displaynames/of,null
 web/javascript/reference/global_objects/intl/displaynames/resolvedoptions,null
@@ -12861,7 +12862,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,null
 web/javascript/reference/global_objects/isfinite,null
 web/javascript/reference/global_objects/isnan,8
-web/javascript/reference/global_objects/iterator,26
+web/javascript/reference/global_objects/iterator,27
 web/javascript/reference/global_objects/iterator/chunks,null
 web/javascript/reference/global_objects/iterator/concat,null
 web/javascript/reference/global_objects/iterator/drop,6
@@ -13206,7 +13207,7 @@ web/javascript/reference/global_objects/symbol/unscopables,null
 web/javascript/reference/global_objects/symbol/valueof,4
 web/javascript/reference/global_objects/syntaxerror,null
 web/javascript/reference/global_objects/syntaxerror/syntaxerror,null
-web/javascript/reference/global_objects/temporal,0
+web/javascript/reference/global_objects/temporal,1
 web/javascript/reference/global_objects/temporal/duration,null
 web/javascript/reference/global_objects/temporal/duration/abs,null
 web/javascript/reference/global_objects/temporal/duration/add,null
