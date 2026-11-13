@@ -2585,7 +2585,7 @@ web/api/barcodedetector/detect,null
 web/api/barcodedetector/getsupportedformats_static,null
 web/api/barprop,null
 web/api/barprop/visible,null
-web/api/baseaudiocontext,3
+web/api/baseaudiocontext,4
 web/api/baseaudiocontext/audioworklet,null
 web/api/baseaudiocontext/createanalyser,null
 web/api/baseaudiocontext/createbiquadfilter,null
@@ -6301,7 +6301,7 @@ web/api/navigationtransition/finished,null
 web/api/navigationtransition/from,null
 web/api/navigationtransition/navigationtype,null
 web/api/navigationtransition/to,null
-web/api/navigator,48
+web/api/navigator,49
 web/api/navigator/activevrdisplays,null
 web/api/navigator/appcodename,null
 web/api/navigator/appname,null
@@ -12352,6 +12352,7 @@ web/javascript/guide/regular_expressions/cheatsheet,null
 web/javascript/guide/regular_expressions/groups_and_backreferences,null
 web/javascript/guide/regular_expressions/quantifiers,null
 web/javascript/guide/representing_dates_times,null
+web/javascript/guide/representing_dates_times/cookbook,null
 web/javascript/guide/resource_management,null
 web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,1
