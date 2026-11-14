@@ -1717,8 +1717,8 @@ web/css/guides/values_and_units/value_definition_syntax,no_hash_commit
 web/css/guides/writing_modes,no_hash_commit
 web/css/how_to/layout_cookbook/card,f79a491594ebb5634949ed31b26155973a39166e
 web/css/how_to/layout_cookbook/center_an_element,70f49e78d0f6830748fcaa490d98b4ae3e2da161
+web/css/how_to/layout_cookbook/column_layouts,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css,no_hash_commit
-web/css/layout_cookbook/column_layouts,0cc9980e3b21c83d1800a428bc402ae1865326b2
 web/css/reference/at-rules/@charset,no_hash_commit
 web/css/reference/at-rules/@font-face/font-display,no_hash_commit
 web/css/reference/at-rules/@font-face,no_hash_commit
@@ -2494,7 +2494,7 @@ web/javascript/reference/global_objects/dataview/setint8,e01fd6206ce2fad2fe09a48
 web/javascript/reference/global_objects/dataview/setuint16,e01fd6206ce2fad2fe09a485bb2d3ceda53a62de
 web/javascript/reference/global_objects/dataview/setuint32,e01fd6206ce2fad2fe09a485bb2d3ceda53a62de
 web/javascript/reference/global_objects/dataview/setuint8,e01fd6206ce2fad2fe09a485bb2d3ceda53a62de
-web/javascript/reference/global_objects/date/date,no_hash_commit
+web/javascript/reference/global_objects/date/date,91b5a448a517239876a4bc92640bbbf29e30b106
 web/javascript/reference/global_objects/date/getdate,no_hash_commit
 web/javascript/reference/global_objects/date/getday,no_hash_commit
 web/javascript/reference/global_objects/date/getfullyear,no_hash_commit
