@@ -1040,7 +1040,7 @@ mdn/guides,1
 mdn/kitchensink,null
 mdn/tutorials,4
 mdn/writing_guidelines,5
-mdn/writing_guidelines/attrib_copyright_license,2
+mdn/writing_guidelines/attrib_copyright_license,0
 mdn/writing_guidelines/changelog,0
 mdn/writing_guidelines/code_style_guide,0
 mdn/writing_guidelines/code_style_guide/css,0
@@ -1111,7 +1111,7 @@ mdn/writing_guidelines/page_structures/polyfills,0
 mdn/writing_guidelines/page_structures/sidebars,0
 mdn/writing_guidelines/page_structures/specification_tables,0
 mdn/writing_guidelines/page_structures/syntax_sections,0
-mdn/writing_guidelines/what_we_write,5
+mdn/writing_guidelines/what_we_write,0
 mdn/writing_guidelines/writing_style_guide,4
 mozilla,1
 mozilla/add-ons,null
@@ -1932,7 +1932,7 @@ mozilla/firefox/releases/128,2
 mozilla/firefox/releases/129,10
 mozilla/firefox/releases/13,null
 mozilla/firefox/releases/130,11
-mozilla/firefox/releases/131,12
+mozilla/firefox/releases/131,0
 mozilla/firefox/releases/132,0
 mozilla/firefox/releases/133,11
 mozilla/firefox/releases/134,7

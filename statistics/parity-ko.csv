@@ -10619,7 +10619,7 @@ web/css/how_to/layout_cookbook,null
 web/css/how_to/layout_cookbook/breadcrumb_navigation,null
 web/css/how_to/layout_cookbook/card,2
 web/css/how_to/layout_cookbook/center_an_element,2
-web/css/how_to/layout_cookbook/column_layouts,null
+web/css/how_to/layout_cookbook/column_layouts,2
 web/css/how_to/layout_cookbook/contribute_a_recipe,null
 web/css/how_to/layout_cookbook/contribute_a_recipe/cookbook_template,null
 web/css/how_to/layout_cookbook/grid_wrapper,null
@@ -12655,7 +12655,7 @@ web/javascript/reference/global_objects/dataview/setuint16,4
 web/javascript/reference/global_objects/dataview/setuint32,4
 web/javascript/reference/global_objects/dataview/setuint8,4
 web/javascript/reference/global_objects/date,null
-web/javascript/reference/global_objects/date/date,null
+web/javascript/reference/global_objects/date/date,0
 web/javascript/reference/global_objects/date/getdate,null
 web/javascript/reference/global_objects/date/getday,null
 web/javascript/reference/global_objects/date/getfullyear,null
