@@ -9419,7 +9419,7 @@ web/api/webgl2renderingcontext/createtransformfeedback,null
 web/api/webgl2renderingcontext/createvertexarray,null
 web/api/webgl2renderingcontext/deletequery,null
 web/api/webgl2renderingcontext/deletesampler,null
-web/api/webgl2renderingcontext/deletesync,0
+web/api/webgl2renderingcontext/deletesync,1
 web/api/webgl2renderingcontext/deletetransformfeedback,null
 web/api/webgl2renderingcontext/deletevertexarray,null
 web/api/webgl2renderingcontext/drawarraysinstanced,null
@@ -9462,9 +9462,9 @@ web/api/webgl2renderingcontext/texstorage2d,null
 web/api/webgl2renderingcontext/texstorage3d,null
 web/api/webgl2renderingcontext/texsubimage3d,null
 web/api/webgl2renderingcontext/transformfeedbackvaryings,null
-web/api/webgl2renderingcontext/uniform,2
+web/api/webgl2renderingcontext/uniform,3
 web/api/webgl2renderingcontext/uniformblockbinding,null
-web/api/webgl2renderingcontext/uniformmatrix,0
+web/api/webgl2renderingcontext/uniformmatrix,1
 web/api/webgl2renderingcontext/unpackcolorspace,null
 web/api/webgl2renderingcontext/vertexattribdivisor,null
 web/api/webgl2renderingcontext/vertexattribi,null
@@ -9573,11 +9573,11 @@ web/api/webglrenderingcontext/createrenderbuffer,2
 web/api/webglrenderingcontext/createshader,null
 web/api/webglrenderingcontext/createtexture,1
 web/api/webglrenderingcontext/cullface,null
-web/api/webglrenderingcontext/deletebuffer,0
+web/api/webglrenderingcontext/deletebuffer,1
 web/api/webglrenderingcontext/deleteframebuffer,null
 web/api/webglrenderingcontext/deleteprogram,null
 web/api/webglrenderingcontext/deleterenderbuffer,null
-web/api/webglrenderingcontext/deleteshader,1
+web/api/webglrenderingcontext/deleteshader,2
 web/api/webglrenderingcontext/deletetexture,null
 web/api/webglrenderingcontext/depthfunc,null
 web/api/webglrenderingcontext/depthmask,null
@@ -9626,7 +9626,7 @@ web/api/webglrenderingcontext/isbuffer,null
 web/api/webglrenderingcontext/iscontextlost,null
 web/api/webglrenderingcontext/isenabled,null
 web/api/webglrenderingcontext/isframebuffer,null
-web/api/webglrenderingcontext/isprogram,1
+web/api/webglrenderingcontext/isprogram,2
 web/api/webglrenderingcontext/isrenderbuffer,null
 web/api/webglrenderingcontext/isshader,null
 web/api/webglrenderingcontext/istexture,null

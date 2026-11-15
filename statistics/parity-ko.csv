@@ -9543,7 +9543,7 @@ web/api/webglrenderingcontext,null
 web/api/webglrenderingcontext/activetexture,null
 web/api/webglrenderingcontext/attachshader,null
 web/api/webglrenderingcontext/bindattriblocation,null
-web/api/webglrenderingcontext/bindbuffer,2
+web/api/webglrenderingcontext/bindbuffer,3
 web/api/webglrenderingcontext/bindframebuffer,null
 web/api/webglrenderingcontext/bindrenderbuffer,null
 web/api/webglrenderingcontext/bindtexture,null
@@ -9552,7 +9552,7 @@ web/api/webglrenderingcontext/blendequation,null
 web/api/webglrenderingcontext/blendequationseparate,null
 web/api/webglrenderingcontext/blendfunc,null
 web/api/webglrenderingcontext/blendfuncseparate,null
-web/api/webglrenderingcontext/bufferdata,5
+web/api/webglrenderingcontext/bufferdata,6
 web/api/webglrenderingcontext/buffersubdata,null
 web/api/webglrenderingcontext/canvas,null
 web/api/webglrenderingcontext/checkframebufferstatus,null

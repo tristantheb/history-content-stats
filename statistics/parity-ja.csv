@@ -290,7 +290,7 @@ glossary/google_chrome,1
 glossary/gpl,null
 glossary/gpu,null
 glossary/graceful_degradation,null
-glossary/grid,5
+glossary/grid,0
 glossary/grid_areas,4
 glossary/grid_axis,5
 glossary/grid_cell,3
@@ -9543,7 +9543,7 @@ web/api/webglrenderingcontext,2
 web/api/webglrenderingcontext/activetexture,1
 web/api/webglrenderingcontext/attachshader,4
 web/api/webglrenderingcontext/bindattriblocation,null
-web/api/webglrenderingcontext/bindbuffer,2
+web/api/webglrenderingcontext/bindbuffer,3
 web/api/webglrenderingcontext/bindframebuffer,null
 web/api/webglrenderingcontext/bindrenderbuffer,null
 web/api/webglrenderingcontext/bindtexture,null
@@ -9552,7 +9552,7 @@ web/api/webglrenderingcontext/blendequation,null
 web/api/webglrenderingcontext/blendequationseparate,null
 web/api/webglrenderingcontext/blendfunc,null
 web/api/webglrenderingcontext/blendfuncseparate,null
-web/api/webglrenderingcontext/bufferdata,5
+web/api/webglrenderingcontext/bufferdata,6
 web/api/webglrenderingcontext/buffersubdata,null
 web/api/webglrenderingcontext/canvas,2
 web/api/webglrenderingcontext/checkframebufferstatus,null
@@ -9595,7 +9595,7 @@ web/api/webglrenderingcontext/enablevertexattribarray,null
 web/api/webglrenderingcontext/finish,null
 web/api/webglrenderingcontext/flush,null
 web/api/webglrenderingcontext/framebufferrenderbuffer,null
-web/api/webglrenderingcontext/framebuffertexture2d,9
+web/api/webglrenderingcontext/framebuffertexture2d,10
 web/api/webglrenderingcontext/frontface,null
 web/api/webglrenderingcontext/generatemipmap,null
 web/api/webglrenderingcontext/getactiveattrib,null
@@ -10425,7 +10425,7 @@ web/css/guides/box_alignment/in_grid_layout,0
 web/css/guides/box_alignment/in_multi-column_layout,0
 web/css/guides/box_alignment/overview,1
 web/css/guides/box_model,0
-web/css/guides/box_model/introduction,1
+web/css/guides/box_model/introduction,0
 web/css/guides/box_model/margin_collapsing,0
 web/css/guides/box_sizing,1
 web/css/guides/box_sizing/aspect_ratios,0
@@ -11628,7 +11628,7 @@ web/css/reference/values/position-area_value,1
 web/css/reference/values/position_value,1
 web/css/reference/values/pow,0
 web/css/reference/values/progress,5
-web/css/reference/values/random,2
+web/css/reference/values/random,3
 web/css/reference/values/ratio,1
 web/css/reference/values/ray,1
 web/css/reference/values/relative-size,1
@@ -12356,7 +12356,7 @@ web/javascript/guide/representing_dates_times/cookbook,null
 web/javascript/guide/resource_management,3
 web/javascript/guide/typed_arrays,0
 web/javascript/guide/using_classes,1
-web/javascript/guide/using_promises,1
+web/javascript/guide/using_promises,0
 web/javascript/guide/working_with_objects,1
 web/javascript/reference,0
 web/javascript/reference/classes,2
@@ -14170,7 +14170,7 @@ web/svg/reference/element/polygon,0
 web/svg/reference/element/polyline,0
 web/svg/reference/element/radialgradient,1
 web/svg/reference/element/rect,0
-web/svg/reference/element/script,5
+web/svg/reference/element/script,0
 web/svg/reference/element/set,0
 web/svg/reference/element/stop,1
 web/svg/reference/element/style,2
