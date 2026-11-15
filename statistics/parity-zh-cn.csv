@@ -1476,7 +1476,7 @@ mozilla/add-ons/webextensions/api/omnibox/oninputchanged,2
 mozilla/add-ons/webextensions/api/omnibox/oninputentered,4
 mozilla/add-ons/webextensions/api/omnibox/oninputentereddisposition,1
 mozilla/add-ons/webextensions/api/omnibox/oninputstarted,2
-mozilla/add-ons/webextensions/api/omnibox/setdefaultsuggestion,2
+mozilla/add-ons/webextensions/api/omnibox/setdefaultsuggestion,3
 mozilla/add-ons/webextensions/api/omnibox/suggestresult,1
 mozilla/add-ons/webextensions/api/pageaction,3
 mozilla/add-ons/webextensions/api/pageaction/getpopup,3
@@ -12680,12 +12680,12 @@ web/javascript/reference/global_objects/date/parse,null
 web/javascript/reference/global_objects/date/setdate,null
 web/javascript/reference/global_objects/date/setfullyear,null
 web/javascript/reference/global_objects/date/sethours,null
-web/javascript/reference/global_objects/date/setmilliseconds,5
+web/javascript/reference/global_objects/date/setmilliseconds,6
 web/javascript/reference/global_objects/date/setminutes,null
 web/javascript/reference/global_objects/date/setmonth,null
 web/javascript/reference/global_objects/date/setseconds,null
 web/javascript/reference/global_objects/date/settime,null
-web/javascript/reference/global_objects/date/setutcdate,0
+web/javascript/reference/global_objects/date/setutcdate,1
 web/javascript/reference/global_objects/date/setutcfullyear,null
 web/javascript/reference/global_objects/date/setutchours,4
 web/javascript/reference/global_objects/date/setutcmilliseconds,null
