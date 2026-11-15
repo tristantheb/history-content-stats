@@ -12655,7 +12655,7 @@ web/javascript/reference/global_objects/dataview/setuint16,null
 web/javascript/reference/global_objects/dataview/setuint32,null
 web/javascript/reference/global_objects/dataview/setuint8,null
 web/javascript/reference/global_objects/date,null
-web/javascript/reference/global_objects/date/date,7
+web/javascript/reference/global_objects/date/date,8
 web/javascript/reference/global_objects/date/getdate,null
 web/javascript/reference/global_objects/date/getday,null
 web/javascript/reference/global_objects/date/getfullyear,null
