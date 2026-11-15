@@ -1474,7 +1474,7 @@ mozilla/add-ons/webextensions/api/omnibox/oninputchanged,09109b6f9444d22215ba330
 mozilla/add-ons/webextensions/api/omnibox/oninputentered,674fbb492c76a45adf433810f0f5737a0405bd9c
 mozilla/add-ons/webextensions/api/omnibox/oninputentereddisposition,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/omnibox/oninputstarted,09109b6f9444d22215ba330ec1e64e73980b2a6c
-mozilla/add-ons/webextensions/api/omnibox/setdefaultsuggestion,09109b6f9444d22215ba330ec1e64e73980b2a6c
+mozilla/add-ons/webextensions/api/omnibox/setdefaultsuggestion,a15956e15e80eeb4641bb508c4b0f32940b8301d
 mozilla/add-ons/webextensions/api/omnibox/suggestresult,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/pageaction/getpopup,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/pageaction/gettitle,09109b6f9444d22215ba330ec1e64e73980b2a6c
@@ -1531,7 +1531,7 @@ mozilla/add-ons/webextensions/api/runtime/getversion,3dad2299b9d045afbcefc2fd550
 mozilla/add-ons/webextensions/api/runtime/id,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/runtime,9791add3508e087982097f25fbd367c21bcb8305
 mozilla/add-ons/webextensions/api/runtime/lasterror,38199423810927262c9cb4dec7ea7de4cb0c5e0f
-mozilla/add-ons/webextensions/api/runtime/messagesender,9791add3508e087982097f25fbd367c21bcb8305
+mozilla/add-ons/webextensions/api/runtime/messagesender,df256997a92b09d7ec4f76702d99850582a56869
 mozilla/add-ons/webextensions/api/runtime/onbrowserupdateavailable,32ba792708c61221f9ddf725c0a52dba573414bc
 mozilla/add-ons/webextensions/api/runtime/onconnect,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/api/runtime/onconnectexternal,09109b6f9444d22215ba330ec1e64e73980b2a6c
@@ -1851,7 +1851,7 @@ mozilla/add-ons/webextensions/manifest.json/sandbox,ef11240e109e4b39ff9e8cac248d
 mozilla/add-ons/webextensions/manifest.json/short_name,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/manifest.json/sidebar_action,ba3c8980510073ee92674aa71cb2c8c5b71294ab
 mozilla/add-ons/webextensions/manifest.json/storage,09109b6f9444d22215ba330ec1e64e73980b2a6c
-mozilla/add-ons/webextensions/manifest.json/theme,7501dc2c20f28e88a983e85e979978496946a804
+mozilla/add-ons/webextensions/manifest.json/theme,fae82294676474f14263164c0270a51cbd736969
 mozilla/add-ons/webextensions/manifest.json/theme_experiment,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/manifest.json/user_scripts,09109b6f9444d22215ba330ec1e64e73980b2a6c
 mozilla/add-ons/webextensions/manifest.json/version/format,09109b6f9444d22215ba330ec1e64e73980b2a6c
@@ -1962,9 +1962,9 @@ mozilla/firefox/releases/157,bd4e1a75486ccdf2d36aef41c63d22ec5536b6a6
 mozilla/firefox/releases/158,521fe7795f4dbfa723d800a94884d7608fa0e17e
 mozilla/firefox/releases/159,4bf4746470a4d0bd53e4ae7d320849d0c912bb10
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8
-mozilla/firefox/releases/160,7ba141d212766d3c840c4176f72d39dce1df122e
+mozilla/firefox/releases/160,df256997a92b09d7ec4f76702d99850582a56869
 mozilla/firefox/releases/161,7ba141d212766d3c840c4176f72d39dce1df122e
-mozilla/firefox/releases/162,4bf4746470a4d0bd53e4ae7d320849d0c912bb10
+mozilla/firefox/releases/162,a15956e15e80eeb4641bb508c4b0f32940b8301d
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127
 mozilla/firefox/releases/19,83f4e64da466670c3700110da364546253eae127
