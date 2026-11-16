@@ -9383,7 +9383,7 @@ web/api/web_nfc_api,null
 web/api/web_periodic_background_synchronization_api,null
 web/api/web_serial_api,null
 web/api/web_share_api,null
-web/api/web_speech_api,4
+web/api/web_speech_api,5
 web/api/web_speech_api/using_the_web_speech_api,null
 web/api/web_storage_api,null
 web/api/web_storage_api/using_the_web_storage_api,null
@@ -12718,7 +12718,7 @@ web/javascript/reference/global_objects/disposablestack/move,null
 web/javascript/reference/global_objects/disposablestack/symbol.dispose,null
 web/javascript/reference/global_objects/disposablestack/use,null
 web/javascript/reference/global_objects/encodeuri,null
-web/javascript/reference/global_objects/encodeuricomponent,5
+web/javascript/reference/global_objects/encodeuricomponent,6
 web/javascript/reference/global_objects/error,null
 web/javascript/reference/global_objects/error/capturestacktrace,null
 web/javascript/reference/global_objects/error/cause,4
@@ -13507,7 +13507,7 @@ web/javascript/reference/global_objects/uint8array/uint8array,null
 web/javascript/reference/global_objects/uint8clampedarray,null
 web/javascript/reference/global_objects/uint8clampedarray/uint8clampedarray,null
 web/javascript/reference/global_objects/undefined,null
-web/javascript/reference/global_objects/unescape,10
+web/javascript/reference/global_objects/unescape,11
 web/javascript/reference/global_objects/urierror,null
 web/javascript/reference/global_objects/urierror/urierror,null
 web/javascript/reference/global_objects/weakmap,null

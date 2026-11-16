@@ -9383,7 +9383,7 @@ web/api/web_nfc_api,1
 web/api/web_periodic_background_synchronization_api,null
 web/api/web_serial_api,null
 web/api/web_share_api,3
-web/api/web_speech_api,4
+web/api/web_speech_api,5
 web/api/web_speech_api/using_the_web_speech_api,null
 web/api/web_storage_api,null
 web/api/web_storage_api/using_the_web_storage_api,null

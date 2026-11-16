@@ -12953,7 +12953,7 @@ web/javascript/reference/global_objects/math/sumprecise,null
 web/javascript/reference/global_objects/math/tan,null
 web/javascript/reference/global_objects/math/tanh,null
 web/javascript/reference/global_objects/math/trunc,null
-web/javascript/reference/global_objects/nan,0
+web/javascript/reference/global_objects/nan,1
 web/javascript/reference/global_objects/number,null
 web/javascript/reference/global_objects/number/epsilon,null
 web/javascript/reference/global_objects/number/isfinite,null

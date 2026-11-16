@@ -12953,7 +12953,7 @@ web/javascript/reference/global_objects/math/sumprecise,null
 web/javascript/reference/global_objects/math/tan,null
 web/javascript/reference/global_objects/math/tanh,null
 web/javascript/reference/global_objects/math/trunc,null
-web/javascript/reference/global_objects/nan,5
+web/javascript/reference/global_objects/nan,6
 web/javascript/reference/global_objects/number,null
 web/javascript/reference/global_objects/number/epsilon,null
 web/javascript/reference/global_objects/number/isfinite,null
@@ -13507,7 +13507,7 @@ web/javascript/reference/global_objects/uint8array/uint8array,null
 web/javascript/reference/global_objects/uint8clampedarray,null
 web/javascript/reference/global_objects/uint8clampedarray/uint8clampedarray,null
 web/javascript/reference/global_objects/undefined,null
-web/javascript/reference/global_objects/unescape,7
+web/javascript/reference/global_objects/unescape,8
 web/javascript/reference/global_objects/urierror,null
 web/javascript/reference/global_objects/urierror/urierror,null
 web/javascript/reference/global_objects/weakmap,null
