@@ -880,7 +880,7 @@ learn_web_development/extensions/forms/basic_native_form_controls,null
 learn_web_development/extensions/forms/customizable_select,null
 learn_web_development/extensions/forms/customizable_select_listboxes,null
 learn_web_development/extensions/forms/form_validation,4
-learn_web_development/extensions/forms/how_to_build_custom_form_controls,6
+learn_web_development/extensions/forms/how_to_build_custom_form_controls,7
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_1,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_2,null
 learn_web_development/extensions/forms/how_to_build_custom_form_controls/example_3,null
@@ -914,7 +914,7 @@ learn_web_development/extensions/server-side/apache_configuration_htaccess,null
 learn_web_development/extensions/server-side/configuring_server_mime_types,null
 learn_web_development/extensions/server-side/django,null
 learn_web_development/extensions/server-side/django/admin_site,2
-learn_web_development/extensions/server-side/django/authentication,3
+learn_web_development/extensions/server-side/django/authentication,4
 learn_web_development/extensions/server-side/django/deployment,9
 learn_web_development/extensions/server-side/django/development_environment,2
 learn_web_development/extensions/server-side/django/django_assessment_blog,null
