@@ -1312,7 +1312,11 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/urltransform,null
 mozilla/add-ons/webextensions/api/devtools,null
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow,null
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/eval,null
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow/getresources,null
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow/onresourceadded,null
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow/onresourcecontentcommitted,null
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/reload,null
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow/resource,null
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/tabid,null
 mozilla/add-ons/webextensions/api/devtools/network,null
 mozilla/add-ons/webextensions/api/devtools/network/gethar,null
