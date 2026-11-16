@@ -1310,9 +1310,13 @@ mozilla/add-ons/webextensions/api/declarativenetrequest/updatesessionrules,5137b
 mozilla/add-ons/webextensions/api/declarativenetrequest/updatestaticrules,5137b45128dcf07ac636da68184f00aab30ec1cc,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/declarativenetrequest/urltransform,2290fdbf9d5cf68482245d07d388b883156058ac,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools,96eee46848f79914902892ca67e14df7736e11c7,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/devtools/inspectedwindow,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/devtools/inspectedwindow/eval,c4bcbe7056da00277112f21b94966e0443c39805,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow,7036af62231b680d0ef5229bb034ce84440ba690,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow/eval,7036af62231b680d0ef5229bb034ce84440ba690,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow/getresources,7036af62231b680d0ef5229bb034ce84440ba690,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow/onresourceadded,7036af62231b680d0ef5229bb034ce84440ba690,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow/onresourcecontentcommitted,7036af62231b680d0ef5229bb034ce84440ba690,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/reload,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/devtools/inspectedwindow/resource,7036af62231b680d0ef5229bb034ce84440ba690,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools/inspectedwindow/tabid,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools/network,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/devtools/network/gethar,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
