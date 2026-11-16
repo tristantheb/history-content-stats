@@ -2118,11 +2118,11 @@ web/accessibility/aria/reference/attributes/aria-autocomplete,4
 web/accessibility/aria/reference/attributes/aria-braillelabel,2
 web/accessibility/aria/reference/attributes/aria-brailleroledescription,3
 web/accessibility/aria/reference/attributes/aria-busy,4
-web/accessibility/aria/reference/attributes/aria-checked,5
+web/accessibility/aria/reference/attributes/aria-checked,6
 web/accessibility/aria/reference/attributes/aria-colcount,2
 web/accessibility/aria/reference/attributes/aria-colindex,2
 web/accessibility/aria/reference/attributes/aria-colindextext,2
-web/accessibility/aria/reference/attributes/aria-colspan,3
+web/accessibility/aria/reference/attributes/aria-colspan,4
 web/accessibility/aria/reference/attributes/aria-controls,null
 web/accessibility/aria/reference/attributes/aria-current,null
 web/accessibility/aria/reference/attributes/aria-describedby,null
@@ -2135,7 +2135,7 @@ web/accessibility/aria/reference/attributes/aria-expanded,null
 web/accessibility/aria/reference/attributes/aria-flowto,null
 web/accessibility/aria/reference/attributes/aria-grabbed,null
 web/accessibility/aria/reference/attributes/aria-haspopup,null
-web/accessibility/aria/reference/attributes/aria-hidden,4
+web/accessibility/aria/reference/attributes/aria-hidden,5
 web/accessibility/aria/reference/attributes/aria-invalid,null
 web/accessibility/aria/reference/attributes/aria-keyshortcuts,null
 web/accessibility/aria/reference/attributes/aria-label,0
@@ -11112,7 +11112,7 @@ web/css/reference/properties/order,3
 web/css/reference/properties/orphans,4
 web/css/reference/properties/outline,null
 web/css/reference/properties/outline-color,null
-web/css/reference/properties/outline-offset,2
+web/css/reference/properties/outline-offset,3
 web/css/reference/properties/outline-style,null
 web/css/reference/properties/outline-width,5
 web/css/reference/properties/overflow,null
@@ -13763,7 +13763,7 @@ web/performance/guides/critical_rendering_path,1
 web/performance/guides/css_javascript_animation_performance,null
 web/performance/guides/dns-prefetch,null
 web/performance/guides/fundamentals,null
-web/performance/guides/how_browsers_work,10
+web/performance/guides/how_browsers_work,11
 web/performance/guides/how_long_is_too_long,1
 web/performance/guides/lazy_loading,null
 web/performance/guides/navigation_and_resource_timings,null
