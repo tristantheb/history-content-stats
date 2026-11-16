@@ -12717,8 +12717,8 @@ web/javascript/reference/global_objects/disposablestack/disposed,0
 web/javascript/reference/global_objects/disposablestack/move,0
 web/javascript/reference/global_objects/disposablestack/symbol.dispose,0
 web/javascript/reference/global_objects/disposablestack/use,0
-web/javascript/reference/global_objects/encodeuri,1
-web/javascript/reference/global_objects/encodeuricomponent,0
+web/javascript/reference/global_objects/encodeuri,2
+web/javascript/reference/global_objects/encodeuricomponent,1
 web/javascript/reference/global_objects/error,0
 web/javascript/reference/global_objects/error/capturestacktrace,0
 web/javascript/reference/global_objects/error/cause,0
@@ -12732,8 +12732,8 @@ web/javascript/reference/global_objects/error/name,0
 web/javascript/reference/global_objects/error/stack,0
 web/javascript/reference/global_objects/error/stacktracelimit,0
 web/javascript/reference/global_objects/error/tostring,0
-web/javascript/reference/global_objects/escape,0
-web/javascript/reference/global_objects/eval,0
+web/javascript/reference/global_objects/escape,1
+web/javascript/reference/global_objects/eval,1
 web/javascript/reference/global_objects/evalerror,0
 web/javascript/reference/global_objects/evalerror/evalerror,0
 web/javascript/reference/global_objects/finalizationregistry,0
@@ -12766,7 +12766,7 @@ web/javascript/reference/global_objects/generator/throw,0
 web/javascript/reference/global_objects/generatorfunction,0
 web/javascript/reference/global_objects/generatorfunction/generatorfunction,0
 web/javascript/reference/global_objects/generatorfunction/prototype,0
-web/javascript/reference/global_objects/globalthis,0
+web/javascript/reference/global_objects/globalthis,1
 web/javascript/reference/global_objects/infinity,0
 web/javascript/reference/global_objects/int16array,0
 web/javascript/reference/global_objects/int16array/int16array,0
@@ -12860,7 +12860,7 @@ web/javascript/reference/global_objects/intl/segmenter/segment/segments/symbol.i
 web/javascript/reference/global_objects/intl/segmenter/segmenter,0
 web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,1
-web/javascript/reference/global_objects/isfinite,0
+web/javascript/reference/global_objects/isfinite,1
 web/javascript/reference/global_objects/isnan,0
 web/javascript/reference/global_objects/iterator,1
 web/javascript/reference/global_objects/iterator/chunks,1
@@ -12953,7 +12953,7 @@ web/javascript/reference/global_objects/math/sumprecise,0
 web/javascript/reference/global_objects/math/tan,0
 web/javascript/reference/global_objects/math/tanh,0
 web/javascript/reference/global_objects/math/trunc,0
-web/javascript/reference/global_objects/nan,0
+web/javascript/reference/global_objects/nan,1
 web/javascript/reference/global_objects/number,0
 web/javascript/reference/global_objects/number/epsilon,0
 web/javascript/reference/global_objects/number/isfinite,0
@@ -13013,8 +13013,8 @@ web/javascript/reference/global_objects/object/tolocalestring,0
 web/javascript/reference/global_objects/object/tostring,0
 web/javascript/reference/global_objects/object/valueof,0
 web/javascript/reference/global_objects/object/values,0
-web/javascript/reference/global_objects/parsefloat,0
-web/javascript/reference/global_objects/parseint,0
+web/javascript/reference/global_objects/parsefloat,1
+web/javascript/reference/global_objects/parseint,1
 web/javascript/reference/global_objects/promise,0
 web/javascript/reference/global_objects/promise/all,0
 web/javascript/reference/global_objects/promise/allkeyed,1
