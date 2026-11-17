@@ -13553,7 +13553,7 @@ web/javascript/reference/operators/class,null
 web/javascript/reference/operators/comma_operator,null
 web/javascript/reference/operators/conditional_operator,null
 web/javascript/reference/operators/decrement,null
-web/javascript/reference/operators/delete,8
+web/javascript/reference/operators/delete,9
 web/javascript/reference/operators/destructuring,null
 web/javascript/reference/operators/division,null
 web/javascript/reference/operators/division_assignment,null
@@ -13581,7 +13581,7 @@ web/javascript/reference/operators/less_than_or_equal,null
 web/javascript/reference/operators/logical_and,null
 web/javascript/reference/operators/logical_and_assignment,null
 web/javascript/reference/operators/logical_not,8
-web/javascript/reference/operators/logical_or,6
+web/javascript/reference/operators/logical_or,7
 web/javascript/reference/operators/logical_or_assignment,null
 web/javascript/reference/operators/multiplication,null
 web/javascript/reference/operators/multiplication_assignment,null
@@ -13599,17 +13599,17 @@ web/javascript/reference/operators/remainder_assignment,null
 web/javascript/reference/operators/right_shift,0
 web/javascript/reference/operators/right_shift_assignment,null
 web/javascript/reference/operators/spread_syntax,null
-web/javascript/reference/operators/strict_equality,2
+web/javascript/reference/operators/strict_equality,3
 web/javascript/reference/operators/strict_inequality,1
 web/javascript/reference/operators/subtraction,null
 web/javascript/reference/operators/subtraction_assignment,null
-web/javascript/reference/operators/super,9
-web/javascript/reference/operators/this,2
-web/javascript/reference/operators/typeof,2
+web/javascript/reference/operators/super,10
+web/javascript/reference/operators/this,3
+web/javascript/reference/operators/typeof,3
 web/javascript/reference/operators/unary_negation,null
 web/javascript/reference/operators/unary_plus,null
 web/javascript/reference/operators/unsigned_right_shift,null
-web/javascript/reference/operators/unsigned_right_shift_assignment,5
+web/javascript/reference/operators/unsigned_right_shift_assignment,6
 web/javascript/reference/operators/void,null
 web/javascript/reference/operators/yield,null
 web/javascript/reference/operators/yield_star_,null
@@ -13635,7 +13635,7 @@ web/javascript/reference/regular_expressions/wildcard,null
 web/javascript/reference/regular_expressions/word_boundary_assertion,null
 web/javascript/reference/statements,null
 web/javascript/reference/statements/async_function,null
-web/javascript/reference/statements/async_function_star_,0
+web/javascript/reference/statements/async_function_star_,1
 web/javascript/reference/statements/await_using,null
 web/javascript/reference/statements/block,null
 web/javascript/reference/statements/break,null
@@ -13648,7 +13648,7 @@ web/javascript/reference/statements/empty,null
 web/javascript/reference/statements/export,null
 web/javascript/reference/statements/expression_statement,null
 web/javascript/reference/statements/for,null
-web/javascript/reference/statements/for-await...of,16
+web/javascript/reference/statements/for-await...of,17
 web/javascript/reference/statements/for...in,null
 web/javascript/reference/statements/for...of,null
 web/javascript/reference/statements/function,null
@@ -13661,7 +13661,7 @@ web/javascript/reference/statements/import/with,null
 web/javascript/reference/statements/label,null
 web/javascript/reference/statements/let,null
 web/javascript/reference/statements/return,null
-web/javascript/reference/statements/switch,1
+web/javascript/reference/statements/switch,2
 web/javascript/reference/statements/throw,null
 web/javascript/reference/statements/try...catch,7
 web/javascript/reference/statements/using,null
