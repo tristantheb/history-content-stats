@@ -1543,8 +1543,8 @@ mozilla/add-ons/webextensions/api/runtime/onconnect,09109b6f9444d22215ba330ec1e6
 mozilla/add-ons/webextensions/api/runtime/onconnectexternal,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/oninstalled,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/oninstalledreason,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/runtime/onmessage,38199423810927262c9cb4dec7ea7de4cb0c5e0f,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/runtime/onmessageexternal,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/runtime/onmessage,7b9d2e318ce7478530f4f31bdc24e36fcc6c41fa,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/runtime/onmessageexternal,7b9d2e318ce7478530f4f31bdc24e36fcc6c41fa,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/onperformancewarning,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/onperformancewarningcategory,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/onperformancewarningseverity,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1803,7 +1803,7 @@ mozilla/add-ons/webextensions/api/windows/window_id_current,09109b6f9444d22215ba
 mozilla/add-ons/webextensions/api/windows/window_id_none,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/windows/windowstate,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/windows/windowtype,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/background_scripts,3116241f515352d336d2edb460cebfe99d43aea7,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/background_scripts,7b9d2e318ce7478530f4f31bdc24e36fcc6c41fa,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/build_a_cross_browser_extension,8adfa9f21be15f90b5ee73dbfb9bc441038ac55d,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/chrome_incompatibilities,674fbb492c76a45adf433810f0f5737a0405bd9c,Mozilla|Firefox Add-ons
@@ -1894,7 +1894,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,3116241f515352d336d2edb4
 mozilla/add-ons/webextensions/your_first_webextension,3116241f515352d336d2edb460cebfe99d43aea7,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/your_second_webextension,3116241f515352d336d2edb460cebfe99d43aea7,Mozilla|Firefox Add-ons
 mozilla/firefox,7b8768d410a281446b0b95627c531d852e624353,Mozilla|Firefox
-mozilla/firefox/experimental_features,c9b005212e2dac4c847102bd643faa1f02ca47b2,Mozilla|Firefox
+mozilla/firefox/experimental_features,878526c9905f44efba6a14447293d6ba4f50b627,Mozilla|Firefox
 mozilla/firefox/releases,1d3d0c10ebf5c8c55f75b9adce74d1e5001866c6,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,594ae0d4ffb6326a9529fe366d30ca633309ee30,Mozilla|Firefox|Versions
@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/158,521fe7795f4dbfa723d800a94884d7608fa0e17e,Mozilla|Fi
 mozilla/firefox/releases/159,4bf4746470a4d0bd53e4ae7d320849d0c912bb10,Mozilla|Firefox|Versions
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/160,df256997a92b09d7ec4f76702d99850582a56869,Mozilla|Firefox|Versions
-mozilla/firefox/releases/161,095b9a051a348396a4e7f8dc29b797e90ba89589,Mozilla|Firefox|Versions
+mozilla/firefox/releases/161,878526c9905f44efba6a14447293d6ba4f50b627,Mozilla|Firefox|Versions
 mozilla/firefox/releases/162,a15956e15e80eeb4641bb508c4b0f32940b8301d,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -2249,7 +2249,7 @@ web/accessibility/aria/reference/roles/tabpanel_role,be161fc654b6a638ddbcca733c1
 web/accessibility/aria/reference/roles/term_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/textbox_role,fd2acb039cc1caee4af10f76ffb839c8da7da5b8,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/timer_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/toolbar_role,c833741444aba4d524992813eda1cd8d64563aed,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/toolbar_role,4820b23b826b2ac8db0705f5c441edc988238c4d,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tooltip_role,b7e9f482c51817d3a885e26092f8219fd0d9d278,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tree_role,9abb432251513c5fdcaf5aad0764126fc68413c4,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treegrid_role,96758f3d8ce1e5fbd9d58053bdef103eec1de108,Accessibility|ARIA|Roles
@@ -10494,9 +10494,10 @@ web/css/guides/fonts/opentype_fonts,6f5921b2634db4bd565e5e0cd38eafdadb4bb383,CSS
 web/css/guides/fonts/variable_fonts,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5,CSS|Guides
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/gaps,f641d1e7c63d8300c9ff1c6a24158a80e1f24ab0,CSS|Guides
+web/css/guides/gaps,e57c161bccdd08db7e46922255e1dc3ea74058d4,CSS|Guides
 web/css/guides/gaps/defining_gaps,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Guides
-web/css/guides/gaps/defining_rules,a4ff34eef85ccb654c5c3af7974caba396e8adcf,CSS|Guides
+web/css/guides/gaps/defining_rules,e57c161bccdd08db7e46922255e1dc3ea74058d4,CSS|Guides
+web/css/guides/gaps/overview,e57c161bccdd08db7e46922255e1dc3ea74058d4,CSS|Guides
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/grid_layout,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Guides
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10894,7 +10895,7 @@ web/css/reference/properties/color-interpolation-filters,071fd0613b1b5728d2d8384
 web/css/reference/properties/color-scheme,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/column-count,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
 web/css/reference/properties/column-fill,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
-web/css/reference/properties/column-gap,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Properties
+web/css/reference/properties/column-gap,e57c161bccdd08db7e46922255e1dc3ea74058d4,CSS|Properties
 web/css/reference/properties/column-height,25e50f8d5b36eb86d40916f6f06051671333f3a7,CSS|Properties
 web/css/reference/properties/column-rule,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Properties
 web/css/reference/properties/column-rule-break,d3a0fd9820ca27a3f17642841af8426735cb4ec3,CSS|Properties
@@ -10999,7 +11000,7 @@ web/css/reference/properties/font-weight,a5531a7b1fa30ab1de952ffff619a9830eb1c1a
 web/css/reference/properties/font-width,72af34c38ae0d97bc3c9bde4998d538bcc56634a,CSS|Properties
 web/css/reference/properties/forced-color-adjust,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/frame-sizing,a5531a7b1fa30ab1de952ffff619a9830eb1c1a9,CSS|Properties
-web/css/reference/properties/gap,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
+web/css/reference/properties/gap,e57c161bccdd08db7e46922255e1dc3ea74058d4,CSS|Properties
 web/css/reference/properties/grid,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/grid-area,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
 web/css/reference/properties/grid-auto-columns,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
@@ -11167,7 +11168,7 @@ web/css/reference/properties/reading-order,bcbb4bd6a80292c0663b723d5466759cfaaa8
 web/css/reference/properties/resize,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/rotate,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
-web/css/reference/properties/row-gap,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Properties
+web/css/reference/properties/row-gap,e57c161bccdd08db7e46922255e1dc3ea74058d4,CSS|Properties
 web/css/reference/properties/row-rule,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
 web/css/reference/properties/row-rule-break,d3a0fd9820ca27a3f17642841af8426735cb4ec3,CSS|Properties
 web/css/reference/properties/row-rule-color,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
@@ -11175,8 +11176,8 @@ web/css/reference/properties/row-rule-inset-cap,1a2a5b56a689b441ebf3be91b90f1574
 web/css/reference/properties/row-rule-inset-cap-end,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Properties
 web/css/reference/properties/row-rule-inset-cap-start,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Properties
 web/css/reference/properties/row-rule-inset-junction,068c46001316cf268128ab7a26b33fd5705cde1b,CSS|Properties
-web/css/reference/properties/row-rule-inset-junction-end,2a563c927890794b513523649ccfbbe48d336465,CSS|Properties
-web/css/reference/properties/row-rule-inset-junction-start,25abd448c8a088e9f333360dea0adbe8143e6b86,CSS|Properties
+web/css/reference/properties/row-rule-inset-junction-end,a8ef801e2065b729d1a227f2dbd44e46d2dd5c1b,CSS|Properties
+web/css/reference/properties/row-rule-inset-junction-start,a8ef801e2065b729d1a227f2dbd44e46d2dd5c1b,CSS|Properties
 web/css/reference/properties/row-rule-style,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
 web/css/reference/properties/row-rule-visibility-items,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
 web/css/reference/properties/row-rule-width,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
@@ -12863,7 +12864,7 @@ web/javascript/reference/global_objects/intl/segmenter/segment/segments/containi
 web/javascript/reference/global_objects/intl/segmenter/segment/segments/symbol.iterator,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/intl/segmenter/segmenter,e7bc0ed5466f5834641d75d416fa81886cf6b37e,JavaScript|Global Objects
 web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,e7bc0ed5466f5834641d75d416fa81886cf6b37e,JavaScript|Global Objects
-web/javascript/reference/global_objects/intl/supportedvaluesof,d6148909942b2cb6e43760db183c2b3815f4387a,JavaScript|Global Objects
+web/javascript/reference/global_objects/intl/supportedvaluesof,0dcd1b6856f509a18947eccc3d1441f02a45b54d,JavaScript|Global Objects
 web/javascript/reference/global_objects/isfinite,0c3c464abb1422b0534a5e3f5e81e9bbae13544c,JavaScript|Global Objects
 web/javascript/reference/global_objects/isnan,52aca3c51ce0ff04036a13d4db471c9844d07b00,JavaScript|Global Objects
 web/javascript/reference/global_objects/iterator,25abd448c8a088e9f333360dea0adbe8143e6b86,JavaScript|Global Objects
@@ -13765,7 +13766,7 @@ web/performance/guides/dns-prefetch,4c58f4735f986a91bee1b77e336143630df727a2,Per
 web/performance/guides/fundamentals,47b1321d6cac5c7093583162c4cf73e015cc4905,Performance|Guides
 web/performance/guides/how_browsers_work,82e314bf21755aeb56f79b3168f6f0cc2111c124,Performance|Guides
 web/performance/guides/how_long_is_too_long,31ff21cf5f083a3258fc04267d54b1fb72224ff6,Performance|Guides
-web/performance/guides/lazy_loading,8db892b3e7ca294621898441e7db2481e0e6d939,Performance|Guides
+web/performance/guides/lazy_loading,7d467ece2b269b661f61e56c29e44291aaba3085,Performance|Guides
 web/performance/guides/navigation_and_resource_timings,03d7663c2965d67eca296f6a27aa8a651de7dfee,Performance|Guides
 web/performance/guides/optimizing_startup_performance,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Performance|Guides
 web/performance/guides/performance_budgets,d93983dfe60b65633f67fffe04676c241ff92960,Performance|Guides
