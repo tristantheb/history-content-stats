@@ -10497,6 +10497,7 @@ web/css/guides/fragmentation,null
 web/css/guides/gaps,null
 web/css/guides/gaps/defining_gaps,null
 web/css/guides/gaps/defining_rules,null
+web/css/guides/gaps/overview,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -10999,7 +11000,7 @@ web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,null
 web/css/reference/properties/frame-sizing,null
-web/css/reference/properties/gap,12
+web/css/reference/properties/gap,13
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -13765,7 +13766,7 @@ web/performance/guides/dns-prefetch,null
 web/performance/guides/fundamentals,null
 web/performance/guides/how_browsers_work,null
 web/performance/guides/how_long_is_too_long,null
-web/performance/guides/lazy_loading,4
+web/performance/guides/lazy_loading,5
 web/performance/guides/navigation_and_resource_timings,null
 web/performance/guides/optimizing_startup_performance,null
 web/performance/guides/performance_budgets,6
