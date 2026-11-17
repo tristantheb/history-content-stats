@@ -2107,7 +2107,7 @@ web/accessibility,null
 web/accessibility/aria,null
 web/accessibility/aria/guides,1
 web/accessibility/aria/guides/live_regions,9
-web/accessibility/aria/guides/multipart_labels,2
+web/accessibility/aria/guides/multipart_labels,3
 web/accessibility/aria/guides/screen_reader_implementors,2
 web/accessibility/aria/guides/techniques,1
 web/accessibility/aria/reference,0
@@ -2806,7 +2806,7 @@ web/api/canvasrenderingcontext2d/globalalpha,5
 web/api/canvasrenderingcontext2d/globalcompositeoperation,11
 web/api/canvasrenderingcontext2d/imagesmoothingenabled,3
 web/api/canvasrenderingcontext2d/imagesmoothingquality,3
-web/api/canvasrenderingcontext2d/iscontextlost,2
+web/api/canvasrenderingcontext2d/iscontextlost,3
 web/api/canvasrenderingcontext2d/ispointinpath,3
 web/api/canvasrenderingcontext2d/ispointinstroke,2
 web/api/canvasrenderingcontext2d/lang,null
@@ -10724,7 +10724,7 @@ web/css/reference/at-rules/@page,7
 web/css/reference/at-rules/@page/page-orientation,null
 web/css/reference/at-rules/@page/size,null
 web/css/reference/at-rules/@position-try,null
-web/css/reference/at-rules/@property,null
+web/css/reference/at-rules/@property,0
 web/css/reference/at-rules/@property/inherits,4
 web/css/reference/at-rules/@property/initial-value,null
 web/css/reference/at-rules/@property/syntax,null
