@@ -10497,6 +10497,7 @@ web/css/guides/fragmentation,null
 web/css/guides/gaps,null
 web/css/guides/gaps/defining_gaps,null
 web/css/guides/gaps/defining_rules,null
+web/css/guides/gaps/overview,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -10999,7 +11000,7 @@ web/css/reference/properties/font-weight,null
 web/css/reference/properties/font-width,null
 web/css/reference/properties/forced-color-adjust,6
 web/css/reference/properties/frame-sizing,null
-web/css/reference/properties/gap,12
+web/css/reference/properties/gap,13
 web/css/reference/properties/grid,null
 web/css/reference/properties/grid-area,null
 web/css/reference/properties/grid-auto-columns,null
@@ -11167,7 +11168,7 @@ web/css/reference/properties/reading-order,null
 web/css/reference/properties/resize,null
 web/css/reference/properties/right,null
 web/css/reference/properties/rotate,null
-web/css/reference/properties/row-gap,6
+web/css/reference/properties/row-gap,7
 web/css/reference/properties/row-rule,null
 web/css/reference/properties/row-rule-break,null
 web/css/reference/properties/row-rule-color,null

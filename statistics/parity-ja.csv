@@ -1543,7 +1543,7 @@ mozilla/add-ons/webextensions/api/runtime/onconnect,null
 mozilla/add-ons/webextensions/api/runtime/onconnectexternal,null
 mozilla/add-ons/webextensions/api/runtime/oninstalled,null
 mozilla/add-ons/webextensions/api/runtime/oninstalledreason,null
-mozilla/add-ons/webextensions/api/runtime/onmessage,0
+mozilla/add-ons/webextensions/api/runtime/onmessage,1
 mozilla/add-ons/webextensions/api/runtime/onmessageexternal,null
 mozilla/add-ons/webextensions/api/runtime/onperformancewarning,null
 mozilla/add-ons/webextensions/api/runtime/onperformancewarningcategory,null
@@ -1894,7 +1894,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,2
 mozilla/add-ons/webextensions/your_second_webextension,12
 mozilla/firefox,0
-mozilla/firefox/experimental_features,8
+mozilla/firefox/experimental_features,10
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -2249,7 +2249,7 @@ web/accessibility/aria/reference/roles/tabpanel_role,3
 web/accessibility/aria/reference/roles/term_role,3
 web/accessibility/aria/reference/roles/textbox_role,9
 web/accessibility/aria/reference/roles/timer_role,4
-web/accessibility/aria/reference/roles/toolbar_role,0
+web/accessibility/aria/reference/roles/toolbar_role,1
 web/accessibility/aria/reference/roles/tooltip_role,9
 web/accessibility/aria/reference/roles/tree_role,3
 web/accessibility/aria/reference/roles/treegrid_role,3
@@ -10494,9 +10494,10 @@ web/css/guides/fonts/opentype_fonts,3
 web/css/guides/fonts/variable_fonts,2
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
-web/css/guides/gaps,0
+web/css/guides/gaps,1
 web/css/guides/gaps/defining_gaps,0
-web/css/guides/gaps/defining_rules,0
+web/css/guides/gaps/defining_rules,1
+web/css/guides/gaps/overview,null
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,0
 web/css/guides/grid_layout/accessibility,0
@@ -10894,7 +10895,7 @@ web/css/reference/properties/color-interpolation-filters,0
 web/css/reference/properties/color-scheme,2
 web/css/reference/properties/column-count,2
 web/css/reference/properties/column-fill,1
-web/css/reference/properties/column-gap,0
+web/css/reference/properties/column-gap,1
 web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,0
 web/css/reference/properties/column-rule-break,3
@@ -10999,7 +11000,7 @@ web/css/reference/properties/font-weight,0
 web/css/reference/properties/font-width,1
 web/css/reference/properties/forced-color-adjust,4
 web/css/reference/properties/frame-sizing,0
-web/css/reference/properties/gap,0
+web/css/reference/properties/gap,1
 web/css/reference/properties/grid,3
 web/css/reference/properties/grid-area,2
 web/css/reference/properties/grid-auto-columns,2
@@ -11167,7 +11168,7 @@ web/css/reference/properties/reading-order,1
 web/css/reference/properties/resize,2
 web/css/reference/properties/right,1
 web/css/reference/properties/rotate,2
-web/css/reference/properties/row-gap,0
+web/css/reference/properties/row-gap,1
 web/css/reference/properties/row-rule,4
 web/css/reference/properties/row-rule-break,4
 web/css/reference/properties/row-rule-color,0
@@ -12863,7 +12864,7 @@ web/javascript/reference/global_objects/intl/segmenter/segment/segments/containi
 web/javascript/reference/global_objects/intl/segmenter/segment/segments/symbol.iterator,0
 web/javascript/reference/global_objects/intl/segmenter/segmenter,0
 web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
-web/javascript/reference/global_objects/intl/supportedvaluesof,1
+web/javascript/reference/global_objects/intl/supportedvaluesof,2
 web/javascript/reference/global_objects/isfinite,2
 web/javascript/reference/global_objects/isnan,2
 web/javascript/reference/global_objects/iterator,4
@@ -13765,7 +13766,7 @@ web/performance/guides/dns-prefetch,1
 web/performance/guides/fundamentals,3
 web/performance/guides/how_browsers_work,6
 web/performance/guides/how_long_is_too_long,0
-web/performance/guides/lazy_loading,0
+web/performance/guides/lazy_loading,1
 web/performance/guides/navigation_and_resource_timings,1
 web/performance/guides/optimizing_startup_performance,0
 web/performance/guides/performance_budgets,4
