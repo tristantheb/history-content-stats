@@ -1543,8 +1543,8 @@ mozilla/add-ons/webextensions/api/runtime/onconnect,0
 mozilla/add-ons/webextensions/api/runtime/onconnectexternal,0
 mozilla/add-ons/webextensions/api/runtime/oninstalled,0
 mozilla/add-ons/webextensions/api/runtime/oninstalledreason,0
-mozilla/add-ons/webextensions/api/runtime/onmessage,1
-mozilla/add-ons/webextensions/api/runtime/onmessageexternal,1
+mozilla/add-ons/webextensions/api/runtime/onmessage,0
+mozilla/add-ons/webextensions/api/runtime/onmessageexternal,0
 mozilla/add-ons/webextensions/api/runtime/onperformancewarning,0
 mozilla/add-ons/webextensions/api/runtime/onperformancewarningcategory,0
 mozilla/add-ons/webextensions/api/runtime/onperformancewarningseverity,0
@@ -1803,7 +1803,7 @@ mozilla/add-ons/webextensions/api/windows/window_id_current,0
 mozilla/add-ons/webextensions/api/windows/window_id_none,0
 mozilla/add-ons/webextensions/api/windows/windowstate,0
 mozilla/add-ons/webextensions/api/windows/windowtype,0
-mozilla/add-ons/webextensions/background_scripts,1
+mozilla/add-ons/webextensions/background_scripts,0
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,0
 mozilla/add-ons/webextensions/build_a_cross_browser_extension,0
 mozilla/add-ons/webextensions/chrome_incompatibilities,0
@@ -1894,7 +1894,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,2
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/158,0
 mozilla/firefox/releases/159,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/160,0
-mozilla/firefox/releases/161,2
+mozilla/firefox/releases/161,0
 mozilla/firefox/releases/162,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -2249,7 +2249,7 @@ web/accessibility/aria/reference/roles/tabpanel_role,0
 web/accessibility/aria/reference/roles/term_role,0
 web/accessibility/aria/reference/roles/textbox_role,0
 web/accessibility/aria/reference/roles/timer_role,0
-web/accessibility/aria/reference/roles/toolbar_role,1
+web/accessibility/aria/reference/roles/toolbar_role,0
 web/accessibility/aria/reference/roles/tooltip_role,0
 web/accessibility/aria/reference/roles/tree_role,0
 web/accessibility/aria/reference/roles/treegrid_role,0
@@ -10494,10 +10494,10 @@ web/css/guides/fonts/opentype_fonts,0
 web/css/guides/fonts/variable_fonts,0
 web/css/guides/fonts/woff,0
 web/css/guides/fragmentation,0
-web/css/guides/gaps,1
+web/css/guides/gaps,0
 web/css/guides/gaps/defining_gaps,0
-web/css/guides/gaps/defining_rules,1
-web/css/guides/gaps/overview,null
+web/css/guides/gaps/defining_rules,0
+web/css/guides/gaps/overview,0
 web/css/guides/generated_content,0
 web/css/guides/grid_layout,0
 web/css/guides/grid_layout/accessibility,0
@@ -10895,7 +10895,7 @@ web/css/reference/properties/color-interpolation-filters,0
 web/css/reference/properties/color-scheme,0
 web/css/reference/properties/column-count,0
 web/css/reference/properties/column-fill,0
-web/css/reference/properties/column-gap,1
+web/css/reference/properties/column-gap,0
 web/css/reference/properties/column-height,0
 web/css/reference/properties/column-rule,0
 web/css/reference/properties/column-rule-break,0
@@ -11000,7 +11000,7 @@ web/css/reference/properties/font-weight,0
 web/css/reference/properties/font-width,0
 web/css/reference/properties/forced-color-adjust,0
 web/css/reference/properties/frame-sizing,0
-web/css/reference/properties/gap,1
+web/css/reference/properties/gap,0
 web/css/reference/properties/grid,0
 web/css/reference/properties/grid-area,0
 web/css/reference/properties/grid-auto-columns,0
@@ -11168,7 +11168,7 @@ web/css/reference/properties/reading-order,0
 web/css/reference/properties/resize,0
 web/css/reference/properties/right,0
 web/css/reference/properties/rotate,0
-web/css/reference/properties/row-gap,1
+web/css/reference/properties/row-gap,0
 web/css/reference/properties/row-rule,0
 web/css/reference/properties/row-rule-break,0
 web/css/reference/properties/row-rule-color,0
@@ -11176,8 +11176,8 @@ web/css/reference/properties/row-rule-inset-cap,0
 web/css/reference/properties/row-rule-inset-cap-end,0
 web/css/reference/properties/row-rule-inset-cap-start,0
 web/css/reference/properties/row-rule-inset-junction,0
-web/css/reference/properties/row-rule-inset-junction-end,1
-web/css/reference/properties/row-rule-inset-junction-start,1
+web/css/reference/properties/row-rule-inset-junction-end,0
+web/css/reference/properties/row-rule-inset-junction-start,0
 web/css/reference/properties/row-rule-style,0
 web/css/reference/properties/row-rule-visibility-items,0
 web/css/reference/properties/row-rule-width,0
@@ -12864,7 +12864,7 @@ web/javascript/reference/global_objects/intl/segmenter/segment/segments/containi
 web/javascript/reference/global_objects/intl/segmenter/segment/segments/symbol.iterator,0
 web/javascript/reference/global_objects/intl/segmenter/segmenter,0
 web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
-web/javascript/reference/global_objects/intl/supportedvaluesof,1
+web/javascript/reference/global_objects/intl/supportedvaluesof,0
 web/javascript/reference/global_objects/isfinite,0
 web/javascript/reference/global_objects/isnan,0
 web/javascript/reference/global_objects/iterator,0
@@ -13766,7 +13766,7 @@ web/performance/guides/dns-prefetch,0
 web/performance/guides/fundamentals,0
 web/performance/guides/how_browsers_work,0
 web/performance/guides/how_long_is_too_long,0
-web/performance/guides/lazy_loading,1
+web/performance/guides/lazy_loading,0
 web/performance/guides/navigation_and_resource_timings,0
 web/performance/guides/optimizing_startup_performance,0
 web/performance/guides/performance_budgets,0
