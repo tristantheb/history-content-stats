@@ -2107,7 +2107,7 @@ web/accessibility,0
 web/accessibility/aria,0
 web/accessibility/aria/guides,0
 web/accessibility/aria/guides/live_regions,0
-web/accessibility/aria/guides/multipart_labels,0
+web/accessibility/aria/guides/multipart_labels,1
 web/accessibility/aria/guides/screen_reader_implementors,0
 web/accessibility/aria/guides/techniques,0
 web/accessibility/aria/reference,0
@@ -2193,7 +2193,7 @@ web/accessibility/aria/reference/roles/graphics-document_role,0
 web/accessibility/aria/reference/roles/graphics-object_role,0
 web/accessibility/aria/reference/roles/graphics-symbol_role,0
 web/accessibility/aria/reference/roles/grid_role,0
-web/accessibility/aria/reference/roles/gridcell_role,0
+web/accessibility/aria/reference/roles/gridcell_role,1
 web/accessibility/aria/reference/roles/group_role,0
 web/accessibility/aria/reference/roles/heading_role,0
 web/accessibility/aria/reference/roles/img_role,0
@@ -2352,7 +2352,7 @@ web/api/animation/updateplaybackrate,0
 web/api/animationeffect,0
 web/api/animationeffect/getcomputedtiming,0
 web/api/animationeffect/gettiming,0
-web/api/animationeffect/updatetiming,0
+web/api/animationeffect/updatetiming,1
 web/api/animationevent,0
 web/api/animationevent/animation,0
 web/api/animationevent/animationevent,0
@@ -2806,7 +2806,7 @@ web/api/canvasrenderingcontext2d/globalalpha,0
 web/api/canvasrenderingcontext2d/globalcompositeoperation,0
 web/api/canvasrenderingcontext2d/imagesmoothingenabled,0
 web/api/canvasrenderingcontext2d/imagesmoothingquality,0
-web/api/canvasrenderingcontext2d/iscontextlost,0
+web/api/canvasrenderingcontext2d/iscontextlost,1
 web/api/canvasrenderingcontext2d/ispointinpath,0
 web/api/canvasrenderingcontext2d/ispointinstroke,0
 web/api/canvasrenderingcontext2d/lang,0
@@ -4046,7 +4046,7 @@ web/api/elementinternals/ariaactivedescendantelement,0
 web/api/elementinternals/ariaatomic,0
 web/api/elementinternals/ariaautocomplete,0
 web/api/elementinternals/ariabraillelabel,0
-web/api/elementinternals/ariabrailleroledescription,0
+web/api/elementinternals/ariabrailleroledescription,1
 web/api/elementinternals/ariabusy,0
 web/api/elementinternals/ariachecked,0
 web/api/elementinternals/ariacolcount,0
@@ -4843,7 +4843,7 @@ web/api/htmlbuttonelement/labels,0
 web/api/htmlbuttonelement/name,0
 web/api/htmlbuttonelement/popovertargetaction,0
 web/api/htmlbuttonelement/popovertargetelement,0
-web/api/htmlbuttonelement/reportvalidity,0
+web/api/htmlbuttonelement/reportvalidity,1
 web/api/htmlbuttonelement/setcustomvalidity,0
 web/api/htmlbuttonelement/type,0
 web/api/htmlbuttonelement/validationmessage,0
@@ -5003,7 +5003,7 @@ web/api/htmlframesetelement,0
 web/api/htmlgeolocationelement,0
 web/api/htmlgeolocationelement/autolocate,0
 web/api/htmlgeolocationelement/error,0
-web/api/htmlgeolocationelement/htmlgeolocationelement,0
+web/api/htmlgeolocationelement/htmlgeolocationelement,1
 web/api/htmlgeolocationelement/initialpermissionstatus,0
 web/api/htmlgeolocationelement/invalidreason,0
 web/api/htmlgeolocationelement/isvalid,0
@@ -5958,7 +5958,7 @@ web/api/mediakeysession/remove,0
 web/api/mediakeysession/sessionid,0
 web/api/mediakeysession/update,0
 web/api/mediakeystatusmap,0
-web/api/mediakeystatusmap/entries,0
+web/api/mediakeystatusmap/entries,1
 web/api/mediakeystatusmap/foreach,0
 web/api/mediakeystatusmap/get,0
 web/api/mediakeystatusmap/has,0
@@ -6969,7 +6969,7 @@ web/api/preferencemanager/reducedtransparency,0
 web/api/preferenceobject,0
 web/api/preferenceobject/change_event,0
 web/api/preferenceobject/clearoverride,0
-web/api/preferenceobject/override,0
+web/api/preferenceobject/override,1
 web/api/preferenceobject/requestoverride,0
 web/api/preferenceobject/validvalues,0
 web/api/preferenceobject/value,0
@@ -8229,7 +8229,7 @@ web/api/svganimatedangle/baseval,0
 web/api/svganimatedboolean,0
 web/api/svganimatedboolean/animval,0
 web/api/svganimatedboolean/baseval,0
-web/api/svganimatedenumeration,0
+web/api/svganimatedenumeration,1
 web/api/svganimatedenumeration/animval,0
 web/api/svganimatedenumeration/baseval,0
 web/api/svganimatedinteger,0
@@ -8612,8 +8612,8 @@ web/api/svgnumberlist/replaceitem,0
 web/api/svgpathelement,0
 web/api/svgpathelement/getpathdata,0
 web/api/svgpathelement/getpathsegmentatlength,0
-web/api/svgpathelement/getpointatlength,0
-web/api/svgpathelement/gettotallength,0
+web/api/svgpathelement/getpointatlength,1
+web/api/svgpathelement/gettotallength,1
 web/api/svgpathelement/pathlength,0
 web/api/svgpathelement/setpathdata,0
 web/api/svgpatternelement,0
@@ -9033,7 +9033,7 @@ web/api/url/search,0
 web/api/url/searchparams,0
 web/api/url/tojson,0
 web/api/url/tostring,0
-web/api/url/url,0
+web/api/url/url,1
 web/api/url/username,0
 web/api/url_api,0
 web/api/url_api/resolving_relative_references,0
@@ -9496,7 +9496,7 @@ web/api/webgl_api/constants,0
 web/api/webgl_api/data,0
 web/api/webgl_api/matrix_math_for_the_web,0
 web/api/webgl_api/tutorial,0
-web/api/webgl_api/tutorial/adding_2d_content_to_a_webgl_context,0
+web/api/webgl_api/tutorial/adding_2d_content_to_a_webgl_context,1
 web/api/webgl_api/tutorial/animating_objects_with_webgl,0
 web/api/webgl_api/tutorial/animating_textures_in_webgl,0
 web/api/webgl_api/tutorial/creating_3d_objects_using_webgl,0
@@ -11311,7 +11311,7 @@ web/css/reference/properties/user-modify,0
 web/css/reference/properties/user-select,0
 web/css/reference/properties/vector-effect,0
 web/css/reference/properties/vertical-align,0
-web/css/reference/properties/view-timeline,0
+web/css/reference/properties/view-timeline,1
 web/css/reference/properties/view-timeline-axis,0
 web/css/reference/properties/view-timeline-inset,0
 web/css/reference/properties/view-timeline-name,0
@@ -11959,7 +11959,7 @@ web/http/guides/conditional_requests,0
 web/http/guides/connection_management_in_http_1.x,0
 web/http/guides/content_negotiation,0
 web/http/guides/content_negotiation/list_of_default_accept_values,0
-web/http/guides/cookies,0
+web/http/guides/cookies,1
 web/http/guides/cors,0
 web/http/guides/cors/errors,0
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,0
@@ -14408,8 +14408,8 @@ web/xml/xpath/reference/functions/starts-with,0
 web/xml/xpath/reference/functions/string,0
 web/xml/xpath/reference/functions/string-length,0
 web/xml/xpath/reference/functions/substring,0
-web/xml/xpath/reference/functions/substring-after,0
-web/xml/xpath/reference/functions/substring-before,0
+web/xml/xpath/reference/functions/substring-after,1
+web/xml/xpath/reference/functions/substring-before,1
 web/xml/xpath/reference/functions/sum,0
 web/xml/xpath/reference/functions/system-property,0
 web/xml/xpath/reference/functions/translate,0

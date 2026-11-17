@@ -2107,7 +2107,7 @@ web/accessibility,0
 web/accessibility/aria,0
 web/accessibility/aria/guides,0
 web/accessibility/aria/guides/live_regions,0
-web/accessibility/aria/guides/multipart_labels,0
+web/accessibility/aria/guides/multipart_labels,1
 web/accessibility/aria/guides/screen_reader_implementors,0
 web/accessibility/aria/guides/techniques,0
 web/accessibility/aria/reference,0
@@ -2193,7 +2193,7 @@ web/accessibility/aria/reference/roles/graphics-document_role,null
 web/accessibility/aria/reference/roles/graphics-object_role,null
 web/accessibility/aria/reference/roles/graphics-symbol_role,null
 web/accessibility/aria/reference/roles/grid_role,0
-web/accessibility/aria/reference/roles/gridcell_role,0
+web/accessibility/aria/reference/roles/gridcell_role,1
 web/accessibility/aria/reference/roles/group_role,2
 web/accessibility/aria/reference/roles/heading_role,0
 web/accessibility/aria/reference/roles/img_role,1
@@ -4843,7 +4843,7 @@ web/api/htmlbuttonelement/labels,0
 web/api/htmlbuttonelement/name,0
 web/api/htmlbuttonelement/popovertargetaction,0
 web/api/htmlbuttonelement/popovertargetelement,0
-web/api/htmlbuttonelement/reportvalidity,3
+web/api/htmlbuttonelement/reportvalidity,4
 web/api/htmlbuttonelement/setcustomvalidity,1
 web/api/htmlbuttonelement/type,0
 web/api/htmlbuttonelement/validationmessage,0
@@ -5003,7 +5003,7 @@ web/api/htmlframesetelement,0
 web/api/htmlgeolocationelement,1
 web/api/htmlgeolocationelement/autolocate,0
 web/api/htmlgeolocationelement/error,0
-web/api/htmlgeolocationelement/htmlgeolocationelement,0
+web/api/htmlgeolocationelement/htmlgeolocationelement,1
 web/api/htmlgeolocationelement/initialpermissionstatus,1
 web/api/htmlgeolocationelement/invalidreason,0
 web/api/htmlgeolocationelement/isvalid,0
@@ -11311,7 +11311,7 @@ web/css/reference/properties/user-modify,0
 web/css/reference/properties/user-select,0
 web/css/reference/properties/vector-effect,1
 web/css/reference/properties/vertical-align,0
-web/css/reference/properties/view-timeline,0
+web/css/reference/properties/view-timeline,1
 web/css/reference/properties/view-timeline-axis,0
 web/css/reference/properties/view-timeline-inset,0
 web/css/reference/properties/view-timeline-name,0
@@ -11959,7 +11959,7 @@ web/http/guides/conditional_requests,0
 web/http/guides/connection_management_in_http_1.x,0
 web/http/guides/content_negotiation,0
 web/http/guides/content_negotiation/list_of_default_accept_values,0
-web/http/guides/cookies,0
+web/http/guides/cookies,1
 web/http/guides/cors,1
 web/http/guides/cors/errors,0
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,0

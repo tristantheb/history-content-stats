@@ -2107,7 +2107,7 @@ web/accessibility,04158640487c17d515de8078c9307a2f906377d0,Accessibility
 web/accessibility/aria,cab1109a0c225299a9fb2b3402bcd4a1931b8ab7,Accessibility|ARIA
 web/accessibility/aria/guides,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Accessibility|ARIA|Guides
 web/accessibility/aria/guides/live_regions,f5ea8950d5cc7bc42691e0bb8a3e634160814bac,Accessibility|ARIA|Guides
-web/accessibility/aria/guides/multipart_labels,65692fd4d256d5647749b7c7005dcf53d425a533,Accessibility|ARIA|Guides
+web/accessibility/aria/guides/multipart_labels,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Accessibility|ARIA|Guides
 web/accessibility/aria/guides/screen_reader_implementors,702cd9e4d2834e13aea345943efc8d0c03d92ec9,Accessibility|ARIA|Guides
 web/accessibility/aria/guides/techniques,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Accessibility|ARIA|Guides
 web/accessibility/aria/reference,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Accessibility|ARIA
@@ -2193,7 +2193,7 @@ web/accessibility/aria/reference/roles/graphics-document_role,370f1912b54d24bd7d
 web/accessibility/aria/reference/roles/graphics-object_role,370f1912b54d24bd7da541f8f2dd98c26d377121,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/graphics-symbol_role,370f1912b54d24bd7da541f8f2dd98c26d377121,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/grid_role,96758f3d8ce1e5fbd9d58053bdef103eec1de108,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/gridcell_role,96758f3d8ce1e5fbd9d58053bdef103eec1de108,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/gridcell_role,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/group_role,05c1aed375bab88f322b15319e45fb326e4a341c,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/heading_role,4550055f1afc5fb084d33f6e5a7910b7066e20c7,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/img_role,370f1912b54d24bd7da541f8f2dd98c26d377121,Accessibility|ARIA|Roles
@@ -2352,7 +2352,7 @@ web/api/animation/updateplaybackrate,0a881eea07f0cec6ca4ed85a24af43b367a9f80d,We
 web/api/animationeffect,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/animationeffect/getcomputedtiming,3f149768ce7981a70761db588fa792aea6f1afa2,Web APIs
 web/api/animationeffect/gettiming,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/animationeffect/updatetiming,135b8311a5e3d12789e8421845be3ce026ef72b8,Web APIs
+web/api/animationeffect/updatetiming,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Web APIs
 web/api/animationevent,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/animationevent/animation,513146a616213fee548fdcf72dc1359030eb3395,Web APIs
 web/api/animationevent/animationevent,abe2e9c88f9962da6a58f7ee4ad16e35a351b03e,Web APIs
@@ -2806,7 +2806,7 @@ web/api/canvasrenderingcontext2d/globalalpha,6f1b699dd8891431bbfe0bc3bb803f929fa
 web/api/canvasrenderingcontext2d/globalcompositeoperation,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
 web/api/canvasrenderingcontext2d/imagesmoothingenabled,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/canvasrenderingcontext2d/imagesmoothingquality,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
-web/api/canvasrenderingcontext2d/iscontextlost,77ea71add6054857698eb7ac1bfec8c7afe9ad4f,Web APIs
+web/api/canvasrenderingcontext2d/iscontextlost,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Web APIs
 web/api/canvasrenderingcontext2d/ispointinpath,754b68246f4e69e404309fee4a1699e047e43994,Web APIs
 web/api/canvasrenderingcontext2d/ispointinstroke,754b68246f4e69e404309fee4a1699e047e43994,Web APIs
 web/api/canvasrenderingcontext2d/lang,7cabe7010a0ccfcf587ddac1571963eba102090d,Web APIs
@@ -4046,7 +4046,7 @@ web/api/elementinternals/ariaactivedescendantelement,a4fcf79b60471db6f148fa4ba36
 web/api/elementinternals/ariaatomic,f65f7f6e4fda2cb1bd0e7db17777e2cb20be7d27,Web APIs
 web/api/elementinternals/ariaautocomplete,c1a15955a64fe6afa4a6226cbc034d994349afea,Web APIs
 web/api/elementinternals/ariabraillelabel,759102220c07fb140b3e06971cd5981d8f0f134f,Web APIs
-web/api/elementinternals/ariabrailleroledescription,7cabe7010a0ccfcf587ddac1571963eba102090d,Web APIs
+web/api/elementinternals/ariabrailleroledescription,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Web APIs
 web/api/elementinternals/ariabusy,c1a15955a64fe6afa4a6226cbc034d994349afea,Web APIs
 web/api/elementinternals/ariachecked,c1a15955a64fe6afa4a6226cbc034d994349afea,Web APIs
 web/api/elementinternals/ariacolcount,c1a15955a64fe6afa4a6226cbc034d994349afea,Web APIs
@@ -4843,7 +4843,7 @@ web/api/htmlbuttonelement/labels,116577234db1d6275c74a8bb879fce54d944f4ed,Web AP
 web/api/htmlbuttonelement/name,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlbuttonelement/popovertargetaction,847f754b374ed8928a270ab17672a1675802776f,Web APIs
 web/api/htmlbuttonelement/popovertargetelement,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
-web/api/htmlbuttonelement/reportvalidity,7cabe7010a0ccfcf587ddac1571963eba102090d,Web APIs
+web/api/htmlbuttonelement/reportvalidity,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Web APIs
 web/api/htmlbuttonelement/setcustomvalidity,77255c9651ee56d559b577c74cec1c3f4178d2bf,Web APIs
 web/api/htmlbuttonelement/type,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
 web/api/htmlbuttonelement/validationmessage,e9b6cd1b7fa8612257b72b2a85a96dd7d45c0200,Web APIs
@@ -5003,7 +5003,7 @@ web/api/htmlframesetelement,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/htmlgeolocationelement,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/htmlgeolocationelement/autolocate,3712f845b54b2754b2b550c7d7dca18f0277c0ad,Web APIs
 web/api/htmlgeolocationelement/error,3712f845b54b2754b2b550c7d7dca18f0277c0ad,Web APIs
-web/api/htmlgeolocationelement/htmlgeolocationelement,483ce811e1ea52cb2d9d2a5af0c4d1c4d591ea4a,Web APIs
+web/api/htmlgeolocationelement/htmlgeolocationelement,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Web APIs
 web/api/htmlgeolocationelement/initialpermissionstatus,76c2e04d720aa8260ba7d75788ed96776aac35c6,Web APIs
 web/api/htmlgeolocationelement/invalidreason,3712f845b54b2754b2b550c7d7dca18f0277c0ad,Web APIs
 web/api/htmlgeolocationelement/isvalid,3712f845b54b2754b2b550c7d7dca18f0277c0ad,Web APIs
@@ -5958,7 +5958,7 @@ web/api/mediakeysession/remove,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f,Web APIs
 web/api/mediakeysession/sessionid,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f,Web APIs
 web/api/mediakeysession/update,bc7e82aa6db60568d7146ee285918550bbe4b8ce,Web APIs
 web/api/mediakeystatusmap,06a96ca44a86fef907996bb01ecf72cc0f1a36d0,Web APIs
-web/api/mediakeystatusmap/entries,d666d5ed812b56cbc9c6cba853494976da1f1dd2,Web APIs
+web/api/mediakeystatusmap/entries,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Web APIs
 web/api/mediakeystatusmap/foreach,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/mediakeystatusmap/get,b01f35e069ca9d1c343f24b5d755d210c6107164,Web APIs
 web/api/mediakeystatusmap/has,ba9a6bebd0e7bf1dd6b5c4eed156d8f1748ade0f,Web APIs
@@ -6969,7 +6969,7 @@ web/api/preferencemanager/reducedtransparency,09d8ff096be97b28ea415fc4c68fb1cff0
 web/api/preferenceobject,cef391e51005fcc0716545cc6629e5f6d6223225,Web APIs
 web/api/preferenceobject/change_event,60898650ee472d10cc15cb91c982fede0d0c5e34,Web APIs
 web/api/preferenceobject/clearoverride,46a755ea71206e4512e3639596e6f68f4e71f041,Web APIs
-web/api/preferenceobject/override,5351b03470685486d841a3340c6971351058194f,Web APIs
+web/api/preferenceobject/override,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Web APIs
 web/api/preferenceobject/requestoverride,e5a63f8d002dcac9654be79bd03bfda262dd4d89,Web APIs
 web/api/preferenceobject/validvalues,ac0fef0566bfd672c44644a95240b8e1407277bd,Web APIs
 web/api/preferenceobject/value,ac0fef0566bfd672c44644a95240b8e1407277bd,Web APIs
@@ -8229,7 +8229,7 @@ web/api/svganimatedangle/baseval,2e39a37874913a1e3fd82999467505fd525e9177,Web AP
 web/api/svganimatedboolean,2e39a37874913a1e3fd82999467505fd525e9177,Web APIs
 web/api/svganimatedboolean/animval,c2fd97474834e061404b992c8397d4ccc4439a71,Web APIs
 web/api/svganimatedboolean/baseval,c2fd97474834e061404b992c8397d4ccc4439a71,Web APIs
-web/api/svganimatedenumeration,afcdfa050626bb7eb05ee693df8997020db9ff2e,Web APIs
+web/api/svganimatedenumeration,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Web APIs
 web/api/svganimatedenumeration/animval,7f138099644a02640a903b2abc39e685ca8ca7cd,Web APIs
 web/api/svganimatedenumeration/baseval,3a839eeed13a60d34db1d39a5ce1594050d56ab0,Web APIs
 web/api/svganimatedinteger,2e39a37874913a1e3fd82999467505fd525e9177,Web APIs
@@ -8612,8 +8612,8 @@ web/api/svgnumberlist/replaceitem,a09559075d5ae20021937aa135326f7b91ebefaf,Web A
 web/api/svgpathelement,44a5fa2aace490e0114349d9d683675b2f5cacce,Web APIs
 web/api/svgpathelement/getpathdata,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/svgpathelement/getpathsegmentatlength,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
-web/api/svgpathelement/getpointatlength,7cabe7010a0ccfcf587ddac1571963eba102090d,Web APIs
-web/api/svgpathelement/gettotallength,ea24a70e5c5e3b474d683e9b0dcb8807aaba82f3,Web APIs
+web/api/svgpathelement/getpointatlength,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Web APIs
+web/api/svgpathelement/gettotallength,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Web APIs
 web/api/svgpathelement/pathlength,ea24a70e5c5e3b474d683e9b0dcb8807aaba82f3,Web APIs
 web/api/svgpathelement/setpathdata,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/svgpatternelement,44ace0bbd59cf14fb0b215eaa91a9a52bbb5e6b6,Web APIs
@@ -9033,7 +9033,7 @@ web/api/url/search,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
 web/api/url/searchparams,1eabc08d295e60d7d8eab6bce858d2fb0833be2b,Web APIs
 web/api/url/tojson,15d531b54c7f0d96ac80ef00b494fd40743d59ce,Web APIs
 web/api/url/tostring,06a96ca44a86fef907996bb01ecf72cc0f1a36d0,Web APIs
-web/api/url/url,d21c47d7be2d695e8f3b3fb6f9690f3b5c929dbc,Web APIs
+web/api/url/url,ff6ea228e06e7dcb616b848ae04f0469d67529f7,Web APIs
 web/api/url/username,8cc63f7e6619446ea38f6a38c457a597a9af564b,Web APIs
 web/api/url_api,11c356e4d1021b204c0d3e4bc41a571877215367,Web APIs
 web/api/url_api/resolving_relative_references,216794e76611c18e53222bb8efa570e898e990de,Web APIs
@@ -9496,7 +9496,7 @@ web/api/webgl_api/constants,de12ce0f1fd85781d0d1045aeae85750ae6dc78a,Web APIs
 web/api/webgl_api/data,3cbd2b2b2eb0be9425949c20ca5d398645f7c0e9,Web APIs
 web/api/webgl_api/matrix_math_for_the_web,99462a3bd6493a9ca53947b2ae2761003fd5d49f,Web APIs
 web/api/webgl_api/tutorial,621c7978886787ca66bc5e90e457cf1466e58d35,Web APIs
-web/api/webgl_api/tutorial/adding_2d_content_to_a_webgl_context,ec7b3262bcd4a03a09bab0c57e3de4b51d4de4f8,Web APIs
+web/api/webgl_api/tutorial/adding_2d_content_to_a_webgl_context,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,Web APIs
 web/api/webgl_api/tutorial/animating_objects_with_webgl,cc41ecd796870c2b6c77ad0b04fcb8d8c7d877d2,Web APIs
 web/api/webgl_api/tutorial/animating_textures_in_webgl,f71683f74da0078d9371c4d0c1ff9d3898fc7b59,Web APIs
 web/api/webgl_api/tutorial/creating_3d_objects_using_webgl,b5437b737639d6952d18b95ebd1045ed73e4bfa7,Web APIs
@@ -11311,7 +11311,7 @@ web/css/reference/properties/user-modify,ca6052779ddca9f6d99665f12c39aa2d85d8573
 web/css/reference/properties/user-select,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/vector-effect,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/vertical-align,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
-web/css/reference/properties/view-timeline,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
+web/css/reference/properties/view-timeline,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,CSS|Properties
 web/css/reference/properties/view-timeline-axis,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/view-timeline-inset,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/view-timeline-name,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
@@ -11959,7 +11959,7 @@ web/http/guides/conditional_requests,56f3d7018159127dbe92842413fb45d0aa7e8193,HT
 web/http/guides/connection_management_in_http_1.x,f0311fa176576faf8be270e23eaf25b725740d87,HTTP|Guides
 web/http/guides/content_negotiation,013f3148c4e85038bd961c984e357da703d315e3,HTTP|Guides
 web/http/guides/content_negotiation/list_of_default_accept_values,7b642841e72ef94e8723f26892000383513b550d,HTTP|Guides
-web/http/guides/cookies,13ef67a4ffbdb929415dfa1b3d65ab1aa9ebe5da,HTTP|Guides
+web/http/guides/cookies,0a0fab4b331a0bbe414933e9ca71568e5ff1dffa,HTTP|Guides
 web/http/guides/cors,210eb1d964922bbae94774dc6676ce92056e0423,HTTP|Guides
 web/http/guides/cors/errors,a8b5a77bb154e0c3a124fb4af441d11e4259836e,HTTP|Guides
 web/http/guides/cors/errors/corsalloworiginnotmatchingorigin,ad5b5e31f81795d692e66dadb7818ba8b220ad15,HTTP|Guides
@@ -14408,8 +14408,8 @@ web/xml/xpath/reference/functions/starts-with,636b90011532e3fd2cf9333aaf1754fdc8
 web/xml/xpath/reference/functions/string,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,XML|XPath|Functions
 web/xml/xpath/reference/functions/string-length,636b90011532e3fd2cf9333aaf1754fdc8de7938,XML|XPath|Functions
 web/xml/xpath/reference/functions/substring,636b90011532e3fd2cf9333aaf1754fdc8de7938,XML|XPath|Functions
-web/xml/xpath/reference/functions/substring-after,636b90011532e3fd2cf9333aaf1754fdc8de7938,XML|XPath|Functions
-web/xml/xpath/reference/functions/substring-before,636b90011532e3fd2cf9333aaf1754fdc8de7938,XML|XPath|Functions
+web/xml/xpath/reference/functions/substring-after,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,XML|XPath|Functions
+web/xml/xpath/reference/functions/substring-before,7d55f113b5a05afe6ada6bb9b76bd3b0458f077d,XML|XPath|Functions
 web/xml/xpath/reference/functions/sum,636b90011532e3fd2cf9333aaf1754fdc8de7938,XML|XPath|Functions
 web/xml/xpath/reference/functions/system-property,636b90011532e3fd2cf9333aaf1754fdc8de7938,XML|XPath|Functions
 web/xml/xpath/reference/functions/translate,9cf4a4a7b55770b266b9f2b72283eab1a5e42de5,XML|XPath|Functions
