@@ -12818,6 +12818,7 @@ web/javascript/reference/global_objects/intl/locale/basename,null
 web/javascript/reference/global_objects/intl/locale/calendar,null
 web/javascript/reference/global_objects/intl/locale/casefirst,null
 web/javascript/reference/global_objects/intl/locale/collation,null
+web/javascript/reference/global_objects/intl/locale/firstdayofweek,null
 web/javascript/reference/global_objects/intl/locale/getcalendars,null
 web/javascript/reference/global_objects/intl/locale/getcollations,null
 web/javascript/reference/global_objects/intl/locale/gethourcycles,null
@@ -13207,7 +13208,7 @@ web/javascript/reference/global_objects/symbol/symbol,17
 web/javascript/reference/global_objects/symbol/symbol.toprimitive,3
 web/javascript/reference/global_objects/symbol/toprimitive,18
 web/javascript/reference/global_objects/symbol/tostring,13
-web/javascript/reference/global_objects/symbol/tostringtag,16
+web/javascript/reference/global_objects/symbol/tostringtag,17
 web/javascript/reference/global_objects/symbol/unscopables,21
 web/javascript/reference/global_objects/symbol/valueof,11
 web/javascript/reference/global_objects/syntaxerror,null
