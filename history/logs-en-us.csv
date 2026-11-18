@@ -9700,7 +9700,7 @@ web/api/webrtc_api/using_encoded_transforms,f336c5b6795a562c64fe859aa9ee2becf223
 web/api/websocket,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
 web/api/websocket/binarytype,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
 web/api/websocket/bufferedamount,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
-web/api/websocket/close,87ca9db1ebe56eb20c1f20b91fca43955d8f0e26,Web APIs
+web/api/websocket/close,54ef250ba91a42a7755b7dbd3fd6420c128b7d53,Web APIs
 web/api/websocket/close_event,92c5e81c587ffea6177431743106118984f1675d,Web APIs
 web/api/websocket/error_event,d4f95d5a32920324e2502a556d8bdd9d7f446718,Web APIs
 web/api/websocket/extensions,fb311d7305937497570966f015d8cc0eb1a0c29c,Web APIs
