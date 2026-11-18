@@ -9700,7 +9700,7 @@ web/api/webrtc_api/using_encoded_transforms,7
 web/api/websocket,0
 web/api/websocket/binarytype,0
 web/api/websocket/bufferedamount,0
-web/api/websocket/close,0
+web/api/websocket/close,1
 web/api/websocket/close_event,null
 web/api/websocket/error_event,null
 web/api/websocket/extensions,0
