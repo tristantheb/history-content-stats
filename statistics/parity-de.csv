@@ -11920,7 +11920,7 @@ web/html/reference/global_attributes/containertiming,0
 web/html/reference/global_attributes/containertimingignore,0
 web/html/reference/global_attributes/contenteditable,0
 web/html/reference/global_attributes/data-_star_,0
-web/html/reference/global_attributes/dir,0
+web/html/reference/global_attributes/dir,1
 web/html/reference/global_attributes/draggable,0
 web/html/reference/global_attributes/enterkeyhint,0
 web/html/reference/global_attributes/exportparts,0
@@ -12818,6 +12818,7 @@ web/javascript/reference/global_objects/intl/locale/basename,0
 web/javascript/reference/global_objects/intl/locale/calendar,0
 web/javascript/reference/global_objects/intl/locale/casefirst,0
 web/javascript/reference/global_objects/intl/locale/collation,0
+web/javascript/reference/global_objects/intl/locale/firstdayofweek,0
 web/javascript/reference/global_objects/intl/locale/getcalendars,0
 web/javascript/reference/global_objects/intl/locale/getcollations,0
 web/javascript/reference/global_objects/intl/locale/gethourcycles,0

@@ -12818,6 +12818,7 @@ web/javascript/reference/global_objects/intl/locale/basename,null
 web/javascript/reference/global_objects/intl/locale/calendar,null
 web/javascript/reference/global_objects/intl/locale/casefirst,null
 web/javascript/reference/global_objects/intl/locale/collation,null
+web/javascript/reference/global_objects/intl/locale/firstdayofweek,null
 web/javascript/reference/global_objects/intl/locale/getcalendars,null
 web/javascript/reference/global_objects/intl/locale/getcollations,null
 web/javascript/reference/global_objects/intl/locale/gethourcycles,null

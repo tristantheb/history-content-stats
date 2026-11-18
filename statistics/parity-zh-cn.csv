@@ -11920,7 +11920,7 @@ web/html/reference/global_attributes/containertiming,null
 web/html/reference/global_attributes/containertimingignore,null
 web/html/reference/global_attributes/contenteditable,null
 web/html/reference/global_attributes/data-_star_,13
-web/html/reference/global_attributes/dir,2
+web/html/reference/global_attributes/dir,3
 web/html/reference/global_attributes/draggable,null
 web/html/reference/global_attributes/enterkeyhint,5
 web/html/reference/global_attributes/exportparts,4
@@ -12818,6 +12818,7 @@ web/javascript/reference/global_objects/intl/locale/basename,null
 web/javascript/reference/global_objects/intl/locale/calendar,null
 web/javascript/reference/global_objects/intl/locale/casefirst,null
 web/javascript/reference/global_objects/intl/locale/collation,null
+web/javascript/reference/global_objects/intl/locale/firstdayofweek,null
 web/javascript/reference/global_objects/intl/locale/getcalendars,null
 web/javascript/reference/global_objects/intl/locale/getcollations,null
 web/javascript/reference/global_objects/intl/locale/gethourcycles,null
@@ -12857,7 +12858,7 @@ web/javascript/reference/global_objects/intl/relativetimeformat/relativetimeform
 web/javascript/reference/global_objects/intl/relativetimeformat/resolvedoptions,null
 web/javascript/reference/global_objects/intl/relativetimeformat/supportedlocalesof,null
 web/javascript/reference/global_objects/intl/segmenter,0
-web/javascript/reference/global_objects/intl/segmenter/resolvedoptions,0
+web/javascript/reference/global_objects/intl/segmenter/resolvedoptions,1
 web/javascript/reference/global_objects/intl/segmenter/segment,0
 web/javascript/reference/global_objects/intl/segmenter/segment/segments,0
 web/javascript/reference/global_objects/intl/segmenter/segment/segments/containing,0
@@ -12867,7 +12868,7 @@ web/javascript/reference/global_objects/intl/segmenter/supportedlocalesof,0
 web/javascript/reference/global_objects/intl/supportedvaluesof,null
 web/javascript/reference/global_objects/isfinite,null
 web/javascript/reference/global_objects/isnan,8
-web/javascript/reference/global_objects/iterator,27
+web/javascript/reference/global_objects/iterator,28
 web/javascript/reference/global_objects/iterator/chunks,null
 web/javascript/reference/global_objects/iterator/concat,null
 web/javascript/reference/global_objects/iterator/drop,6
