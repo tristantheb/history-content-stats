@@ -12531,9 +12531,9 @@ web/javascript/reference/global_objects/array/every,13
 web/javascript/reference/global_objects/array/fill,11
 web/javascript/reference/global_objects/array/filter,10
 web/javascript/reference/global_objects/array/find,11
-web/javascript/reference/global_objects/array/findindex,11
-web/javascript/reference/global_objects/array/findlast,12
-web/javascript/reference/global_objects/array/findlastindex,9
+web/javascript/reference/global_objects/array/findindex,0
+web/javascript/reference/global_objects/array/findlast,0
+web/javascript/reference/global_objects/array/findlastindex,0
 web/javascript/reference/global_objects/array/flat,8
 web/javascript/reference/global_objects/array/flatmap,11
 web/javascript/reference/global_objects/array/foreach,14
@@ -13468,8 +13468,8 @@ web/javascript/reference/global_objects/typedarray/fill,null
 web/javascript/reference/global_objects/typedarray/filter,5
 web/javascript/reference/global_objects/typedarray/find,8
 web/javascript/reference/global_objects/typedarray/findindex,8
-web/javascript/reference/global_objects/typedarray/findlast,11
-web/javascript/reference/global_objects/typedarray/findlastindex,7
+web/javascript/reference/global_objects/typedarray/findlast,0
+web/javascript/reference/global_objects/typedarray/findlastindex,0
 web/javascript/reference/global_objects/typedarray/foreach,11
 web/javascript/reference/global_objects/typedarray/from,4
 web/javascript/reference/global_objects/typedarray/includes,null
