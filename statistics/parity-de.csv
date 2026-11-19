@@ -8120,7 +8120,7 @@ web/api/storageevent/storagearea,0
 web/api/storageevent/storageevent,0
 web/api/storageevent/url,0
 web/api/storagemanager,0
-web/api/storagemanager/estimate,1
+web/api/storagemanager/estimate,0
 web/api/storagemanager/getdirectory,0
 web/api/storagemanager/persist,0
 web/api/storagemanager/persisted,0

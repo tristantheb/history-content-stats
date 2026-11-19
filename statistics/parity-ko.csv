@@ -9354,7 +9354,7 @@ web/api/waveshapernode/curve,null
 web/api/waveshapernode/oversample,null
 web/api/waveshapernode/waveshapernode,null
 web/api/web-based_payment_handler_api,null
-web/api/web_animations_api,6
+web/api/web_animations_api,7
 web/api/web_animations_api/keyframe_formats,null
 web/api/web_animations_api/tips,null
 web/api/web_animations_api/using_the_web_animations_api,null
@@ -10535,7 +10535,7 @@ web/css/guides/media_queries,null
 web/css/guides/media_queries/printing,1
 web/css/guides/media_queries/testing,1
 web/css/guides/media_queries/using,3
-web/css/guides/media_queries/using_for_accessibility,1
+web/css/guides/media_queries/using_for_accessibility,2
 web/css/guides/motion_path,null
 web/css/guides/multicol_layout,null
 web/css/guides/multicol_layout/basic_concepts,null
@@ -10765,7 +10765,7 @@ web/css/reference/properties/alignment-baseline,null
 web/css/reference/properties/all,null
 web/css/reference/properties/anchor-name,null
 web/css/reference/properties/anchor-scope,null
-web/css/reference/properties/animation,17
+web/css/reference/properties/animation,18
 web/css/reference/properties/animation-composition,null
 web/css/reference/properties/animation-delay,null
 web/css/reference/properties/animation-direction,null
@@ -13537,7 +13537,7 @@ web/javascript/reference/javascript_technologies_overview,10
 web/javascript/reference/lexical_grammar,null
 web/javascript/reference/magic_comments,null
 web/javascript/reference/operators,null
-web/javascript/reference/operators/addition,11
+web/javascript/reference/operators/addition,12
 web/javascript/reference/operators/addition_assignment,null
 web/javascript/reference/operators/assignment,null
 web/javascript/reference/operators/async_function,null
