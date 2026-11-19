@@ -9354,7 +9354,7 @@ web/api/waveshapernode/curve,216794e76611c18e53222bb8efa570e898e990de,Web APIs
 web/api/waveshapernode/oversample,f542ed344953b3312fc92150bba11536667e288a,Web APIs
 web/api/waveshapernode/waveshapernode,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/web-based_payment_handler_api,b60c5dad8cf10d8492f2aff491abb40bf1851b03,Web APIs
-web/api/web_animations_api,3064cbe8212ea919874fb21120a89657afccba25,Web APIs
+web/api/web_animations_api,5d20ba73fde9de229a91dbdabe3be20966e95a65,Web APIs
 web/api/web_animations_api/keyframe_formats,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
 web/api/web_animations_api/tips,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,Web APIs
 web/api/web_animations_api/using_the_web_animations_api,85fccefc8066bd49af4ddafc12c77f35265c7e2d,Web APIs
@@ -10535,7 +10535,7 @@ web/css/guides/media_queries,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/media_queries/printing,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/media_queries/testing,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/media_queries/using,44eeeccd6f2799db65aedaf2d23290d20057ce9e,CSS|Guides
-web/css/guides/media_queries/using_for_accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
+web/css/guides/media_queries/using_for_accessibility,5d20ba73fde9de229a91dbdabe3be20966e95a65,CSS|Guides
 web/css/guides/motion_path,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,CSS|Guides
 web/css/guides/multicol_layout,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Guides
 web/css/guides/multicol_layout/basic_concepts,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10765,7 +10765,7 @@ web/css/reference/properties/alignment-baseline,071fd0613b1b5728d2d83845ea11512c
 web/css/reference/properties/all,8a13259a44523cd17b4fe347088b62c6d7a35265,CSS|Properties
 web/css/reference/properties/anchor-name,737b931225e92e0cba47e57a150878b1a78ee45a,CSS|Properties
 web/css/reference/properties/anchor-scope,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/animation,4aba58b4ad2745a73054f60b6d649d8e29b7b44d,CSS|Properties
+web/css/reference/properties/animation,5d20ba73fde9de229a91dbdabe3be20966e95a65,CSS|Properties
 web/css/reference/properties/animation-composition,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
 web/css/reference/properties/animation-delay,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/animation-direction,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
@@ -11304,7 +11304,7 @@ web/css/reference/properties/transition-behavior,bcbb4bd6a80292c0663b723d5466759
 web/css/reference/properties/transition-delay,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/transition-duration,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/transition-property,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
-web/css/reference/properties/transition-timing-function,3064cbe8212ea919874fb21120a89657afccba25,CSS|Properties
+web/css/reference/properties/transition-timing-function,5d20ba73fde9de229a91dbdabe3be20966e95a65,CSS|Properties
 web/css/reference/properties/translate,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/trigger-scope,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Properties
 web/css/reference/properties/unicode-bidi,c4e64810ce10fb5cb1eebfcd8b6f526866fd0982,CSS|Properties
@@ -11594,7 +11594,7 @@ web/css/reference/values/generic-family,c88e03530319b73272fd4f9a9f6ebe878f026004
 web/css/reference/values/gradient,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Values
 web/css/reference/values/gradient/conic-gradient,a1da408d85bfa1fc180d15fdc29746ad5f9e9cff,CSS|Values
 web/css/reference/values/gradient/linear-gradient,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Values
-web/css/reference/values/gradient/radial-gradient,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
+web/css/reference/values/gradient/radial-gradient,249135e07efd741bcad5bac1af7f12ca0abc3b19,CSS|Values
 web/css/reference/values/gradient/repeating-conic-gradient,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/gradient/repeating-linear-gradient,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/gradient/repeating-radial-gradient,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
@@ -11802,7 +11802,7 @@ web/html/reference/elements/hr,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Ele
 web/html/reference/elements/html,44a5fa2aace490e0114349d9d683675b2f5cacce,HTML|Elements
 web/html/reference/elements/i,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/iframe,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
-web/html/reference/elements/img,74a39db9d03ec63426b0740dc0bd3cb85e5461a4,HTML|Elements
+web/html/reference/elements/img,3d24b91c76cb3bd1d7b5c0b06b86cae46002da72,HTML|Elements
 web/html/reference/elements/input,5c76c9c822b4083750ff7fcabcd07422ad3a591b,HTML|Elements
 web/html/reference/elements/input/button,bcb7d4dde9f0a43664c64587d9d70b8835286eb7,HTML|Elements
 web/html/reference/elements/input/checkbox,46afd57950146568819d0bf98175a2ffdbe079d7,HTML|Elements
@@ -13537,7 +13537,7 @@ web/javascript/reference/javascript_technologies_overview,2a563c927890794b513523
 web/javascript/reference/lexical_grammar,389605121ed8ea78cc1878f31bbca6759cc7417d,JavaScript
 web/javascript/reference/magic_comments,90b0cce57c2c65e5c320f4cf32add4d8a50fd39c,JavaScript
 web/javascript/reference/operators,5d53607e3645a456fce6564424823169157b74b1,JavaScript|Operators
-web/javascript/reference/operators/addition,1133f9e054bad2340b98a608b7894fd7daa62af6,JavaScript|Operators
+web/javascript/reference/operators/addition,6d8a46dd0cd65ede8afb18ad951567fe810d1995,JavaScript|Operators
 web/javascript/reference/operators/addition_assignment,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/assignment,5d53607e3645a456fce6564424823169157b74b1,JavaScript|Operators
 web/javascript/reference/operators/async_function,5d53607e3645a456fce6564424823169157b74b1,JavaScript|Operators
@@ -13556,7 +13556,7 @@ web/javascript/reference/operators/conditional_operator,fad67be4431d8e6c2a89ac88
 web/javascript/reference/operators/decrement,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/delete,5d53607e3645a456fce6564424823169157b74b1,JavaScript|Operators
 web/javascript/reference/operators/destructuring,5d53607e3645a456fce6564424823169157b74b1,JavaScript|Operators
-web/javascript/reference/operators/division,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
+web/javascript/reference/operators/division,6d8a46dd0cd65ede8afb18ad951567fe810d1995,JavaScript|Operators
 web/javascript/reference/operators/division_assignment,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/equality,1133f9e054bad2340b98a608b7894fd7daa62af6,JavaScript|Operators
 web/javascript/reference/operators/exponentiation,5d53607e3645a456fce6564424823169157b74b1,JavaScript|Operators
@@ -13584,7 +13584,7 @@ web/javascript/reference/operators/logical_and_assignment,fad67be4431d8e6c2a89ac
 web/javascript/reference/operators/logical_not,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/logical_or,5d53607e3645a456fce6564424823169157b74b1,JavaScript|Operators
 web/javascript/reference/operators/logical_or_assignment,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
-web/javascript/reference/operators/multiplication,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
+web/javascript/reference/operators/multiplication,6d8a46dd0cd65ede8afb18ad951567fe810d1995,JavaScript|Operators
 web/javascript/reference/operators/multiplication_assignment,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/new,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/new.target,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
@@ -13602,7 +13602,7 @@ web/javascript/reference/operators/right_shift_assignment,fad67be4431d8e6c2a89ac
 web/javascript/reference/operators/spread_syntax,1ddd95504b4507beeda0f08bd772eb167922b86a,JavaScript|Operators
 web/javascript/reference/operators/strict_equality,5d53607e3645a456fce6564424823169157b74b1,JavaScript|Operators
 web/javascript/reference/operators/strict_inequality,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
-web/javascript/reference/operators/subtraction,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
+web/javascript/reference/operators/subtraction,6d8a46dd0cd65ede8afb18ad951567fe810d1995,JavaScript|Operators
 web/javascript/reference/operators/subtraction_assignment,fad67be4431d8e6c2a89ac880735233aa76c41d4,JavaScript|Operators
 web/javascript/reference/operators/super,5d53607e3645a456fce6564424823169157b74b1,JavaScript|Operators
 web/javascript/reference/operators/this,5d53607e3645a456fce6564424823169157b74b1,JavaScript|Operators
@@ -14127,7 +14127,7 @@ web/svg/reference/attribute/z,d35e3fd4bc6b80049899b45d74ed71dc996adfc7,SVG|Attri
 web/svg/reference/attribute/zoomandpan,ca6052779ddca9f6d99665f12c39aa2d85d85733,SVG|Attribute
 web/svg/reference/element,c1564acf160ef4b320fb7b89ab65211b9c50cf1b,SVG|Element
 web/svg/reference/element/a,8ae90c06d95ae6d0ccae0feb06ccab676fafbd24,SVG|Element
-web/svg/reference/element/animate,3064cbe8212ea919874fb21120a89657afccba25,SVG|Element
+web/svg/reference/element/animate,5d20ba73fde9de229a91dbdabe3be20966e95a65,SVG|Element
 web/svg/reference/element/animatemotion,603d83f1e1cdfd634e2f0b7b939466c7660822d3,SVG|Element
 web/svg/reference/element/animatetransform,0a6ff1e3b8887f979b66c34cefdb73f846041879,SVG|Element
 web/svg/reference/element/circle,ac806e34aba086be141689c64dc4dd73636fbd62,SVG|Element
