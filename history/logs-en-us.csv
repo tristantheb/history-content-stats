@@ -8120,7 +8120,7 @@ web/api/storageevent/storagearea,cec2a003b670c686f1df5dba16d3b02073ad6711,Web AP
 web/api/storageevent/storageevent,cec2a003b670c686f1df5dba16d3b02073ad6711,Web APIs
 web/api/storageevent/url,cec2a003b670c686f1df5dba16d3b02073ad6711,Web APIs
 web/api/storagemanager,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
-web/api/storagemanager/estimate,41a472e5bad6c6d2698d6e85c1172909cb102fa1,Web APIs
+web/api/storagemanager/estimate,d6469df1479efda0ce4bb908094c4d14e5dc526a,Web APIs
 web/api/storagemanager/getdirectory,7fad2348ff4e117859918bf1b7a16c10f041f3a5,Web APIs
 web/api/storagemanager/persist,41a472e5bad6c6d2698d6e85c1172909cb102fa1,Web APIs
 web/api/storagemanager/persisted,41a472e5bad6c6d2698d6e85c1172909cb102fa1,Web APIs
