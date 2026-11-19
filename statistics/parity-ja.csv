@@ -9354,7 +9354,7 @@ web/api/waveshapernode/curve,null
 web/api/waveshapernode/oversample,null
 web/api/waveshapernode/waveshapernode,null
 web/api/web-based_payment_handler_api,null
-web/api/web_animations_api,1
+web/api/web_animations_api,2
 web/api/web_animations_api/keyframe_formats,0
 web/api/web_animations_api/tips,1
 web/api/web_animations_api/using_the_web_animations_api,0
@@ -10535,7 +10535,7 @@ web/css/guides/media_queries,0
 web/css/guides/media_queries/printing,0
 web/css/guides/media_queries/testing,0
 web/css/guides/media_queries/using,1
-web/css/guides/media_queries/using_for_accessibility,0
+web/css/guides/media_queries/using_for_accessibility,1
 web/css/guides/motion_path,0
 web/css/guides/multicol_layout,0
 web/css/guides/multicol_layout/basic_concepts,0
@@ -10765,7 +10765,7 @@ web/css/reference/properties/alignment-baseline,2
 web/css/reference/properties/all,0
 web/css/reference/properties/anchor-name,3
 web/css/reference/properties/anchor-scope,1
-web/css/reference/properties/animation,0
+web/css/reference/properties/animation,1
 web/css/reference/properties/animation-composition,0
 web/css/reference/properties/animation-delay,0
 web/css/reference/properties/animation-direction,0
@@ -11304,7 +11304,7 @@ web/css/reference/properties/transition-behavior,1
 web/css/reference/properties/transition-delay,1
 web/css/reference/properties/transition-duration,2
 web/css/reference/properties/transition-property,2
-web/css/reference/properties/transition-timing-function,2
+web/css/reference/properties/transition-timing-function,3
 web/css/reference/properties/translate,2
 web/css/reference/properties/trigger-scope,null
 web/css/reference/properties/unicode-bidi,0
@@ -11594,7 +11594,7 @@ web/css/reference/values/generic-family,1
 web/css/reference/values/gradient,1
 web/css/reference/values/gradient/conic-gradient,1
 web/css/reference/values/gradient/linear-gradient,2
-web/css/reference/values/gradient/radial-gradient,0
+web/css/reference/values/gradient/radial-gradient,1
 web/css/reference/values/gradient/repeating-conic-gradient,0
 web/css/reference/values/gradient/repeating-linear-gradient,0
 web/css/reference/values/gradient/repeating-radial-gradient,0
@@ -11802,7 +11802,7 @@ web/html/reference/elements/hr,0
 web/html/reference/elements/html,1
 web/html/reference/elements/i,0
 web/html/reference/elements/iframe,0
-web/html/reference/elements/img,0
+web/html/reference/elements/img,1
 web/html/reference/elements/input,0
 web/html/reference/elements/input/button,0
 web/html/reference/elements/input/checkbox,0
@@ -13537,7 +13537,7 @@ web/javascript/reference/javascript_technologies_overview,3
 web/javascript/reference/lexical_grammar,4
 web/javascript/reference/magic_comments,null
 web/javascript/reference/operators,1
-web/javascript/reference/operators/addition,2
+web/javascript/reference/operators/addition,3
 web/javascript/reference/operators/addition_assignment,0
 web/javascript/reference/operators/assignment,1
 web/javascript/reference/operators/async_function,2
@@ -13556,7 +13556,7 @@ web/javascript/reference/operators/conditional_operator,0
 web/javascript/reference/operators/decrement,0
 web/javascript/reference/operators/delete,1
 web/javascript/reference/operators/destructuring,2
-web/javascript/reference/operators/division,0
+web/javascript/reference/operators/division,1
 web/javascript/reference/operators/division_assignment,0
 web/javascript/reference/operators/equality,1
 web/javascript/reference/operators/exponentiation,1
@@ -13584,7 +13584,7 @@ web/javascript/reference/operators/logical_and_assignment,0
 web/javascript/reference/operators/logical_not,0
 web/javascript/reference/operators/logical_or,1
 web/javascript/reference/operators/logical_or_assignment,0
-web/javascript/reference/operators/multiplication,0
+web/javascript/reference/operators/multiplication,1
 web/javascript/reference/operators/multiplication_assignment,0
 web/javascript/reference/operators/new,0
 web/javascript/reference/operators/new.target,0
@@ -13602,7 +13602,7 @@ web/javascript/reference/operators/right_shift_assignment,0
 web/javascript/reference/operators/spread_syntax,1
 web/javascript/reference/operators/strict_equality,1
 web/javascript/reference/operators/strict_inequality,0
-web/javascript/reference/operators/subtraction,0
+web/javascript/reference/operators/subtraction,1
 web/javascript/reference/operators/subtraction_assignment,0
 web/javascript/reference/operators/super,1
 web/javascript/reference/operators/this,2
@@ -14127,7 +14127,7 @@ web/svg/reference/attribute/z,null
 web/svg/reference/attribute/zoomandpan,null
 web/svg/reference/element,0
 web/svg/reference/element/a,2
-web/svg/reference/element/animate,2
+web/svg/reference/element/animate,3
 web/svg/reference/element/animatemotion,0
 web/svg/reference/element/animatetransform,1
 web/svg/reference/element/circle,0

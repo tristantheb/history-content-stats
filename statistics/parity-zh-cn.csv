@@ -9354,7 +9354,7 @@ web/api/waveshapernode/curve,null
 web/api/waveshapernode/oversample,null
 web/api/waveshapernode/waveshapernode,null
 web/api/web-based_payment_handler_api,null
-web/api/web_animations_api,2
+web/api/web_animations_api,3
 web/api/web_animations_api/keyframe_formats,null
 web/api/web_animations_api/tips,5
 web/api/web_animations_api/using_the_web_animations_api,null
@@ -11802,7 +11802,7 @@ web/html/reference/elements/hr,null
 web/html/reference/elements/html,5
 web/html/reference/elements/i,1
 web/html/reference/elements/iframe,22
-web/html/reference/elements/img,16
+web/html/reference/elements/img,17
 web/html/reference/elements/input,9
 web/html/reference/elements/input/button,null
 web/html/reference/elements/input/checkbox,null
@@ -14127,7 +14127,7 @@ web/svg/reference/attribute/z,0
 web/svg/reference/attribute/zoomandpan,1
 web/svg/reference/element,2
 web/svg/reference/element/a,1
-web/svg/reference/element/animate,0
+web/svg/reference/element/animate,1
 web/svg/reference/element/animatemotion,0
 web/svg/reference/element/animatetransform,1
 web/svg/reference/element/circle,0
