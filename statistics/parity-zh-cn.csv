@@ -3848,7 +3848,7 @@ web/api/element/ariacontrolselements,0
 web/api/element/ariacurrent,0
 web/api/element/ariadescribedbyelements,0
 web/api/element/ariadescription,0
-web/api/element/ariadetailselements,null
+web/api/element/ariadetailselements,0
 web/api/element/ariadisabled,0
 web/api/element/ariaerrormessageelements,null
 web/api/element/ariaexpanded,0
