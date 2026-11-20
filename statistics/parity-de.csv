@@ -1894,7 +1894,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,1
+mozilla/firefox/experimental_features,0
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1969,7 +1969,7 @@ mozilla/firefox/releases/158,0
 mozilla/firefox/releases/159,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/160,0
-mozilla/firefox/releases/161,1
+mozilla/firefox/releases/161,0
 mozilla/firefox/releases/162,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -13562,6 +13562,7 @@ web/javascript/reference/operators/equality,0
 web/javascript/reference/operators/exponentiation,0
 web/javascript/reference/operators/exponentiation_assignment,0
 web/javascript/reference/operators/function,0
+web/javascript/reference/operators/function_call,0
 web/javascript/reference/operators/function_star_,0
 web/javascript/reference/operators/greater_than,0
 web/javascript/reference/operators/greater_than_or_equal,0
@@ -14274,11 +14275,11 @@ web/webdriver/reference/bidi/modules/input/releaseactions,0
 web/webdriver/reference/bidi/modules/input/setfiles,0
 web/webdriver/reference/bidi/modules/log,0
 web/webdriver/reference/bidi/modules/log/entryadded,0
-web/webdriver/reference/bidi/modules/network,1
-web/webdriver/reference/bidi/modules/network/beforerequestsent,null
-web/webdriver/reference/bidi/modules/network/fetcherror,null
-web/webdriver/reference/bidi/modules/network/responsecompleted,null
-web/webdriver/reference/bidi/modules/network/responsestarted,null
+web/webdriver/reference/bidi/modules/network,0
+web/webdriver/reference/bidi/modules/network/beforerequestsent,0
+web/webdriver/reference/bidi/modules/network/fetcherror,0
+web/webdriver/reference/bidi/modules/network/responsecompleted,0
+web/webdriver/reference/bidi/modules/network/responsestarted,0
 web/webdriver/reference/bidi/modules/network/setcachebehavior,0
 web/webdriver/reference/bidi/modules/network/setextraheaders,0
 web/webdriver/reference/bidi/modules/permissions,0
