@@ -12363,7 +12363,7 @@ web/javascript/guide/typed_arrays,null
 web/javascript/guide/using_classes,null
 web/javascript/guide/using_promises,null
 web/javascript/guide/working_with_objects,null
-web/javascript/reference,20
+web/javascript/reference,21
 web/javascript/reference/classes,null
 web/javascript/reference/classes/constructor,null
 web/javascript/reference/classes/extends,null
@@ -13562,6 +13562,7 @@ web/javascript/reference/operators/equality,6
 web/javascript/reference/operators/exponentiation,null
 web/javascript/reference/operators/exponentiation_assignment,null
 web/javascript/reference/operators/function,null
+web/javascript/reference/operators/function_call,null
 web/javascript/reference/operators/function_star_,null
 web/javascript/reference/operators/greater_than,null
 web/javascript/reference/operators/greater_than_or_equal,null

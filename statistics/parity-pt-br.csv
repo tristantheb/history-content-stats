@@ -13562,6 +13562,7 @@ web/javascript/reference/operators/equality,null
 web/javascript/reference/operators/exponentiation,null
 web/javascript/reference/operators/exponentiation_assignment,null
 web/javascript/reference/operators/function,null
+web/javascript/reference/operators/function_call,null
 web/javascript/reference/operators/function_star_,null
 web/javascript/reference/operators/greater_than,null
 web/javascript/reference/operators/greater_than_or_equal,null

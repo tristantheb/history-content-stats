@@ -1082,7 +1082,7 @@ mdn/writing_guidelines/page_structures/page_types/api_landing_page_template,0
 mdn/writing_guidelines/page_structures/page_types/api_method_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_property_subpage_template,0
 mdn/writing_guidelines/page_structures/page_types/api_reference_page_template,0
-mdn/writing_guidelines/page_structures/page_types/aria_page_template,0
+mdn/writing_guidelines/page_structures/page_types/aria_page_template,1
 mdn/writing_guidelines/page_structures/page_types/css_function_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_module_page_template,0
 mdn/writing_guidelines/page_structures/page_types/css_property_page_template,1
@@ -13562,6 +13562,7 @@ web/javascript/reference/operators/equality,null
 web/javascript/reference/operators/exponentiation,6
 web/javascript/reference/operators/exponentiation_assignment,null
 web/javascript/reference/operators/function,null
+web/javascript/reference/operators/function_call,null
 web/javascript/reference/operators/function_star_,null
 web/javascript/reference/operators/greater_than,null
 web/javascript/reference/operators/greater_than_or_equal,null
