@@ -14275,6 +14275,10 @@ web/webdriver/reference/bidi/modules/input/setfiles,null
 web/webdriver/reference/bidi/modules/log,null
 web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
+web/webdriver/reference/bidi/modules/network/beforerequestsent,null
+web/webdriver/reference/bidi/modules/network/fetcherror,null
+web/webdriver/reference/bidi/modules/network/responsecompleted,null
+web/webdriver/reference/bidi/modules/network/responsestarted,null
 web/webdriver/reference/bidi/modules/network/setcachebehavior,null
 web/webdriver/reference/bidi/modules/network/setextraheaders,null
 web/webdriver/reference/bidi/modules/permissions,null

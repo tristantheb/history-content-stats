@@ -1894,7 +1894,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,2
 mozilla/add-ons/webextensions/your_second_webextension,12
 mozilla/firefox,0
-mozilla/firefox/experimental_features,10
+mozilla/firefox/experimental_features,11
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -14275,6 +14275,10 @@ web/webdriver/reference/bidi/modules/input/setfiles,null
 web/webdriver/reference/bidi/modules/log,null
 web/webdriver/reference/bidi/modules/log/entryadded,null
 web/webdriver/reference/bidi/modules/network,null
+web/webdriver/reference/bidi/modules/network/beforerequestsent,null
+web/webdriver/reference/bidi/modules/network/fetcherror,null
+web/webdriver/reference/bidi/modules/network/responsecompleted,null
+web/webdriver/reference/bidi/modules/network/responsestarted,null
 web/webdriver/reference/bidi/modules/network/setcachebehavior,null
 web/webdriver/reference/bidi/modules/network/setextraheaders,null
 web/webdriver/reference/bidi/modules/permissions,null
