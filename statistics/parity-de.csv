@@ -14268,6 +14268,7 @@ web/webdriver/reference/bidi/modules/browsingcontext/traversehistory,0
 web/webdriver/reference/bidi/modules/browsingcontext/userpromptclosed,0
 web/webdriver/reference/bidi/modules/browsingcontext/userpromptopened,0
 web/webdriver/reference/bidi/modules/emulation,0
+web/webdriver/reference/bidi/modules/emulation/setgeolocationoverride,0
 web/webdriver/reference/bidi/modules/input,0
 web/webdriver/reference/bidi/modules/input/filedialogopened,0
 web/webdriver/reference/bidi/modules/input/performactions,0
