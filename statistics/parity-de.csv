@@ -1894,7 +1894,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,0
 mozilla/add-ons/webextensions/your_first_webextension,0
 mozilla/add-ons/webextensions/your_second_webextension,0
 mozilla/firefox,0
-mozilla/firefox/experimental_features,1
+mozilla/firefox/experimental_features,5
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1968,9 +1968,10 @@ mozilla/firefox/releases/157,0
 mozilla/firefox/releases/158,0
 mozilla/firefox/releases/159,0
 mozilla/firefox/releases/16,0
-mozilla/firefox/releases/160,0
-mozilla/firefox/releases/161,1
-mozilla/firefox/releases/162,0
+mozilla/firefox/releases/160,1
+mozilla/firefox/releases/161,7
+mozilla/firefox/releases/162,1
+mozilla/firefox/releases/163,null
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
 mozilla/firefox/releases/19,0
@@ -4480,13 +4481,13 @@ web/api/gpuadapter/isfallbackadapter,0
 web/api/gpuadapter/limits,0
 web/api/gpuadapter/requestadapterinfo,0
 web/api/gpuadapter/requestdevice,0
-web/api/gpuadapterinfo,0
+web/api/gpuadapterinfo,1
 web/api/gpuadapterinfo/architecture,0
 web/api/gpuadapterinfo/description,0
 web/api/gpuadapterinfo/device,0
 web/api/gpuadapterinfo/isfallbackadapter,0
-web/api/gpuadapterinfo/subgroupmaxsize,0
-web/api/gpuadapterinfo/subgroupminsize,0
+web/api/gpuadapterinfo/subgroupmaxsize,1
+web/api/gpuadapterinfo/subgroupminsize,1
 web/api/gpuadapterinfo/vendor,0
 web/api/gpubindgroup,0
 web/api/gpubindgroup/label,0
@@ -4561,7 +4562,7 @@ web/api/gpudevice/createrenderpipeline,0
 web/api/gpudevice/createrenderpipelineasync,0
 web/api/gpudevice/createsampler,0
 web/api/gpudevice/createshadermodule,0
-web/api/gpudevice/createtexture,0
+web/api/gpudevice/createtexture,1
 web/api/gpudevice/destroy,0
 web/api/gpudevice/features,0
 web/api/gpudevice/importexternaltexture,0
@@ -4645,7 +4646,7 @@ web/api/gpusampler/label,0
 web/api/gpushadermodule,0
 web/api/gpushadermodule/getcompilationinfo,0
 web/api/gpushadermodule/label,0
-web/api/gpusupportedfeatures,0
+web/api/gpusupportedfeatures,1
 web/api/gpusupportedlimits,0
 web/api/gputexture,0
 web/api/gputexture/createview,0
@@ -11065,7 +11066,7 @@ web/css/reference/properties/margin-inline-start,0
 web/css/reference/properties/margin-left,0
 web/css/reference/properties/margin-right,0
 web/css/reference/properties/margin-top,0
-web/css/reference/properties/margin-trim,0
+web/css/reference/properties/margin-trim,1
 web/css/reference/properties/marker,0
 web/css/reference/properties/marker-end,0
 web/css/reference/properties/marker-mid,0

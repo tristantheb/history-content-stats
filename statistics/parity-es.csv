@@ -1971,6 +1971,7 @@ mozilla/firefox/releases/16,null
 mozilla/firefox/releases/160,null
 mozilla/firefox/releases/161,null
 mozilla/firefox/releases/162,null
+mozilla/firefox/releases/163,null
 mozilla/firefox/releases/17,null
 mozilla/firefox/releases/18,null
 mozilla/firefox/releases/19,null
@@ -4480,13 +4481,13 @@ web/api/gpuadapter/isfallbackadapter,null
 web/api/gpuadapter/limits,0
 web/api/gpuadapter/requestadapterinfo,null
 web/api/gpuadapter/requestdevice,2
-web/api/gpuadapterinfo,1
+web/api/gpuadapterinfo,2
 web/api/gpuadapterinfo/architecture,0
 web/api/gpuadapterinfo/description,0
 web/api/gpuadapterinfo/device,0
 web/api/gpuadapterinfo/isfallbackadapter,null
-web/api/gpuadapterinfo/subgroupmaxsize,0
-web/api/gpuadapterinfo/subgroupminsize,0
+web/api/gpuadapterinfo/subgroupmaxsize,1
+web/api/gpuadapterinfo/subgroupminsize,1
 web/api/gpuadapterinfo/vendor,0
 web/api/gpubindgroup,null
 web/api/gpubindgroup/label,null

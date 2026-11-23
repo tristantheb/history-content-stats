@@ -1894,7 +1894,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,null
 mozilla/add-ons/webextensions/your_second_webextension,8
 mozilla/firefox,0
-mozilla/firefox/experimental_features,24
+mozilla/firefox/experimental_features,28
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,0
@@ -1968,9 +1968,10 @@ mozilla/firefox/releases/157,0
 mozilla/firefox/releases/158,0
 mozilla/firefox/releases/159,0
 mozilla/firefox/releases/16,0
-mozilla/firefox/releases/160,1
+mozilla/firefox/releases/160,2
 mozilla/firefox/releases/161,null
 mozilla/firefox/releases/162,null
+mozilla/firefox/releases/163,null
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
 mozilla/firefox/releases/19,0
@@ -11065,7 +11066,7 @@ web/css/reference/properties/margin-inline-start,0
 web/css/reference/properties/margin-left,0
 web/css/reference/properties/margin-right,0
 web/css/reference/properties/margin-top,0
-web/css/reference/properties/margin-trim,0
+web/css/reference/properties/margin-trim,1
 web/css/reference/properties/marker,0
 web/css/reference/properties/marker-end,0
 web/css/reference/properties/marker-mid,0
