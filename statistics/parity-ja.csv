@@ -1894,7 +1894,7 @@ mozilla/add-ons/webextensions/working_with_the_tabs_api,null
 mozilla/add-ons/webextensions/your_first_webextension,2
 mozilla/add-ons/webextensions/your_second_webextension,12
 mozilla/firefox,0
-mozilla/firefox/experimental_features,12
+mozilla/firefox/experimental_features,16
 mozilla/firefox/releases,0
 mozilla/firefox/releases/1.5,0
 mozilla/firefox/releases/1.5/changing_the_priority_of_http_requests,null
@@ -1968,9 +1968,10 @@ mozilla/firefox/releases/157,2
 mozilla/firefox/releases/158,1
 mozilla/firefox/releases/159,0
 mozilla/firefox/releases/16,1
-mozilla/firefox/releases/160,2
+mozilla/firefox/releases/160,3
 mozilla/firefox/releases/161,null
 mozilla/firefox/releases/162,null
+mozilla/firefox/releases/163,null
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
 mozilla/firefox/releases/19,0
@@ -4480,7 +4481,7 @@ web/api/gpuadapter/isfallbackadapter,7
 web/api/gpuadapter/limits,4
 web/api/gpuadapter/requestadapterinfo,7
 web/api/gpuadapter/requestdevice,10
-web/api/gpuadapterinfo,8
+web/api/gpuadapterinfo,9
 web/api/gpuadapterinfo/architecture,4
 web/api/gpuadapterinfo/description,4
 web/api/gpuadapterinfo/device,4
@@ -4645,7 +4646,7 @@ web/api/gpusampler/label,null
 web/api/gpushadermodule,null
 web/api/gpushadermodule/getcompilationinfo,null
 web/api/gpushadermodule/label,null
-web/api/gpusupportedfeatures,1
+web/api/gpusupportedfeatures,2
 web/api/gpusupportedlimits,8
 web/api/gputexture,null
 web/api/gputexture/createview,null
@@ -11065,7 +11066,7 @@ web/css/reference/properties/margin-inline-start,0
 web/css/reference/properties/margin-left,0
 web/css/reference/properties/margin-right,0
 web/css/reference/properties/margin-top,0
-web/css/reference/properties/margin-trim,0
+web/css/reference/properties/margin-trim,1
 web/css/reference/properties/marker,0
 web/css/reference/properties/marker-end,0
 web/css/reference/properties/marker-mid,0
@@ -11878,7 +11879,7 @@ web/html/reference/elements/script/type/importmap,2
 web/html/reference/elements/script/type/speculationrules,3
 web/html/reference/elements/search,0
 web/html/reference/elements/section,1
-web/html/reference/elements/select,1
+web/html/reference/elements/select,0
 web/html/reference/elements/selectedcontent,0
 web/html/reference/elements/slot,1
 web/html/reference/elements/small,1
