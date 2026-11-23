@@ -13558,7 +13558,7 @@ web/javascript/reference/operators/delete,null
 web/javascript/reference/operators/destructuring,null
 web/javascript/reference/operators/division,null
 web/javascript/reference/operators/division_assignment,null
-web/javascript/reference/operators/equality,6
+web/javascript/reference/operators/equality,7
 web/javascript/reference/operators/exponentiation,null
 web/javascript/reference/operators/exponentiation_assignment,null
 web/javascript/reference/operators/function,null
@@ -13572,9 +13572,9 @@ web/javascript/reference/operators/import.meta,null
 web/javascript/reference/operators/import.meta/resolve,null
 web/javascript/reference/operators/import/defer,null
 web/javascript/reference/operators/import/source,null
-web/javascript/reference/operators/in,9
+web/javascript/reference/operators/in,10
 web/javascript/reference/operators/increment,null
-web/javascript/reference/operators/inequality,3
+web/javascript/reference/operators/inequality,4
 web/javascript/reference/operators/instanceof,null
 web/javascript/reference/operators/left_shift,null
 web/javascript/reference/operators/left_shift_assignment,null
@@ -13601,8 +13601,8 @@ web/javascript/reference/operators/remainder_assignment,null
 web/javascript/reference/operators/right_shift,null
 web/javascript/reference/operators/right_shift_assignment,null
 web/javascript/reference/operators/spread_syntax,null
-web/javascript/reference/operators/strict_equality,6
-web/javascript/reference/operators/strict_inequality,3
+web/javascript/reference/operators/strict_equality,7
+web/javascript/reference/operators/strict_inequality,4
 web/javascript/reference/operators/subtraction,null
 web/javascript/reference/operators/subtraction_assignment,null
 web/javascript/reference/operators/super,null
