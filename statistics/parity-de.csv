@@ -5715,7 +5715,7 @@ web/api/insertable_streams_for_mediastreamtrack_api,0
 web/api/installevent,0
 web/api/installevent/addroutes,0
 web/api/installevent/installevent,0
-web/api/integrityviolationreport,0
+web/api/integrityviolationreport,1
 web/api/interactioncontentfulpaint,0
 web/api/interactioncontentfulpaint/interactionid,0
 web/api/interactioncontentfulpaint/largestcontentfulpaint,0
@@ -12094,8 +12094,8 @@ web/http/reference/headers/if-modified-since,0
 web/http/reference/headers/if-none-match,0
 web/http/reference/headers/if-range,0
 web/http/reference/headers/if-unmodified-since,0
-web/http/reference/headers/integrity-policy,0
-web/http/reference/headers/integrity-policy-report-only,0
+web/http/reference/headers/integrity-policy,1
+web/http/reference/headers/integrity-policy-report-only,1
 web/http/reference/headers/keep-alive,0
 web/http/reference/headers/last-modified,0
 web/http/reference/headers/link,0

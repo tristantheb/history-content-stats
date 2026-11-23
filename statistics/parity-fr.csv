@@ -12094,8 +12094,8 @@ web/http/reference/headers/if-modified-since,0
 web/http/reference/headers/if-none-match,0
 web/http/reference/headers/if-range,0
 web/http/reference/headers/if-unmodified-since,0
-web/http/reference/headers/integrity-policy,0
-web/http/reference/headers/integrity-policy-report-only,0
+web/http/reference/headers/integrity-policy,1
+web/http/reference/headers/integrity-policy-report-only,1
 web/http/reference/headers/keep-alive,0
 web/http/reference/headers/last-modified,0
 web/http/reference/headers/link,0
