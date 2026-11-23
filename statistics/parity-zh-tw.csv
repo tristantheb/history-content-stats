@@ -13537,7 +13537,7 @@ web/javascript/reference/javascript_technologies_overview,null
 web/javascript/reference/lexical_grammar,null
 web/javascript/reference/magic_comments,null
 web/javascript/reference/operators,null
-web/javascript/reference/operators/addition,3
+web/javascript/reference/operators/addition,4
 web/javascript/reference/operators/addition_assignment,null
 web/javascript/reference/operators/assignment,null
 web/javascript/reference/operators/async_function,null
@@ -13609,7 +13609,7 @@ web/javascript/reference/operators/super,null
 web/javascript/reference/operators/this,null
 web/javascript/reference/operators/typeof,null
 web/javascript/reference/operators/unary_negation,null
-web/javascript/reference/operators/unary_plus,0
+web/javascript/reference/operators/unary_plus,1
 web/javascript/reference/operators/unsigned_right_shift,null
 web/javascript/reference/operators/unsigned_right_shift_assignment,null
 web/javascript/reference/operators/void,null
