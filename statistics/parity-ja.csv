@@ -545,7 +545,7 @@ glossary/screen_reader,1
 glossary/script-supporting_element,null
 glossary/scroll_boundary,3
 glossary/scroll_chaining,3
-glossary/scroll_container,5
+glossary/scroll_container,6
 glossary/scroll_snap,3
 glossary/sctp,0
 glossary/sdk,1
@@ -3889,7 +3889,7 @@ web/api/element/ariavaluetext,2
 web/api/element/assignedslot,1
 web/api/element/attachshadow,0
 web/api/element/attributes,3
-web/api/element/auxclick_event,8
+web/api/element/auxclick_event,9
 web/api/element/before,4
 web/api/element/beforeinput_event,1
 web/api/element/beforematch_event,7
