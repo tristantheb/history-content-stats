@@ -3325,6 +3325,7 @@ web/api/htmlquoteelement,7e6e5f5d4c1c984af3d4ebf9399042d19eccea1e
 web/api/htmlscriptelement/async,3d57022613fbc562cc948938972aeffcaece819b
 web/api/htmlscriptelement/defer,3d57022613fbc562cc948938972aeffcaece819b
 web/api/htmlscriptelement,no_hash_commit
+web/api/htmlscriptelement/text,41a472e5bad6c6d2698d6e85c1172909cb102fa1
 web/api/htmlselectelement/add,no_hash_commit
 web/api/htmlselectelement/checkvalidity,02fd6de308678aaea8e971e4fe38c52aa55c7b26
 web/api/htmlselectelement/remove,20c51db7895b1b6f41d4fa90e71830f4b6678eea
