@@ -5334,7 +5334,7 @@ web/api/htmlscriptelement/nomodule,null
 web/api/htmlscriptelement/referrerpolicy,null
 web/api/htmlscriptelement/src,null
 web/api/htmlscriptelement/supports_static,null
-web/api/htmlscriptelement/text,null
+web/api/htmlscriptelement/text,0
 web/api/htmlscriptelement/textcontent,null
 web/api/htmlscriptelement/type,null
 web/api/htmlselectedcontentelement,null

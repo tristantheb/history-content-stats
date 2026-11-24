@@ -7642,7 +7642,7 @@ web/api/rtcrtpsender/getcapabilities_static,0
 web/api/rtcrtpsender/getparameters,0
 web/api/rtcrtpsender/getstats,0
 web/api/rtcrtpsender/replacetrack,0
-web/api/rtcrtpsender/setparameters,0
+web/api/rtcrtpsender/setparameters,1
 web/api/rtcrtpsender/setstreams,0
 web/api/rtcrtpsender/track,0
 web/api/rtcrtpsender/transform,0
