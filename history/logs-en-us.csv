@@ -7642,7 +7642,7 @@ web/api/rtcrtpsender/getcapabilities_static,a4c63d2855b2f557e7d1ee821dee65011d56
 web/api/rtcrtpsender/getparameters,a4c63d2855b2f557e7d1ee821dee65011d569a41,Web APIs
 web/api/rtcrtpsender/getstats,829720f86ce858b9bb8cbe7aa9e0bea148915f8c,Web APIs
 web/api/rtcrtpsender/replacetrack,829720f86ce858b9bb8cbe7aa9e0bea148915f8c,Web APIs
-web/api/rtcrtpsender/setparameters,a4c63d2855b2f557e7d1ee821dee65011d569a41,Web APIs
+web/api/rtcrtpsender/setparameters,ae5795c1df4956dffee85cb3febd9067b31d9430,Web APIs
 web/api/rtcrtpsender/setstreams,8d5440dbd259fd6eea32b4f4a200f25257d1bf41,Web APIs
 web/api/rtcrtpsender/track,f2f9346c0c0e9f6676f2df9f1850933e274401de,Web APIs
 web/api/rtcrtpsender/transform,0c81cbce5f95a0be935724bcd936f5592774eb3a,Web APIs
