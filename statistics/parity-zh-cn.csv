@@ -10598,7 +10598,7 @@ web/css/guides/syntax/comments,null
 web/css/guides/syntax/error_handling,null
 web/css/guides/syntax/introduction,null
 web/css/guides/table,null
-web/css/guides/text,4
+web/css/guides/text,5
 web/css/guides/text/whitespace,3
 web/css/guides/text/wrapping_breaking_text,null
 web/css/guides/text_decoration,2
@@ -10607,7 +10607,7 @@ web/css/guides/transforms,null
 web/css/guides/transforms/using,null
 web/css/guides/transitions,null
 web/css/guides/transitions/using,null
-web/css/guides/values_and_units,7
+web/css/guides/values_and_units,8
 web/css/guides/values_and_units/numeric_data_types,null
 web/css/guides/values_and_units/textual_data_types,null
 web/css/guides/values_and_units/using_math_functions,null
@@ -10736,7 +10736,7 @@ web/css/reference/at-rules/@supports,null
 web/css/reference/at-rules/@view-transition,5
 web/css/reference/at-rules/at-rule_functions,null
 web/css/reference/mozilla_extensions,4
-web/css/reference/properties,5
+web/css/reference/properties,6
 web/css/reference/properties/--_star_,null
 web/css/reference/properties/-moz-float-edge,4
 web/css/reference/properties/-moz-force-broken-image-icon,5
@@ -11021,6 +11021,7 @@ web/css/reference/properties/hanging-punctuation,0
 web/css/reference/properties/height,null
 web/css/reference/properties/hyphenate-character,null
 web/css/reference/properties/hyphenate-limit-chars,null
+web/css/reference/properties/hyphenate-limit-lines,null
 web/css/reference/properties/hyphens,null
 web/css/reference/properties/image-orientation,null
 web/css/reference/properties/image-rendering,2

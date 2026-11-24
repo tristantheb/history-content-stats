@@ -10598,9 +10598,9 @@ web/css/guides/syntax/comments,null
 web/css/guides/syntax/error_handling,null
 web/css/guides/syntax/introduction,null
 web/css/guides/table,null
-web/css/guides/text,4
+web/css/guides/text,5
 web/css/guides/text/whitespace,null
-web/css/guides/text/wrapping_breaking_text,3
+web/css/guides/text/wrapping_breaking_text,4
 web/css/guides/text_decoration,null
 web/css/guides/text_decoration/text_shadows,null
 web/css/guides/transforms,null
@@ -11021,6 +11021,7 @@ web/css/reference/properties/hanging-punctuation,null
 web/css/reference/properties/height,null
 web/css/reference/properties/hyphenate-character,null
 web/css/reference/properties/hyphenate-limit-chars,null
+web/css/reference/properties/hyphenate-limit-lines,null
 web/css/reference/properties/hyphens,null
 web/css/reference/properties/image-orientation,null
 web/css/reference/properties/image-rendering,null

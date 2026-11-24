@@ -11021,6 +11021,7 @@ web/css/reference/properties/hanging-punctuation,null
 web/css/reference/properties/height,null
 web/css/reference/properties/hyphenate-character,null
 web/css/reference/properties/hyphenate-limit-chars,null
+web/css/reference/properties/hyphenate-limit-lines,null
 web/css/reference/properties/hyphens,null
 web/css/reference/properties/image-orientation,null
 web/css/reference/properties/image-rendering,null
