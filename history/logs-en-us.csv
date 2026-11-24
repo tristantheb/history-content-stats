@@ -10479,7 +10479,7 @@ web/css/guides/display/visual_formatting_model,85fccefc8066bd49af4ddafc12c77f352
 web/css/guides/easing_functions,a516a9818e8cef06c626d436ee1d73fc6d87ec51,CSS|Guides
 web/css/guides/environment_variables,de1ffe9d19ce381ed182255fcc8fe0517029cfa2,CSS|Guides
 web/css/guides/environment_variables/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/filter_effects,35958cdccf9d974ee47bb2ba282466725cae3416,CSS|Guides
+web/css/guides/filter_effects,5a1da3161b739a7bc7f110fbd38721376c9bb27f,CSS|Guides
 web/css/guides/filter_effects/using,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Guides
 web/css/guides/flexible_box_layout,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Guides
 web/css/guides/flexible_box_layout/aligning_items,170d71538522a7dc3d98e8f5c5ba0f22c47d6c7f,CSS|Guides
@@ -11160,7 +11160,7 @@ web/css/reference/properties/position-area,93149226b6b94a770731d262508f5c4aa10bc
 web/css/reference/properties/position-try,6354422058e438a2599e4eab71eaec8eb40850fa,CSS|Properties
 web/css/reference/properties/position-try-fallbacks,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
 web/css/reference/properties/position-try-order,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
-web/css/reference/properties/position-visibility,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
+web/css/reference/properties/position-visibility,3858458a5c5bbaa528b76a09e35b7732b0a0ec0f,CSS|Properties
 web/css/reference/properties/print-color-adjust,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Properties
 web/css/reference/properties/quotes,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
 web/css/reference/properties/r,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
@@ -11503,7 +11503,7 @@ web/css/reference/selectors/universal_selectors,7484d45816002fbf082a59c5d95c38a1
 web/css/reference/values,93b85a5bc2b4589d93185263fd2c14381c36f821,CSS|Values
 web/css/reference/values/-moz-image-rect,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Values
 web/css/reference/values/abs,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
-web/css/reference/values/absolute-size,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Values
+web/css/reference/values/absolute-size,1c750f4aaa4462d570112a79df5e779d892e9a8d,CSS|Values
 web/css/reference/values/acos,daa035392f8466e6d75f290d9ffa4317adca4070,CSS|Values
 web/css/reference/values/alpha-value,bc838d9946a95b501a9ce3e522929eebcce7a3e5,CSS|Values
 web/css/reference/values/anchor,93149226b6b94a770731d262508f5c4aa10bcbed,CSS|Values
@@ -11741,7 +11741,7 @@ web/html/reference/attributes/rel/modulepreload,696a0436bb4dd20eb4d30ac3f1d4fc51
 web/html/reference/attributes/rel/noopener,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Attributes
 web/html/reference/attributes/rel/noreferrer,94172439968170ab04c730b4f93a699688f7f367,HTML|Attributes
 web/html/reference/attributes/rel/preconnect,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Attributes
-web/html/reference/attributes/rel/prefetch,bf5017c389132af39b50106cf1763fa7106e87b4,HTML|Attributes
+web/html/reference/attributes/rel/prefetch,ae56a8405f11aec47a12202a4bf122afc7b781ab,HTML|Attributes
 web/html/reference/attributes/rel/preload,fc7c0c6df803d5ce26e7b2a72725a7d021ed0694,HTML|Attributes
 web/html/reference/attributes/rel/prerender,ca6052779ddca9f6d99665f12c39aa2d85d85733,HTML|Attributes
 web/html/reference/attributes/required,46afd57950146568819d0bf98175a2ffdbe079d7,HTML|Attributes
@@ -11876,7 +11876,7 @@ web/html/reference/elements/samp,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|E
 web/html/reference/elements/script,696a0436bb4dd20eb4d30ac3f1d4fc5140d1eee9,HTML|Elements
 web/html/reference/elements/script/type,25abd448c8a088e9f333360dea0adbe8143e6b86,HTML|Elements
 web/html/reference/elements/script/type/importmap,696a0436bb4dd20eb4d30ac3f1d4fc5140d1eee9,HTML|Elements
-web/html/reference/elements/script/type/speculationrules,25abd448c8a088e9f333360dea0adbe8143e6b86,HTML|Elements
+web/html/reference/elements/script/type/speculationrules,6e6793727b60109b6b35a417aba2fc059327da39,HTML|Elements
 web/html/reference/elements/search,46afd57950146568819d0bf98175a2ffdbe079d7,HTML|Elements
 web/html/reference/elements/section,599ae8b7ad414e91df473d91983f4ffc5cafabb3,HTML|Elements
 web/html/reference/elements/select,fd0b11ad5b5014a9333578adcc4bc98fb9024da3,HTML|Elements

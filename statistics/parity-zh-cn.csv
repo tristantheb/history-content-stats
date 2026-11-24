@@ -11503,7 +11503,7 @@ web/css/reference/selectors/universal_selectors,null
 web/css/reference/values,0
 web/css/reference/values/-moz-image-rect,null
 web/css/reference/values/abs,1
-web/css/reference/values/absolute-size,5
+web/css/reference/values/absolute-size,6
 web/css/reference/values/acos,null
 web/css/reference/values/alpha-value,7
 web/css/reference/values/anchor,null
@@ -11741,7 +11741,7 @@ web/html/reference/attributes/rel/modulepreload,null
 web/html/reference/attributes/rel/noopener,0
 web/html/reference/attributes/rel/noreferrer,1
 web/html/reference/attributes/rel/preconnect,5
-web/html/reference/attributes/rel/prefetch,0
+web/html/reference/attributes/rel/prefetch,1
 web/html/reference/attributes/rel/preload,0
 web/html/reference/attributes/rel/prerender,4
 web/html/reference/attributes/required,5
@@ -11757,7 +11757,7 @@ web/html/reference/elements/article,4
 web/html/reference/elements/aside,3
 web/html/reference/elements/audio,null
 web/html/reference/elements/b,3
-web/html/reference/elements/base,null
+web/html/reference/elements/base,0
 web/html/reference/elements/bdi,null
 web/html/reference/elements/bdo,5
 web/html/reference/elements/big,6
