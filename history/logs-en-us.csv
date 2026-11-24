@@ -2235,7 +2235,7 @@ web/accessibility/aria/reference/roles/searchbox_role,a8b25483994fa47cf949b432dd
 web/accessibility/aria/reference/roles/section_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/sectionhead_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/select_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/separator_role,1474534461893381d54c502e655f334b5568e597,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/separator_role,9a211854aefbe716aabfcebb0b2f0de2c1a52b23,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/slider_role,5af4f6e12c119ea0d809b35b3fa3266a0fbe4ef4,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/spinbutton_role,5af4f6e12c119ea0d809b35b3fa3266a0fbe4ef4,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/status_role,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Accessibility|ARIA|Roles
@@ -2253,7 +2253,7 @@ web/accessibility/aria/reference/roles/timer_role,3e543cdfe8dddfb4774a64bf3decdc
 web/accessibility/aria/reference/roles/toolbar_role,5af4f6e12c119ea0d809b35b3fa3266a0fbe4ef4,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tooltip_role,5af4f6e12c119ea0d809b35b3fa3266a0fbe4ef4,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/tree_role,9abb432251513c5fdcaf5aad0764126fc68413c4,Accessibility|ARIA|Roles
-web/accessibility/aria/reference/roles/treegrid_role,96758f3d8ce1e5fbd9d58053bdef103eec1de108,Accessibility|ARIA|Roles
+web/accessibility/aria/reference/roles/treegrid_role,9a211854aefbe716aabfcebb0b2f0de2c1a52b23,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/treeitem_role,9abb432251513c5fdcaf5aad0764126fc68413c4,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/widget_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
 web/accessibility/aria/reference/roles/window_role,a8b25483994fa47cf949b432ddf34a6bce2ddb2e,Accessibility|ARIA|Roles
@@ -10402,7 +10402,7 @@ web/api/xsltprocessor/setparameter,f8759faac983abbcd8276fd45ae881bb39efdf7a,Web 
 web/api/xsltprocessor/transformtodocument,f8759faac983abbcd8276fd45ae881bb39efdf7a,Web APIs
 web/api/xsltprocessor/transformtofragment,f8759faac983abbcd8276fd45ae881bb39efdf7a,Web APIs
 web/api/xsltprocessor/xsltprocessor,f8759faac983abbcd8276fd45ae881bb39efdf7a,Web APIs
-web/css,423161782178b119c64cd0b41bff8df20dc84a56,CSS
+web/css,f93014556381d466117cc25fb6b091b0f5011411,CSS
 web/css/guides,3e0ba995376cace7f08f0771635f86f0fb1753b3,CSS|Guides
 web/css/guides/anchor_positioning,879a1aece3a1d4eb28c0024f0baac6aa1b96638e,CSS|Guides
 web/css/guides/anchor_positioning/anchored_container_queries,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Guides
@@ -10598,16 +10598,16 @@ web/css/guides/syntax/comments,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guid
 web/css/guides/syntax/error_handling,a397ab763a6686a4056af755e4da32ac735b9fa5,CSS|Guides
 web/css/guides/syntax/introduction,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/table,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/text,92395f809c3067b56ef5ea031faf864cdaee1c55,CSS|Guides
+web/css/guides/text,2f5d0e19eb706f36f837b84855f581f4bd087d15,CSS|Guides
 web/css/guides/text/whitespace,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
-web/css/guides/text/wrapping_breaking_text,d4569d185ccab9b722eb849c033ef69f8f44d107,CSS|Guides
+web/css/guides/text/wrapping_breaking_text,2f5d0e19eb706f36f837b84855f581f4bd087d15,CSS|Guides
 web/css/guides/text_decoration,c5c748631460fdad4eaba40349ece8408fe24195,CSS|Guides
 web/css/guides/text_decoration/text_shadows,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/transforms,b3cd597b58940518a7712487ce94efc0881cb549,CSS|Guides
 web/css/guides/transforms/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/transitions,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/transitions/using,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/values_and_units,c8522f47d8123fe529f39851b13b9fc01345ffbf,CSS|Guides
+web/css/guides/values_and_units,f1e9b613e408f42cb24ceb4f7ef3fb561b8f427f,CSS|Guides
 web/css/guides/values_and_units/numeric_data_types,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Guides
 web/css/guides/values_and_units/textual_data_types,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/values_and_units/using_math_functions,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
@@ -10736,7 +10736,7 @@ web/css/reference/at-rules/@supports,ef4050055cbb6ba03fc245947b47d35252bd2376,CS
 web/css/reference/at-rules/@view-transition,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/at-rule_functions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
 web/css/reference/mozilla_extensions,a9fd2746e238ae3948572a94036bb505de19b81b,CSS
-web/css/reference/properties,28f2781de2dbb8e81be94c87ff81fd0442cb4736,CSS|Properties
+web/css/reference/properties,2f5d0e19eb706f36f837b84855f581f4bd087d15,CSS|Properties
 web/css/reference/properties/--_star_,98bbdcd90e5487539cebe19b12fe3d731fb5a03e,CSS|Properties
 web/css/reference/properties/-moz-float-edge,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
 web/css/reference/properties/-moz-force-broken-image-icon,c4e64810ce10fb5cb1eebfcd8b6f526866fd0982,CSS|Properties
@@ -11020,7 +11020,8 @@ web/css/reference/properties/grid-template-rows,2f710bc43d966483d0204330b14f841b
 web/css/reference/properties/hanging-punctuation,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/height,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|Properties
 web/css/reference/properties/hyphenate-character,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
-web/css/reference/properties/hyphenate-limit-chars,367f942b096f97d4c3063e31a0dc5002736db81b,CSS|Properties
+web/css/reference/properties/hyphenate-limit-chars,2f5d0e19eb706f36f837b84855f581f4bd087d15,CSS|Properties
+web/css/reference/properties/hyphenate-limit-lines,2f5d0e19eb706f36f837b84855f581f4bd087d15,CSS|Properties
 web/css/reference/properties/hyphens,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/image-orientation,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/image-rendering,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
