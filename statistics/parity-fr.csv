@@ -10736,7 +10736,7 @@ web/css/reference/at-rules/@supports,0
 web/css/reference/at-rules/@view-transition,0
 web/css/reference/at-rules/at-rule_functions,0
 web/css/reference/mozilla_extensions,0
-web/css/reference/properties,1
+web/css/reference/properties,2
 web/css/reference/properties/--_star_,0
 web/css/reference/properties/-moz-float-edge,0
 web/css/reference/properties/-moz-force-broken-image-icon,1
@@ -11329,6 +11329,7 @@ web/css/reference/properties/width,0
 web/css/reference/properties/will-change,0
 web/css/reference/properties/word-break,1
 web/css/reference/properties/word-spacing,0
+web/css/reference/properties/wrap-inside,null
 web/css/reference/properties/writing-mode,0
 web/css/reference/properties/x,0
 web/css/reference/properties/y,0
