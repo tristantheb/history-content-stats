@@ -10598,7 +10598,7 @@ web/css/guides/syntax/comments,null
 web/css/guides/syntax/error_handling,null
 web/css/guides/syntax/introduction,null
 web/css/guides/table,null
-web/css/guides/text,6
+web/css/guides/text,7
 web/css/guides/text/whitespace,null
 web/css/guides/text/wrapping_breaking_text,5
 web/css/guides/text_decoration,null
@@ -11254,6 +11254,7 @@ web/css/reference/properties/text-align,null
 web/css/reference/properties/text-align-last,null
 web/css/reference/properties/text-anchor,null
 web/css/reference/properties/text-autospace,null
+web/css/reference/properties/text-autospace-size,null
 web/css/reference/properties/text-box,null
 web/css/reference/properties/text-box-edge,null
 web/css/reference/properties/text-box-trim,null

@@ -2774,7 +2774,7 @@ web/api/canvaspattern,1
 web/api/canvaspattern/settransform,3
 web/api/canvasrenderingcontext2d,2
 web/api/canvasrenderingcontext2d/arc,2
-web/api/canvasrenderingcontext2d/arcto,0
+web/api/canvasrenderingcontext2d/arcto,1
 web/api/canvasrenderingcontext2d/beginpath,2
 web/api/canvasrenderingcontext2d/beziercurveto,1
 web/api/canvasrenderingcontext2d/canvas,1
@@ -10598,7 +10598,7 @@ web/css/guides/syntax/comments,0
 web/css/guides/syntax/error_handling,0
 web/css/guides/syntax/introduction,0
 web/css/guides/table,0
-web/css/guides/text,4
+web/css/guides/text,5
 web/css/guides/text/whitespace,0
 web/css/guides/text/wrapping_breaking_text,3
 web/css/guides/text_decoration,0
@@ -11253,7 +11253,8 @@ web/css/reference/properties/table-layout,2
 web/css/reference/properties/text-align,2
 web/css/reference/properties/text-align-last,2
 web/css/reference/properties/text-anchor,1
-web/css/reference/properties/text-autospace,3
+web/css/reference/properties/text-autospace,4
+web/css/reference/properties/text-autospace-size,null
 web/css/reference/properties/text-box,0
 web/css/reference/properties/text-box-edge,2
 web/css/reference/properties/text-box-trim,0
@@ -11279,7 +11280,7 @@ web/css/reference/properties/text-rendering,0
 web/css/reference/properties/text-shadow,1
 web/css/reference/properties/text-size-adjust,1
 web/css/reference/properties/text-spacing-trim,2
-web/css/reference/properties/text-transform,1
+web/css/reference/properties/text-transform,2
 web/css/reference/properties/text-underline-offset,3
 web/css/reference/properties/text-underline-position,3
 web/css/reference/properties/text-wrap,3
@@ -11535,7 +11536,7 @@ web/css/reference/values/calc-keyword,2
 web/css/reference/values/calc-size,0
 web/css/reference/values/calc-sum,2
 web/css/reference/values/clamp,4
-web/css/reference/values/color-interpolation-method,1
+web/css/reference/values/color-interpolation-method,2
 web/css/reference/values/color_value,0
 web/css/reference/values/color_value/alpha,2
 web/css/reference/values/color_value/color,2
@@ -11603,7 +11604,7 @@ web/css/reference/values/gradient/repeating-linear-gradient,0
 web/css/reference/values/gradient/repeating-radial-gradient,0
 web/css/reference/values/hex-color,1
 web/css/reference/values/hue,1
-web/css/reference/values/hue-interpolation-method,1
+web/css/reference/values/hue-interpolation-method,2
 web/css/reference/values/hypot,0
 web/css/reference/values/ident,2
 web/css/reference/values/if,4
@@ -13216,7 +13217,7 @@ web/javascript/reference/global_objects/symbol/unscopables,0
 web/javascript/reference/global_objects/symbol/valueof,0
 web/javascript/reference/global_objects/syntaxerror,0
 web/javascript/reference/global_objects/syntaxerror/syntaxerror,0
-web/javascript/reference/global_objects/temporal,2
+web/javascript/reference/global_objects/temporal,3
 web/javascript/reference/global_objects/temporal/duration,0
 web/javascript/reference/global_objects/temporal/duration/abs,null
 web/javascript/reference/global_objects/temporal/duration/add,null

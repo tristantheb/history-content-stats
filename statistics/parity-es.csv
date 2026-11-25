@@ -53,7 +53,7 @@ games/tutorials/2d_breakout_game_pure_javascript,0
 games/tutorials/2d_breakout_game_pure_javascript/animations_and_tweens,0
 games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,0
 games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,1
-games/tutorials/2d_breakout_game_pure_javascript/buttons,2
+games/tutorials/2d_breakout_game_pure_javascript/buttons,3
 games/tutorials/2d_breakout_game_pure_javascript/extra_lives,0
 games/tutorials/2d_breakout_game_pure_javascript/game_over,0
 games/tutorials/2d_breakout_game_pure_javascript/initialize_the_canvas,0
@@ -11254,6 +11254,7 @@ web/css/reference/properties/text-align,3
 web/css/reference/properties/text-align-last,null
 web/css/reference/properties/text-anchor,null
 web/css/reference/properties/text-autospace,null
+web/css/reference/properties/text-autospace-size,null
 web/css/reference/properties/text-box,null
 web/css/reference/properties/text-box-edge,null
 web/css/reference/properties/text-box-trim,null
