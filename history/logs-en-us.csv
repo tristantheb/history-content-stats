@@ -1970,7 +1970,7 @@ mozilla/firefox/releases/159,4bf4746470a4d0bd53e4ae7d320849d0c912bb10,Mozilla|Fi
 mozilla/firefox/releases/16,e3a2272d272f21ea38e5fff9bd6ccec2d0dfb1a8,Mozilla|Firefox|Versions
 mozilla/firefox/releases/160,5b678632840c829c7f0ac157372e46cfcb60bc91,Mozilla|Firefox|Versions
 mozilla/firefox/releases/161,5b678632840c829c7f0ac157372e46cfcb60bc91,Mozilla|Firefox|Versions
-mozilla/firefox/releases/162,5b678632840c829c7f0ac157372e46cfcb60bc91,Mozilla|Firefox|Versions
+mozilla/firefox/releases/162,6f16e81ce58f6cf9235f7121550221d4e5ca0c41,Mozilla|Firefox|Versions
 mozilla/firefox/releases/163,5b678632840c829c7f0ac157372e46cfcb60bc91,Mozilla|Firefox|Versions
 mozilla/firefox/releases/17,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
 mozilla/firefox/releases/18,83f4e64da466670c3700110da364546253eae127,Mozilla|Firefox|Versions
@@ -10598,9 +10598,9 @@ web/css/guides/syntax/comments,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guid
 web/css/guides/syntax/error_handling,a397ab763a6686a4056af755e4da32ac735b9fa5,CSS|Guides
 web/css/guides/syntax/introduction,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/table,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/text,2f5d0e19eb706f36f837b84855f581f4bd087d15,CSS|Guides
+web/css/guides/text,eeebbb874aeb67641b37122adf7aac42c5b8f45a,CSS|Guides
 web/css/guides/text/whitespace,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
-web/css/guides/text/wrapping_breaking_text,2f5d0e19eb706f36f837b84855f581f4bd087d15,CSS|Guides
+web/css/guides/text/wrapping_breaking_text,eeebbb874aeb67641b37122adf7aac42c5b8f45a,CSS|Guides
 web/css/guides/text_decoration,c5c748631460fdad4eaba40349ece8408fe24195,CSS|Guides
 web/css/guides/text_decoration/text_shadows,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/transforms,b3cd597b58940518a7712487ce94efc0881cb549,CSS|Guides
@@ -10736,7 +10736,7 @@ web/css/reference/at-rules/@supports,ef4050055cbb6ba03fc245947b47d35252bd2376,CS
 web/css/reference/at-rules/@view-transition,e328268bb418551ab451881845881b5837c9da83,CSS|At-rules
 web/css/reference/at-rules/at-rule_functions,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|At-rules
 web/css/reference/mozilla_extensions,a9fd2746e238ae3948572a94036bb505de19b81b,CSS
-web/css/reference/properties,2f5d0e19eb706f36f837b84855f581f4bd087d15,CSS|Properties
+web/css/reference/properties,eeebbb874aeb67641b37122adf7aac42c5b8f45a,CSS|Properties
 web/css/reference/properties/--_star_,98bbdcd90e5487539cebe19b12fe3d731fb5a03e,CSS|Properties
 web/css/reference/properties/-moz-float-edge,22c0b3059ff71d769af670478cc41605581108d1,CSS|Properties
 web/css/reference/properties/-moz-force-broken-image-icon,c4e64810ce10fb5cb1eebfcd8b6f526866fd0982,CSS|Properties
@@ -11329,6 +11329,7 @@ web/css/reference/properties/width,a8b7faffbd3fdeae5c0be97793d963d8a31cd1cf,CSS|
 web/css/reference/properties/will-change,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Properties
 web/css/reference/properties/word-break,5d36878cea385cee3a4823ffb00ba4cac04a5826,CSS|Properties
 web/css/reference/properties/word-spacing,c4e64810ce10fb5cb1eebfcd8b6f526866fd0982,CSS|Properties
+web/css/reference/properties/wrap-inside,eeebbb874aeb67641b37122adf7aac42c5b8f45a,CSS|Properties
 web/css/reference/properties/writing-mode,e57e3fdd4ab6fb372ddc3d78e5b428f318202426,CSS|Properties
 web/css/reference/properties/x,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
 web/css/reference/properties/y,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties

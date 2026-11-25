@@ -10598,7 +10598,7 @@ web/css/guides/syntax/comments,null
 web/css/guides/syntax/error_handling,null
 web/css/guides/syntax/introduction,null
 web/css/guides/table,null
-web/css/guides/text,5
+web/css/guides/text,6
 web/css/guides/text/whitespace,3
 web/css/guides/text/wrapping_breaking_text,null
 web/css/guides/text_decoration,2
@@ -10736,7 +10736,7 @@ web/css/reference/at-rules/@supports,null
 web/css/reference/at-rules/@view-transition,5
 web/css/reference/at-rules/at-rule_functions,null
 web/css/reference/mozilla_extensions,4
-web/css/reference/properties,6
+web/css/reference/properties,7
 web/css/reference/properties/--_star_,null
 web/css/reference/properties/-moz-float-edge,4
 web/css/reference/properties/-moz-force-broken-image-icon,5
@@ -11329,6 +11329,7 @@ web/css/reference/properties/width,null
 web/css/reference/properties/will-change,4
 web/css/reference/properties/word-break,null
 web/css/reference/properties/word-spacing,8
+web/css/reference/properties/wrap-inside,null
 web/css/reference/properties/writing-mode,null
 web/css/reference/properties/x,null
 web/css/reference/properties/y,null
