@@ -53,7 +53,7 @@ games/tutorials/2d_breakout_game_pure_javascript,69937a446786abf5a58d4214b419259
 games/tutorials/2d_breakout_game_pure_javascript/animations_and_tweens,69937a446786abf5a58d4214b4192597d0b3cdc6,Games|Tutorials
 games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls,69937a446786abf5a58d4214b4192597d0b3cdc6,Games|Tutorials
 games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field,edc9ab5479d1253d9edd93bfe90dd1d100605c26,Games|Tutorials
-games/tutorials/2d_breakout_game_pure_javascript/buttons,edc9ab5479d1253d9edd93bfe90dd1d100605c26,Games|Tutorials
+games/tutorials/2d_breakout_game_pure_javascript/buttons,8cabac65af6de8faa8ef7af3389d4b6b601a4cb4,Games|Tutorials
 games/tutorials/2d_breakout_game_pure_javascript/extra_lives,69937a446786abf5a58d4214b4192597d0b3cdc6,Games|Tutorials
 games/tutorials/2d_breakout_game_pure_javascript/game_over,69937a446786abf5a58d4214b4192597d0b3cdc6,Games|Tutorials
 games/tutorials/2d_breakout_game_pure_javascript/initialize_the_canvas,69937a446786abf5a58d4214b4192597d0b3cdc6,Games|Tutorials
@@ -2774,7 +2774,7 @@ web/api/canvaspattern,daeff1a2efaae366bcc8b6d911d86985646e665e,Web APIs
 web/api/canvaspattern/settransform,b2fb522de3a3aaf238d9b5af8dcf627d201551f7,Web APIs
 web/api/canvasrenderingcontext2d,5b8d7c22883325e4abffcce235520c4a8b840bf3,Web APIs
 web/api/canvasrenderingcontext2d/arc,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
-web/api/canvasrenderingcontext2d/arcto,f336c5b6795a562c64fe859aa9ee2becf223ad8a,Web APIs
+web/api/canvasrenderingcontext2d/arcto,8cabac65af6de8faa8ef7af3389d4b6b601a4cb4,Web APIs
 web/api/canvasrenderingcontext2d/beginpath,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/canvasrenderingcontext2d/beziercurveto,a7265fc3effa7c25b9997135104370c057a65293,Web APIs
 web/api/canvasrenderingcontext2d/canvas,8ccdf412fafde9ee333233cc4549ab4980291ee7,Web APIs
@@ -10598,7 +10598,7 @@ web/css/guides/syntax/comments,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guid
 web/css/guides/syntax/error_handling,a397ab763a6686a4056af755e4da32ac735b9fa5,CSS|Guides
 web/css/guides/syntax/introduction,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/table,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/text,eeebbb874aeb67641b37122adf7aac42c5b8f45a,CSS|Guides
+web/css/guides/text,a32e2ce750837a97815278ef91aa07d3d3f73719,CSS|Guides
 web/css/guides/text/whitespace,32bdfdb82cf91ce9942b694286dec62be2cc20aa,CSS|Guides
 web/css/guides/text/wrapping_breaking_text,eeebbb874aeb67641b37122adf7aac42c5b8f45a,CSS|Guides
 web/css/guides/text_decoration,c5c748631460fdad4eaba40349ece8408fe24195,CSS|Guides
@@ -11253,7 +11253,8 @@ web/css/reference/properties/table-layout,071fd0613b1b5728d2d83845ea11512cb61506
 web/css/reference/properties/text-align,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/text-align-last,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-anchor,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
-web/css/reference/properties/text-autospace,05b21c9303964f221febe77f053e5636f230afe9,CSS|Properties
+web/css/reference/properties/text-autospace,a32e2ce750837a97815278ef91aa07d3d3f73719,CSS|Properties
+web/css/reference/properties/text-autospace-size,a32e2ce750837a97815278ef91aa07d3d3f73719,CSS|Properties
 web/css/reference/properties/text-box,c4e64810ce10fb5cb1eebfcd8b6f526866fd0982,CSS|Properties
 web/css/reference/properties/text-box-edge,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
 web/css/reference/properties/text-box-trim,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
@@ -11279,7 +11280,7 @@ web/css/reference/properties/text-rendering,7cabe7010a0ccfcf587ddac1571963eba102
 web/css/reference/properties/text-shadow,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/text-size-adjust,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/text-spacing-trim,e976b4bf6b9e0c68b4321904560df47804d8cc48,CSS|Properties
-web/css/reference/properties/text-transform,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
+web/css/reference/properties/text-transform,8cabac65af6de8faa8ef7af3389d4b6b601a4cb4,CSS|Properties
 web/css/reference/properties/text-underline-offset,3fb9ea0187429234b47cb0385a9515a69757fe63,CSS|Properties
 web/css/reference/properties/text-underline-position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/text-wrap,5381238460a48ff323a93e652d15cb62598f0262,CSS|Properties
@@ -11535,7 +11536,7 @@ web/css/reference/values/calc-keyword,bc838d9946a95b501a9ce3e522929eebcce7a3e5,C
 web/css/reference/values/calc-size,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/calc-sum,bc838d9946a95b501a9ce3e522929eebcce7a3e5,CSS|Values
 web/css/reference/values/clamp,5cea7df435db1905b06d693b0192ef1e2166d6a7,CSS|Values
-web/css/reference/values/color-interpolation-method,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Values
+web/css/reference/values/color-interpolation-method,42994d9657fd9771d5c45579521d947ba5babc05,CSS|Values
 web/css/reference/values/color_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/color_value/alpha,77ee105b32c153b8822321ce54462134d4767c50,CSS|Values
 web/css/reference/values/color_value/color,c44003c788a907ef19e0d766e98f29ffca5b6798,CSS|Values
@@ -11603,7 +11604,7 @@ web/css/reference/values/gradient/repeating-linear-gradient,b760560abe30bd69ca96
 web/css/reference/values/gradient/repeating-radial-gradient,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/hex-color,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/hue,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
-web/css/reference/values/hue-interpolation-method,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Values
+web/css/reference/values/hue-interpolation-method,42994d9657fd9771d5c45579521d947ba5babc05,CSS|Values
 web/css/reference/values/hypot,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/ident,cad9096502d2a74b34a67377bbb0ac88fcfa58c2,CSS|Values
 web/css/reference/values/if,25abd448c8a088e9f333360dea0adbe8143e6b86,CSS|Values
@@ -13216,7 +13217,7 @@ web/javascript/reference/global_objects/symbol/unscopables,a4fcf79b60471db6f148f
 web/javascript/reference/global_objects/symbol/valueof,cd22b9f18cf2450c0cc488379b8b780f0f343397,JavaScript|Global Objects
 web/javascript/reference/global_objects/syntaxerror,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
 web/javascript/reference/global_objects/syntaxerror/syntaxerror,544b843570cb08d1474cfc5ec03ffb9f4edc0166,JavaScript|Global Objects
-web/javascript/reference/global_objects/temporal,c44f591049bc129b356acb0a9ce281974c035113,JavaScript|Global Objects
+web/javascript/reference/global_objects/temporal,8cabac65af6de8faa8ef7af3389d4b6b601a4cb4,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/duration,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/duration/abs,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
 web/javascript/reference/global_objects/temporal/duration/add,7e14795a6ef2bf5e760c315ce64800dd1cd98c29,JavaScript|Global Objects
