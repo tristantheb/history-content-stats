@@ -1970,7 +1970,7 @@ mozilla/firefox/releases/159,0
 mozilla/firefox/releases/16,0
 mozilla/firefox/releases/160,0
 mozilla/firefox/releases/161,0
-mozilla/firefox/releases/162,1
+mozilla/firefox/releases/162,0
 mozilla/firefox/releases/163,0
 mozilla/firefox/releases/17,0
 mozilla/firefox/releases/18,0
@@ -10598,9 +10598,9 @@ web/css/guides/syntax/comments,0
 web/css/guides/syntax/error_handling,0
 web/css/guides/syntax/introduction,0
 web/css/guides/table,0
-web/css/guides/text,1
+web/css/guides/text,0
 web/css/guides/text/whitespace,0
-web/css/guides/text/wrapping_breaking_text,1
+web/css/guides/text/wrapping_breaking_text,0
 web/css/guides/text_decoration,0
 web/css/guides/text_decoration/text_shadows,0
 web/css/guides/transforms,0
@@ -10736,7 +10736,7 @@ web/css/reference/at-rules/@supports,0
 web/css/reference/at-rules/@view-transition,0
 web/css/reference/at-rules/at-rule_functions,0
 web/css/reference/mozilla_extensions,0
-web/css/reference/properties,1
+web/css/reference/properties,0
 web/css/reference/properties/--_star_,0
 web/css/reference/properties/-moz-float-edge,0
 web/css/reference/properties/-moz-force-broken-image-icon,0
@@ -11254,6 +11254,7 @@ web/css/reference/properties/text-align,0
 web/css/reference/properties/text-align-last,0
 web/css/reference/properties/text-anchor,0
 web/css/reference/properties/text-autospace,0
+web/css/reference/properties/text-autospace-size,0
 web/css/reference/properties/text-box,0
 web/css/reference/properties/text-box-edge,0
 web/css/reference/properties/text-box-trim,0
@@ -11329,7 +11330,7 @@ web/css/reference/properties/width,0
 web/css/reference/properties/will-change,0
 web/css/reference/properties/word-break,0
 web/css/reference/properties/word-spacing,0
-web/css/reference/properties/wrap-inside,null
+web/css/reference/properties/wrap-inside,0
 web/css/reference/properties/writing-mode,0
 web/css/reference/properties/x,0
 web/css/reference/properties/y,0

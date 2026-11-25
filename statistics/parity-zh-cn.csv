@@ -2774,7 +2774,7 @@ web/api/canvaspattern,0
 web/api/canvaspattern/settransform,2
 web/api/canvasrenderingcontext2d,7
 web/api/canvasrenderingcontext2d/arc,2
-web/api/canvasrenderingcontext2d/arcto,12
+web/api/canvasrenderingcontext2d/arcto,13
 web/api/canvasrenderingcontext2d/beginpath,1
 web/api/canvasrenderingcontext2d/beziercurveto,1
 web/api/canvasrenderingcontext2d/canvas,2
@@ -10598,7 +10598,7 @@ web/css/guides/syntax/comments,null
 web/css/guides/syntax/error_handling,null
 web/css/guides/syntax/introduction,null
 web/css/guides/table,null
-web/css/guides/text,6
+web/css/guides/text,7
 web/css/guides/text/whitespace,3
 web/css/guides/text/wrapping_breaking_text,null
 web/css/guides/text_decoration,2
@@ -11253,7 +11253,8 @@ web/css/reference/properties/table-layout,null
 web/css/reference/properties/text-align,3
 web/css/reference/properties/text-align-last,null
 web/css/reference/properties/text-anchor,null
-web/css/reference/properties/text-autospace,5
+web/css/reference/properties/text-autospace,6
+web/css/reference/properties/text-autospace-size,null
 web/css/reference/properties/text-box,null
 web/css/reference/properties/text-box-edge,null
 web/css/reference/properties/text-box-trim,null
@@ -11535,7 +11536,7 @@ web/css/reference/values/calc-keyword,null
 web/css/reference/values/calc-size,null
 web/css/reference/values/calc-sum,null
 web/css/reference/values/clamp,null
-web/css/reference/values/color-interpolation-method,7
+web/css/reference/values/color-interpolation-method,8
 web/css/reference/values/color_value,5
 web/css/reference/values/color_value/alpha,null
 web/css/reference/values/color_value/color,null
@@ -13216,7 +13217,7 @@ web/javascript/reference/global_objects/symbol/unscopables,null
 web/javascript/reference/global_objects/symbol/valueof,4
 web/javascript/reference/global_objects/syntaxerror,null
 web/javascript/reference/global_objects/syntaxerror/syntaxerror,null
-web/javascript/reference/global_objects/temporal,1
+web/javascript/reference/global_objects/temporal,2
 web/javascript/reference/global_objects/temporal/duration,null
 web/javascript/reference/global_objects/temporal/duration/abs,null
 web/javascript/reference/global_objects/temporal/duration/add,null

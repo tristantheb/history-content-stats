@@ -11253,7 +11253,8 @@ web/css/reference/properties/table-layout,0
 web/css/reference/properties/text-align,0
 web/css/reference/properties/text-align-last,0
 web/css/reference/properties/text-anchor,0
-web/css/reference/properties/text-autospace,0
+web/css/reference/properties/text-autospace,1
+web/css/reference/properties/text-autospace-size,null
 web/css/reference/properties/text-box,0
 web/css/reference/properties/text-box-edge,0
 web/css/reference/properties/text-box-trim,0
@@ -11279,7 +11280,7 @@ web/css/reference/properties/text-rendering,0
 web/css/reference/properties/text-shadow,0
 web/css/reference/properties/text-size-adjust,0
 web/css/reference/properties/text-spacing-trim,0
-web/css/reference/properties/text-transform,0
+web/css/reference/properties/text-transform,1
 web/css/reference/properties/text-underline-offset,0
 web/css/reference/properties/text-underline-position,0
 web/css/reference/properties/text-wrap,0
@@ -11535,7 +11536,7 @@ web/css/reference/values/calc-keyword,1
 web/css/reference/values/calc-size,0
 web/css/reference/values/calc-sum,1
 web/css/reference/values/clamp,1
-web/css/reference/values/color-interpolation-method,1
+web/css/reference/values/color-interpolation-method,2
 web/css/reference/values/color_value,0
 web/css/reference/values/color_value/alpha,0
 web/css/reference/values/color_value/color,0
@@ -11603,7 +11604,7 @@ web/css/reference/values/gradient/repeating-linear-gradient,0
 web/css/reference/values/gradient/repeating-radial-gradient,0
 web/css/reference/values/hex-color,0
 web/css/reference/values/hue,0
-web/css/reference/values/hue-interpolation-method,1
+web/css/reference/values/hue-interpolation-method,2
 web/css/reference/values/hypot,0
 web/css/reference/values/ident,0
 web/css/reference/values/if,2
@@ -13216,7 +13217,7 @@ web/javascript/reference/global_objects/symbol/unscopables,null
 web/javascript/reference/global_objects/symbol/valueof,null
 web/javascript/reference/global_objects/syntaxerror,null
 web/javascript/reference/global_objects/syntaxerror/syntaxerror,null
-web/javascript/reference/global_objects/temporal,1
+web/javascript/reference/global_objects/temporal,2
 web/javascript/reference/global_objects/temporal/duration,0
 web/javascript/reference/global_objects/temporal/duration/abs,0
 web/javascript/reference/global_objects/temporal/duration/add,0
