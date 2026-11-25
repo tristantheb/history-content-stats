@@ -545,7 +545,7 @@ glossary/screen_reader,0
 glossary/script-supporting_element,0
 glossary/scroll_boundary,0
 glossary/scroll_chaining,0
-glossary/scroll_container,1
+glossary/scroll_container,0
 glossary/scroll_snap,0
 glossary/sctp,0
 glossary/sdk,0
@@ -2235,7 +2235,7 @@ web/accessibility/aria/reference/roles/searchbox_role,0
 web/accessibility/aria/reference/roles/section_role,0
 web/accessibility/aria/reference/roles/sectionhead_role,0
 web/accessibility/aria/reference/roles/select_role,0
-web/accessibility/aria/reference/roles/separator_role,1
+web/accessibility/aria/reference/roles/separator_role,0
 web/accessibility/aria/reference/roles/slider_role,0
 web/accessibility/aria/reference/roles/spinbutton_role,0
 web/accessibility/aria/reference/roles/status_role,0
@@ -2253,7 +2253,7 @@ web/accessibility/aria/reference/roles/timer_role,0
 web/accessibility/aria/reference/roles/toolbar_role,0
 web/accessibility/aria/reference/roles/tooltip_role,0
 web/accessibility/aria/reference/roles/tree_role,0
-web/accessibility/aria/reference/roles/treegrid_role,1
+web/accessibility/aria/reference/roles/treegrid_role,0
 web/accessibility/aria/reference/roles/treeitem_role,0
 web/accessibility/aria/reference/roles/widget_role,0
 web/accessibility/aria/reference/roles/window_role,0
@@ -3889,7 +3889,7 @@ web/api/element/ariavaluetext,0
 web/api/element/assignedslot,0
 web/api/element/attachshadow,0
 web/api/element/attributes,0
-web/api/element/auxclick_event,1
+web/api/element/auxclick_event,0
 web/api/element/before,0
 web/api/element/beforeinput_event,0
 web/api/element/beforematch_event,0
@@ -10402,7 +10402,7 @@ web/api/xsltprocessor/setparameter,0
 web/api/xsltprocessor/transformtodocument,0
 web/api/xsltprocessor/transformtofragment,0
 web/api/xsltprocessor/xsltprocessor,0
-web/css,1
+web/css,0
 web/css/guides,0
 web/css/guides/anchor_positioning,0
 web/css/guides/anchor_positioning/anchored_container_queries,0
@@ -10479,7 +10479,7 @@ web/css/guides/display/visual_formatting_model,0
 web/css/guides/easing_functions,0
 web/css/guides/environment_variables,0
 web/css/guides/environment_variables/using,0
-web/css/guides/filter_effects,1
+web/css/guides/filter_effects,0
 web/css/guides/filter_effects/using,0
 web/css/guides/flexible_box_layout,0
 web/css/guides/flexible_box_layout/aligning_items,0
@@ -10598,16 +10598,16 @@ web/css/guides/syntax/comments,0
 web/css/guides/syntax/error_handling,0
 web/css/guides/syntax/introduction,0
 web/css/guides/table,0
-web/css/guides/text,1
+web/css/guides/text,0
 web/css/guides/text/whitespace,0
-web/css/guides/text/wrapping_breaking_text,1
+web/css/guides/text/wrapping_breaking_text,0
 web/css/guides/text_decoration,0
 web/css/guides/text_decoration/text_shadows,0
 web/css/guides/transforms,0
 web/css/guides/transforms/using,0
 web/css/guides/transitions,0
 web/css/guides/transitions/using,0
-web/css/guides/values_and_units,1
+web/css/guides/values_and_units,0
 web/css/guides/values_and_units/numeric_data_types,0
 web/css/guides/values_and_units/textual_data_types,0
 web/css/guides/values_and_units/using_math_functions,0
@@ -10736,7 +10736,7 @@ web/css/reference/at-rules/@supports,0
 web/css/reference/at-rules/@view-transition,0
 web/css/reference/at-rules/at-rule_functions,0
 web/css/reference/mozilla_extensions,0
-web/css/reference/properties,1
+web/css/reference/properties,0
 web/css/reference/properties/--_star_,0
 web/css/reference/properties/-moz-float-edge,0
 web/css/reference/properties/-moz-force-broken-image-icon,0
@@ -11020,8 +11020,8 @@ web/css/reference/properties/grid-template-rows,0
 web/css/reference/properties/hanging-punctuation,0
 web/css/reference/properties/height,0
 web/css/reference/properties/hyphenate-character,0
-web/css/reference/properties/hyphenate-limit-chars,1
-web/css/reference/properties/hyphenate-limit-lines,null
+web/css/reference/properties/hyphenate-limit-chars,0
+web/css/reference/properties/hyphenate-limit-lines,0
 web/css/reference/properties/hyphens,0
 web/css/reference/properties/image-orientation,0
 web/css/reference/properties/image-rendering,0
@@ -11161,7 +11161,7 @@ web/css/reference/properties/position-area,0
 web/css/reference/properties/position-try,0
 web/css/reference/properties/position-try-fallbacks,0
 web/css/reference/properties/position-try-order,0
-web/css/reference/properties/position-visibility,1
+web/css/reference/properties/position-visibility,0
 web/css/reference/properties/print-color-adjust,0
 web/css/reference/properties/quotes,0
 web/css/reference/properties/r,0
@@ -11504,7 +11504,7 @@ web/css/reference/selectors/universal_selectors,0
 web/css/reference/values,0
 web/css/reference/values/-moz-image-rect,0
 web/css/reference/values/abs,0
-web/css/reference/values/absolute-size,1
+web/css/reference/values/absolute-size,0
 web/css/reference/values/acos,0
 web/css/reference/values/alpha-value,0
 web/css/reference/values/anchor,0
@@ -11742,7 +11742,7 @@ web/html/reference/attributes/rel/modulepreload,0
 web/html/reference/attributes/rel/noopener,0
 web/html/reference/attributes/rel/noreferrer,0
 web/html/reference/attributes/rel/preconnect,0
-web/html/reference/attributes/rel/prefetch,1
+web/html/reference/attributes/rel/prefetch,0
 web/html/reference/attributes/rel/preload,0
 web/html/reference/attributes/rel/prerender,0
 web/html/reference/attributes/required,0
