@@ -2617,7 +2617,7 @@ web/api/element/cut_event,no_hash_commit
 web/api/element/dblclick_event,no_hash_commit
 web/api/element/domactivate_event,no_hash_commit
 web/api/element/elementtiming,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
-web/api/element/firstelementchild,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
+web/api/element/firstelementchild,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b
 web/api/element/focus_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/focusin_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/focusout_event,no_hash_commit
@@ -2647,7 +2647,7 @@ web/api/element/insertadjacenttext,no_hash_commit
 web/api/element/keydown_event,ac7f589f2471fde8e5ee910a7fbd8a4bff931140
 web/api/element/keypress_event,ca6052779ddca9f6d99665f12c39aa2d85d85733
 web/api/element/keyup_event,no_hash_commit
-web/api/element/lastelementchild,bbf7f25f9cf95fb154e2740a9fdc9c02818981bf
+web/api/element/lastelementchild,06bb5f22d50ff3579a12aebf7e8c9f02cfa2468b
 web/api/element/localname,no_hash_commit
 web/api/element/lostpointercapture_event,no_hash_commit
 web/api/element/matches,no_hash_commit
@@ -6492,6 +6492,7 @@ web/javascript/reference/functions,no_hash_commit
 web/javascript/reference/functions/method_definitions,no_hash_commit
 web/javascript/reference/functions/rest_parameters,fad67be4431d8e6c2a89ac880735233aa76c41d4
 web/javascript/reference/functions/set,no_hash_commit
+web/javascript/reference/global_objects/abstractmodulesource,31bad7cd99cccf47f6332b81bbff4371e2bc551f
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,no_hash_commit
 web/javascript/reference/global_objects/aggregateerror/errors,544b843570cb08d1474cfc5ec03ffb9f4edc0166
 web/javascript/reference/global_objects/aggregateerror,no_hash_commit
