@@ -3921,7 +3921,7 @@ web/api/element/dblclick_event,null
 web/api/element/domactivate_event,null
 web/api/element/dommousescroll_event,null
 web/api/element/elementtiming,2
-web/api/element/firstelementchild,1
+web/api/element/firstelementchild,0
 web/api/element/focus_event,1
 web/api/element/focusin_event,1
 web/api/element/focusout_event,null
@@ -3956,7 +3956,7 @@ web/api/element/insertadjacenttext,null
 web/api/element/keydown_event,1
 web/api/element/keypress_event,2
 web/api/element/keyup_event,null
-web/api/element/lastelementchild,1
+web/api/element/lastelementchild,0
 web/api/element/localname,null
 web/api/element/lostpointercapture_event,null
 web/api/element/matches,null
@@ -12521,7 +12521,7 @@ web/javascript/reference/functions/method_definitions,null
 web/javascript/reference/functions/rest_parameters,0
 web/javascript/reference/functions/set,null
 web/javascript/reference/global_objects,null
-web/javascript/reference/global_objects/abstractmodulesource,null
+web/javascript/reference/global_objects/abstractmodulesource,0
 web/javascript/reference/global_objects/aggregateerror,null
 web/javascript/reference/global_objects/aggregateerror/aggregateerror,null
 web/javascript/reference/global_objects/aggregateerror/errors,0
