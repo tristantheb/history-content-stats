@@ -7066,7 +7066,7 @@ web/api/pushevent,null
 web/api/pushevent/data,null
 web/api/pushevent/pushevent,null
 web/api/pushmanager,null
-web/api/pushmanager/getsubscription,0
+web/api/pushmanager/getsubscription,1
 web/api/pushmanager/haspermission,null
 web/api/pushmanager/permissionstate,null
 web/api/pushmanager/register,null
@@ -7085,7 +7085,6 @@ web/api/pushsubscription/endpoint,null
 web/api/pushsubscription/expirationtime,0
 web/api/pushsubscription/getkey,null
 web/api/pushsubscription/options,null
-web/api/pushsubscription/subscriptionid,null
 web/api/pushsubscription/tojson,null
 web/api/pushsubscription/unsubscribe,null
 web/api/pushsubscriptionoptions,null

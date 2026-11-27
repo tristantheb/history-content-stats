@@ -5048,7 +5048,7 @@ web/api/htmlimageelement/border,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web API
 web/api/htmlimageelement/complete,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
 web/api/htmlimageelement/crossorigin,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
 web/api/htmlimageelement/currentsrc,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
-web/api/htmlimageelement/decode,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
+web/api/htmlimageelement/decode,fefef505d2df84836d3a1312f31a724cdbe0186e,Web APIs
 web/api/htmlimageelement/decoding,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
 web/api/htmlimageelement/fetchpriority,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
 web/api/htmlimageelement/height,1f00512e3c9a20b5bb927db529bb5d639e346d96,Web APIs
@@ -7066,7 +7066,7 @@ web/api/pushevent,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
 web/api/pushevent/data,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
 web/api/pushevent/pushevent,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
 web/api/pushmanager,4ccd81240a6d531962fab92886631885a90bfa3c,Web APIs
-web/api/pushmanager/getsubscription,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
+web/api/pushmanager/getsubscription,306ea44240e8d3019883cca081ac13752edb721a,Web APIs
 web/api/pushmanager/haspermission,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/pushmanager/permissionstate,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/pushmanager/register,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
@@ -7080,12 +7080,11 @@ web/api/pushmessagedata/blob,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
 web/api/pushmessagedata/bytes,562051c4ad20e9ecb5faf905286cdfca545a340d,Web APIs
 web/api/pushmessagedata/json,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
 web/api/pushmessagedata/text,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
-web/api/pushsubscription,6bb81a788ff71f726e32d16757c99d5c45a7edf9,Web APIs
+web/api/pushsubscription,306ea44240e8d3019883cca081ac13752edb721a,Web APIs
 web/api/pushsubscription/endpoint,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
 web/api/pushsubscription/expirationtime,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
 web/api/pushsubscription/getkey,3e543cdfe8dddfb4774a64bf3decdcbab42a4111,Web APIs
 web/api/pushsubscription/options,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Web APIs
-web/api/pushsubscription/subscriptionid,ca6052779ddca9f6d99665f12c39aa2d85d85733,Web APIs
 web/api/pushsubscription/tojson,15d531b54c7f0d96ac80ef00b494fd40743d59ce,Web APIs
 web/api/pushsubscription/unsubscribe,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
 web/api/pushsubscriptionoptions,11f58a4cd8758f89056900a6fb7c21e2d42fa6f1,Web APIs
@@ -7904,7 +7903,7 @@ web/api/serviceworkerregistration/installing,e4c0939929e1b3e1fa3fd3da82b827fca3e
 web/api/serviceworkerregistration/navigationpreload,4de6f76bbfd76229db78ffb7d52cf6b4cb9f31f8,Web APIs
 web/api/serviceworkerregistration/paymentmanager,73ca80b86a348f88f51fdb8f9441c114b76e94f1,Web APIs
 web/api/serviceworkerregistration/periodicsync,0ca040b6a9cfd931558bd1d3a402707abddc1924,Web APIs
-web/api/serviceworkerregistration/pushmanager,3a91caa0ebbc5131ed75afe0e5168cd5bffc0976,Web APIs
+web/api/serviceworkerregistration/pushmanager,306ea44240e8d3019883cca081ac13752edb721a,Web APIs
 web/api/serviceworkerregistration/scope,e9b95b3735a9e928fbdf3fe0a9f69c420b44cd79,Web APIs
 web/api/serviceworkerregistration/shownotification,922949d1d9793e97e4cf9f2513a967e74b0171cf,Web APIs
 web/api/serviceworkerregistration/sync,56df677713fecf43ec0eb8862cb91c141aaa0005,Web APIs

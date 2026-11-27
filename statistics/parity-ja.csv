@@ -5048,7 +5048,7 @@ web/api/htmlimageelement/border,3
 web/api/htmlimageelement/complete,3
 web/api/htmlimageelement/crossorigin,5
 web/api/htmlimageelement/currentsrc,5
-web/api/htmlimageelement/decode,2
+web/api/htmlimageelement/decode,3
 web/api/htmlimageelement/decoding,2
 web/api/htmlimageelement/fetchpriority,3
 web/api/htmlimageelement/height,6
@@ -7066,7 +7066,7 @@ web/api/pushevent,2
 web/api/pushevent/data,3
 web/api/pushevent/pushevent,0
 web/api/pushmanager,6
-web/api/pushmanager/getsubscription,2
+web/api/pushmanager/getsubscription,3
 web/api/pushmanager/haspermission,4
 web/api/pushmanager/permissionstate,4
 web/api/pushmanager/register,5
@@ -7080,12 +7080,11 @@ web/api/pushmessagedata/blob,2
 web/api/pushmessagedata/bytes,null
 web/api/pushmessagedata/json,2
 web/api/pushmessagedata/text,2
-web/api/pushsubscription,5
+web/api/pushsubscription,6
 web/api/pushsubscription/endpoint,2
 web/api/pushsubscription/expirationtime,3
 web/api/pushsubscription/getkey,5
 web/api/pushsubscription/options,3
-web/api/pushsubscription/subscriptionid,4
 web/api/pushsubscription/tojson,4
 web/api/pushsubscription/unsubscribe,2
 web/api/pushsubscriptionoptions,5
@@ -7904,7 +7903,7 @@ web/api/serviceworkerregistration/installing,0
 web/api/serviceworkerregistration/navigationpreload,0
 web/api/serviceworkerregistration/paymentmanager,0
 web/api/serviceworkerregistration/periodicsync,0
-web/api/serviceworkerregistration/pushmanager,0
+web/api/serviceworkerregistration/pushmanager,1
 web/api/serviceworkerregistration/scope,0
 web/api/serviceworkerregistration/shownotification,0
 web/api/serviceworkerregistration/sync,0
