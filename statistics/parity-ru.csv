@@ -1843,6 +1843,7 @@ mozilla/add-ons/webextensions/manifest.json/host_permissions,null
 mozilla/add-ons/webextensions/manifest.json/icons,null
 mozilla/add-ons/webextensions/manifest.json/incognito,null
 mozilla/add-ons/webextensions/manifest.json/manifest_version,1
+mozilla/add-ons/webextensions/manifest.json/message_serialization,null
 mozilla/add-ons/webextensions/manifest.json/name,null
 mozilla/add-ons/webextensions/manifest.json/omnibox,null
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,null
@@ -10498,6 +10499,7 @@ web/css/guides/gaps,null
 web/css/guides/gaps/defining_gaps,null
 web/css/guides/gaps/defining_rules,null
 web/css/guides/gaps/overview,null
+web/css/guides/gaps/rule_insets,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -11637,6 +11639,7 @@ web/css/reference/values/position_value,null
 web/css/reference/values/pow,null
 web/css/reference/values/progress,null
 web/css/reference/values/random,null
+web/css/reference/values/random-key,null
 web/css/reference/values/ratio,null
 web/css/reference/values/ray,null
 web/css/reference/values/relative-size,null

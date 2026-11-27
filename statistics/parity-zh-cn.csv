@@ -1146,7 +1146,7 @@ mozilla/add-ons/webextensions/api/alarms,1
 mozilla/add-ons/webextensions/api/alarms/alarm,4
 mozilla/add-ons/webextensions/api/alarms/clear,3
 mozilla/add-ons/webextensions/api/alarms/clearall,6
-mozilla/add-ons/webextensions/api/alarms/create,7
+mozilla/add-ons/webextensions/api/alarms/create,8
 mozilla/add-ons/webextensions/api/alarms/get,4
 mozilla/add-ons/webextensions/api/alarms/getall,3
 mozilla/add-ons/webextensions/api/alarms/onalarm,4
@@ -1565,7 +1565,7 @@ mozilla/add-ons/webextensions/api/runtime/port,null
 mozilla/add-ons/webextensions/api/runtime/reload,null
 mozilla/add-ons/webextensions/api/runtime/requestupdatecheck,null
 mozilla/add-ons/webextensions/api/runtime/requestupdatecheckstatus,null
-mozilla/add-ons/webextensions/api/runtime/sendmessage,6
+mozilla/add-ons/webextensions/api/runtime/sendmessage,7
 mozilla/add-ons/webextensions/api/runtime/sendnativemessage,null
 mozilla/add-ons/webextensions/api/runtime/setuninstallurl,null
 mozilla/add-ons/webextensions/api/scripting,4
@@ -1642,7 +1642,7 @@ mozilla/add-ons/webextensions/api/tabgroups/update,null
 mozilla/add-ons/webextensions/api/tabs,9
 mozilla/add-ons/webextensions/api/tabs/capturetab,3
 mozilla/add-ons/webextensions/api/tabs/capturevisibletab,4
-mozilla/add-ons/webextensions/api/tabs/connect,7
+mozilla/add-ons/webextensions/api/tabs/connect,8
 mozilla/add-ons/webextensions/api/tabs/create,6
 mozilla/add-ons/webextensions/api/tabs/detectlanguage,4
 mozilla/add-ons/webextensions/api/tabs/discard,3
@@ -1685,7 +1685,7 @@ mozilla/add-ons/webextensions/api/tabs/reload,4
 mozilla/add-ons/webextensions/api/tabs/remove,5
 mozilla/add-ons/webextensions/api/tabs/removecss,4
 mozilla/add-ons/webextensions/api/tabs/saveaspdf,2
-mozilla/add-ons/webextensions/api/tabs/sendmessage,6
+mozilla/add-ons/webextensions/api/tabs/sendmessage,7
 mozilla/add-ons/webextensions/api/tabs/sendrequest,3
 mozilla/add-ons/webextensions/api/tabs/setzoom,3
 mozilla/add-ons/webextensions/api/tabs/setzoomsettings,4
@@ -1806,7 +1806,7 @@ mozilla/add-ons/webextensions/api/windows/windowtype,2
 mozilla/add-ons/webextensions/background_scripts,null
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,2
 mozilla/add-ons/webextensions/build_a_cross_browser_extension,null
-mozilla/add-ons/webextensions/chrome_incompatibilities,12
+mozilla/add-ons/webextensions/chrome_incompatibilities,13
 mozilla/add-ons/webextensions/content_scripts,null
 mozilla/add-ons/webextensions/content_scripts/cloneinto,null
 mozilla/add-ons/webextensions/content_scripts/exportfunction,null
@@ -1843,6 +1843,7 @@ mozilla/add-ons/webextensions/manifest.json/host_permissions,null
 mozilla/add-ons/webextensions/manifest.json/icons,null
 mozilla/add-ons/webextensions/manifest.json/incognito,null
 mozilla/add-ons/webextensions/manifest.json/manifest_version,null
+mozilla/add-ons/webextensions/manifest.json/message_serialization,null
 mozilla/add-ons/webextensions/manifest.json/name,null
 mozilla/add-ons/webextensions/manifest.json/omnibox,null
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,null
@@ -10498,6 +10499,7 @@ web/css/guides/gaps,null
 web/css/guides/gaps/defining_gaps,null
 web/css/guides/gaps/defining_rules,null
 web/css/guides/gaps/overview,null
+web/css/guides/gaps/rule_insets,null
 web/css/guides/generated_content,null
 web/css/guides/grid_layout,null
 web/css/guides/grid_layout/accessibility,null
@@ -10606,7 +10608,7 @@ web/css/guides/transforms,null
 web/css/guides/transforms/using,null
 web/css/guides/transitions,null
 web/css/guides/transitions/using,null
-web/css/guides/values_and_units,8
+web/css/guides/values_and_units,9
 web/css/guides/values_and_units/numeric_data_types,null
 web/css/guides/values_and_units/textual_data_types,null
 web/css/guides/values_and_units/using_math_functions,null
@@ -11637,6 +11639,7 @@ web/css/reference/values/position_value,null
 web/css/reference/values/pow,null
 web/css/reference/values/progress,null
 web/css/reference/values/random,null
+web/css/reference/values/random-key,null
 web/css/reference/values/ratio,3
 web/css/reference/values/ray,null
 web/css/reference/values/relative-size,3
