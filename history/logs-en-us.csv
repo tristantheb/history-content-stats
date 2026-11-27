@@ -1146,7 +1146,7 @@ mozilla/add-ons/webextensions/api/alarms,09109b6f9444d22215ba330ec1e64e73980b2a6
 mozilla/add-ons/webextensions/api/alarms/alarm,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/clear,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/clearall,04a38e9eb73401ea6169282080151f7475873466,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/alarms/create,b84147564967f3b6875ff8cf439f263aa1ea5b08,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/alarms/create,f34cfc779566e16e12cae87369c44e1360e14b25,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/get,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/getall,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/alarms/onalarm,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1523,7 +1523,7 @@ mozilla/add-ons/webextensions/api/publicsuffix/getdomain,afcdfa050626bb7eb05ee69
 mozilla/add-ons/webextensions/api/publicsuffix/getknownsuffix,79dc4b2dfc4d0564581cc4e417e5a2cfdd64bbd6,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/publicsuffix/isknownsuffix,79dc4b2dfc4d0564581cc4e417e5a2cfdd64bbd6,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime,9791add3508e087982097f25fbd367c21bcb8305,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/runtime/connect,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/runtime/connect,a7a29a52744438c207ab630908ce027b5d3c5de0,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/connectnative,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/getbackgroundpage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/getbrowserinfo,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1543,7 +1543,7 @@ mozilla/add-ons/webextensions/api/runtime/onconnect,09109b6f9444d22215ba330ec1e6
 mozilla/add-ons/webextensions/api/runtime/onconnectexternal,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/oninstalled,a4fcf79b60471db6f148fa4ba36f2cdeafbbeb70,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/oninstalledreason,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/runtime/onmessage,7b9d2e318ce7478530f4f31bdc24e36fcc6c41fa,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/runtime/onmessage,a7a29a52744438c207ab630908ce027b5d3c5de0,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/onmessageexternal,7b9d2e318ce7478530f4f31bdc24e36fcc6c41fa,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/onperformancewarning,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/onperformancewarningcategory,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1561,11 +1561,11 @@ mozilla/add-ons/webextensions/api/runtime/platformarch,c6a89971a820ca6b76479a7ff
 mozilla/add-ons/webextensions/api/runtime/platforminfo,d093679f1b6c69e417e761d90eca65681e5f95f4,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/platformnaclarch,a4ff34eef85ccb654c5c3af7974caba396e8adcf,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/platformos,df570fdf78db5cb13265b2dcfa1cdc73a0b66318,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/runtime/port,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/runtime/port,a7a29a52744438c207ab630908ce027b5d3c5de0,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/reload,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/requestupdatecheck,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/requestupdatecheckstatus,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/runtime/sendmessage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/runtime/sendmessage,a7a29a52744438c207ab630908ce027b5d3c5de0,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/sendnativemessage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/runtime/setuninstallurl,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/scripting,674fbb492c76a45adf433810f0f5737a0405bd9c,Mozilla|Firefox Add-ons
@@ -1642,7 +1642,7 @@ mozilla/add-ons/webextensions/api/tabgroups/update,5137b45128dcf07ac636da68184f0
 mozilla/add-ons/webextensions/api/tabs,674fbb492c76a45adf433810f0f5737a0405bd9c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/capturetab,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/capturevisibletab,674fbb492c76a45adf433810f0f5737a0405bd9c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabs/connect,9791add3508e087982097f25fbd367c21bcb8305,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabs/connect,a7a29a52744438c207ab630908ce027b5d3c5de0,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/create,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/detectlanguage,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/discard,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1685,7 +1685,7 @@ mozilla/add-ons/webextensions/api/tabs/reload,09109b6f9444d22215ba330ec1e64e7398
 mozilla/add-ons/webextensions/api/tabs/remove,8bc98818dfbc851ee6749b123e98f5eeb7e43923,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/removecss,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/saveaspdf,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/api/tabs/sendmessage,9791add3508e087982097f25fbd367c21bcb8305,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/api/tabs/sendmessage,a7a29a52744438c207ab630908ce027b5d3c5de0,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/sendrequest,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/setzoom,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/api/tabs/setzoomsettings,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
@@ -1806,8 +1806,8 @@ mozilla/add-ons/webextensions/api/windows/windowtype,09109b6f9444d22215ba330ec1e
 mozilla/add-ons/webextensions/background_scripts,7b9d2e318ce7478530f4f31bdc24e36fcc6c41fa,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/browser_support_for_javascript_apis,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/build_a_cross_browser_extension,8adfa9f21be15f90b5ee73dbfb9bc441038ac55d,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/chrome_incompatibilities,674fbb492c76a45adf433810f0f5737a0405bd9c,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/content_scripts,674fbb492c76a45adf433810f0f5737a0405bd9c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/chrome_incompatibilities,a7a29a52744438c207ab630908ce027b5d3c5de0,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/content_scripts,a7a29a52744438c207ab630908ce027b5d3c5de0,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/content_scripts/cloneinto,f99d00a1c3697e26a679925954e26564e7e79b98,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/content_scripts/exportfunction,6036cd414b2214f85901158bdf3e3a96123d4553,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/content_security_policy,f99d00a1c3697e26a679925954e26564e7e79b98,Mozilla|Firefox Add-ons
@@ -1819,7 +1819,7 @@ mozilla/add-ons/webextensions/implement_a_settings_page,673a473ab4b40c5f6787b2d3
 mozilla/add-ons/webextensions/interact_with_the_clipboard,eb2b83a4617c86cc1d59db5910806e51addcc4c6,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/intercept_http_requests,3116241f515352d336d2edb460cebfe99d43aea7,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/internationalization,65692fd4d256d5647749b7c7005dcf53d425a533,Mozilla|Firefox Add-ons
-mozilla/add-ons/webextensions/manifest.json,ef11240e109e4b39ff9e8cac248d1c7d7c842112,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json,a7a29a52744438c207ab630908ce027b5d3c5de0,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/action,f99d00a1c3697e26a679925954e26564e7e79b98,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/author,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/background,8adfa9f21be15f90b5ee73dbfb9bc441038ac55d,Mozilla|Firefox Add-ons
@@ -1843,6 +1843,7 @@ mozilla/add-ons/webextensions/manifest.json/host_permissions,674d6c8868cde1654ea
 mozilla/add-ons/webextensions/manifest.json/icons,8a74d8feac267c1ddc37a4a8bc61e9aa8db75b12,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/incognito,ea339987e78c36abcab58aee7af2dd526ba5c3af,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/manifest_version,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
+mozilla/add-ons/webextensions/manifest.json/message_serialization,a7a29a52744438c207ab630908ce027b5d3c5de0,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/name,276ba1b693cea46ed322a954ee9c58a2e880ece5,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/omnibox,09109b6f9444d22215ba330ec1e64e73980b2a6c,Mozilla|Firefox Add-ons
 mozilla/add-ons/webextensions/manifest.json/optional_host_permissions,a46ee9267e4c49ce85c780b76c0f08fc389a2553,Mozilla|Firefox Add-ons
@@ -10494,10 +10495,11 @@ web/css/guides/fonts/opentype_fonts,6f5921b2634db4bd565e5e0cd38eafdadb4bb383,CSS
 web/css/guides/fonts/variable_fonts,3c91c067a4d36b532a4bce72e5d8a2c5a9279db5,CSS|Guides
 web/css/guides/fonts/woff,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/fragmentation,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
-web/css/guides/gaps,e57c161bccdd08db7e46922255e1dc3ea74058d4,CSS|Guides
+web/css/guides/gaps,19fbab455d3289be83e951798d5da060711a7291,CSS|Guides
 web/css/guides/gaps/defining_gaps,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Guides
 web/css/guides/gaps/defining_rules,e57c161bccdd08db7e46922255e1dc3ea74058d4,CSS|Guides
 web/css/guides/gaps/overview,e57c161bccdd08db7e46922255e1dc3ea74058d4,CSS|Guides
+web/css/guides/gaps/rule_insets,19fbab455d3289be83e951798d5da060711a7291,CSS|Guides
 web/css/guides/generated_content,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/grid_layout,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Guides
 web/css/guides/grid_layout/accessibility,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
@@ -10606,7 +10608,7 @@ web/css/guides/transforms,b3cd597b58940518a7712487ce94efc0881cb549,CSS|Guides
 web/css/guides/transforms/using,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/transitions,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
 web/css/guides/transitions/using,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
-web/css/guides/values_and_units,f1e9b613e408f42cb24ceb4f7ef3fb561b8f427f,CSS|Guides
+web/css/guides/values_and_units,bbbce8b9761fb821c0688f0e40a4673b52bc3648,CSS|Guides
 web/css/guides/values_and_units/numeric_data_types,d78544a841b0e266a6efc169c044573f5e0b4e7d,CSS|Guides
 web/css/guides/values_and_units/textual_data_types,85fccefc8066bd49af4ddafc12c77f35265c7e2d,CSS|Guides
 web/css/guides/values_and_units/using_math_functions,33094d735e90b4dcae5733331b79c51fee997410,CSS|Guides
@@ -10898,16 +10900,16 @@ web/css/reference/properties/column-fill,a5531a7b1fa30ab1de952ffff619a9830eb1c1a
 web/css/reference/properties/column-gap,e57c161bccdd08db7e46922255e1dc3ea74058d4,CSS|Properties
 web/css/reference/properties/column-height,25e50f8d5b36eb86d40916f6f06051671333f3a7,CSS|Properties
 web/css/reference/properties/column-rule,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Properties
-web/css/reference/properties/column-rule-break,d3a0fd9820ca27a3f17642841af8426735cb4ec3,CSS|Properties
+web/css/reference/properties/column-rule-break,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
 web/css/reference/properties/column-rule-color,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Properties
-web/css/reference/properties/column-rule-inset-cap,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Properties
-web/css/reference/properties/column-rule-inset-cap-end,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Properties
-web/css/reference/properties/column-rule-inset-cap-start,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Properties
-web/css/reference/properties/column-rule-inset-junction,068c46001316cf268128ab7a26b33fd5705cde1b,CSS|Properties
-web/css/reference/properties/column-rule-inset-junction-end,068c46001316cf268128ab7a26b33fd5705cde1b,CSS|Properties
-web/css/reference/properties/column-rule-inset-junction-start,068c46001316cf268128ab7a26b33fd5705cde1b,CSS|Properties
+web/css/reference/properties/column-rule-inset-cap,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/column-rule-inset-cap-end,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/column-rule-inset-cap-start,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/column-rule-inset-junction,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/column-rule-inset-junction-end,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/column-rule-inset-junction-start,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
 web/css/reference/properties/column-rule-style,edc9ab5479d1253d9edd93bfe90dd1d100605c26,CSS|Properties
-web/css/reference/properties/column-rule-visibility-items,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
+web/css/reference/properties/column-rule-visibility-items,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
 web/css/reference/properties/column-rule-width,edc9ab5479d1253d9edd93bfe90dd1d100605c26,CSS|Properties
 web/css/reference/properties/column-span,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS|Properties
 web/css/reference/properties/column-width,d1cf7346516383565b51a125c064ae3d5d893526,CSS|Properties
@@ -11170,29 +11172,29 @@ web/css/reference/properties/resize,c0c85c3dc0d6ff4247c85b0144149e584d74b625,CSS
 web/css/reference/properties/right,bcbb4bd6a80292c0663b723d5466759cfaaa8315,CSS|Properties
 web/css/reference/properties/rotate,880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6,CSS|Properties
 web/css/reference/properties/row-gap,e57c161bccdd08db7e46922255e1dc3ea74058d4,CSS|Properties
-web/css/reference/properties/row-rule,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
-web/css/reference/properties/row-rule-break,d3a0fd9820ca27a3f17642841af8426735cb4ec3,CSS|Properties
+web/css/reference/properties/row-rule,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/row-rule-break,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
 web/css/reference/properties/row-rule-color,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
-web/css/reference/properties/row-rule-inset-cap,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Properties
-web/css/reference/properties/row-rule-inset-cap-end,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Properties
-web/css/reference/properties/row-rule-inset-cap-start,1a2a5b56a689b441ebf3be91b90f15746c5a5a01,CSS|Properties
-web/css/reference/properties/row-rule-inset-junction,068c46001316cf268128ab7a26b33fd5705cde1b,CSS|Properties
-web/css/reference/properties/row-rule-inset-junction-end,a8ef801e2065b729d1a227f2dbd44e46d2dd5c1b,CSS|Properties
-web/css/reference/properties/row-rule-inset-junction-start,a8ef801e2065b729d1a227f2dbd44e46d2dd5c1b,CSS|Properties
+web/css/reference/properties/row-rule-inset-cap,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/row-rule-inset-cap-end,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/row-rule-inset-cap-start,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/row-rule-inset-junction,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/row-rule-inset-junction-end,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/row-rule-inset-junction-start,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
 web/css/reference/properties/row-rule-style,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
-web/css/reference/properties/row-rule-visibility-items,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
+web/css/reference/properties/row-rule-visibility-items,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
 web/css/reference/properties/row-rule-width,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
 web/css/reference/properties/ruby-align,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/ruby-overhang,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/ruby-position,071fd0613b1b5728d2d83845ea11512cb615067a,CSS|Properties
 web/css/reference/properties/rule,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
-web/css/reference/properties/rule-break,d3a0fd9820ca27a3f17642841af8426735cb4ec3,CSS|Properties
+web/css/reference/properties/rule-break,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
 web/css/reference/properties/rule-color,04dfe418f2942ae739d41592c22fafa3679fc03c,CSS|Properties
-web/css/reference/properties/rule-inset-cap,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
-web/css/reference/properties/rule-inset-junction,068c46001316cf268128ab7a26b33fd5705cde1b,CSS|Properties
+web/css/reference/properties/rule-inset-cap,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
+web/css/reference/properties/rule-inset-junction,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
 web/css/reference/properties/rule-overlap,0cc2d00775016fc61ae0ac1256d65ed1b56a193a,CSS|Properties
 web/css/reference/properties/rule-style,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
-web/css/reference/properties/rule-visibility-items,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Properties
+web/css/reference/properties/rule-visibility-items,19fbab455d3289be83e951798d5da060711a7291,CSS|Properties
 web/css/reference/properties/rule-width,5fd3b03e9ad1ee4e8bc64d4f6888570690a7fbc8,CSS|Properties
 web/css/reference/properties/rx,b94f607de0017642074f3466e20cbd9017a1b150,CSS|Properties
 web/css/reference/properties/ry,b94f607de0017642074f3466e20cbd9017a1b150,CSS|Properties
@@ -11636,7 +11638,8 @@ web/css/reference/values/position-area_value,c9f812354ae36bbafc6f6d9b0961f3b25f3
 web/css/reference/values/position_value,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/pow,b760560abe30bd69ca968dac38528102f423b5ea,CSS|Values
 web/css/reference/values/progress,7484d45816002fbf082a59c5d95c38a1eb2b2e4b,CSS|Values
-web/css/reference/values/random,bbab8819f2226fc65cd5f38112856e0dc8010471,CSS|Values
+web/css/reference/values/random,bbbce8b9761fb821c0688f0e40a4673b52bc3648,CSS|Values
+web/css/reference/values/random-key,bbbce8b9761fb821c0688f0e40a4673b52bc3648,CSS|Values
 web/css/reference/values/ratio,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
 web/css/reference/values/ray,7cabe7010a0ccfcf587ddac1571963eba102090d,CSS|Values
 web/css/reference/values/relative-size,c88e03530319b73272fd4f9a9f6ebe878f026004,CSS|Values
