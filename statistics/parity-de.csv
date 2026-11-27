@@ -5048,7 +5048,7 @@ web/api/htmlimageelement/border,0
 web/api/htmlimageelement/complete,0
 web/api/htmlimageelement/crossorigin,0
 web/api/htmlimageelement/currentsrc,0
-web/api/htmlimageelement/decode,1
+web/api/htmlimageelement/decode,0
 web/api/htmlimageelement/decoding,0
 web/api/htmlimageelement/fetchpriority,0
 web/api/htmlimageelement/height,0
@@ -7066,7 +7066,7 @@ web/api/pushevent,0
 web/api/pushevent/data,0
 web/api/pushevent/pushevent,0
 web/api/pushmanager,0
-web/api/pushmanager/getsubscription,1
+web/api/pushmanager/getsubscription,0
 web/api/pushmanager/haspermission,0
 web/api/pushmanager/permissionstate,0
 web/api/pushmanager/register,0
@@ -7080,7 +7080,7 @@ web/api/pushmessagedata/blob,0
 web/api/pushmessagedata/bytes,0
 web/api/pushmessagedata/json,0
 web/api/pushmessagedata/text,0
-web/api/pushsubscription,1
+web/api/pushsubscription,0
 web/api/pushsubscription/endpoint,0
 web/api/pushsubscription/expirationtime,0
 web/api/pushsubscription/getkey,0
@@ -7903,7 +7903,7 @@ web/api/serviceworkerregistration/installing,0
 web/api/serviceworkerregistration/navigationpreload,0
 web/api/serviceworkerregistration/paymentmanager,0
 web/api/serviceworkerregistration/periodicsync,0
-web/api/serviceworkerregistration/pushmanager,1
+web/api/serviceworkerregistration/pushmanager,0
 web/api/serviceworkerregistration/scope,0
 web/api/serviceworkerregistration/shownotification,0
 web/api/serviceworkerregistration/sync,0
@@ -12121,6 +12121,8 @@ web/http/reference/headers/permissions-policy/browsing-topics,0
 web/http/reference/headers/permissions-policy/camera,0
 web/http/reference/headers/permissions-policy/captured-surface-control,0
 web/http/reference/headers/permissions-policy/ch-ua-high-entropy-values,0
+web/http/reference/headers/permissions-policy/clipboard-read,0
+web/http/reference/headers/permissions-policy/clipboard-write,0
 web/http/reference/headers/permissions-policy/compute-pressure,0
 web/http/reference/headers/permissions-policy/cross-origin-isolated,0
 web/http/reference/headers/permissions-policy/deferred-fetch,0

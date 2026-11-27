@@ -12121,6 +12121,8 @@ web/http/reference/headers/permissions-policy/browsing-topics,null
 web/http/reference/headers/permissions-policy/camera,null
 web/http/reference/headers/permissions-policy/captured-surface-control,null
 web/http/reference/headers/permissions-policy/ch-ua-high-entropy-values,null
+web/http/reference/headers/permissions-policy/clipboard-read,null
+web/http/reference/headers/permissions-policy/clipboard-write,null
 web/http/reference/headers/permissions-policy/compute-pressure,null
 web/http/reference/headers/permissions-policy/cross-origin-isolated,null
 web/http/reference/headers/permissions-policy/deferred-fetch,null
