@@ -2902,9 +2902,9 @@ web/api/clients/matchall,null
 web/api/clients/openwindow,null
 web/api/clipboard,4
 web/api/clipboard/clipboardchange_event,null
-web/api/clipboard/read,4
+web/api/clipboard/read,5
 web/api/clipboard/readtext,1
-web/api/clipboard/write,3
+web/api/clipboard/write,4
 web/api/clipboard/writetext,1
 web/api/clipboard_api,null
 web/api/clipboardchangeevent,null
@@ -12109,7 +12109,7 @@ web/http/reference/headers/no-vary-search,null
 web/http/reference/headers/observe-browsing-topics,null
 web/http/reference/headers/origin,null
 web/http/reference/headers/origin-agent-cluster,null
-web/http/reference/headers/permissions-policy,4
+web/http/reference/headers/permissions-policy,5
 web/http/reference/headers/permissions-policy-report-only,null
 web/http/reference/headers/permissions-policy/accelerometer,3
 web/http/reference/headers/permissions-policy/ambient-light-sensor,3
@@ -12121,6 +12121,8 @@ web/http/reference/headers/permissions-policy/browsing-topics,null
 web/http/reference/headers/permissions-policy/camera,null
 web/http/reference/headers/permissions-policy/captured-surface-control,null
 web/http/reference/headers/permissions-policy/ch-ua-high-entropy-values,null
+web/http/reference/headers/permissions-policy/clipboard-read,null
+web/http/reference/headers/permissions-policy/clipboard-write,null
 web/http/reference/headers/permissions-policy/compute-pressure,null
 web/http/reference/headers/permissions-policy/cross-origin-isolated,null
 web/http/reference/headers/permissions-policy/deferred-fetch,0

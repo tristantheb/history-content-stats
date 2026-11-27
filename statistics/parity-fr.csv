@@ -12109,7 +12109,7 @@ web/http/reference/headers/no-vary-search,0
 web/http/reference/headers/observe-browsing-topics,0
 web/http/reference/headers/origin,0
 web/http/reference/headers/origin-agent-cluster,1
-web/http/reference/headers/permissions-policy,1
+web/http/reference/headers/permissions-policy,2
 web/http/reference/headers/permissions-policy-report-only,0
 web/http/reference/headers/permissions-policy/accelerometer,0
 web/http/reference/headers/permissions-policy/ambient-light-sensor,0
@@ -12121,6 +12121,8 @@ web/http/reference/headers/permissions-policy/browsing-topics,0
 web/http/reference/headers/permissions-policy/camera,0
 web/http/reference/headers/permissions-policy/captured-surface-control,0
 web/http/reference/headers/permissions-policy/ch-ua-high-entropy-values,0
+web/http/reference/headers/permissions-policy/clipboard-read,null
+web/http/reference/headers/permissions-policy/clipboard-write,null
 web/http/reference/headers/permissions-policy/compute-pressure,0
 web/http/reference/headers/permissions-policy/cross-origin-isolated,0
 web/http/reference/headers/permissions-policy/deferred-fetch,0
