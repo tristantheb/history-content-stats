@@ -705,10 +705,10 @@ learn_web_development/core/accessibility/css_and_javascript,0
 learn_web_development/core/accessibility/html,null
 learn_web_development/core/accessibility/mobile,null
 learn_web_development/core/accessibility/multimedia,null
-learn_web_development/core/accessibility/test_your_skills,null
-learn_web_development/core/accessibility/test_your_skills/css_and_javascript,null
-learn_web_development/core/accessibility/test_your_skills/html,null
-learn_web_development/core/accessibility/test_your_skills/wai-aria,null
+learn_web_development/core/accessibility/test_your_skills,0
+learn_web_development/core/accessibility/test_your_skills/css_and_javascript,0
+learn_web_development/core/accessibility/test_your_skills/html,0
+learn_web_development/core/accessibility/test_your_skills/wai-aria,0
 learn_web_development/core/accessibility/tooling,3
 learn_web_development/core/accessibility/wai-aria_basics,24
 learn_web_development/core/accessibility/what_is_accessibility,null
@@ -13878,7 +13878,7 @@ web/security/attacks/subdomain_takeover,0
 web/security/attacks/supply_chain_attacks,0
 web/security/attacks/xs-leaks,0
 web/security/attacks/xss,0
-web/security/authentication,null
+web/security/authentication,0
 web/security/authentication/federated_identity,null
 web/security/authentication/otp,null
 web/security/authentication/passkeys,null
